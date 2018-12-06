@@ -1,0 +1,737 @@
+february gmt 
+global technology 
+putting some dimensions 
+around sensing opportunity 
+morgan stanley llc 
+meta marshall 
+equity analyst 
+meta marshall morganstanley 
+james faucette 
+equity analyst 
+james faucette morganstanley 
+morgan stanley taiwan limited 
+charlie chan 
+with mobile sensing opportunities appearing more certain 
+and bigger than expected look size initial profit 
+potential identify potential supply chain and give context for 
+what early applications could 
+sensing coming handset near you this fall looking likelier valuations 
+across companies with sensing exposure have risen significantly the past 
+few weeks following commentary from ceo alan lowe lumentum 
+earnings call mentioning could imagine quarters million growing 
+over billion related sensing this combined with commentary from 
+other vendors the optical supply chain around revenue potential and 
+large customer prepayment viavi the previous quarter have 
+increased confidence that sensing will feature least one flagship 
+device this fall with more come either this year the future 
+profitability opportunity likely larger than originally estimated least 
+initially december sized the market size the sensing opportunity 
+high end smartphones for viavi and lumentum annually using 
+combined asp split value between lite viav based the 
+channel checks our china hardware team published last week where the entire 
+sensing system could have asp higher once camera included 
+think our original estimate appropriate our does not include the image 
+sensor while feel like had tam sized correctly were likely more 
+conservative with profitability given lite component should carry more semi like 
+margins and viav has given more updated commentary have expanded our 
+assumptions around profitability and asps within this note estimating that 
+sensing could have eps impact lite annually and impact 
+viav see exhibits within this report for eps sensitivity around 
+asp margin share 
+those with previous experience should leadership position but not 
+without challengers the most popular volume application sensing 
+technology date has been the microsoft kinect for the xbox jdsu provided 
+the light source and filter for microsoft leaving the split jdsu viavi lumentum 
+position proven technology providers believe viavi has more 
+around their filter and expected able maintain share applications 
+generations technology evolve given the number laser competitors talking 
+about investments sensing and fab capacity think that share 
+opportunity will tend eventually split over number vendors fnsr iivi 
+have both been vocal matter what early share allocations are 
+use cases give rise lots additional possibilities but still early days 
+equity analyst 
+charlie chan morganstanley 
+sharon shih 
+equity analyst 
+sharon shih morganstanley 
+morgan stanley international plc seoul 
+branch 
+shawn kim 
+equity analyst 
+shawn kim morganstanley 
+morgan stanley international plc 
+francois meunier 
+equity analyst 
+francois meunier morganstanley 
+morgan stanley llc 
+yuuji anderson 
+research associate 
+yuuji anderson morganstanley 
+morgan stanley taiwan limited 
+daniel yen 
+research associate 
+daniel yen morganstanley 
+communications systems and applications 
+north america 
+industryview 
+cautious 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+sensing can used for number applications whether gaming security 
+environment recognition creating accurate digital image the surrounding 
+environment easy see how this technology could critical for 
+applications like automated cars and security lenovo phab pro was the first 
+smartphone include google augmented reality technology tango 
+highlighting different apps using the technology combined with sensing for 
+gaming and shopping purposes wayfair app showing how furniture will look 
+customer place before buying think still early days value significant 
+applications beyond mobile but acknowledge that the list potential 
+applications long 
+what will watching for order ascertain how large the 
+opportunity could for mobile and future applications will watching for 
+will initial use cases for technology enough keep customers engaged 
+will technology translate better larger screen devices will 
+technologies processor intensive that they will have trouble translating 
+lower end phones how fast can additional applications auto security 
+developed are the third year handset vendors trying incorporate 
+the technology how competitive will component markets particularly the 
+vcsel market and how will effect subsequent profit opportunities will 
+looking examining these questions more detail the coming months 
+analysis 
+what will sensing used for mobile phones there are variety potential use 
+cases for sensing ams stated they include augmented reality and virtual reality 
+gesture face recognition biometrics improved and video images body measurement 
+well autonomous driving while not known exactly what upcoming 
+smartphone releases will use sensing for lenovo tango phone utilized sensing 
+for augmented reality purposes gaming digital modeling purposes additionally 
+given that sensing can used for facial recognition the technology could also 
+used for security purposes though would note that facial scan would likely take 
+longer than fingerprint read slowing the unlocking process the phone would 
+also note that apple recent purchase realface casts doubt whether facial 
+recognition capability would available releases this year the below exhibit shows 
+the basics how sensing technology worked the microsoft kinect 
+exhibit how sensing technology works 
+source primesense 
+exhibit light source and controlling optics diagram 
+source lumentum 
+how does sensing work laid out our asia team and 
+expanded upon here sensor collects and transmits data 
+reflected light for processing external asic dsp chip then 
+takes the data process and compute exhibit includes 
+more detailed supply chain breakdown 
+light source the light source could leds laser diodes 
+vcsel typically generating infrared light due the 
+inherent precision and efficiency required laser diodes are 
+generally preferred particularly for high volume consumer 
+electronic applications usually the lasers operate very low 
+failure rates with minimal degradation over time major suppliers include 
+lumentum holdings covered meta marshall incorporated finisar 
+corp the and lesser extent epistar corp covered sharon shih 
+and hlj technology taiwan 
+controlling optics the optical lenses help illuminate the environment and refocus 
+the reflected light onto the detector surface the most optimal way while the 
+filter removes unnecessary ambient stray light that would otherwise degrade 
+performance usually combined with noise reducing algorithm this can 
+significantly reduce processing load the firmware major optics filter suppliers 
+viavi solutions covered meta marshall incorporated himax 
+technology covered charlie chan 
+image sensor typically cmos ccd detects and receives the reflected filtered 
+light and turns into electrical signal for processing the firmware features 
+with dimensional perception the surroundings real time major sensor 
+suppliers ams stm covered francois meunier 
+firmware the firmware typically high speed chip that processes the received 
+data and turns into format understandable the intended end application 
+the firmware and algorithm software needed process the sensing data 
+usually highly proprietary 
+sizing early potential for sensing mobile applications there are approximately 
+high end smartphones sold annually around these phones are 
+apple iphones initially believe that sensing features will limited high end 
+smartphones very processor intensive application the lenovo phab pro ran 
+specially designed qualcomm snapdragon with reviewers noting the tango 
+technology could slow even with that good processor and ran very warm after 
+minutes use for the entire module with that going the 
+laser filter that opportunity for lite viav estimate 
+that value goes the laser vendor with going the filter vendor 
+exhibit high end smartphones sold globally annually 
+shipments mln 
+asp 
+total 
+ytd through 
+source morgan stanley research 
+mentioned december assumed total opportunity asp 
+phones but assumed rather conservative operating profit contributions 
+base case for lite for viav given the laser component will likely vscel 
+vertical cavity surface emitting laser which semiconductor based laser diode lite 
+laser contribution could carry better operating margins that previously estimated 
+the below exhibits show range from while initially estimated viav 
+operating profit potential have expanded this range the company 
+noting that will margin dilutive osp segment margins the below 
+exhibits show the range asp contributions lite and viav assuming various asp 
+share operating margin contributions phones have sensing annually 
+for lite for viav 
+asp 
+exhibit lite eps contribution from sensing given various 
+share margin contributions based phones asp 
+margin 
+margin 
+exhibit lite eps contribution from sensing given various asp 
+margin contributions based phones share 
+share 
+exhibit viav eps contribution from sensing given various asp 
+margin contributions based phones share 
+exhibit viav eps contribution from sensing given various 
+share margin contributions based phones asp 
+source morgan stanley research estimates 
+asp 
+margin 
+source morgan stanley research estimates 
+margin 
+source morgan stanley research estimates 
+share 
+source morgan stanley research estimates 
+believe recent run potentially impacted names builds initial smartphone 
+opportunity shown below are the accretion stock prices since the beginning the 
+year while names like viavi had begun accrue value starting last year around this 
+opportunity the steepest moves have been made post the most recent earnings period 
+just looking the recent run these names these names had accrued 
+market cap around sensing enthusiasm this about equal the opportunity 
+around sensing high end smartphone applications with some very generous 
+profitability assumptions see exhibit below this also foots lite comments that 
+they could imagine quarters revenue given the annual 
+opportunity think there are for vcsel high end smartphones 
+maintain belief that viavi has better position around its filter and therefore 
+better position maintain share margins future generations phones think the 
+vcsel market more competitive lite iivi fnsr all having similar capabilities making 
+outsized share profitability more difficult maintain future generations 
+opportunities beyond smartphones not appear built yet however given the 
+amount unknowns and the generous profitability assumptions being used for the 
+mobile opportunity think some inherent opportunity already embedded 
+exhibit recent value added component names mostly from 
+sensing commentary 
+lite 
+fnsr 
+iivi 
+viav 
+ams 
+share price 
+shares mms 
+total 
+market cap 
+added 
+exhibit backing into what the market building 
+vcsel rev est filter rev est 
+phones mms 
+revenue mms 
+margin 
+earnings 
+multiple 
+added mms 
+source morgan stanley thomson reuters 
+source morgan stanley research estimates vcsel lite fnsr iivi filter viav assumes 
+tax rate for lasers for filters 
+what questions have before getting more positive reflecting future 
+opportunities while acknowledge that sensing could large opportunity 
+with variety use cases would like know the following before turning more 
+positive 
+will all high end phones have this technology just larger screen devices where 
+gaming applications would more interactive this technology just large 
+screen devices initially could represent downside what expectations today 
+will smartphones outside the high end have the processing power accommodate 
+this technology meaningful expansion opportunity can all phones but 
+early lenovo tango phone use case gives confidence that technology will 
+limited high end phones near term 
+will use cases compelling enough keep customers engaged many use 
+cases outside pokemon have had limited traction date given the 
+technology has been slow glitchy this were continue may slow 
+widespread adoption 
+how fast will other applications developed was noted that handset vendors 
+have been working sensing opportunities for upwards years and 
+finally turning real opportunity they expected similar timelines for alternative 
+applications many which are only year into development could leave 
+window between handset and more general adoption 
+how competitive will vcsel market following the commentary from finisar 
+their last earnings call the vcsel can more interchangable than typical 
+semiconductor technologies result think that margins while good will 
+settle more competitors get capacity just with smartphones changes 
+shares margin could make difference eps potential for lumentum alone 
+will viavi able hold dominant share viavi has touted their advantage the 
+filter marketplace many times given will largely determine whether the eps 
+opportunity initiatially would like see more around ability 
+protect positioning before turning more positive 
+impact lite viav please see accompanying price target change notes for lite and 
+viav for more detail are raising the lite from and viav 
+from remain lite and viav are increasing the eps contribution 
+attributable the upcoming mobile opportunity for lite and for 
+viav explained the accompanying notes while first run opportunities could 
+larger for mobile opportunities think these eps contributions represent reasonable 
+medium term expectations 
+impact himax himax expect their business doe diffractive optical elements 
+which made from wlo wafer level optics technology will ramp early 
+the company didn confirm whether related apple iphone this year despite 
+preparing new capacity for the potential demand don think wlo unique 
+technology because cmos image sensor vendors for example omnivision has 
+developed its cameracubechip which applies semiconductor stacking methodology 
+fabricate wafer level optical elements layers wafer structure some cmos 
+wafer foundries such tsmc also possesses wafer level optics know how there 
+are dedicated optical solution venders such heptagon and anteryon who provide 
+wafer level optics some value adds from wlo could come from the equipments 
+and don hear any shortage wlo equipment 
+therefore think there should certain level competition himax doe 
+business even the potential market size will large coming years our view that 
+the doe should the key wild card for himax revenue and and are 
+assuming shipment units and units respectively based asp 
+however given the likely margin pressure and opex increase maintain our 
+eps estimates similar and keep our rating 
+impact innotek believe that sensing features will limited the iphone 
+oled this year for the company more expensive processor intensive 
+application lgi the main assembler modules with implied share based 
+what management expects achieve assuming our estimate for the entire 
+module including camera forecast revenue opportunity for 
+lgi this year and estimate that sensing could have impact lgi 
+the upside could faster eventual deployment all iphone models and other 
+android high end smartphones given the company only involved the assembly 
+the module operating margin could the range mid high single digits 
+impact other related supply chain asia vcsel cmos sensor designs are 
+dominated europe leading players but expect manufacturing work could 
+potentially allocated asia once the adoption increases for production efficiency and 
+cost benefits the related supply chain includes win semi and truelight for chip 
+processing elaser for testing tong hsing for cmos sensor wafer restructuring and 
+chroma for related testing equipment any near term contribution not likely 
+meaningful but believe could long term business driver assuming sensing 
+adoption expands from smartphones automotive iot etc believe tong hsing will 
+one the beneficiaries this year and epistar with vcsel exposure could benefit 
+the long run 
+exhibit sensor supply chain 
+light source vcsel 
+lumentum 
+finisar 
+epistar 
+hlj 
+princeton optronics 
+iqe 
+controlling optics 
+filter 
+viavi 
+diffractive optics element 
+himax 
+lite 
+iivi 
+fnsr 
+two 
+private 
+iqe 
+viav 
+iivi 
+himx 
+image sensor 
+ams heptagon 
+tong hsing 
+stmicroelectronics 
+melexis 
+sony 
+ams 
+stm 
+mlxs 
+module with camera 
+innotek 
+sharp 
+stmicroelectronics 
+stm 
+other 
+testing equipment 
+chroma ate 
+chip processing packaging testing 
+win semi 
+truelight 
+ams heptagon 
+elaser 
+two 
+two 
+ams 
+wafer level lens 
+ams heptagon 
+ams 
+iris scan 
+osram 
+epistar 
+osrn 
+source morgan stanley research 
+recap latest commentary from companies 
+exhibit commentary recap 
+event 
+company 
+date 
+lite 
+fnsr 
+earnings 
+earnings 
+commentary 
+leaders next generation consumer electronics virtual and augmented reality well the automobile industry are looking laser based sensing enhance capabilities and 
+enable new applications 
+while not significant second quarter revenue our third quarter guidance shipped our first revenue into what believe high volume mobile device application 
+sensing related 
+far longer term sensing been talking about mobile devices for probably three years and are looking forward that actually turning into revenue think 
+kind that same range automobiles taking that kind time been working with automobile manufacturers for the better part year now and probably couple years out 
+before anything meaningful contributes our revenue onthat application 
+would say that the market multiple times bigger than the kinect business and could imagine quarters million plus type marketplace growing over billion would 
+expect get into multiple mobile devices and multiple customers with mobile devices 
+would say that lumentum competitive advantage that have been the consumer electronics space shipping sensing products for the last eight years have figured out 
+how make sure design product and test accordingly make sure don have any defective parts would say that are the only one the world that has track record 
+understanding sensing and the reliability requirements associated with that the other side there enough demand for more than one supplier per application and would 
+say fact there probably need for more than one supplier per application just because the sheer volume these devices and not disappointed that competing 
+well possible some these sensing projects could turn into revenue and particularly the second half but think there lot uncertainty that goes with any 
+them terms consumer products and which ones they will introduce and what features and whatnot anyway think the numbers are incredibly exciting but think and 
+think good enough bet that are spending lot money facility expansion spending money hire people are ramping production our production capability and 
+think that there are number places where this sensing going exciting consumer application 
+margins related sensing think there are likely some that are going above the company average think possible there may some that are slightly below 
+don know what the average margin for that product line going just tell you that think going accretive very nicely profitable and potentially there lot 
+leverage because comes from fixed cost facility big fab 
+sensing something that been working for years have had number smaller customers and really hasn moved the needle much terms revenue but over 
+the last year maybe months discussions number consumer based industries have really heated and result think that there likely significant revenue and 
+upside for next calendar year for sure 
+question whether sensing could achieve gross margins think there are some applications that are like that but the consumer industry such that volumes are high the 
+negotiations are tough and expectations are that and many these cases the oems are trying make sure that they have specifications that are interchangeable between 
+suppliers that that many cases the packages are the same the outputs are the same the configurations are the same you can have multiple sources for drop product and 
+that little different than lot the industry where you and try spec your chip into slot design but once you have won that design win then very difficult get you 
+out and almost nobody else the industry has exactly the same pin out that you requires design change replace you even bring second source you have have 
+second board design anyway think that most these consumer companies are trying make sure that they have designed from the beginning that they have multiple suppliers and 
+interchangeable suppliers think there reason believe that the sky high margins the industry might not possible these consumer applications but think the margins 
+will quite good and think the business will quite profitable 
+finally are adding capacity over the next couple quarters our vcsel laser fab allen texas this will enable pursue several new consumer applications for sensing 
+source company transcripts 
+exhibit commentary recap 
+event 
+company 
+date 
+iivi 
+viav 
+ams 
+earnings 
+earnings 
+earnings 
+commentary 
+timing shipments let just talk about timing timing for the beginning shipments the second half calendar least that what understand kind all 
+indicators now and have worked with lot customers the potential that sensing potentially has whole wide variety applications and consequently because also 
+don control the launch dates are not really speculating what think the initial applications will 
+most the vcsels that sell sell bare die and would say that our advantages include world class design team ability understand and translate customer requirements 
+quickly into set products and form factors that are required them and then able scale and ramp the volumes meet their requirements 
+believe that there considerable interest and commitment add functionalities that require semiconductor lasers and the plan that running hard anticipates beginning 
+realize the opportunity the back half the calendar year are really excited about the opportunity that lies before can continue invest equipment facilities new 
+employees and the development the technology your point earlier just come back straight yes are adding considerable amount capital equipment both enable 
+have the targeted capacity that can fully utilize the other assets that have 
+obviously mentioned earlier into high volume production for the type filters takes capital investment the reactors and some the back end the line processing 
+not going and spend money like drunken sailors and build factory hoping they will come have very strong intellectual property differentiation and industry 
+have believe the best technology the market and our customers recognize and more partnership with our customers saying hey will ahead and implement 
+capacity and will deploy for you 
+regaring timing said have been this business particular with the ramps the mobile devices for quite bit previous jobs and there always flippage schedules 
+prudent did not really hype communicate that this point but think are getting closer the point where the production ramp will start materialize and would just 
+say that second half this calendar year where looking and will depend the customer readiness other vendors whether comes sooner later the second 
+half said get closer the beginning our june quarter will communicating more color these opportunities they get closer into our gunsight 
+sensing major new market for high value sensing where see ams unique position play significant role going forward sensing umbrella term which consists 
+broad range applications visible today this includes augmented reality and virtual reality gesture face recognition biometrics improved and video images body measurement 
+well autonomous driving also firmly believe that the availability consumer devices will breed new applications and apps similar what happened accelerometers and 
+gyro the non consumer area expect follow the second step particularly industrial iot and automotive applications 
+there are three key technologies for sensing first structured light second time flight and third stereoscopic cameras structured light incorporates the infrared illumination 
+object gain information here the accuracy the illumination key the quality sensing time flight comprises two key approaches the called spad technology based 
+avalanche diodes the itof based phase difference sensing for both dedicated illumination again high importance achieve sensing performance stereoscopic cameras 
+also need specific illumination the object for high quality sensing results looking ams now see ourselves broadly involved across all these sensing technologies which are 
+beginning shape into existing applications 
+you remember said will have significant revenue growth the second half this year now being three months further ahead can more precise and that why 
+can confirm that strongly believe the full earn out will achievable 
+profitability think little bit early make that call but said you look our business that performed with about roughly ebit margin adjusted and said 
+going accretive you can expect substantial contribution the second half this year 
+source company transcripts 
+exhibit commentary recap 
+company 
+event 
+himax 
+earnings 
+date 
+commentary 
+let try differentiate wlo against depth then wlo has many applications mentioned obviously sensing one them but other 
+types machine vision and obviously guide application for our for devices being also among the major applications one should not 
+necessarily connect wlo directly with and only with depth sensing 
+offer total solution working just mentioned the previous working with semiconductor soc platform player where basically 
+provide total solution covering the projector side use our wlo technology make the optics most specifically how call our diffractive 
+optical element doe that the optics then from third parties and have and they require extremely high level precision line the 
+optics and together also have development partners for that that also unique technology for that together the laser with 
+alignment the optics that forms the projector with the protector you basically project and invisible image the surroundings the image the 
+object gets bounced back then you have the sensor the side receive 
+have outstanding performance the sensor well where believe are the number one the world speak with optical 
+performance good twice our competitors you have the protector and you have the receiver then now you need the algorithm 
+calculation figure out the best the best map your surroundings are working with our partner also developed chip for the 
+algorithm you put the protector and the sensor sensor and the algorithm you put them together and then you have total solution such 
+depth sensing 
+everything goes planned will see revenue and bottom line contributions from the new wlo investment starting the second half 
+source transcript from thomson reuters 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan 
+stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley includes morgan 
+stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and their affiliates 
+necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report charlie 
+chan james faucette shawn kim meta marshall francois meunier sharon shih daniel yen 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+january morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research brocade communications systems corning inc himax technology inc qualcomm inc viavi solutions inc 
+within the last months morgan stanley managed managed public offering offering securities acacia communications inc cisco 
+systems inc commscope holding company inc 
+within the last months morgan stanley has received compensation for investment banking services from acacia communications inc ciena corporation 
+cisco systems inc commscope holding company inc corning inc lumentum holdings inc viavi solutions inc zebra technologies corporation 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from networks inc acacia 
+communications inc arista networks blackberry ltd brocade communications systems ciena corporation cisco systems inc commscope holding 
+company inc corning inc networks inc himax technology inc infinera corp juniper networks inc mobileiron qualcomm inc ringcentral inc trimble 
+inc viavi solutions inc zebra technologies corporation 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from arris 
+international plc brocade communications systems cisco systems inc commscope holding company inc corning inc juniper networks inc viavi 
+solutions inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company networks inc acacia communications inc arista networks blackberry ltd brocade communications systems ciena 
+corporation cisco systems inc commscope holding company inc corning inc networks inc himax technology inc infinera corp juniper networks 
+inc mobileiron qualcomm inc ringcentral inc trimble inc viavi solutions inc zebra technologies corporation 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company arris international plc blackberry ltd brocade 
+communications systems ciena corporation cisco systems inc commscope holding company inc corning inc networks inc infinera corp juniper 
+networks inc qualcomm inc viavi solutions inc zebra technologies corporation 
+morgan stanley llc makes market the securities networks inc arista networks arris international plc blackberry ltd brocade 
+communications systems ciena corporation cisco systems inc commscope holding company inc corning inc networks inc himax technology inc 
+infinera corp juniper networks inc lumentum holdings inc qualcomm inc ringcentral inc trimble inc ubiquiti networks inc viavi solutions inc zebra 
+technologies corporation 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+january 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+stock price price target and rating history see rating definitions 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities brocade communications systems 
+ciena corporation cisco systems inc corning inc juniper networks inc qualcomm inc zebra technologies corporation 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers hong 
+kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities hong 
+kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage communications systems and applications 
+company ticker 
+rating 
+price 
+james faucette 
+networks inc aten 
+arista networks anet 
+blackberry ltd bbry 
+brocade communications systems brcd 
+cisco systems inc csco 
+corning inc glw 
+networks inc ffiv 
+juniper networks inc jnpr 
+mobileiron mobl 
+qualcomm inc qcom 
+trimble inc trmb 
+zebra technologies corporation zbra 
+meta marshall 
+acacia communications inc acia 
+aerohive networks inc hive 
+arris international plc arrs 
+calix inc calx 
+ciena corporation cien 
+commscope holding company inc comm 
+infinera corp infn 
+lumentum holdings inc lite 
+ringcentral inc rng 
+ubiquiti networks inc ubnt 
+viavi solutions inc viav 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

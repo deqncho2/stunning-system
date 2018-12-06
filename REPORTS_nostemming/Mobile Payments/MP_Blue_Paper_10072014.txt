@@ -1,0 +1,1810 @@
+morgan stanley research 
+global 
+morgan stanley llc 
+smittipon srethapramote 
+smittipon srethapramote morganstanley 
+katy huberty cfa 
+betsy graseck 
+simon flannery 
+craig hettenbach 
+october 
+vasundhara govil 
+mobile payments 
+revisit 
+blue paper revisit apple 
+pay focus 
+jerry liu 
+morgan stanley 
+international plc 
+andrew humphrey 
+morgan stanley 
+international plc seoul branch 
+sam min 
+andrew humphrey morganstanley 
+our mobile payments blue paper the coming 
+battle for the wallet january focused 
+core scenarios that viewed most likely 
+since then think the market has gravitated 
+toward hardware based solution scenario over 
+cloud based one scenario continue 
+think that developing mobile wallet offerings 
+present major threat visa mastercard and 
+the existing payment infrastructure and still 
+expect apple payment platform advance 
+standardization mobile payments infrastructure 
+apple pay compatible with existing payment 
+infrastructure introduced recently the 
+apple pay allows iphone owners make payments 
+with bank cards from existing issuers over visa and 
+mastercard rails and using tokenization services from 
+the card networks protect user data payments can 
+made using increasingly nfc pos architecture 
+which being rolled out part emv deployment 
+far there has been major disruption 
+but apple pay highly disruptive other 
+players payments most other players looking 
+launch mobile wallets have either struggled with 
+making the package sufficiently cost effective attractive 
+for merchants paypal square google wallet 
+sufficiently intuitive and convenient for the consumer 
+isis softcard other telco wallets think apple may 
+have solved both problems one application 
+playing field row still open several differences 
+other markets lead conclude that there still 
+plenty play for payments outside the google 
+host card emulation hce presents alternative 
+ecosystem that could equally attractive merchants 
+and potentially less expensive issuers apple also 
+has lower share outside the the next few months 
+should also see further telco wallet launches europe 
+where the playing field more open and where 
+standardization around nfc may prove supportive that 
+said continue view the chances success for 
+telco wallets relatively slim 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor 
+making their investment decision 
+for analyst certification and other important 
+disclosures refer the disclosure section 
+located the end this report 
+analysts employed non affiliates are not registered with finra may not associated 
+persons the member and may not subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held research analyst account 
+morgan stanley research 
+october 
+mobile payments 
+updating our scenario analysis 
+market headed for consolidation 
+hardware based technologies 
+think the market gravitating toward scenario 
+hardware based technologies this year has seen several 
+developments mobile payments authentication more 
+attention host card emulation hce the launch apple 
+pay and networks introduction tokenization services 
+renewed focus security following high profile data 
+breaches primarily the and the incorporation 
+secure element into iphone lead think that mobile 
+payments authentication likely hardware based 
+our blue paper january outlined two 
+core scenarios for the development mobile payments 
+scenario hardware dominates hardware based 
+solutions become the standard for mobile wallets chip card 
+emv based authentication becomes the global standard for 
+authenticating transactions store whether via payment 
+card mobile handset with secure element nfc 
+becomes global standard for mobile payment existing 
+payment networks and issuers consolidate the market 
+through scale economies and loyalty schemes rebates 
+advantaged and disadvantaged players the evolving landscape 
+the future nfc 
+can apple pay help accelerate adoption mobile payments 
+what about android mobile payments for the other 
+expected impact banks 
+does apple pay represent the end for the tsm model 
+will apple pay follow similar architecture for international rollout 
+will apple wrap loyalty offerings into its wallet 
+status mno led wallet ventures 
+update mobile wallet activity south korea 
+glossary 
+scenario cloud dominates mobile wallets standardize 
+around few cloud based providers cloud based 
+authentication dominates offline mobile payments and few 
+digital wallet providers drive consumer and merchant 
+adoption tokenization enables card present interchange 
+fees for digital wallets removing hurdle for merchants 
+also examined two scenarios viewed less likely 
+exhibit 
+advantaged and challenged players our four scenarios 
+consolidated 
+adoption 
+advantaged 
+card networks issuers 
+merchants 
+challenged 
+wallet players telcos 
+scenario 
+hardware based 
+technologies prevail with 
+mass adoption few 
+dominant digital wallet 
+solutions 
+hardwarebased 
+advantaged 
+telcos tsms trusted 
+service managers vendors 
+challenged 
+merchants 
+advantaged 
+scenario 
+cloud based technologies 
+prevail with concentration 
+among few dominant 
+digital wallet solutions 
+consumers choose from 
+wide variety 
+competing hardwarebased digital wallet 
+solutions 
+challenged 
+hardware and telcos 
+cloud based 
+technology 
+scenario 
+digital innovators and data 
+analytics companies 
+scenario 
+consumers choose from 
+wide variety 
+competing cloud based 
+apps digital wallet 
+solutions 
+advantaged 
+networks issuers 
+challenged 
+hardware pos vendors 
+telcos 
+fragmented 
+adoption 
+source morgan stanley research 
+morgan stanley research 
+october 
+mobile payments 
+scenario analysis summary 
+scenario looking increasingly likely but continue use the following scenario analysis gauge 
+opportunities and risks for mobile payment providers 
+scenarios 
+assumptions 
+implications 
+consolidated market hardware nfcbased authentication 
+and maintain the need for 
+hardware based authentication for 
+cardholder present transactions visa 
+the secure element online and offline 
+transactions are consolidated 
+small number wallets for which 
+and remain the primary funding 
+method traditional banks remain the 
+primary issuers credentials telcos 
+tsms and new wallet providers have 
+limited impact 
+wallets not cannibalize processing 
+volumes and would advantaged 
+the wallet space too they would 
+positioned manage authentication 
+requirements credit cards would remain the 
+funding mechanism for most electronic 
+wallets given the ongoing dominance 
+and models that seek monetize 
+consumer data sustain themselves 
+through loyalty schemes may also 
+challenged model would rely availability 
+the secure element and 
+paypal google apple and few ott 
+over the top providers create new 
+payment network wallets gain wider 
+acceptance more transactions are 
+routed via ach direct debit 
+consumers move mobile payment 
+including offline cloud based 
+authentication software based fraud 
+algorithms are considered secure 
+enough for most uses which could 
+include google hce 
+few ott players with mobile wallets and 
+cloud based authenticating would eliminate 
+the strict need for pos devices mobile 
+wallets that gain prevalence the pos 
+infrastructure paypal google mcx etc 
+would best positioned merchants would 
+likely keep some pos terminals for basic 
+visa and mastercard acceptance 
+replacement cycles for established pos 
+vendors would lengthen 
+strong authentication becomes the 
+norm for mobile payments the 
+higher security levels provides can 
+economically offset higher ecosystem 
+costs reducing fraud and 
+continue dominate terms 
+setting standards players with control 
+over hardware handset oems and 
+mobile networks are successful new 
+entrants the wallet space 
+continue set payment standards 
+with hardware based authentication mobile 
+wallets would require authentication using 
+secure element generally controlled 
+network operators handset oems there 
+would additional opportunities for tsms 
+who seek scale advantages across several 
+platforms mnos and handset players would 
+new entrants the wallet space but with 
+clear winner 
+low barriers entry for new wallet 
+providers expands the number 
+payment options thus very few wallet 
+providers become trusted providers 
+mdrs merchant discount rates 
+remain relatively high few players 
+can build economies scale fully 
+protect against fraud for mobile 
+payments technologies like hce 
+could accelerate fragmentation 
+universal acceptance and would 
+remain the norm ott player would gain 
+sufficient traction offer viable alternative 
+payment network but merchants would 
+demand increased functionality the pos 
+opportunity for devices like ingenico 
+ismp which maintains separate hardware 
+for payment while integrating iphone 
+provide inventory management emailed 
+receipts and other cloud based services 
+best positioned 
+visa mastercard merchants issuers 
+potentially challenged 
+paypal google and other wallets 
+telcos tsms trusted service 
+managers 
+consolidated market 
+cloud based authentication 
+best positioned 
+paypal apple google 
+potentially challenged 
+issuers telcos pos suppliers 
+ingenico verifone 
+fragmented market hardware nfcbased authentication 
+best positioned 
+telcos tsms merchants 
+potentially challenged 
+issuers 
+fragmented market 
+cloud based authentication 
+best positioned 
+visa mastercard pos vendors 
+ingenico verifone 
+potentially challenged 
+merchants paypal 
+morgan stanley research 
+october 
+mobile payments 
+advantaged and disadvantaged players the evolving landscape 
+advantaged 
+card networks believe scenario represented 
+apple pay almost the best possible outcome for the 
+networks and axp far future development 
+mobile payments concerned the scenario positive for 
+volumes small ticket mobile payments transit could 
+accelerate share shift from cash electronic transactions 
+and keep fraud prevention standards under the control the 
+main networks any potential dilution fees due rebates 
+would small worst 
+issuing banks scenario also positive for issuing banks 
+apple pay and other mobile wallets are largely based 
+already issued cards tokens linked those cards 
+above would expect small ticket mobile transactions 
+take share from cash resulting higher volumes for banks 
+any additional costs for banks for inclusion third party 
+wallets such the widely reported the case 
+apple pay should our view offset increased 
+volumes 
+acquirers processors positive mobile payment 
+system based existing infrastructure poses risk the 
+processors role the current ecosystem and they should 
+benefit from increased volumes longer term believe that 
+the acquirers could get disintermediated from providing 
+value added services such security solutions the use 
+tokenization and biometric authentication for mobile 
+payments able significantly increase the safety 
+electronic payment transactions 
+terminal manufacturers positive for pay and ingenico 
+think apple pay could increase merchant appetite 
+upgrade nfc which should additive asp could 
+also drive increased demand for pay payment aservice paas offering merchants look outsource 
+pay future proof their investments 
+apple reducing fraud improving data security and 
+increasing credit debit volumes for issuers and networks 
+while protecting the value the existing payments value 
+chain believe apple pay has high chance success 
+apple market share the its exposure relatively 
+affluent demographic and the ease use along with 
+unique form factor apple watch position apple pay the 
+player beat the mobile wallet space 
+semiconductors nxpi remains our preferred way play 
+increasing nfc adoption due its strong leadership position 
+controllers secure element addition its strong expertise 
+software java card operating system and payment 
+related licensing places nxp good position for 
+recurring sales expect nfc rise from sales 
+over the next few years for nxp providing important 
+source upside estimates into 
+disadvantaged 
+tsms while scenario suggests mobile payment 
+architecture similar that proposed tsms the move 
+visa mastercard and amex provide tokenization services 
+apple pay represents major challenge independent 
+tsms such gemalto oberthur and giesecke devrient 
+our view 
+telcos apple pay along with google hce poses 
+threat mnos efforts the mobile payments arena while 
+accelerated adoption nfc likely positive 
+softcard likely blocked out from iphones 
+market share the near term given that apple currently 
+restricting use its nfc antenna third parties 
+paypal paypal has moved toward store payments using 
+its cloud based mobile app while paypal aims steer 
+customers link the wallet their bank account 
+paypal account funding comes from credit debit cards which 
+are treated card not present transactions the networks 
+and attract higher interchange costs than applicable apple 
+pay paypal could still offer competitive rates merchants 
+due its lower blended cost owing significantly lower 
+costs tied bank funding total but this could lead 
+margin erosion for the company 
+other wallet providers most mobile wallets employ existing 
+issued cards funding source but use cloud based 
+authentication these will therefore more expensive 
+option for merchants accept resulting slow adoption 
+note the one exception the mcx wallet which 
+merchant consortium funded initiative the the wallet 
+expected use direct debit fund transactions thereby 
+lowering the cost acceptance for merchants however 
+remain uncertain about the consumer value proposition 
+also worth noting that apple will not grant third party access 
+for the nfc antenna least for the time being 
+morgan stanley research 
+october 
+mobile payments 
+the future nfc 
+while the debate around standardization technology still 
+far from resolved believe that apple adoption nfc 
+decidedly tilts the balance favor nfc based solutions 
+the introduction apple pay likely helps accelerate the 
+adoption nfc based technologies this especially 
+true the where apple has the most meaningful market 
+share smart phones with market share apple 
+iphone users are generally higher income and are typically 
+earlier adopters new technologies relative the android 
+user base which attractive merchants that are looking 
+increase sales this demographic 
+emv upgrade cycle may aid nfc adoption based 
+merchants are currently the middle pos upgrade 
+cycle that driven liability shift that takes place 
+october instead issuers merchants who not 
+upgrade their pos the deadline will liable for 
+fraudulent transactions this upgrade cycle may prompt 
+merchants who may want future proof their pos order 
+terminals with additional nfc functionality compatible with 
+apple pay and other nfc based wallets verifone the 
+leading pos terminal manufacturer the has noted that 
+the majority terminals that has shipped over the past 
+year have nfc functionality although the majority have nfc 
+turned off this point 
+increased security concerns also provide momentum 
+nfc note that concerns driven data breaches 
+leading retailers such target and home depot have 
+accelerated the emv adoption cycle ahead initial 
+expectations and may also provide tailwinds for nfc 
+consumers learn more about enhanced security apple 
+pay consumers payments credentials are securely stored 
+the iphone secure element which protects against 
+skimming and potential compromises account information 
+this form two factor authentication has made nfc 
+relatively more secure when compared the cloud although 
+higher cost implementation given the associated 
+hardware costs the mobile device and the pos 
+however the benefits reduced fraud may convince both 
+retailers and handset manufacturers absorb the increased 
+costs note that one day after apple pay was announced 
+mastercard issued new mandates that required all pos 
+terminals sold europe post january have nfc 
+capability and that all active pos terminals would need 
+have nfc capability january 
+expect inflection nfc adoption 
+believe inflection point for emv nfc penetration 
+imminent and expect payment terminals have 
+nfc capabilities early october accelerated 
+emv roll out the terminal side positive most new 
+payment terminals with emv capability support nfc well 
+albeit most these dark nfc terminals still have the 
+nfc contactless functionality turned off due incremental 
+costs associated with back end software certification and 
+testing 
+think apple pay will help kick start what has been slowgoing nfc ecosystem both the smartphone and merchant 
+fronts particular expect other smartphone oems 
+especially the android ecosystem adopt nfc 
+technology for mobile payments and merchants 
+increasingly upgrade their payment infrastructure support 
+mobile payments consumer adoption rises overall the 
+introduction apple pay could lead steeper ramp 
+nfc penetration compared our estimate 
+from less than see exhibit 
+what different this time for nfc 
+nfc based mobile payments have had number false 
+starts recent years mostly hampered lack merchant 
+adoption the technology the terminal side well 
+disagreement among various parties involved viable 
+business model however believe that this time 
+different and consumer adoption the technology poised 
+accelerate over the coming years 
+three critical differences between the current nfc 
+landscape and the one from few years ago 
+higher nfc penetration the merchant 
+payment terminal infrastructure and while most still have 
+the nfc functionality turned off can enabled with 
+software upgrade 
+accelerating nfc adoption smartphones especially 
+after apple embrace the technology expect over 
+nfc capable smartphones ship 
+the advent host card emulation hce and 
+tokenization replacing digit credit card numbers with 
+dummy numbers for authenticating transactions are 
+disruptive innovations for mobile payments they 
+morgan stanley research 
+october 
+mobile payments 
+promise the potential simplify the prevailing complex 
+mobile payment landscape involving numerous parties 
+mobile network operators mnos smartphones oems 
+issuers banks trusted service managers tsms 
+such this could reduce the time market well 
+lower the cost deployment for mobile solutions 
+addition think tokenization will help alleviate some 
+the security concerns surrounding mobile payments 
+what apple pay 
+apple new mobile payment system consists 
+nfc chips for tap and pay functionality the iphone 
+iphone plus and apple watch 
+touchid fingerprint scanner integration for iphone 
+payment transactions 
+exhibit 
+apple pay could accelerate nfc penetration beyond 
+our current estimates 
+updated passbook app that can now scan and add credit 
+and debit cards that account for transactions 
+volumes the 
+online and app integration for one click payments 
+the key value proposition consumer that apple pay 
+easy compared existing wallets consumers not have 
+unlock their phone use apple pay secure token based 
+system will minimize instances fraud and addresses 
+potential privacy concerns apple will not have access 
+transaction data 
+source company data morgan stanley research estimates 
+morgan stanley research 
+october 
+mobile payments 
+can apple pay help accelerate adoption mobile payments 
+think that several issues need resolved before 
+see more widespread adoption mobile payments but 
+think the launch the apple pay wallet could tipping 
+point and here why 
+apple has proven ability change consumer 
+behavior they done multiple times before and with 
+market share smartphones the 
+globally believe they have the clout again 
+think the simplified user experience offered apple pay 
+tap pos and authenticate fingerprint through the 
+touch sensor superior several other mobile 
+wallets out there typical user experience involves 
+unlocking the phone opening mobile wallet app and 
+inputting pin password and could help reduce friction 
+using mobile devices make purchase the pointof sale pos moreover apple can leverage its database 
+cards file simplify the process signing 
+consumers for apple pay 
+exhibit 
+apple smartphone share region 
+iii the timing the apple pay launch ahead the emv 
+upgrade cycle could help mobilize nfc adoption 
+according apple there are only merchant 
+locations the that currently support contactless 
+payments representing penetration it secret 
+that nfc has had little support from merchants thus far 
+given high costs associated with terminal upgrade and 
+lack consumer adoption however described earlier 
+see page believe growing consumer adoption 
+apple pay could the catalyst that drives retailers 
+upgrade activate nfc capability their devices 
+tokenization combined with touch should help 
+drive confidence its security surveys show that 
+consumers have been particularly concerned about 
+security and privacy when comes mobile payments 
+adoption the fact that apple pay will store only tokenized 
+credentials its secure element thus protecting the 
+consumer digit pan from being shared and will 
+further use touch for payment authorization could help 
+convince consumers the safety apple pay 
+transaction and help drive adoption 
+exhibit 
+reasons for the slow adoption mobile payments 
+source idc morgan stanley research 
+issuers representing credit debit card volumes 
+the are part apple pay apple pay working 
+collaboratively with the existing payments ecosystem 
+which helps reduce friction from incumbent players that 
+may have been skeptical about getting displaced from the 
+value chain believe this one the reasons that 
+apple has been able garner participation from group 
+six leading issuers jpm bac wfc axp and 
+cof part the wallet from the start contrast 
+google launched its nfc wallet with one issuing partner 
+citibank and softcard has three issuing partners chase 
+axp and wells fargo significantly limiting the reach 
+these wallets consumers 
+source federal reserve bank morgan stanley research 
+more than one answer was allowed numbers not total 
+apple staying away from transaction data think 
+this should help dispel one the major concerns that 
+merchants and issuers have had with the google wallet 
+that data protection 
+however this not say that adoption will happen overnight 
+several roadblocks remain 
+apple pay will available only iphone and iphone 
+users given that nfc chip required for the payment 
+morgan stanley research 
+october 
+mobile payments 
+app function this will initially restrict consumer 
+adoption only those consumers who buy new phone 
+think global smartphone penetration iphone 
+likely end and end 
+mcx merchants are holding out for now note that the 
+merchants walmart target kmart sears cvs 
+rite aid lowe kohl best buy and that are part 
+the mcx consortium are currently holding off 
+partnership with apple pay store though apple pay will 
+accepted inside the target app its members are 
+prohibited from accepting all third party mobile wallets 
+bid promote their own yet launched mobile 
+payment solution this has driven member merchants 
+switch off nfc capability their point sale while this 
+may not change the near term would not 
+surprised see least few the mcx merchants open 
+themselves apple pay once the current agreement 
+banning third party wallets expires 
+iii loyalty solution skeptics believe that just the cool 
+factor transacting with mobile device may not 
+sufficient drive adoption and that mobile wallet has 
+offer enhanced value proposition while apple pay 
+first cut includes loyalty offerings would not 
+surprised see integration loyalty programs into the 
+app over time see page 
+the tailwind for debit will unlikely 
+strong was the past 
+the primary funding source leading mobile wallets have 
+been credit and debit cards apple pay exclusively credit 
+and debit believe that once consumers start adopt 
+mobile methods payments the share cash transactions 
+will decline accelerated pace 
+exhibit 
+despite conventional wisdom cash usage has not 
+fallen significantly over the past decade the 
+checks have mainly been replaced debit and 
+electronic ach transactions 
+share consumer payment volume 
+electr 
+debit 
+cash 
+overall believe that apple pay will accelerate mobile 
+payment adoption although will likely take some time given 
+the hardware upgrade cycle that consumers and merchants 
+will need through once this process completed 
+believe the launch apple pay will help accelerate the shift 
+from cash and checks electronic forms payments over 
+the past decade the secular shift cash and checks 
+credit and debit has mainly been driven primarily 
+transition checks debit and electronic payments ach 
+given that checks accounted for only transactions 
+prepaid 
+other 
+credit 
+check 
+source the nilson report morgan stanley research 
+morgan stanley research 
+october 
+mobile payments 
+what about android mobile payments for the other 
+apple unique the mobile payments space the 
+company vertical integration strategy gives control over 
+both hardware and software the iphone contrast the 
+android ecosystem highly fragmented with hundreds 
+hardware makers and thousands devices the open 
+source android contrast ios devices where typically 
+devices run the latest android users are 
+fragmented across different software versions with only 
+users the latest version kitkat difficulty with 
+backwards compatibility makes far more challenging for 
+payment platform launched google which owns android 
+gain widespread adoption critical mass interest from 
+the developer community different levels hardware 
+specification for android handsets terms processing 
+power memory nfc functionality and the secure element 
+increase the challenge standardization 
+exhibit 
+android smartphone market share 
+what about the smartphone oems samsung looks 
+have been the most proactive android oem mobile 
+payments seeks differentiate itself given aggressive 
+competition from chinese oems samsung launched 
+mobile wallet platform conjunction with visa oberthur 
+broadcom and stmicroelectronics early february 
+however further partnerships with banks launch apps have 
+not materialized this could related tsm economics 
+complexity user interface 
+among other oems china based xiaomi which one the 
+fastest growing oem emerging markets expected 
+introduce nfc based transit ticketing solution think 
+this noteworthy the company could eventually broaden 
+its strategy support payments merchant terminals 
+well xiaomi had adopted combination nfc embedded 
+secure element its flagship phone but dropped the 
+given low consumer adoption the technology think 
+the company return nfc technology could signal broader 
+momentum behind nfc based mobile payments 
+overall following apple lead expect android oems 
+launch their own mobile payment offerings based either 
+embedded secure element via hce 
+source idc morgan stanley research 
+therefore believe that android based payment platforms 
+will remain fragmented over the next years with the 
+likelihood multiple offerings from various entities involved 
+payments such smartphone oems mobile network 
+operators mnos and banks and merchants also 
+believe host card emulation hce key technology for 
+the android platform will allow third party providers 
+develop nfc based mobile wallets which could potentially 
+offer similar economics the merchant apple pay 
+rates similar card present interchange rates although 
+hce compatibility limited only android latest kitkat 
+version 
+samsung has the largest market share for android 
+devices while the next biggest player sony has 
+only market share this would suggest that 
+google samsung partnership likely the best shot 
+replicate android devices what apple doing with apple 
+pay samsung the past has utilized embedded secure 
+element for storing payment credentials galaxy and 
+and could continue with the same strategy given controls 
+the hardware environment its smartphones smartwatches 
+there would still however the question negotiating with 
+issuers and networks play along convincing merchants that 
+are wary google hijacking their data and working around 
+the mnos given their interest promoting their own mobile 
+wallet softcard 
+other partnerships announced samsung far include 
+those with paypal and china unionpay the paypal alliance 
+expected launch with samsung next generation 
+smartwatch early and could include some biometrics 
+functionality the recent china unionpay announcement 
+looks relate users the galaxy note note and 
+galaxy all products with embedded secure elements 
+and million nfc terminals across china 
+morgan stanley research 
+october 
+mobile payments 
+mobile network operators expect incremental mno 
+based wallets continue use sim based secure elements 
+where the operators maintain control and lease out space 
+the secure element banks and merchants for rental fee 
+with apple pay mnos have been cut out the primary 
+payment ecosystem ios result expect them 
+aggressively market their offerings the android platform 
+recently china mobile the world largest mno adopted 
+gemalto nfc sims for its mobile transit payment solution 
+service providers banks merchants given third party 
+service providers not control the smartphone hardware 
+the mobile sim expect their offerings mostly based 
+the cloud implementation the secure element via host 
+card emulation hce banks are increasingly looking 
+mobile payments means not only gain market share 
+but also ensure their branding and retain control over the 
+wallet application they participate something that hce 
+offers that said don expect all issuer wallets 
+based hce the mode implementation will depend 
+the issuer appetite for risk well the opportunity 
+differentiate their offerings from the rest believe that the 
+tamper proof secure element approach still provides higher 
+level security than cloud implementation via hce 
+finally know that merchants are looking expand the 
+capabilities their mobile applications enable payments 
+though most apps have seen thus far are cloud based 
+also expect see mobile offerings from other third party 
+services providers with their applications utilizing embedded 
+hce route depending their level collaboration with 
+smartphone oems 
+host card emulation hce 
+with android kitkat google has introduced new 
+platform support secure nfc based transactions through 
+host card emulation hce the system uses software 
+emulate emvco type smartcards and can used for 
+payments loyalty programs card access transit and other 
+custom services the system based tokenization the 
+creation dummy set numbers linked actual 
+customer credentials the cloud not dissimilar from the 
+method used apple pay 
+the system requires the mobile handset have nfc 
+controller but not necessarily secure element although 
+believe would support the latter there need for 
+third party tsm per but some kind platform required 
+provision one off credentials onto the smartphone securely 
+hce relatively untested the broader environment 
+however believe has the potential offer lower cost 
+alternative service providers seeking incorporate 
+payment functionality into android mobile applications 
+not believe google seeking monetize its hce activity 
+directly the way for instance that mnos and tsms are 
+seeking generate direct fees from service providers for 
+supporting nfc wallet that said data transactions 
+would clearly value google targeting advertising 
+its platforms this may barrier third party adoption 
+tokenization 
+tokenization not new concept but gained more serious 
+attention during the conference las 
+vegas where visa mastercard and american express 
+announced proposed tokenization framework simplify the 
+consumer experience and enhance security for mobile and 
+online shopping the use tokenization apple pay 
+represents significant further endorsement our view 
+tokenizing payment data would better protect cardholder 
+information reduce fraud using alternate identifier 
+payment token substitute for the card number and 
+other cardholder authentication data for given combination 
+consumer issuer merchant ultimately reducing fraud 
+risk and its associated costs networks could then potentially 
+reduce eliminate the card not present surcharge reducing 
+interchange issuers and total revenue cost the 
+ecosystem for apple pay the networks will providing the 
+tokenization service other wallets could potentially use other 
+providers for tokenization services but view networks 
+being best positioned 
+morgan stanley research 
+october 
+mobile payments 
+expected impact banks 
+card issuers axp bac jpm wfc are all very 
+enthusiastic about working with apple pay despite the 
+speculation that they have share interchange with 
+apple from talking card issuers surmise reasons for 
+their desire work with apple apple pay 
+maintains current payment food chain issuers spoke 
+with like the apple pay platform pass through 
+apple not retaining the data apple not 
+disintermediating the card issuer from the card holder 
+apple approach very different from other digital wallet 
+structures paypal issuers want partner with 
+digital wallet partner that not trying disintermediate 
+them from their cardholders 
+higher volume less cash more card spend 
+exhibit 
+credit card spend ultimately moved onto 
+the apple platform the eps impact for the credit card 
+issuers would 
+total 
+spend 
+share 
+aapl 
+spend 
+bac 
+jpm 
+axp 
+cof 
+dfs 
+impact 
+eps 
+lower 
+impact 
+eps 
+interchange impact 
+source company data morgan stanley research 
+fraud costs are currently averaging expect 
+fraud costs lower the tokenized apple wallet 
+better security card holders feel more secure their 
+transactions which improves the issuer brand 
+branding opportunity being affiliated with apple resonates 
+with the affluent spend centric customers that card issuers 
+covet 
+impact issuers 
+card issuers are not sharing details their contracts with 
+apple although press reports financial times issuers are 
+paying transaction volumes fee apple 
+course will take some time roll out nfc retailers 
+especially our estimates above include assumption that 
+mcx retailers adopt apple pay and for consumers shift 
+from cash spend plastic phone 
+currently apple pay partner retail sales are 
+total credit card spend this assumes spend 
+stores credit card line with the industry assuming 
+apple users represent credit card spend this implies 
+that today all apple customers paid for all transactions 
+apple pay retailers with apple pay this would equal 
+total credit card spend this deminimis eps for all 
+our apple partner issuing banks while the branding benefits 
+are significant 
+total cost depends how much share spend apple 
+able draw from its user base which turn depends 
+how many retailers agree accept apple pay 
+credit card spend ultimately moved onto the 
+apple platform the eps reduction from lower 
+interchange for the credit card issuers would 
+increase card spend from cash migrating card 
+would help offset this negative impact 
+morgan stanley research 
+october 
+mobile payments 
+exhibit 
+currently apple pay retail partners could drive 
+total credit card spend apple pay impact 
+card issuer eps today although impact slowly rises 
+retailers sign 
+total 
+spend 
+share 
+aapl 
+spend 
+impact 
+lower 
+interchange 
+eps 
+impact 
+eps 
+impact 
+bac 
+jpm 
+axp 
+cof 
+dfs 
+source company data morgan stanley research 
+what about card issuers desire for their 
+own digital wallets 
+joining with apple pay will not necessarily stop jpm from 
+launching its own digital wallet amex from offering 
+tokenization its rails either however the fact that apple 
+least for now blocking any other digital wallet from 
+accessing its nfc antennae strongly suggests that card 
+issuers are developing digital wallets that rely nfc for 
+android other non apple devices alternatively could 
+force card issuers offer tokenization via the cloud instead 
+via nfc currently cloud tokenization viewed less 
+secure than apple nfc solution however not think 
+that any these issues will stop card issuers from developing 
+digital wallets their customers use range handheld 
+devices not just apple products 
+morgan stanley research 
+october 
+mobile payments 
+does apple pay represent the end for the tsm model 
+the tsm model has been represented the classic 
+model for nfc mobile payment until recent innovations 
+from apple and google separates the management 
+payment credentials from the regular operations mobile 
+and means that third party most cases the tsm can 
+take responsibility for security issues around that has been 
+the preferred way for telecom mnos become involved 
+mobile payments although there have been few instances 
+successful trials 
+what tsm trusted service manager 
+the role trusted service manager tsm deploy and 
+manage nfc applications without compromising sensitive 
+user data there are two components this 
+root tsm manages access the secure element 
+behalf the mno other owner controls 
+access the any third party 
+service provider tsm acts behalf bank transit 
+authority wallet operator merchant enterprise any 
+other mobile app provider provision credentials 
+securely onto the 
+exhibit 
+secure element architecture 
+source giesecke and devrient 
+morgan stanley research 
+october 
+mobile payments 
+why has the tsm model been unsuccessful thus far 
+there are few examples the market from which draw firm 
+conclusions but our conversations with industry participants 
+suggest there have been two main barriers the tsm model 
+getting traction 
+cost while think there has been substantial 
+reduction the last years several banks have cited 
+cost major reason why they have struggled make 
+business case participate operator led simbased mobile wallet part the reason has been 
+fragmentation bank looking launch application 
+for such wallet has had pay set fees both 
+operator and tsm rental fees for space the simbased secure element and ongoing tsm fees 
+gemalto indicates today that the upper end its pricing 
+for tsm services around per user per year 
+however believe initial tsm setup fees have been 
+much some cases admittedly primarily for 
+global agreements and have seen some instances 
+sim rental costs coming multiple what costs 
+mno buy multi tenant sim one conversation 
+with tsm immediately after the announcement host 
+card emulation google was revealing the tsm 
+stated hope that the move might lead mnos make 
+sim rental costs more affordable for banks and other 
+service providers 
+compared the fragmented and relatively expensive 
+tsm model believe simple pay per use model such that being introduced apple should highly 
+attractive for service providers even beyond the 
+card issuers already signed apple pay visa will 
+provide tokenization services for free initially and 
+thereafter terms likely similar mastercard 
+per user monthly fee and initial provisioning fee 
+equivalent per user per year 
+the apple pay model carries additional implicit cost 
+issuers speculated basis points volume 
+that will paid away apple believe less 
+debit possible little while this may 
+ultimately represent similar level cost sim rental 
+from telco note that apple pay user would have 
+spend the region single card before 
+the costs become comparable highlight that this 
+would likely viewed good return investment 
+the issuer for the additional payment volumes realized 
+user experience problems with telco operated mobile 
+wallets have been well documented particularly around 
+the enrolment process gemalto has indicated this was 
+one factor aside from security that has delayed 
+operator purchases high end multi tenant sim cards 
+apple pay has however has been able simplify the 
+process taking photo the card leveraging its 
+existing database cards file with itunes 
+more pertinently several banks have registered concern 
+that the telco model effectively disintermediates them 
+from the consumer payment experience and may result 
+brand dilution think these issues are only partly 
+addressed apple pay apple move restrict third 
+party use the nfc antenna means that issuers may 
+not able launch contactless payment modules 
+within their own mobile banking applications rather 
+apple pay will the only payment experience the 
+iphone least initially and tokens representing issuer 
+cards will sit within apple pay users will able select 
+default card and see image the issuer brand 
+once the transaction complete but other aspects the 
+payment process will remain apple control 
+with apple pay launch the tsm model unlikely gain 
+significant traction the united states while apple 
+adoption nfc for the iphone goes some way towards 
+making nfc the standard form contactless payment the 
+fact that the company has shut down the nfc antenna third 
+party providers means that other service providers developing 
+for ios will have little chance capitalize increasing 
+standardization 
+there may opportunity for tsms and other players 
+launch services around the hce ecosystem created 
+google google current model for mobile payments does not 
+make use secure element the handset whether 
+embedded the sim instead involves provisioning 
+tokens the cloud virtual secure element the 
+technical capability here similar service provider tsm 
+tokens provisioned the service provider platform are then 
+transmitted over the air the handset completion 
+transactions given recent moves visa and mastercard 
+into tokenization not mention their role the development 
+hce believe both companies are likely offer services 
+here and expect pricing competitive 
+morgan stanley research 
+october 
+mobile payments 
+will apple pay follow similar architecture for international rollout 
+while apple announced support from three major payment 
+networks american express mastercard and visa 
+issuers supporting apple pay are far limited the 
+note that apple itunes store which opened april 
+was originally available only users with valid credit card 
+and billing address and did not launch internationally 
+until june similar itunes expect apple pay 
+expand internationally over time steve perry chief digital 
+officer visa europe confirmed the payment network 
+working closely with apple and its member banks bring 
+this new service market europe although timing 
+remains uncertain apple recently hired mary carol harris 
+who was director visa europe and head the nfc 
+division telefonica before that 
+the european model for apple pay may differ from the 
+model result some structural differences between the 
+markets specifically lower interchange rates both credit 
+and debit cards issued european banks and the likelihood 
+that these may regulated lower still there may further 
+complications with the enrolment process which requires 
+each issuing bank agree 
+interchange the easiest factor here quantify and debit 
+interchange europe may particularly problematic 
+april the european parliament voted favor 
+proposals impose caps interchange fees the cap would 
+limit interchange fees for credit cards for debit cards 
+the fee would capped the lower this 
+compares debit card interchange rates 
+the and average credit card rates 
+the interchange fee differential europe could make the 
+apple pay model where apple receives 
+transaction volume challenging for issuers accept 
+course apple pay may still more attractive than the tsm 
+model given the higher costs for that model but there 
+could yet other models that emerge 
+one option could the development the model proposed 
+wirecard its mobile wallet launches with vodafone 
+orange and others here wirecard issues prepaid card 
+behalf the mno and splits the small fees that card 
+with the mno the fee represents upside for both players but 
+has the potential cannibalize transaction volumes 
+existing issuers 
+according various news sources apple has reached 
+agreement with china unionpay enable apple pay the 
+country competing technology nfc quick response 
+codes was halted china central bank earlier this 
+year due fraud concerns note that china apple 
+second largest market after the with iphones 
+shipped china the last months accounting for 
+iphone shipments worldwide 
+morgan stanley research 
+october 
+mobile payments 
+will apple wrap loyalty offerings into its wallet 
+while the company has not commented its plans offer 
+rewards for using apple pay recent job posting suggests 
+apple could working loyalty program july 
+apple posted job listing for global retail marketing 
+program manager who will champion and expert the 
+apple brand the loyalty space apple could leverage 
+content from its extensive itunes library and app store 
+incentivize higher transaction volume via apple pay note 
+that apple recently gifted complimentary album its 
+itunes store customers around the world according the 
+new york times release the album for free apple paid the 
+band and universal blanket royalty fee and committed 
+marketing campaign worth december 
+apple released app called days gifts which released 
+free content including songs apps and videos users 
+during the holiday season believe these experiments with 
+pushing free content ios devices could intended 
+gauge user feedback potentially leveraging itunes 
+rewards medium 
+integration merchant rewards programs with apple pay 
+could another driver user adoption note that 
+passbook where credit and debit cards will stored already 
+has the ability store multiple retailers loyalty cards 
+however through the process tokenization the announced 
+apple pay offering completely disassociates the payer 
+identity from the transaction that merchants cannot tie 
+transactions back the customer therefore currently 
+unclear how apple will enable seamless earning loyalty 
+points and rewards note that competitive solutions have 
+similar issue while google allows customers store 
+digital copy loyalty cards google wallet loyalty program 
+information not automatically entered when user pays 
+with nfc device and the customer has make sure 
+show the cashier loyalty account information before paying 
+while details are difficult predict this point believe 
+apple touch and ibeacons which can begin interacting 
+with customer when they enter store will afford simpler 
+method automatic rewards and loyalty point collection with 
+merchant addition apple pay relies per device 
+tokenization technology potentially leaving avenue 
+associate the device token across multiple transactions 
+order reward customer 
+morgan stanley research 
+october 
+mobile payments 
+status mno led wallet ventures 
+mobile network operators have had limited success 
+launching nfc mobile wallets date this has been the 
+result variety factors the most frequently cited 
+problems our conversations with industry participants are 
+the cost the telco led efforts potential partners banks 
+transit authorities enterprises and issues around branding 
+typically telcos and banks view mobile wallets 
+important tool for reinforcing extending their brand 
+increasing the amount time for which customer interacts 
+with them and tool for marketing other services clearly 
+this can create conflicts when the two are required work 
+together launching mobile wallets 
+this has been the reason why the majority european mno 
+wallets have been launched using only prepaid 
+visa mastercard maestro the first instance mnos aim 
+expand this include the major issuing banks over time 
+though thus far have been unable strike mutually 
+acceptable terms 
+believe international roll out apple pay and the 
+introduction host card emulation hce google 
+represent significant threat mno wallets apple pay the 
+has indicated how elegant the enrolment process can 
+where there buy from all players something which has 
+been palpably absent from european mno launches apple 
+recent recruitment key personnel the european 
+payments industry shows that further roll out the 
+cards which could threaten mno launches 
+european banks have already started roll out mobile 
+wallets based hce bbva launched its nfc wallet 
+december september announced that the 
+wallet had acquired customers and that this could 
+rise year end sberbank russia also 
+testing hce pilot and expect others follow the 
+major advantage for hce for issuer that can include 
+payment module within its own mobile banking application 
+something that not possible either with apple pay with 
+mno wallets believe this significant attraction for 
+many issuers some issuers might still prefer require the 
+presence secure element which could present 
+either the sim card the handset though believe 
+the economics are likely better with hce solution 
+latest isis softcard the mno wallet 
+over the last several months commentary around the 
+softcard formerly isis wallet mobile payment app 
+joint venture verizon and mobile has slowed 
+there have been some positive developments due apple 
+decision include nfc into the new iphone and plus 
+which important because apple dominance the 
+smartphone arena estimate that apple penetration 
+the big smartphone installed base verizon sprint 
+and mobile over while iphone inclusion nfc 
+positive step forward given the positive effects could have 
+merchant adoption nfc terminals continue 
+believe that there uncertainty around softcard ability 
+reach critical mass remains blocked out from the new 
+iphone least for the time being highlighted before 
+believe that issuer adoption also remains issue for 
+softcard with only few large issuers chase wells fargo 
+and amex signed date 
+merchant support could also important increase the 
+adoption softcard for instance subway recently 
+announced that was partnering with softcard although the 
+payment terminal will also support apple pay 
+can softcard reverse trends and viable competitor 
+the mobile payment space our view the carriers 
+may run the risk realizing accelerating negative returns 
+the softcard investment light slow adoption trends rollout 
+costs deals and promotions and apple pay head start 
+with current iphone customers most recent 
+softcard recorded year date loss which worse 
+than last year ytd loss has one third 
+stake the suggesting that total losses could 
+approach for near term all eyes will focus 
+and when softcard can sway apple enable the nfc 
+support the iphone and plus softcard ceo michael 
+abbot recently stated blog post that the company 
+actively working with apple enable softcard the iphone 
+using integrated secure sim based hardware 
+solution the event that the iphone and plus support 
+softcard another potential obstacle could that softcard 
+users may required install enhanced sim card their 
+devices such the one required for android devices 
+summary apple pay ease use and brand dominance 
+could win over potential softcard users 
+morgan stanley research 
+october 
+mobile payments 
+exhibit 
+softcard net income 
+below summary recent developments european 
+mno operated wallets 
+vodafone smartpass vodafone nfc mobile wallet 
+which has been launching throughout europe over the last 
+months the platform launched spain november 
+germany and netherlands march italy april 
+with the launch currently underway and the first 
+implementation the london underground with partner tfl 
+source company data morgan stanley research note the implied net 
+income for verizon and mobile derived from the assumption that verizon and tmobile all have one third ownership stake the softcard joint venture 
+latest european mno wallets 
+with the exception pesa vodafone mobile wallet 
+solution kenya believe that global wireless 
+companies have struggled diversify beyond their core 
+business model selling voice sms and data services 
+several european mnos have developed plans launch 
+mobile wallets based nfc these plans have been 
+underway for several years and have generally been similar 
+isis softcard terms architecture with sim based 
+secure element and accessed through operator branded 
+application 
+gemalto major supplier high end multi tenant sim 
+cards these mnos though competitors giesecke 
+devrient and oberthur have also won some business its 
+results april gemalto indicated that some 
+european operators were delaying purchases multi tenant 
+sim cards order implement simplified partner 
+enrolment process and additional security measures 
+economics for issuers and the branding telco operated 
+mobile wallets have two major stumbling blocks attempts 
+sign banking partners telco mobile wallets while this 
+may change result the above change the enrolment 
+process believe the availability hce european banks 
+and potentially apple pay the future gives banks other 
+options that circumvent telcos entirely this may 
+preferred option given that implicit aim many mobile 
+wallets keep customer eyeballs locked onto particular 
+screen set branding 
+the early stages roll out the wallet requires nfc tag 
+attached the back the phone operate see exhibit 
+the case the iphone this has been due lack nfc 
+functionality though believe vodafone intention has 
+been migrate using the embedded nfc functionality 
+handsets over time the tag has even been required for 
+android handsets with nfc looks like there some 
+more work 
+the card that sits behind smartpass prepaid card issued 
+wirecard vodafone behalf which topped from 
+the wallet application vodafone intention able 
+add other applications into the mobile wallet future 
+exhibit 
+vodafone smartpass tag for iphone 
+source company data 
+vodafone italy has issued around nfc sim cards 
+since the launch the wallet april this year which 
+demonstrates reasonable level traction our view 
+android handsets are currently supported and the figure 
+compares nfc smartphones and contactless cards 
+that have been issued italy 
+morgan stanley research 
+october 
+mobile payments 
+orange orange cash was launched strasbourg and caen 
+february these were the cities with the highest 
+existing use contactless payment the service available 
+android handsets with nfc functionality without the need 
+for separate tag they payment function uses prepaid 
+visa card issued wirecard orange behalf which can 
+topped from the application the application includes 
+loyalty offers from french retailers well incentive 
+for subscribers use the wallet 
+base part plus base wallet was launched july 
+based nfc sim card and supports eight 
+smartphones samsung sony its initial roll out the 
+underlying card for the base wallet prepaid maestro 
+card issued wirecard the wallet based nfc sim 
+card and the main partner and tsm the wallet also 
+contains coupon functionality and sign bonus for 
+customers there also sticker available for subscribers 
+that not have supported smartphone 
+mobile mywallet launched germany may and was 
+expected live slovakia and hungary over the 
+remainder the year the wallet based nfc sim 
+card and uses prepaid mastercard pay there also 
+couponing aspect with certain retailers mobile has 
+indicated that aims charge for the application from the 
+end there also option use the wallet with 
+stick tag well separately issued card 
+cash tap launched july the wallet based 
+nfc sim card and prepaid mastercard issued 
+prepay technologies limited the wallet available 
+android smartphones 
+due morgan stanley involvement the announcement 
+iliad iliad proposing acquire stake tmobile inc mobile announced july 
+are suspending our rating price target and estimates 
+iliad and mobile please refer the notes the end the 
+report 
+morgan stanley research 
+october 
+mobile payments 
+insights into the leading mobile payments market south korea 
+korea proving that mobile messaging platforms offer 
+very strong value proposition for consolidating mobile 
+payment segment following the success tencent 
+wechat china kakaotalk the leading mobile messaging 
+platform korea has acquired mobile payment users 
+kakao pay less than month launch 
+expect rapid user adoption for kakao mobile payment 
+services korea first kakaotalk boasts monthly 
+active users korea over the population users 
+access messaging applications roughly times day 
+kakao related apps and services see significant downloads 
+think kakao pay well bank wallet will see very high 
+downloads thanks viral marketing and network effect 
+second kakao messaging service conducive for 
+money transfer well mobile payments because the 
+social graph contains close friends and family and mobile 
+ubiquity and real time communications allow for quick 
+confirmation remittance and payment receipts lastly 
+think both kakao pay and bank wallet will more 
+convenient and easy use than existing payment options 
+high user adoption should force merchants accept kakao 
+payments provide customers with the convenience 
+multiple payment options mobile well online merchants 
+are likely offer kakao payment options off line merchants 
+could also accept bank wallet payments creating their own 
+account bank wallet could avoid credit card transaction fees 
+off line merchants with card reader can also accept kakao 
+pay 
+kakao transactions rise merchants will look capture 
+higher share the transactions influencing purchasing 
+decisions kakao users this could the form 
+proximity offers virtual currencies coupons daily savings 
+and for these influenced transactions kakao can 
+negotiate for share the revenue with merchants least 
+having transaction data will allow kakao better target users 
+for advertising purposes the meantime yellow can 
+used kakao mobile landing sites for merchants where 
+click call well cost per click can monetized 
+korea think apple pay faces several obstacles 
+iphone market share stands around korea which 
+will likely limit user adoption apple pay 
+merchant adoption nfc near field communication 
+terminals remains key bottleneck with only 
+penetration although most smartphones are now nfcequipped the lack users continues prevent merchants 
+from purchasing nfc terminals which cost average 
+despite the unique security features touch and secure 
+element strict korean regulations may have issues with 
+information storage the device itself 
+think however apple pay could facilitate the rollout 
+nfc based mobile payment suites handset manufacturers 
+samsung electronics electronics telecom operators 
+and commercial banks the rollout should involve fresh 
+revamp their existing mobile payment suites they have 
+already introduced nfc based mobile payment platforms 
+rather unsuccessfully similar global markets the mobile 
+payment market remains fragmented korea 
+skt smart wallet now known syrup wallet has been 
+the most successful mobile payment product korea with 
+users according nielson korea nonetheless skt 
+syrup has become more repository various reward and 
+savings cards rather than mobile payment system with 
+actively rising mobile payment transactions the second 
+player shinhan card smart wallet with monthly 
+users according the company 
+samsung electronics samsung wallet has been rather 
+insignificant with only users fact samsung card 
+mpocket has been bit more successful with users 
+electronics has had limited direct involvement the mobile 
+payment suite allowing uplus the group telecom 
+affiliate launch smart wallet which gathered only 
+monthly users 
+the fragmented korean mobile payment segment result 
+the obstacle merchant adoption nfc enabled 
+terminals largely because payment suites have had the 
+critical mass user adoption 
+recently banks are revamping their own mobile wallet 
+services retain their own user base well participating 
+morgan stanley research 
+october 
+mobile payments 
+bank wallet for kakao shinhan bank recently released 
+shinhan pay which linked its smart banking service 
+according the press maekyung august and 
+confirmed the company 
+hana bank the only major bank that declined participate 
+bank wallet for kakao plans focus its own mobile 
+wallet service called hana wallet starting foreign 
+exchange and payment services for chinese visitors and 
+partnering with chinese mobile payment company 
+for card companies shinhan card recently released all that 
+shopping wallet customized for mobile shopping 
+payments card samsung card and hana card have 
+garnered and downloads respectively 
+thus far 
+exhibit 
+leading mobile wallet operators south korea 
+sector 
+telecom 
+financial 
+institutions 
+others 
+company 
+skt 
+lgu 
+shinhan card 
+samsung card 
+hyundai card 
+lotte card 
+hana card 
+kookmin card 
+card 
+card 
+hana bank 
+ktfc 
+korea smart card 
+card 
+daum communication 
+samsung electronics 
+mobilians 
+danal 
+shinsegye 
+service name 
+smart wallet 
+mocha wallet zoomoney 
+lgu smart wallet 
+smart wallet shinhan app card 
+pocket 
+hyundai app card 
+smart lotte 
+mobile card smartpay 
+wise wallet kookmin app card 
+card smart app 
+mobile card 
+hana wallet 
+bank wallet 
+mobile money 
+cash 
+myone smart wallet 
+samsung wallet 
+tic 
+bartong 
+wallet 
+mau 
+source company reports morgan stanley research 
+regulatory environment korea could prevent kakao 
+from expanding into core banking card businesses 
+think daum kakao will able engage mobile payment 
+services with limited scope such small amount money 
+transfers and mobile payment gateway however will 
+difficult expand the scope into traditional financial services 
+which could capture core banking card businesses given 
+the tough regulatory environment korea 
+according the electronic financial transaction law 
+nonfinancial institutions are not allowed provide traditional 
+financial services such deposits loans security brokerage 
+insurance some financial transactions are allowed upon 
+financial services commission fsc approval 
+registration fsc approval required for issuance and 
+maintenance money fsc registration required for 
+emoney transfer payment gateway issuance and 
+maintenance debit pre payment methods escrow 
+account and electronic bill payment services accordingly 
+global online companies are expanding their financial services 
+korea via partnership with local banks financial 
+institutions 
+under the current law new ict based financial services are 
+difficult regulate internet companies that are not 
+registered electronic financial business operator are not 
+subject the electronic financial transaction law such 
+the fsc has been recently considering measures 
+supervise regulate new ict based financial services such 
+kakao pay likely come with measures the 
+end this year after three months research believes that 
+new measures could protect consumers from security 
+stability concerns though other countries like china japan 
+and are deregulating non financial institutions expansion 
+into financial services direction new measures korean 
+financial regulators remains seen 
+morgan stanley research 
+october 
+mobile payments 
+glossary 
+automated clearing house ach network owned banks 
+used transfer batch payments among members low cost 
+mobile wallet mobile phone app and system that capable making 
+electronic payments the pos 
+ble bluetooth low energy wireless network technology developed 
+nokia that runs the same band bluetooth ghz but 
+consumes less energy 
+nfc near field communications short range communication 
+system based rfid technology that allows secure payment data 
+transfer between devices 
+cnp card not present designation for credit debit card purchases 
+made online pos for which the physical presence the card and 
+the cardholder are not corroborated magnetic stripe emv other 
+form physical authentication 
+ott over the top provider service provider with product that runs 
+off existing infrastructure rails rather than one that introducing new 
+proprietary technology standard 
+emv europay mastercard visa refers global chip card standard 
+and governing company intended improve upon magnetic stripe 
+technology enhance card security 
+interchange fee transaction fee paid merchant bank card 
+issuing bank ultimately borne the merchant part the mdr 
+issuer issuing bank markets and issues credit debit cards 
+consumers and earns interchange fees transactions 
+mcx merchant customer exchange consortium merchants 
+with the goal establishing proprietary payment method wallet for 
+member retailers 
+mdr merchant discount rate all cost paid merchant 
+accept credit debit cards 
+merchant acquirer processor entity that prepares merchant 
+accept credit debit cards and facilitates transactions 
+mno mobile network operator mobile telecom companies 
+verizon and vodafone 
+pos point sale refers the purchase process and hardware 
+used physical retail location 
+psp payment service provider service provider that enables 
+merchants accept online credit debit card and electronic payments 
+quick response code two dimensional barcode like image that 
+can used transmit data including payment and loyalty information 
+rfid radio frequency identification wireless communication 
+system using electromagnetic radio waves range depends presence 
+power source but typically several meters 
+secure element physical element mobile phone typically sim 
+card that encrypts and authenticates payment details 
+softcard isis mobile wallet owned telecom companies verizon 
+and mobile 
+tokenization system which sensitive data element replaced 
+with proxy identifier reduce fraud risk 
+tsm trusted service manager party the nfc ecosystem that 
+serves contact point between service providers and nfc mobile 
+phones 
+morgan stanley research 
+october 
+mobile payments 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley 
+and morgan stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan 
+stanley includes morgan stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley 
+canada limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the 
+morgan stanley research disclosure website morganstanley researchdisclosures contact your investment representative 
+morgan stanley research broadway attention research management new york usa 
+for valuation methodology and risks associated with any price targets referenced this research report please contact the client support team 
+follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative 
+morgan stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and 
+that they have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views 
+this report simon flannery betsy graseck craig hettenbach katy huberty andrew humphrey sam min smittipon srethapramote 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+september morgan stanley beneficially owned more class common equity securities the following companies 
+covered morgan stanley research apple inc ingenico mastercard inc visa inc 
+within the last months morgan stanley managed managed public offering offering securities bank america capital 
+one financial corporation citigroup inc discover financial services ebay inc google inc morgan chase mastercard inc mobile 
+inc verizon communications wells fargo 
+within the last months morgan stanley has received compensation for investment banking services from american express company bank 
+america capital one financial corporation citigroup inc discover financial services ebay inc google inc morgan chase 
+mastercard inc nxp semiconductor mobile inc verizon communications wells fargo 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from american express 
+company apple inc bank america capital one financial corporation citigroup inc discover financial services ebay inc gemalto 
+google inc ingenico morgan chase mastercard inc nxp semiconductor samsung electronics mobile inc verizon 
+communications visa inc wells fargo 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from 
+american express company bank america capital one financial corporation citigroup inc discover financial services ebay inc google 
+inc morgan chase mastercard inc nxp semiconductor mobile inc verifone systems inc verizon communications wells 
+fargo 
+within the last months morgan stanley has provided providing investment banking services has investment banking client 
+relationship with the following company american express company apple inc bank america capital one financial corporation citigroup 
+inc discover financial services ebay inc gemalto google inc ingenico morgan chase mastercard inc nxp 
+semiconductor samsung electronics mobile inc verizon communications visa inc wells fargo 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the 
+past has entered into agreement provide services has client relationship with the following company american express company apple 
+inc bank america capital one financial corporation citigroup inc discover financial services ebay inc google inc morgan chase 
+mastercard inc nxp semiconductor mobile inc verifone systems inc verizon communications visa inc wells fargo 
+employee director consultant morgan stanley director verifone systems inc verizon communications this person not 
+research analyst member research analyst household 
+morgan stanley llc makes market the securities american express company apple inc bank america capital one financial 
+corporation citigroup inc discover financial services ebay inc google inc morgan chase mastercard inc nxp semiconductor 
+mobile inc verifone systems inc verizon communications visa inc wells fargo 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation 
+based upon various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall 
+investment banking revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making 
+providing liquidity and specialized trading risk arbitrage and other proprietary trading fund management commercial banking extension credit 
+investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered 
+morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed this 
+report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below 
+morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not 
+the equivalent buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since 
+morgan stanley research contains more complete information concerning the analyst views investors should carefully read morgan stanley 
+research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon 
+investment advice investor decision buy sell stock should depend individual circumstances such the investor existing holdings 
+and other considerations 
+global stock ratings distribution 
+september 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell 
+alongside our ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the 
+stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended 
+relative weightings see definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy 
+recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+morgan stanley research 
+october 
+mobile payments 
+stock rating category 
+coverage universe 
+investment banking clients ibc 
+rating 
+count 
+count total ibc category 
+total 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received 
+investment banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the 
+relevant broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant 
+broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant 
+broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index 
+europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+stock price price target and rating history see rating definitions 
+morgan stanley research 
+october 
+mobile payments 
+morgan stanley research 
+october 
+mobile payments 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc 
+morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the 
+same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities american express company apple inc bank 
+america capital one financial corporation citigroup inc ebay inc google inc morgan chase mastercard inc nxp semiconductor samsung 
+electronics mobile inc verizon communications wells fargo 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning 
+section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other factors 
+for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients 
+certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through alternate 
+electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and 
+using morgan stanley research you are indicating that you have read and agree bound our terms use http morganstanley terms 
+addition you consent morgan stanley processing your personal data and using cookies accordance with our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge including for the purposes setting your preferences and collect readership data that can deliver better 
+and more personalized service and products you find out more information about how morgan stanley processes personal data how use cookies and how 
+reject cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please 
+not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances 
+and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and strategies and encourages 
+investors seek the advice financial adviser the appropriateness investment strategy will depend investor circumstances and objectives the 
+securities instruments strategies discussed morgan stanley research may not suitable for all investors and certain investors may not eligible purchase 
+participate some all them morgan stanley research not offer buy sell the solicitation offer buy sell any security instrument 
+participate any particular trading strategy the value and income from your investments may vary because changes interest rates foreign exchange rates 
+default rates prepayment rates securities instruments prices market indexes operational financial conditions companies other factors there may time 
+limitations the exercise options other rights securities instruments transactions past performance not necessarily guide future performance estimates 
+morgan stanley research 
+october 
+mobile payments 
+future performance are based assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the 
+primary exchange for the subject company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based 
+upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading and capital markets profitability 
+revenues client feedback and competitive factors fixed income research analysts strategists economists compensation not linked investment banking 
+capital markets transactions performed morgan stanley the profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns 
+more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley may have 
+investment less than securities instruments derivatives securities instruments companies and may trade them ways different from those discussed 
+morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have investments securities instruments 
+derivatives securities instruments companies mentioned and may trade them ways different from those discussed morgan stanley research derivatives may 
+issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable 
+comprehensive information but make representation that accurate complete have obligation tell you when opinions information morgan 
+stanley research change apart from when intend discontinue equity research coverage subject company facts and views presented morgan stanley 
+research have not been reviewed and may not reflect information known professionals other morgan stanley business areas including investment banking 
+personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company 
+associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions take proprietary positions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such information for 
+your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research 
+may not distributed the public media quoted used the public media without the express written consent morgan stanley information 
+securities instruments that not trade taiwan for informational purposes only and not construed recommendation solicitation trade such 
+securities instruments mstl may not execute transactions for clients these securities instruments our readers hong kong information distributed hong 
+kong and behalf and attributable morgan stanley asia limited part its regulated activities hong kong you have any queries concerning morgan 
+stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not 
+constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest such securities 
+and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental authorities themselves 
+morgan stanley research disseminated brazil morgan stanley japan morgan stanley mufg securities ltd and for commodities 
+related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts responsibility for its contents 
+and bank morgan stanley hong kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley 
+asia singapore securities pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its 
+contents and should contacted with respect any matters arising from connection with morgan stanley research and bank morgan stanley singapore 
+branch registration number australia wholesale clients within the meaning the australian corporations act morgan stanley australia limited 
+holder australian financial services license which accepts responsibility for its contents australia wholesale clients and 
+retail clients within the meaning the australian corporations act morgan stanley wealth management australia pty ltd holder 
+australian financial services license which accepts responsibility for its contents korea morgan stanley international plc seoul branch india 
+morgan stanley india company private limited indonesia morgan stanley asia indonesia canada morgan stanley canada limited which has 
+approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth 
+management limited niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley 
+morgan stanley group company which supervised the spanish securities markets commission cnmv and states that morgan stanley research has been written 
+and distributed accordance with the rules conduct applicable financial research established under spanish regulations the morgan stanley 
+llc which accepts responsibility for its contents morgan stanley international plc authorized the prudential regulatory authority and regulated the 
+financial conduct authority and the prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes 
+section the financial services and markets act research which has been prepared any its affiliates morgan stanley private wealth management 
+limited authorized and regulated the financial conduct authority also disseminates morgan stanley research the private investors should obtain the 
+advice their morgan stanley international plc morgan stanley private wealth management representative about the investments concerned rmb morgan 
+stanley proprietary limited member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited 
+joint venture owned equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand 
+limited 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services 
+authority the dfsa and directed professional clients only defined the dfsa the financial products financial services which this research relates will 
+only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre 
+regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail customers defined the 
+qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment 
+advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms comments and 
+recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this reason make 
+investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the following companies business countries which are generally subject comprehensive sanctions programs administered enforced the department 
+the treasury office foreign assets control ofac and other countries and multi national bodies samsung electronics 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties 
+representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating such data the 
+global industry classification standard gics was developed and the exclusive property msci and morgan stanley research portions may not 
+reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley research 
+the americas 
+the 
+broadway 
+broadway 
+new york 
+new 
+york 
+united 
+states 
+united 
+states 
+tel 
+tel 
+morgan stanley 
+europe 
+europe 
+bank street canary wharf 
+street 
+london 
+wharf 
+london 
+united kingdom 
+united 
+tel 
+tel 
+japan 
+japan 
+otemachi chiyoda 
+tokyootemachi 
+chiyoda 
+tokyo 
+japan 
+japan 
+tel 
+tel 
+asia pacific 
+asia pacific 
+austin road west 
+austin road west 
+kowloon 
+kowloon 
+hong kong 
+hong 
+kong 
+tel 
+tel 

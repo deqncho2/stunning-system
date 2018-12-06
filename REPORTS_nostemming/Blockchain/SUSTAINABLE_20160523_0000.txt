@@ -1,0 +1,386 @@
+may 
+sustainable and responsible 
+morgan stanley international plc 
+victoria chapelow 
+victoria chapelow morganstanley 
+soundbite blockchain 
+the solution for supply 
+chain transparency 
+arly uses blockchain are highlighting its potential 
+provide visibility into the provenance good 
+commodity this short note look the 
+benefits and current limitations 
+verifying suppliers practices one the key challenges for companies 
+especially where subcontracting widespread customers are increasingly 
+focused the origin their products particularly after incidents such the 
+rana plaza disaster april whilst many companies have sought 
+improve transparency their supply chain increasingly complex and global 
+supply chains are making harder for company have oversight 
+such the real details behind supply chains are largely opaque little 
+information known about whether the food eat the mobile phone and 
+computer use every day have been produced using slave child labour 
+unsafe working conditions caused environmental destruction funded 
+violent and corrupt political regimes 
+there has been growing pressure from customers governments and ngos 
+companies provide greater transparency their supply chain initiatives 
+include the supply chain disclosure under the modern slavery bill and 
+the conflict minerals disclosures rules part the dodd frank wall street 
+reform and consumer protection act companies themselves have 
+been working map their supply chains perform internal audits and provide 
+clear guidance conduct however guaranteeing the integrity supply chain 
+costly process and many these strategies only far help provide 
+stakeholders with transparency the origin their products 
+can blockchain provide the answer supply chain transparency blockchain 
+enables the identification the provenance product enabling 
+understand where did come from where did who owns and who 
+bought effectively allowing see the life story item everledger barclays demo days techstars accelerator presentation for example enables 
+the consumer have proof that the apple they are eating was grown 
+organic farm the diamond they are wearing not blood diamond for 
+conflict minerals could mean the end conflict mineral surveys for suppliers 
+because all minerals would have stamp stating the smelter mine origin 
+which would accompany the mineral each stage processing 
+transformation jason busch supply chain expert spend matters nov 
+jessica alsford cfa 
+jessica alsford morganstanley 
+faty dembele 
+faty dembele morganstanley 
+morgan stanley llc 
+eva zlotnicka 
+eva zlotnicka morganstanley 
+click here download our original note embedding 
+sustainability into valuation 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+how does the blockchain actually work the blockchain shared distributed 
+ledger that can track items value and allows individuals inspect and audit 
+transactions they are recorded information encrypted code and added the 
+chain small block that everyone can see and for every transaction that occurs 
+order for the block added must verified the blockchain users and 
+therefore this stops fraudulent block being added the chain 
+furthermore the blockchain allows the use smart contracts which are effectively 
+legal contracts where there need for third party enforce the clauses because 
+they are visible all users everledger for example two people sign agreement 
+stating the ownership diamond will transferred person pays certain sum 
+money certain date person the smart contract transfers the ownership the 
+diamond payment however payment not made time then the smart contract 
+does not transfer ownership everledger 
+see four key benefits the blockchain immutable records are permanent 
+and cannot changed records are secure distributed ledgers are inherently difficult 
+for cyber attackers breach because there are multiple copies the same ledger and 
+therefore hacker would have attack every ledger simultaneously for the 
+participants not spot the change transactions are transparent for all users see the blockchain works tracking every transaction across the supply chain thus opening 
+the visibility the supply chains and has the benefit being scalable looking 
+further out traceability product transactions may also help with tax transparency 
+there are emerging cases blockchain advancing supply chain transparency already 
+blockchain being used wide range areas both financial and non financial 
+including the certification and tracking diamonds art and digital music see exhibit 
+the financial services sector currently leading the field experimenting with and 
+implementing the technology but not the only industry disrupted ibm banking blockchain 
+blockchain being used track and protect diamonds everledger establishing 
+digital passport for each diamond record its provenance travel and any transactions 
+with unique cryptographic fingerprint distributed ledger technology beyond 
+blockchain the first stage the creation which records the digital 
+dna the diamond capturing the colour clarity carat and cut data points 
+that describe diamond physically girdle diameter the diamond and then laser 
+inscribes the diamond with serial number the diamond then assigned digital 
+passport the blockchain track every transaction that occurs according the 
+company which was set april there are now million diamonds the 
+blockchain everledger now working with insurance companies fraudulent claims 
+and interpol diamonds crossing borders and entering the black market 
+exhibit emerging use cases blockchain 
+company name 
+industry 
+description 
+ascribe 
+art 
+ascribe works provide artists with the tools register their work with unique cryptographic which 
+can stored the blockchain this allows artists gain visibility into where their work distributed 
+and receive fair payment reducing issues fraud copyright ascribe 
+monegraph 
+art 
+monegraph allows digital creators construct licences for their work the information about who made 
+work who owns and what the license terms are stored monegraph database but also stored 
+the bitcoin blockchain this provides independent verification the attribution and ownership 
+information the creator stays control their intentions around their work present monegraph 
+manages all blockchain transactions monegraph 
+everledger 
+insurance diamonds 
+everledger uses the blockchain track individual diamonds from the mine the consumer the industry 
+attracts relatively high level paper forgery and the blockchain helps reduce fraud and prevent blood 
+diamonds entering the market everledger 
+provenance 
+retail 
+provenance aims record all products the retail supply chain the blockchain and make them 
+searchable for consumers for example you will able scan code can tuna and know 
+exactly where the tuna was caught provenance org 
+blockverify 
+pharmaceuticals luxury items blockverify aims track and verify tagged products high value against counterfeit products diverted 
+diamonds electronics 
+goods stolen merchandise and fraudulent transactions each product has recorded history from origin 
+the blockchain blockverify 
+source morgan stanley research 
+however the blockchain still very new technology and very much the 
+experimental phase are likely see different blockchains for different use cases 
+rather than one overarching blockchain questions arise whether blockchain will 
+used large scale provide supply chain transparency will the blockchain just 
+used for the luxury market where are currently seeing use cases will expand 
+the mass market identify some limitations which are not insurmountable for its use 
+tool for supply chain transparency large scale see also appendix 
+identification the good purchased the blockchain works recording details 
+good through process tagging passporting everledger for example records 
+diamonds digital and laser inscribes code into the diamond this means that when 
+transactions are recorded the blockchain they can tied back that exact 
+diamond however for goods that are not unique nature such coffee beans cocoa 
+and tin for example difficult understand how the transactions the blockchain 
+would matched the physical good being transferred such may see more 
+uses the blockchain for high level supply chain mapping and luxury goods however 
+one solution has been package products and stamp them with codes and rfid 
+tagging provide traceability from source 
+energy cost the blockchain may not energy efficient according tracking website 
+blockchain info they logged megawatt hours electricity consumption from the 
+bitcoin blockchain over hour period which the equivalent the power 
+homes bbc news more recently analysis the government office 
+for science report distributed ledger technology beyond block chain estimated 
+that the energy requirements run bitcoin are excess and may comparable 
+the electricity usage ireland however new blockchains are emerging such that 
+used everledger which don need large numbers data miners and therefore have 
+lower energy costs 
+set cost who funds the cost building new infrastructure track supply chains 
+far have seen examples where third parties such everledger create private 
+distributed ledger for insurance companies and diamond companies use when 
+purchasing and tracking diamond transactions however they ultimately need create 
+profit viable alternatives may include industry consortiums third party 
+organisations such fairtrade championing the technology 
+scalability the public distributed ledger currently not available for everyday 
+transactions the high street internet largely because scalability around network 
+bandwith storage and even processing power see global financials fintech global 
+insight blockchain banking disruptive threat tool apr indeed 
+according blockchain info the median transaction confirmation time for the bitcoin 
+blockchain has been between and minutes over the last year this compares 
+visa which capable processing transaction messages per second visa 
+factsheet june however this may not issue for some markets such the 
+luxury market where the level transactions much lower and new blockchains are 
+being designed with faster processing power 
+volume order for the blockchain solution for supply chain transparency 
+will ultimately require all members the supply chain participate this likely 
+take time and result change culture 
+whilst many these problems are being resolved the full benefits and limitations 
+the blockchain will take some time emerge the long term opportunity clear 
+improving supply chain transparency but whether this across all supply chains just 
+limited use cases such the luxury market uncertain over the next few years will 
+look out for use cases both the financials sector see appendix for proposed timeline 
+and those that focus ethical supply chains such conflict minerals cocoa coffee 
+etc which could provide the tipping point for large scale use adoption 
+other relevant research reports 
+global financials fintech global insight blockchain banking disruptive threat tool apr 
+video financials blockchain banking disruptive threat tool may 
+asx limited leading the pack feb 
+risky business asx who will checkmated chess mar 
+video interview with asx deputy ceo blockchain aspirations mar 
+appendix key hurdles cross make blockchain reality 
+financial services 
+exhibit framing the hurdles adopting blockchain what watch for 
+morgan stanley research published global financials fintech global insight blockchain banking disruptive threat tool april 
+appendix roadmap for adoption distributed ledger financial institutions 
+exhibit financial infrastructure intermediaries iterating path improve efficiencies using blockchain over the next decade 
+morgan stanley research published global financials fintech global insight blockchain banking disruptive threat tool april 
+disclosure section 
+morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the prudential 
+regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial services and 
+markets act research which has been prepared any its affiliates used this disclosure section morgan stanley includes rmb morgan 
+stanley proprietary limited morgan stanley international plc and its affiliates 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report jessica 
+alsford cfa victoria chapelow eva zlotnicka 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+april 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+count 
+total 
+count 
+total 
+ibc 
+rating 
+category 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers hong 
+kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities hong 
+kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and bank morgan stanley hong kong branch 
+singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte ltd 
+registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and bank morgan stanley singapore branch 
+registration number australia wholesale clients within the meaning the australian corporations act morgan stanley australia 
+limited holder australian financial services license which accepts responsibility for its contents australia 
+wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents korea morgan stanley 
+international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia indonesia canada 
+morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley bank 
+frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley 

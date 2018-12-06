@@ -1,0 +1,1535 @@
+technology payments banking and retail november 
+morgan stanley research 
+november 
+technology payments banking 
+and retail 
+mobile payments landscape unfolding 
+and adoption poised accelerate 
+morgan stanley llc 
+craig hettenbach 
+craig hettenbach morganstanley 
+joseph moore 
+joseph moore morganstanley 
+betsy graseck cfa 
+betsy graseck morganstanley 
+kimberly greenberger 
+kimberly greenberger morganstanley 
+katy huberty cfa 
+mobile payments gathering steam the ecosystem begins 
+broaden following the early push from apple pay see positive 
+stock implications for nxpi aapl jpm and dfs and potential 
+negative implications for gemalto 
+kathryn huberty morganstanley 
+morgan stanley international plc seoul branch 
+shawn kim 
+shawn kim morganstanley 
+morgan stanley llc 
+simeon gutman cfa 
+key stock implications continue view nxpi beneficiary 
+growth nfc secure element leveraging its dominant market position 
+capture the expected cagr through recent earnings setback calls 
+the company growth trajectory into question but see growth rebounding 
+after for aapl think the company early lead with apple pay and 
+software services mix more broadly are not fully reflected its valuation 
+only and cash adjusted banking view jpm best 
+positioned leveraging its cardholders and announcing chase pay last 
+month cards believe dfs positioned capture share near term 
+mobile transactions with its applepay promotion the negative side 
+gemalto has lagged part due early focus mobile operator wallets 
+looking make ground but seems less well positioned 
+the mobile payments landscape continuing fragment with 
+samsung and google now competing with apple expect microsoft 
+paypal and china smartphone oems join the race well 
+apple pay supported merchant locations and banks credit card 
+issuers well massive installed base early leader mobile 
+payments expect see the service rolled out more 
+international locations well added support for merchant rewards 
+programs the android camp our opinion google android pay post its 
+partnership with mobile carriers will have leg samsung pay the 
+service will come pre installed smartphones sold verizon and tmobile running android lollipop and above 
+simeon gutman morganstanley 
+smittipon srethapramote 
+smittipon srethapramote morganstanley 
+banks the empire strikes back jpm launches chase pay clearxchange and 
+early warning merge the national automated clearing house association 
+nacha announces same day ach settlement coming the fall 
+launches the message clear banks are fighting hard keep their 
+cheryl pate cfa 
+cheryl pate morganstanley 
+morgan stanley international plc 
+andrew humphrey 
+andrew humphrey morganstanley 
+morgan stanley llc 
+vinayak rao cfa 
+vinayak rao morganstanley 
+jerry liu 
+jerry liu morganstanley 
+manan gosalia 
+manan gosalia morganstanley 
+vasundhara govil 
+vasundhara govil morganstanley 
+spencer mains 
+spencer mains morganstanley 
+joshua siber cfa cpa 
+joshua siber morganstanley 
+semiconductors 
+north america 
+industryview 
+addition expect see microsoft and paypal though its acquisition 
+paydiant roll out mobile payment solutions well finally expect see 
+pick mobile payment adoption china smartphone oems next year 
+once apple pay introduced the region expect oems the region 
+adopt more turnkey solution similar nxp integrated controller 
+secure element chip given their limited resources and short product 
+cycles 
+line 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research result 
+investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan 
+stanley research investors should consider morgan 
+stanley research only single factor making their 
+investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+alysts emp yed affiliates are registered ith finra may 
+asso ciated erso memb may ject nasd nyse 
+restrictio mmu icatio ith ject lic earan ces 
+tradin secu rities eld research alyst acco 
+technology payments banking and retail november 
+morgan stanley research 
+dominant position payments could take long time but these changes 
+could potentially disruptive companies that have taken more risk build 
+mobile real time payments like industry leader paypal 
+security key area focus for mobile payments the advent 
+tokenization which replaces the actual digit payment credential with 
+dummy number has provided big boost enhancing the security 
+architecture mobile payment solutions apple pay uses tokenization 
+embedded secure element ese model while android pay combines 
+tokenization along with host card emulation hce the other hand 
+samsung pay has adopted hybrid approach storing tokens ese trust 
+zone well potentially using hce for authentication depending the 
+region and device 
+the debate between secure element hce don expect one approach 
+dominate the other but rather that both exist depending the service 
+provider smartphone oem banks internet companies well the 
+level security desired addition after the demise softcard the 
+sim based secure elements are mostly seen operator wallet launches 
+europe and china finally see both near field communication nfc and 
+quick response codes being utilized for mobile payment solutions given 
+that service providers are limited not controlling the entire ecosystem 
+networks and play key role mobile payments given that 
+the majority mobile wallets coming into the market are using nfc hce and 
+tokenization expect the networks continue play central role the 
+industry moves towards mobile form factor for payments moreover visa 
+and mastercard digital enablement services are helping accelerate the rollout mobile wallet solutions eliminating the need for bilateral agreements 
+between issuers and the digital wallet providers 
+merchant support for mobile payments picking although merchant 
+acceptance for mobile payment options still limited expect that the 
+europay mastercard and visa emv upgrade cycle will help fix the problem 
+majority emv terminals being shipped are also nfc capable also 
+believe that longer processing times associated with emv cards checkout 
+could incentivize merchants encourage usage contactless nfc payment 
+methods the pos finally expect the second iteration mobile wallets 
+incorporate loyalty rewards integration with merchants driving motivation 
+support mobile payments 
+for previous research mobile payments please see the following 
+reports the coming battle for the wallet blue paper revisit apple pay 
+focus stock implications apple potential payment system and 
+implications apple mobile payments strategy 
+technology payments banking and retail november 
+morgan stanley research 
+nfc market see strong growth over the coming years and see nxp 
+the primary beneficiary 
+expect the nfc market grow over the next years driven rising penetration smartphones 
+and other connected devices expect significant growth nfc device shipments drive nxp sam 
+from representing cagr exhibit exhibit 
+exhibit expect nxpi sam grow cagr from 
+nfc sam 
+total nfc devices 
+rce rgan stan ley research 
+technology payments banking and retail november 
+morgan stanley research 
+exhibit nfc device shipments grow cagr from 
+nfc mobile devices 
+others connected devices 
+rce rgan stan ley research 
+nfc devices clu nfc tro llers nfc tags secu elemen 
+its analyst day november nxp unveiled year growth target cagr for its secure 
+connected devices business still outpacing overall market growth think the pick mobile 
+payments the android camp china next year especially given their inclination adopt turnkey solution 
+due short product cycles and limited resources important growth catalyst for nxp importantly 
+nxp the only company know that can provide all three elements nfc controller secure element 
+secure that are required deliver secure mobile payment offering placing the company enviable 
+position benefit from mobile payment growth the region 
+nxp partnership with qualcomm which has extensive installed base smartphones mobile 
+chipsets shipped should help nxp penetrate oems beyond apple samsung who are looking deploy 
+mobile payment solutions qualcomm integration nxp nfc controller and embedded secure element with 
+its snapdragon processor line should help further boost nfc adoption low mid end smartphones 
+enabling oems reduce time market and lower the investment required for launching mobile wallet 
+applications qualcomm covered james faucette 
+finally think acceleration nfc adoption for non payment use cases areas such marketing 
+authentication medical and gaming could eventually drive upside nxp growth target home appliances 
+itself where global shipments are reaching utilization nfc tags could add asp 
+and long term penetration the nfc tam 
+nxp has strong leadership position nfc and payment security with market share chip based 
+payment cards and nearly share nfc for smartphones and nfc tags over time nxp share nfc 
+controllers tags likely decline the market becomes even more commoditized and nfc combo chips gain 
+traction that said expect standalone controllers represent the majority the nfc controller market over 
+the next couple years due the complexities involved modifying the current antenna solution for nfc 
+additionally the company long history with secure mcus should help nxp maintain its lead the secure 
+element part the nfc market competitors the nfc market include infineon broadcom 
+stmicroelectronics inside secure renasas and samsung 
+nxp enjoys dominant share the nfc tag market and given the pick real world nfc applications 
+see the company key beneficiary along with companies such broadcom stmicro and infineon 
+technology payments banking and retail november 
+morgan stanley research 
+stmicro and infineon are covered francois meunier recently attended the nfc solutions summit 
+key takeaways from nfc solutions summit nxp remains the driver seat where there was lot focus 
+both keynote speeches and panels the growth non payment nfc applications areas such 
+retail marketing authentication healthcare gaming and transportation nfc tags provide great way for 
+merchants control the pre and post sale consumer experience while certain cases establishing 
+relationship with the consumer for the lifetime products further cementing branding and consumer 
+retention see strong cases for nfc detection counterfeit products areas such luxury goods 
+medicines expensive wines and consumer electronics addition nfc increasingly being utilized for access 
+control government offices universities hotel keys and home security healthcare nfc simplifying the 
+patient identification monitoring and record transfer update process for hospitals finally gaming another 
+area which manufacturers are looking use nfc add social element the consumer experience 
+technology payments banking and retail november 
+morgan stanley research 
+latest developments mobile payments 
+expect see step new mobile payments offerings 
+the mobile payment landscape likely remain fragmented for the next years but eventually should 
+consolidate around business models that offer incremental value consumers our view consumers are 
+likely inundated with mobile wallet options over the next months different entities smartphone 
+oems banks mobile operaters well internet software companies such google microsoft and paypal 
+that are involved the payment ecosystem launch their own wallet offerings ensure branding and control 
+update apple pay 
+apple pay far the most popular mobile payment offering today though still accounts for very small 
+portion transactions even for merchants with relatively high pay penetration apple has expanded pay 
+availability since launching year ago adding more merchant locations issuers and pay enabled devices 
+more than merchant locations offer pay today growing from year ago and apple said will 
+million the end the year with more come next year including starbucks stores pay also available 
+many more apps including popular ones such airbnb priceline starbucks target and uber now has 
+banks credit card issuers supporting pay from six year ago apple starting add more loyalty and 
+rewards cards which many retailers and users have asked for since launch the wall street journal and others 
+report that the company planning add payments pay and ceo tim cook said expect more 
+features the future pay now available the and and apple will add canada china singapore hong 
+kong and spain possibly the next year think pay has gotten off good start but takes time change 
+consumer behavior and build large ecosystem particularly when multiple parties have buy issuers 
+processors merchants and users with enabled devices with visa and mastercard new digital enablement 
+initiatives apple less likely directly monetize pay any significant way but still believe this will enhance 
+the value apple ecosystem and make device revenue more annuity like and less transactional apple 
+covered katy huberty 
+samsung pay coming the heels apple pay 
+samsung electronics announced its new mobile payment service samsung pay along with the launch the 
+galaxy march samsung pay incorporates the magnetic secure transmission mst technology from its 
+looppay acquisition well the tried and tested nfc technology mst enables smartphones emulate the 
+magnetic field generated the magnetic stripe traditional payment cards transfer payment data the 
+terminal the biggest advantage incorporating both technologies nfc and mst that the service will 
+work most existing payment terminals unlike apple and android pay that currently work only terminals 
+supporting contactless transactions for newer terminals that support nfc technology samsung pay defaults 
+nfc mode and for the rest seamlessly transition mst samsung collaborating with visa mastercard and 
+american express leverage existing tokenization infrastructure for issuing tokens the phone samsung pay 
+currently works with galaxy edge edge plus and note devices 
+samsung pay success korea and robust partnership the korea was big success with over 
+million subscribers october spread across million purchases the market both apple pay and 
+android pay are early but samsung partnership has widened considerably its coverage among banks the 
+around with the announcement that cards issued new banks will supported chase 
+bank with discover cards early well existing support from bank america citi bank 
+synchrony financial first data corp blackhawk network and american express the top carriers support 
+samsung pay including verizon and samsung indicated that three out four samsung pay transactions 
+the were made via mst since the launch september rather than nfc showing the advantage 
+provided mst and repeat usage with average transactions per user the over the past month 
+technology payments banking and retail november 
+morgan stanley research 
+samsung pay date accepted more places than any other mobile payment service samsung 
+estimates more than merchants worldwide accepted samsung pay contrast apple pay google 
+wallet which requires select merchants where nfc accepted secure does not store share payment 
+information and easy set and use with the latest samsung galaxy device samsung pay will become 
+available non flagship devices soon and more interestingly the next gear smartwatch samsung might also 
+look ways support other android manufacturers the future although this might conflict with google 
+android pay samsung covered shawn kim 
+google joining hands with carriers well launching android pay enable 
+faster adoption mobile payments 
+google rated covered brian nowak launched its latest mobile payments initiative android pay 
+september similar apple pay the service can utilized for making store transactions and google 
+expects add support for making line payments well soon android pay will available for android 
+phones with nfc capability running android kitkat above addition payments the service also 
+expected provide users with easy reference recent transactions with details about the respective merchants 
+importantly consumers lose their smartphones they can use android device manager reset passwords 
+remotely wipe out their devices android pay supports credit debit cards payment networks visa 
+mastercard american express and discover and supported most the leading banks including citi wells 
+fargo and capital one 
+similar apple pay android pay utilizes tokenization replace the actual digit credit card personal 
+account number pan with dummy number relies hce for transferring the payment credential the 
+payment terminal complete the transaction unlike apple pay which uses secure element chip store 
+tokens and generate dynamic cryptograms hce enables storage payment credentials the cloud rather than 
+secure location the phone such the embedded cecure element sim based system thus removing the 
+dependency the carriers after the launch hce with much fanfare had yet see any major 
+mobile payment product launches from the smartphones oems based the technology until android and 
+samsung pay the other hand banks and retailers that control neither the sim the embedded secure 
+element have expressed greater interest hce for their mobile payment initiatives 
+after having its initial foray mobile payments google wallet blocked the carriers google recently 
+joined with verizon wireless and mobile buying out their mobile payment initiative softcard the 
+deal provides the company with some intellectual property related mobile payments but more importantly 
+will ensure that its android pay application will come pre installed smartphones sold verizon and 
+mobile running android lollipop and above this our opinion major advantage for google for 
+consumer adoption compared other mobile payment services the android platform including those from 
+samsung and possibly from paypal the future where consumers will have download separate application 
+google has also launched google wallet separate application that will focus peer peer payments 
+similar venmo and square cash users the old google wallet will need transition android pay for 
+making mobile transactions merchants and their previously stored payment credentials google wallet will 
+automatically transfer over 
+microsoft also signaling its intent join the mobile payments race 
+recent interview microsoft executive had commented that the company looking get involved 
+mobile payments with windows although didn provide much details the actual implementation 
+the payment solution the company mobile payment system expected support not only credit cards but 
+also loyalty cards coupons for making both store and online payments addition think the company 
+use nfc the communication technology similar mobile payments solutions from apple google and 
+samsung supports microsoft well the company had used for its windows wallet windows phone 
+for authentication the company could look use either windows hello which can unlock devices with 
+fingerprint iris facial recognition software that was introduced with windows 
+technology payments banking and retail november 
+morgan stanley research 
+microsoft during the company winhec event china had demonstrated mobile payments system running 
+windows addition the company has embraced host card emulation hce its windows 
+similar google support the technology with android kitkat furthermore the company has also filed for 
+money transmitter license all states and has received some approvals signaling its strong intention 
+contender the space microsoft covered keith weiss 
+our opinion the company will face two major challenges with its mobile payment endeavor will 
+playing catch apple pay which has already been adopted the initial mobile payments enthusiasts 
+well google and samsung pay android and insignificant number windows smartphone users 
+compared iphone ios and android smartphones this limits the user base that microsoft could target with 
+its mobile payments service windows smartphones 
+paypal partnering with retailers 
+paypal agreed acquire paydiant for earlier this year paydiant licenses its technology retailers 
+enabling them launch their own branded mobile wallet applications the company customer roster includes 
+mcx led walmart the retail consortium representing retail spending which expected launch its 
+mobile wallet currentc the acquisition enables paypal until this point generally left out the recent high 
+profile launches apple samsung pay participate the mobile payments space partnering with retailers 
+that don achieve the same level brand awareness through third party services they would their own 
+emv launched the tipping point for mobile payments 
+october from this day forward retailers own fraud risk they don have emv compliant point sale 
+pos systems this means you will wait line longer check out why emv cards take seconds process 
+that from seconds for mag stripe swipe what about applepay readers that micro seconds watch 
+for mobile payments take off retailers turn nfc enable mobile wallet payments and encourage you 
+use your phone pay 
+jpm launches chase pay positive for share gain 
+jpm giving its clients million cards strong mobile wallet jpm now needs merchants sign jpm 
+already has strong dialogue with merchants and its merchant acquirer paymentech has market share 
+total spend mcx partnering with chase pay suggesting some large scale retailers will likely signing 
+what does jpm bring the table 
+first clean single discount rate for each merchant which includes the network merchant acquiring and 
+card issuer fees extra fees 
+second volume discounting the more business merchant pushes over chase pay the lower the fee 
+third fraud protection chase pay approves the payment jpm eats any fraud costs while some this 
+because codes aren emv compliant they have this competitive one less thing for 
+retailer worry about did that fraud happen emv compliant machine not 
+fourth aggregated merchant loyalty rewards consumers will able see all their loyalty rewards from 
+the various merchants their chase pay app 
+over time would not surprised chase integrated real time and payments into the chase pay 
+mobile wallet which should allow convenient direct debit functionality something that non bank cannot offer 
+over time think chase pay may able integrate real time pay into this app member 
+clearxchange which runs over ach not debit rails this could positive for jpm fees the limiting factor 
+this app currently chase pay limited jpm cards but with million cards that consumer 
+spend see the empire strikes back section for more details 
+technology payments banking and retail november 
+morgan stanley research 
+clearxchange merges with early warning banks bringing back the band 
+the bank consortium owned clearxchange and early warning announced their merger october for 
+close december this big our view will integrate early warning authentication and 
+verification with clearxchange mobile payment capabilities banks are gearing offer robust real 
+time payments additionally the national automated clearing house association nacha will enable 
+same day ach settlement for push payments fall that will enable banks offer real time push 
+payments over ach with this clearxchange system this will directly compete with paypal real time offering 
+potentially disrupting the advantage they created taking more risk than banks offering clients real time 
+payments many years ago and also their venmo acquisition already clearxchange has financial 
+institutions using and early warning has financials using expect for fee 
+apple reported the wall street journal talking clearxchange about how add functionality 
+its devices moving beyond over time the joint company might able offer authentication and 
+verification the point sale this could potentially take share from visa and mastercard network leaders 
+clearxchange bank owners are bank america jpm usb and wells fargo early warning bank 
+owners are bank america capital one jpm and wells fargo pnc will join owner upon merger 
+bbt shows banks are fintechs too 
+bbt launched its mobile app september after three years investing and several tens millions 
+dollars bbt has shown that banks are fintechs too believe functional mint personal 
+money manager and budgeting tool enabling its account holders aggregate their financial information 
+one app fully customizable enabling users easily design their unique banking interface even enables 
+users add news feeds weather sports and more similar capital one wallet shows that even 
+regular bank with lots branches can design mobile apps that appeal millennials shouldn lost 
+anyone that and capital one are also part owners clearxchange early warning expect realtime pay 
+and will soon added these wallets too 
+dfs axp focusing digital win 
+dfs highly focused driving new account growth increasing wallet share existing customers and after 
+late entrance into applepay paying get into consumers mobile wallets with cash back promotion 
+applepay store purchases through year end believe this will drive strong adoption 
+among customers with applepay capability helping drive higher spending loan growth expect mobile will 
+become increasingly important channel over time amex our recent survey highlights gains made with 
+the younger generation see our sept note helped strong focus investment digital our view axp 
+expects its spending growth initiatives focused digital loyalty coalition april amex 
+announced payments partnership with jawbone enabling the fitness bands utilize nfc technology pos 
+amex also announced will the first bring applepay canada and australia this year with spain 
+singapore and hong kong ready 
+expect adoption mobile payments china pick 
+mobile payment enjoying strong initial adoption china evidenced mobile payment gross 
+merchandise value gmv reaching rmb after posting growth this 
+growth being driven part the shift internet usage from pcs smartphones the mobile payments 
+market china still dominated chinese internet companies rather than smartphone oems banks 
+alibaba alipay and tencent tenpay have dominant market share 
+expect see new mobile payments offerings from china smartphone oems next year connection with 
+the launch apple pay the region given their short product cycle and lower investments levels most 
+oems are likely adopt integrated nfc controller secure element secure approach for their mobile 
+payments solution similar apple pay which leverages nxp semiconductors nfc controllers and secure 
+technology payments banking and retail november 
+morgan stanley research 
+element chips its iphones watch and ipads for mobile payments 
+wearables 
+apple pay even better the apple watch accentuates pay two biggest selling points ease use 
+and security with the apple watch users not have reach into their pockets bags for their iphones 
+which makes using pay faster and easier once user enters his her passcode after putting the watch the 
+user stays authenticated and can use pay anytime without entering the passcode again verifying with 
+fingerprint like done iphone this further improves ease use and security the watch uses the 
+biometric sensors its back constantly verify that the user still wearing 
+similar features should coming the android ecosystem with android wear and android pay 
+google has laid the foundation for contactless payments through wearable devices for its platform should 
+only matter time until oems take advantage these features especially they compete with apple 
+recall that took just over two years after the iphone launched june for android take off 
+wearables should help contactless payments gain traction though smartphones are still the main 
+driver given the additional ease use and security wearables can provide contactless payments are even 
+more compelling however think only subset smartphone users will adopt wearable devices the 
+foreseeable future payment enabled smartphone shipments and installed base still the main driver 
+monitor for payment adoption 
+technology payments banking and retail november 
+morgan stanley research 
+which security architecture sims eses hce 
+believe the proliferation nfc handsets the latest count positive for adoption 
+secure elements ses these may not deployed across all handsets but the use embedded secure 
+elements high end models iphone samsung galaxy and edge suggests there could trickle 
+down security technology over time just like what has happened with other features first introduced 
+high end smartphones there some risk around ese from android hce our view however not 
+think these options mutually exclusive google acquisition softcard illustrates that the company may 
+looking keep number options open for secure authentication further down the line 
+broadly speaking nxp remains the dominant silicon player embedded secure elements though has split 
+some share with infineon recently the samsung galaxy being case point among tsms trusted service 
+manager gemalto focused initially mobile operator led payment schemes has not gained much 
+traction oem schemes some peers infineon tends have stronger position sim cards segment 
+where nxp does not have presence 
+latest developments security architecture 
+since our last update mobile payments there have been several major developments around secure element 
+architecture which could influence how nfc payment solutions develop 
+samsung launched the galaxy with embedded 
+samsung galaxy launched mobile world congress mwc included embedded supplied 
+oberthur the silicon supplied nxp china and infineon the rest the world the handset launch 
+coincided with the launch samsung pay samsung equivalent apple pay the launch illustrates our point 
+about the two options not being mutually exclusive samsung pay the galaxy can use tokens stored the 
+secure element samsung pay other devices can use hce for authentication long they are running 
+android kitkat later 
+hce gets boost from android pay 
+google launched android pay its developer conference may and part that announcement 
+become the first announced partner for visa new tokenization service this the tokenization service 
+used apple pay and appears likely use hce for authentication all devices running android kitkat 
+later the reliance hce could negative for embedded secure elements visa and mastercard 
+specifications longer require hardware based authentication for payment acceptance however with other 
+areas smartphone specification screen resolutions claimed data speeds would expect security 
+area likely see arms race between handset manufacturers have seen the high end think 
+this should lead increased deployment secure elements smartphones over time 
+one major factor android pay that google has negotiated the for the service google service 
+mandatory gsm this means will come pre installed all android handsets with the new default 
+this puts the service the same category google maps the chrome browser and likely have 
+substantial positive impact adoption 
+technology payments banking and retail november 
+morgan stanley research 
+google acquires softcard 
+google acquired the assets pertaining softcard previously isis march this could read one 
+two ways either google was seeking add some flexibility and expertise around the deployment sim based 
+secure elements the company was looking remove roadblock the deployment ese android 
+partners and its own payment solutions 
+softcard had previously prevented the sale devices primarily the samsung galaxy with ese the 
+united states google acquisition the company removes that issue given that softcard was joint venture 
+carriers suspect this deal paved the way for google able include android pay mandatory 
+handsets 
+what are the latest developments hce 
+visa and mastercard announced their support for hce ahead mobile world congress mwc early 
+this meant that any app android device can emulate nfc smartcard letting users tap initiate 
+transactions the handset can also act contactless card reader december less than months after 
+visa and mastercard announced their support for hce the royal bank canada rbc became the first north 
+american financial institution launch commercial implementation mobile payments using the hce 
+technology 
+several banks have launched products based hce software companies involved tokenization such 
+bellid sequent carta worldwide have moved capture the early deals this market think the launch 
+android pay creating explicit link with visa for provisioning activity will lead larger number 
+banks launching 
+now see standards and ecosystem around hce becoming better established visa latest tokenization 
+protocol being made available cost card issuers compared per provisioning event for the 
+previous version and per month maintenance fee furthermore there percentage fee 
+transactions compared apple pay therefore expect android pay very attractive 
+option for banks exhibit shows the announcements banks launching contactless payment services using 
+hce that have come across anticipate many more emerge over the next year 
+exhibit bank launches hce contactless payment schemes 
+rce rgan stan ley research 
+technology payments banking and retail november 
+morgan stanley research 
+what are the implications for embedded ses 
+apple and samsung are the two highest profile oems launch services the back embedded ses apple 
+pay and samsung pay respectively secure elements have become more widely deployed the smartphone 
+industry more than manufacturers over models manufacturers include embedded ses 
+handsets include apple samsung huawei xiaomi sony blackberry nokia 
+expect secure elements continue deployed handsets they remain the most secure option for 
+authenticating transactions are cheap and are becoming increasingly configurable and familiar service 
+providers looking launch mobile services that rely secure authentication given that high end handsets 
+have established the ese differentiator security would expect there trickle down effect 
+lower priced handsets over time 
+one other factor supporting growth embedded ses the current move create standards for embedded 
+sim cards esim euicc which may used the future handset manufacturers looking give consumers 
+additional choices between network operators services while managing handset churn more actively standards 
+around this are likely set during conjunction with the gsma and mnos worldwide expect this 
+lead increased deployment secure chips smartphones these can multi purpose containing sim 
+functionality well authentication for mobile payments and other services this market early stage but 
+view opportunity for secure element players 
+recognize tokenization could threat eses but means view these two options mutually 
+exclusive there could service launches the future from other players using mobile authentication that 
+might prefer use more secure options samsung pay allows for this possibility opening the secure 
+element architecture third parties the iphone ese not accessible third parties currently however with 
+other differentiated software and hardware features touchid being the most recent example would expect 
+this change over time 
+technology payments banking and retail november 
+morgan stanley research 
+what are the implications for sim based ses 
+continue see deployment sim based secure elements spite the limited traction that operator 
+mobile wallets have gained most markets where they have been launched apart from china 
+nfcworld details over handsets currently available with nfc nfc functionality becoming standard for 
+high and mid end smartphones not all these have secure elements which may create opportunity for 
+operators launch authentication services sim assuming some the barriers around complex ecosystems 
+can overcome 
+the sim alliance states that nfc sims sims including secure element were shipped this 
+represented modest all sims shipped though clearly higher percentage postpaid and lte sims 
+were mobile payment services are likely targeted volume growth nfc sims was compared 
+when they were total sim shipments exhibit 
+exhibit illustrates how nfc shipments broke down region the spread across regions has become 
+relatively broad although growth could moderate the was the largest market volume 
+believe demand could stagnate even decline given the acquisition softcard google view 
+supported the recent profit warning gemalto major supplier the the incentive for carriers 
+buy nfc sims limited given that the nationwide roll out the softcard wallet presumably postponed 
+indefinitely 
+would expect europe and china continue grow given ongoing operator wallet launches those 
+markets vodafone orange china mobile and china telecom have all been active buyers nfc sims recent 
+quarters and expect wallet roll outs continue believe wallet offerings from mnos need 
+improve these are gain any traction the market particularly terms enrolment process but also 
+believe mnos will continue support their attempts over 
+exhibit nfc sim shipments have grown 
+strongly 
+exhibit driven multiple regions 
+source simallieance morgan stanley research 
+source simalliance morgan stanley research 
+technology payments banking and retail november 
+morgan stanley research 
+what are the implications for the tsm model 
+principle believe some the barriers that have existed around deployment the tsm model are coming 
+down the samsung pay architecture involving tsm highlights the opportunity that exists for silicon players 
+oem payment schemes believe the size this opportunity increases with the number services that 
+can take advantage secure element based authentication with visa and mastercard offering digital 
+provisioning services these services are more widely available and increasingly standardized growth the 
+penetration nfc sims positive and believe tokenization also positive that multiple services 
+could use single token for authentication 
+however believe the economics being involved this part the value chain continue 
+deteriorate the original proposition tsm players such gemalto was that the company would generate 
+ongoing royalties from each different sets credentials provisioned onto sim based secure 
+element events recent months have illustrated two ways which these economics look extremely 
+challenged 
+single token authentication the increasingly prevalent use tokens for authentication 
+negative for tsm economics our view while tsm players such gemalto have capabilities 
+tokenization have also seen rise models such that recently adopted vodafone 
+conjunction with carta worldwide here secure credentials are stored the cloud with 
+credential provisioned the handset sim based ese practice this token can used 
+authenticate multiple sets credentials the cloud there therefore only single set 
+information that needs provisioned rather than the envisaged the tsm similar 
+still needs provide secure cloud platform for storing credentials though view this 
+smaller outlay for service providers 
+visa mastercard causing deflation the latest iteration visa digital enablement platform 
+vdep service provided free charge card issuers least subsidized other 
+revenue share arrangements with visa this makes sense all parties not least because 
+likely encourage banks and other service providers launch wallets etc using visa 
+authentication services which should channel higher volumes visa away from say digital 
+wallets clearly visa competition with gemalto and others for provisioning business here and 
+partnering with android pay has another high profile partnership place beside apple pay 
+agree that recent developments tokenization hce and the deployment sim based and embedded 
+secure elements positive for mobile payment infrastructure and should encourage wider roll out out 
+contactless payments however believe economics continue appear challenged for players such 
+gemalto who have the past asserted that the sim card created kind walled garden for them provide 
+these services believe the entry visa and the like into the market have also added significant deflationary 
+aspects 
+technology payments banking and retail november 
+morgan stanley research 
+update from the payments side 
+apple pay update 
+apple pay availability has expanded significantly since launching the october over 
+card issuing banks the and now support pay from six large issuers when the digital wallet 
+was first launched apple said october that over million merchant locations now accept pay more 
+than quadrupling locations launch and available locations will rapidly expand over million the end 
+this year apart from the apple pay currently the and expected rolled out canada later 
+this year and china likely next year for american express card holders specifically apple recently confirmed 
+apple pay will available canada and australia this year and singapore hong kong and spain next year 
+apple pay now available iphone plus and plus and apple watch for store use well 
+ipad air ipad pro and ipad mini and for app purchases compared just iphone and plus year 
+ago 
+merchants are coming around pay think going forward merchant locations major limiting factor 
+pay adoption and apple should focus adding locations where users shop frequently think the 
+company the right track has added taxis vending machines and quick service restaurants the last 
+year notably apple announced will add starbucks the end another merchant note best buy 
+the company agreed accept apple pay after having shunned first since best buy part the 
+merchant customer exchange mcx consortium merchants developing their own mobile payments app 
+believe that this change may have been triggered the expiration best buy initial contract with mcx 
+that bound member merchants exclusivity and think that more mcx merchants could follow suit 
+additionally target ceo another mcx sponsor retailer confirmed well that the company will open 
+supporting apple pay store once their payment system transition emv complete 
+apple should add features encourage users use pay more addition acceptance believe that 
+lack strong value proposition for the consumer another factor limiting apple pay and other mobile 
+wallets from gaining widespread adoption believe that integration loyalty rewards and offers will 
+key driving consumer adoption and expect the next iteration mobile wallets including apple pay 
+incorporate that into their wallet offerings this consistent with apple statement that will support loyalty 
+and rewards its developer conference this past june just the last few weeks seen kohl and 
+walgreens announce pay integration with their loyalty programs while most shoppers carry their most 
+frequently used credit debit cards with them they may not carry all their loyalty cards this feature could 
+encourage shoppers get into the habit using pay more 
+the wall street journal and others recently reported that apple will add payments this 
+consistent with our expectation that pay will add new features over time popular feature many services 
+have including paypal facebook and many banks own apps while will likely not generate revenue 
+especially since free most platforms transfer money between friends and family using debit cards 
+this feature should increase usage apple pay since apple controls its operating system the company could 
+better integrate this feature into its messages app similar facebook messenger enable users transfer 
+money with those physically near them similar what airdrop can with documents 
+while are bullish pay adoption see less opportunity directly generate profits through 
+this service since apple pay launch just over year ago visa launched its digital enablement program 
+vdep and mastercard launched its digital enablement service mdes see below essence these programs 
+allow issuers work with the networks enable tokenized mobile payments instead signing deals 
+individually with each service such apple pay potentially android pay and samsung pay the networks 
+far have postponed any new merchant charges for these services and may not charge the future opposed 
+apple which has successfully negotiated fee for each transaction that goes through pay right now 
+think the issuers will choose work with the networks rather than negotiate directly with apple the future 
+technology payments banking and retail november 
+morgan stanley research 
+and android pay already partner for both services while this may speed apple pay deployments 
+internationally means apple will not able monetize pay directly the future like they have this past 
+year apple may able come with additional features pay that can monetize however for now 
+assume the value enhancing the ios platform and improving ease use throughout the ecosystem 
+apple should expand pay reach within apps and into browsers apple available many popular apps 
+such airbnb priceline starbucks target and uber however not yet available browsers adding pay 
+more apps and websites could drive more usage our view iphones and ipads could simplify the 
+payment process shoppers can tap with their fingerprint touch instead filling out their credit card and 
+shipping information think the same can done pcs with shoppers itunes login similar paypal 
+industry trends should help accelerate pay adoption beyond apple efforts expand pay availability 
+discussed above and visa and mastercard new programs and the launch other nfc driven mobile wallets 
+such android pay should also help apple merchants need the same equipment accept both the larger 
+android user base roughly the ios base could motivate more merchants upgrade their point sales 
+the specifically the transition emv should also help many merchants are likely upgrade their 
+systems for emv and contactless payments the same time moreover given longer processing times for 
+emv transaction the point sale seconds merchants may have incentive encourage use the 
+contactless functionality their payments devices 
+visa and mastercard digital enablement program service help accelerate launch 
+new mobile solutions 
+the networks continue believe that adoption tokenization will critical safe and secure proliferation 
+digital payments both android pay and samsung pay that were launched the this past summer 
+implemented tokenization 
+facilitate the quick and easy roll out digital wallet services using tokenization technology visa has 
+launched commercial framework program called visa digital enablement program vdep mastercard has 
+similar program called mastercard digital enablement services express program mdes express these turnkey 
+program will eliminate the requirement for bilateral agreements between financial institutions and 
+technology wallet providers leveraging the networks relationships with fis through these 
+programs financial institutions all sizes will able gain access the latest digital payment services and 
+vice versa through simple onboarding process anticipated that part these programs there will 
+revenue share pass through fees between the fis and technology partners note that this construct 
+different from apple pay wherein fis and merchants signed bilateral agreements with apple google android 
+pay was the first client enroll for vdep and mdes express samsung pay also enrolled issuer participation via 
+vdep and mdes express 
+tokenization standards should continue evolve 
+think that tokenization standards may evolve they adapt for mode widespread adoption beyond apple 
+pay for example expect emv which issues manages the tokenization specifications introduce new 
+element called payor the transaction data this static non sensitive data field that will transmitted 
+along with the transaction data and will help merchants identify consumers that switch between swiping credit 
+card using apple pay tied the same card make transaction store app 
+note that both and continue waive any tokenization related fees through end besides and 
+which are likely the primary token service providers our view think there potential for bank 
+consortiums such the clearing house large processors such first data develop their own token 
+services well although such announcements have been made thus far believe that issuing banks also 
+have the option managing their tokens house although thus far all have chosen outsource and 
+for apple pay 
+technology payments banking and retail november 
+morgan stanley research 
+banks consumer finance the empire strikes back 
+with number mobile wallet offerings from smartphone manufacturers mobile operators and 
+internet software companies like google and paypal microsoft expected join the crowd banks consumer 
+finance companies are also making significant investments mobile and payments keep their lead and 
+expand their reach 
+banks realize that there room partner with new entrants certain levels the payment chain but want 
+now bring more the payment chain house after having outsourced lot starting the 
+jpm chase pay the capital one wallet bbt mobile app are some examples expect banks invest 
+build out products for both consumers and corporates and that the current infrastructure build out leads 
+more product announcements 
+jpm launches chase pay positive for share gain 
+jpm giving its clients million cards strong mobile wallet jpm now needs merchants sign jpm 
+already has strong dialogue with merchants and its merchant acquirer paymentech has market share 
+total spend mcx partnering with chase pay suggesting some large scale retailers will likely signing 
+what does jpm bring the table 
+first clean single discount rate for each merchant which includes the network merchant acquiring and 
+card issuer fees extra fees 
+second volume discounting the more business merchant pushes over chase pay the lower the fee 
+third fraud protection chase pay approves the payment jpm eats any fraud costs while some this 
+because codes aren emv compliant they have this competitive one less thing for 
+retailer worry about did that fraud happen emv compliant machine not 
+fourth aggregated merchant loyalty rewards consumers will able see all their loyalty rewards from 
+the various merchants their chase pay app 
+over time would not surprised chase integrated real time and payments into the chase pay 
+mobile wallet which should allow convenient direct debit functionality something that non bank cannot offer 
+over time think chase pay may able integrate real time pay into this app run over ach instead 
+debit rails this could positive for jpm fees the limiting factor this app currently chase pay limited 
+jpm cards but with million cards that consumer spend 
+jpmorgan squeezing competitors they close the loop jpm announced chase pay the money 
+conference vegas october jpm partnering with mcx provide retailers with closed loop 
+payments product for store app and online purchases the product will progressively rolled out mcx 
+merchants starting mid jpm works individually with merchants bring them board 
+think chase relatively better positioned amass customer and merchant adoption given its 
+large issuing portfolio credit debit and prepaid card accounts and partnership with mcx whose 
+member retailers account for retail payment volumes the jpm closing the loop reversing 
+actions they and other banks took the outsource parts the payment chain paymentech already 
+the largest acquirer line market share and this offering should help drive its off line share 
+what for merchants 
+fixed fee structure with declining fees volumes rise with zero fraud liability and additional 
+acquirer network fees tokenization likely allows for single card present rate 
+technology payments banking and retail november 
+morgan stanley research 
+faster checkout 
+uses code technology which doesn require merchants upgrade payment systems gas stations will use 
+bluetooth technology 
+connects the merchants internal loyalty programs 
+gives merchants access jpm credit debit prepaid card accounts 
+fraud costs although some this because codes aren emv compliant and jpm needs 
+competitive but gives the retailer one less thing worry about 
+what for consumers 
+merchant rewards will all one place need maintain separate loyalty cards for each merchant tell 
+the cashier your telephone number pos 
+ease use and security 
+consumers can use their online mobile banking passwords which will pre loaded with their most used 
+chase cards chase cardholders just have accept terms conditions and download the app need sign 
+for new wallet remember additional passwords 
+will work all smartphones 
+need maintain separate loyalty cards for each merchant 
+tokenization provides security for all purchases store inapp and online 
+ability take picture receipt and pay with chase pay 
+market share gains and cross sell should drive modest eps benefit over time though jpm partnership 
+with the mcx gives them access retail spend jpm still has work individually negotiating 
+with these merchants bring them board expect modest eps benefits post jpm takes share 
+consumer spend and merchant acquiring they acquire new customers and cross sell them more effectively 
+clearxchange merges with early warning banks bringing back the band 
+the bank consortium owned clearxchange and early warning announced their merger october for 
+close december this big our view will integrate early warning authentication and 
+verification with clearxchange mobile payment capabilities banks are gearing offer robust real 
+time payments additionally the national automated clearing house association nacha will enable 
+same day ach settlement for push payments fall that will enable banks offer real time push 
+payments over ach with this clearxchange system this will directly compete with paypal real time offering 
+potentially disrupting the advantage they created taking more risk than banks offering clients real time 
+payments many years ago and also their venmo acquisition already clearxchange has financial 
+institutions using and early warning has financials using expect for fee 
+apple reported the wall street journal talking clearxchange about how add functionality 
+its devices moving beyond over time the joint company might able offer authentication and 
+verification the point sale this could potentially take share from visa and mastercard network leaders 
+clearxchange bank owners are bank america jpm usb and wells fargo early warning bank 
+owners are bank america capital one jpm and wells fargo pnc will join owner upon merger 
+bbt and cof capital one wallet shows banks are fintechs too 
+bbt launched its mobile app september after three years investing and several tens millions 
+dollars bbt has shown that banks are fintechs too believe functional mint personal 
+money manager and budgeting tool enabling its account holders aggregate their financial information 
+one app fully customizable enabling users easily design their unique banking interface even enables 
+users add news feeds weather sports and more similar capital one wallet shows that even 
+regular bank with lots branches can design mobile apps that appeal millennials shouldn lost 
+anyone that and capital one are also part owners clearxchange early warning expect realtime pay 
+and will soon added these wallets too 
+capital one heavily investing its technology infrastructure base layer middle layer and client facing 
+technology payments banking and retail november 
+morgan stanley research 
+surface layer and has highlighted the shift from online mobile being bigger revolution than the shift 
+from analog online while cof has been reluctant quantify the amount they are spending mobile 
+initiatives know that they are focused their mobile product offerings 
+capital one was inaugural bank the apple pay launch and launched capital one wallet mobile 
+payment app that syncs with apple pay and enables cof customers make purchases view account balances 
+track spending levels patterns and receive real time notifications transactions android devices cof 
+customers can use capital one wallet make nfc payments without having use android pay they are the 
+first bank use nfc their mobile app the wallet has over million users date 
+expect that cof mobile investments will not stop capital one wallet january cof acquired 
+level money money management app that allows consumers keep track their spending cash and 
+savings with over users and transactions the time acquisition the app being run 
+standalone entity which indicative cof strategy diversify and expand their mobile offerings and 
+capabilities expect other banks follow suit with similar products 
+synchrony the first private label credit card player sign with apple pay and others syf 
+working behind the scenes make sure consumers can use their private label cards any way they want 
+integrating their cards onto the apple pay android pay and samsung pay platforms allows users the flexibility 
+using private label card which may not top wallet without the need carry multiple cards around 
+positive for syf 
+dfs highlights the importance being the mobile wallet 
+paying mobile help drive higher wallet share and new card growth dfs highly focused 
+driving new account growth and increasing wallet share existing customers and after late entrance into 
+applepay paying get into consumers mobile wallets dfs offering extra cash back bonus 
+store purchases through year end effort get top wallet believe the 
+headline cash back number and increased marketing efforts will drive strong adoption among dfs customers 
+with applepay capability helping drive higher spending and ultimately loan growth dfs though the cost 
+dfs associated with the applepay promotion not likely material overall rewards marketing spend 
+near term given current limitations merchants consumers with applepay compatible iphones 
+expect mobile will become increasingly important channel over time particularly with the move emv cards 
+longer processing times for emv transaction the point sale seconds 
+axp leveraging digital win with millennials 
+digital key winning millennials our recent survey work highlights the gains amex has made with the 
+younger generation over the last several years see axp ahead the curve with millennials double down 
+view september helped strong focus investment digital our view fact 
+earnings axp highlighted that its spending growth initiatives will focused digital and loyalty 
+coalition business part its strategy after younger more tech savvy customer april amex 
+announced partnership with jawbone allow cardholders make payments certain merchants using their 
+jawbone fitness bands and will utilize nfc technology similar applepay system furthermore amex 
+recently announced will the first card bring applepay canada and australia this year spain 
+singapore hong kong will ready for applepay with amex 
+technology payments banking and retail november 
+morgan stanley research 
+perspectives from merchants 
+specialty retail and department stores 
+while there minimal data around retailers mobile payment initiatives anecdotal evidence suggests consumer 
+adoption remains low american eagle outfitters chief digital officer early apple pay supporter recently 
+stated the money conference that less than sales are currently transacted through apple pay 
+however increasing number partnerships between retailers and mobile payment platforms such apple 
+and android pay should drive increased consumer adoption over time shoppers become more comfortable 
+with mobile payments more merchants likely sign creating virtuous cycle increased security could also 
+provide additional incentive for retailer adoption given recent high profile data breaches target michael 
+home depot additionally the upgrade cycle emv compliant terminals required payment networks 
+october expedites the roll out store nfc capabilities removing obstacle for retailers not 
+previously equipped with nfc despite lackluster consumer adoption and only moderate retailer adoption 
+within our coverage thus far exhibit expect mobile payments grow importance from both shopper 
+and retailer perspective over time 
+the recently announced partnership between apple pay and kohl has two key implications the first for 
+merchant owned mobile commerce network merchants customer exchange mcx members represent 
+retail sales when retailers signed with mcx they signed three year exclusivity deals these 
+exclusive deals expire kohl and other retailers have announced acceptance other mobile payment platforms 
+such apple pay while this creates more uncertain future for mcx believe this signals the end the 
+one the other mentality and helps endorse mobile payments general acceptance store branded credit 
+cards another important development the kohl apple pay deal the integration private label credit 
+cards into the apple pay ecosystem should remove another barrier retailer adoption many large retailers 
+generate revenue plccs and share card issuer profits 
+technology payments banking and retail november 
+morgan stanley research 
+exhibit merchant support apple pay android pay mcx 
+rce rgan stan ley research data 
+hardline broadline retail 
+although hardline broadline retailers have not provided much detail regarding their mobile payments 
+strategies likely they will adopt one the options apple pay samsung pay retailers general are 
+thinking more holistically about their omni channel strategies believe mobile payments natural 
+extension convenient offering the consumer recent data breaches have served catalysts for retailers 
+upgrade their store pos technology the new pay terminals have seen installed across several the 
+retailers cover are all mobile pay enabled but the same time customer acceptance will also dictate the 
+pace investments that retailers will put into mobile pay similar other commerce investments the more 
+companies invest mobile payment tools the faster the adoption consumers 
+there are several examples companies adopting mobile payments stores first announced earlier this 
+year its goal offering apple pay its stores though deal with apple was not place the time 
+still even without agreement place some stores are able accept mobile payments because its 
+checkout terminals have near field communication readers similarly target announced may that was 
+technology payments banking and retail november 
+morgan stanley research 
+discussions with apple about accepting apple pay physical stores tgt already accepts apple pay online 
+before being able however target has install chip and pin technology its checkouts additionally 
+upon expiration its exclusive contract with mcx august best buy began rolling out apple pay android pay 
+and other nfc payment services stores this past fall though app payments were already set accept 
+apple pay 
+morgan stanley currently acting financial advisor freescale semiconductor ltd freescale with respect 
+its definitive agreement merge with nxp semiconductors nxp combination stock and cash 
+announced march the proposed transaction subject regulatory approvals various 
+jurisdictions and customary closing conditions well the approval nxp and freescale stockholders this 
+report and the information provided herein not intended provide voting advice serve 
+endorsement the proposed transaction iii result the procurement withholding revocation proxy 
+any other action security holder freescale has agreed pay fees morgan stanley for its financial 
+advice that are contingent upon the consummation the proposed transaction please refer the notes the 
+end the report 
+morgan stanley international plc morgan stanley acting financial advisor alcatel lucent 
+alcatel lucent relation the proposed acquisition nokia corporation announced april 
+alcatel lucent may pay fees morgan stanley for its financial services please refer the notes the 
+end the report 
+morgan stanley international plc engaged provide financial advisory services visa europe limited 
+relation its proposed sale visa inc please refer the notes the end the report 
+morgan stanley acting financial advisor alibaba group holding limited alibaba relation the 
+proposed acquisition youku tudou inc youku tudou announced november the proposed 
+transaction subject customary closing conditions including the approval youku tudou shareholders this 
+report and the information provided herein not intended provide voting advice serve 
+endorsement the proposed transaction iii result the procurement withholding revocation proxy 
+any other action security holder alibaba has agreed pay fees morgan stanley for its financial 
+services please refer the notes the end the report 
+morgan stanley international plc morgan stanley acting financial advisor orange 
+orange relation the proposed acquisition limited group plc announced december 
+orange has agreed pay fees morgan stanley for its financial services please refer the notes the 
+end the report 
+morgan stanley currently acting financial advisor the bank nova scotia scotiabank with respect 
+its agreement with citigroup inc citigroup acquire citigroup retail and commercial banking businesses 
+panama and costa rica announced july the proposed transaction subject regulatory 
+approvals scotiabank has agreed pay transaction fees morgan stanley for its financial advice that are 
+contingent upon the consummation the proposed transaction please refer the notes the end the 
+report 
+technology payments banking and retail november 
+morgan stanley research 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and 
+morgan stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley 
+includes morgan stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada 
+limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any price targets referenced this research report please contact the client support team follows 
+canada hong kong latin america london singapore 
+sydney tokyo alternatively you may contact your investment representative morgan stanley research 
+broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that 
+they have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report 
+betsy graseck cfa kimberly greenberger simeon gutman cfa craig hettenbach katy huberty cfa andrew humphrey shawn kim joseph 
+moore cheryl pate cfa smittipon srethapramote 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+october morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research abercrombie fitch akamai technologies inc ally financial inc altera corporation amazon inc ambarella inc 
+american capital agency corp american express company apollo residential mortgage inc apple inc automatic data processing inc avg 
+technologies box inc broadcom corporation cherry hill mortgage investment corp costco wholesale corp dick sporting goods electronics for 
+imaging inc etsy inc facebook inc fireeye inc fitbit inc fleetcor technologies inc gemalto google grubhub inc hatteras financial corp 
+homeaway inc iac interactivecorp infineon technologies ingenico invensense inc invesco mortgage capital inc morgan chase 
+brands inc lendingclub corp linear technology corp linkedin corp logitech lululemon athletica inc lumber liquidators holdings inc marvell 
+technology group ltd mastercard inc mfa financial inc michael kors holdings ltd microsoft mindbody inc ncr corp netsuite nuance 
+communications inc office depot inc deck capital inc semiconductor corp opower inc palo alto networks inc priceline group inc pure 
+storage inc salesforce sandisk corporation servicenow inc shutterstock inc skullcandy inc splunk inc tableau software technicolor 
+travelport worldwide limited truecar inc twitter inc ulta salon cosmetics and fragrance inc vantiv inc varonis systems inc veeva systems inc 
+visa inc walker dunlop inc workday workiva inc xilinx yelp inc zendesk inc zillow group inc zynga inc 
+within the last months morgan stanley managed managed public offering offering securities adobe systems ally financial inc 
+amazon inc apigee corporation appfolio inc autodesk automatic data processing inc bank america bank new york mellon corp 
+corporation box inc capital one financial corporation cdw corporation citigroup inc discover financial services etsy inc fireeye inc first data 
+corp fitbit inc godaddy inc home depot inc hubspot inc imperva inc morgan chase lendingclub corp micron technology inc 
+mindbody inc new relic inc nxp semiconductor deck capital inc semiconductor corp oracle corporation party city holdco inc pnc 
+financial services pure storage inc inc regions financial corp sabre corp santander consumer usa holdings inc sensata technologies 
+holding shopify inc state street corporation suntrust synchrony financial texas instruments the michaels companies inc truecar inc 
+bancorp walker dunlop inc wells fargo workiva inc zendesk inc 
+within the last months morgan stanley has received compensation for investment banking services from adobe systems ally financial inc 
+amazon inc apigee corporation appfolio inc atmel corp autodesk automatic data processing inc bank america bank new york mellon 
+corp barracuda networks inc corporation box inc broadcom corporation capital one financial corporation cdk global inc cdw corporation 
+cypress semiconductor corp discover financial services ebay inc emc corp etsy inc facebook inc fireeye inc first data corp fitbit inc fortinet 
+inc godaddy inc groupon inc grubhub inc hewlett packard enterprise home depot inc inc hubspot inc imperva inc intel corporation 
+morgan chase lendingclub corp mastercard inc microchip technology inc micron technology inc mindbody inc netapp inc new relic 
+inc nuance communications inc nxp semiconductor deck capital inc semiconductor corp oracle corporation party city holdco inc pnc 
+financial services priceline group inc pure storage inc inc regions financial corp sabre corp santander consumer usa holdings inc 
+sensata technologies holding shopify inc splunk inc state street corporation suntrust synchrony financial texas instruments the michaels 
+companies inc travelport worldwide limited truecar inc twitter inc bancorp vantiv inc veeva systems inc wal mart stores inc walker 
+dunlop inc walter investment management corp wells fargo workiva inc zendesk inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from abercrombie fitch 
+adobe systems advance auto parts inc advanced micro devices akamai technologies inc ally financial inc altera corporation amazon inc 
+ambarella inc american capital agency corp american eagle outfitters inc american express company analog devices inc annaly capital 
+management inc apigee corporation apollo residential mortgage inc appfolio inc apple inc atmel corp autodesk automatic data processing inc 
+autozone inc avago technologies ltd avg technologies bank america bank new york mellon corp barracuda networks inc bazaarvoice inc 
+corporation bed bath beyond inc best buy inc box inc broadcom corporation burlington stores inc capital one financial corporation 
+cavium inc cdk global inc cdw corporation check point software technologies ltd cherry hill mortgage investment corp chico fas inc cit 
+group inc citigroup inc citrix systems inc coach inc container store group inc costco wholesale corp cvent cypress semiconductor corp 
+descartes systems group inc dick sporting goods discover financial services ebay inc electronics for imaging inc emc corp enernoc inc etsy 
+inc evertec inc expedia inc express inc facebook inc fairchild semiconductor int inc fireeye inc first data corp fitbit inc fleetcor 
+technologies inc fortinet inc freescale semiconductor ltd gap inc gemalto global payments inc gnc holdings inc godaddy inc google 
+green dot corp groupon inc grubhub inc hatteras financial corp heartland payment systems inc hewlett packard enterprise home depot inc 
+homeaway inc inc hubspot inc iac interactivecorp ibm imperva inc infineon technologies ingenico inphi corporation intel 
+corporation intuit invensense inc invesco mortgage capital inc morgan chase jive software inc king digital entertainment plc brands 
+inc lendingclub corp lexmark international linear technology corp linkedin corp logitech lowe companies inc lululemon athletica inc marvell 
+technology group ltd mastercard inc maxim integrated products inc mfa financial inc michael kors holdings ltd microchip technology inc micron 
+technology inc microsoft mindbody inc moneygram international inc nationstar mortgage holdings inc ncr corp netapp inc netsuite new relic 
+inc nimble storage northern trust corp nuance communications inc nvidia corp nxp semiconductor reilly automotive inc office depot inc 
+deck capital inc semiconductor corp opower inc oracle corporation palo alto networks inc party city holdco inc paychex inc paypal 
+holdings inc phh corp pnc financial services priceline group inc proofpoint inc pure storage inc qlik technologies inc qlogic corporation 
+inc red hat inc regions financial corp retailmenot inc ross stores inc sabre corp salesforce samsung electronics sandisk 
+corporation santander consumer usa holdings inc seagate technology sensata technologies holding servicenow inc shopify inc shutterstock 
+inc skullcandy inc solarwinds inc splunk inc staples inc state street corporation suntrust symantec synchrony financial tableau software 
+technology payments banking and retail november 
+morgan stanley research 
+target corp connectivity ltd technicolor telit communications plc teradata texas instruments the michaels companies inc tiffany 
+tjx companies inc tomtom total system services inc tractor supply travelport worldwide limited trinet group inc truecar inc twitter inc 
+bancorp ulta salon cosmetics and fragrance inc urban outfitters inc vantiv inc varonis systems inc veeva systems inc visa inc vitamin 
+shoppe inc vmware inc wal mart stores inc walker dunlop inc walter investment management corp wells fargo western digital western 
+union workday workiva inc xilinx yahoo inc yelp inc zendesk inc zillow group inc zynga inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from adobe 
+systems advance auto parts inc advanced micro devices akamai technologies inc ally financial inc altera corporation american capital agency 
+corp american express company amphenol corp analog devices inc annaly capital management inc apollo residential mortgage inc apple inc 
+autodesk automatic data processing inc avago technologies ltd bank america bank new york mellon corp corporation burlington stores 
+inc capital one financial corporation cdw corporation check point software technologies ltd cherry hill mortgage investment corp cit group inc 
+citigroup inc citrix systems inc cypress semiconductor corp discover financial services ebay inc electronics for imaging inc emc corp fairchild 
+semiconductor int inc first data corp fitbit inc fleetcor technologies inc freescale semiconductor ltd gnc holdings inc goldman sachs group 
+inc google hewlett packard enterprise home depot inc inc iac interactivecorp ibm infineon technologies intel corporation intuit invesco 
+mortgage capital inc morgan chase linear technology corp linkedin corp lowe companies inc marvell technology group ltd 
+mastercard inc maxim integrated products inc mfa financial inc microchip technology inc micron technology inc microsoft nationstar mortgage 
+holdings inc ncr corp netapp inc northern trust corp nuance communications inc nvidia corp nxp semiconductor reilly automotive inc 
+office depot inc semiconductor corp oracle corporation party city holdco inc paychex inc phh corp pnc financial services priceline group 
+inc red hat inc regions financial corp retailmenot inc sabre corp seagate technology sensata technologies holding skullcandy inc staples 
+inc state street corporation suntrust symantec connectivity ltd technicolor texas instruments the michaels companies inc tomtom 
+travelport worldwide limited trinet group inc twitter inc bancorp verifone systems inc wal mart stores inc walter investment management 
+corp wells fargo western union wex inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship 
+with the following company abercrombie fitch adobe systems advance auto parts inc advanced micro devices akamai technologies inc ally 
+financial inc altera corporation amazon inc ambarella inc american capital agency corp american eagle outfitters inc american express 
+company analog devices inc annaly capital management inc apigee corporation apollo residential mortgage inc appfolio inc apple inc atmel 
+corp autodesk automatic data processing inc autozone inc avago technologies ltd avg technologies bank america bank new york mellon 
+corp barracuda networks inc bazaarvoice inc corporation bed bath beyond inc best buy inc box inc broadcom corporation burlington 
+stores inc capital one financial corporation cavium inc cdk global inc cdw corporation check point software technologies ltd cherry hill 
+mortgage investment corp chico fas inc cit group inc citigroup inc citrix systems inc coach inc container store group inc costco wholesale 
+corp cvent cypress semiconductor corp descartes systems group inc dick sporting goods discover financial services ebay inc electronics for 
+imaging inc emc corp enernoc inc etsy inc evertec inc expedia inc express inc facebook inc fairchild semiconductor int inc fireeye inc 
+first data corp fitbit inc fleetcor technologies inc fortinet inc freescale semiconductor ltd gap inc gemalto global payments inc gnc 
+holdings inc godaddy inc google green dot corp groupon inc grubhub inc hatteras financial corp heartland payment systems inc hewlett 
+packard enterprise home depot inc homeaway inc inc hubspot inc iac interactivecorp ibm imperva inc infineon technologies ingenico 
+inphi corporation intel corporation intuit invensense inc invesco mortgage capital inc morgan chase jive software inc king digital 
+entertainment plc brands inc lendingclub corp lexmark international linear technology corp linkedin corp logitech lowe companies inc 
+lululemon athletica inc marvell technology group ltd mastercard inc maxim integrated products inc mfa financial inc michael kors holdings ltd 
+microchip technology inc micron technology inc microsoft mindbody inc moneygram international inc nationstar mortgage holdings inc ncr 
+corp netapp inc netsuite new relic inc nimble storage northern trust corp nuance communications inc nvidia corp nxp semiconductor 
+reilly automotive inc office depot inc deck capital inc semiconductor corp opower inc oracle corporation palo alto networks inc party 
+city holdco inc paychex inc paypal holdings inc phh corp pnc financial services priceline group inc proofpoint inc pure storage inc qlik 
+technologies inc qlogic corporation inc red hat inc regions financial corp retailmenot inc ross stores inc sabre corp salesforce 
+samsung electronics sandisk corporation santander consumer usa holdings inc seagate technology sensata technologies holding 
+servicenow inc shopify inc shutterstock inc skullcandy inc solarwinds inc splunk inc staples inc state street corporation suntrust symantec 
+synchrony financial tableau software target corp connectivity ltd technicolor telit communications plc teradata texas instruments the 
+michaels companies inc tiffany tjx companies inc tomtom total system services inc tractor supply travelport worldwide limited 
+trinet group inc truecar inc twitter inc bancorp ulta salon cosmetics and fragrance inc urban outfitters inc vantiv inc varonis systems inc 
+veeva systems inc visa inc vitamin shoppe inc vmware inc wal mart stores inc walker dunlop inc walter investment management corp wells 
+fargo western digital western union workday workiva inc xilinx yahoo inc yelp inc zendesk inc zillow group inc zynga inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company abercrombie fitch adobe systems advance 
+auto parts inc advanced micro devices akamai technologies inc ally financial inc altera corporation amazon inc american capital agency 
+corp american express company amphenol corp analog devices inc annaly capital management inc apollo residential mortgage inc apple inc 
+atmel corp autodesk automatic data processing inc avago technologies ltd bank america bank new york mellon corp corporation best 
+buy inc broadcom corporation burlington stores inc capital one financial corporation cdw corporation check point software technologies ltd 
+cherry hill mortgage investment corp cit group inc citigroup inc citrix systems inc cypress semiconductor corp discover financial services ebay 
+inc electronics for imaging inc emc corp enernoc inc expedia inc express inc fairchild semiconductor int inc fireeye inc first data corp 
+fitbit inc fleetcor technologies inc freescale semiconductor ltd gnc holdings inc goldman sachs group inc google hatteras financial corp 
+hewlett packard enterprise home depot inc homeaway inc inc iac interactivecorp ibm infineon technologies intel corporation intuit 
+invesco mortgage capital inc morgan chase brands inc linear technology corp linkedin corp lowe companies inc marvell technology 
+group ltd mastercard inc maxim integrated products inc mfa financial inc microchip technology inc micron technology inc microsoft nationstar 
+mortgage holdings inc ncr corp netapp inc northern trust corp nuance communications inc nvidia corp nxp semiconductor reilly 
+automotive inc office depot inc semiconductor corp oracle corporation party city holdco inc paychex inc paypal holdings inc phh corp 
+pnc financial services priceline group inc qlogic corporation red hat inc regions financial corp retailmenot inc sabre corp salesforce 
+sandisk corporation seagate technology sensata technologies holding servicenow inc skullcandy inc staples inc state street corporation 
+suntrust symantec synchrony financial connectivity ltd technicolor texas instruments the michaels companies inc tjx companies inc 
+tomtom travelport worldwide limited trinet group inc twitter inc bancorp verifone systems inc visa inc wal mart stores inc walter 
+investment management corp wells fargo western union wex inc workday xilinx yahoo inc zynga inc 
+employee director consultant morgan stanley director ebay inc emc corp facebook inc hewlett packard enterprise ibm lendingclub 
+corp verifone systems inc workiva inc this person not research analyst member research analyst household 
+morgan stanley llc makes market the securities abercrombie fitch adobe systems advance auto parts inc advanced micro 
+devices aeropostale inc akamai technologies inc altera corporation amazon inc ambarella inc american capital agency corp american eagle 
+outfitters inc american express company amphenol corp analog devices inc annaly capital management inc apigee corporation apollo 
+residential mortgage inc appfolio inc apple inc atmel corp autodesk automatic data processing inc autozone inc avago technologies ltd avg 
+technologies bank america bank new york mellon corp barracuda networks inc bazaarvoice inc corporation bed bath beyond inc 
+best buy inc box inc broadcom corporation burlington stores inc capital one financial corporation cavium inc cdw corporation check point 
+software technologies ltd cherry hill mortgage investment corp chico fas inc cit group inc citigroup inc citrix systems inc coach inc 
+container store group inc costco wholesale corp cvent cypress semiconductor corp descartes systems group inc dick sporting goods discover 
+financial services ebay inc electronics for imaging inc emc corp enernoc inc evertec inc expedia inc express inc facebook inc fairchild 
+semiconductor int inc fireeye inc first data corp fitbit inc fleetcor technologies inc fortinet inc freescale semiconductor ltd gap inc global 
+technology payments banking and retail november 
+morgan stanley research 
+payments inc gnc holdings inc godaddy inc goldman sachs group inc google green dot corp groupon inc grubhub inc hatteras financial 
+corp heartland payment systems inc home depot inc homeaway inc inc hubspot inc iac interactivecorp ibm imperva inc inphi 
+corporation intel corporation intuit invensense inc invesco mortgage capital inc morgan chase jive software inc brands inc 
+lendingclub corp lexmark international linear technology corp linkedin corp logitech lowe companies inc lululemon athletica inc lumber 
+liquidators holdings inc marvell technology group ltd mastercard inc maxim integrated products inc mfa financial inc michael kors holdings ltd 
+microchip technology inc micron technology inc microsoft mindbody inc moneygram international inc nationstar mortgage holdings inc ncr 
+corp netapp inc netsuite new relic inc northern trust corp nuance communications inc nvidia corp nxp semiconductor reilly 
+automotive inc office depot inc deck capital inc semiconductor corp opower inc oracle corporation palo alto networks inc paychex inc 
+phh corp pier imports inc pnc financial services priceline group inc proofpoint inc pure storage inc qlik technologies inc qlogic corporation 
+inc red hat inc regions financial corp retailmenot inc ross stores inc salesforce sally beauty holdings inc sandisk corporation 
+seagate technology sensata technologies holding servicenow inc shopify inc shutterstock inc skullcandy inc solarwinds inc splunk inc 
+staples inc state street corporation suntrust symantec tableau software target corp connectivity ltd teradata texas instruments the 
+children place inc tiffany tjx companies inc total system services inc tractor supply travelport worldwide limited twitter inc 
+bancorp ulta salon cosmetics and fragrance inc urban outfitters inc vantiv inc varonis systems inc veeva systems inc verifone systems inc 
+visa inc vitamin shoppe inc vmware inc wal mart stores inc walker dunlop inc walter investment management corp wells fargo western 
+digital western union wex inc williams sonoma inc workday workiva inc xilinx yahoo inc yelp inc zillow group inc zynga inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making 
+providing liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and 
+buys from customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have 
+position the debt the company instruments discussed this report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley 
+research contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and 
+not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+october 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+count 
+total 
+count 
+total 
+ibc 
+rating 
+category 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received 
+investment banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant 
+broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad 
+market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad 
+market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+stock price price target and rating history see rating definitions 
+technology payments banking and retail november 
+morgan stanley research 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith 
+barney llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval 
+conducted the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems advanced micro 
+devices ally financial inc altera corporation amazon inc american express company amphenol corp analog devices inc apple inc atmel 
+corp autodesk automatic data processing inc autozone inc bank america bank new york mellon corp bazaarvoice inc corporation bed 
+bath beyond inc best buy inc box inc broadcom corporation capital one financial corporation cdk global inc cit group inc citigroup inc 
+coach inc costco wholesale corp cypress semiconductor corp discover financial services ebay inc emc corp etsy inc evertec inc expedia inc 
+facebook inc fireeye inc first data corp fitbit inc gap inc goldman sachs group inc google groupon inc hewlett packard enterprise home 
+depot inc inc ibm infineon technologies intel corporation intuit morgan chase brands inc lexmark international linkedin corp 
+lowe companies inc mastercard inc maxim integrated products inc micron technology inc microsoft netapp inc nuance communications inc 
+nvidia corp nxp semiconductor office depot inc oracle corporation paypal holdings inc phh corp pnc financial services priceline group 
+inc pure storage inc salesforce samsung electronics servicenow inc staples inc symantec synchrony financial target corp connectivity 
+ltd texas instruments tjx companies inc twitter inc bancorp wal mart stores inc walter investment management corp wells fargo 
+western union workday xilinx yahoo inc zynga inc 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within 
+the meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary 
+the recommendations views expressed research the same stock this may the result differing time horizons methodologies market events 
+other factors for all research available particular stock please contact your sales representative matrix 
+http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients 
+through alternate electronic means convenience for access all available morgan stanley research please contact your sales representative 
+matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms 
+accessing and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance 
+with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your 
+preferences and collect readership data that can deliver better and more personalized service and products you find out more information 
+about how morgan stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+technology payments banking and retail november 
+morgan stanley research 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your 
+investments may vary because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market 
+indexes operational financial conditions companies other factors there may time limitations the exercise options other rights 
+securities instruments transactions past performance not necessarily guide future performance estimates future performance are based 
+assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the 
+subject company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan 
+stanley owns more class common equity securities the companies for all other companies mentioned morgan stanley research 
+morgan stanley may have investment less than securities instruments derivatives securities instruments companies and may trade them 
+ways different from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley 
+research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley 
+business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers 
+hong kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities 
+hong kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and bank morgan stanley hong kong branch 
+singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte ltd 
+registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and bank morgan stanley singapore branch 
+registration number australia wholesale clients within the meaning the australian corporations act morgan stanley australia 
+limited holder australian financial services license which accepts responsibility for its contents australia 
+wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt 
+fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and 
+the prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the 
+financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member 
+the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned 
+equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the 
+information morgan stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom 
+saudi arabia and directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized 
+firms comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences 
+for this reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the following companies business countries which are generally subject comprehensive sanctions programs administered enforced the 
+department the treasury office foreign assets control ofac and other countries and multi national bodies samsung electronics 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages 
+relating such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+technology payments banking and retail november 
+morgan stanley research 
+industry coverage semiconductors 
+company ticker 
+rating 
+price 
+craig hettenbach 
+amphenol corp aph 
+analog devices inc adi 
+atmel corp atml 
+avago technologies ltd avgo 
+cypress semiconductor corp 
+fairchild semiconductor int inc fcs 
+freescale semiconductor ltd fsl 
+linear technology corp lltc 
+maxim integrated products inc mxim 
+microchip technology inc mchp 
+nxp semiconductor nxpi 
+semiconductor corp 
+sensata technologies holding 
+connectivity ltd tel 
+joseph moore 
+advanced micro devices amd 
+altera corporation altr 
+ambarella inc amba 
+broadcom corporation brcm 
+cavium inc cavm 
+inphi corporation iphi 
+intel corporation intc 
+invensense inc invn 
+marvell technology group ltd mrvl 
+micron technology inc 
+nvidia corp nvda 
+sandisk corporation sndk 
+texas instruments txn 
+xilinx xlnx 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage technology hardware 
+company ticker 
+rating 
+price 
+sfr 
+andrew humphrey 
+gemalto gto 
+ingenico ingc 
+logitech logn 
+technicolor tch 
+tomtom 
+francois meunier 
+telit communications plc telt 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage banking large cap banks 
+company ticker 
+rating 
+price 
+betsy graseck cfa 
+bank america bac 
+bank new york mellon corp 
+corporation bbt 
+capital one financial corporation cof 
+citigroup inc 
+goldman sachs group inc 
+morgan chase jpm 
+northern trust corp ntrs 
+pnc financial services pnc 
+regions financial corp 
+state street corporation stt 
+suntrust sti 
+synchrony financial syf 
+bancorp usb 
+wells fargo wfc 
+technology payments banking and retail november 
+morgan stanley research 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage payments and processing 
+company ticker 
+rating 
+price 
+smittipon srethapramote 
+automatic data processing inc adp 
+evertec inc evtc 
+first data corp fdc 
+fleetcor technologies inc flt 
+global payments inc gpn 
+green dot corp gdot 
+heartland payment systems inc hpy 
+lendingclub corp 
+mastercard inc 
+moneygram international inc mgi 
+deck capital inc ondk 
+paychex inc payx 
+paypal holdings inc pypl 
+total system services inc tss 
+trinet group inc tnet 
+vantiv inc vntv 
+verifone systems inc pay 
+visa inc 
+western union 
+wex inc wex 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage retail softlines 
+company ticker 
+rating 
+price 
+jay sole 
+express inc expr 
+skullcandy inc skul 
+the children place inc plce 
+kimberly greenberger 
+abercrombie fitch anf 
+aeropostale inc aro 
+american eagle outfitters inc aeo 
+burlington stores inc burl 
+chico fas inc chs 
+coach inc coh 
+gap inc gps 
+brands inc 
+lululemon athletica inc lulu 
+michael kors holdings ltd kors 
+ross stores inc rost 
+tiffany tif 
+tjx companies inc tjx 
+urban outfitters inc urbn 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+technology payments banking and retail november 
+morgan stanley research 
+industry coverage hardline broadline retail 
+company ticker 
+rating 
+price 
+simeon gutman cfa 
+advance auto parts inc aap 
+autozone inc azo 
+bed bath beyond inc bbby 
+best buy inc bby 
+container store group inc tcs 
+costco wholesale corp cost 
+dick sporting goods dks 
+gnc holdings inc gnc 
+home depot inc 
+lowe companies inc low 
+lumber liquidators holdings inc 
+reilly automotive inc orly 
+office depot inc odp 
+party city holdco inc prty 
+pier imports inc pir 
+sally beauty holdings inc sbh 
+staples inc spls 
+target corp tgt 
+the michaels companies inc mik 
+tractor supply tsco 
+ulta salon cosmetics and fragrance inc ulta 
+vitamin shoppe inc vsi 
+wal mart stores inc wmt 
+williams sonoma inc wsm 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+technology payments banking and retail november 
+morgan stanley research 
+industry coverage software 
+company ticker 
+rating 
+price 
+brian essex cfa 
+appfolio inc appf 
+cdk global inc cdk 
+descartes systems group inc dsgx 
+enernoc inc enoc 
+godaddy inc gddy 
+mindbody inc 
+sabre corp sabr 
+shopify inc shop 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+qlik technologies inc qlik 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+splunk inc splk 
+symantec symc 
+tableau software data 
+vmware inc vmw 
+workday wday 
+melissa gorham 
+avg technologies avg 
+barracuda networks inc cuda 
+box inc box 
+fireeye inc feye 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+inc rpd 
+varonis systems inc vrns 
+sanjit singh 
+apigee corporation apic 
+new relic inc newr 
+nuance communications inc nuan 
+solarwinds inc swi 
+stan zlotsky cfa 
+bazaarvoice inc 
+cvent cvt 
+hubspot inc hubs 
+jive software inc jive 
+netsuite 
+opower inc opwr 
+veeva systems inc veev 
+workiva inc 
+zendesk inc zen 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+technology payments banking and retail november 
+morgan stanley research 
+industry coverage internet 
+company ticker 
+rating 
+price 
+brian nowak cfa 
+amazon inc amzn 
+ebay inc ebay 
+etsy inc etsy 
+expedia inc expe 
+facebook inc 
+google googl 
+homeaway inc away 
+iac interactivecorp iaci 
+linkedin corp lnkd 
+priceline group inc pcln 
+twitter inc twtr 
+yahoo inc yhoo 
+yelp inc yelp 
+dean prissman 
+groupon inc grpn 
+grubhub inc grub 
+king digital entertainment plc king 
+retailmenot inc sale 
+shutterstock inc sstk 
+truecar inc true 
+zillow group inc 
+zynga inc znga 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage hardware 
+company ticker 
+rating 
+price 
+katy huberty cfa 
+apple inc aapl 
+cdw corporation cdw 
+electronics for imaging inc efii 
+emc corp emc 
+fitbit inc fit 
+hewlett packard enterprise hpe 
+inc hpq 
+ibm ibm 
+lexmark international lxk 
+ncr corp ncr 
+netapp inc ntap 
+nimble storage nmbl 
+pure storage inc pstg 
+qlogic corporation qlgc 
+seagate technology stx 
+teradata tdc 
+western digital wdc 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+technology payments banking and retail november 
+morgan stanley research 
+industry coverage consumer specialty finance 
+company ticker 
+rating 
+price 
+cheryl pate cfa 
+ally financial inc ally 
+american capital agency corp agnc 
+american express company axp 
+annaly capital management inc nly 
+apollo residential mortgage inc amtg 
+cherry hill mortgage investment corp chmi 
+cit group inc cit 
+discover financial services dfs 
+hatteras financial corp hts 
+invesco mortgage capital inc ivr 
+mfa financial inc mfa 
+nationstar mortgage holdings inc nsm 
+phh corp phh 
+santander consumer usa holdings inc 
+walker dunlop inc 
+walter investment management corp wac 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

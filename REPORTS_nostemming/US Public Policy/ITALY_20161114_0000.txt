@@ -1,0 +1,976 @@
+november gmt 
+italy economics strategy brief 
+hedging the referendum risk 
+the election has refocused market attention political 
+uncertainty next italy where prime minister matteo 
+renzi risks losing key constitutional referendum 
+december flag ways hedge the risks the context 
+busy political calendar europe 
+morgan stanley international plc 
+daniele antonucci 
+economist 
+daniele antonucci morganstanley 
+phanikiran naraparaju 
+strategist 
+phanikiran naraparaju morganstanley 
+exhibit uncertain projections point winning 
+referendum model probability yes winning 
+average probability 
+referendum confidence vote the two chambers the italian parliament 
+currently the same thing and have agree the same text every single 
+piece legislation thus making the process rather lengthy and inefficient the 
+italians are voting constitutional reform that eliminates the senate when 
+comes approving the budget and granting confidence the government thus 
+streamlining policy decision making reality the referendum mostly seen 
+confidence vote for against prime minister matteo renzi 
+odds skewed towards there just about probability that the yes 
+camp wins and therefore manages push through this key reform our view 
+extracting the probability for the reform pass trivial exercise however 
+the dispersion possible outcomes narrowing and converging towards the 
+more bearish predictions the evidence from polls surveys voter intentions 
+and predictive models fact pointing more marked defeat for renzi 
+though looking the situation the ground that looks too bearish 
+what renzi loses with two different electoral rules the two chambers 
+parliament won have early election right away more likely transition 
+government come out with new electoral rules diffuse rather than 
+concentrate power will take year more thus leading close the 
+next scheduled election which the protest parties are unlikely win 
+outright therefore while italian markets may continue underperform the 
+ecb backstop likely hold 
+what renzi wins with large share undecided voters this outcome 
+possible though not probable for now should happen would mean 
+renewed support for reforms upside surprise relative market expectations 
+yet this outcome may also allow the five star movement grab more power 
+any future election while the italians would rather stay the currency union 
+and referendum this topic illegal anyway even small shift the 
+probability this outcome may affect asset prices negatively 
+strategy hedging europe believe very little referendum risk premium exists 
+most assets and strategic hedges that work even after the referendum 
+are cheap like the following order preference buy eurostoxx puts 
+contingent weaker eur buy protection itraxx main cdx iii buy 
+eurusd puts buy itraxx main payer spreads short btps european 
+credit long eurostoxx and vii sell puts buy eurostoxx 
+puts 
+mar 
+apr 
+may 
+jun 
+jul 
+aug 
+sep 
+oct 
+nov 
+source opinion polls morgan stanley research estimates 
+exhibit undecided voters are the main swing factor 
+how will you vote the constitutional referendum 
+poll average 
+undecided 
+favour 
+against 
+apr 
+jun 
+jul 
+sep 
+oct 
+nov 
+source opinion polls morgan stanley research 
+daniele antonucci economist and not opining 
+any securities his views are clearly delineated 
+due the nature the fixed income market the issuers 
+bonds the issuers recommended discussed this 
+report may not continuously followed accordingly 
+investors must regard this report providing stand alone 
+analysis and should not expect continuing analysis 
+additional reports relating such issuers bonds the 
+issuers 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+understanding the referendum 
+what you get out this note 
+our insight report the referendum sets the political scene goes through the macro 
+backdrop and your reference guide our medium term macro views italy 
+assigned chance the yes camp winning see italy referendum the five star 
+question september our subsequent video update didn signal any material 
+change either direction 
+what this idea piece focus more the short term outlook taking more 
+tactical angle want refresh our probability models and think more specifically 
+about timing outcome and implications this key event for the italian economy and 
+markets our goal for this research note help clients understand what the best 
+way hedge the referendum risk 
+what the italians are actually voting 
+what the vote about the two chambers parliament currently the same thing 
+takes long time pass legislation after bill voted one chamber then goes 
+the other where usually amended and talking about millions 
+amendments some cases the chambers have agree the same text the 
+process goes and with back and forth between the two known the shuttle 
+the constitutional reform streamlines policy making elevating the chamber 
+deputies makes the only one voting confidence the government and approving 
+the budget smaller senate would remain mostly consultative chamber and 
+vote any future constitutional change 
+what the vote really about mostly seen confidence vote for against prime 
+minister matteo renzi 
+why there referendum the constitutional reform the course its 
+parliamentary approval fell short the two thirds majority for immediately 
+enacted article the italian constitution says referendum required the vote 
+outcome binding and given that constitutional matter has quorum 
+the question our translation something like you approve the text the 
+constitutional bill regarding measures overcome the bicameral system reduce the 
+number members parliament contain the cost the public administration eliminate 
+the national council for the economy and labour market and revise chapter part 
+the constitution approved parliament and published april 
+the small print the constitutional reform not just about the senate also redefines 
+the competences the state and the regions eliminates the provinces second level 
+territorial subdivision and shuts down the national council for economics and labour 
+consultative body experts and representatives the major trade unions business 
+lobbies professional associations and ngos 
+will the yes camp win lose 
+odds point defeat 
+quant approach says that yes camp trailing way behind the probability implied 
+the average the last ten referendum polls suggests that the constitutional reform 
+will likely rejected with very high probability more than our predictive 
+models point less decisively towards victory for with probability 
+depending the model specification and economic variables included this still high 
+number perhaps way too high the political situation more nuanced than that 
+stick our own subjective assessment relative our perception the ground 
+this seems excessively bearish thus believe that our probability that the 
+reform doesn pass and therefore that does closer reflection what going 
+reality put differently the negative case that the reform fails approved 
+remains our base case though the yes camp isn trailing much behind 
+there are two main methodologies calculate these probabilities 
+surveys voter intentions extract the probability winning from polls the 
+referendum and adjust for accuracy looking the margin error sample size 
+predictive models project from past referendum outcomes and popularity 
+parties favour against the status quo also looking economic conditions 
+one thought the technicalities information past referendums limited 
+overcome this issue data scarcity matched the percentage point lead yes 
+over with the differential popularity between the political parties that were 
+supporting change previous popular votes and those favour keeping the status 
+quo referendum results and party support are correlated then used linear 
+probability models with the estimated yes lead explanatory variable 
+estimate the chances yes winning also augmenting the basic model with economic 
+indicators such house prices the unemployment rate 
+exhibit declining chance approving the reform 
+exhibit most parties are for vote 
+referendum polls implied prob yes winning 
+poll average 
+estimated probability yes winning 
+poll average 
+model parties popularity econ data 
+model parties popularity 
+feb 
+may 
+jul 
+source morgan stanley research estimates 
+sep 
+oct 
+nov 
+jan 
+feb 
+mar 
+apr 
+may 
+jun 
+jul 
+aug 
+sep 
+oct 
+nov 
+source morgan stanley research estimates 
+both methodologies have pros and cons this doesn mean that they useless rather 
+means that they should intended more one many inputs going into broader 
+analysis not the only input their key strengths and weaknesses are 
+polls the referendum itself are more direct and timely one was conducted 
+after the election however they cover just short time horizon and show that 
+even few weeks prior this key vote very large share italians remains 
+undecided which makes their prediction less powerful 
+the predictive models too are based thin sample past referendums along 
+with the popularity the main political parties over time they can account for 
+the changes the italian political system has gone through over the years and the 
+constitutional referendum looks kind unique seems more like 
+confidence vote the prime minister however they fit the data very well 
+what could make difference 
+there are only three weeks left before the referendum the road for the yes camp 
+win looks uphill but with many voters still undecided perhaps one third the total 
+even more not obvious that renzi will necessarily lose here what could 
+perhaps change the probability 
+not about looks the referendum has been turned into some sort 
+confidence vote against the government trying make less personal and 
+more about the reform itself the probability for the yes camp win may well rise 
+indeed renzi longer says that necessarily resign loses 
+find more sponsors one our models indicates that past referendums voters 
+have tended follow the indications the political party they identify themselves 
+with but only most renzi democratic party supports the reform while 
+most other large parties are against 
+jobs and housing another our models shows that voters care about the 
+market value their homes and look the overall economy thorough their own 
+experience the labour market the macro outlook can obviously change quickly 
+but credible announcement extra fiscal expansion may help the yes camp 
+some extent this has happened with the budget 
+exhibit still high but falling jobless rate 
+exhibit deflating housing market 
+unemployment rate labour force 
+house prices 
+eur per metre 
+rhs 
+note thin line forecast source istat morgan stanley research 
+source nomisma haver morgan stanley research 
+what if 
+the camp wins the reform isn approved 
+bad but manageable outcome our view with two different electoral rules the 
+two chambers parliament won have early election right away more likely 
+transition government figure out new electoral rules renzi may lead 
+probably technocrat will take year more thus leading close the 
+next scheduled election spring set date yet the protest parties are unlikely 
+win outright this means that euro exit risk doesn rise the italians want stay 
+anyway and the ecb backstop will likely continue hold for the sovereign and 
+corporate debt markets the banks are the weak link our view 
+particular 
+these new electoral rules are unlikely concentrate more power fewer hands 
+the referendum rejection would mean that the italians don favour this option 
+rather they likely diffuse power 
+protest party five star movement won gain absolute control therefore the 
+ecb should remain effective backstop and italy should remain idiosyncratic 
+risk albeit rather important one and may have negative effect especially 
+the banking system the ecb doesn buy bank shares and bonds currently 
+reform italy should progress slowly including fix the banks the economy and 
+its markets should underperform there may some contagion the 
+periphery but spain should outperform given strong growth and less political risk 
+transition government early election should the referendum lost italy process 
+institutional reform will likely come halt unlikely that any election could 
+bring political stability with two very different electoral laws the two chambers 
+parliament hence transition government will have come with new electoral 
+rules before election will probably take least year not more the italians 
+are likely vote earlier than late 
+five star movement won take power protest parties can only win absolute 
+majority the chamber deputies the constitutional reform which they oppose 
+approved but that would vote confidence for mainstream parties which 
+therefore may better the next election the reform rejected conversely 
+party will win outright the senate any new system unlikely devise rules leading 
+large parliamentary majorities 
+focus banks not govies past episodes political volatility suggest that the 
+sovereign market does reacts negatively and did this episode too yet and large 
+one wouldn say that seen significant contagion other peripherals the ecb 
+backstop where place government and corporate bond markets seems have held 
+this leaves italy vulnerable banking system the main stress point scenario 
+strong political fallout there monetary policy backstop 
+how can this become systemic risk there were prospects for the protest parties 
+win outright the markets may think that they may try pull out the euro this may 
+test the ecb backstop more forcefully probably the sovereign market too and again 
+especially the banks the italians are pro euro though and referendum the euro 
+illegal the protest parties would have win big majorities then change the 
+constitution which may require referendum and finally win euro membership 
+referendum the bar for this happen high 
+euro exit losing the referendum would further delay urgently needed economic 
+public finance and banking system reforms which have far been quite difficult 
+implement even under the pro business agenda renzinomics expect period 
+uncertainty which would negatively affect sentiment and activity but not period 
+instability deep lead the protest parties take power within the next months 
+and mean italy perceived being the brink exiting the currency union which the 
+italians don support anyway 
+exhibit majority italians pro euro 
+are you for aganist european monetary union 
+with the euro the single currency 
+ire nld bel fin ger fra aut por spa gre ita swe 
+for 
+against 
+don know 
+not even euro referendum article the italian constitution 
+doesn allow referendum international treaties such the 
+the euro the bar for leaving high and the chain 
+events much longer than say for the leave the italy 
+eurosceptic party would have win election with 
+absolute majority and then set motion the exit process after 
+having changed the constitution with two thirds majority both 
+chambers just absolute majority followed referendum 
+eurozone membership indissolubly linked membership 
+leaving the would also automatically mean leaving the emu 
+but again the polls suggest that the majority italians would 
+rather stay the euro than leave 
+source european commission eurobarometer spring morgan stanley research 
+the yes camp wins the reform approved 
+good sign that reforms pay off think the approval the constitutional 
+amendments would mark the continuation the reform process and would convey 
+the message that structural change can and perhaps will happen yet clear 
+economy doesn grow just because faster easier legislate course this just 
+precondition regain competitiveness and boost productivity italy would still need 
+engineer profound restructuring its real fabric along with the public finances and 
+the financial system while this happens happens the economy likely stay weak 
+but risks protest party setting the policy agenda would diminish while extra 
+downside growth would materialise the upside likely quite limited 
+second dose renzinomics the constitutional referendum largely seen vote 
+confidence government policy and the prime minister this means that victory for 
+the yes camp would point renewed support for renzi who would continue 
+implement structural reform measures but also fiscal stimulus until the next scheduled 
+election expect more efforts sort out the weakest lenders complete 
+the civil justice and public administration reforms and also second wave labour 
+market reforms this scenario expect the mainstream parties start doing 
+better the polls thus reducing the risk that the five star movement does actually win 
+absolute majority the chamber deputies 
+the risk that protest party five star movement wins the next election this 
+course just conjecture this stage that yes vote means that renzi 
+approval about pick makes lot sense far however the indication that 
+emerges from the main surveys voter intentions national ballot that has 
+happen though historically national votes have tended happen rather 
+frequently italy that even though renzi pro reform democratic party would 
+win the first round may defeated the five star movement the second round 
+though its lead very small and within the polls margin error 
+new electoral law does deliver winner the previous electoral law was based 
+proportional system was very hard win absolute majority given many political 
+parties parliament governments were often short lived and snap elections quite 
+frequent but part its programme institutional reforms the current government 
+has managed get parliamentary approval for new rules the political game what 
+new that there now two round system designed identify winner for sure even 
+though aspects this law are being challenged court the majority premium 
+the winning party rather than coalition and the political parties are negotiating possible 
+changes here how works 
+first round vote for single party any party passes threshold which 
+wouldn expect based the latest polls attributed minimum seats 
+out absolute majority 
+second round party able pass the threshold voters then choose 
+between the two parties that got most votes the first round the party winning 
+the second round attributed seats 
+but not necessarily market friendly one markets seem suspect that may also 
+facilitate the victory least principle anti euro protest party the polls say 
+that renzi democratic party may well take the highest percentage votes the 
+first round but hypothetically may narrowly lose against the five star movement 
+should they both the second round better that the reform doesn pass 
+prevent the protest parties take power don think logic suggests that this 
+referendum truly seen confidence vote then passing the reform sign 
+support for mainstream parties but logic isn the only main thing politics 
+exhibit democratic party may win first round 
+exhibit but lose the second 
+polls round poll average votes 
+democratic party 
+star movement 
+forza italia 
+northern league 
+with salvini 
+polls round poll average votes 
+democratic party 
+star movement 
+others 
+jan 
+apr 
+sep 
+source opinion polls morgan stanley research 
+feb 
+july 
+last national election 
+nov 
+nov 
+jan 
+feb 
+apr 
+apr 
+june 
+aug 
+sep 
+oct 
+source opinion polls morgan stanley research 
+hedging the referendum 
+phanikiran naraparaju 
+exhibit most european risk premiums 
+are low 
+range from 
+while its immediate impact may not seem dramatic hedging for the italian referendum 
+also relatively easy there little european referendum risk premium various asset 
+classes see exhibit 
+latest 
+itraxx main 
+cdx 
+this facilitates setting longer term strategic hedges that protect against the 
+aftermath the vote and provides good platform set hedges for political riskheavy calendar europe for see political risk the rise july 
+cdx imp 
+vol 
+equity vol 
+italy 
+corps 
+italy ust 
+like the following order preference buy eurostoxx puts contingent 
+weaker eur buy protection itraxx main cdx iii buy eurusd puts 
+buy itraxx main payer spreads short btps european credit long 
+eurostoxx sell puts buy eurostoxx puts 
+eurusd 
+imp vol 
+source bloomberg morgan stanley research 
+credit hedges 
+buy protection itraxx main cdx carry ecb purchases corporate 
+bonds part have pushed european corporate credit spreads tight relative 
+credit spreads would expect the premium rise via two avenues 
+peripheral corporate exposure the index and 
+widening financials spreads 
+itraxx main trading inside cdx thus making this trade positive carry hedge the 
+trade has asymmetric upside hedge due the current tight levels the key risk 
+rise idiosyncratic risks more uncertainty around trump policy paths 
+exhibit itraxx main trades inside cdx 
+exhibit credit vol drops relative equity vol 
+vol ratio 
+spread 
+itraxx main cdx 
+vol vol 
+jan 
+jan 
+jan 
+jan 
+source bloomberg morgan stanley research 
+source bloomberg morgan stanley research 
+buy itraxx main payer spreads dec strike cost credit options 
+volatility has also been relatively muted and well behaved unlike equity market 
+volatility credit volatility low relative its history and relative the rise equity 
+volatility think that credit options are attractive now and recommend buying 
+december expiry main payer spreads which cost net payout 
+risk reward the key risk that supportive ecb limits downside 
+rates hedges 
+short btp yield european credit another product ecb 
+that european government bond yields and italian bond yields are low absolute 
+terms and relative usts either before after the election results european 
+corporates while don expect btp yields spiral levels see material 
+downside against corporates the key risk that ecb keeps btp yields contained 
+have previously flagged treasuries alternative long fund btp shorts but the 
+election result adds uncertainty that leg 
+exhibit btps outperformed european corporates 
+exhibit btps outperformed treasuries 
+yield difference 
+yield difference 
+italy corps 
+italy ust 
+jan 
+jan 
+jan 
+jan 
+source bloomberg morgan stanley research 
+jan 
+jan 
+jan 
+jan 
+source bloomberg morgan stanley research 
+equity hedges 
+long europe equities despite the uncertainty created the election result 
+see electing uncertainty november prefer over european equities 
+expect european equities via financials sector stress underperform around 
+the italian referendum 
+europe roe continues diverge and already the widest level years 
+and europe valuation discount line with long term averages 
+sell atm puts buy eurostoxx atm puts vol markets the europeus volatility differential has compressed recently due hedging activity the 
+ahead the elections 
+think these hedges still need unwound and limit downside for 
+equities the long short europe trade can also expressed via options 
+like buying atm options eurostoxx and selling atm puts 
+net cost 
+the key risk for both trades policy uncertainty around trump although the preelection risking and hedging limit downside the short term 
+exhibit europe valuation discount average 
+exhibit european vol premium has dropped 
+atm implied volatility 
+forward europe 
+richer 
+avg 
+cheaper 
+aug 
+aug 
+aug 
+aug 
+aug 
+aug 
+jan 
+eurostoxx vol 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+source msci morgan stanley research 
+source msci morgan stanley research 
+and equity hedges 
+puts contingent weaker eur equity italian referendum stress 
+scenario expect both eur and european equities weaken the same time and 
+positively correlated this change from the pattern the last two years and current 
+market pricing which prices eur correlation very negative eur rise 
+when european equities fall due the negative correlation eurostoxx put 
+contingent weaker eur costs just which third the outright put cost this 
+can very cost effective hedge for severe eurozone stress scenario 
+buy eurusd puts cost alternatively would also recommend outright 
+puts eurusd our previous operating assumption was that eur could strengthen 
+risk off scenarios but the republican sweep now favours dollar strength and creates 
+room for idiosyncratic eur weakness despite the upcoming referendum eur options 
+volatility major outlier remaining well below average when most and emfx vols 
+are above average assuming the recent correlation pattern reverses and eur weakens 
+italian stress see attractive upside eur puts 
+the key risk both trades that the ecb disappoints materially resulting 
+eur strength 
+exhibit eurostoxx correlation eurusd negative now but not 
+always 
+correlation 
+stocks down eur down 
+exhibit implied volatility eur cross low 
+vol 
+eurusd implied vol 
+average 
+eurusd 
+correlation 
+stocks down eur 
+source bloomberg morgan stanley research 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+source bloomberg morgan stanley research 
+calendar risk events 
+exhibit elections referendums and policy decisions 
+political calendar 
+year 
+date 
+november 
+december 
+january 
+finland 
+local 
+may 
+germany 
+germany 
+state schleswig holstein 
+state north rhine westphalia 
+june 
+september 
+october 
+november 
+january 
+march 
+april 
+may 
+september 
+october 
+november 
+march 
+april 
+presidential 
+france 
+germany 
+france 
+spain 
+parliamentary national assembly 
+general 
+parliamentary senate 
+potential referendum catalonia secession 
+portugal 
+local 
+czech republic 
+general 
+denmark 
+finland 
+czech republic 
+netherlands 
+local 
+presidential 
+presidential 
+local 
+hungary 
+italy 
+austria 
+sweden 
+general 
+general 
+general 
+general local 
+ireland 
+belgium 
+hungary 
+czech republic 
+poland 
+netherlands 
+presidential 
+local 
+local 
+local 
+local 
+regional 
+finland 
+belgium same day parliament 
+may 
+spain 
+greece 
+ireland 
+local 
+local 
+local 
+june 
+october 
+denmark 
+greece 
+portugal 
+poland 
+general 
+general 
+general 
+general 
+spain 
+poland 
+portugal 
+france 
+catalonia regional 
+municipal 
+presidential 
+presidential 
+regional 
+ireland 
+general 
+november 
+hungary may june 
+general 
+parliament 
+general local 
+republican primaries 
+referendum constitutional reform 
+presidential 
+supreme court hearing article bill 
+cdu party congress 
+ecb gov council meeting 
+council meeting 
+socialist primaries 
+supreme court judgement article bill 
+presidential 
+general 
+state saarland 
+start article process 
+presidential 
+april 
+march 
+risk event elections 
+final approval budget plans 
+germany 
+netherlands 
+germany 
+france 
+february 
+country 
+emu 
+france 
+italy 
+austria 
+germany 
+emu 
+france 
+march 
+may 
+january 
+march 
+april 
+france 
+source morgan stanley research 
+definition terms 
+buy long the analyst expects the total excess return depending the nature 
+the recommendation the instrument issuer that the subject the investment 
+recommendation positive over the relevant time period 
+sell short the analyst expects the total excess return depending the nature 
+the recommendation the instrument issuer that the subject the investment 
+recommendation negative over the relevant time period 
+selling protection buying risk the analyst expects that the price protection 
+against the event occurring will decrease over the relevant time period 
+buying protection selling risk the analyst expects the price protection against the 
+event occurring will increase over the relevant time period 
+pay the analyst expects that over the specified time period the variable rate underlying 
+the swap agreement that the subject the investment recommendation will increase 
+receive the analyst expects that over the specified time period the variable rate 
+underlying the swap agreement that the subject the investment recommendation 
+will decrease 
+unless otherwise specified the time frame for recommendations included the morgan 
+stanley fixed income research reports months and the price financial 
+instruments mentioned the recommendation the date and time publication 
+the recommendation 
+when more than one issuer instrument included recommendation analyst 
+expects one part the trade outperform the other trade combination other 
+trades included the recommendation relative basis 
+for important disclosures related the proportion all investment recommendations 
+over the past months that fit each the categories defined above and the 
+proportion issuers corresponding each those categories which morgan 
+stanley has supplied material services please see the morgan stanley disclosure 
+matrix eqr article webapp 
+rpint 
+disclosures strategy risk factors 
+buying calls call spreads investors who buy call options risk loss the entire premium paid the underlying security finishes below the strike price 
+expiration investors who buy call spreads buy call and sell further otm call also have maximum loss the entire front premium paid the maximum 
+gain from buying call spreads the difference between the strike prices less the upfront premium paid 
+buying puts put spreads investors who buy put options risk loss the entire premium paid the underlying security finishes above the strike price 
+expiration investors who buy put spreads buy put and sell further otm put also have maximum loss the upfront premium paid the maximum gain from 
+buying put spreads the difference between the strike prices less the upfront premium paid 
+selling calls investors who sell covered calls own the underlying security and sell call risk limiting their upside the strike price plus the upfront premium 
+received and may have their security called away the security price exceeds the strike price the short call additionally the investor has full downside 
+exposure that only partially offset the upfront premium taken investors short naked calls sold calls but don hold underlying security risk unlimited 
+losses security price less strike price investors who sell naked call spreads sell call and buy farther out the money call with underlying security 
+position have maximum loss the difference between the long call strike and the short call strike less the upfront premium taken the underlying security 
+finishes above the long call strike expiration the maximum gain the upfront premium taken the security finishes below the short call strike expiration 
+selling puts put sellers commit buying the underlying security the strike price the event the security falls below the strike price the maximum loss the 
+full strike price less the premium received for selling the put put sellers who are also long lower dollar strike put face maximum loss the difference 
+between the long and short put strikes less the options premium received 
+buying strangles the maximum loss the entire premium paid put call the security finishes between the put strike and the call strike expiration 
+selling strangles straddles investors who are long security and short strangle straddle risk capping their upside the security the strike price the 
+call that sold plus the upfront premium received additionally the security trades below the strike price the short put the investor risks losing the difference 
+between the strike price and the security price less the value the premium received the short put and will also experience losses the security position 
+owns shares the maximum potential loss the full value the strike price less the value the premium received plus losses the long security 
+position investors who are short naked strangles straddles have unlimited potential loss since the security trades above the call strike price the investor 
+risks losing the difference between the strike price and the security price less the value the premium received the short call additionally they are obligated 
+buy the security the put strike price less upfront premium received the security finishes below the put strike price expiration strangle straddle sellers 
+risk assignment short put positions that become the money additionally they risk having stock called away from short call positions that become the 
+money 
+options disclaimer 
+options are not for everyone before engaging the purchasing writing options investors should understand the nature and extent their rights and 
+obligations and aware the risks involved including the risks pertaining the business and financial condition the issuer and the underlying stock 
+secondary market may not exist for these securities for customers morgan stanley incorporated who are purchasing writing exchange traded options 
+your attention called the publication characteristics and risks standardized options particular the statement entitled risks option writers that 
+publication which you should have read and understood prior investing options can viewed the web the following address 
+http optionsclearing about publications character risks jsp spreading may also entail substantial commissions because involves least twice 
+the number contracts long short position and because spreads are almost invariably closed out prior expiration potential investors should advised 
+that the tax treatment applicable spread transactions should carefully reviewed prior entering into any transaction also should pointed out that while 
+the investor who engages spread transactions may reducing risk also reducing his profit potential the risk reward ratio hence important 
+consideration 
+the risk exercise spread position the same that short position certain investors may able anticipate exercise and execute rollover 
+transaction however should exercise occur would clearly mark the end the spread position and thereby change the risk reward ratio due early 
+assignments the short side the spread what appears limited risk spread may have more risk than initially perceived investor with spread 
+position index options that assigned exercise risk for any adverse movement the current level between the time the settlement value 
+determined the date when the exercise notice filed with occ and the time when such investor sells exercises the long leg the spread other multipleoption strategies involving cash settled options including combinations and straddles present similar risk 
+important information examples within are indicative only please call your local morgan stanley sales representative for current levels 
+selling option the seller receives premium from the option purchaser and the purchase receives the right exercise the option the strike price the 
+option purchaser elects exercise the option the option seller obligated deliver purchase the underlying shares from the option buyer the strike price 
+the option seller does not own the underlying security while maintaining the short option position naked the option seller exposed unlimited market risk 
+spreading may entail substantial commissions because involves least twice the number contracts long short position and because spreads are 
+almost invariably closed out prior expiration potential investors should carefully review tax treatment applicable spread transactions prior entering into 
+any transactions 
+multi legged strategies are only effective all components suggested trade are implemented 
+investors long option strategies are risk losing all their option premiums investors short option strategies are risk unlimited losses 
+there are special risks associated with uncovered option writing which expose the investor potentially significant loss therefore this type strategy may not 
+suitable for all customers approved for options transactions the potential loss uncovered call writing unlimited the writer uncovered call 
+extremely risky position and may incur large losses the value the underlying instrument increases above the exercise price 
+with writing uncovered calls the risk writing uncovered put options substantial the writer uncovered put option bears risk loss the value the 
+underlying instrument declines below the exercise price such loss could substantial there significant decline the value the underlying instrument 
+uncovered option writing thus suitable only for the knowledgeable investor who understands the risks has the financial capacity and willingness incur 
+potentially substantial losses and has sufficient liquid assets meet applicable margin requirements this regard the value the underlying instrument 
+moves against uncovered writer options position the investor broker may request significant additional margin payments investor does not make 
+such margin payments the broker may liquidate stock options positions the investor account with little prior notice accordance with the investor 
+margin agreement 
+for combination writing where the investor writes both put and call the same underlying instrument the potential risk unlimited 
+secondary market options were become unavailable investors could not engage closing transactions and option writer would remain obligated 
+until expiration assignment 
+the writer american style option subject being assigned exercise any time after has written the option until the option expires contrast the 
+writer european style option subject exercise assignment only during the exercise period 
+disclosure section 
+morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the prudential 
+regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial services and 
+markets act research which has been prepared any its affiliates used this disclosure section morgan stanley includes rmb morgan 
+stanley proprietary limited morgan stanley international plc and its affiliates 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report phanikiran 
+naraparaju 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+within the last months morgan stanley managed managed public offering offering securities united states america 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from italy united states 
+america 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company italy united states america 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company italy 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+october 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities italy united states america 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers hong 
+kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities hong 
+kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia indonesia 
+canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley 
+bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley 

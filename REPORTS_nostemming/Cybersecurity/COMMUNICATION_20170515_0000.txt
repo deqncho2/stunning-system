@@ -1,0 +1,1645 @@
+may gmt 
+communication systems and applications 
+the rise security 
+defined networking 
+security will increasingly integrated with network functionalities which 
+estimate could deliver much savings global enterprises the security 
+network combination may improve replacement cycles for csco upgrade panw 
+and vmw 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict interest that could affect the 
+objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held research analyst account 
+contributors 
+morgan stanley llc 
+morgan stanley llc 
+james faucette 
+melissa gorham 
+equity analyst 
+equity analyst 
+james faucette morganstanley 
+melissa gorham morganstanley 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley llc 
+keith weiss cfa 
+sanjit singh 
+meta marshall 
+equity analyst 
+equity analyst 
+equity analyst 
+keith weiss morganstanley 
+sanjit singh morganstanley 
+meta marshall morganstanley 
+morgan stanley llc 
+morgan stanley international plc 
+yuuji anderson 
+francois meunier 
+equity analyst 
+equity analyst 
+yuuji anderson morganstanley 
+francois meunier morganstanley 
+contents 
+executive summary 
+why security could the killer app for 
+networking 
+networking coverage implications 
+adjusting paradigm shift security and 
+networking 
+cisco best positioned take share 
+juniper difficult position while arista 
+and roadmaps are less clear 
+software coverage implications 
+vmware nsx emerges key driver 
+improving license growth 
+palo alto networks partnership with 
+vmware allows panw directly 
+participate sdn adoption 
+appendix cybersecurity improvements 
+with software defined networking 
+appendix cybersecurity improvements 
+with software defined networking 
+communication systems and applications 
+sdn the rise securitydefined networking 
+ecurity will increasingly integrated with network functionalities which 
+estimate could deliver much savings global enterprises the 
+security network combination may improve replacement cycles for csco upgrade 
+panw and vmw 
+communications systems and applications 
+north america industry view 
+end portfolio unmatched peers combined with the largest 
+cautious 
+and therefore continue take share networking and security 
+network footprint think csco best positioned enable 
+budgets raise our estimates anticipation improving 
+leveraging software defined networking technology create 
+replacement cycles from security upgrades and share gains 
+security defined networks can dramatically improve returns 
+software which compel our upgrade overweight and will catalyze 
+incorporating 
+stock rerating towards our see our upgrade note 
+software based 
+networking 
+technologies 
+into 
+cybersecurity strategies can deliver traffic visibility integrate 
+analytics technologies and automate security responses achieving 
+the key objectives detailed our blue paper rethinking security 
+result estimate that global enterprises can save annually 
+through reducing the cost security breaches meaningful value 
+proposition compared the spent annually enterprise 
+networking equipment and least the savings potential 
+software based networking technologies alone 
+security defined networking bends the replacement curve 
+critical component act for vmw the emergence 
+newer product categories such nsx software defined 
+networking vsan software defined storage and airwatch end 
+user computing constitute act for vmware our view the 
+growth these new categories now more than offset the declines 
+vmware legacy infrastructure business the nsx solution for sdn 
+yields the largest growth dollar impact any the newer product 
+becomes the killer app that drives networking spend the 
+groups making vmware act our bottoms analysis suggests 
+exponential benefit combining networking and security 
+billion nsx potential opportunity within the vmware 
+efficiencies encapsulated our concept given the relatively 
+installed base addition our recent cio survey bolsters our 
+small cost networking the overall security stack expect 
+confidence nsx growth prospects vmware cited the 
+the roi improvement with improve equipment replacement 
+second most often utilized vendor for sdn see vmware nsx 
+cycles for vendors that deliver traffic visibility analytics and 
+solution garnering rapid adoption particularly use cases expand 
+automation the push provided traffic growth alone has faded 
+security micro segmentation automation disaster recovery and 
+and without security killer app equipment life cycles will 
+vdi these expanded use cases should help sustain near top line 
+continue fade 
+growth and mid teens eps growth our view this light would 
+upgrading csco best positioned for estimate that 
+expect current multiples expand vmware executes against its 
+csco has spent acquiring companies that improve network 
+multiple new opportunity sets our act thesis was initially put forth 
+traffic visibility analytics and automation capabilities the past two 
+our july upgrade vmw reaching tipping point looking 
+years csco holds leading share the firewall market and its end 
+for turn towards normal 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict interest that could affect the 
+objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held research analyst account 
+executive summary 
+combining networking and security technologies will drive more frequent upgrade cycles moore law 
+drives rapid increases compute power and bandwidth which outpacing capacity demand but even with excess system 
+potential customers must keep networks compatible with the latest security features think the benefit better 
+security through software defined networks security defined networks call will become the primary 
+driver networking spend and vendors that deliver its emerging use cases improving traffic visibility integrating 
+analytics and automating security responses will see improved replacement cycles 
+exhibit 
+security decisions are increasingly driving equipment spend while 
+capacity demand diminishing catalyst 
+exhibit 
+could drive faster replacement upgrades without security 
+would expect equipment replacement cycles lengthen 
+catalysts for the ethernet switch market 
+estimated replacement cycles 
+capacity driven 
+capacity driven 
+capacity driven 
+sdn security 
+driven 
+security driven 
+years 
+sdn without security 
+source morgan stanley research 
+sdn 
+sdn 
+sdn with 
+withsecurity 
+security 
+source dell oro group morgan stanley research 
+can deliver annual cost savings the enterprise 
+software defined networking centralizes network management 
+instead having each network device controlled individually 
+enabling network management from single software platform 
+exhibit 
+security use cases can reduce the cost breach significantly 
+expanding potential savings with software defined networking 
+budget addressable sdn 
+and platform for deploying applications related the network 
+like firewalling microsegmentation better integration combined 
+with network visibility can improve analytics and help automate 
+security responses threats are assessed managers can then 
+cost breach 
+security spend 
+internal staffing 
+response times and therefore the cost security breaches 
+networking 
+reducing the cost security breaches only can save global 
+enterprises annually meaningful value proposition 
+more easily meet security needs helping reduce detection and 
+compared the spent annually enterprise networking 
+equipment and least the savings potential software based 
+networking technologies alone 
+morgan stanley research 
+sdn 
+networking and 
+automation 
+sdn 
+sdn 
+security 
+security 
+source idc morgan stanley research 
+note cost breach added for comparative purposes includes costs outside the budget 
+realize savings with equipment vendors must deliver 
+exhibit 
+customers 
+are 
+still 
+evaluating 
+software defined 
+networking 
+three key areas visibility analytics and response networking 
+deployments can push adoption along 
+vendors are good position provide key security improvements 
+deploying planning deploy sdn 
+given their reach the network but these capabilities are enabled 
+further software development for analytics security budgets are 
+currently deployed 
+favoring 
+next months 
+platform 
+providers 
+that 
+integrate 
+best breed 
+technologies automating security responses via the network 
+controller will likely depend partnerships with security vendors 
+apr 
+years 
+oct 
+still evaluating 
+insights network would best suited for vendors with the 
+largest network footprints and would require similar incremental 
+investments analytics spend should change industry profit 
+plans next 
+years 
+and incremental investments visibility implementing actionable 
+distribution while improving business visibility 
+source morgan stanley cio survey april 
+exhibit 
+with security use cases our hypothetical budget gains least 
+more savings than original software defined networking use cases 
+networking security 
+reduced networking spend 
+disaggregating hardware software spend better network utilization 
+increased opex non security 
+increase staffing for needed software skills 
+impact 
+budget 
+savings costs 
+favor csco amongst networking stocks vmw 
+use cases security represent key component 
+its improving growth 
+exhibit 
+cisco best positioned amongst networking coverage while juniper 
+seeing challenges 
+how networking stocks differentiate 
+analytics 
+visibility 
+company 
+decreased opex security 
+less security related troubleshooting 
+increased replacement cycles hardware 
+need modernize increase distribution functionality 
+reduced cost one security breach 
+faster detection and response time 
+included for comparison cost breach spans beyond budgets 
+largest install base 
+networking 
+platform security provider 
+net impact budget 
+hypothetical impact enterprise budgets 
+more savings than original software defined networking 
+improved security 
+automation 
+outlook 
+offers sdn controller 
+best positioned 
+software partnership driven 
+offers sdn controller 
+security business lost 
+technology mindshare 
+more limited install base 
+discrete security products 
+growing install base cloud 
+data centers 
+partnered with large 
+customers for sdn use cases 
+some analytics capabilities 
+footprint limited one device 
+type adcs but provides 
+traffic analytics 
+software partnerships driven 
+challenged 
+open source driven 
+less clear 
+sdn controller 
+less clear 
+source morgan stanley research 
+net neutral net positive for select networking vendors 
+source morgan stanley research 
+exhibit 
+cio survey has shown historical preference for csco and vmw 
+enablers software defined networking 
+exhibit 
+largely software discipline 
+ability vendors help companies deploy sdn 
+cisco 
+visibility 
+network telemetry 
+networking software 
+vmware nsx 
+brocade 
+arista networks 
+analytics 
+security technologies 
+mostly software 
+mostly software 
+juniper 
+ibm 
+auto response 
+network controller 
+more able 
+line with peers 
+less able 
+source morgan stanley cio survey 
+think cisco has taken necessary steps gain share 
+source morgan stanley research 
+upgrading cisco maintains leading market share firewalls 
+and has made acquisitions improve its analytics visibility 
+and automation capabilities owning end end product portfolio 
+nokia covered francois meunier and rated overweight 
+for sdn that unmatched its peers cisco also owns the largest 
+potential market share gainer plain vanilla core routers thanks 
+networking footprint and leveraging partnerships with over 
+its house designed chips which have proved popular for edge 
+security vendors maximize visibility into its install base cios have 
+routing while the larger players move more security based 
+historically favored cisco for implementing software defined 
+functionalities believe there some room for simpler products 
+networking and our industry conversations suggest customers are 
+the market nokia following the acquisition alcatel has shown 
+increasingly favoring cisco unified architecture for improving 
+some limited traction far core routing and has stated the 
+cybersecurity strategies think cisco breadth will drive 
+latest results that its product refresh should lead some 
+continued share gains security and networking budgets driving 
+more palatable results this however too small matter 
+earnings growth and multiple expansion towards our new 
+for nokia whole ericsson also covered francois meunier and 
+see our upgrade note 
+rated equal weight has left the routing market and has reselling 
+agreement with cisco 
+exhibit 
+relatively small footprint large market 
+vmware nsx key component improving growth 
+market share breakdown 
+profile the investor debate around vmware has centered 
+whether the company could produce act enough scale and 
+cisco 
+growth offset the declines the core server virtualization 
+juniper 
+checkpoint 
+infrastructure business incredibly successful act believe 
+fortinet 
+palo alto networks 
+vmware nsx solution represents the biggest incremental driver 
+cisco 
+cisco 
+huawei 
+juniper 
+huawei 
+juniper 
+hpe 
+arista 
+other 
+other 
+routers 
+ethernet switches 
+growth that act given its expanding use cases existing enterprise 
+relationships and broader market opportunity with solutions that 
+other 
+address the mid market nsx use cases today center around security 
+and distributed firewalling capabilities but also seeing 
+network security 
+appliances 
+source dell oro group 
+micro segmentation automation disaster recovery and 
+vdi emerging strong drivers adoption estimate nsx license 
+billings have grown each the last quarters and expect 
+this rapid growth continue and 
+other networking equipment companies lack the scale gain 
+vmware can return the high single digit top line growth 
+benefits from highlighted our channel checks and 
+and mid teens eps growth forecast for and current 
+surveys juniper seeing continued difficulties with its security 
+multiples could expand further 
+business compared cisco juniper equipment deployed 
+smaller footprint limiting the reach necessary deliver maximum 
+exhibit 
+visibility into network traffic therefore juniper remains difficult 
+sdn represents the key driver vmware improving growth profile 
+position customers look consolidate security and network 
+purchase decisions while arista continues gain share its 
+footprint limited the data center and the company lack 
+discrete software products could limit its reach security driven 
+spend particularly replacement cycles lengthen its install base 
+has successfully monetized additive security features and offers 
+lic billings yoy 
+entirely the application delivery controller adc specialized 
+limited relatively small footprint 
+lic billings nsx growth 
+total lic billings growth 
+unique visibility for its customers but its install base almost 
+segment the network and therefore analytics and visibility are 
+nsx billings growth 
+source company data morgan stanley research note effectively skipped vmw switched 
+january year end accordingly the yoy growth rate comparing months ending january 
+with months ending december 
+morgan stanley research 
+why security could the killer app for 
+networking 
+security strategies should improved through software defined networking creating what call 
+security defined networking can achieved applying security primary app for software defined networking 
+allows managers better aggregate security functionalities across different technology platforms integrating security 
+across the network allows better traffic visibility improved analytics and helps automate security responses threats are 
+assessed key objectives detailed the cybersecurity blue paper result managers can more easily manage 
+granular security policies and apply techniques such micro segmentation which can control network access down 
+the application user and use case level see appendix 
+exhibit 
+leverages available bandwidth improve cybersecurity 
+refer security defined networking for very 
+specific reason when security defined networking fully 
+implemented think allows for the security stance 
+potentially improve near the square moore law 
+consolidated 
+technologies 
+bandwidth 
+automated 
+response 
+analytics 
+source morgan stanley research 
+exhibit 
+software defined networking viewed primary method for 
+micro segmentation 
+what technologies are you using for microsegmentation today 
+software defined 
+firewall deployments from 
+firewall deployments 
+networking technologies your primary firewall vendor separate from your primary 
+firewall vendor 
+respondents that currently deploy microsegmentation 
+source morgan stanley cso survey 
+why and how does balance the good 
+guys bad guys 
+stand alone 
+microsegmentation 
+technologies 
+most security solutions today take advantage moore law 
+consistently doubling the number transistors per square inch 
+drives exponential increases compute apply increasing 
+processing power improve security efficacy but moore law 
+also benefits bandwidth throughput bandwidth capacity also 
+tends grow about the same rate moore law giving 
+traditional networking increased role security primarily 
+through traffic monitoring and policy implementation the 
+front end and remediation the back end and complementing 
+with more processing intensive work like traffic analysis and 
+response formulation the security stance capacity can grow 
+the square moore law hence our name for securitydefined networking 
+for the good guys running networks getting stance 
+essential because the bad guys are already there network 
+attacks increasingly exploit both increased processing power and 
+faster bandwidth mount more effective attacks the response 
+the exponentially growing threat processing power 
+bandwidth has date been necessity linear most current 
+security approaches rely only processing power and 
+manpower which means the good guys are falling further 
+behind 
+getting network world least the good guys 
+would able match the firepower the bad guys and that 
+should drive better return both security and networking 
+investment than what being realized today 
+exhibit 
+software defined networking abstracts control network devices into 
+centralized software controller 
+application plane 
+exhibit 
+staff are spending more time troubleshooting security issues 
+what percent hour work week you spend 
+troubleshooting security related issues 
+control plane decoupled software layer 
+data plane multiple devices 
+none 
+hours 
+between 
+hours 
+more than hours 
+source viavi solutions state the network 
+source paessler 
+combining security and networking use cases could help 
+enterprises save annual costs automating both 
+security incremental use case software defined 
+security and network updates managers are better equipped 
+networking original objective enabling more manageable 
+reduce detection and response times and therefore reduce the cost 
+and 
+software defined 
+security breaches recent study published rand corporation 
+networking centralizes management multiple network devices 
+estimated typical cyber breach cost annual revenues 
+switches routers etc onto single software automating the 
+american company hypothetical example enterprises could 
+manual processes required change network configurations better 
+realize much savings helps reduce the cost 
+network control promises lower capex requirements improving 
+breach only per recent survey network teams conducted 
+utilization existing assets and enabling use cases for commodity 
+viavi solutions respondents are involved 
+hardware automating manual processes can also drive significant 
+troubleshooting security issues and those report 
+workforce productivity some the large cloud service providers 
+increase the time spent over the past months reducing time 
+early sdn adopters are able manage devices per 
+spent 
+person compared devices per person for more traditional 
+development costs for combining security and software defined 
+enterprises 
+networking capabilities our hypothetical budget assume 
+cost effective 
+network 
+principally 
+troubleshooting 
+could 
+offset 
+incremental 
+software 
+managers will motivated deploy security use cases across the 
+exhibit 
+faster detection and response would help reduce the cost breaches 
+components cybersecurity breach 
+entire network which could spur accelerated replacement cycles for 
+legacy equipment particularly the campus ensure 
+compatibility with the latest security technologies therefore 
+assume accelerated replacement cycles offset savings from better 
+lost business 
+post response costs 
+notification costs 
+detection and escalation 
+costs 
+network utilization but this assumption could prove conservative 
+managers also drive better utilization with security appliances 
+source ponemon institute cost data breach study 
+morgan stanley research 
+exhibit 
+with security use cases our hypothetical budget gains least more savings than original software defined networking use cases 
+networking security 
+impact 
+budget 
+savings costs 
+decreased opex security 
+less security related troubleshooting 
+increased replacement cycles hardware 
+need modernize increase distribution functionality 
+reduced cost one security breach 
+faster detection and response time 
+included for comparison cost breach spans beyond budgets 
+reduced networking spend 
+disaggregating hardware software spend better network utilization 
+increased opex non security 
+increase staffing for needed software skills 
+net impact budget 
+hypothetical impact enterprise budgets 
+more savings than original software defined networking 
+improved security 
+net neutral net positive for select networking vendors 
+source morgan stanley research 
+exhibit 
+network spend small portion budgets 
+software defined networking without security has struggled 
+worldwide spend 
+capex savings network equipment spend comprises only 
+demonstrate roi for many customers despite purported 
+enterprise budgets and the potential savings diluted long 
+depreciation schedules staffing costs claim larger portion the 
+budget typically but implementing large scale automation 
+networking 
+other infrastructure 
+requires higher investments software development capabilities 
+services 
+and overhaul internal business processes security 
+other spend 
+networking devops operations etc need cooperate required 
+organizational changes happen slowly and many managers assess 
+too much operational risk from troubleshooting the initial rollout 
+source idc 
+and relying currently available software controllers handle 
+network and security decisions netting out customers only gain 
+modest savings hardware costs which are sometimes more than 
+offset opex for software although traditional networking 
+vendors are contending with lengthening replacement cycles more 
+below software defined networking original use case has hardly 
+been the disruptive force once feared but with improved roi from 
+security use cases think could fundamentally change 
+networking spend from capacity driven upgrade cycles 
+security driven investments 
+exhibit 
+hypothetical budget gains little any savings from sdn original use cases 
+sdn networking only 
+impact 
+reduced networking spend 
+disaggregating hardware software spend better network utilization 
+increased opex non security 
+increase staffing for needed software skills 
+budget 
+savings costs 
+net impact budget 
+hypothetical impact enterprise budgets 
+best case small savings 
+worst case recurring increase opex 
+net negative for networking vendors but barely disruptive 
+source morgan stanley research 
+morgan stanley research 
+networking coverage implications 
+adjusting paradigm shift security 
+and networking 
+exhibit 
+aggregate profits for networking have not grown despite software 
+investments 
+security decisions will primary motivation for networking 
+networking profit pool 
+networking 
+spend moore law has driven rapid increases compute power and 
+lengthening equipment replacement cycles but even with excess 
+system potential customers must keep networks compatible with 
+the latest security technologies and are already seeing evidence 
+our surveys and channel checks that security decisions are driving 
+networking spend given the organizational challenges and 
+investment requirements expect adoption remain gradual 
+serie 
+serie 
+pace but also believe security software defined networking 
+use cases ensure permanent departure from traditional 
+handsets 
+annual profit pools 
+bandwidth outpacing underlying capacity requirements and 
+pcs 
+source morgan stanley research thomson reuters 
+capacity driven upgrade cycles improving bandwidth utilization 
+with software defined networking further diminishes capacity 
+paradigm shift will dictate share gains and losses some 
+demand spending catalyst and sdn becomes essential 
+networking companies have gained traction with security and 
+cybersecurity strategies networking spend will keep pace support 
+software defined networking products but the networking 
+its use cases 
+industry profit pool has not grown the past years suggesting 
+that aggregate software opportunities have been completely offset 
+high competitive investments and lengthening replacement 
+exhibit 
+security significant impetus for upgrading networking equipment 
+cycles the hardware portfolio security decisions increasingly 
+key impetus for customer upgrading networking 
+equipment 
+software defined networking and its security use cases are more 
+vendor led upgrade 
+other architecture changes 
+jan 
+spend 
+vendors 
+that 
+best 
+facilitate 
+consistent equipment replacement activity conversely those that 
+remain primarily dependent capacity driven upgrade cycles are 
+growing demand 
+standard upgrade 
+networking 
+likely gain profit share through software growth and more 
+improved security 
+drive 
+more likely lose share 
+exhibit 
+for cybersecurity automation and analytics software discipline 
+network vendors better positioned visibility objective 
+visibility 
+network telemetry 
+aug 
+networking software 
+source morgan stanley var survey 
+auto response 
+network controller 
+analytics 
+security technologies 
+mostly software 
+mostly software 
+source morgan stanley research 
+networking vendors need deliver three key areas 
+visibility analytics and response lot the challenges 
+associated with stem from the application software layer 
+requiring incremental investments traditional networking 
+vendors think the competitive landscape becomes increasingly 
+exhibit 
+could drive faster replacement upgrades improved bandwidth 
+demand utilization without security would expect equipment 
+replacement cycles continue lengthening 
+estimated replacement cycles 
+difficult security budgets favor platform providers that integrate 
+the network controller will likely depend partnerships with 
+security vendors and incremental investments visibility analytics 
+years 
+best breed technologies while automating security responses via 
+and automated response estimate that cisco has spent 
+the last years primarily foment these capabilities other 
+networking vendors that not have cisco deep pockets may 
+better off partnering with software providers especially while the 
+technology ecosystem remains relatively nascent but while 
+partnerships could help achieve key cybersecurity objectives 
+sdn without security 
+sdn 
+sdn 
+sdn with 
+withsecurity 
+security 
+source morgan stanley research 
+integration with third party software generally does not lead 
+share gains while incremental value will likely accrue the software 
+security killer app for networking could drive more 
+controller 
+frequent upgrade cycles pervasive adoption could ultimately 
+shorten replacement cycles for networking equipment improved 
+building network visibility could drive equipment upgrades but 
+bandwidth utilization coincides with benefits from better traffic 
+would require software investments well telemetry the 
+visibility analytics and automation for example vendors could 
+extraction and collection real time traffic data directly from the 
+increasingly leverage telemetry drive full automation with 
+underlying network hardware analyzed conjunction with 
+and machine learning and automation were demonstrate 
+separate security analytics tools managers can gain additional 
+significant cost savings the budget assuming networking 
+insights into potential network abnormalities cyber threats that 
+equipment the budget managers could prefer 
+might not evident the software layer but this real time 
+regularly upgrade their infrastructure support the latest use 
+telemetry tools must able collect distill and feed other tools 
+cases 
+large amount data efficiently equipment vendors are best 
+positioned provide this service and enable the added insight 
+because they have the greatest reach data traffic and are driving 
+collective processing power through moore law but delivering 
+cisco best positioned take share 
+actionable insight network traffic would best suited for 
+vendors with the largest network footprints and would require 
+have upgraded csco overweight and raised our see our 
+similar incremental investments software analytics 
+upgrade note for further details 
+security portfolio gaining momentum and acquisitions 
+analytics visibility and automation are starting bear fruit 
+cisco maintains leading market share network security appliances 
+and has spent the last years address the key objectives 
+visibility analytics and response recent momentum with the 
+security business attributable upgrade activity the firewall 
+base and ramp acquired assets the recently published chief 
+security officer survey indicates accelerated firewall refresh activity 
+which believe opens further upsell and share gain 
+opportunities security while the security portfolio differentiates 
+cisco analytics competitors other software assets such 
+tetration and appdynamics will drive incremental budget share 
+gains with customers seeking improve traffic visibility 
+morgan stanley research 
+exhibit 
+acquisition activity bolster capabilities visibility analytics and 
+automation 
+date 
+may 
+jan 
+aug 
+dec 
+aug 
+may 
+jul 
+viptela 
+appdynamics 
+cloudlock 
+lancope 
+opendns 
+threatgrid 
+sourcefire 
+the largest networking footprint and enable automation 
+think customers will continue adopt aci cisco proprietary 
+implementation software defined networking concepts 
+sdn objective 
+acquisition 
+leveraging technology partnerships maximize visibility into 
+survey data has historically indicated that cisco the preferred 
+automation visibility 
+visibility analytics 
+analytics automation 
+visibility analytics 
+visibility analytics 
+visibility analytics 
+analytics 
+vendor for software defined networking generally but meaningful 
+improvements visibility and automation will driven its 
+partnership with over security vendors that will help maximize 
+the intelligence gleaned from the largest networking footprint 
+equipped with broader intelligence and network reach cisco best 
+positioned drive automated responses competitors with 
+smaller footprints indicated our industry conversations 
+source company filings 
+customers are increasingly viewing cisco end end security 
+networking server portfolio the most effective way improve 
+security 
+exhibit 
+cisco expected least maintain market share firewall refresh 
+replacement cycles improve security technologies compel 
+activity picks 
+what vendor you most broadly deploy for consolidated network security 
+appliances 
+more consistent upgrade activity recent quarterly results were 
+cisco 
+palo alto networks 
+check point 
+affected headwinds the switches and routers businesses 
+evidence slowing upgrade activity cisco install base but our 
+checks have been picking network spend being bundled with 
+sonicwall 
+security solutions and past cio surveys have consistently indicated 
+ibm 
+fortinet 
+other 
+mcafee 
+next months 
+seeing meaningful benefit from security related sales think 
+next months 
+juniper 
+that cisco leads other vendors expected network spend and 
+today 
+security driven 
+networking 
+spend 
+will 
+improve 
+equipment 
+replacement cycles particularly the campus where legacy 
+networks 
+respondents 
+equipment will need upgraded better handle encrypted 
+traffic and allow security functionalities such segmentation 
+source morgan stanley cso survey 
+secure connectivity and real time telemetry building better visibility 
+and enabling broader automation could compel customers stay 
+exhibit 
+date networking equipment and for cisco estimate that 
+cio survey has shown historical preference for csco the enabler 
+year acceleration replacement cycles could yield 
+software defined networking 
+benefit eps 
+ability vendors help companies deploy sdn 
+cisco 
+exhibit 
+faster replacement cycles the campus could benefit eps 
+vmware nsx 
+juniper 
+brocade 
+ibm 
+arista networks 
+more able 
+source morgan stanley cio survey 
+line with peers 
+less able 
+effect faster replacement cycles campus switching business 
+total switching revenue 
+total switching revenue 
+assumed campus replacement cycle years 
+estimated annual replacement activity ports 
+estimated annual replacement activity 
+nopat benefit ebit margin tax rate 
+eps benefit 
+eps benefit current eps 
+source morgan stanley research dell oro group group 
+juniper difficult position while 
+arista and roadmaps are less clear 
+difficult deliver complete traffic visibility and improve 
+network controller with limited footprint date have been 
+cautious juniper share gain opportunities see few signs 
+customer expansion and think the relatively niche audience has 
+jnpr struggling security business limited footprint 
+hurts roi 
+hurt adoption juniper software defined networking products 
+contrail and northstar juniper emphasizes open source 
+strategy but our checks indicate that many customers think the 
+exhibit 
+compared its peers security contributing less juniper spend 
+security features resulting more less spend 
+resources currently available the user community are inadequate 
+further the junos operating system relatively niche platform 
+likely making technology partnerships difficult see our global 
+insight network modernization juniper equipment deployed 
+relatively small footprint limiting the reach necessary deliver 
+maximum visibility into network traffic 
+anet expect continued share gains but partnership 
+strategy likely limits reach 
+cisco 
+networks 
+vmware 
+spending more 
+arista 
+networks 
+juniper 
+exhibit 
+spending less 
+leveraged the remaining growth area networking 
+source morgan stanley cio survey april 
+ethernet market estimated mix 
+security underperformance puts juniper disadvantage with 
+future network decisions highlighted our recent cio survey 
+spending intentions for juniper saw meaningful decline and 
+underperformance least partially attributable continued 
+difficulties with the security business revenue 
+declined from the same quarter four years ago which 
+expected contribute less spending think juniper vision for 
+security line with ours seeking build visibility into the network 
+and automate policy enforcement but network purchase 
+rest ethernet switch market 
+data center market 
+source morgan stanley research dell oro group idc 
+decisions become increasingly tied cybersecurity strategies lack 
+traction with the current security portfolio likely puts juniper 
+expect continued share gains networking enabler 
+relative disadvantage cisco its primary competitor 
+software defined networking arista share gains share cloud 
+data centers largely attributable its eos network operating 
+exhibit 
+system which provides the open architecture and programmability 
+relatively small footprint large market 
+that hyperscale customers are using implement software defined 
+market share breakdown 
+networking with internal software engineering efforts with 
+established mindshare expect arista continue gaining share 
+cisco 
+with cloud customers and with the business concentrated one 
+juniper 
+checkpoint 
+the remaining areas the network undergoing capacity buildouts 
+fortinet 
+palo alto networks 
+results have been largely unaffected lengthening replacement 
+cisco 
+cisco 
+huawei 
+juniper 
+huawei 
+juniper 
+hpe 
+arista 
+other 
+other 
+routers 
+ethernet switches 
+other 
+but lack software monetization could limit its reach 
+security driven spending paradigm although the company does 
+source dell oro group 
+cycles date 
+network security 
+appliances 
+offer eos separate license for white box deployments has not 
+been meaningful contributor revenue and incremental software 
+products date have mostly been imputed the underlying switch 
+morgan stanley research 
+sale arista participates security use cases partnership with point 
+solution providers leveraging its position east west traffic 
+improve network visibility and policy implementations but 
+replacement cycles lengthen the data center and networking 
+spend tied broader security purchases arista opportunities 
+could more limited than what built into current expectations 
+ffiv gaining mindshare software but limited 
+footprint leaves positioning uncertain 
+the company has already made headway with analytics and 
+visibility pieces has successfully monetized security features 
+running top its application delivery controller adc products 
+and the strategy has led becoming leading web application 
+firewall waf provider adcs are specialized switches with high 
+processing power that optimize data traffic related its web 
+presence and therefore already enables visibility particularly into 
+encrypted traffic own success analytics and visibility stems 
+from its significant software investments and close partnerships 
+with the software ecosystem including the devops community 
+which could bode well for future mindshare automating network 
+and security functionalities 
+exhibit 
+adc market smaller than most networking 
+networking tam 
+application delivery controller 
+network security appliance 
+router 
+switch 
+source dell oro group 
+but network reach limited making use cases more 
+uncertain adcs are currently market and comparing 
+network security appliance market and switch 
+market demonstrates adcs relatively niche position the network 
+therefore while offers analytics and visibility its use cases are 
+more confined while monetizing analytics incremental use 
+cases for adcs could more difficult find while visibility into 
+web traffic important part security strategies cios are 
+seeking visibility into its entire network well 
+software coverage implications 
+and targeted towards larger enterprises fact smaller 
+vmware nsx emerges key driver 
+improving license growth 
+customers are adopting nsx today for variety use cases including 
+firewall replacement load balancing and supporting vdi 
+deployments customers offered positive feedback regarding nsx 
+nsx quickly emerging the key component what call 
+ease installation and fast time value addition leaner teams 
+vmware act the emergence newer product categories such 
+are finding incremental value nsx the software based approach 
+nsx network virtualization vsan software defined storage 
+networking saves time and resources automating manual labor 
+and airwatch end user computing have allowed vmware more 
+intensive tasks key advantage from the perspective customers 
+than offset the declines the legacy infrastructure business 
+nsx scalability overlay software solution customers can 
+resulting acceleration license bookings from 
+bypass minimize large investments hardware and firewalls 
+nsx has been key driver the story with license billings 
+the business grows size for more details please see vmw 
+growing the end nsx has reached total 
+building the case for better growth the rise nsx 
+bookings run rate while many initial nsx use cases centered around 
+security 
+and 
+distributed 
+firewalling 
+capabilities 
+exhibit 
+micro segmentation automation disaster recovery and 
+our base assumes opportunity network virtualization 
+vdi are emerging strong drivers adoption customer 
+conversations point the use nsx means for managing 
+complexity enabling automation reducing labor intensive projects 
+and eliminating configuration errors looking ahead see cross 
+cloud connectivity which allows customers dynamically move 
+workloads across cloud environments private cloud aws azure 
+key use case resulting greater nsx adoption over time 
+exhibit 
+nsx key catalyst for improving license billings growth 
+source company data morgan stanley research 
+source company data morgan stanley research 
+see nsx opportunity within the base our analysis 
+suggests billion nsx potential market opportunity within the 
+vmware installed base addition broader use cases adoption 
+across wide range customer demographics the key our 
+higher estimates vmware not only seeing success selling large 
+enterprises but also seeing success the mid market including 
+the education and government verticals our conversations with 
+customers contrast with initial view that nsx was mainly adopted 
+morgan stanley research 
+exhibit 
+this compares idc estimate for the software defined 
+controller networking markets 
+palo alto networks partnership with 
+vmware allows panw directly 
+participate sdn adoption 
+palo alto networks technology integration announced 
+with vmw nsx brings enterprises comprehensive network 
+security with palo alto network virtualized firewalls series 
+and the orchestration capabilities enabled nsx this allows 
+enterprises extend firewall deployments beyond securing 
+network traffic that flows and out the data center north south 
+traffic securing traffic between applications within the data 
+center east west traffic the tight integration into vmware 
+source idc 
+hypervisor allows palo alto networks address new use cases 
+around creating dynamic application groups and automate security 
+three reasons why adoption accelerating see factors 
+policies applied certain workloads 
+converging accelerate adoption nsx the current 
+environment 
+the emerging priority micro segmentation security should drive 
+higher adoption palo alto network series which should 
+favorable competitive dynamics customers increasingly view 
+additive overall growth add another stream recurring revenue 
+cisco aci and nsx complementary solutions with growing 
+its priced subscription and exert upward pressure gross 
+number deploying both solutions their data center and 
+margins given its software only solution adoption the series 
+network nsx sees strong traction highly virtualized 
+grew customers from customers 
+environments where integration with vsphere allows customers 
+year ago and should continue grow from cloud partnerships 
+deploy firewall load balancing routing and switching services 
+vmware aws this amounts penetration into the panw 
+for apps regardless deployment location premise cloud 
+customer base today versus more mature subscriptions such url 
+deployed with cisco aci customers benefit from deep visibility 
+filtering estimate growth new 
+into the network fine grained policy control and automation 
+non attached subscriptions for panw prudent 
+the data center and the network 
+growth rate execution challenges moderate large opportunity 
+enhancements nsx improve the ease installation and 
+ease use making nsx substantially easier adopt and 
+lower pricing tiers create easier ramp for mid market 
+customers 
+continued traction with micro segmentation automation virtual 
+desktop and cloud networking use cases results our nsx 
+license billings fore cast resulting overally license 
+billings growth over that same period 
+this doesn assume significant inflection series adoption 
+which could prove conservative panw sales execution challenges 
+are remediated more quickly than expect 
+appendix cybersecurity improvements 
+with software defined networking 
+solves the moore law mismatch 
+today cybersecurity strategies moore 
+law continues expand system potential 
+exhibit 
+cyberattacks are leveraging system potential moore law better than traditional 
+cybersecurity strategies 
+networks have increasing excess compute and 
+bandwidth capacity malicious actors have 
+levered 
+the 
+falling 
+costs 
+incremental 
+processing power and bandwidth wage cheap 
+and increasingly sophisticated attacks typical 
+cybersecurity 
+strategies 
+rely 
+layered 
+deterministic assessments firewalls intrusion 
+detection prevention tools etc that scale with 
+increasing compute power but take minimal 
+advantage increasing bandwidth with 
+combining better manageability and automation 
+cyberattacks 
+software defined networking with new 
+dynamic 
+traffic 
+approaches 
+security defined 
+monitoring based 
+create 
+what 
+security 
+called 
+networks leverage available bandwidth 
+improve visibility into network traffic lever 
+integration security analytics technologies and 
+automate security responses threats are 
+assessed effectively brings enterprise 
+deterministic security tools 
+networks into parity with cyber threats least 
+terms system utilization 
+compute 
+source morgan stanley research 
+cybersecurity strategies continue 
+complex while not improving the overall 
+security the network response 
+increased security breaches cios continue 
+layer new security technologies their 
+environments introducing overly restrictive user 
+policies difficult remote access third 
+party 
+applications 
+burdening 
+network 
+performance security always hurts latency 
+and increasing the number false positives 
+morgan stanley research 
+exhibit 
+layered security defense depth have both burdened and complicated networks 
+source northrop grumman corporation 
+outlined the cybersecurity blue paper cios are recognizing the 
+better network control allows managers adjust security policies 
+inefficiency current strategies and are increasingly focused 
+down the user workload level and automate its execution 
+integrating 
+its 
+therefore can significantly reduce response times after threats 
+functionalities and broadening its visibility into the network for 
+are detected and breaches occur granular security policies make 
+better threat analytics 
+techniques such micro segmentation easier which can control 
+discrete 
+security 
+technologies 
+automating 
+network access down the application user and use case level 
+efficacy and efficiency cybersecurity strategies with higher 
+automation its core software defined networking centralizes 
+control functionalities the underlying physical infrastructure 
+legacy architectures could require days weeks implement 
+changes the network and highly error prone process requiring 
+manual reconfiguration each relevant hardware device often 
+located multiple geographies with software defined networking 
+central 
+software 
+controller 
+can 
+execute 
+switch router 
+configurations known the access control list and implement 
+network services including security functionalities demand 
+exhibit 
+sdn automates changes security policies legacy networks don have the speed flexibility 
+before 
+after 
+sdn controller 
+premise servers 
+premise servers 
+automate detection and response 
+demand 
+switch 
+switch 
+legacy architecture 
+threat analysis 
+router 
+detect 
+threat 
+coordinate 
+across 
+departments 
+update devices 
+across 
+multiple sites 
+router 
+threat analysis 
+takes days weeks 
+cloud datacenter 
+cloud datacenter 
+cloud datacenter 
+cloud datacenter 
+not pictured 
+virtualization multiple servers one box servers moving from one box another 
+layers switches with outdated access control lists 
+separate security networking devops staffs 
+thousands smartphones and pcs known and unknown gaining access the network 
+high security 
+medium security 
+low security 
+source morgan stanley research 
+microsegmentation growing priority enterprise security 
+software defined networking also enables the strategy least 
+becomes less perimeter focused traditional network security 
+privilege within the data center which means applications 
+architectures have historically focused securing the network 
+services should only allowed access explicit resources within 
+perimeter applying security policy north south network 
+the data center app can only connect with app deny all else 
+traffic other words traffic that moves and out the data center 
+this enables greater control but also reduces the signal noise 
+this strategy predicated the idea that enterprises harden the 
+problem which presents itself broad and complex security 
+perimeter keep all the bad things out then everything inside 
+architectures 
+good however perimeter security alone has proven 
+ineffective light very stealthy malware increasingly distributed 
+enabling higher visibility and automation through more 
+environments and the rising role insider threats enterprises are 
+effective traffic monitoring traditional networks real time 
+increasingly seeking greater visibility and control around traffic 
+traffic monitoring difficult scale because the expensive 
+taking place within the data center east west traffic greater 
+hardware required also known network packet brokers and the 
+agility 
+volume traffic mirrored tends tax router switch capacity 
+provisioning 
+network 
+security 
+policy 
+through 
+software defined networking enables enterprises microsegment 
+proverbial 
+security data center flows allowing greater control computing 
+software defined networking granular traffic control network 
+environments become more complex and application workloads 
+operators can fine tune the specific type traffic monitoring 
+more intertwined for example software defined network 
+and mirrored analytics tools regardless where the devices are 
+combined with virtual network firewall allows enterprises allow 
+located pervasive traffic monitoring yields pervasive visibility which 
+deny specific app app communications app can connect 
+combined with integrated security analytics would improve the 
+with app app cannot connect with app through unified 
+effectiveness the automated security response continued 
+policies managing many specific policies through traditional physical 
+improvements real time monitoring would drive automation 
+firewall would unruly 
+across all network management functions reducing labor costs 
+morgan stanley research 
+drinking 
+from 
+fire 
+hose 
+challenge 
+with 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan stanley mexico casa bolsa 
+and morgan stanley canada limited used this disclosure section morgan stanley includes morgan stanley llc morgan stanley morgan stanley mexico 
+casa bolsa morgan stanley canada limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan stanley research disclosure website 
+morganstanley researchdisclosures contact your investment representative morgan stanley research broadway attention research management new york 
+usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client support team follows canada 
+hong kong latin america london singapore sydney tokyo 
+alternatively you may contact your investment representative morgan stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they have not received and will not 
+receive direct indirect compensation exchange for expressing specific recommendations views this report yuuji anderson james faucette melissa gorham meta marshall francois 
+meunier sanjit singh keith weiss cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+april morgan stanley beneficially owned more class common equity securities the following companies covered morgan stanley research acacia 
+communications inc akamai technologies inc appfolio inc brocade communications systems cdk global inc coupa software inc cyberark software ltd ellie mae inc networks inc 
+fireeye inc intuit juniper networks inc nokia oyj palo alto networks inc qualcomm inc salesforce servicenow inc splunk inc veeva systems inc viavi solutions inc workday workiva 
+inc 
+within the last months morgan stanley managed managed public offering offering securities acacia communications inc cisco systems inc commscope holding 
+company inc coupa software inc ellie mae inc godaddy inc hubspot inc microsoft nuance communications inc shopify inc travelport worldwide limited viavi solutions inc yext inc 
+within the last months morgan stanley has received compensation for investment banking services from acacia communications inc akamai technologies inc appfolio inc cdk global 
+inc ciena corporation cisco systems inc commscope holding company inc corning inc coupa software inc ellie mae inc ericsson godaddy inc hubspot inc instructure inc jive software 
+inc lumentum holdings inc microsoft nokia oyj nuance communications inc sabre corp shopify inc technologies holdings inc travelport worldwide limited viavi solutions inc 
+workiva inc yext inc zebra technologies corporation 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from inc networks inc acacia communications inc adobe 
+systems akamai technologies inc appfolio inc arista networks atlassian corporation plc autodesk barracuda networks inc bazaarvoice inc blackberry ltd box inc brocade 
+communications systems cdk global inc check point software technologies ltd ciena corporation cisco systems inc citrix systems inc commscope holding company inc corning inc 
+coupa software inc cyberark software ltd descartes systems group inc ellie mae inc endurance international group holdings inc ericsson networks inc fireeye inc inc fortinet 
+inc godaddy inc hubspot inc imperva inc infinera corp instructure inc intuit jive software inc juniper networks inc microsoft mindbody inc mobileiron new relic inc nokia oyj nuance 
+communications inc oracle corporation palo alto networks inc proofpoint inc qualcomm inc qualys inc inc red hat inc ringcentral inc sabre corp salesforce servicenow 
+inc shopify inc splunk inc technologies holdings inc symantec tableau software travelport worldwide limited trimble inc varonis systems inc veeva systems inc viavi solutions 
+inc vmware inc workday workiva inc yext inc zebra technologies corporation zendesk inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from adobe systems akamai technologies inc arris 
+international plc autodesk brocade communications systems check point software technologies ltd cisco systems inc commscope holding company inc corning inc ericsson fortinet 
+inc intuit juniper networks inc microsoft nokia oyj nuance communications inc oracle corporation red hat inc sabre corp salesforce technologies holdings inc symantec 
+tableau software travelport worldwide limited viavi solutions inc vmware inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with the following company inc 
+networks inc acacia communications inc adobe systems akamai technologies inc appfolio inc arista networks atlassian corporation plc autodesk barracuda networks inc 
+bazaarvoice inc blackberry ltd box inc brocade communications systems cdk global inc check point software technologies ltd ciena corporation cisco systems inc citrix systems inc 
+commscope holding company inc corning inc coupa software inc cyberark software ltd descartes systems group inc ellie mae inc endurance international group holdings inc ericsson 
+networks inc fireeye inc inc fortinet inc godaddy inc hubspot inc imperva inc infinera corp instructure inc intuit jive software inc juniper networks inc microsoft mindbody 
+inc mobileiron new relic inc nokia oyj nuance communications inc oracle corporation palo alto networks inc proofpoint inc qualcomm inc qualys inc inc red hat inc 
+ringcentral inc sabre corp salesforce servicenow inc shopify inc splunk inc technologies holdings inc symantec tableau software travelport worldwide limited trimble 
+inc varonis systems inc veeva systems inc viavi solutions inc vmware inc workday workiva inc yext inc zebra technologies corporation zendesk inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has entered into agreement provide 
+services has client relationship with the following company adobe systems akamai technologies inc arris international plc autodesk brocade communications systems cdk global 
+inc check point software technologies ltd ciena corporation cisco systems inc citrix systems inc commscope holding company inc corning inc ericsson networks inc fireeye inc 
+fortinet inc godaddy inc infinera corp intuit juniper networks inc microsoft nokia oyj nuance communications inc oracle corporation qualcomm inc red hat inc sabre corp 
+salesforce servicenow inc technologies holdings inc symantec tableau software travelport worldwide limited viavi solutions inc vmware inc workday zebra technologies 
+corporation 
+employee director consultant morgan stanley director workiva inc this person not research analyst member research analyst household 
+morgan stanley llc makes market the securities inc networks inc adobe systems akamai technologies inc arista networks arris international plc atlassian corporation 
+plc autodesk barracuda networks inc bazaarvoice inc blackberry ltd box inc brocade communications systems cdk global inc check point software technologies ltd ciena corporation 
+cisco systems inc citrix systems inc commscope holding company inc corning inc cyberark software ltd ellie mae inc endurance international group holdings inc ericsson networks 
+inc fireeye inc inc fortinet inc godaddy inc hubspot inc infinera corp instructure inc intuit juniper networks inc lumentum holdings inc microsoft mindbody inc new relic inc 
+nokia oyj nuance communications inc oracle corporation palo alto networks inc proofpoint inc holdings inc qualcomm inc qualys inc inc red hat inc ringcentral inc sabre 
+corp salesforce servicenow inc shopify inc splunk inc technologies holdings inc symantec tableau software travelport worldwide limited trimble inc ubiquiti networks 
+inc varonis systems inc veeva systems inc viavi solutions inc vmware inc workday zebra technologies corporation zendesk inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality 
+research investor client feedback stock picking competitive factors firm revenues and overall investment banking revenues equity research analysts strategists compensation not 
+linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing liquidity fund management 
+commercial banking extension credit investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered 
+morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed this report morgan stanley trades may trade 
+principal the debt securities related derivatives that are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan stanley does not assign ratings buy 
+hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell investors should carefully read the definitions all 
+ratings used morgan stanley research addition since morgan stanley research contains more complete information concerning the analyst views investors should carefully read morgan 
+stanley research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+april 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our ratings overweight equal weight 
+not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell but represent recommended relative weightings see definitions below satisfy regulatory requirements correspond overweight our most positive stock rating 
+with buy recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+other material investment services clients 
+investment banking clients ibc 
+misc 
+count 
+total 
+count 
+total ibc 
+rating category 
+count 
+total other misc 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment banking compensation the 
+last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe risk adjusted basis over the next 
+months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe risk adjusted basis over 
+the next months 
+morgan stanley research 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe risk adjusted basis over the next 
+months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad market benchmark indicated 
+below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc morgan stanley any 
+their affiliates are available the morgan stanley wealth management disclosure website morganstanley online researchdisclosures for morgan stanley specific disclosures 
+you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the same person who reviews 
+the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems autodesk bazaarvoice inc brocade communications systems 
+cdk global inc ciena corporation cisco systems inc citrix systems inc corning inc ericsson hubspot inc intuit juniper networks inc microsoft nokia oyj nuance communications inc 
+oracle corporation palo alto networks inc qualcomm inc symantec trimble inc workday zebra technologies corporation 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based developments with the issuer the 
+sector the market that may have material impact the research views opinions stated therein addition certain research publications are intended updated regular periodic 
+basis weekly monthly quarterly annual and will ordinarily updated with that frequency unless the research analyst and research management determine that different publication 
+schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning section the 
+dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the recommendations views expressed 
+research the same stock this may the result differing time horizons methodologies market events other factors for all research available particular stock please contact 
+your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients certain but not all morgan 
+stanley research products are also made available clients through third party vendors redistributed clients through alternate electronic means convenience for access all 
+available morgan stanley research please contact your sales representative matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and using morgan stanley 
+research you are indicating that you have read and agree bound our terms use http morganstanley terms addition you consent morgan stanley processing 
+your personal data and using cookies accordance with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes 
+setting your preferences and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan stanley 
+processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances and objectives those 
+who receive morgan stanley recommends that investors independently evaluate particular investments and strategies and encourages investors seek the advice financial adviser 
+the appropriateness investment strategy will depend investor circumstances and objectives the securities instruments strategies discussed morgan stanley research 
+may not suitable for all investors and certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary because changes 
+interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational financial conditions companies other factors there 
+may time limitations the exercise options other rights securities instruments transactions past performance not necessarily guide future performance estimates future 
+performance are based assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject 
+company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based upon various factors 
+including quality accuracy and value research firm profitability revenues which include fixed income trading and capital markets profitability revenues client feedback and competitive 
+factors fixed income research analysts strategists economists compensation not linked investment banking capital markets transactions performed morgan stanley the 
+profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns more class 
+common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley may have investment less than securities instruments 
+derivatives securities instruments companies and may trade them ways different from those discussed morgan stanley research employees morgan stanley not involved 
+the preparation morgan stanley research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable comprehensive 
+information but make representation that accurate complete have obligation tell you when opinions information morgan stanley research change apart from 
+when intend discontinue equity research coverage subject company facts and views presented morgan stanley research have not been reviewed and may not reflect information 
+known professionals other morgan stanley business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company associated expenses unless 
+pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl 
+such information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research 
+may not distributed the public media quoted used the public media without the express written consent morgan stanley any non customer reader within the scope article 
+the taiwan stock exchange recommendation regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party 
+including but not limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create give the 
+appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not constitute offer sell 
+the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest such securities and shall responsible for obtaining all relevant 
+approvals licenses verifications and registrations from the relevant governmental authorities themselves neither this report nor any part intended shall constitute provision 
+any consultancy advisory service securities investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa which regulated comision nacional 
+bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico city japan morgan stanley mufg securities ltd and for commodities 
+related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley 
+asia international limited hong kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte 
+ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should contacted with respect any 
+matters arising from connection with morgan stanley research and morgan stanley asia international limited singapore branch registration number australia 
+wholesale clients within the meaning the australian corporations act morgan stanley australia limited holder australian financial services license 
+which accepts responsibility for its contents australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management 
+australia pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan stanley international 
+plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas indonesia canada morgan stanley canada limited which has 
+approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth management limited 
+niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised 
+the spanish securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct applicable financial 
+research established under spanish regulations the morgan stanley llc which accepts responsibility for its contents morgan stanley international plc authorized 
+the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory authority disseminates the research that has prepared and approves 
+solely for the purposes section the financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited 
+member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan stanley 
+international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan stanley research being disseminated 
+morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services authority the dfsa 
+and directed professional clients only defined the dfsa the financial products financial services which this research relates will only made available customer who 
+are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre regulatory authority 
+the qfcra and directed business customers and market counterparties only and not intended for retail customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment advisory activity investment 
+advisory service provided exclusively persons based their risk and income preferences the authorized firms comments and recommendations stated here are general nature these 
+opinions may not fit your financial status risk and return preferences for this reason make investment decision relying solely this information stated here may not bring about 
+morgan stanley research 
+outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties representations relating 
+the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating such data the global industry classification standard gics was 
+developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage communications systems and applications 
+company ticker 
+rating 
+price 
+james faucette 
+networks inc aten 
+arista networks anet 
+blackberry ltd bbry 
+brocade communications systems brcd 
+cisco systems inc csco 
+corning inc glw 
+networks inc ffiv 
+juniper networks inc jnpr 
+mobileiron mobl 
+qualcomm inc qcom 
+trimble inc trmb 
+zebra technologies corporation zbra 
+acacia communications inc acia 
+aerohive networks inc hive 
+arris international plc arrs 
+calix inc calx 
+ciena corporation cien 
+commscope holding company inc comm 
+infinera corp infn 
+lumentum holdings inc lite 
+ubiquiti networks inc ubnt 
+viavi solutions inc viav 
+rating 
+price 
+appfolio inc appf 
+cdk global inc cdk 
+descartes systems group inc dsgx 
+ellie mae inc elli 
+meta marshall 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage software 
+company ticker 
+brian essex cfa 
+endurance international group holdings inc eigi 
+godaddy inc gddy 
+instructure inc inst 
+mindbody inc 
+holdings inc qtwo 
+sabre corp sabr 
+shopify inc shop 
+technologies holdings inc ssnc 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+symantec symc 
+vmware inc vmw 
+workday wday 
+barracuda networks inc cuda 
+box inc box 
+cyberark software ltd cybr 
+fireeye inc feye 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+qualys inc qlys 
+inc rpd 
+secureworks corp scwx 
+splunk inc splk 
+varonis systems inc vrns 
+inc eght 
+inc fivn 
+ringcentral inc rng 
+atlassian corporation plc team 
+new relic inc newr 
+nuance communications inc nuan 
+tableau software data 
+melissa gorham 
+meta marshall 
+sanjit singh 
+stan zlotsky cfa 
+bazaarvoice inc 
+coupa software inc coup 
+hubspot inc hubs 
+jive software inc jive 
+veeva systems inc veev 
+workiva inc 
+yext inc yext 
+zendesk inc zen 
+stock ratings are subject change please see latest 
+research for each company 
+morgan stanley research 
+historical prices are not split adjusted 
+industry coverage telecommunications equipment 
+company ticker 
+rating 
+price 
+ericsson ericb 
+skr 
+nokia oyj nokia 
+spirent communications plc spt 
+francois meunier 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

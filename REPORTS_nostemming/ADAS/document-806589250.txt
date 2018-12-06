@@ -1,0 +1,3701 @@
+april 
+asia pacific japan 
+equity research 
+auto auto parts industrial 
+electronics electronic 
+components sector 
+connections series 
+automotive technology insights electrification 
+automation informatization vol automation 
+figure automated driving our city streets not that far off 
+the credit suisse connections series 
+leverages our exceptional breadth 
+macro and micro research deliver 
+incisive cross sector and cross border 
+thematic insights for our clients 
+research analysts 
+masahiro akita 
+masahiro akita credit suisse 
+hideyuki maekawa 
+hideyuki maekawa credit suisse 
+akinori kanemoto 
+akinori kanemoto credit suisse 
+koji takahashi 
+koji takahashi credit suisse 
+yoshiyasu takemura 
+yoshiyasu takemura credit suisse 
+jaemin joo 
+jaemin joo credit suisse 
+summary three major trends currently dominate automotive technology 
+electrification automation and informatization conducted cross sector 
+survey explore current developments within these three areas including 
+automotive sector supply chain trends well the activities increasingly 
+critical major suppliers the industrial electronics and electronic component 
+industries after focusing electrification the first instalment this series 
+published july and entitled automotive technology insights electrification 
+automation informatization vol electrification this second instalment 
+delve deeper into automation 
+focal points should not much longer before see automated 
+automobiles driving down our city streets momentum toward automated cars 
+has accelerated with increased uptake advanced driver assistance systems 
+adas and believe the global automation market will expand scale 
+worth and this growth will driven increasing 
+demand for the various sensors electronic control units ecus and devices 
+that together make adas without which fully self driving vehicles will not 
+possible expansion this market will benefit diverse range companies 
+starting with automotive parts suppliers involved the automation market but 
+also extending non automotive sector companies the industrial electronics 
+and electronic components spaces 
+top picks related automation 
+autos toyota fuji heavy industries 
+automotive components denso aisin seiki 
+industrial electronics hitachi 
+electronic components nidec tdk alps electric japan 
+aviation electronics industry murata manufacturing 
+disclosure appendix the back this report contains important disclosures analyst 
+certifications and the status non analysts disclosure credit suisse does and seeks 
+business with companies covered its research reports result investors should aware that the firm may have 
+conflict interest that could affect the objectivity this report investors should consider this report only single factor 
+making their investment decision 
+credit suisse securities research analytics 
+beyond information 
+client driven solutions insights and access 
+april 
+table contents 
+leaders automation technologies 
+related stocks and implications 
+electrification automation and informatization 
+automotive technology trends mainly three fields 
+the future automation 
+not distant future 
+automation market forecasts 
+current stage autonomous driving 
+adas applications 
+adas era has begun 
+automakers involvement adas automation 
+definition automation 
+history automation 
+background automation 
+automation efforts around the world 
+automation issues 
+changes expect automation bring about the structure the auto industry 
+key automation technologies 
+electronic control unit ecu 
+electronic components 
+value added shift likely accelerate due automation 
+aisin seiki outperform 
+hitachi outperform 
+nidec corporation outperform 
+auto auto parts industrial electronics electronic components sector 
+april 
+leaders automation technologies 
+related stocks and implications 
+auto sector 
+toyota motor outperform 
+toyota has history already employing adas technologies and will roll out 
+the long awaited toyota safety sense active safety system incorporating several 
+adas elements including pre collision safety pcs believe this system will enhance 
+toyota vehicles overall appeal our view toyota well placed over the medium term 
+contribute and benefit from advances automation its multifaceted approach also 
+includes work automated highway driving assist ahda and other self driving 
+technologies well developing new core technologies such spad lidar 
+laser radar 
+fuji heavy industries outperform 
+fhi stole march rivals with its launch the eyesight ver safety system 
+including automatic emergency braking aeb the very least believe this feat 
+enhanced fhi product appeal and with brand value equipped with stereo camera 
+developed jointly with hitachi automotive systems the eyesight system has been the 
+best performer thus far aeb testing euro ncap and the insurance institute for 
+highway safety iihs the the company brought out new and improved 
+eyesight ver japan more than subaru vehicles are now equipped with 
+eyesight ver ver and even north america the weighting has risen from just under 
+originally around 
+auto parts sector 
+denso outperform 
+like toyota denso taking multi faceted approach developing and commercializing 
+automation technologies with offerings including range sensors and ecus 
+believe denso best placed within the auto parts sector benefit from automation 
+market expansion denso has set itself the unofficial target raising its adas market 
+share for opm excess the company average believe its 
+automation adas related sales will amount just over with 
+expanding slightly above with the full scale rollout standardized 
+active safety package the form the toyota safety sense package think sales 
+growth will accelerate 
+aisin seiki outperform 
+for now aisin seiki likely focus safety low speed such forms advanced 
+parking assist apa systems offering rear detection over time though think will 
+diversify into safety technologies that operate high speeds see the apa market 
+continuing expand more vehicles are fitted with rear view cameras especially the 
+look for aisin seiki automation adas related sales just below 
+with expanding slightly above aisin seiki supplies toyota intelligent 
+park assist system and expect the ipa installed base grow toyota fits 
+more and more vehicles with active safety packages 
+auto auto parts industrial electronics electronic components sector 
+april 
+industrial electronics sector 
+hitachi outperform 
+fuji heavy industries fhi eyesight safety system has been the best performer thus far 
+aeb testing euro ncap and the insurance institute for highway safety iihs the 
+the stereo camera used this system was developed hitachi automotive 
+systems which accounted for hitachi consolidated sales based 
+guidance and consolidated from autumn see strong likelihood 
+hitachi automotive systems finding new customers for its stereo camera which could 
+propel the company sales toward give management top marks for also 
+achieving growth the operating margin despite increasing expenditure 
+electronic components sector 
+nidec corporation outperform 
+expect sales motors for aeb electric brakes well adas sensors and ecus 
+reach least think margins around are achievable based 
+current profitability the automotive motor business and nidec elesys through 
+expect sales rise around and versus levels 
+other electronic parts makers 
+looking other electronic parts makers expect tdk outperform 
+benefit from growing demand for mlccs and common mode filters and 
+murata manufacturing outperform increase employee numbers 
+for mlccs and expand its business ultrasonic sensors estimate sales 
+and esc mems sensors global share for connector parts growing demand 
+for connectors capable high speed transmission may positive for japan aviation 
+electronics industry outperform that has captured slice the car 
+ecu connector market growth the vehicle vehicle communication market could 
+positive for alps electric outperform and murata manufacturing 
+figure major suppliers automation technologies 
+sector 
+company 
+code 
+rating 
+jpy 
+jpy 
+market cap 
+jpymn 
+per coverage analyst 
+toyota motor 
+outperform 
+masahiro akita 
+fuji heavy industries 
+outperform 
+masahiro akita 
+denso 
+outperform 
+masahiro akita 
+aisin seiki 
+outperform 
+masahiro akita 
+hitachi 
+outperform 
+hideyuki maekawa 
+nidec 
+outperform 
+akinori kanemoto 
+tdk 
+outperform 
+akinori kanemoto 
+alps electric 
+outperform 
+akinori kanemoto 
+murata manufacturing 
+outperform 
+akinori kanemoto 
+auto 
+auto parts 
+industrial 
+electronics 
+electric 
+components 
+source thomson reuters credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+electrification automation and 
+informatization 
+automotive technology trends mainly three fields 
+cross sector report series electronics automation and informatization 
+trends automotive technology are increasingly focused the three areas 
+electrification automation and informatization offering ways boost environmental 
+performance and enhance user safety and comfort addition researching these three 
+areas automotive technology are conducting cross sector research aimed 
+highlighting the important trends within automotive supply chains while focusing 
+specific individual stocks the sectors such industrial electronics and electronic 
+components that are playing critical roles automotive technology this the second 
+series cross sector connections reports that examine sectors relating the three 
+growth areas electrification automation and informatization they are applied the 
+automotive field follows our initial offering automotive technology insights electrification 
+automation informatization vol electrification which focused electrification 
+technologies this next installment look the trend toward automation 
+delivering increased environmental performance safety and comfort 
+vehicles typically consist parts all which are designed deliver the 
+environmental performance safety and comfort demanded either users automakers 
+the evolution automobiles can viewed terms the continuous improvement the 
+various systems and modules that make the powertrain drivetrain brake and chassis 
+and body exterior and interior the vehicle deliver increased levels satisfaction for 
+these three elements 
+delivering user satisfaction becoming increasingly complex challenge however due 
+the impact rapid globalization the auto sector which has led diverse range 
+requirements alongside increasingly strict laws and regulations automakers are focusing 
+the areas electronics automation and informatization potential ways delivering 
+higher levels user satisfaction under complex conditions powertrain electrification 
+expressed hybrid electric and fuel cell vehicles fcv expanding market 
+the growth wire technologies also leading ongoing adoption electronic 
+devices optimize vehicle control addition are now entering phase mass 
+adoption automation technologies lead adas advanced driving assistant system 
+the communications field researchers are starting focus new 
+technologies realize electronic communications between vehicles between the 
+vehicle and road surface 
+non automotive sector supplying high value added products three fields 
+automotive supply chains the value added specific parts systems and modules 
+that exerting the major influence technical trends the key value creators and drivers 
+these trends are the companies capable supplying parts systems and modules vital 
+the increasing use electronics automation and informatization automakers the 
+value added via these three trends grows industrial electronics and electronic 
+components players within other non automotive sectors are seeing their scope 
+operations increasingly encroach into the automotive sphere this almost self evident 
+given the increasing adoption computers sensors and motors passenger vehicles 
+see non automotive sector players leading some the shift auto related technical 
+value creation which turn generate increasing growth potential from auto related 
+operations for such companies 
+auto auto parts industrial electronics electronic components sector 
+april 
+the future automation 
+not distant future 
+accelerating trend toward automated automobiles 
+mankind has long dreamed cars that drive themselves friends and family sitting around 
+table vehicle and enjoying conversation over cup tea while their car drives 
+down the road without anyone having hold the steering wheel keep eye the 
+road this scene was conjured more than years ago rockets airplanes trains and 
+other modes transportation are already relying extensively automated operation the 
+automobile the only major means transportation that has yet make extensive use 
+automated operation most likely because the diverse range driving situations and 
+environments however the momentum toward automated cars has accelerated with the 
+recent expansion driver support technologies will not much longer before see 
+automated automobiles driving down our city streets 
+figure automated driving our city streets are not that far off 
+three trends evolution revolution transformation 
+today automobiles are means transport operated vehicle occupants who 
+often derive great pleasure from the act driving however see three trends that will 
+eventually lead the realization society which people ride around fully 
+automated driverless cars the first the evolution driver support technologies that 
+being led automobile makers and their parts suppliers this technological evolution 
+gradually bringing automotive technology closer the levels needed realize fully selfdriving vehicles which will enhance the value added embedded automobiles 
+the second trend automobile revolution being promoted companies outside the 
+automotive industry including companies such google and apple that are applying 
+their core expertise mapping and artificial intelligence accelerate progress toward 
+the realization self driving vehicles while creating new businesses for providing mobility 
+data and internet services people moving vehicles the third trend complete 
+transformation being led start venture companies with creative and flexibly minded 
+managements and workers who seek change the very nature our automobile society 
+promoting mobility demand mod systems 
+while the driver support technologies being developed through evolutionary process 
+the automotive industry continue underpin automotive automation technology progress 
+today collaboration and synergy with non industry players capable bringing about 
+revolution and transformation will likely hasten the arrival fully self driving vehicle 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure evolution revolution transformation 
+evolution 
+driver assistance 
+revolution 
+automobile usage 
+transformation 
+urban mobility 
+players 
+oems tier suppliers 
+companies 
+startups service companies 
+incentives 
+enrich product value 
+safety efficiency 
+convenience features 
+explore new business 
+mobility data service 
+internet while driving 
+create new business 
+mobility demand 
+last first mile solution 
+images 
+source company data cars nikkei automotive technology 
+from driver support full automation 
+the development and introduction driver support systems that meet drivers needs for 
+greater safety and comfort proceeding steadily making the concept full automation 
+look less like science fiction and more like part our not distant future the common 
+theme for many the advanced driver assistance systems adas already use 
+including electronic stability control esc intelligent parking assist ipa adaptable 
+cruise control acc and automatic emergency braking aeb their goal assisting 
+drivers providing certain driving function via onboard automated system perhaps 
+the most important related technologies for such functions are the various sensing 
+strategies used detect and recognize vehicle surrounding environment the ongoing 
+development these sensors will contribute advances adas and eventually lead 
+completely self driving automobiles 
+figure from driver support full automation 
+fully automated 
+personal vehicle 
+full 
+automation 
+fully automated demand mobility 
+automated valet parking 
+automated highway drive 
+automated stop and 
+partial high 
+automation 
+automated parking 
+automated parallel parking 
+automatic emergency brake aeb 
+lane keep assist lka 
+brake assist system 
+adaptive cruise control 
+assisted 
+traction control 
+abs 
+esc 
+pedestrian detection 
+blind spot warning bsw 
+traffic sign detection tsr 
+collision warning 
+driver monitoring 
+night vision 
+lane departure warning ldw 
+warning 
+parking aid 
+navigation system 
+function introduced 
+future 
+forecast 
+source cars nikkei automotive technology credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+automation market forecasts 
+automation market scale should reach 
+forecast the global automation market will expand into market this 
+growth will driven wider penetration adas that will serve the component 
+technologies needed realize fully self driving vehicles the penetration adas turn 
+will promoted the continued sophistication the component technologies 
+involved adas stricter vehicle and driver safety regulations standards countries 
+around the world and users increasing need for the systems result expect 
+that more than vehicles sold around the world will equipped with adas 
+particular the near term think that more widespread adoption aeb prompted 
+stricter safety regulations standards will lead the expanded installation laser radar 
+and millimeter wave radar equipment that essential aeb 
+the inclusion pedestrian detection europe new car assessment programme 
+ncap from should promote more widespread use camera sensors addition 
+the adoption millimeter wave radars should expand steadily this equipment used for 
+object detection and position measurement required almost all the adas systems 
+that will need installed fully self driving vehicle the expansion this market will 
+benefit diverse range companies starting with automotive parts suppliers involved 
+the automation market but also extending non automotive sector companies such 
+industrial electronics makers consumer electronics makers and electronic components 
+makers that make sensors electronic control units ecus semiconductors and other 
+necessary technologies demand for sensors could continue expand even after the first 
+fully self driving vehicles have hit the road and think this demand will support 
+expansion the overall automation market scale 
+figure automation market scale forecast reach 
+billion yen 
+thousand units 
+adas market lhs 
+adas equipped vehicle rhs 
+source company data credit suisse estimates 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure types sensors used various adas applications 
+sensors 
+adas application 
+camera 
+milliwave 
+semi milliwave 
+lidar 
+camera 
+ultrasonic 
+sensors 
+acc 
+active cruise control 
+fcw 
+forward corrision warning 
+aeb 
+auto emergency brake 
+tsr 
+traffic sign recognition 
+ldw 
+lane departure warning 
+bsm 
+blind sight monitor 
+rcta 
+rear cross traffic alert 
+driver monitoring 
+pedestrain detection 
+night vision 
+ahd 
+auto headlight dimming 
+apa 
+advanced parking assist 
+source sbd credit suisse estimates 
+introduction aeb safety standard should drive growth 
+laser millimeter wave radar market near term 
+the addition aeb safety regulations standards for the ncap and other vehicle 
+evaluation programs various countries will expand demand for the laser radars and 
+millimeter wave radars essential aeb systems can presume that the need for aeb 
+adoption will increase sharply developed markets aeb has already been added 
+assessment item the ncaps japan and europe and also being considered 
+mandatory equipment cars sold the aeb systems with image recognition via 
+camera sensors are increasingly being installed new vehicles but recently are also 
+seeing trend toward the installation less expensive systems that use laser radar 
+mass market car models including mini vehicles 
+expect demand for laser radars that provide sufficient performance low cost will 
+continue expand until the safety standard becomes stricter adding pedestrian 
+detection its criteria forecast the laser radar market will double scale from 
+meanwhile over the medium term expect the millimeterwave radar market expand sharply more demanding aeb specs required speed 
+braking response upon lead millimeter wave radars becoming the core sensor 
+technology forecast the market for this type sensor will expand from 
+and within the millimeter wave radar market 
+expect the market for long distance radars the class expand from 
+and then similarly forecast the market for 
+midrange low cost radars will grow from and 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure demand for low cost laser radars expand 
+figure sharp growth forecast for millimeter wave radar 
+near term 
+market 
+billion yen 
+thousand units 
+billion yen 
+thousand units 
+laser radar sales lhs 
+semi milliwave radar sales lhs 
+milliwave radar volume rhs 
+laser radar volume rhs 
+source company data credit suisse estimates 
+milliwave radar sales lhs 
+source company data credit suisse estimates 
+figure millimeter wave radar emerge mainstream over medium term aeb 
+adoption expands and specs become more demanding 
+billion yen 
+thousand units 
+milliwave radar sales lhs 
+lazer radar sales lhs 
+aeb volume lhs 
+source company data credit suisse estimates 
+fusion mono cameras with millimeter wave radars mainstream over 
+longer term 
+with the addition europe ncap requirements from and automakers 
+targeting auto drive capabilities under specific situations such expressway driving and 
+parking their models demand for camera sensors used for image recognition 
+should also expand over the longer term addition pedestrian detection lane 
+departure warning lane keeping assist ldw lka systems and advanced parking assist 
+apa systems are also being more widely adopted expanding use these applications 
+should further increase the importance camera ability provide highly accurate object 
+recognition and shape measurement present camera sensors come two types 
+mono and stereo single dual lens cameras adoption depends the cost and 
+performance balance sought the carmaker but expect the market for mono camera 
+systems expand over the longer term image recognition technology improves and 
+the cameras are increasingly paired with millimeter wave radars forecast the camera 
+auto auto parts industrial electronics electronic components sector 
+april 
+sensor market will expand from and 
+within that market expect stereo cameras account for 
+and the other hand forecast much more pronounced growth 
+for mono cameras from and then over 
+the longer term expect the mainstream sensor technology fusion mono 
+cameras and millimeter wave radars 
+figure camera sensor demand expand 
+figure fusion mono cameras and millimeter wave 
+applications diversify 
+radars mainstream over longer term 
+billion yen 
+thousand units 
+installment rate 
+thousand units 
+stereo camera sales lhs 
+camera volume rhs 
+mono camera sales lhs 
+source company data credit suisse estimates 
+lka ldw apa volume lhs 
+camera milliwave fusion rhs 
+aeb volume lhs 
+single sensor usage rhs 
+source company data credit suisse estimates 
+number ecus dedicated adas forecast expand sharply 
+also expect see sharp expansion the sale ecus dedicated adas the 
+near term expect vehicles become ecu rich they employ front and rear ecus 
+and ecus necessary drive all applications apa etc and sensors over the medium 
+term however the increased use integrated control ecus will lead slight slowdown 
+the growth ecus per vehicle however expect higher unit prices will support 
+continued growth the overall ecu market forecast the adas dedicated ecu 
+market will expand from and 
+figure demand for adas dedicated ecus expand 
+sharply 
+billion yen 
+thousand units 
+adas ecu sales lhs 
+adas ecu volume rhs 
+source company data credit suisse estimates 
+auto auto parts industrial electronics electronic components sector 
+april 
+current state autonomous driving 
+adas applications 
+diverse range adas applications 
+the automotive industry has developed wide range applications for use adas 
+applications relying upon particularly high detection recognition levels include aeb 
+which must able detect obstacles front the vehicle and judge their distance 
+order initiate braking forward collision warning fcw which must able 
+accurately measure the distance between vehicles issue properly timed warnings 
+acc which automatically maintains certain distance between vehicles when car 
+motion and ldw lka which detects lane markers and issues warning before the 
+vehicle departs from lane automatically keeps the vehicle its current lane 
+addition apa applications providing automated parking already have long history use 
+japan meanwhile the united states the kids transportation safety act safety 
+act requirement that vehicles equipped with rear view cameras leading wider use 
+blind spot monitoring bsm that issue warnings upon detection objects the side 
+and the rear the vehicle considering recent heightened demand for pedestrian 
+protection also expect more widespread adoption night vision and pedestrian 
+detection applications draw closer full automation more vehicles will 
+equipped with traffic sign recognition tsr and driver monitoring applications 
+figure diverse range adas applications 
+automatically 
+automatically 
+warn when 
+automatically 
+control the 
+distance 
+apply brake 
+distance 
+front vehicle 
+sensing the 
+front while 
+obstacle 
+distance the 
+driving cruise approaches 
+approaching 
+control 
+closer than 
+obstacle 
+intended 
+detect traffic 
+sign transmit 
+biodetection 
+and emphasize 
+using infrared 
+the information 
+the driver 
+detect driving 
+lanes and warn 
+prior 
+detect and 
+crossing the 
+warn side and 
+lane 
+rear obstacles 
+automatically 
+keep the lane 
+driving 
+detect 
+status 
+approaching 
+monitoring 
+rear vehicles 
+driver and 
+warn and 
+automatically 
+cooperate with warn the driver 
+passive safety 
+based 
+system 
+condition 
+detect 
+obstacles 
+front 
+automatically 
+adjust the 
+beam pattern 
+assist parking 
+automatically 
+detecting 
+obstacle and 
+maneuver the 
+vehicle 
+source sbd credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+adas era has begun 
+adas installation rate rising rapidly 
+the ratio vehicles with adas rising rapidly response growing needs for greater 
+safety and driver convenience peace mind japan fuji heavy industries fhi clever 
+advertising its eyesight system the realization collision free cars has had 
+positive effect its sales adas equipped cars the inclusion adas lower priced 
+cars such mini vehicles has also contributed the higher installation rate has the 
+public growing awareness and interest adas especially the aeb application 
+only cars japan had some form adas that installation rate increased 
+although previously limited luxury passenger cars such the lexus 
+adas now being installed mass market vehicles owing part the success 
+fhi eyesight aeb systems became legally required equipment new trucks japan 
+from and the government considering extending the mandatory requirement 
+passenger cars meanwhile new vehicles japan were equipped with 
+acc and had bsm further penetration adas will most likely led these 
+applications over the near term 
+use adas also expanding around the globe especially advanced countries the 
+current state adas penetration each market reflects differences the regulatory 
+trends and traffic conditions each country north america for example has relatively 
+high installation rates for bsm and for rear cross traffic alert rcta 
+applications reflecting the legal requirement equip new cars with rear view cameras 
+following implementation the safety act the installation rates for other 
+applications are also rising with the rates for both fcw and automatic high beam ahb 
+now europe however installation rates are somewhat lower than japan and 
+north america reflecting the high market share low priced compact cars the 
+eurozone among the various adas applications those with relatively high installation 
+rates include aeb and ahb and japan new trucks sold the 
+eurozone are now required equipped with aeb which should lead further 
+increases the application installation rate addition pedestrian detection will become 
+one the assessment points under ncap from which will most likely lead more 
+widespread use applications which currently have rather low installation rates 
+figure aeb installation rate japan rising sharply 
+figure adas use expanding advanced countries 
+thousand vehicles 
+japan 
+estimated global 
+vehicle with aeb lhs 
+penetration rate rhs 
+source jari credit suisse estimates 
+auto auto parts industrial electronics electronic components sector 
+source sbd credit suisse estimates 
+april 
+automakers involvement adas automation 
+toyota motor launching toyota safety sense active safety package 
+toyota has developed active safety system called toyota safety sense aimed 
+preventing collisions wide range vehicle speeds and aiding damage reduction 
+slated for launch the two packages will priced levels chosen encourage 
+widespread use and will rolled out across most passenger models and grades 
+japan north america and europe the end toyota safety sense integrates 
+several toyota existing active safety technologies the pre collision system pcs 
+helps prevent and mitigate collisions lane departure alert lda helps prevent vehicles 
+from departing from their lanes and causing accident and ahb helps ensure optimal 
+forward visibility during nighttime driving the packages combine laser radar millimeterwave radar with camera achieving high recognition performance and reliability and 
+offering multi faceted approach active safety two packages will available 
+depending the vehicle type package for compact cars and package for 
+mid sized and high end cars rolling out these packages toyota aims promote 
+further uptake technology supporting safe driving 
+figure pre collision system with pedestrian detection 
+figure toyota safety sense sensor unit 
+function toyota safety sense 
+source toyota motor 
+source toyota motor 
+the toyota safety sense package features three proprietary active safety technologies 
+pcs lda and ahb and combines single lens camera and laser radar ensure 
+outstanding performance and reliability the package helps prevent mitigate collisions 
+even high speeds pcs detects objects ahead the vehicle and when there the 
+possibility collision prompts the driver brake with audio and visual alert when the 
+driver notices the hazard and brakes the system provides additional braking force the 
+driver fails brake time the system automatically applies the brakes for example 
+the vehicle traveling the system reduces speed approximately that much 
+order prevent mitigate the collision the operational range pcs covers speeds 
+which least percent rear end collisions occur relative speeds between 
+approximately and continental supplies the sensor unit for the toyota 
+safety sense package which will rolled out spring primarily segment 
+and smaller cars 
+toyota safety sense combines single lens camera and millimeter wave radar 
+pursuit outstanding performance and reliability well the three active safety 
+technologies pcs lda and ahb included the toyota safety sense package the 
+pcs offered with this package also includes pedestrian detection function addition 
+preventing and mitigating collisions with pedestrians toyota safety sense also offers 
+radar cruise control functionality pcs detects vehicles and pedestrians ahead and 
+helps prevent collisions least reduce damage activating audio and visual alert 
+addition brake assist followed automated braking the driver does not brake 
+time automated braking operates relative speeds between for 
+auto auto parts industrial electronics electronic components sector 
+april 
+potential collisions with pedestrians for example the vehicle traveling the 
+system reduces speed approximately that much order prevent mitigate the 
+collision for potential collisions with vehicles the pcs system included with the toyota 
+safety sense package operates relative speeds between and the vehicle 
+top speed for example the vehicle traveling the system capable 
+reducing speed approximately that much denso supplies the sensor unit for the toyota 
+safety sense package which will rolled out summer primarily mid sized 
+and luxury passenger cars 
+the toyota used both laser radar and millimeter wave radar high end 
+models such the crown majesta but decided discontinue use the laser radar 
+because poor detection performance bad weather use these sensors has been 
+revived the toyota safety sense packages which feature laser radar that smaller 
+size and mounted inside the vehicle for greater weather resistance under toyota new 
+tnga global vehicle platform the sensor units will shared across different models this 
+along with mass production has helped keep costs down setting certain parameters 
+such the sensor unit relative positioning and tilt performance kept standard 
+regardless the vehicle size and shape the pre crash safety system previously 
+employed vehicles such the lexus toyota used stereo camera seems that 
+not every vehicle will switched over the new single lens camera systems some will 
+continue feature stereo camera technology 
+toyota also has greatly enhanced its parking assist technology toyota intelligent park 
+assist system combines the company original ipa technology with intelligent 
+clearance sonar ics function help prevent mitigate collisions through automated 
+braking addition new multi point turn support function automatically controls steering 
+tight parking spaces requiring repeated back and forth movements another partiallyautomated function assists departure from parallel parking spaces with little room front 
+and behind the vehicle this made possible through the use greater numbers 
+high performance ultrasonic sensors addition the panoramic view monitor which 
+currently displays overhead view the vehicle the navigation system screen has 
+been enhanced with new see through view which gives driver perspective view 
+the vehicle surroundings the vehicle itself were transparent 
+figure toyota 
+figure toyota see through view 
+source toyota motor 
+source toyota motor 
+world first the toyota safety sense active safety package will have optional 
+compatibility with intelligent transport systems its enabling road vehicle and 
+vehicle vehicle communication using the dedicated frequency assigned 
+japan ministry internal affairs and communications road vehicle communication 
+assists drivers making right turns intersections for example also preventing them 
+from running red lights vehicle vehicle communication used such applications 
+radar cruise control radar based adaptive cruise control and emergency vehicle 
+approach notification toyota had earlier announced that would begin test its 
+autonomous car public roads specifically the tomei expressway december 
+auto auto parts industrial electronics electronic components sector 
+april 
+toyota demonstrated its automated highway driving assist ahda technology 
+the shuto expressway this time the company has made improvements the lexus 
+used that demonstration addition millimeter wave radar and stereo cameras 
+the new test vehicle equipped with six laser radar devices using near infrared light and 
+employs higher accuracy map data with view commercial applications future 
+toyota also has worked conjunction with toyota central labs develop spad 
+lidar laser radar six times smaller than earlier models from toyota standpoint 
+adas are essential are have society with zero fatal traffic accidents the 
+company apparently determined though that the driver should remain the main player 
+the car even these new systems take more control 
+figure toyota road vehicle communication 
+figure toyota self driving test car 
+system 
+source toyota motor 
+source toyota motor 
+fuji heavy industries rolling out new and improved version eyesight 
+japan increased recognition adas and aeb owes much fhi launch the 
+eyesight ver safety system the company ran commercials featuring car automatically 
+coming stop just short barrier and seems these ads were highly effective 
+equipped with stereo camera developed jointly with hitachi automotive systems the 
+eyesight system has been the best performer thus far aeb testing euro ncap and 
+the insurance institute for highway safety iihs the the company brought 
+out new levorg and new legacy each featuring new and improved eyesight ver 
+japan more than subaru vehicles are now equipped with eyesight ver ver 
+and even north america the weighting has risen from just under originally 
+around fhi working further raise the system profile overseas the levorg 
+featuring eyesight ver received the maximum number rating points the 
+preventive safety performance assessment program administered for the first time last 
+year the ministry land infrastructure transport and tourism mlit and the 
+national agency for automotive safety victims aid nasva and was further awarded 
+the top rating jncap advanced safety vehicle plus asv 
+eyesight ver utilizes new stereo camera equipped with cmos sensor achieve 
+wider and longer range visibility addition color recognition well improve the 
+system pre collision braking pcb and acc functions the ceiling speed for pcb has 
+been raised from with the acc color imaging now enables the 
+recognition braking automobiles located front this causes the acc function 
+more smoothly and reliably courtesy quicker reaction time the acc also has many 
+new functions such active lane keep which keeps the vehicle traveling the center 
+the lane assisting steering helping reduce driver fatigue active lane keep can also 
+apply force the steering wheel suppress deviation the vehicle almost strays over the 
+lane lines and also signals warning other enhancements include pre collision reverse 
+throttle management the system detects sudden accelerator input when reverse 
+overrides the throttle restrict abrupt driving reverse and hazard avoidance assist 
+auto auto parts industrial electronics electronic components sector 
+april 
+the system determines that collision with another vehicle obstacle front the vehicle 
+possible will assist the driver steering avoid the collision 
+figure fhi eyesight system 
+figure eyesight ver has color recognition feature 
+source fhi 
+source fhi 
+nissan motor uses different specification emergency braking packages for 
+each segment 
+nissan focus has been emergency braking packages however the sensor differs 
+between market segments the safety technology the company high end cars features 
+millimeter wave radar its mass market cars employ single lens cameras and its minivehicles have laser radars three nissan models the skyline trail and note were 
+awarded the highest rating possible the mlit and nasva under their preventive safety 
+performance assessment program the millimeter wave radar system the skyline 
+activates emergency braking speeds the skyline safety package 
+also includes predictive forward collision warning pfcw the world first technology 
+monitor the relative velocity and distance the vehicle directly ahead well the 
+vehicle traveling front that one and high beam assist system that identifies the 
+headlights and rear lights vehicles well the surrounding road lighting and 
+automatically activates and deactivates the high beam the millimeter wave radar used 
+this system supplied continental other technologies available for the high end safety 
+package include front camera based lane departure prevention ldp apparatus 
+supplied magna electronics and backup collision intervention bsi and blind spot 
+warning bsw systems from continental which utilize millimeter wave radar 
+nissan mass market models can also equipped with automatic braking emergency 
+assist for pedal misapplication ldw and tsr all using single lens cameras supplied 
+trw automotive holdings and powered mobileye image processing soc 
+around view monitor developed with clarion and bsw are available further options 
+nissan management has commented previously plans introduce automatic driving 
+technology the future nissan aims market traffic jam pilot technology 
+enabling cars drive autonomously and safely congested highways nissan 
+reportedly will introduce multiple lane controls allowing cars autonomously negotiate 
+hazards and change lanes and looking introduce intersection autonomy 
+which would let cars negotiate city intersections without driver intervention the company 
+believes will ten years more before fully autonomous cars are production ready 
+the development autonomous driving technologies nissan working with alliance 
+partner renault may also collaborate with daimler with which has capital tie 
+furthermore january nissan said its silicon valley research center would work 
+with nasa ames research center develop and test autonomous cars under this 
+five year agreement the two aim have prototype ready for testing nasa facility 
+the end nissan will use the technology developed its vehicles while nasa may 
+also deploy space 
+auto auto parts industrial electronics electronic components sector 
+april 
+honda motor new legend first honda sensing equipped vehicle 
+sold japan 
+honda has previously deployed the city brake active system its mini vehicles and 
+compact cars and the collision mitigation brake system cmbs midsize and larger 
+cars the company new legend will the first honda sensing equipped vehicle 
+sold japan this system combines millimeter wave radar with color singlelens camera the performance the millimeter wave radar has been enhanced such that 
+can now detect pedestrians well the position and speed the vehicle front the 
+camera resolution has been improved also and can now identify attributes and sizes 
+pedestrians and other target objects that are meters from the car 
+the hero feature the legend honda sensing suite pedestrian collision mitigation 
+steering which uses the radar and single lens camera detect pedestrians and the 
+boundary line the side the road and can autonomously steer the vehicle safely away 
+from pedestrians anticipates potential collision the system delivers audio and visual 
+warnings the driver before taking control the steering wheel last resort this 
+safety package the single lens camera manufactured nidec elesys while the 
+millimeter wave radar supplied fujitsu ten the city brake active system fitted 
+honda minivehicles and compact cars for example the fit series and box based 
+laser radar from continental the cmbs first appeared the accord 
+featuring millimeter wave radar from fujitsu ten and single lens camera from magna 
+the acura tlx though the camera was supplied nidec elesys cmos 
+stereo camera with color recognition and can also support lka fcw and aeb 
+the its world congress september honda performed the first ever 
+demonstration its automated driving technology with capabilities such automated 
+freeway merging exiting and lane changing honda also highlighted other latest 
+advancements 
+communication 
+technologies 
+including 
+vehicle topedestrian bicycle and vehicle motorcycle using dedicated short range 
+communications dsrc based communication between the vehicle and the pedestrian 
+bicycle rider compatible smartphone with proprietary application 
+technology alerts both the driver and pedestrian bicycle rider potential collision and 
+allows the driver and pedestrian bicycle rider exchange courteous messages 
+addition honda showcased vehicle vehicle virtual tow capability this hondafirst technology utilizes connected car technology empower driver assist another 
+driver distress the driver need assistance able alert surrounding vehicles 
+the need for assistance which point assisting driver can virtually link and tow 
+the vehicle with the trailing vehicle taking its driving cues from the lead vehicle via 
+connected car and automated driving technology location where the driver can 
+receive emergency services such hospital 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure equipment used honda sensing suite 
+figure honda sensing suite pedestrian collision 
+mitigation steering 
+source company data 
+source company data 
+other japanese automakers mazda mitsubishi suzuki daihatsu 
+mazda has deployed its activsense degree surround view system models 
+including the atenza axela and demio through millimeter wave radar 
+laser radar millimeter wave radar and single lens camera the activsense 
+system capable front side and rear sensing the millimeter wave radar 
+supplied denso the laser radar and single lens camera continental and the 
+millimeter wave radar hella mitsubishi assist system comes two packages one 
+combining millimeter wave radar and single lens camera used models such the 
+outlander and another laser radar based system that used the series and other 
+mini vehicles continental manufactures the millimeter wave radars while the cameras are 
+supplied kostal 
+suzuki turn uses laser radar from continental the radar brake support system 
+deployed models including the wagon spacia and hustler aeb comes into play 
+relative speeds between and the velocity difference compared the car 
+front the vehicle less might possible avoid the collision suzuki 
+radar brake support has edge over daihatsu smart assist the laser radar 
+mounted inside the car and therefore protected from the weather the solio series 
+released suzuki introduced radar brake support featuring millimeter wave 
+radar from robert bosch daihatsu aforementioned smart assist package appears 
+selected models including the move and tanto the laser radar identifies the vehicle 
+front when driving speeds and below buzzer alerts the driver there 
+heightened risk collision and the driver still fails steer brake and the risk 
+crash heightened extreme level the system activates emergency brakes this 
+system the laser radar supplied denso 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure adas systems employed major automakers 
+adas system 
+car maker 
+toyota 
+system name 
+toyota safety sense 
+toyota safety sense 
+pre crash safety system 
+honda 
+honda sensing 
+collision mitigation brake system 
+city brake active system 
+nissan 
+emergency brake safety shield 
+fuji heavy 
+mazda 
+eyesight ver 
+eyesight ver 
+smart city brake support 
+smart brake support activesense 
+sensor 
+milli wave radar mono camera 
+infrared lazer mono camera 
+milli wave radar stereo camera 
+milli wave radar 
+milli wave radar mono camera 
+milli wave radar mono camera 
+infrared lazer 
+milli wave radar 
+mono camera 
+infrared lazer 
+stereo camera 
+stereo camera 
+infrared lazer 
+milli wave radar 
+milli wave radar mono camera 
+infrared lazer 
+operating speed 
+max speed 
+mitsubishi 
+assist 
+daihatsu 
+smart assist 
+infrared lazer 
+suzuki 
+radar brake support 
+infrared lazer milli wave radar 
+automatic braking 
+milli wave radar mono camera 
+ford 
+active city stop 
+infrared lazer mono camera 
+safety tech chrysler 
+city brake control fiat 
+city safety 
+human safety 
+milli wave radar mono camera 
+infrared lazer mono camera 
+infrared lazer 
+milli wave radar mono camera 
+bmw 
+driving assistance plus 
+milli wave radar mono camera 
+daimler 
+rader safety 
+milli wave radar stereo camera 
+volkswagen 
+audi 
+front assist plus 
+city emergency brake 
+milli wave radar mono camera 
+infrared lazer 
+psa 
+distance alert 
+milli wave radar 
+hyundai 
+automatic emergency braking 
+milli wave radar mono camera 
+fca 
+volvo 
+source company data credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure overview car manufacturers automated driving initiatives 
+company 
+technology 
+purpose 
+automated driving technologies 
+launch timing 
+toyota 
+drive support 
+installation auto follow lane keep and auto stop functions cars for sale 
+driver the key systems support the driver skills 
+nissan 
+full automation 
+targeting use realize fully automated driving one destination via expressways and 
+regular roads 
+creation automated driving 
+market 
+honda 
+drive support 
+develop automated driving function for use slow speeds only such congested roads and 
+undecided 
+during auto stop auto parking emphasis infrastructural cooperation 
+fuji heavy 
+industries 
+drive support 
+promoting improved performance pre collision braking system next step strengthen lane keep and 
+from 
+automated driving function controlling speed distance from vehicle front 
+drive support 
+announcement intention market car capable self driving high speeds 
+plans apply super cruise 
+announced semi automated driving technology super cruise including lane keep and 
+within this decade 
+cruise control functions 
+ford 
+drive support 
+announced traffic jam assist technology with auto lane keep pacing and stopping 
+functions for use during traffic jams vehicle only roads plans put use 
+demonstrated auto parking function and announced obstacle avoidance technology featuring auto 
+steering 
+bmw 
+drive support 
+traffic jam assistant with lane keep and distance control from vehicle front available 
+current models auto parking function next planned adas 
+volvo trucks 
+fleet driving 
+joint project sartre demonstrate use road trains comprising trucks and passenger cars demonstration test only 
+volvo cars 
+drive support 
+introduced acc has also introduced automated driving function controlling 
+speed distance from vehicle front during traffic jams and with lane keep assist function 
+mercedes 
+benz 
+drive support 
+current models already offer automated driving function controlling speed distance from vehicle 
+front and lane keep function class intelligent drive was unveiled frankfurt motor plans introduce self driving 
+show future automated driving technology that uses sensors and digital mapping guide car 
+vehicle through city streets and intra city highways 
+drive support 
+announced the vision zero concept the concept aims eliminate accidents zero 
+accidents equipping cars with advanced information support for drivers auto stopping and 
+auto parking functions see note 
+undecided 
+several years from now 
+source company data marklines 
+auto auto parts industrial electronics electronic components sector 
+april 
+definition automation 
+full automation extension adas 
+the sae society auto engineers based automobile standards association the 
+national highway traffic safety administration nhtsa part the department 
+transportation and the bast federal highway research institute the german 
+government road engineering research institute divide their definitions automobile 
+automation into levels from level zero automation the levels rise through 
+support partial automation and high level automation total automation the areas 
+entrusted systems increase going the levels the adas systems widely used 
+present are considered only levels one two drivers monitor the driving 
+environment and provide ultimate back sae defines automated driving driving 
+which systems take over some all the operations carried out the driver sees 
+realization full automation extension the adas systems currently widespread 
+use sae levels three and above will require technological advances and new legislation 
+the system monitors the driving environment and makes operational decisions 
+figure definitions automation 
+general 
+level leve 
+sae 
+definition 
+nhtsa 
+leve 
+definition 
+automation 
+automation 
+assisted 
+partial automation 
+conditional 
+automation 
+high automation 
+bast 
+leve 
+definition 
+steering and 
+monitor 
+speed control surrounding 
+back 
+autonomous 
+system usage 
+manual 
+driver 
+driver 
+driver 
+none 
+function specific 
+automation 
+assisted 
+driver 
+system 
+driver 
+driver 
+limited 
+driving mode 
+combined 
+automated function 
+partially automated 
+system 
+driver 
+driver 
+limited 
+driving mode 
+limited self driving 
+automation 
+highly automated 
+system 
+system 
+driver 
+limited 
+driving mode 
+system 
+system 
+system 
+full self driving 
+automation 
+limited 
+driving mode 
+fully automated 
+system 
+system 
+system 
+all driving 
+mode 
+full automation 
+source jari credit suisse 
+history automation 
+evolved into joint public private project 
+the development automated driving technology has long history japan the 
+the agency industrial science and technology now the national institute 
+advanced science and technology started experiment with self driving cars that used 
+cameras the agency subsequently conducted trials automated road trains 
+expressways using automated highway systems the various forms automated 
+driving have been tested for example the defense advanced research projects agency 
+darpa has raced autonomous vehicles urban areas building these efforts 
+google announced that was developing fully autonomous vehicle renewing 
+interest automated driving technology development expectations that automated 
+driving would make transportation more efficient improve fuel consumption and increase 
+road safety caused automated driving technology development evolve from privatesector project into one which governments also participated governments are now 
+promoting automation technology development passing legislation and installing 
+infrastructure tandem with adas evolution 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure development automated driving technology has long history 
+test milestone 
+distance 
+automation 
+google 
+cmu navlab 
+stanford university 
+darpa 
+prometheus 
+argo 
+vislab 
+miles 
+navlab 
+stanford 
+navlab 
+stanford 
+promethues 
+argo miles 
+vislab 
+prometheus 
+argo 
+vislab 
+ahs tsukuba university japan 
+rca 
+ahs 
+ohio state 
+nahsc 
+source cars nikkei automotive technology 
+background automation 
+fatalities road accidents increasing worldwide 
+japan increasing motorization from the for time caused the number 
+accidents and fatalities the road trend upward the trend has now reversed however 
+due part the proliferation collision safety technology and stricter laws the number 
+people involved accidents per year has fallen around from over 
+the start the the japanese government aiming halve this figure 
+worldwide more than people year are killed road accidents while road 
+fatalities are declining industrialized nations such japan the and europe the 
+rate decline has slowed while the number road fatalities emerging economies 
+where automobile demand increasing trending upward expect proliferation 
+automobile accident prevention and safety technology gain momentum industrialized 
+nations strive further reduce road accidents and fatalities expect the same trend 
+develop eventually emerging economies 
+figure number fatalities traffic accidents 
+figure decline industrialized nations has slowed 
+emerging economies increasing 
+traffic accident fatalities year 
+relative variance from 
+japan 
+india 
+china 
+asean 
+source who world bank 
+auto auto parts industrial electronics electronic components sector 
+japan 
+india 
+china 
+asean 
+source who world bank 
+april 
+strengthening legislation and regulations 
+was the case with airbags abs and other safety features industrialized nations 
+expect tougher legislation and standards promote the spread preventative safety 
+technology japan was decided make pcs systems mandatory large trucks and 
+buses from north america and europe ldw pcs and other systems are being 
+made mandatory and are being introduced ncaps given that aeb being promoted 
+with for example being added ncap scoring items expect demand for millimeterwave and laser radar increase sharply the near term pedestrian detection also 
+being considered for addition ncaps this could trigger growth demand for 
+camera sensors pedestrian detection difficult using radar based systems 
+ncaps are used evaluate car safety through collision tests and the results are provided 
+consumers easy understand form although requirements vary from country 
+country ncaps are mainly used evaluate the safety pedestrians and passengers 
+including children the event collision there are growing calls around the world for 
+adas applications such aeb added ncap requirements the ldw and 
+fcw were added the nhtsa considering also adding aeb systems 
+japan aeb evaluation requirement with ldw and due added 
+europe most proactive strengthening aeb requirements since vehicles 
+not equipped with aeb have not been able obtain the highest rating due 
+added expect adas applications steadily added ncap evaluation 
+requirements which should accelerate technology development and promote market 
+penetration 
+well being added ncap evaluation requirements there are moves various 
+countries make adas applications mandatory the new cars sold since 
+have had equipped with rear view cameras protect pedestrians understand 
+that making aeb mandatory from also being considered aeb was made 
+mandatory for large vehicles europe and japan respectively and not 
+due made mandatory for passenger vehicles for now but steps are being taken 
+making ncap requirements tougher concurrently europe aiming establish laws and 
+regulations regarding required aeb functionality order increase functionality and 
+ensure reliability and get these laws and regulations approved worldwide the 
+figure trends safety laws regulations and standards 
+country content 
+aeb mandatory for existing 
+old models large 
+commercial vehicles under 
+aeb equipment mandatory for new 
+large commercial vehicles 
+regulation 
+japan 
+evaluate aeb and 
+skid prevention 
+jncap 
+evaluate aeb with 
+level evaluate 
+skid prevention 
+aeb equipment mandatory for new large 
+commecial vehicles 
+regulation 
+evaluate lane 
+evaluate aeb 
+with points 
+evaluate 
+nightvision 
+aeb mandatory for existing old models 
+large commercial vehicles under production 
+euro 
+ncap 
+evaluate speed 
+warn limit assist with 
+points 
+evaluate aeb and lane keep with points 
+regulation 
+mandatory 
+equipment 
+tpms ems 
+kids transportation safety 
+act rear camera 
+equipment became 
+nhtsa 
+iihs 
+ncap 
+added fcw ncap content 
+evaluate aeb with function with points 
+evaluate 
+aeb with 
+points 
+considering 
+aeb equipment 
+mandatory 
+considering adding aeb 
+bsd ncap evaluation 
+content 
+source nikkei nhtsa credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure new requirements added euro ncap 
+euro ncap 
+rating 
+classification 
+adult occupant protection 
+overall max points 
+includes passive safety etc 
+child occupant protection 
+pedestrian protection 
+overall max points 
+includes passive safety etc 
+safety assist 
+overall max points 
+includes passive safety etc 
+overall max points 
+includes 
+seatbelt alarm max points 
+esc max points 
+speed alarm max points 
+aeb pedest max points 
+delayed from 
+speed alarm asst points 
+aeb urban max points 
+ldw lks point 
+ldw lks pts from 
+equipped points 
+eqp points 
+eqp points 
+eqp points 
+eqp points 
+content and 
+rating 
+aeb city mode max points 
+ref points for 
+adas 
+minimum points 
+needed for 
+rating 
+aeb points 
+equipped pts 
+source euro ncap credit suisse 
+figure aeb related laws and regulations 
+series 
+new model starting nov 
+other carry over model from nov 
+new model starting nov 
+other carry over model from nov 
+series phase 
+regulation 
+timeline 
+category 
+and with gvw 
+and with gvw 
+and with gvw less 
+stationary 
+moving 
+stationary 
+moving 
+stationary 
+moving 
+vehicle ahead 
+decceleration 
+more 
+target 
+impact 
+impact 
+more deccel more 
+deccel more 
+more 
+impact 
+warning 
+more prior the emergency brake 
+either haptic acoustic warning 
+same series 
+same series 
+warning 
+more prior emergency braking phase 
+out warning haptic accoustic visual 
+same series 
+before the start 
+emergency braking phase 
+value for the target speed shall reviewed before november 
+category any bus exceeding mass with seats more any trucks exceeding the maximum mass 
+source united nations nikkei credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+automation efforts around the world 
+japan vehicle automation key focus for strategic headquarters 
+council for science and technology 
+there growing momentum japan behind the push for vehicle automation means 
+reducing traffic accident fatalities and easing congestion january the strategic 
+headquarters for the promotion advanced information and telecommunications 
+network society strategic headquarters was established within the cabinet its 
+declaration the world most advanced nation the strategic headquarters 
+sets the goal achieving the world safest environmentally friendly and economical 
+road transportation 
+the declaration stated the following specific initiatives starting advanced 
+verification trials would commence public roads with the assumption widespread 
+adoption and development advanced driving support technologies driving support 
+technologies would advanced via combination vehicle vehicle and road vehicle 
+information exchanges with target commencing trials automated driving systems 
+the and result these measures the number traffic accident fatalities 
+would reduced less than about also the world safest road 
+transportation would created and traffic congestion would greatly reduced 
+measure progress the declaration set kpis the number traffic accident 
+fatalities and status traffic congestion believe these initiatives will play key 
+role promoting further uptake driver support technologies 
+another cabinet organ the council for science and technology policy cstp also has 
+identified self driving systems important objective the mission the cstp 
+draft policies for promotion science and technology and innovation and coordinate 
+with related ministries decision was made establish the cross ministerial 
+strategic innovation promotion program sip one three key steps toward 
+formulating the nation science and technology budget the sip aims promote 
+and innovation from the basic research stage right through application and 
+commercialization seeks promote that great importance and likely 
+contribute economic growth creation environment that transcends the 
+boundaries ministries agencies and fields 
+automated driving technology among the themes identified the sip and 
+automated driving research project now under way seeking achieve the 
+national goal reducing traffic accidents social objective creation and dissemination 
+automated driving system technical objective and dramatic improvement with 
+the tokyo olympics and paralympics milestone industrial objective other 
+countries the project defines several this case four levels automated driving 
+depending the degree participation driving the vehicle system also 
+identifies how long should take for each level become commercially viable together 
+with the aforementioned strategic headquarters and its declaration the world 
+most advanced nation expect the sip work collaboration with the private 
+sector further the cause automated driving 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure public private its roadmap 
+category 
+level 
+information 
+provision type 
+content overview 
+self driving 
+type 
+anticipated technologies 
+expected 
+availability 
+reference targeted 
+timing europe 
+already 
+available 
+warnings alarms for driver 
+level 
+vehicle able perform single 
+standfunctions from among acceleration 
+alone type steering and braking 
+level 
+multiple 
+systems 
+required system 
+vehicle able perform more than 
+one function same time from 
+among acceleration steering and 
+braking 
+vehicle able perform all functions 
+level 
+acceleration steering and braking 
+advanced 
+with driver assuming control critical 
+systems 
+times 
+level 
+vehicle able perform all functions 
+full 
+acceleration steering and braking 
+automated 
+all times driver needed 
+driving 
+safe driving support 
+system 
+already available 
+follow tailing system 
+steering avoid collisions 
+semiautomated 
+driving 
+system 
+full 
+automated 
+driving 
+system 
+automated driving multiple 
+lanes etc 
+automated 
+driving auto merging etc 
+system 
+full automated driving 
+mid 
+late 
+late expressways 
+city streets 
+earliest 
+source prime minister japan and his cabinet credit suisse 
+global frontrunner development automation technologies 
+evidenced regulatory modifications and darpa sponsored competitions 
+the the federal government enthusiastic proponent vehicle automation and 
+that end has led the way amending regulations the country also has number 
+companies with excellent technologies this field from global standpoint well the 
+the forefront development vehicle automation has been greatly 
+assisted government approval for trials public roads and expressways spanning 
+multiple states 
+testing public roads critical self driving cars are become reality this 
+major factor behind companies undertaking the believe research into selfdriving vehicles gained greater impetus during when the department 
+defense ran series competitions aimed advancing autonomous vehicle control the 
+competitions were initiated the defense advanced research projects agency darpa 
+research organization within the defense department teams from universities research 
+institutes and private companies built their own autonomous vehicles and then raced each 
+other over predetermined course 
+the darpa urban challenge said have been the most difficult took place 
+mock urban environment and appears have lent added momentum the push 
+develop fully autonomous vehicles both stanford university and carnegie mellon 
+university scored very well the urban challenge and the results their research 
+underpin both google and automation technologies the wake these darpa 
+events the has shown other countries the way modifying legislation and permitting 
+testing public roads moreover the development personnel who participated the 
+challenges now are key protagonists the development self driving technologies 
+google and 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure development vehicle following carnegie 
+figure second placed stanford vehicle later became 
+mellon winner 
+the basis google autonomous car 
+source darpa 
+source darpa 
+figure the the center automation 
+bosch 
+cooperation 
+volkswagen 
+cooperation 
+event fund 
+fund 
+stanford 
+universtiy 
+researchers 
+transferred 
+google 
+google 
+event fund 
+fund 
+toyota 
+continental 
+honda 
+codevelop 
+test 
+vehicles 
+codevelop 
+vehicles 
+event fund 
+researchers 
+transferred google 
+nissan 
+carnegie 
+mellon 
+university 
+carnegie mellon team 
+darpa race place 
+darpa race place 
+stanford team 
+darpa race place 
+darpa race 
+source nikkei credit suisse 
+europe and other such programs providing financial support for 
+private sector development autonomous vehicles 
+europe the supports development self driving technologies under the framework 
+programmes for research and technological development number autonomous 
+vehicle projects have received approval under the seventh framework programme 
+known funding such private sector projects has played role 
+advancing the cause autonomous vehicles the early days there was project 
+call sartre safe road trains for the environment which looked technologies 
+allow vehicle platoons operate normal public highways with volvo the helm five 
+companies participated sartre which manually driven lead truck was followed 
+six passenger vehicles driven autonomously while the platoon drivers the following 
+vehicles had control over the vehicles except emergency situations the following 
+vehicles were equipped with camera sensors millimeter wave radar and laser radar 
+control steering and acceleration they also were capable communication 
+enabling lane changes when platoon mode believe participation this project 
+further added volvo accumulation expertise had been mass producing adas for 
+some years already 
+auto auto parts industrial electronics electronic components sector 
+april 
+with the sartre project already under way continental instigated another project called 
+haveit highly automated vehicles for intelligent transport together with volkswagen 
+volvo again was among number companies participating the haveit project worked 
+pilot program that could assess the state the driver and the surrounding roads 
+and select the appropriate level automation right highly automated driving one 
+step before full automation the system perceived driver overload situation the level 
+automation was automatically raised the program also experimented with full automation 
+driver underload situations monotonous driving congested traffic conditions 
+since then the has initiated another large scale project aimed taking further step 
+toward development automated driving applications january unveiled the 
+adaptive project automated driving applications technologies for intelligent vehicles 
+with total budget including funding participants include 
+number leading automakers among them bmw daimler ford opel psa renault 
+volkswagen and volvo well bosch continental and other mega suppliers the 
+objective study automated driving applications under road conditions rendered more 
+complex still than those the haveit project continental expects achieve fully 
+automated parking while audi bmw and daimler all aim launch self driving 
+cars believe these and other projects offer support for manufacturers 
+their pursuit automated driving technologies 
+figure automation support projects 
+projects 
+content 
+participants 
+project time 
+finance 
+period 
+budget 
+total 
+project 
+fee 
+sartre 
+project 
+fleet driving highway test with acc the vehicles behind 
+the lead vehicle drive fully automated mode driver 
+over ride allowed for safety 
+volvo idiada and 
+robotiker tecnalia ika 
+sptri 
+eur 
+eur 
+haveit 
+project 
+testing pilot system that selects autonomous level 
+based driver and driving condition allowed fully 
+automated mode low speed traffic jam condition 
+continental 
+volvo 
+volkswagen etc 
+participants 
+eur 
+eur 
+charge 
+project 
+development highly assisted smart car system with 
+autonomous function including auto valet parking 
+park ride etc 
+bosch 
+volkswagen 
+zurich university 
+etc participants 
+eur 
+eur 
+project 
+induct 
+project focusing constructing framework and evaluating 
+inria 
+automated road transport systems city mobile uses 
+yamaha etc 
+autonomous vehicles for demonstration evaluation 
+participants 
+eur 
+eur 
+companion 
+project 
+engineering development project for auto fleet driving 
+focusing vtx coordination and platoon forming and 
+operation for heavy duty freight vehicles 
+eur 
+eur 
+game 
+porject 
+tno 
+aims speed development wireless communication 
+idiada 
+based automated driving 
+viktoria 
+eur 
+eur 
+project 
+development and evaluation project for operative 
+automated driving technology aiming for 
+deployment focusing mainly vtv communication and 
+sensors for high lecel lka and acc 
+broadbit 
+volvo 
+hitachi etc 
+participants 
+eur 
+eur 
+adaptive 
+project 
+development automated driving application and 
+technologies for smart vehicles focusing various 
+situation and environment demonstrate automated 
+diriving highly complex traffic environment 
+volkswagen bmw 
+daimler ford volvo psa 
+opel renault bosch 
+continental etc 
+eur 
+eur 
+scania idiada 
+volkswagen 
+etc participants 
+source european union jari credit suisse estimates 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure sartre testing the ability enjoy coffee and 
+figure auto fleet driving test 
+newspaper while driving 
+source sartre 
+source sartre 
+figure overview europe automated driving development roadmap 
+industry academia project fleet driving 
+successful autonomous parking test stuttgart airport 
+autonomous 
+driving 
+start new framework 
+target release for continental autonomous valet parking system 
+bmw audi autonomous driving support 
+system 
+daimler autonomous car 
+adaptive 
+target completion prototype and start production development for 
+equipment 
+radar wave 
+regulation 
+autonomous 
+driving 
+allocation 
+band radar for autos 
+projected shift from 
+band for mid range radars used for autos 
+partly discontinued allocation 
+band for autos 
+google began development autonomous driving 
+approved public road test for 
+autonomous driving 
+google showcased the autonomous vehicle project 
+usdot announced its strategic plan 
+equipment 
+radar wave 
+regulation 
+projected elimination part 
+band used for autos 
+projected time for google develop 
+semi autonomous driving 
+functioning autonomous driving system 
+system enter the market 
+target for have complete highway autonomous driving 
+complete 
+autonomous 
+system 
+global automakers requested for 
+allocation band for autos 
+began study release band 
+for public 
+source fourin credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+automation issues 
+from people systems non technical issues solve before adoption 
+fully autonomous vehicles are moving closer reality but many issues not related 
+advances technology stand the way widespread adoption the moment the 
+assumption that all responsibility for vehicle control lies with the driver who has the right 
+navigate their car within infrastructure defined roads and signage however 
+replacing driver with vehicle within this framework throws raft problems 
+according working group the ministry land infrastructure and transport mlit 
+which looked issues related autonomous vehicles number hurdles need 
+overcome ahead adoption such regulations public acceptance road infrastructure 
+commercialization demand and economic impact 
+terms the regulatory framework changes current driving license systems will 
+required ahead any shift driverless cars for example drivers will need have some 
+understanding autonomous driving systems how work them and what those 
+systems malfunction also the level demand from the public could issue which 
+might require initiatives tackle misplaced confidence conversely distrust driverless 
+cars adoption would also conditional the understanding and acceptance 
+pedestrians and other road users commercialize and generate demand for 
+autonomous vehicles there would have balance between investment 
+infrastructure and benefits for society well the creation service models the 
+private sector given these and other non technical issues the mlit working group sees 
+good prospects for shift more advanced driver support technologies but thinks the 
+adoption fully autonomous vehicles unlikely happen the near future 
+figure non technical issues arising from automated driving 
+evolution driving assist 
+task 
+social system 
+autonomous driving 
+staggered implementation 
+possible under current system 
+difficult under current system 
+upgrading currently existing 
+technology 
+technology 
+safety 
+need structure ensure 
+swtchover from system back 
+infrastructure 
+need infrastructure support when 
+surround detection difficult 
+specific accomodation needed 
+considered for common 
+vehicles changing lanes within 
+line auto following vehicles 
+infrastructure support should 
+minimal the front car the 
+line auto following vehicles 
+manual controlled 
+autonomous system 
+need infrastructure support when 
+surround detection difficult 
+specific control needed for cars 
+cutting 
+need countermeasure relieve 
+technology 
+difficult under current system 
+conditions 
+normally 
+anxiety common drivers using 
+remote control 
+technology established for auto 
+cruise driving under cetrain 
+need system safely stop when 
+need countermeasure against 
+drivers over underrelying the 
+difficult under current system 
+system cannot continue operate 
+drivers 
+social 
+acceptance 
+high level development needed 
+for the systems involving 
+informatization decision control 
+etc 
+auto follow driving 
+high level development needed 
+for safe remote control 
+need system safely stop when 
+system cannot continue operate 
+normally 
+need countermeasure relieve 
+anxiety common drivers using 
+remote controlled vehicles 
+new social structure needed for 
+the remote control system 
+initial investment will extremely 
+commercialization assumed 
+commercialization assumed 
+minimal during the initial phase 
+large for the remote control 
+system 
+business needs 
+countermeasure needed 
+countermeasure needed 
+minimize risk when accident 
+minimize risk when accident 
+happenes 
+economic effect from safety and 
+less traffic jam anticipated but will 
+staggered implementation 
+economic effect 
+initial cost expected 
+expensive anticipating longer 
+time for economic effect take 
+place 
+improved fuel efficiency from 
+improved aero resistance 
+happenes 
+need vehicles adapted the 
+remote control system 
+penetrate the market 
+vehciles with adapted function 
+needs penetrate into the market 
+have economic effect 
+overall 
+evaluation 
+probability high 
+early implementation difficult 
+implementation difficult 
+implementation difficult 
+items considered have merits items considered have demerits items required consider 
+source mlit jari 
+auto auto parts industrial electronics electronic components sector 
+april 
+legal and regulatory framework 
+the world traffic laws are based the assumption that vehicles are controlled people 
+the basis for these laws the geneva convention road traffic ratified the 
+japan and many other countries and the vienna convention road traffic 
+signed mainly european countries the vienna convention clearly states that every 
+driver shall all times able control his her vehicle autonomous driving systems use 
+information from the surrounding environment make decisions and control the vehicle 
+instead the driver the existing legal framework would have revised before 
+driverless cars can become reality 
+the vienna convention road traffic was fact amended allow autonomous 
+vehicles with the aim cutting road traffic accidents and addressing aging population and 
+environmental issues the amendment states that autonomous driving systems would 
+recognized under the convention provided they comply with relevant international laws 
+think these revisions indicate growing acceptance driverless cars the 
+development autonomous driving technology gathers pace discussions are apparently 
+underway make similar amendments the geneva convention road traffic 
+think these developments will spur successive changes national road traffic laws 
+figure automated driving will necessitate revisions legislation 
+treaty name 
+signing date 
+major 
+signatories 
+geneva road traffic convention 
+vienna convention road traffic 
+canada asian nations except china 
+european middle east nations 
+article every vehicle combination vehicles 
+proceeding unit shall have driver 
+excerpts 
+from key 
+provisions 
+drivers shall all times able control their 
+vehicles guide their animals when 
+article 
+approaching other road users they shall take such 
+precautions may required for the safety 
+the latter 
+the driver vehicle shall all times have its 
+speed under control and shall drive 
+article 
+reasonable and prudent manner shall slow 
+down stop whenever circumstances require 
+and particularly when visibility not good 
+article 
+every moving vehicle combination vehicles 
+shall have driver 
+article 
+every driver shall all times able control 
+his vehicle guide his animals 
+article 
+every driver vehicle shall all 
+circumstances have his vehicle under control 
+able exercise due and proper 
+care and all times position 
+perform all maneuvers required him 
+abbreviated 
+article 
+the driver vehicle moving behind another 
+vehicle shall keep sufficient distance from 
+that other vehicle avoid collision the 
+vehicle front should suddenly slow down 
+stop 
+source nikkei credit suisse 
+driver rights and responsibilities 
+mentioned earlier the current assumption that the driver has sole control the vehicle 
+presents significant obstacle legal and regulatory amendments and the adoption 
+driverless cars currently all national traffic laws are based this assumption the 
+event accident during driving almost all responsibility lies with the driver 
+discussions have now started many countries about who liable autonomous driving 
+systems not people are control the vehicle manufacturers would face significant 
+risks they were required take sole responsibility for accidents caused their systems 
+likely hampering the development and commercialization driverless cars 
+ideas about who should take responsibility differ from country country one view the 
+that driverless systems become more advanced and drivers have less control 
+drivers should able override autonomous systems that they retain some control 
+over their vehicle the early stages adoption least europe the view that 
+driverless cars should have systems that constantly monitor the driver condition and 
+always allow him her override autonomous control emergency this would ensure 
+the driver retains some level responsibility for the control autonomous vehicles the 
+approach japan slightly different given there sure way proving driver 
+judgment and awareness during autonomous driving the view that liability for accidents 
+auto auto parts industrial electronics electronic components sector 
+april 
+should transferred external parties under mlit proposals anybody buying 
+autonomous vehicle would required sign third party insurance contract the 
+system would similar existing liability insurance accident compensation schemes 
+with the assumption some liability third party institution helping reduce the 
+liability both the system manufacturer and the driver the event accident 
+expect see more debate this area the question about who liable during 
+autonomous driving has answered before adoption can get under way however 
+the moment there seems little support for the manufacturer led approach which 
+could severely hamper the development and commercialization driverless cars 
+figure driver rights being debated mlit 
+contractor 
+individual 
+liability 
+liability vehicle basis 
+consignee 
+party operator etc 
+liability 
+driver the vehicle the 
+liability individual driver 
+liability party 
+autonomous system oem 
+contractor 
+consignee manufacturer 
+held responsible 
+liability 
+liability 
+driver 
+liability 
+driver 
+autonomous 
+system 
+consignee 
+driver 
+front etc 
+liability remote control 
+operator the autonomous 
+vehicle driver less 
+liability 
+consignment 
+contract 
+contract 
+liability 
+driver 
+consignee 
+remote control operator 
+liability 
+liability 
+party 
+consigne 
+driver 
+consignment 
+contract 
+liability 
+consignee 
+remote 
+control 
+operator 
+source nikkei credit suisse 
+changes expect automation bring about the 
+structure the auto industry 
+repercussions google moves spreading throughout the auto industry 
+repercussions from google plans develop self driving car are continuing spread 
+throughout the auto industry the company developing fully automated car and plans 
+make available the general public google aims make effective use 
+the time drivers would otherwise spend driving conventional vehicle which could mean 
+the google vehicle both means transportation well communication terminal 
+that can gather information while driving self driving cars are essentially terminals 
+wheels then they are tools that can provide users with services other than driving while 
+the move 
+google developing operating systems for automated driving its offerings become the 
+standard google will play dominant role with regard added value featured within the 
+automated driving system and the various systems related driving well 
+applications and information services relayed automated vehicles will all have 
+through the company the consumer electronics sector when smartphones first 
+took off the company providing operating systems the software for autonomous cars 
+could also play leading role the auto sector value chain over the longer term 
+automakers and auto parts companies making the autos and their systems the hardware 
+and software companies making various information service applications will tailor their 
+product development and product offerings the that wins the greatest share the 
+market believe there substantial perception gap regarding autonomous auto 
+systems where the auto sector has traditionally seen autonomous driving extension 
+contemporary driver assistance technologies believe google sees concept 
+that could completely overhaul the auto and auto manufacturing industries 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure google car experimental mobile data 
+terminal 
+source google 
+how retain the joys driving and car ownership 
+although the public and private sectors have joined together pursue automation 
+technologies japan the and europe automakers have been reluctant 
+commercialize fully automated vehicles this largely because great number 
+technological obstacles remain but believe also partly because concerns that 
+the spread self driving vehicles could destroy the added value that only automakers 
+have been able put into vehicles 
+increased traction for autonomous vehicle concept could increase the emphasis autos 
+mode transportation and substantially shift the focus away from the pleasures 
+driving and car ownership that many owners enjoy for instance autonomous vehicles 
+lead greater car sharing this could exacerbate the ongoing decline car ownership 
+automakers have pursued automation technologies way appealing customers 
+from the perspectives the environment safety and comfort but another key theme 
+today auto market how the joys driving and owning vehicle can preserved 
+toyota has unveiled prototype self driving vehicle but the message has conveyed 
+through various media seems that this point wary commercializing fully 
+autonomous vehicle 
+believe driver assistance topics will the focus automation technologies for now 
+automakers strive preserve the joy driving daimler exhibited fully automated 
+concept car the luxury motion some acclaim ces but had 
+steering wheel and other elements allow driver control the vehicle bmw like 
+toyota seems see semi automated driving central theme next generation 
+vehicles from safety perspective the other hand surveys conducted google and 
+others suggest today consumers place greater emphasis convenience safety 
+innovation reliability luxury and fuel efficiency this means more difficult for 
+automakers establish differentiation with engine transmission specs interior design 
+elements and other considerations that were more highly valued consumers the past 
+automakers product development efforts will need balance these considerations while 
+preserving the joy driving and owning cars 
+auto auto parts industrial electronics electronic components sector 
+april 
+faster development automation technologies could mean opportunities 
+for major suppliers and companies other sectors 
+google aims commercialize fully automated car and this likely spur 
+faster development automation technologies including work automakers this 
+turn could lead bright opportunities for growth the automation market for major 
+suppliers the auto parts sector well for companies other sectors including 
+industrial electronics consumer electronics and electronic components robust demand 
+growth likely for components essential self driving systems including various sensors 
+required for peripheral surveillance decision making and steering well ecus and 
+actuators will impossible for automakers handle all these technologies their 
+own and this likely lead many opportunities for suppliers boost added value 
+throughout the supply chain 
+progress with automation will drive demand for sensors with more accurate detection and 
+recognition functions and ecus that can handle larger data loads and more complex 
+operations this likely mean growth not just for the largest tier suppliers but also 
+for electronic components makers semiconductor makers and lower tier suppliers 
+because the great number devices involved similarly control logic and other 
+software will become increasingly important developments automation will prompt 
+changes added value the supply chain for autos for auto parts companies simply 
+supplying conventional parts however business conditions are likely continue 
+deteriorate 
+auto auto parts industrial electronics electronic components sector 
+april 
+key automation technologies 
+sensors key components autonomous safety 
+support systems 
+applications and sensors 
+vehicle automation applications are realized via numerous sensors applications such 
+back guide monitor bgm reversing cameras that enhance reversing visibility ahb 
+tsr ldw which supports driver decision making lka and ipa large extent 
+rely cameras and sensors millimeter wave and laser radar play important role 
+applications such fcw which supports driver decision making acc which supports 
+vehicle operation and aeb which intervenes emergencies equipment also needed 
+for communication between vehicles and between cars and the road for the purposes 
+cooperation with infrastructure 
+figure automation related applications and sensors 
+application 
+detection support 
+sensor 
+camera image 
+sensor 
+judgement support 
+driving support 
+intervention support 
+driver 
+monitoring 
+back guide monitor 
+lane keep assist 
+gaze detection 
+top view 
+intelligent parking assist 
+sleepiness detection 
+auto high beam 
+lane departure warning 
+road sign detecton 
+night vision 
+millimeter wave 
+rader lazer rader 
+forward collision warning 
+adaptive cruise control 
+autonomous emergency 
+lane change assist 
+all speed acc 
+braking 
+false start prevention 
+infrastructure cooperation 
+communicator 
+blind intersection warning 
+infrastructure cooperation 
+intersection collision 
+avoidance 
+others 
+sonic wave 
+alcohol detection 
+clearance sonar 
+inhalated air 
+source company data credit suisse 
+figure sensor applications vary depending their characteristics 
+source texas instruments 
+auto auto parts industrial electronics electronic components sector 
+april 
+sensors all have individual strengths and weaknesses 
+the camera sensors millimeter wave radar and laser radar that support applications each 
+have strengths and weaknesses terms functionality and cost camera sensors are 
+good detecting objects but poor measuring distance and not very durable millimeterwave radar good detection and durable but expensive laser radar low cost but not 
+very durable pedestrian protection will added euro ncap from camera 
+sensors which are good detecting people and objects will become essential addition 
+millimeter wave radar and laser radar 
+millimeter wave radar can operate bad weather fog snow storms heavy rain and have 
+long ranges over the medium term mass production millimeter wave radar using 
+cmos technology starts costs could substantially reduced depending the scale 
+mass production the equipment built using silicon circuit boards laser radar 
+strength lies its low cost and adoption low price vehicles such mini vehicles 
+therefore progressing the need combine automation with map data could increase 
+automation progresses 
+figure sensor characteristics 
+camera 
+millimeter wave 
+laser 
+image 
+radar 
+radar 
+detection 
+position measurement 
+configuration measurement 
+identification 
+weather resistance 
+source company data credit suisse 
+figure sensor categories application 
+sensors 
+adas application 
+camera 
+milliwave 
+semi milliwave 
+lidar 
+camera 
+ultrasonic 
+sensors 
+acc 
+active cruise control 
+fcw 
+forward corrision warning 
+aeb 
+auto emergency brake 
+tsr 
+traffic sign recognition 
+ldw 
+lane departure warning 
+bsm 
+blind sight monitor 
+rcta 
+rear cross traffic alert 
+driver monitoring 
+pedestrain detection 
+night vision 
+ahd 
+auto headlight dimming 
+advanced parking assist 
+source sbd credit suisse 
+camera sensors will sensor fusion use with millimeter wave radar 
+become the mainstream 
+fhi eyesight which boosted awareness collision avoidance support braking japan 
+uses stereo camera technology measure distance many carmakers including toyota 
+have realized high levels precision using mono and stereo camera technology 
+together with millimeter wave radar think sensor fusion combinations various 
+sensors will become mainstream expect growth the number installed camera 
+sensors and shift multichannel automation progresses 
+eyesight developed jointly fhi and hitachi hitachi automotive systems typical 
+example stereo camera technology the latest version eyesight ver launched 
+uses cmos instead ccd image sensors yielding improved performance stereo 
+auto auto parts industrial electronics electronic components sector 
+april 
+camera technology because detects objects using two cmos sensors provides more 
+precise distance measurement and enables detection three dimensional objects the 
+other hand two cmos sensors and lenses are required and range limited the 
+distance between the lenses design constraints terms packaging and the like with 
+respect downsizing are tight other companies that have also developed stereo camera 
+technology include bosch continental and denso camera module developed 
+panasonic bosch has managed downsize its device lens distance 
+mono camera technology which low cost and easy downsize using eyeq mobileye 
+image sensing system chip soc has already been widely adopted including tier 
+manufacturers such trw delphi and autoliv companies have started adopt 
+mono camera technology incorporating mobileye new which offers fold 
+increase performance over being able detect vehicles away 
+pedestrians and operate night large suppliers like bosch continental and 
+denso are also commercializing mono camera technology assuming that will used 
+combination with millimeter wave radar and laser radar the safety sense package that 
+toyota introducing combines denso mono camera technology with millimeter wave 
+radar while its safety sense package uses continental mono camera technology 
+along with infrared laser radar nidec elesys has started supplying mono camera 
+technology for honda acura tlx striving for improved detection performance and 
+smaller form factor the company developed the image processing algorithm house 
+figure fhi eyesight stereo camera system 
+figure trw cam mono camera system 
+source fhi 
+source trw 
+figure the sensor fusion concept 
+source company data credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+millimeter wave radar expecting progress with used 
+different applications 
+expect millimeter wave radar used for longer distances while the lowcost millimeter wave radar will used for shorter distances millimeter wave 
+radar sensors emit radio waves certain frequencies and receive waves reflected back 
+from objects distance and relative speed measured using the time between wave 
+transmission and reception and changes frequency such systems offer good detection 
+performance and can measure distances including large distances with great accuracy 
+while detecting shapes using existing systems difficult millimeter wave radar are also 
+highly durable challenging weather thick fog snow heavy rain systems using waves can detect objects ahead but their relatively high cost 
+issue 
+suppliers long distance millimeter wave radar systems include continental bosch 
+delphi denso fujitsu and nidec other companies including autoliv and trw are 
+developing such systems over the medium term mass production millimeter wave 
+radar using cmos technology goes ahead costs could substantially reduced 
+depending the scale mass production the equipment built using silicon circuit 
+boards millimeter wave radar has date been used only for vehicle detection but 
+their detection capabilities improve should future possible use them detect 
+pedestrians well 
+systems employing waves are used for shorter distances around their 
+strengths are their low cost and wide viewing angle they can detect shorter distances 
+they are widely used the sides and the rear vehicles suppliers short range 
+millimeter wave radar systems include continental autoliv hella valeo and trw denso 
+and others are currently developing such systems millimeter wave radar can used 
+rear and side detection applications the longer term expect them integrated 
+with parking assist systems possibly replacing the ultrasonic sensors and rear surround 
+view camera sensors currently used such systems excluding certain areas where 
+vehicles have travel steady high speeds there are many markets which mid range 
+millimeter wave radar could find applications and think demand for low cost 
+systems could increase especially for compact cars 
+figure denso millimeter wave radar system 
+figure differences between and 
+systems 
+long 
+distance 
+radar 
+long distance radar 
+source company data 
+auto auto parts industrial electronics electronic components sector 
+mid distance rader 
+low cost 
+source company data credit suisse 
+april 
+laser radar low cost differing specifications 
+laser radar limited with regard weather imperviousness but used differently 
+depending cost considerations and specifications treat omnidirectional laser 
+scanners which discuss later separately daihatsu move was the first minivehicle 
+equipped with the smart assist crash avoidance assist system denso was able 
+realize sales price using laser radar honda new fit uses the same lowprice specs 
+laser radars are made laser diode which emits laser light polygon mirror which 
+scans the laser light and reflects forward and photodiode which converts the reflected 
+light focused the focusing lens into electrical signals light reflected from object 
+makes possible calculate the object distance and relative speed the technique 
+resembles the millimeter wave radar discussed above but has different characteristics 
+due the differences between radio waves and light avoid naming confusion laser 
+radar often called lidar daihatsu smart assist uses infrared lasers its core sensing 
+technology the wavelengths are much shorter than with millimeter wave radar laser 
+radar can measure distance very precisely but measurement range capability short 
+around this limits aeb speed which one drawback the other hand the 
+lower costs the technology compared with millimeter wave radar makes easy 
+incorporate into minivehicles and compact cars denso and continental are two the 
+top laser radar suppliers 
+expect the use laser radar find traction particularly for use cars lower price 
+bands adoption likely accelerated the addition aeb evaluation the 
+japan new car assessment program jncap and the mandatory inclusion aeb 
+systems the considered europe euro ncap more 
+demanding aeb systems requiring stopping from speeds the operating 
+speed limit vehicles with aeb systems using only laser radar will 
+tough for laser radar systems clear euro ncap standards noted above however 
+laser radar extremely accurate and the technology has been used conjunction with 
+cameras europe expect growth the use laser radar systems low cost adas 
+sensors until camera sensors sensing technology improves and low cost millimeter wave 
+radar developed 
+figure denso laser radar 
+figure principles laser radar 
+semiconductor 
+lazer 
+light 
+sensor 
+polygon mirror 
+drive motor 
+source company data 
+auto auto parts industrial electronics electronic components sector 
+source company data credit suisse 
+april 
+ultrasonic sensors likely become established short range low cost 
+sensors 
+ultrasonic sensors are small and low cost but work over even shorter range than laser 
+radars they are used mainly for advanced parking assists apa and other such 
+systems the sensors use internal piezoelectric ceramic generate ultrasonic waves 
+and detect the distance from obstacles such walls and other vehicles measuring the 
+time takes for the sound reflect back the frequency limited the band 
+the range limited around two meters the sensors are therefore limited low speed 
+and short range applications such apa 
+suppliers ultrasonic sensors include nippon ceramic murata mfg panasonic denso 
+bosch and valeo the short reflection detection range disadvantage but developers 
+are working improve this the range extended around think ultrasonic 
+sensors will used peripheral and blind spot monitoring applications ultrasonic 
+sensors are positioned close millimeter wave radar and could erode the latter 
+market share over the longer term the near term expect the use these lowestcost compact sensors become established low price vehicles 
+figure murata mfg ultrasonic sensor 
+figure possibilities raised the expansion 
+ultrasonic sensors range 
+source murata manufacturing 
+source murata manufacturing 
+omnidirectional laser scanners 
+omnidirectional laser scanners are experimental devices used the development 
+future fully automated cars think their mass production commercialization still some 
+way off designed not for individual adas functions but rather for total automation 
+omnidirectional laser scanners detect objects the vehicle environment using degree 
+infrared scanning combined with highly accurate mapping data they can detect 
+vehicle position and the location objects around with high degree precision 
+said the heart google self driving cars they are currently made company 
+velodyne which supplies them for the experimental self driving cars various 
+manufacturers 
+although omnidirectional laser scanners offer outstanding performance their per vehicle 
+cost high and they are very large their structure basically the same that the 
+laser radar systems discussed above but they carry very high prices they incorporate 
+number laser light sources that rotate inside the body the device velodyne laser 
+scanner has laser emitters and priced roughly the same luxury 
+passenger car the unit large and can only mounted the roof creating various 
+installation issues 
+tackle the issues above automakers are developing their own omnidirectional laser 
+scanners google developing such devices house and accelerating efforts toward 
+mass production with view launching self driving car toyota engaged 
+joint development with toyota central labs while denso which also part the 
+auto auto parts industrial electronics electronic components sector 
+april 
+toyota group also engaged development aiming for commercialization around 
+the major supplier valeo like denso also working house development while 
+daimler germany pressing ahead with development self driving technologies 
+without using omnidirectional laser scanners daimler thinks that combining cameras 
+the front and rear with highly accurate mapping data vehicle position can estimated 
+without relying these laser scanners the experimental self driving vehicle the company 
+unveiled proved capable navigating roughly course though urban 
+areas without using laser scanner 
+bosch germany also pursuing combination millimeter wave radar and cameras 
+rather than high priced laser scanners makers meet their development targets 
+omnidirectional laser scanners could commercialized soon around 
+however without any sharp improvement costs think full blown adoption will 
+some way off 
+figure detecting degree information and the 
+figure velodyne laser emitter laser scanner 
+vehicle position 
+source velodyne 
+auto auto parts industrial electronics electronic components sector 
+source velodyne 
+april 
+electronic control unit ecu 
+ecu gaining importance can handle increased data complex control systems 
+resulting from car automation 
+both driver assistance and self driving systems vehicle automation parts are replacing 
+the human functions peripheral surveillance decision making and steering electronic 
+control units ecu are therefore likely become increasingly important terms 
+controlling these functions the brain the vehicle ecus are likely key for 
+handling greater data volume and increasingly complex control systems resulting from the 
+ongoing automation vehicles suppliers ecus for various advanced driver 
+assistance systems adas applications include major suppliers such denso bosch 
+continental delphi hella trw and valeo well non auto related electronic 
+component makers such hitachi automotive systems mitsubishi electric and nidec 
+elesys currently individual ecus are installed cars for each function and sensor 
+most cases 
+cars become more automated expect heavy usage ecus continue the near 
+term given the need for failsafe systems backup when particular application sensor 
+malfunctions result expect growing demand not only for ecu but for other 
+components including devices supplied makers electronic parts semiconductors and 
+other products also think control logic and other software will become increasingly 
+important seen the efforts denso and other parts makers expect further 
+development software platforms handle complex control logic given growing uptake 
+integrated sensor systems and other factors think integration ecus likely 
+continue over the longer term makers seek lower costs increased efficiency and other 
+improvements 
+figure increasingly important ecus equivalent the human brain fully automated 
+cars 
+living body 
+stimulus 
+senses 
+nerve 
+brain 
+nerve 
+muscles 
+limbs 
+surrounding 
+information 
+sensor 
+wire 
+harness 
+ecu 
+wire 
+harness 
+actuators 
+vehicle 
+source fuji chimera research institute credit suisse 
+figure adas related ecu supply chain 
+toyota 
+denso 
+honda 
+mazda 
+fhi 
+ford 
+fca 
+bmw 
+others 
+honda elesys 
+bosch 
+continental 
+delphi 
+hella 
+trw 
+valeo 
+daimler hyundai 
+hitachi automotive 
+systems 
+fujitsu ten 
+nissan 
+ecuin the chart limited autonomous emergency brake ecu aeb 
+auto auto parts industrial electronics electronic components sector 
+april 
+source fuji chimera research institute credit suisse 
+figure hitachi adas integration controller 
+source hitachi 
+electronic components 
+high speed processors for adas will equivalent processors used 
+low end pcs for full automation will necessary process much 
+data server 
+efforts are under way boost the speed adas related processors facilitate 
+continuous high speed processing images from cameras and radar well location 
+data figure shows examples adas processor clock frequencies mcus for simple 
+cameras have been operating but from are starting see processors 
+operating frequencies higher than the that mobileye planning 
+introduce will have six eight times the processing capability 
+figure operating clock frequencies chart for adas processors 
+company 
+release 
+toshiba 
+renesas 
+mobileye 
+altera 
+freescale 
+soc 
+soc 
+soc 
+soc 
+soc 
+soc 
+soc 
+soc 
+soc 
+mips 
+soc fpga 
+single quad core 
+dual core 
+dual core 
+multi core 
+single core 
+single core 
+quad core 
+apex core 
+products 
+visconti 
+car 
+car 
+car 
+cyclone soc fpga 
+appliation processor series 
+mcu for lader 
+mcu for lader 
+mcu for lader 
+mcu for camera 
+mcu 
+family 
+family image cognition 
+clock frequency 
+arm 
+programable logic cortex 
+for auto 
+cortex 
+source company data credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+fully automatic driving will require maps recognize location data such image data 
+radar data and well road surface information unevenness and use the 
+data drive the system via ecus some observers believe this will necessitate serverlevel processing capability compared body related ecus those associated with adas 
+are likely much richer passive components further boosting demand for mlccs 
+and similar components 
+figure mlcc equipment count per ecu 
+asoline ngine 
+iesele ngine 
+transm ission 
+eps ecu 
+ody 
+units 
+vac ecu 
+ecu 
+infortainm ent 
+controle 
+attery anagem ent 
+units 
+source fuji chimera research institute credit suisse 
+forecast growing demand for common mode filters use ethernet 
+expands 
+automotive ethernet started appear with the adoption board diagnostics 
+obd europe addition growing use camera systems and radar systems for 
+adas there are also signs switch from media oriented systems transport most 
+technology ethernet for infotainment systems yano research institute estimates that 
+the automotive ethernet market will grow sharply from nodes 
+nodes and nodes 
+believe that tdk currently has overwhelming share common mode filters with its 
+act series for controller area networks can local interconnect networks lin 
+most and flexray addition growth common mode filters cmf for existing 
+applications fueled the shift electric powered systems the company likely 
+benefit from growth demand for cmf driven increasing use ethernet for highspeed data transmission associated with adas 
+figure main automotive networks the future 
+system 
+multimedia 
+sound and picture 
+transmission 
+most 
+camera image for 
+driving assistance 
+analog digital 
+direct connection 
+ethernet 
+digital multiplexing 
+ethernet 
+communication data increase 
+can 
+control system 
+can 
+body system 
+lin 
+flexray 
+can 
+transmission 
+speed bps 
+source toyota motor credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure type automotive networks 
+can 
+vehicle communication that 
+spread worldwide 
+can 
+extended version can 
+speeding etc 
+flexray 
+time synchronization 
+ethernet 
+communication technology that 
+spread consumer market 
+application range 
+control that can permit 
+communication delay 
+non control that can permit 
+communication delay 
+transfer system needs for highcapacity high speed data 
+communications 
+zone main speed 
+layout 
+bottleneck 
+limitation bandwidth 
+available 
+feature 
+ecu 
+ecu 
+ecu 
+ecu 
+ecu 
+ecu 
+ecu 
+ecu 
+ecu 
+difficulty routing 
+design application needs for 
+integration difficulty with can performance maximization 
+adoption expansion 
+ecu 
+ecu 
+high cost 
+source toyota motor credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+growing demand for connectors enabled for high speed transmission 
+along with growth the number cameras and radar systems used expect growing 
+demand for noise abatement associated with high speed data transmission automotive 
+connectors are produced connector makers house harness makers and 
+because the transmission speeds required are equivalent those used pcs and 
+servers believe adas could provide opportunity for connector makers with 
+technological edge boost their market shares understand smk and honda tsushin 
+have high shares connectors for cameras but other companies potentially the 
+spotlight are makers such japan aviation electronics industry and connectivity 
+which are highly competitive connectors for ecu and iriso electronics which 
+aggressively advancing this area 
+wifi module market has significant potential positive for alps electric 
+and murata manufacturing 
+shift from bluetooth already under way automotive infotainment 
+with alps electric taking lead wifi modules expect murata mfg launch wifi for 
+automotive infotainment systems further down the road expect the market for 
+modules grow more automakers incorporate vehicle vehicle and 
+vehicle infrastructure communications systems their products 
+europe and the the plan use the band dsrc system for vehicle tovehicle communications while japan plans use analog frequency 
+vehicle vehicle communications will help prevent head collisions well 
+collisions when turning left right intersections and will also capable providing 
+emergency vehicle information february the national highway traffic and 
+safety administration the department transportation announced that was 
+taking concrete steps promote the use vehicle vehicle communications technology 
+passenger vehicles preparation for enactment legislation regarding dedicated 
+short range communications dsrc 
+estimate the unit price automotive wifi additional modules will 
+needed for infotainment systems and for respectively steps are taken 
+legally mandate the use vehicle vehicle communications japan the and 
+europe this has the potential become large market 
+auto auto parts industrial electronics electronic components sector 
+april 
+value added shift likely accelerate due 
+automation 
+fight for survival between suppliers that have automation products and 
+those that not 
+think that result the advance automation companies non auto sectors 
+such industrial and consumer electronics and electronic parts will likely gain presence 
+automobile supply chains addition mega suppliers the auto parts sector 
+expect rapid growth demand for sensors ecu actuators and other devices that detect 
+the surrounding environment make decisions and operate autos and are essential 
+automated driving systems automakers cannot source all these technologies house 
+think this will provide suppliers the automation field with opportunity secure 
+more added value within the supply chain 
+with the automation market expected expand from 
+believe the added value suppliers that not have automation technology and are 
+unable escape from conventional areas will decline further automakers will neither 
+able fully pass higher product appeal and added value sales prices nor avoid this 
+trend thus anticipate more intense fight for survival terms per unit price 
+spreads and earnings expansion between suppliers that have automation technology and 
+those that not 
+mega suppliers non auto sector companies will likely gain presence 
+have drawn the following list the key items and supply chains associated with 
+automobile automation including adas and automated driving 
+first should point out that among auto parts suppliers that make existing automobile 
+supply chains only mega suppliers have exposure automation supply chains among 
+tier suppliers sensors ecu and other devices well known global mega suppliers 
+such denso robert bosch continental delphi trw magna valeo autoliv and aisin 
+seiki dominate supply chains among the companies our auto parts sector coverage 
+denso has established omnidirectional supply network that includes sensors and ecu 
+while aisin seiki has lines including products associated with advanced parking assist 
+apa using rear view camera sensors however none the other auto parts suppliers 
+our coverage offer automation related parts and devices 
+second expect investors focus the presence non auto sector suppliers and 
+below tiers tier suppliers other than mega suppliers include industrial electronics 
+makers such hitachi hitachi automotive systems and electronic parts makers such 
+nidec nidec elesys think consumer electronics makers such panasonic and 
+sony might also enter the field tier suppliers among structural parts suppliers and 
+below tier think toshiba and the like are aiming enter the camera sensor soc 
+system chip market addition mobileye electronic parts makers such murata 
+mfg are also heavily involved devices that are structural components ecu and 
+sensors 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure supply chain chart for adas camera and milliwave radars 
+tier 
+tier 
+unit 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+mono camera module adas 
+stereo camera module adas 
+stereo camera module adas 
+stereo camera module adas 
+stereo camera module adas 
+stereo camera module adas 
+stereo camera module adas 
+stereo camera module adas 
+system chip 
+system chip 
+system chip 
+unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+milliwave radar unit 
+mmic gaas 
+mmic sige 
+mmic sige 
+supplier 
+autoliv 
+bosch 
+continental 
+delphi 
+denso 
+gentex 
+hyundai mobis 
+kostal 
+magna 
+mando 
+mitsubishi electric 
+nidec 
+trw 
+valeo 
+autoliv 
+bosch 
+continental 
+denso 
+hitachi automotive systems 
+kostal 
+magna 
+mobileye 
+renesas electronics 
+toshiba 
+customer 
+bmw 
+volkswagen audi skoda porsche 
+mazda 
+volvo 
+toyota 
+toyota honda nissan fca ford etc 
+hyundai 
+psa mmc 
+honda 
+other 
+under development 
+honda 
+nissan fca hyundai 
+ford 
+under development 
+tbd 
+daimler 
+under development 
+fuji heavy 
+under development 
+under development 
+supplier 
+autoliv 
+bosch 
+continental 
+delphi 
+denso 
+fujitsu ten 
+hitachi automotive systems 
+hyundai mobis 
+nidec 
+trw 
+bosch 
+continental 
+trw 
+denso 
+hitachi automotive systems 
+fujitsu ten 
+mitsubishi electric 
+infineon 
+freescale 
+customer 
+under development 
+nissan honda audi skoda seat suzuki 
+bmw daimler mmc nissan hyundai 
+volvo ford 
+toyota mazda hyundai 
+toyota honda 
+under development 
+hyundai 
+honda 
+volkswagen bentley 
+under development 
+under development 
+under development 
+under development 
+under development 
+under development 
+denso 
+bosch delphi autoliv mobis 
+continental trw fujitsu ten nidec 
+source sbd credit suisse 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure supply chain for ecu and other adas sensors 
+tier 
+unit 
+ism semi milliwave radar unit 
+ism semi milliwave radar unit 
+ism semi milliwave radar unit 
+ism semi milliwave radar unit 
+ism semi milliwave radar unit 
+ism semi milliwave radar unit 
+uwb semi milliwave radar unit 
+uwb semi milliwave radar unit 
+supplier 
+customer 
+daimler honda 
+toyota nissan mazda 
+mazda hyundai 
+psa 
+ford nissan 
+under development 
+daimler honda 
+toyota nissan mazda 
+tier 
+infrared lidar unit 
+infrared lidar unit 
+supplier 
+continental 
+denso 
+customer 
+ford honda suzuki volkswagen volvo 
+toyota daihatsu fuji heavy 
+tier 
+unit 
+ultrasonic sensor unit 
+ultrasonic sensor unit 
+ultrasonic sensor unit 
+ultrasonic sensor unit 
+ultrasonic sensor unit 
+supplier 
+bosch 
+denso 
+murata manufacturing 
+panasonic 
+valeo 
+customer 
+ford fca volkswagen bmw daimler psa 
+toyota honda 
+others 
+mazda mmc suzuki toyota 
+ford volkswagen bmw daimler renault 
+tier 
+unit 
+nightvision sensing unit 
+nightvision sensing unit 
+autoliv 
+denso 
+daimler 
+toyota 
+tier 
+unit 
+electronic control unit adas 
+electronic control unit adas 
+electronic control unit adas 
+electronic control unit adas 
+electronic control unit adas 
+electronic control unit adas 
+electronic control unit adas 
+electronic control unit adas 
+electronic control unit adas 
+electronic control unit adas 
+supplier 
+bosch 
+continental 
+delphi 
+denso 
+fujitsu ten 
+hella 
+hitachi automotive systems 
+honda elesys 
+trw 
+valeo 
+main customer 
+volkswagen bmw 
+daimler hyundai 
+ford 
+toyota 
+toyota 
+mazda fca 
+nissan fuji heavy 
+honda 
+volkswagen 
+nissan ford fca 
+autoliv 
+continental 
+hella 
+trw 
+valeo 
+denso 
+autoliv 
+continental 
+unit 
+supplier 
+customer 
+source sbd credit suisse 
+european and companies leading automation market but expect 
+non auto companies such denso gain share over the longer term 
+estimate that the automation market typified adas currently worth around 
+and that european and companies are the lead according our estimates 
+continental commanded the global automation market autoliv and 
+robert bosch far larger shares than those other companies non auto sector 
+companies had but even denso which had the largest share among japanese megasuppliers had market share only this because key customer toyota motor was 
+somewhat late developing mass market vehicles fitted with adas such aeb 
+however expect denso gain share will supply toyota safety sense for midand high class models toyota plans include its toyota safety sense accident 
+prevention and safety package its entire line from also expect continental 
+which has track record supplying products for mass produced vehicles gain share 
+for now due supply toyota safety sense packages which are another 
+accident prevention and safety package for toyota compact cars euro ncap will 
+include evaluation pedestrian detection systems from think toyota might 
+eventually adopt systems that combine millimeter wave radar and mono camera sensors 
+also compact cars and that the process denso might try win share from 
+continental the mass produced vehicle segment 
+auto auto parts industrial electronics electronic components sector 
+april 
+denso has standardized accident prevention and safety packages line with tnga and 
+think will rapidly expand sales customers other than toyota will soon 
+possible simplify application design result expect denso automation market 
+share increase also forecast that automation market share will increase 
+due aggressive sales expansion non auto sectors including hitachi 
+hitachi automotive and mitsubishi electric the industrial electronics sector panasonic 
+and sony the consumer electronics sector and nidec nidec elesys the electronic 
+parts sector 
+figure automation market share 
+aisin seiki 
+aisin seiki 
+others 
+trw 
+trw 
+hella 
+hella 
+delphi 
+delphi 
+valeo 
+figure automation market share forecast 
+others 
+valeo 
+continental 
+continental 
+autoliv 
+denso 
+denso 
+autoliv 
+nonautomotive 
+suppliers 
+bosch 
+source sbd credit suisse 
+bosch 
+non automotive 
+suppliers 
+source sbd credit suisse estimate 
+expect denso gain market share front view cameras companies 
+gain share rear view 
+the front view camera market was dominated easy fit mono camera 
+technology global suppliers commanded the main shares continental taking 
+gentex and robert bosch expect mono camera technology continue 
+gain share due increased adoption sensor fusion including millimeter wave radar 
+denso market share was just but expect expand around 
+driven expansion adoption toyota motor and growth sales non toyota 
+customers non auto sectors well hitachi hitachi automotive systems will likely 
+grow sales especially stereo camera technology over the near term also think 
+companies such nidec nidec elesys panasonic and sony will gain share this 
+market 
+rear view cameras are mainly used advanced parking assist apa systems european 
+companies commanded the main shares valeo robert bosch while 
+aisin seiki which has long track record supplying products for toyota intelligent 
+parking assist ipa systems had and nidec elesys whose products are being 
+adopted honda had japanese suppliers thus also winning relatively large market 
+shares heading toward expect suppliers gain share due the fitting 
+rear view cameras being made mandatory the among them expect delphi 
+share increase from 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure adas camera market share 
+other 
+figure adas camera market share 
+continental 
+continental 
+other 
+delphi 
+gentex 
+delphi 
+bosch 
+autoliv 
+denso 
+magna 
+bosch 
+autoliv 
+trw 
+denso 
+magna 
+trw 
+source sbd credit suisse 
+source sbd credit suisse estimate 
+figure adas camera sensor market share 
+figure adas camera sensor market share forecast 
+johnson control 
+delphi 
+hella 
+johnson control 
+hella 
+valeo 
+nidec elesys 
+aisin seiki 
+delphi 
+valeo 
+nidec elesys 
+bosch 
+source sbd credit suisse 
+bosch 
+aisin seiki 
+source sbd credit suisse estimate 
+while continental will likely maintain its lead millimeter wave radar 
+expect denso counterattack 
+the current millimeter wave radar system market continental which leads 
+expansion sales adas systems has the lion share germany robert 
+bosch close behind with mainly for high class cars delphi has japan 
+denso had only its products are limited existing pre crash safety systems 
+adopted some high class cars such toyota lexus range expect continental 
+gain the lion share the market due increased sales for mass produced 
+vehicles denso share meanwhile should rise due full fledged sales safety 
+sense toyota the tapping demand for mass produced toyota cars and higher 
+sales non toyota customers 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure adas radar share 
+fujitsu ten 
+other 
+denso 
+figure adas radar share forecast 
+hitachi 
+automotive other 
+systems 
+nidec elesys 
+fujitsu ten 
+delphi 
+continental 
+denso 
+continental 
+bosch 
+delphi 
+source sbd credit suisse 
+bosch 
+source sbd credit suisse estimate 
+fluctuations laser radar market share limited 
+continental which has succeeded expanding sales low cost systems has the 
+laser radar market while denso which supplies low cost systems for domestic 
+minivehicles still has the future due increasing demand industrialized nations 
+for pedestrian detection night vision and improved high speed operability 
+think current laser radar systems might partly replaced millimeter wave radar 
+systems also expect growth demand for laser radar systems low cost cars 
+emerging markets and japanese minivehicles see little likelihood change market 
+shares continental and denso which are currently the lead 
+figure adas laser radar share 
+figure adas laser radar share forecast 
+omron 
+automotive 
+omron 
+automotive 
+denso 
+denso 
+continental 
+continental 
+source sbd credit suisse 
+auto auto parts industrial electronics electronic components sector 
+source sbd credit suisse estimate 
+april 
+forecasting expanding adas ecu share for denso and hitachi 
+the adas ecu market present with camera sensors and millimeter wave radar 
+continental which the lead sales expansion commands the lion share the 
+market followed autoliv robert bosch valeo and denso 
+expect denso share increase due higher weighting 
+toyota vehicles fitted with adas systems gains share sales toyota and growth 
+sales non toyota customers due standardized accident prevention and safety system 
+packages look for hitachi share expand due higher sales adas 
+systems featuring stereo camera sensors and sales growth contributions from integrated 
+ecu 
+figure adas ecu share 
+figure adas ecu share forecast 
+hitachi others 
+automotive 
+systems 
+others 
+hitachi 
+automotive 
+systems 
+continental 
+trw 
+continental 
+trw 
+nidec 
+nidec 
+autoliv 
+delphi 
+delphi 
+bosch 
+denso 
+autoliv 
+valeo 
+bosch 
+source sbd credit suisse 
+auto auto parts industrial electronics electronic components sector 
+denso 
+valeo 
+source sbd credit suisse estimate 
+april 
+denso outperform 
+denso set benefit from automation technology market growth more than 
+any other automotive parts company under our coverage 
+denso wide ranging approach the development and commercialization automation 
+technologies means the company looks set benefit from automation technology market 
+growth more than any other auto parts maker under our coverage denso also one 
+only few japanese suppliers capable engaging the battle for market share even 
+competition expected intensify the automation market including with megasuppliers from europe and the denso internal targets include capturing share 
+the adas market and securing operating margins above the company wide 
+average 
+expect sales automation adas technologies rise from the current level 
+over and over this basis expect rise 
+from the current just over and just below date 
+denso has supplied automation products toyota for use the lexus and other models 
+but expect growth denso automation sales and pick pace from with 
+the full scale introduction toyota safety sense active safety package for mid sized 
+and high end cars denso may also engage rapid business development with 
+companies other than toyota once application design simplified through the 
+standardization active safety packages line with the toyota new global architecture 
+tnga platform 
+denso particularly strong position because the company portfolio includes nearly 
+all the technology elements used automation including camera sensors both 
+mono stereo millimeter wave radar including laser sensors and 
+ecu the company can therefore combine these elements different ways according 
+the specifications particular car models for sensor fusion area where 
+anticipate growing demand denso has long track record automation technologies 
+even supplying the radar and camera sensors used toyota high end vehicles the 
+denso has also supplied millimeter wave radar for mazda activesense and 
+camera sensors for hyundai vehicles denso supplies low cost laser radar systems for use 
+compact cars avoid low speed collisions including the daihatsu smart assist system 
+denso has only captured share the automation market thus far because its main 
+customer toyota that uses adas systems only high end vehicles expect 
+denso share increase around over the longer term with the 
+introduction toyota safety sense active safety packages and with growth sales 
+customers other than toyota 
+the two active safety systems that toyota introducing from denso scheduled 
+supply parts for the toyota safety sense package for mid sized and high end cars 
+denso system features superior recognition capabilities and reliability through the use 
+mono camera technology and millimeter wave radar the system combines three 
+types active safety functions pre crash safety pcs lane departure alert lda and 
+automatic high beam ahb systems with pedestrian detection help avoid 
+collisions with pedestrians and reduce damage injury the system also features radar 
+cruise control 
+the pcs system detects cars and pedestrians front the vehicle and helps avoid 
+collisions and reduce damage injury through alarms braking assistance and automatic 
+braking automatic braking operates speeds when compared with 
+pedestrians for example the difference speed between the vehicle and the 
+pedestrian the system decelerates the vehicle around help avoid 
+collisions with other vehicles the system operates wide range speeds between 
+and maximum speed for example the car travelling and may hit 
+stationary vehicle the system can reduce the vehicle speed around 
+auto auto parts industrial electronics electronic components sector 
+april 
+toyota also has another active safety package the toyota safety sense system for 
+compact cars supplied continental this system combines laser radar and mono 
+camera technologies denso could also supply this system but think toyota placed 
+this business with continental order spread the risk with this advanced system and 
+light continental track record with mass production terms future developments 
+though think denso could aim gradually win orders from toyota for systems used 
+various mass produced toyota vehicles 
+particular interest that denso adding systems the safety sense products 
+supplies toyota and will lead the way mass producing this system when 
+added safety regulations standards for the ncap evaluation programs europe and 
+japan once part the ncap evaluation program expect growing demand 
+the mass produced car segment for systems that combine mono camera technologies and 
+millimeter wave radar like the toyota safety sense products denso supplies toyota 
+denso also taking the lead improving its millimeter wave radar camera capabilities 
+with view the addition night vision pedestrian detection capabilities 
+ncap evaluation programs from expect such moves help denso capture 
+greater market share over the longer term driven sales both toyota and other 
+automakers 
+denso addition advancing driver assistance technologies leading the development 
+technologies for fully automated driving trial runs automated vehicles based 
+the lexus began public roads minami chita aichi prefecture denso has 
+identified the following challenges achieving fully automated driving three levels 
+automated driving from the vehicle capable moving independently and 
+the driver can respond appropriately demands from the system for challenge 
+denso developing next generation millimeter wave radar camera sensors and 
+focusing the development technologies increase the sensitivity vehicle position 
+detection including adas locators and built communication technologies for 
+challenge denso developing technologies detect driver status using driver status 
+monitors dsms and visualize information using head displays huds 
+adas locators utilize precise geographical data and gps data and detect data the 
+road ahead that cannot captured with camera sensors radar locators are designed 
+reduce potential danger using sensors detect advance information that cannot 
+seen including around curves too far away for camera sensors radar 
+communication technologies use devices that provide information links with other vehicles 
+infrastructure and detect target objects blind spots that camera sensors radar cannot 
+handle for example vehicles exchange information their position and this then used 
+prevent collisions crossings with poor visibility this technology allows detection over 
+greater area through the use data from other vehicles infrastructure supplement 
+vehicle blind spot data that cannot obtained from sensors maps 
+with dsm technology camera sensors are installed within the vehicle interior detect the 
+driver face and monitor driver status based facial positioning and eyelid movements 
+such systems are being tested adjust air conditioning according the driver state 
+sound alarms operate pcs systems earlier stage depending the 
+circumstances huds can visualize data and present information from the vehicle 
+more readily understood format the technology projects information directly onto the 
+windshield drivers not have adjust their gaze refocus much with 
+conventional systems huds can communicate information more intuitively and directly 
+within the driver field vision while the car motion 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure adas sales denso 
+figure adas denso 
+billion jpy 
+billion jpy 
+adas camera 
+adas radars 
+ecu 
+system 
+source credit suisse estimates 
+adas lhs 
+source credit suisse estimates 
+figure development roadmap 
+source denso 
+figure denso driver status monitor 
+figure denso system 
+source denso 
+source denso 
+auto auto parts industrial electronics electronic components sector 
+april 
+aisin seiki outperform 
+currently specializing rear detection low speed applications 
+the field automation technologies aisin seiki has focused thus far the 
+development and mass production advanced parking assist apa systems that use 
+rear camera sensors aisin seiki may continue specialize rear detection and lowspeed applications over the near term but expect the company gradually engage 
+the development high speed technologies expect adas sales rise from the 
+current level nearly and just below expect 
+increase from the current just over and nearly 
+aisin seiki was involved from the start the development toyota intelligent parking 
+assist ipa system and has good track record supplying this system 
+the ipa was the first system worldwide allow automated operation the 
+parking brake can described frontrunner automation technology aisin seiki 
+supplies nearly all the ipa systems used toyota and has also supplied daimler the 
+past aisin seiki also supplies the new system that has been launched toyota 
+the combines the company original ipa technology with intelligent clearance 
+sonar ics function help prevent mitigate collisions through automated braking 
+addition new multi point turn support function automatically controls steering tight 
+parking spaces requiring repeated back and forth movements another partially automated 
+function assists departure from parallel parking spaces with little room front and 
+behind the vehicle valeo and robert bosch have the top two shares the market for 
+adas systems that use rear cameras like aisin seiki apa but aisin seiki ranks third 
+with share nearly expect aisin seiki maintain this share over the longer 
+term rear camera devices are used more the and other countries 
+aisin seiki also developing better adas technologies for the future the company 
+working rear through monitor that features improved rear detection technologies 
+the system combines images from rear and vehicle cameras create image that 
+looks through obstacles structural members the vehicle and projected onto the 
+mirror the system improves driver visibility and helps the driver confirm that they have 
+not missed any obstacles behind the vehicle the system allows field view 
+behind the vehicle and can also used with the rear camera currently installed apa 
+systems the rear through monitor requires technologies synthesize images using 
+data from multiple camera sensors this may become key technology for aisin seiki over 
+the longer term 
+march aisin seiki opened the kyushu development center the electronics 
+technology management department kitakyushu fukuoka prefecture the center will 
+used for the development core technologies for safety applications including image 
+recognition spatial recognition and vehicle control the company apparently developing 
+alongside low speed adas technologies like the previous apa system basic technologies 
+wide ranging fields including for high speed applications think demand for aisin 
+seiki technologies may grow further all automakers work automate various 
+functions under specific conditions including parking and freeway driving with the goal 
+applying these technologies 
+think aisin seiki may also able capture share the adas market segments 
+other than apa from rivals denso and continental over the longer term the company 
+develops more sophisticated multiple sensor technologies like the rear through monitor 
+furthermore combining controllers with peripheral information seen the 
+that coordinates with navigation systems aisin seiki could generate greater added value 
+its mainstay powertrain business 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure adas sales aisin seiki 
+billion yen 
+figure adas aisin seiki 
+billion yen 
+adas sales 
+source credit suisse estimates 
+adas 
+source credit suisse estimates 
+figure aisin seiki ipa system 
+source aisin seiki 
+auto auto parts industrial electronics electronic components sector 
+april 
+hitachi outperform 
+seeking grow earnings through increased exposure electronic control 
+and electric drive products 
+hitachi wholly owned subsidiary hitachi automotive systems targeting sales 
+yoy and opm the company 
+aims achieve sales yoy and opm 
+furthermore looking generate sales the targeted increase 
+sales hitachi automotive systems expects that roughly will come from organic 
+growth sales electronic control and electric drive products line with greater 
+adoption evs and hevs believes the remaining will come from proactive 
+activity the company estimates that electronic control and electric drive 
+products will account for sales aims raise this weighting 
+figure hitachi automotive systems sales exposure electronic control and 
+electric drive products 
+sales 
+electronics products sales total 
+coe 
+coe 
+coe 
+source company data 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure sales composition 
+others 
+powertrain 
+car information 
+drive control 
+systems 
+engine 
+management 
+source company data credit suisse estimates 
+believe costs will increase the company invests software supporting 
+electronic control and electric drive products however think management can fund 
+this expenditure reining fixed costs via greater efficiencies distribution and 
+administrative operations accordingly see both and the opm increasing 
+costs totaled sales 
+and not yet know the amount but 
+assume the yoy uptrend continued and see this figure rising 
+sales over the same period the opm improved from 
+and the company targets further growth applaud management 
+for continuing improve margins while still undertaking growth oriented investment 
+figure hitachi automotive systems expenses 
+coe 
+coe 
+source company data 
+auto auto parts industrial electronics electronic components sector 
+april 
+figure hitachi automotive systems opm ratio costs sales 
+opm 
+coe 
+coe 
+sales 
+source company data 
+looking grow sales adding customers increasing exposure 
+electronic control and electric drive products 
+sales the renault nissan alliance made sales with another 
+derived from business with other global automakers focusing increasing sales 
+the latter hitachi automotive systems aims grow sales pace outstripping the 
+broader market that end the company strategy invest factories located 
+close proximity customers and technologies supporting automakers platform sharing 
+seems winning fans for offering this kind factory support both developed and 
+developing nations 
+figure hitachi automotive systems capex 
+coe 
+capex 
+source company data 
+increasing its exposure electronic control and electric drive products hitachi 
+automotive systems seeking larger share the markets for vehicle electrification 
+systems for use hevs and automation adas 
+auto auto parts industrial electronics electronic components sector 
+april 
+the adas sphere hitachi automotive systems focusing technologies for 
+recognizing the external driving environment and for using the images captured control 
+actuators for the engine steering and brakes the company stereo camera use 
+already fhi eyesight safety system however this not exclusive contract 
+precluding sales other companies crucial element the stereo camera the image 
+recognition algorithm however since hitachi automotive systems has developed 
+algorithm specifically for eyesight there are technical barriers sales outside fhi 
+fact fhi seems quite amenable hitachi automotive systems selling the stereo 
+camera externally use eyesight based standard specifications lowers procurement 
+costs for all hitachi automotive systems already has the technologies needed 
+recognize the external driving environment and use the images captured control 
+actuators its plan now develop standard tuning package that allows secure 
+more customers without much additional spending 
+understand the company talks with number companies some which may 
+start using its technology soon autumn this year all accounts hitachi automotive 
+systems targeting share this market 
+addition stereo cameras gather that hitachi automotive systems also has 
+developed millimeter wave radar sufficiently advanced hold its own against 
+competitors will watching for more news this subject 
+auto auto parts industrial electronics electronic components sector 
+april 
+hitachi automotive systems also has its armory the core technologies underpinning 
+hevs namely inverters motors and batteries thus further growth the hev 
+market should translate additional business opportunities market expansion has been 
+slower than anticipated part because enforcement the european 
+standard has been pushed back from but also because electronically 
+controlled internal combustion engines have achieved improved fuel efficiency 
+necessitating new approach direct fuel injection engines nonetheless hitachi 
+automotive systems still expects emission controls europe and china drive market 
+expansion 
+strategy 
+air conditioning can also have impact vehicle fuel efficiency but hitachi automotive 
+systems has plans present for activity this field the company working 
+its own heat management technologies and believes would not greatly disadvantaged 
+not having its portfolio the associated hardware hvac radiators and other heat 
+exchange systems and parts 
+that said hitachi automotive systems acknowledges the potential that deals offer 
+terms expanding the scale its business garnering new customers and obtaining 
+new technologies will consider the full gamut possibilities including those fields 
+such braking steering and suspensions 
+fund activity the company need not raise all the funds internally through 
+borrowing and forth can also utilize the hitachi group cash pooling system 
+nidec corporation outperform 
+expect adas contribute least sales 
+nidec supplies honda with adas cameras through nidec elesys the company aims 
+reduce costs integrating the camera and radar into single unit around the 
+radar component the company plans make its adas products more compact and 
+specialized with the use horn antenna instead regular micro pole antenna well 
+supplying honda nidec engaged business negotiations with companies around 
+the world including number japanese companies and manufacturers korea 
+europe and china nidec also plans start marketing fusion sensor products from 
+expect nidec capture share the market for motors for aeb electric brakes 
+well adas sensors and ecu assume that sales motors for adas 
+products and electric brakes will reach least nidec involved 
+motors for eps and electric brakes well motor controller ecus and various types 
+adas sensor and ecu and expect the company generate further added value for 
+products used automated driving 
+other electronic parts makers 
+looking other electronic parts makers expect tdk outperform 
+benefit from growing demand for mlccs and common mode filters and 
+murata manufacturing outperform increase employee numbers 
+for mlccs and expand its business ultrasonic sensors estimate sales 
+and esc mems sensors global share for connector parts growing demand 
+for connectors capable high speed transmission may positive for japan aviation 
+electronics industry outperform that has captured slice the car 
+ecu connector market growth the vehicle vehicle communication market might 
+positive for alps electric outperform and murata manufacturing 
+auto auto parts industrial electronics electronic components sector 
+april 
+companies mentioned price apr 
+aisin seiki 
+alps electric 
+apple inc aapl 
+audi unlisted 
+autoliv alv 
+bmw bmwg 
+bosch bosh 
+continental cong 
+delphi automotive plc dlph 
+daihatsu motor 
+daimler daign 
+denso 
+fca fcha 
+fujitsu ten unlisted 
+ford motor company 
+freescale semiconductor inc fsl 
+fuji heavy industries 
+general motors corp 
+gentex gntx 
+google inc googl 
+hella hle 
+hitachi 
+hitachi automotive systems unlisted 
+honda elesys unlisted 
+honda motor 
+hyundai mobis 
+hyundai motor company 
+infineon technologies ifxgn 
+japan aviation electronics industry 
+kostal gmbh unlisted 
+magna international mga 
+mando corp 
+mazda motor 
+mercedes benz unlisted 
+mitsubishi electric 
+mitsubishi motors 
+murata manufacturing 
+nidec elesys corporation unlisted 
+nippon ceramic 
+nissan motor 
+opel unlisted 
+panasonic corporation 
+renault rena 
+renesas 
+robert bosch gmbh unlisted 
+sony 
+suzuki motor 
+tdk 
+trw automotive holdings corp trw 
+toshiba 
+toyota motor 
+valeo vlof 
+velodyne unlisted 
+volkswagen vowg_p 
+volvo volvb 
+psa peugeot citroen unlisted 
+disclosure appendix 
+important global disclosures 
+masahiro akita hideyuki maekawa akinori kanemoto and koji takahashi each certify with respect the companies securities that the individual 
+analyzes that the views expressed this report accurately reflect his her personal views about all the subject companies and securities and 
+part his her compensation was will directly indirectly related the specific recommendations views expressed this report 
+the analyst responsible for preparing this research report received compensation that based upon various factors including credit suisse 
+total revenues portion which are generated credit suisse investment banking activities 
+december analysts stock rating are defined follows 
+outperform the stock total return expected outperform the relevant benchmark over the next months 
+neutral the stock total return expected line with the relevant benchmark over the next months 
+underperform the stock total return expected underperform the relevant benchmark over the next months 
+relevant benchmark region december japanese ratings are based stock total return relative the analyst coverage universe which 
+consists all companies covered the analyst within the relevant sector with outperforms representing the most attractive neutrals the less attractive and 
+auto auto parts industrial electronics electronic components sector 
+april 
+underperforms the least attractive investment opportunities october and canadian well european tings are based stock total 
+return relative the analyst coverage universe which consists all companies covered the analyst within the relevant sector with outperforms representing the 
+most attractive neutrals the less attractive and underperforms the least attractive investment opportunities for latin american and non japan asia stocks ratings 
+are based stock total return relative the average total return the relevant country regional benchmark prior october and canadian 
+ratings were based stock absolute total return potential its current share price and the relative attractiveness stock tot return potential within 
+analyst coverage universe for australian and new zealand stocks month rolling yield incorporated the absolute total return calculation and and 
+threshold replace the level the outperform and underperform stock rating definitions respectively the and thresholds replace the and levels the neutral stock rating definition respectively prior december japanese ratings were based stock total return 
+relative the average total return the relevant country regional benchmark 
+restricted certain circumstances credit suisse policy and applicable law and regulations preclude certain types communications 
+including investment recommendation during the course credit suisse engagement investment banking transaction and certain other 
+circumstances 
+volatility indicator stock defined volatile the stock price has moved down more month least the past 
+months the analyst expects significant volatility going forward 
+analysts sector weightings are distinct from analysts stock ratings and are based the analyst expectations for the fundamentals and 
+valuation the sector relative the group historic fundamentals and valuation 
+overweight the analyst expectation for the sector fundamentals and valuation favorable over the next months 
+market weight the analyst expectation for the sector fundamentals and valuation neutral over the next months 
+underweight the analyst expectation for the sector fundamentals and valuation cautious over the next months 
+analyst coverage sector consists all companies covered the analyst within the relevant sector analyst may cov multiple sectors 
+credit suisse distribution stock ratings and banking clients 
+global ratings distribution 
+rating 
+versus universe 
+which banking clients 
+outperform buy 
+banking clients 
+neutral hold 
+banking clients 
+underperform sell 
+banking clients 
+restricted 
+for purposes the nyse and nasd ratings distribution disclosure requirements our stock ratings outperform neutral and underperform most closely 
+correspond buy hold and sell respectively however the meanings are not the same our stock tings are determined relative basis please refer 
+definitions above investor decision buy sell security should based investment objectives current holdin and other individual factors 
+credit suisse policy update research reports deems appropriate based developments with the subject company the sector the 
+market that may have material impact the research views opinions stated herein 
+credit suisse policy only publish investment research that impartial independent clear fair and not misleading for more detail please refer 
+credit suisse policies for managing conflicts interest connection with investment research http csfb research andanalytics disclaimer managing_conflicts_disclaimer 
+credit suisse does not provide any tax advice any statement herein regarding any federal tax not intended written used and cannot 
+used any taxpayer for the purposes avoiding any penalties 
+important regional disclosures 
+singapore recipients should contact credit suisse singapore branch for any matters arising from this research report 
+restrictions certain canadian securities are indicated the following abbreviations nvs non voting shares rvs restricted voting shares 
+svs subordinate voting shares 
+individuals receiving this report from canadian investment dealer that not affiliated with credit suisse should advised that this report may not 
+contain regulatory disclosures the non affiliated canadian investment dealer would required make this were its own report 
+for credit suisse securities canada inc policies and procedures regarding the dissemination equity research please visit 
+http csfb legal_terms canada_research_policy shtml 
+the date this report credit suisse acts market maker liquidity provider the equities securities that are the subject this report 
+principal not guaranteed the case equities because equity prices are variable 
+commission the commission rate the amount agreed with customer when setting account any time after that 
+the extent this report authored whole part non analyst and made available the the following are important 
+disclosures regarding any non analyst contributors the non research analysts listed below any are not registered qualified research 
+analysts with finra the non research analysts listed below may not associated persons cssu and therefore may not subject the 
+nasd rule and nyse rule restrictions communications with subject company public appearances and trading securities held 
+research analyst account 
+auto auto parts industrial electronics electronic components sector 
+april 
+credit suisse securities japan limitedmasahiro akita hideyuki maekawa yoshiyasu takemura akinori kanemoto koji takahashi jaemin 
+joo 
+for credit suisse disclosure information other companies mentioned this report please visit the website rave creditsuisse disclosures call 
+auto auto parts industrial electronics electronic components sector 
+april 
+references this report credit suisse include all the subsidiaries and affiliates credit suisse operating under its investment banking division for more information our structure please use the 
+following link credit suisse who_we_are this report may contain material that not directed intended for distribution use any person entity who citizen resident 
+located any locality state country other jurisdiction where such distribution publication availability use would contrary law regulation which would subject credit suisse its affiliates 
+any registration licensing requirement within such jurisdiction all material presented this report unless specifically indicated otherwise under copyright none the material nor its 
+content nor any copy may altered any way transmitted copied distributed any other party without the prior express written permission all trademarks service marks and logos used 
+this report are trademarks service marks registered trademarks service marks its affiliates the information tools and material presented this report are provided you for information 
+purposes only and are not used considered offer the solicitation offer sell buy subscribe for securities other financial instruments may not have taken any steps 
+ensure that the securities referred this report are suitable for any particular investor will not treat recipients this report its customers virtue their receiving this report the investments and 
+services contained referred this report may not suitable for you and recommended that you consult independent investment advisor you are doubt about such investments investment 
+services nothing this report constitutes investment legal accounting tax advice representation that any investment strategy suitable appropriate your individual circumstances 
+otherwise constitutes personal recommendation you does not advise the tax consequences investments and you are advised contact independent tax adviser please note particular 
+that the bases and levels taxation may change information and opinions presented this report have been obtained derived from sources believed reliable but makes representation 
+their accuracy completeness accepts liability for loss arising from the use the material presented this report except that this exclusion liability does not apply the extent that such 
+liability arises under specific statutes regulations applicable this report not relied upon substitution for the exercise independent judgment may have issued and may the future 
+issue other communications that are inconsistent with and reach different conclusions from the information presented this report those communications reflect the different assumptions views and 
+analytical methods the analysts who prepared them and under obligation ensure that such other communications are brought the attention any recipient this report some investments 
+referred this report will offered solely single entity and the case some investments solely associate may the only market maker such investments past 
+performance should not taken indication guarantee future performance and representation warranty express implied made regarding future performance information opinions and 
+estimates contained this report reflect judgment its original date publication and are subject change without notice the price value and income from any the securities financial 
+instruments mentioned this report can fall well rise the value securities and financial instruments subject exchange rate fluctuation that may have positive adverse effect the price 
+income such securities financial instruments investors securities such adr the values which are influenced currency volatility effectively assume this risk structured securities are complex 
+instruments typically involve high degree risk and are intended for sale only sophisticated investors who are capable understanding and assuming the risks involved the market value any 
+structured security may affected changes economic financial and political factors including but not limited spot and forward interest and exchange rates time maturity market conditions and 
+volatility and the credit quality any issuer reference issuer any investor interested purchasing structured product should conduct their own investigation and analysis the product and consult with 
+their own professional advisers the risks involved making such purchase some investments discussed this report may have high level volatility high volatility investments may experience 
+sudden and large falls their value causing losses when that investment realised those losses may equal your original investment indeed the case some investments the potential losses may 
+exceed the amount initial investment and such circumstances you may required pay more money support those losses income yields from investments may fluctuate and consequence 
+initial capital paid make the investment may used part that income yield some investments may not readily realisable and may difficult sell realise those investments similarly may 
+prove difficult for you obtain reliable information about the value risks which such investment exposed this report may provide the addresses contain hyperlinks websites except the 
+extent which the report refers website material has not reviewed any such site and takes responsibility for the content contained therein such address hyperlink including addresses 
+hyperlinks own website material provided solely for your convenience and information and the content any such website does not any way form part this document accessing such website 
+following such link through this report website shall your own risk this report issued and distributed europe except switzerland credit suisse securities europe limited one cabot 
+square london england which authorised the prudential regulation authority and regulated the financial conduct authority and the prudential regulation authority this report being 
+distributed germany credit suisse securities europe limited niederlassung frankfurt main regulated the bundesanstalt fuer finanzdienstleistungsaufsicht bafin this report being 
+distributed the united states and canada credit suisse securities usa llc switzerland credit suisse brazil banco investimentos credit suisse brasil its affiliates mexico 
+banco credit suisse xico transactions related the securities mentioned this report will only effected compliance with applicable regulation japan credit suisse securities japan 
+limited financial instruments firm director general kanto local finance bureau kinsho member japan securities dealers association the financial futures association japan japan 
+investment advisers association type financial instruments firms association elsewhere asia pacific whichever the following the appropriately authorised entity the relevant jurisdiction 
+credit suisse hong kong limited credit suisse equities australia limited credit suisse securities thailand limited regulated the office the securities and exchange commission thailand 
+having registered address abdulrahim place floor unit rama road silom bangrak bangkok thailand tel credit suisse securities malaysia sdn bhd 
+credit suisse singapore branch credit suisse securities india private limited cin regulated the securities and exchange board india registration nos 
+having registered address floor ceejay house road worli mumbai india credit suisse 
+securities europe limited seoul branch credit suisse taipei securities branch credit suisse securities indonesia credit suisse securities philippines inc and elsewhere the world the 
+relevant authorised affiliate the above research taiwanese securities produced credit suisse taipei securities branch has been prepared registered senior business person research 
+provided residents malaysia authorised the head research for credit suisse securities malaysia sdn bhd whom they should direct any queries this report has been 
+prepared and issued for distribution singapore institutional investors accredited investors and expert investors each defined under the financial advisers regulations only and also distributed 
+credit suisse singapore branch overseas investors defined under the financial advisers regulations virtue your status institutional investor accredited investor expert investor 
+overseas investor credit suisse singapore branch exempted from complying with certain compliance requirements under the financial advisers act chapter singapore the faa the 
+financial advisers regulations and the relevant notices and guidelines issued thereunder respect any financial advisory service which credit suisse singapore branch may provide you this 
+information being distributed credit suisse dubai branch duly licensed and regulated the dubai financial services authority dfsa and directed professional clients market 
+counterparties only defined the dfsa the financial products financial services which the information relates will only made available client who meets the regulatory criteria 
+professional client market counterparty only defined the dfsa and not intended for any other person this research may not conform canadian disclosure requirements jurisdictions where 
+not already registered licensed trade securities transactions will only effected accordance with applicable securities legislation which will vary from jurisdiction jurisdiction and may require 
+that the trade made accordance with applicable exemptions from registration licensing requirements non customers wishing effect transaction should contact entity their local 
+jurisdiction unless governing law permits otherwise customers wishing effect transaction should only contacting representative credit suisse securities usa llc the please 
+note that this research was originally prepared and issued for distribution their market professional and institutional investor customers recipients who are not market professional institutional 
+investor customers should seek the advice their independent financial advisor prior taking any investment decision based this report for any necessary explanation its contents this 
+research may relate investments services person outside the other matters which are not authorised the prudential regulation authority and regulated the financial conduct 
+authority and the prudential regulation authority respect which the protections the prudential regulation authority and financial conduct authority for private customers and the 
+compensation scheme may not available and further details where this may the case are available upon request respect this report may provide various services municipal entities 
+obligated persons municipalities including suggesting individual transactions trades and entering into such transactions any services provides municipalities are not viewed advice within 
+the meaning section the dodd frank wall street reform and consumer protection act providing any such services and related information solely arm length basis and not 
+advisor fiduciary the municipality connection with the provision the any such services there agreement direct indirect between any municipality including the officials management 
+employees agents thereof and for provide advice the municipality municipalities should consult with their financial accounting and legal advisors regarding any such services provided 
+addition not acting for direct indirect compensation solicit the municipality behalf unaffiliated broker dealer municipal securities dealer municipal advisor investment adviser for the 
+purpose obtaining retaining engagement the municipality for connection with municipal financial products the issuance municipal securities investment adviser provide 
+investment advisory services behalf the municipality this report being distributed financial institution other than credit suisse its affiliates that financial institution solely responsible 
+for distribution clients that institution should contact that institution effect transaction the securities mentioned this report require further information this report does not constitute investment 
+advice credit suisse the clients the distributing financial institution and neither credit suisse its affiliates and their respective officers directors and employees accept any liability whatsoever for 
+any direct consequential loss arising from their use this report its content principal not guaranteed commission the commission rate the amount agreed with customer when setting 
+account any time after that 
+copyright credit suisse and its affiliates all rights reserved 
+investment principal bonds can eroded depending sale price market price addition there are bonds which investment principal can 
+eroded due changes redemption amounts care required when investing such instruments 
+when you purchase non listed japanese fixed income securities japanese government bonds japanese municipal bonds japanese government guaranteed bonds japanese corporate bonds from 
+seller you will requested pay the purchase price only 
+auto auto parts industrial electronics electronic components sector 
+connections 

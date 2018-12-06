@@ -1,0 +1,2717 @@
+blue books
+experts views for expert investors
+global
+technology
+january
+maguire
+managing director
+software research
+edward maguire clsa
+guest authors
+john zysman
+professor university
+california berkeley
+jonathan murray
+chief technology officer
+warner music group
+kenji kushida
+takahashi research
+associate stanford university
+clouducopia
+zero one
+into the era abundance
+clsau
+the group companies that comprise clsa are affiliates credit agricole securities usa inc
+for important disclosure information please refer page
+blue books
+produced
+straight the source with clsa
+when industry innovations change quickly they are created your
+ability respond could mean the difference between success and failure
+this volatile environment why rely entirely broker research when you can
+tap into unfiltered unbiased primary research
+clsa value added executive education programme created
+allow you gain firsthand information and draw your own
+conclusions and make better informed investment decisions
+clsa offers tailored courses broad range macro themes with
+special focus technology and telecoms the format ensures you learn
+and obtain firsthand information about prospects and trends
+industries and sectors that underline the companies your portfolio
+you will interact and learn from the trailblazers the centre
+today fastest moving industries experts engineers and scientists
+who design implement and shape the new technologies today
+which impact the market tomorrow
+clsa not one off event ongoing education programme
+restricted clsa top clients the syllabus will constantly evolve meet
+your needs and help you debunk the latest technologies investment styles
+and industry trends that affect the markets and sectors you invest
+for more details please email clsau clsa log clsau
+john zysman
+john has been faculty member the university california berkeley
+teaching and researching high technology issues european politics and political
+economy since also director the berkeley roundtable the
+international economy brie since its establishment has written
+extensively european and japanese policy and corporate strategy his pathbreaking book manufacturing matters the myth the post industrial
+economy remains enduring driver economic development policy and
+strategy for governments and companies has hosted international events
+and been featured panelist numerous industry and policy conferences
+jonathan murray
+jonathan the cto and evp for warner music group where responsible
+for global technology strategy end end service delivery and the design
+and delivery the new cloud based digital services platform cloudave
+recently recognized him one three cloud computing visionaries for
+jonathan joined wmg from innovia ventures where was founding partner
+spent years various executive roles with microsoft most recently
+vice president the public sector technology office jonathan published
+research fellow with brie and blogs occasionally http adamalthus
+kenji kushida
+kenji the takahashi research associate japanese studies the walter
+shorenstein asia pacific research center stanford university
+affiliated researcher brie with phd political science from the university
+california berkeley specializes the political economic issues
+surrounding information technology and has published topics such cloud
+computing and the transformation services with tools along with jonathan
+murray and john zysman kenji involved with startups and investors working
+bridge the gap between startups silicon valley and japan
+clsa logo clsa word mark and clsa university are registered trademarks clsa the usa and elsewhere
+clsau
+january
+blue books
+foreword
+trying understand the implications that the information technology
+revolution has the broader economy happened upon brilliant report
+services with everything the ict enabled digital transformation services
+john zysman stuart feldman jonathan murray niels christian nielsen
+and kenji kushida the report identified how technology changing the
+nature services from economic sinkhole productivity driver
+was deeply impressed the team cogent insights into the profound
+economic implications the information and communications technology
+ict revolution reached out professor john zysman gauge his
+interest clsa blue book cloud computing and pulled his
+colleagues kenji kushida and jonathan murray clouducopia the result
+our collaborations
+explore why cloud computing distinct from prior technology waves
+around the mainframe and eras each transition has successively
+decoupled and disintegrated the technology stack cloud computing creates
+the experience unlimited computing power demand for users
+accelerating capacity for innovation and scaling new ideas for providers the
+dynamics around offering cloud services are far more nuanced than utilities
+look the looming threats that arms dealers intel cisco and oracle
+face because the cloud
+adoption cloud computing wiring the world this transition offers
+parallels with the rise electrification the late century the
+introduction electric power transformed industries and economies paving
+the way for massive growth and improvement living standards the
+developed world are the cusp globally connected world and the
+changes afoot are profound for users and participants and especially for the
+ict ers staking claims virtual landscapes hope you find this report
+illuminating have
+maguire
+managing director software research
+january
+clsau
+blue books
+produced
+contents
+executive summary
+abundant ramifications
+bracing for disruption
+driving disruptive impact
+battle lines square off
+depth insights
+clsau
+january
+blue books
+executive summary
+clouducopia
+ushering era
+abundance
+enterprise computing undergoing fundamental generational change
+significant the mainframe the and and poised
+just disruptive cloud computing ushering era abundance
+that will force major shifts the strategies firms that have built their
+success enterprise computing models scarcity while many the
+underlying concepts and technologies are not new cloud computing
+radical new way delivering computing resources discuss here the
+context characteristics and profound ramifications for users and providers
+abundant ramifications
+cloud computing economic story early days computing were
+characterized scarcity which turn constrained software capabilities
+scarcity enabled tightly coupled systems flourish the rise the
+loosened the binding between software and hardware changed the economic
+model and unleashed new industries fuelled moore law and consumer
+demand cloud computing delivers computing resources abundance further
+loosening software constraints with profound implications for incumbents
+bracing for disruption
+uniquely new simultaneously serving innovation ecosystem
+production environment and marketplace ready accessibility low cost
+nearly unlimited computing resources provides baseline for agile innovation
+cloud services have crossed the threshold early adoption support
+mainstream production environments global reach enables businesses
+operate and scale globally giving rise collaborative models
+driving disruptive impact
+the unbundled software and hardware leading vendors pursued
+different paths escape commoditization embedding business logic and
+offering high end customized solutions cloud computing disintegrates the
+vertical stacks further commoditizing the physical layers more radical form
+disruption results from decoupling business logic from the database and
+infrastructure software further undermining vendor lock in
+battle lines square off
+there are four types providers each with different competitive dynamics
+cloud service providers connectors network providers device providers and
+arms suppliers for service providers global scale advantage but
+regulations offer entry opportunities for localized providers the starting
+points amazon microsoft google salesforce and apple each define
+their strategies network providers must seek higher value avoid
+commoditization arms suppliers intel cisco and oracle must adjust
+strategies address the cloud existential threats their core businesses
+cloud computing can innovation ecosystem production environment and marketplace
+innovation
+production
+marketplace
+lowers the bar for new entrants
+scale enables lower operating costs
+provides global reach for applications
+facilitates experimentation
+highly efficient management and upgrades
+ability scale user base rapidly
+lower capital outlays for startups
+provides the building blocks for new systems
+enables multisourcing mechanical turk
+enterprises use cloud handle
+demand bursts
+supports new businesses dropbox netflix
+streaming foursquare
+facilitates crowdsourcing kickstarter
+improves allocation efficiency
+internal resources
+source john zysman jonathan murray kenji kushida
+january
+clsau
+blue books
+section abundant ramifications
+forcing major shifts the
+strategies firms
+the term cloud
+computing overused
+particularly firms most
+risk from disruption
+abundant ramifications
+cloud computing economic story early days computing were
+characterized scarcity which turn constrained software capabilities
+scarcity enabled tightly coupled systems flourish the rise the the
+and loosened the binding between software and hardware
+changed the economic model and unleashed new industries fuelled moore
+law and consumer demand that disruption existing leaders such
+digital equipment corporation dec and wang laboratories were driven out
+the business ibm survived but only after major turnaround the
+transformation now under way will force major shifts the strategies firms
+that have built their success the current enterprise computing model
+cloud computing radical new way delivering computing resources
+which will explain
+what mean cloud computing
+the label cloud computing undoubtedly overused particularly the
+marketing departments those firms most risk from the disruption cloud
+computing not simply anything the web nor does automatically imply
+social networks such twitter facebook most importantly not new
+word for old models outsourcing application hosting such definitions
+attempt render the term too broadly use the term cloud computing
+label the old the new and are therefore not useful what need
+specific definition that captures the heart what cloud computing really
+delivers and differentiates from previous generations computing
+simple terms cloud computing delivers computing services data storage
+computation and networking users the time the location and the
+quantity they wish consume with costs based only the amount
+resource used
+laymen terms cloud computing delivers the computing services
+support business personal needs without the user having know how the
+underlying physical devices and software are configured managed
+cloud computing and the economics abundance
+the early days the computing industry hardware resources were
+extremely scarce processors had limited computational capacity the limited
+size computer program memory and disk storage put severe constraints
+the size and complexity computer applications the earliest network
+connections could only transmit data slowly and very high cost
+cost and capacity
+constraints have limited
+capabilities software
+the cost and limited capacity these foundational components computing
+infrastructure computation memory storage and network bandwidth placed
+severe limits the complexity the software operating systems and
+applications which ran top optimizing for these limitations meant that
+software was always written targeted for the specific underlying hardware
+which would run ibm produced highly optimized operating systems
+dedicated specific mainframe hardware memory and storage architectures
+dec did the same for its mini computers and even later generation companies
+such sun microsystems followed the same model extract every last ounce
+performance from their workstation and service products
+moore law the observation intel founder gordon moore that the number transistors
+effect processing power integrated circuits doubles every two years
+owe thanks jonathan murray for this conception
+clsau
+january
+blue books
+section abundant ramifications
+figure
+the client gets thinner
+the number users
+increases
+the evolution computing waves
+mainframe computing
+mini computing
+client server config
+laptop internet
+onwards
+handheld devices
+the client gets thinner the number users increases
+source john zysman jonathan murray kenji kushida
+computer industry arises
+around tightly coupled
+model
+the early success sun microsystems markets for engineering
+workstations and high performance servers for the financial services industry
+show just how successful this tight coupling software and hardware was
+economic model the computer industry while the demands
+software developers and their algorithms outstripped the capacity
+hardware resources this tightly coupled model would hold sway
+economics scarcity
+helped computing
+pioneers succeed
+the economics scarcity laid the foundation for the success most
+pioneering companies the enterprise computing industry companies were
+willing pay premium for software and hardware solutions that could
+optimize scarce resources and keep operating costs minimum
+figure
+figure
+digital equipment corporation minicomputer
+sun microsystems workstation computer sun
+source smithsonian institution
+source sun microsystems
+january
+clsau
+section abundant ramifications
+blue books
+cisco oracle and emc are
+companies whose value
+proposition was based
+the economics scarcity
+cisco oracle and emc are but three companies whose fundamental value
+proposition was based the economics scarcity each these companies
+created value being best class helping customers optimize and manage
+network database scale and disk storage respectively they could each charge
+premium price for their products and services because the costs the
+underlying infrastructure resources were high that marginal improvements
+optimization led significantly positive outcomes cost control
+rise the loosens the
+bindings the industry
+the introduction the ibm the early laid the foundation for
+transformation this economic model ibm broke with its traditional model
+when outsourced the supply the computer processor and operating
+system for this personal computer little did ibm know the time that this
+single decision would transform industry
+the decision source processors from intel and operating system from
+microsoft and critically not bind both these suppliers exclusive supply
+agreements created the opportunity build industry around ibm
+generic blueprint the market for pcs grew and other players such compaq
+created competitive alternatives ibm
+decomposition consumer
+demand and moore law
+convert scarcity
+abundance
+three factors were transform the previous era computing resource
+scarcity into one overwhelming abundance decomposition previous
+systems into components unleashed innovation and competition every
+layer exponential growth consumer demand led vast economies scale
+the production microprocessors disk storage and memory chips the
+same time improvements hardware fabrication technology following
+gordon moore law have seen doubling performance computational
+capacity program memory and disk storage capacity every months
+continuously for over years
+figure
+improvements
+processor capacity
+continue
+exponential rate
+moore law
+source wikipedia
+clsau
+january
+section abundant ramifications
+blue books
+hard understate
+the impact this
+transition from scarcity
+abundance
+hard understate the impact this transition from scarcity
+abundance there close analogy the introduction the moveable type
+printing press ibm invention the open architecture and selection
+intel processors democratized computing similar way that guttenberg
+printing press democratized printing with arguably even greater impact
+our societies and economies can speculate whether this democratization
+information access has great impact our societies and economies
+abundance changes the
+calculus software
+development
+environment where underlying hardware resources are all intents
+limitless commodity changes the calculus software development the
+emergence the linux operating systems good exemplar these
+changes
+unix operating system ecosystems scarcity
+the era scarcity the most direct analog linux was the unix operating
+system invented bell labs unix was designed generalpurpose operating system which could run many different types
+underlying hardware however when hardware resources are scarce the
+operating system needs tuned and optimized efficient
+possible each type computer tuning unix for each different system
+turned from being single general purpose operating system being
+collection related but quite different operating systems this turn meant
+that application written run one variant unix was not guaranteed
+run any other variant there was economy scale
+linux the
+abundance
+linux the other hand operating system for the era abundance
+much computational capacity now available personal computer class
+machines that some this capacity can wasted layers software
+designed insulate application developers and users from underlying
+differences hardware architecture from machine machine
+this ability waste computing cycles means that linux truly has become
+general purpose operating system capable running nearly any hardware
+architecture available however are still talking about environment
+where there one one relationship between computer hardware and the operating system applications written for linux will only run linux
+and not microsoft windows example but massive abundance now
+enabling solve even this problem
+the mac which this report being written can run not only its native osx
+operating system developed apple but also microsoft windows and any
+variation linux also capable running sun now oracle open
+solaris operating system how this possible
+virtualization breaks
+couplings even further
+january
+there now such abundance computational capacity that other
+multiple different hardware architectures can emulated software
+virtualization software allows run copy microsoft windows
+linux mac computer parallel with the native osx operating system
+the windows operating system linux running virtual container
+which emulates the hardware resources generic ibm the
+virtualization software smart enough allow the sharing the mac
+underlying physical hardware multiple different operating systems and
+their applications advancement the ability virtualize underlying
+hardware resources that has laid the foundation for cloud computing
+clsau
+section abundant ramifications
+cloud computing
+computing resourcemanagement model
+blue books
+cloud resource management model
+cloud computing its simplest sense computing resource management
+model method for pooling and sharing hardware infrastructure
+resources massive scale finite hardware resources are shared between
+competing demands giving each user the illusion exclusive control over the
+underlying environment and without the user needing know anything about
+how the physical resources are configured cloud computing operating
+and economic model for the era abundance
+profound implications for
+companies built
+scarcity
+the implications for companies that built their business models the
+economics scarcity are profound the cloud computing management
+model makes computation disk storage and program memory limitless
+commodity resource then users are unlikely pay premium for solutions
+designed optimize scarce resources
+cloud paves the way for
+open source disruption
+oracle success database technology came through its ability provide
+high levels performance and scaling resource constrained environments
+when those environments ran out capacity oracle would happy sell
+you very expensive dedicated hardware solutions overcome the problem
+cloud computing environment the same problem can overcome
+scaling open source free database technologies over vast commodity
+hardware infrastructures
+clsau
+january
+section bracing for disruption
+decoupling applications
+platforms and
+infrastructure has
+profound impact
+blue books
+bracing for disruption
+cloud computing uniquely new simultaneously being innovation
+ecosystem production environment and marketplace despite many the
+underlying technologies and concepts such virtualization and applications
+residing remote servers not being new focus the impacts and
+disruptions generated the advent cloud computing with emphasis
+who are the winners and losers the significance this decoupling
+applications platforms and infrastructure that cloud computing enables
+cannot exaggerated the decoupling affects how computing used and
+what kinds services and products will emerge
+two groups actors providers and users
+divide our analysis into two groups actors those involved the
+provision cloud services including those that provide the equipment
+connection and tools and users which include large and small businesses
+and consumers
+the impact cloud computing specific regions and sectors may
+powerfully influenced government policy issues such privacy security
+and reliability will matter great deal many these issues are not new such
+privacy security however cloud computing changes their manifestation
+opening old debates and adding twists traditional policy positions
+what cloud computing
+first need further depth elaborate the definition and main
+characteristics cloud computing including some examples
+cloud computing delivers computing services data storage computation and
+networking users the time the location and the quantity they
+wish consume with costs based only the resources used
+let unpack this definition adding characteristics and examples
+cloud services provide the
+illusion infinite
+resources demand
+users procure the amount computing they want without investing
+their own infrastructure only internet connection required
+cloud services provide the illusion infinite resources demand
+available users regardless their size and number
+physical infrastructure decoupled from applications and platforms which
+allocate computing memory and storage resources without reference
+underlying physical infrastructures this known virtualization note
+also that the physical location decoupled between the physical location
+users and the cloud datacenters
+cloud services transform
+computing from capital
+expense operating
+expense
+cloud services transform computing from capital expense operating
+expense this changes the role expenditures within the firm
+providers can dynamically add remove modify hardware resources
+without reconfiguring the services that depend them this major
+difference from traditional datacenter outsourcing
+cloud computing changes the location data processing processing
+moves from the edge the network pcs and private datacenters
+towards the center the network shared cloud datacenters
+only few firms are able offer truly global scale cloud infrastructure
+amazon google microsoft with each firm requiring numerous
+datacenters costing more than million each worldwide
+january
+clsau
+blue books
+section bracing for disruption
+there are few things that cloud computing not
+cloud computing not
+simply datacenter
+outsourcing
+cloud computing not simply all datacenter outsourcing and large
+cloud computing does not
+automatically imply
+dumb terminals
+cloud computing does not automatically imply dumb terminals thin
+enterprise with single datacenter not cloud service provider the real
+power cloud computing the dynamic allocation resources and the
+illusion infinite scale social networking services such facebook
+twitter linkedin are not necessarily cloud services themselves they
+can deploy cloud computing deliver their services and they can provide
+cloud based platforms for third party applications however not all
+clients with little power the user end many cloud services depend
+powerful client processing capabilities and networks are not always
+reliably fast enough processing power and storage capacity user
+devices smartphones pcs continues improve line with moore law
+highlight few key examples
+firms that use amazon virtual servers such dropbox netflix don
+have worry that they will use amazon storage processing
+capability amazon responsibility give the illusion infinite
+resources not the users
+you really don know
+and most cases don
+care about where your
+data are stored
+you really don know and most cases don care about where your
+data are stored when using google docs microsoft office will
+get into the exceptions later you also don care what kind servers they
+are running you just want the functionality
+google
+microsoft and amazon build new massive datacenters with
+seemingly continuous frequency but this doesn affect the applications
+and services that run their infrastructure you don have
+fundamentally reconfigure your google database when adds new
+datacenters migrates new versions its servers operating systems
+dropbox
+the popular file storage and synchronization service uses
+amazon virtual storage deliver its functionality did not have build
+massive datacenters its own start and rapidly expand its services
+figure
+cloud computing provides
+user flexibility
+decouples software from
+the physical layer
+what cloud and what not
+not
+users procure capacity without
+investing their own infrastructure
+not simple outsourcing
+physical infrastructure not tied specific
+applications and platforms
+platforms and applications not closely coupled
+underlying hardware
+opex for consumers
+not capex for consumers
+computing moves from the edge
+centralized datacenters
+endpoints are not necessarily dumb
+terminals some processing remains
+source john zysman jonathan murray kenji kushida
+users not care about
+the backend long
+service quality and price
+are acceptable
+dynamic utility
+for users cloud computing dynamic utility with traditional utility
+cloud computing resources are always available paid for according the
+amount consumed and can consumed any quantity more precisely there
+are contractual levels availability and reliability services are delivered
+through internet connections and the provider does not care about the device
+used consume the service users not care about how providers technically
+configure operate the service the backend long quality and price are
+acceptable and users are free use the resources they see fit
+clsau
+january
+blue books
+section bracing for disruption
+figure
+representative cloud infrastructure service offerings and pricing
+provider
+categories
+description
+pricing
+google
+demand front end instances
+free hours per app
+hour month
+app engine
+high replication datastore hrd
+free
+month
+each api has free quota and price per usage
+blobstore api
+free month
+datastore api
+free write operations
+linux unix
+hour month
+windows
+hour month
+simple storage service
+first
+per requests
+relational database service oracle
+small instance
+hour month
+elastic block store ebs
+storage
+per requests
+computing nodes
+shared cpu ram
+hour month
+core ram
+hour month
+amazon
+standard demand instances
+aws
+microsoft
+azure
+storage
+per operations
+sql azure database
+hour month
+hour month
+source amazon google microsoft
+cloud providers like
+utility providers are large
+companies operating
+significant scale
+cloud providers like utility providers are large companies operating
+significant scale serving small users well giant corporations aggregate
+demand can then amortized over this highly scalable infrastructure and
+sold back the user much lower per unit resource cost than users
+could provide themselves
+cloud computing
+commonly delineated
+into three layers
+cloud computing commonly delineated into three layers infrastructure
+service iaas platform service paas and software service
+saas include brief definitions
+iaas can thought management model how computing
+storage and memory resources are allocated applications based
+demand from users over the internet
+paas development model which defines how software developers
+design and build applications that access and make use the computing
+resources managed the underlying iaas layer paas typically offers
+software developers common services such user authentication and
+database access designed enable written applications take advantage
+the scalability and resilience the underlying infrastructure
+saas delivery model that defines how software written developers
+using the paas layer made available users over the internet users
+typically only require internet connection and web browser access
+saas based applications and saas often associated with subscriptionbased economic model
+cloud computing poised
+become part
+societies critical
+infrastructure
+cloud computing become critical social infrastructure
+cloud computing poised become part societies critical infrastructure
+increasingly dominant means through which the world computational
+demands are met will approach the level economic critical dependency
+electricity gas water and telephony
+these utility like characteristics create incentives for national governments
+search for regulatory frameworks that approach cloud services critical
+national infrastructure this particularly important for non governments
+since the major global services providers are american and hence subject also
+american regulations and rules
+january
+clsau
+blue books
+section bracing for disruption
+for providers cloud
+services are competitive
+propositions that differ
+from utilities
+for providers cloud services are competitive propositions
+the competitiveness the cloud computing service provision critically depends
+the providers ability build out capacity scale far greater than any
+individual user firm could afford for providers cloud services are not
+utilities they are competitive propositions that differ from utilities several
+important ways and providers would certainly resist being regulated
+utilities
+first cloud providers not want offer commodities goods offering
+little value add that are interchangeable with others and which compete
+primarily the basis price cloud providers are competing valuebased differentiation attributes such service level and functionality
+second cloud providers not enjoy inherent geographic lock users
+public utility providers are granted local monopolies but cloud services are
+not geographically bound therefore cloud providers face pressure create
+their own service level lock mechanisms these may include proprietary
+software components such platform service layer specific
+characteristics tailored for vertical industry regulatory requirements
+third
+the actual data bits delivered cloud services are not
+interchangeable the manner electrons molecules traditional
+utilities the bits combine into quite different uses some which are
+mission critical and some which are more casual users care great
+deal about the whereabouts the bits carrying sensitive personal
+mission critical corporate data but far less about the location the
+constituent bits photo video
+datacenters are not inherently tied specific locations close the markets
+they serve other factors such real estate electricity and access
+network infrastructure matter greatly siting decisions
+unlike traditional utilities
+cloud services are
+uniquely and dynamically
+configured
+arguably the biggest difference between cloud services and traditional
+utilities lies the degree which cloud services are uniquely and
+dynamically configured the needs each application and class user
+cloud services are built from common set building blocks but unlike the
+electricity provider cloud providers configure them unique ways for each
+specific application for example the building block configuration for global
+public email system differs from airline reservation system
+simultaneously
+innovation ecosystem
+production environment
+and marketplace
+why cloud computing uniquely new
+contend that cloud computing uniquely new simultaneously being
+innovation ecosystem production environment and marketplace despite
+many technologies and concepts underlying cloud computing such
+virtualization and applications residing remote servers not being new
+figure
+characteristics cloud computing
+innovation
+production
+marketplace
+lowers the bar for new entrants
+scale enables lower operating costs
+provides global reach for applications
+facilitates experimentation
+highly efficient management and upgrades
+ability scale user base rapidly
+lower capital outlays for startups
+provides the building blocks for new systems
+enables multisourcing mechanical turk
+enterprises use cloud handle demand
+bursts
+supports new businesses dropbox netflix
+streaming foursquare
+facilitates crowdsourcing kickstarter
+improves allocation efficiency internal
+resources
+source john zysman jonathan murray kenji kushida
+clsau
+january
+section bracing for disruption
+blue books
+cloud computing reduces
+the capital needed
+for innovation
+cloud computing feeds the innovation ecosystem lowering the bar for new
+entrants and facilitating experimentation most startup firms longer require
+substantial capital outlays build ict capabilities they can rapidly scale
+scale down operations needed and they can experiment with highly
+computing intensive tasks cloud based tools further lower startup costs larger
+enterprises with pre existing datacenters can also utilize cloud resources for
+bursts computing capacity for experimentation within their own datacenters
+cloud computing style architectures increase allocation efficiency internal
+resources the extent possible with their corporate organization
+setting new baseline
+for performance
+cloud computing becoming the baseline for efficiency and functionality for
+firms infrastructure global cloud providers scale enables far lower total
+operating costs than consumers own infrastructure since cloud providers can
+upgrade services real time users not incur costly infrastructure
+upgrades this accelerates the implementation new technologies the
+detriment those that not adopt cloud services
+moving from development
+production
+cloud computing also quickly becoming production environment are
+now era when services are best considered part production
+systems are built which then deliver services via networks cloud services
+including raw storage and processing power and platform level tools provide
+the building blocks for creating systems for example dropbox popular filesynchronization and storage service and netflix video streaming service
+both use amazon cloud infrastructure google and microsoft powerful
+developer tools enable the ability automatically generate cloud based
+services and applications
+cloud services become
+global marketplaces
+for innovators
+cloud services extend the innovation platforms worldwide becoming
+marketplaces with global reach this accentuated the spread apps for
+smartphones tablets and browsers putting within reach powerful building
+blocks tools and entire ecosystems third party tools anywhere with
+internet connection phil libin ceo evernote popular note taking and
+archiving software service founded with more than million users
+three years and having raised over million venture capital made
+the following point his first two software startups distribution was major
+issue particularly for overseas markets however with the advent app
+stores this was longer issue and their ability reach users all over
+the world receive feedback even led dedicated user sweden who
+offered become investor out the blue just when the company was
+struggling its initial startup phase
+cloud computing enables
+distributed forms
+sourcing and
+collaboration
+cloud computing also enables distributed forms sourcing and collaboration
+amazon mechanical turk and startups like taskrabbit create marketplace
+where companies and consumers post jobs that anyone can bid anything
+from computer programming picking dry cleaning crowd funding has
+also been seeing surge with kickstarter helping raise over billion
+date fund projects that include business and creative ventures
+benefits for advanced
+industrial and developing
+countries
+for advanced industrial countries cloud computing provides new
+opportunities for innovation and entrepreneurship and promises substantial
+efficiency gains for developing countries cloud services open new
+january
+phil libin ceo evernote his keynote speech jannovation jam sunnyvale california august
+clsau
+section bracing for disruption
+blue books
+possibilities enter international markets and find niches global value
+networks with the previous computing platforms mainframes pcs and
+networks pcs cloud computing becoming baseline for national and
+corporate infrastructure against which other forms infrastructure and
+service delivery must measured
+risks attach network
+availability and regulatory
+context
+there are course still unresolved questions and potential risks associated
+with cloud computing services business resumption strategies the event
+catastrophic failure though unlikely the cloud providers services for
+example while many larger firms will choose retain some premise
+capacity smaller firms may not have that luxury becoming entirely
+dependent one more cloud providers cloud service reliability also
+critically depends the network service provision network cloud
+this raises serious implications about different national contexts with
+different regulatory regimes governing who can provide network
+infrastructure and the rules under which they operate
+clsau
+january
+blue books
+section driving disruptive impact
+cloud computing
+commoditizes large scale
+computing
+driving disruptive impact
+the unbundled software and hardware leading vendors pursued
+different paths escape commoditization embedding business logic and
+offering high end customized solutions cloud computing disintegrates the
+vertical stacks further commoditizing the physical layers more radical form
+disruption results from decoupling business logic from the database and
+infrastructure software further undermining vendor lock in
+disruptor and driver commoditization
+cloud computing poised major disruptor not only for companies that
+are currently providers the industry but also for wide range users
+for providers cloud computing commoditizes large portion computing
+activity that had been offered custom basis
+for users cloud computing democratizes large scale computing enabling
+even the smallest users access large scale computing capacity this
+creates the possibility disruptions all sorts user industries
+the evolution computing paradigms
+the early era computing all the layers the stacks were vertically
+integrated purchasing ibm mainframe meant that you would using
+ibm operating system and software they were interlocking components
+system that could not broken apart
+the era unbundled
+vertical integration
+layers began compete
+the advent the era occurred with the unbundling this vertical
+integration and the decoupling between software and hardware layers with
+the unbundling vertical integration each layer became marketplace with
+different sets competitive logic the itself fragmented into its
+constituent components such memory processors and hard disks linked
+standard interfaces competition developed each the components
+and value moved away from the final assembly which became increasingly
+commoditized processors which intel dominated became the area within
+the physical infrastructure that retained value
+the era wintelism
+commoditized everything
+else
+the decoupling between software and hardware occurred new logic
+competition took hold the operating system microsoft windows emerging
+its own platform layer platform windows provided common set
+application protocol interfaces apis that freed software providers from
+writing the code control specific basic hardware functions such
+accessing memory and storage file systems the software would work any
+machine that would run windows regardless who made the components
+the underlying long had intel processor and could run
+windows windows quickly became dominant following the principle
+positive feedback loop which the more users adopted windows the more
+valuable became platform for future users
+the vertically unbundled and software hardware decoupled era
+microsoft and intel captured disproportionate amount value from the
+rapidly commoditizing pcs microsoft licensed windows and built
+ecosystem software application that required windows function and
+within the although almost all other components could assembled from
+any number manufacturers the intel processor architecture was necessary
+january
+clsau
+section driving disruptive impact
+blue books
+run windows enabling intel avoid commoditization well have
+called this era wintelism since much the value has been captured
+windows and intel with everything else rapidly commoditizing
+unbundling vertically
+integrated systems
+allowed the software
+industry emerge
+major outgrowth the unbundling vertically integrated systems was the
+emergence software discrete industry independent from hardware
+microsoft prevailed over independent competitors personal productivity
+applications such lotus and wordperfect integrating disparate
+spreadsheets and word processing applications into suite notable that
+the independent competitors that failed also lacked the leverage that
+offered microsoft
+despite the failures alternative and productivity application providers
+sustain meaningful share against dominant microsoft note that the
+software industry has seen independent application and infrastructure
+companies prosper and thrive scale the heyday the wintelist era from
+the mid through the late coincided with the time that apple was
+reduced niche player apple did not decouple its hardware and operating
+system and became increasingly reliant microsoft productivity suite
+the its comeback from the late after steve jobs returned
+however was fueled its control over both hardware and operating
+systems
+one path for escaping
+commoditization was
+high end enterprise class
+solutions
+consequence
+client server then multitier architecture was
+growing complexity
+high end custom path escape commoditization
+corporate computing quickly moved embrace commoditized wintel pcs
+one path escape commoditization was provide high end large
+enterprise size solutions that provided custom functionality ibm was the
+most notable firm evolve into this form selling its hardware bundling
+with the services delivered shift from selling hardware servers with
+built functionality integrators found value vertically integrating the
+different layers the stacks infrastructure platforms and applications
+custom package for the user firm charging millions dollars upfront for
+implementation they were therefore responsible for building and operating
+corporate datacenters with the corporate applications provide functionality
+consequence the rise client server then multi tier architecture was
+the growing complexity and overwhelming plethora choices facing business
+users every layer the stack database middleware application
+server and application vibrant competition helped reinforce the prima facie
+appeal best breed strategy that integrators possessed the
+specialized insight and expertise necessary source and implement key
+software projects drove massive expenditures for customized solutions
+tailed their clients unique needs this approach proved highly lucrative for
+the first generation enterprise resource management erp supply chain
+and customer relationship management crm applications but over time
+the burdens cost and maintenance have eroded the value proposition
+borrus michael and john zysman globalization with borders industry and innovation
+clsau
+january
+section driving disruptive impact
+high end equipment
+another path avert
+commodification
+blue books
+avoiding commodification embedding business logic
+another path was provide high end equipment enterprise class users
+such sun microsystem servers and cisco systems routers software
+solutions that had highly customized built functionality that could not
+separated into constituent elements such oracle enterprise solutions
+which oracle financials could not separated out from oracle database
+this strategy can characterized avoiding commodification embedding
+business logic into the offering
+figure
+the layering
+technology giving
+way the layering
+function
+evolution stacks
+source harikrish net
+vertical integration
+appeal evidenced with
+growth hardware
+software appliances
+the appeal vertical integration increasingly apparent with the emphasis
+high end engineered systems and hardware software appliances
+appliances saw increased prevalence delivery medium over the past
+decade most notably network security where the integrated approach
+offered hardened and system optimized for high performance and
+throughput the appeal extended data warehouse appliances and gained
+momentum following oracle acquisition sun
+oracle exadata systems combined server storage and networking hardware
+integrated and optimized with database and subsequently middleware and
+analytics tools these systems were initially targeted general purpose
+database and hardware system support both transactional applications and
+data warehousing scenarios over time the company strategy reflected
+integration the stack into middleware exalogic and analytics exalytics
+ibm pure systems take modular approach towards providing systems with
+components optimized specific applications oracle hardware business
+encapsulates this dynamic the commodity storage and intel based server
+businesses tail off the company focused driving growth from high end
+engineered systems offset its declining revenue streams
+the physical
+infrastructure itself
+becoming unbundled from
+the platform layer
+january
+disintegrating the vertical stack
+with the advent cloud computing further more radical type vertical
+disintegration and commoditization occurring the physical infrastructure
+itself becoming unbundled from platform layer entirely new degree
+the disruptive implication this that offerings lower layers the stack
+such storage networking and even databases are becoming commoditized
+clsau
+blue books
+section driving disruptive impact
+more than ever before value added management controls embedded
+storage networking databases that optimize their resources and allow
+providers charge premiums are falling the wayside value moves
+upwards the stacks
+figure
+value moves stacks
+application
+value
+value migrates from
+infrastructure platform
+application
+platform
+infrastructure
+source jonathan murray murray first law platform economics
+users cloud based
+applications don care
+where hardware what
+what running
+first let look disintegration taking single user example then the
+context corporate computing the era you might not care who made
+your hardware long your operating system worked but your copy the
+operating system was tied specific computer with the advent cloud
+computing for applications built top cloud computing infrastructure
+you don care where your hardware what what running the
+functionality delivered you usually through web browser
+commoditization erodes
+advantages highperformance machines
+user you really don care where how the backend servers your
+gmail google docs microsoft dropbox netflix services are running
+start service you can simply rent capacity from amazon the
+corporate context clear how value the stack moving towards
+applications and business logic commoditizing the lower infrastructure layers
+there less advantage
+for users buy individual
+high performance
+machines
+google was the first
+paradigm shifter using
+cheap off the shelf
+computers
+disrupting the infrastructure layer
+let take the infrastructure layer which encompasses networking storage
+servers and software for management and security will start with servers
+firms offering high end high performance servers such sun microsystems
+were once the darlings silicon valley their fast and powerful servers gave
+users requiring massive computing power competitive edge however with
+the advent cloud computing there much less advantage for users buy
+individual high performance machines with high price premiums
+google was the first paradigm shifter using cheap off the shelf computers
+rather than high end servers build datacenters its approach was that
+higher hardware failure rates could built into the parameters its
+software design with the ability for databases and other tasks
+distributed among large numbers physical hardware unaffected failures
+particular hardware performance came from the algorithms for distributing
+the tasks rather than the performance the hardware itself this approach
+for excellent overview the google approach see levy steven the plex how google thinks
+works and shapes our lives simon schuster hardcover new york simon schuster
+see also barroso luiz andr and urs lzle the datacenter computer introduction the
+design warehouse scale machines san rafael calif morgan claypool
+clsau
+january
+section driving disruptive impact
+blue books
+enabled google offer gmail initially with gigabyte storage
+doubling year later time when microsoft hotmail offered
+megabytes and yahoo mail was times and times
+respectively the amount their competitors capacity though initially
+limited number users put simply this was the first big step physical
+infrastructure servers becoming unbundled and commoditized
+cisco under pressure
+networking becomes
+commoditized
+cisco also facing threats networking hardware becomes commoditized
+investment building out the internet took off the mid cisco
+systems became enormously successful providing networking equipment
+dominated global markets for internet backbone equipment and was
+strong presence large corporate networking solutions the physical need
+for routers connect datacenters servers and machines each other and
+the internet gave cisco and its competitor juniper networks opportunities
+the networking portion the infrastructure layers
+cheaper commodity
+hardware can replace
+both proprietary server
+and network hardware
+recently cisco under unprecedented level pressure because its highend networking infrastructure solutions are increasingly achievable through
+software vmware acquisition nicira software defined networking
+technology raised concerns that networking routers and switches could face
+disruption analogous the impact virtualization the server market the
+parallels are not exact however under utilization and overcapacity nonvirtualized servers were prime target for cost reduction nonetheless cheaper
+commodity hardware can replace both proprietary server and network
+hardware for example major user equipment that currently the
+process revamping its entire infrastructure found that tier seattlebased company was able match cisco high end hardware based
+networking solution through software importantly far lower price
+management capabilities
+evolve the stack
+commoditizing
+components
+value moves from infrastructure the platform
+management functions within software are increasingly migrating the
+platform rather than being encapsulated individual components
+datacenters whether storage networking databases this drives
+commoditization the components
+take databases for example which the simplest level are comprised the
+database itself business logic that manages the database and the user
+experience these three used integrally tied together oracle for
+example its offerings does not let you decouple oracle financials from
+oracle database oracle therefore embedding great deal management
+logic into its database offerings
+cloud reduces ways
+lock customers
+january
+cloud platforms accelerate commoditization the database
+however with the advent cloud based platforms rapidly becoming
+possible procure just pure database offering without any management
+logic embedded the database the management logic taken care
+the platform level managed through open api the database from the
+user vantage you can manage multiple resources through the platform
+with multiple components open the api level control from the platform
+therefore user you want standalone components that can mixed and
+matched with the possibility migration from one another your financial
+system will not coupled with particular storage engine and either can
+moved new provider from the perspective the providers this
+increases the pressures commoditization since there are far fewer ways
+lock customers their offering
+clsau
+blue books
+section driving disruptive impact
+stored procedures are
+what lock users into
+particular databases
+eroding stored procedures role vendor lock
+current business reality businesses all layers have some business
+logic each layer including the lower layers such stored procedures
+databases but these stored procedures are what lock users into particular
+databases the initial rationale for such stored procedures was for
+performance optimization and security however performance now
+optimized the cloud computing economics abundance which you can
+simply allocate more computing resources rather than pursue customized
+performance database
+users the leading edge are pushing database commoditization
+cutting edge lead users that are adopting cloud computing solutions
+major scale are beginning move towards not allowing any stored
+procedures the database instead forcing the database controlled only
+the platform layer through open api the implications are that those
+providing business functionality the package and charging premium prices
+will face different kind competition
+figure
+pre cloud era value cloud model commoditization
+management
+logic
+offering
+database
+server router
+etc
+cloud model
+platform
+includes management logic
+offering
+database
+server
+router etc
+offering
+database
+server
+router etc
+commoditized
+pre cloud era
+integrated offering
+leading edge users are
+freeing stored procedures
+from underlying database
+source john zysman jonathan murray kenji kushida
+disruption forces leaders
+like vmware compete
+with themselves
+this disruption pervasive that even affects some the frontrunners
+quite recent disruptions there such tension created that firm may choose
+compete with itself vmware for example vmware company that
+provided virtualization layer software that enabled the underlying
+physical infrastructure abstracted from the layers above late july
+purchased nicira company that provides software based network
+virtualization however vmware owned emc which operates many
+the virtualized datacenter component offerings such storage these are
+exactly the areas that vmware helping commoditize rapidly
+the leading technology vendors are forced compete against themselves
+order mitigate the disruptive impact the transition the cloud oracle
+has launched both private and public cloud and has been acquiring
+software service vendors aggressively such rightnow and taleo
+order stave off customer defections cloud based competition microsoft
+launch and windows azure provide cloud based alternatives
+productivity suites database middleware and server offerings while ibm
+similarly investing its own hybrid cloud offerings
+clsau
+january
+blue books
+section driving disruptive impact
+new uses technology lead the disruption
+disruptions are about the
+experimentation lead
+users and their new uses
+the broader point that need make here that disruptions are almost
+never just about the introduction new technologies equipment rather
+they are about the experimentation lead users and the new uses which
+they put the new technologies
+took almost years
+for electrification yield
+major productivity gains
+for example the case electricity took almost years for
+electrification yield major productivity gains this was because the factories
+were initially set according the logic steam engines the machines
+were connected centrally located steam engine with system belts
+the first electronic motors simply replaced the steam engine only after the
+factories were reconfigured with machines placed according the logic
+production rather than the previous logic steam power did productivity
+gains skyrocket
+cloud computing the
+industrialization
+likewise the earliest computers were simply replacements for calculators
+only after innovative lead users installed them solve one set problems performing large numbers calculations quickly did they discover new
+uses airlines for example installed them handle reservation systems but
+then discovered they could manage and adjust routes based reservation
+information with the advent databases computers transformed from
+powerful calculators what if machines that could calculate probabilities
+and contingencies cloud computing the next stage this evolution
+production
+see cohen stephen john zysman and bradford delong tools for thought what new and
+important about the conomy http brie berkeley edu publications pdf
+january
+clsau
+section battle lines square off
+four sets firms the
+ecosystem each with
+different competitive
+dynamics
+blue books
+battle lines square off
+provision the cloud involves four different sets firms the ecosystem
+each with different competitive dynamics cloud service providers connectors
+network providers device providers and arms suppliers for service
+providers global scale advantage but regulations offer openings for
+localized providers the starting points amazon microsoft google
+salesforce and apple each define their strategies network providers
+must seek higher value avoid commoditization arms suppliers intel cisco
+and oracle must adjust strategies address the cloud existential threats
+their core businesses
+consider each set firms separately since the logic competition differs
+cloud service providers
+competitive game
+winning the user
+cloud service providers create configure run and distribute services
+network providers are
+politically powerful actors
+engaged the
+search for value
+connectors network providers offer access networks distribute
+providers access
+devices are engaged
+the device wars
+device providers offer the access devices such smartphones tablets
+arms suppliers are facing
+commoditization trap
+from their cloud datacenters major cloud providers such microsoft
+google amazon salesforce and plethora smaller players are
+vying for consumers firms and developers with ever widening and
+overlapping set service offerings the competitive game winning the
+user
+cloud services from the cloud providers access devices firms such
+and verizon face the serious threat becoming commoditized
+global scale cloud service providers are building their own networks and
+new access devices place ever increasing demands network bandwidth
+and infrastructure they are politically powerful actors however engaged
+the search for value
+and pcs through which users access cloud services new generation
+devices and the operating systems which they run are pitted against
+each other with contrasting business models these are the device wars
+arms
+suppliers provide the equipment and infrastructure for cloud
+providers and connectors provide and deliver cloud services firms such
+cisco for networking equipment and oracle for databases are facing
+commoditization trap their hardware functionality moving
+software and value added functionality moving into the cloud providers
+platforms
+can put each these players onto our technology stacks introduced
+earlier get figure this will help sort through their competitive
+positions
+clsau
+january
+blue books
+section battle lines square off
+figure
+competitive framework for providers
+provider type network provider
+access networks
+cloud provider
+cloud datacenter
+the device
+wars
+the search for
+network value
+winning the
+user
+platform
+application
+device provider
+access devices
+infrastucture
+architecture layer
+how view the
+competitive dynamics
+around cloud providers
+source john zysman jonathan murray kenji kushida
+cloud service providers winning the user
+for cloud service providers there are few big questions that will shape the
+industry global scale
+will global scale dominate there room for firms that principally offer
+local and more limited local deployments
+will provider strategies limited where they started
+the answers these questions are not simply matter market dynamics
+they also involve government policies that differ significantly around the world
+scale offers advantages point
+major question for the cloud provider industry whether the logic global
+scale will dominate whether there room for local scale players carve
+out sustained market shares
+only handful
+companies can spend
+datacenters
+first glance seems obvious yes global scale will prevail only handful
+companies can invest numerous datacenters that exceed million
+per datacenter google and microsoft are also aggressively purchasing
+physical networks enhance their services and lower operating costs the
+degree which they can provide the illusion infinite resources for instant
+scalability and offer platforms that take advantage their databases storage
+and other resources cannot matched smaller players
+country regulatory
+requirements may benefit
+smaller local players
+however when taking into consideration the importance regulatory
+requirements and structures around the world along with the fact that the
+largest global cloud providers are american firms the answer becomes less
+january
+clsau
+section battle lines square off
+blue books
+obvious regulatory structures may provide room for smaller players with
+national regional deployments the very nature global cloud services
+which the location data not inherently related national borders
+provides potentially strong disincentives for users particularly large
+corporate and government users from putting data them
+government
+regulations can challenge
+global cloud providers
+the specter the patriot act which allows the government access
+not only data that pass through the usa but also all data owned all
+multinational companies with presence create serious concerns data
+held amazon google and microsoft for example could seized
+government concerned terrorist threats indeed the quick response
+amazon jettison wikileaks from using its storage service was likely
+attempt avoid potential government seizure some its data
+data storage regulations
+particularly europe
+can provide room for
+local providers
+regulations particularly europe stipulating that certain types data must
+stored domestically can provide room for local storage providers some
+cases for large corporate users the slogan our data are subject the
+patriot act may enough win particular market niche
+local regional players
+are unlikely have the
+capabilities move into
+areas higher value
+the challenge for local regional players however that they are unlikely
+have the capabilities for moving into areas higher value namely
+platforms yet even though they face pressures for commoditization the
+regulatory structures stipulating that certain types data functions remain
+the domestic market corporate preferences keep particular functions
+and data within national borders will protect them from pure commodity
+price competition against the global scale providers
+deutsche telekom for example marketed its cloud storage service being
+free from the patriot act and therefore more secure for large enterprises
+japan ntt data also provides the datacenters store the key databases for
+large users salesforce com services platform such japan post the
+postal service
+one can pose this question the other way around does the fact that globalscale cloud providers operate global scale limit their ability serve
+particular reasonably large markets this would imply that the logic global
+cloud services provision not worldwide winner takes all market that
+the benefits from low cost achieved economies scale would only reach
+certain point before tapering off would allow myriad local smaller
+players with offerings tailored local regulatory and possibly social and
+political conditions carve sustained niches given the disruptions
+existing players business models brought the cloud the question who
+will the incumbent players such telcos and systems integrators that
+successfully carve this niche and which niche will for example some
+may specialize healthcare data storage and analytical tools while others
+focus finance serving the government
+the past few years court cases revealed some concerns for example the fbi used the stored
+communications act access person email without warrant his consent and the court was
+unable determine whether they were subject any expectation privacy another event the fbi
+raided and seized servers from two texas datacenters with search and seizure warrants for wide range
+equipment however included the equipment seized were servers that had data large number
+clients unrelated the investigation the district court sided with the fbi major question whether
+the fourth amendment which protects against unreasonable searches and seizures applied data held
+cloud providers this has yet directly tested courts see james urquhart does the fourth
+amendment cover the cloud wisdom the clouds david couillard defogging the
+cloud applying fourth amendment principles evolving privacy expectations cloud computing
+minnesota law review
+clsau
+january
+section battle lines square off
+blue books
+figure
+representative regulations affecting cloud data deployment
+regulation
+country
+description
+implications for cloud deployment
+health insurance
+portability and
+accountability act
+hipaa
+usa
+establishes standards for electronic healthcare
+transactions and encourages electronic data
+storage healthcare information
+health related data are stored the cloud controls
+must established ensure compliance and
+security violators are subject major fines
+sarbanes oxley
+sox
+usa
+requires management certify accuracy
+financial information
+financial data are stored the cloud controls must
+established ensure compliance and security
+management subject fines imprisonment for
+violations
+gram leachbliley act
+usa
+requires that financial information properly
+safeguarded and completely destroyed upon
+disposal
+financial data are stored the cloud controls must
+established ensure compliance and security
+board directors subject punishment for
+violations
+breach
+notification
+usa
+requires notification residents any breach
+computing system possessing personal
+information
+cloud provider security breached all
+enterprise clients must notified and service must
+suspended until compliance restored
+data protection
+directive
+regulates how personal data may processed
+shared stored and accessed within the
+personal data cannot transferred outside
+countries not safe list including the
+usa
+data stored the cloud that contains personal
+information residents must meet series
+security requirements before transfer outside the
+can permitted
+data protection
+act
+defines lawful purposes for personal data
+collection and provides means for individuals
+control information about themselves
+personal data cannot transferred states outside
+the unless they are deemed possess
+adequate security framework enterprises are
+responsible for securing their data even storage
+transferred the cloud
+data protection
+act
+france
+established the french data protection authority
+cnil which enforces privacy standards
+stipulated the law cnil has the power
+investigate any instance data collection
+occurring france consent data subjects
+required before processing personal data
+personal data cannot transferred states outside
+the unless they are deemed possess
+adequate security framework
+amendment
+data protection
+act
+france
+increases the authority cnil and establishes
+additional sanctions for breaches the law
+personal data cannot transferred states outside
+the unless they are deemed possess
+adequate security framework
+personal
+information
+protection act
+japan
+applies entities that access store personal
+information more individuals
+consent must given before personal information
+can transferred third party such cloud
+provider
+source sans institute technet infolawgroup mdb avocat ibm
+attacking the market
+from different angles
+how will starting points limit their strategies
+today cloud offerings emerged from major providers infrastructures for core
+businesses amazon online retailing google search and advertising
+microsoft global web email and small business services and
+salesforce online crm these firms shared the challenge
+delivering continuously reliable responsive service global scale and
+low cost their distinct technology infrastructure starting points and
+http technet microsoft magazine aspx
+http sans org reading_room whitepapers legal overview sarbanes oxley information http mdb avocat index php
+http infolawgroup articles breach notice legal implications cloud computing part fiveethics why all lawyers not just technogeek lawyers like should care about data security
+ibm developerworks mydeveloperworks blogs cloudcomputing entry eu_data_protecti
+on_directive_and_cloud_computing lang
+january
+clsau
+blue books
+section battle lines square off
+development trajectories led set common cloud services with quite
+distinct technical implementations they compete the basis these
+differences implementation note that all are moving towards the platform
+layer including operating systems and paas
+amazon pioneered
+infrastructure cloud
+services
+amazon has continued
+build out from its iaas
+roots higher layers
+within cloud datacenter
+amazon
+the company pioneered infrastructure cloud services initially out its
+needs serve retail demand peaks amazon prioritized building
+infrastructure capacity comfortably handle the peak christmas holiday
+season monetize the idle capacity for the rest the year introduced
+amazon elastic compute cloud service amazon rapid
+success with and data storage service opened entirely new
+cloud computing business for the company moving well beyond excess
+capacity from retail now drives substantial new investments datacenters
+and services
+amazon has continued build out from its infrastructure service roots
+higher layers within cloud datacenter and across into access networks see
+figure amazon introduced cloudfront content delivery
+network cdn service cdn distributes copies commonly requested
+information across several geographically dispersed datacenters accelerating
+response times
+figure
+amazon strategy
+provider type network provider
+access networks
+cloud provider
+cloud datacenter
+cloudfront
+elastic beanstalk
+amazon app store
+customized
+android
+infrastucture
+platform
+application
+device provider
+access devices
+architecture layer
+amazon plays the
+infrastructure and
+platform layers but not
+yet applications
+kindle fire
+vpc
+source john zysman jonathan murray kenji kushida
+this section draws heavily from the gathering storm analyzing the cloud computing ecosystem and
+implications for public policy march kenji kushida jonathan murray and john zysman
+clsau
+january
+section battle lines square off
+blue books
+amazon major datacenter locations outside the usa included the
+ireland netherlands and germany europe and singapore and japan
+asia amazon strengthened its offerings enterprises with its virtual
+private cloud vpc service which facilitates linking users legacy system
+and new cloud based services
+increasing competition the iaas layer from smaller firms including
+rackspace cloudsigma and others intensifies cost pressures from the top
+google and microsoft are also broadening their software service and
+paas offerings expanding into iaas amazon elastic beanstalk paas
+was direct response aiming facilitate developer ecosystem for
+complex cloud applications pitting amazon squarely against google and
+microsoft for cloud application developers amazon increasingly seeking
+target higher valued solutions with the announcement the pending
+redshift data warehouse service
+key tenet amazon
+cloud strategy targets
+startups and
+departmental users
+the drive reduce costs
+and increase flexibility led
+microsoft develop its
+cloud services platform
+key tenet amazon cloud strategy targets startups and departmental users
+amazon has become the facto standard for internet startups including
+foursquare and pinterest its foray into access devices began with its kindle ebook reader first introduced late tightly integrated into its online
+bookstore offered tablet the kindle fire with proprietary
+customized version the android operating system modified amazon
+capable web browsing with the proprietary silk browser streaming video and
+running apps amazon runs its own app store and integrates the video streaming
+with its streaming video online store which utilizes its own iaas infrastructure
+microsoft
+microsoft moving into almost all areas cloud services its need
+decrease cost and increase scale its often free online services such
+hotmail and msn messenger which predate any conception cloud
+computing five years catalyzed its cloud strategy until recently
+these massively scalable services with several hundred million global users
+did not share common infrastructure inside microsoft the drive reduce
+operating costs and increase service flexibility led microsoft develop the
+underlying platform technologies for its current cloud service strategy
+microsoft has been the platform business since windows see figure
+windows azure
+significant change
+microsoft business
+model
+the early microsoft introduced new set platform technologies
+for web and internet based developers facing growing competitive
+pressure from google and amazon the company introduced its azure
+platform enabling developers build cloud based applications windows
+azure charges for consumption underlying computing storage and network
+resources per unit basis significant change microsoft business
+model since the company received one time payment for each sale
+windows without revenue streams from third party applications the new
+revenue streams part drive microsoft strategic emphasis the cloud
+microsoft also continues
+develop its saas suites
+microsoft also continues develop its saas suites such office and
+dynamics crm online both broaden its user audiences and defensive
+strategies retain existing customers migrating the cloud the company
+extending downwards the architecture stack introducing iaas supporting
+virtual machines windows azure that actually supports centos and suse
+linux guests also extending horizontally into network services providing
+cdn services for azure developers microsoft has invested billions dollars
+global cloud services datacenter infrastructure over locations worldwide
+january
+clsau
+blue books
+section battle lines square off
+figure
+microsoft has moved from
+platforms into
+infrastructure and
+applications
+microsoft strategy
+provider type network provider
+access networks
+application
+platform
+infrastucture
+architecture layer
+device provider
+access devices
+cloud provider
+cloud datacenter
+hotmail
+messenger
+office
+crm online
+windows store
+windows
+windows phone
+window azure
+cdn
+microsoft surface
+windows azure
+azure services
+source john zysman jonathan murray kenji kushida
+its dominance
+operating systems and
+applications faces
+pressure
+finally microsoft dominance operating systems and applications faces
+serious pressure with access devices that not run its operating systems most notably apple products and the plethora devices running google
+android microsoft was early categories such mobile phone operating
+systems and tablets running traditional windows but fell behind the
+competition the success its new attempts windows phone windows
+and the surfacert tablet remains unclear but they represent major
+departure microsoft strategy towards hardware introducing its own
+tablet the surface the company shifted away from its wintel strategy
+leaving hardware third party providers its windows phone offering
+close partnership with troubled mobile handset manufacturer nokia but there
+have been speculation microsoft preparing its own smartphone microsoft
+mobile operating system windows designed run arm architecture
+used tablets some point the potential disruption this may cause firms
+such intel since large number cheaper arm servers may provide
+higher price performance than smaller number more costly inteldesigned processors new twist commodifying hardware terms
+apps microsoft launched its windows store the sole avenue for users
+download and deploy applications for windows the arm based
+microsoft emphasizes
+greater integration
+realize software plus
+services strategy
+the company increasingly emphasizes greater organizational integration
+across the disparate divisions realize software plus services strategy
+playing key role the extension the xbox brand beyond the gaming
+consoles and xbox live include music and other media content with
+kinect and the surfacert microsoft gradually expanding its
+footprint access devices which may topped off introducing branded
+smartphone well
+clsau
+january
+blue books
+section battle lines square off
+google now overlaps
+considerably with
+microsoft
+moving down the
+stack attract the clouddeveloper community
+google
+google though with different starting point now overlaps considerably with
+microsoft its range cloud services but with quite different business
+models its wild success monetizing search through advertising provided the
+capital experiment and expand the company massive investments into
+datacenters and access networks underpinning its search and advertising
+business provided the launch point for range additional cloud services
+google began with the introduction google apps which provided cloudbased alternative microsoft ubiquitous office applications see figure
+google apps are true cloud based applications delivered from google
+datacenters consumed via web browser with users files stored the cloud
+while originating consumer offerings google has moved quickly add
+features attract firms all sizes including large enterprises and
+governments google like microsoft moving down the stack attract the
+cloud developer community google introduced its app engine paas
+offering allowing developers leverage some the powerful underlying
+services google developed for its own search and advertising businesses
+figure
+google has aggressively
+built from application
+platform then devices
+google strategy
+provider type network provider
+access networks
+application
+platform
+license mgmt
+architecture layer
+device provider
+access devices
+cloud provider
+cloud datacenter
+search
+advertising
+gmail
+app suite
+android market
+google play
+android
+chrome
+app engine
+cdn
+nexus devices
+app engine
+google cloud sql
+source john zysman jonathan murray kenji kushida
+app engine more
+limited its
+configurability than azure
+and aws paas
+its app engine platform more limited its user configurability than paas
+services microsoft and amazon introduced iaas database
+service google cloud sql for use with google app engines remains
+seen whether google offers more generalized iaas services whether sees
+advantage with keeping the iaas element bundled with its app engines
+google released its android mobile operating system which moved
+firmly into the access devices stack from google began producing
+nexus branded handsets and tablets manufactured oem basis from
+firms such asus htc and samsung the first the line the
+january
+clsau
+blue books
+section battle lines square off
+nexusone smartphone google experimented offering new direct online
+retail channel decouple handsets from network provider channels though
+folded the store later that year google purchased motorola former
+mobile handset division motorola mobility for over billion historically its
+largest acquisition most likely secure the intellectual property underpinnings
+android and nexus devices google folded its android market into
+google play online store selling books magazines music and video
+salesforce pioneered
+the saas business model
+salesforce
+salesforce pioneered the saas business model was founded
+offering crm over the web with pay you fee structure dominant
+competitor products such from siebel systems cost several tens
+millions dollars for large customers and was largely driven the technical
+complexity integrating premise crm software with customers existing
+systems salesforce delivered the same functionality service avoiding
+premise implementations and was wildly successful
+figure
+salesforce moves from
+the app layer the
+platform layer
+salesforce com strategy
+provider type
+platform
+application
+network provider
+access networks
+cloud provider
+cloud datacenter
+saleforce
+appmarket
+force
+infrastucture
+architecture layer
+device provider
+access devices
+source john zysman jonathan murray kenji kushida
+seeing growing
+proportion its business
+from large enterprises
+salesforce crm was initially attractive smaller users offering low upfront
+costs and the ability quickly scale usage down the company soon
+expanded larger users grew functionality and seeing the proportion
+its business tilt increasingly towards large enterprises salesforce moved into
+platform business focusing its core crm services while encouraging the
+development supporting ecosystem software developers for specific
+industries and niche markets salesforce introduced its appexchange
+benioff and adler
+clsau
+january
+blue books
+section battle lines square off
+marketplace which provided marketing commerce and distribution service for
+third party developers extend the core crm application its success has
+taken time build momentum but has become major competitive strength
+offering rich portfolio third party applications
+with the acquisition
+heroku momentum
+paas has steady
+gained traction
+apple revolutionized
+access devices with
+its iphone and ipad
+saleforce formalized this platform with force figure
+which extended appmarket with set tools and lower level services for
+developers making easier develop applications for the salesforce
+ecosystem and for which salesforce would provide the hosting and
+distribution the force platform saw slower than expected adoption
+because the requirement for developers use the proprietary apex
+programming language attempt jumpstart appeal java developers
+through vmforce vmware joint venture quickly failed with the acquisition
+heroku leader multi language technology the company
+momentum paas has steadily gained traction thus salesforce like
+google and microsoft started the saas layer moving paas the
+company recently passed the billion annual revenue run rate making
+far the largest pure cloud computing applications and platform vendor
+apple
+apple now clearly major player the cloud ecosystem began
+revolutionizing access devices with its vertically integrated offerings iphone
+and ipad and tying them datacenter based services and content many
+apps whether news music certain types games initiate connection
+with cloud saas layer service which provides core content live
+information the app the user interface cloud service accessed through
+the internet and provided appstore large scale cloud service that
+leverages multiple layers the cloud datacenter access network and accessdevice stacks see figure
+figure
+now clearly major
+player the cloud
+ecosystem
+apple cloud service architecture
+provider type
+application
+network provider
+access networks
+cloud provider
+cloud datacenter
+platform
+icloud
+app store
+ios
+infrastucture
+architecture layer
+device provider
+access devices
+iphone
+ipad
+content
+distribution
+network
+app store catalog
+billing
+distribution
+services
+source john zysman jonathan murray kenji kushida
+january
+clsau
+section battle lines square off
+blue books
+apple unique using
+the cloud serve the
+needs its own vertically
+integrated ecosystem
+apple unique cloud provider using the cloud primarily serve the
+needs its own vertically integrated ecosystem the appstore not
+available for non apple devices and therefore other operating systems itunes
+also very large scale cloud service which enables you browse buy and
+download music and videos from multiple operating systems including
+windows
+apple has invested
+billions north
+carolina cloud datacenter
+apple revamped its mobileme service into icloud providing range
+cloud based capabilities including email music storage and device
+management offering closely tied its devices apple began its
+resurgence the late focusing the consumer market but the
+ipad and iphone are increasingly adopted corporate users apple has
+strengthened security measures its recent billion dollar investment
+north carolina cloud datacenter speaks loudly about its future ambitions
+for connectors the
+question whether they
+provide services beyond
+commodity pipes
+the question for connectors what extent they are replaced cloud
+providers and what potential value added services they can offer can they
+provide anything beyond the commodity pipes linking cloud service
+providers access devices
+network providers connectors
+traditional telcos are being squeezed both ends global scale cloud service
+providers like google and microsoft have already made considerably
+investments into infrastructure for example google ranked third
+worldwide the total volume internet traffic carried over its own private
+networks displacing verizon and sprint november google
+launched pilot the kansas city area for google fiber high speed
+internet service telcos such verizon have begun offering cloud storage
+services however these are the most quickly commoditized areas
+potential value added
+area for connectors
+content delivery
+networks
+cdns and mss value added service
+potential value added area for connectors that appeared relatively early
+the internet became mainstream the mid was the area content
+delivery networks cdn cdn distributes copies commonly requested
+information across several geographically dispersed datacenters accelerating
+response times compensate for network latency this was market that
+startup firm akamai dominated and traditional telcos were not quick move
+into the cloud datacenters become the locus activity with processes
+inside the datacenter taking the majority the value cdns are also under
+pressure for commoditization notably akamai developing version its
+own software enable service providers operate their own proprietary
+cdns and november announced its first major partnership with
+orange citrix acquired bytemobile pursue similar strategy akamai
+other value added services include managed security services mss and
+application hosting the mss market has undergone several rounds
+consolidation with connectors typically partnering with third party specialists
+white label security services
+labovitz craig atlas internet observatory annual report arbor networks the university
+michigan and merit network tech rep
+clsau
+january
+section battle lines square off
+the major telecom firms
+may use regulatory
+leverage outrun
+commoditization
+blue books
+telcos pursue strategies outrun commoditization
+the major telecom firms however are not simply sitting back die slowly
+their challenges are likely come from regulatory strategies utilizing their
+long history working closely with governments and many countries
+their origins state owned monopolies
+political debates over network neutrality various countries are prime
+example cloud providers argue for equal treatment all bits flowing through
+network providers networks but this commoditizes the latter network
+providers argue for deregulation enabling differential tariffs service levels
+depending the type data and cloud providers willingness pay
+incumbent telcos have
+also begun offering
+infrastructure services
+access devices have
+become intensely
+competitive battleground
+incumbent telcos have also begun offering infrastructure services terremark
+owned verizon offers virtualized datacenter capacity blocks
+resources and also focused enabling firms rely multiple cloud
+deployments
+access devices the device wars
+today access devices derive their lineage from computing equipment and
+they have become intensely competitive battleground winners will not
+only define end user experiences but may also shape the nature and success
+cloud services the direct lineage from pcs suggests the likelihood
+similar competitive battles the infrastructure layer over operating
+systems processors and hardware the platform layer for developers and
+the application layer for end user loyalty
+tablets smartphones and everything between
+the advent cloud service access has reshaped the nature hardware
+competition ever expanding category currently including traditional pcs
+netbooks smartphones and tablet devices such the apple ipad kindle
+fire microsoft surface and samsung galaxy tab manufacturers
+experiment with new form factors that serve various cloud enabled uses
+cloud access has
+reignited interest and
+reimagined the role for
+access devices
+apple control its
+products over all three
+layers architecture
+differentiates
+important reflect that both hardware and traditional mobile
+handsets were rapidly becoming commoditized the mid with new
+generation smartphones devices with cloud access spearheaded apple
+iphone and then the ipad which reignited interest and reimagined the
+role access devices below that surface aggressive competition for the
+central processing units cpus unfolding unlike pcs intel the
+underdog against multiple vendors producing processors based arm
+holdings architecture
+apple control the experience provides major differentiation
+apple control its products over all three layers architecture from
+device hardware platform user experience for both the iphone and ipad
+differentiates from other players the market and clearly factors its
+popularity others including and rim are discovering their positions
+untenable tablets due their choice weak platforms limited services
+operating systems well old battles from the era are playing out and
+again with the era dominant player this case microsoft the
+underdog google android and apple ios are battling for dominance and
+nokia adopted microsoft windows phone after abandoning its own
+january
+clsau
+blue books
+section battle lines square off
+figure
+comparing business models
+companies
+amazon
+apple
+google
+microsoft
+device oem strategy
+own
+own
+oem own
+oem own
+revenue streams
+commerce online store
+hardware cloud services aws
+hardware online
+store services
+advertising cloud
+services hardware
+licensing cloud services online
+store hardware advertising
+advertising
+some online store
+yes
+yes
+use proprietary data
+yes online store
+some icloud
+yes search ads
+yes
+proprietary content games
+yes xbox halo etc
+source john zysman jonathan murray kenji kushida
+multiple business models
+are vying for market
+share
+business models battle
+multiple platform business models are vying for market share apple ios
+operating system integrated into its devices only available apple
+products and apple takes revenue from third party apps microsoft offers pcstyle licensing with its operating system charging manufacturers per unit
+and has only recently expanded offering its own tablets google android
+contrast free and largely open source with google extracting value
+through increased penetration its cloud services and advertising revenue
+streams android based devices amazon subsidizes the price its kindle
+tablets with the expectation that consumers will purchase more books and
+other products
+for pcs microsoft dominance operating systems became policy issue
+the usa and europe microsoft bundling its internet explorer operating
+system into windows was the focal point antitrust action the cloudcomputing ecosystem policy issues may develop around linkages between
+operating systems and search while windows style domination
+unlikely the ability for google apple leverage dominant positions one
+market gain advantage another already causing regulatory scrutiny
+the app store platform
+layer service becoming
+the focal point
+competition
+another platform layer service becoming the focal point competition the
+appstore service with offerings from each major device and operatingsystem provider and even some network providers apple appstore google
+play and the windows store all offer apps built for their own platforms while
+amazon kindle include range android apps offerings entail cloud
+service browse applications commerce infrastructure distribution license
+management and update services this end end capability requires
+services each the device network and cloud layers can expect
+investments platform layer common services bound backend cloud
+services become major competitive point leverage for device
+providers
+content another area
+competitive focus
+content another area competitive focus although none own operate
+their own content like creation firms such film studios recording labels
+game software companies apple offers full range music media and
+ebooks google and amazon microsoft offerings are more fragmented
+with digital content offered through the xbox brand nascent joint venture
+with barnes noble around books and textbooks and course xbox
+gaming major point differentiation
+for more this see excellent paper kenney and pon kenney martin and bryan pon
+structuring the smartphone industry the mobile internet platform the key journal industry
+competition and trade
+clsau
+january
+section battle lines square off
+blue books
+arms suppliers
+arms suppliers face
+commoditization with
+software replacing
+hardware functions
+the core challenge facing arms suppliers the providers equipment for
+cloud service providers that their functionality rapidly being
+commoditized often with software solutions replacing and exceeding the kind
+performance previously only attainable through high end hardware there
+has been wave capital spending build out cloud computing
+infrastructure over the past few years and this expected continue for the
+medium term this has benefited holders industrial real estate particularly
+rural areas near sources cheap power other direct beneficiaries have
+included providers networking equipment servers virtualization and opensource software the industrialization datacenters commoditizes
+foundational technology from the bottom the urgency expanding
+capacity partly the result the explosive growth internet connected
+smartphones and tablets which gain significant power from linkage the
+cloud
+servers are becoming
+commodities
+high end unix servers have been the first give way commodity
+server farms google which built its datacenters from off the shelf parts
+the paradigmatic example servers are therefore becoming commodities why
+invest high end servers when you can get the same better
+functionality deploying cloud architecture for less powerful
+machines why not just buy however much capacity you need when you
+need accessing cloud provider that uses hundreds thousands
+machines their cloud datacenters
+why invest high end cisco juniper network equipment when the same
+functionality can provided through level software for far lower price
+why invest oracle system that contains management logic the
+database that prevents you from separating out different functions when you
+can put together database from storage from etc
+even the design
+datacenters and servers
+being open sourced
+and shared
+cloud computing infrastructure disruptive several levels virtualization
+improves hardware utilization and decouples workloads from physical
+hardware free open source software foundational the cloud often
+supplanting expensive proprietary software even the design datacenters
+and servers being open sourced and shared facebook has opened its
+designs through opencompute org where its cloud computing peers and
+enterprises can freely benefit from best practices
+it notable that leading
+cloud technologies are
+mostly open source
+notable aspect the evolution cloud stacks the software that enables
+infrastructure service that leading technologies are mostly open
+source openstack consortium roughly vendors spearheaded
+rackspace cloudstack purchased citrix and open sourced the apache
+foundation eucalpytus and amazon elastic beanstalk are open source
+vmware remains the proprietary enterprise standard for cloud infrastructure
+who does the cloud disrupt
+with the advent cloud computing and its disruptive potential many the
+ways that major firms such oracle cisco and intel earned their core
+revenue will disrupted
+january
+clsau
+section battle lines square off
+intel high margin and
+highly profitable market
+processors currently
+under serious threat
+for intel linux emerged
+additional and even
+potentially alternative
+platform microsoft
+blue books
+intel
+intel high margin and highly profitable market for server processors
+currently under serious threat from the arm processor architecture with
+microsoft decision create version windows designed run arm
+the wintel era may ending era armdows may dawning for
+years manufacturing semiconductor chips has been moving towards
+commodification the most significant threat intel has been that its
+processor architectures would become commoditized this was the threat
+faced amd emerged viable competitor
+for intel linux emerged additional and even potentially alternative
+platform microsoft significant merit was that linux was potentially
+controllable intel since was not under the control any single player
+this was not popular move with microsoft which began focusing more and
+more arm
+arm dominates tablet offerings from almost all device providers and intel
+has not been powerhouse this segment low margin low power highvolume chips intel most profitable business comes from its high end
+server targeted processors for which charges high premium leverages
+volume economics and rode microsoft growth enterprise software
+business its competitors such sun sparc and ibm power series were
+killed off
+the server market the wintel combination intel processors and
+microsoft windows server stack continues dominant idc reports that
+the third quarter intel servers running microsoft windows server
+operating system accounted for overall quarterly factory revenue the
+runner linux was
+low power highly
+efficient arm based
+servers could power cloud
+datacenters
+however the question what happens when arm efforts optimize
+processor design for server applications hits stride all likelihood with the
+windows server team engaged the process when these efforts mature and
+are combined with major shift enterprise scale computing towards cloud
+computing are likely see new generation low power highly
+efficient arm based servers power many the cloud datacenters
+microsoft worldview they will running some version microsoft
+operating system this will lead intel worst nightmare squeeze
+between the low end high volume low margin arm based processors and
+very attractive arm based value proposition for high end demand
+traditional middle market pcs will rapidly get commoditized more powerful
+low end devices and intel will left without the high volumes margins
+continue the high end
+intel challenge moving
+forward will avoid
+this worst case scenario
+intel challenge moving forward will avoid this worst case scenario and
+investors should have this picture mind when evaluating the company
+moves the near future
+this section drawn with updated data from jonathan murray analysis intel armageddon
+http adamalthus blog intels armageddon
+http idc getdoc jsp containerid
+clsau
+january
+section battle lines square off
+blue books
+cisco
+the internet was largely built cisco routers and enterprise scale
+datacenters deployed high end high performance cisco routers and switches
+however with the growth cloud datacenters and network virtualization
+facing serious commoditization challenge
+cisco faces challenges
+from cloud datacenters
+that forgo premium
+network equipment
+cisco began facing major challenge when the billion plus datacenters
+built the global cloud providers did not deploy premium cisco network
+equipment google for example built its own using chips from fulcrum later
+bought intel broadcom bought lower cost hardware from companies
+such arista networks more firms choose rely ever more heavily
+external cloud computing providers cisco will left out the most rapidly
+growing portion datacenter traffic short high end network equipment
+with intelligence embedded the hardware and offering performance for
+significant premium will have far less market presence
+network virtualization the second major force commodifying cisco
+premium offerings now just physical server infrastructure was virtualized
+into iaas offerings physical network infrastructure being virtualized with
+offerings such nicira network virtualization platform logical networking
+being decoupled from the physical networks performance attributes
+traditionally attained through hardware solutions are increasingly achieved
+through software known software defined networking
+the cto major lead user put today don care who makes the
+hard drives cpus and memory that cloud runs tomorrow not
+going care who makes routers and switches
+oracle faces world
+which computing power
+abundance can thrown
+raw databases
+oracle
+the relentless progression commoditization and unbundling combined with
+the emergence platforms poses serious threat oracle well are
+hearing from lead users that new degree modularity now possible with all the management and control functions the platform all they want
+from components such storage networking and databases exposed
+api allow the platform control them they not want management
+functions embedded the database since everything will controlled
+the platform layer once this happens databases become commoditized just
+the other infrastructure elements oracle offering optimized performance
+from world computing resource scarcity now faces world which
+computing power abundance can thrown raw databases moreover its
+offerings that are bundled such oracle database and oracle financials
+that cannot separated and are not offered distinct products will
+under pressure from modular components
+for all these three firms
+the pressure will
+coming from lead users
+for all these three firms the pressure will coming from lead users that are
+intense competition against one another utilize cloud computing
+resources not simply gain efficiency but strategic weapons see
+sea change demand patterns occurring successful lead users drive all
+their competitors adopt similar approaches the platform controlled
+enterprise fabric that emerging commoditizes all the inputs below the
+platform layer posing major disruption the suppliers hitherto some
+the most successful firms offering premium performance world
+computing power scarcity
+the world computing
+has shifted and the storm
+about hit
+the world computing has shifted and the storm about hit for user
+firms providers and arms suppliers only those that can ride the wave are
+facing into the storm have fighting chance
+january
+clsau
+important disclosures
+blue books
+analyst certification
+the analyst this report hereby certify that the views expressed this
+research report accurately reflect our own personal views about the
+securities and the issuers and that part our compensation was
+will directly indirectly related the specific recommendation
+views contained this research report
+important disclosures
+clsa which for the purpose this disclosure includes subsidiaries clsa
+and credit agricole securities asia tokyo branch credit agricole
+securities usa inc credit agricole securities usa policy only
+publish research that impartial independent clear fair and not
+misleading analysts may not receive compensation from the companies they
+cover
+regulations market practice some jurisdictions markets prescribe
+certain disclosures made for certain actual potential perceived
+conflicts interests relating research report below this research
+disclosure should read conjunction with the research disclaimer set
+out clsa disclaimer and the applicable regulation the
+concerned market where the analyst stationed and hence subject this
+research disclosure for your information only and does not constitute any
+recommendation representation warranty absence discloseable
+position should not taken endorsement the validity quality the
+research report recommendation
+neither analysts nor their household members associates may have
+financial interest officer director advisory board member
+companies covered the analyst unless disclosed herein unless specified
+otherwise clsa credit agricole securities usa did not receive investment
+banking non investment banking income from and did not manage comanage public offering for the listed company during the past months
+and does not expect receive investment banking relationship from the
+listed company within the coming three months unless mentioned otherwise
+clsa credit agricole securities usa does not own discloseable position and
+does not make market the securities
+the analysts included herein hereby certify that the views expressed this
+research report accurately reflect their own personal views about the
+securities and the issuers and that unless disclosure otherwise part
+their compensation was will directly indirectly related the
+specific recommendation views contained this research report
+revenue from investment banking revenues the analyst also states and
+confirm that has have not been placed under any undue influence
+intervention pressure any person compiling this research report
+addition the analysts included herein attest that they were not possession
+any material non public information regarding the subject company the
+time publication the report save from the disclosure below any the
+analyst are not aware any material conflict interest
+key clsa credit agricole securities usa investment rankings buy total
+return expected exceed market return and provide greater
+absolute return total return expected greater than market return
+but less than absolute return total return expected less
+than market return but expected provide positive absolute return sell
+total return expected less than market return and provide
+negative absolute return for relative performance benchmark the
+clsau
+january
+important disclosures
+blue books
+month total return including dividends for the stock against the month
+forecast return including dividends for the local market where the stock
+traded for example the case stock the recommendation relative
+the expected return for exceptions may made depending
+upon prevailing market conditions
+overall rating distribution for credit agricole securities usa equity
+universe buy outperform underperform sell restricted
+data december investment banking clients
+rating category buy outperform underperform sell
+restricted data for month period ending december for
+history the recommendations and price targets for companies mentioned
+this report well company specific disclosures please write credit
+agricole securities usa compliance department avenue the
+americas floor new york new york and clsa
+group compliance one pacific place queensway hong kong
+clsa asia pacific markets clsa and credit agricole securities
+usa inc cas
+this publication communication subject and incorporates the terms and
+conditions use set out the clsa website neither the
+publication communication nor any portion hereof may reprinted sold
+redistributed without the written consent clsa and cas broker dealer
+registered with the securities and exchange commission and
+affiliate clsa
+clsa and cas has have produced this publication communication for
+private circulation professional institutional and wholesale clients only
+the information opinions and estimates herein are not directed
+intended for distribution use any person entity any jurisdiction
+where doing would contrary law regulation which would subject
+clsa and cas any additional registration licensing requirement
+within such jurisdiction the information and statistical data herein have been
+obtained from sources believe reliable such information has not
+been independently verified and make representation warranty
+its accuracy completeness correctness any opinions estimates herein
+reflect the judgment clsa and cas the date this
+publication communication and are subject change any time without
+notice where any part the information opinions estimates contained
+herein reflects the views and opinions sales person non analyst
+such views and opinions may not correspond the published view clsa
+and cas this not solicitation any offer buy sell this
+publication communication for information purposes only and does not
+constitute any recommendation representation warranty guarantee
+performance any price target given the report may projected from
+more valuation models and hence any price target may subject the
+inherent risk the selected model well other external risk factors this
+not intended provide professional investment any other type
+advice recommendation and does not take into account the particular
+investment objectives financial situation needs individual recipients
+before acting any information this publication communication you
+should consider whether suitable for your particular circumstances and
+appropriate seek professional advice including tax advice clsa and cas
+does not accept any responsibility and cannot held liable for any
+person use reliance the information and opinions contained herein
+the extent permitted applicable securities laws and regulations clsa
+and cas accept liability whatsoever for any direct consequential
+january
+clsau
+important disclosures
+blue books
+loss arising from the use this publication communication its contents
+where the publication does not contain rating the material should not
+construed research but offered factual commentary not intended
+nor should used form investment opinion about the not rated
+companies
+subject any applicable laws and regulations any given time clsa cas
+their respective affiliates companies individuals connected with
+clsa cas may have used the information contained herein before publication
+and may have positions may from time time purchase sell have
+material interest any the securities mentioned related securities
+may currently future have have had business financial
+relationship with may provide have provided investment banking
+capital markets and other services the entities referred herein their
+advisors and any other connected parties result investors should
+aware that clsa cas and their respective affiliates companies such
+individuals may have one more conflicts interest
+regulations market practice some jurisdictions markets prescribe
+certain disclosures made for certain actual potential perceived
+conflicts interests relating research report details the disclosable
+interest can found certain reports required the relevant rules and
+regulation
+and
+the
+full
+details
+are
+available
+http clsa member research_disclosures
+disclosures
+therein
+include the position the clsa group only and not reflect those credit
+agricole corporate investment bank and its affiliates investors have
+any difficulty accessing this website please contact webadmin clsa
+you require disclosure information previous dates
+please contact compliance_hk clsa
+this publication communication distributed for and behalf clsa
+limited for research compiled non analyst and cas for
+research compiled analyst australia clsa australia pty ltd
+hong kong clsa limited india clsa india ltd address
+dalamal house nariman point mumbai tel
+sebi registration bse capital market segment bse
+segment nse capital market segment nse
+segment indonesia clsa indonesia japan
+credit agricole securities asia tokyo branch member the jsda
+licensed use the clsa logo japan korea clsa securities korea
+ltd malaysia clsa securities malaysia sdn bhd the philippines
+clsa philippines inc member philippine stock exchange and securities
+investors protection fund thailand clsa securities thailand limited
+and taiwan clsa limited taipei branch
+united states america where any section the research compiled
+analyst distributed cas where any section compiled nonus analyst distributed into the united states clsa solely
+persons who qualify major institutional investors defined rule
+under the securities and exchange act and who deal with
+credit agricole corporate investment bank however the delivery this
+research report any person the united states shall not deemed
+recommendation effect any transactions the securities discussed herein
+endorsement any opinion expressed herein any recipient this
+research the united states wishing effect transaction any security
+mentioned herein should contacting cas
+clsau
+january
+important disclosures
+blue books
+united kingdom notwithstanding anything the contrary herein the
+following applies where the publication communication distributed and
+into the united kingdom this publication communication only for
+distribution and only directed persons permitted recipients who
+are persons falling within article the financial services and markets
+act financial promotion order the fpo having professional
+experience matters relating investments high net worth companies
+unincorporated associations etc falling within article the fpo and
+where unregulated collective investment scheme unregulated cis
+the subject the publication communication also persons kind whom
+the unregulated cis may lawfully promoted person authorised under
+the financial services and markets act fsma virtue section
+the fsma the investments services which this
+publication communication relates are available only permitted recipients
+and persons any other description should not rely upon this publication
+communication may have been produced circumstances such that not
+appropriate categorise impartial accordance with the fsa rules
+singapore this publication communication distributed for and behalf
+clsa limited for research compiled non analyst and cas for
+research compiled analyst singapore through clsa singapore pte
+ltd solely persons who qualify institutional accredited and expert
+investors only defined the securities and futures act
+pursuant paragraphs and the financial advisers
+amendment regulations with regards accredited investor expert
+investor overseas investor sections and the financial adviser
+act shall not apply clsa singapore pte ltd please contact clsa singapore
+pte ltd connection with queries the report mica
+the analysts contributors this publication communication may
+employed credit agricole clsa company which different from the
+entity that distributes the publication communication the respective
+jurisdictions
+msci sourced information the exclusive property morgan stanley capital
+international inc msci without prior written permission msci this
+information and any other msci intellectual property may not reproduced
+redisseminated used create any financial products including any indices
+this information provided basis the user assumes the entire
+risk any use made this information msci its affiliates and any third
+party involved related computing compiling the information
+hereby expressly disclaim all warranties originality accuracy
+completeness merchantability fitness for particular purpose with respect
+any this information without limiting any the foregoing event
+shall msci any its affiliates any third party involved related
+computing compiling the information have any liability for any damages
+any kind msci morgan stanley capital international and the msci indexes
+are services marks msci and its affiliates the global industry
+classification standard gics was developed and the exclusive
+property morgan stanley capital international inc and standard poor
+gics service mark msci and and has been licensed for use
+clsa asia pacific markets
+eva registered trademark stern stewart charts and
+tables stands for cas estimates unless otherwise noted the source
+january
+clsau
+research sales offices
+clsa
+produced
+australia
+clsa australia pty ltd
+clsa house
+level
+hunter street
+sydney nsw
+tel
+fax
+india
+clsa india ltd
+dalamal house
+nariman point
+mumbai
+tel
+fax
+philippines
+clsa philippines inc
+tower two
+the enterprise center
+ayala corner paseo roxas
+makati city
+tel
+fax
+usa boston
+credit agricole securities
+usa inc
+summer street
+suite
+boston
+tel
+fax
+china beijing
+clsa limited beijing rep office
+unit level
+china world trade centre tower
+jian guo men wai ave
+beijing
+tel
+fax
+indonesia
+clsa indonesia
+wisma gkbi suite
+jendral sudirman
+jakarta
+tel
+fax
+singapore
+clsa singapore pte ltd
+raffles place
+uob plaza
+singapore
+tel
+fax
+usa chicago
+credit agricole securities
+usa inc
+monroe street
+suite
+chicago
+tel
+china shanghai
+clsa limited shanghai rep office
+room
+century avenue
+pudong new area
+shanghai
+tel
+fax
+japan
+credit agricole securities asia
+tokyo branch
+shiodome sumitomo building
+higashi shimbashi
+minato tokyo
+tel general
+trading
+fax
+taiwan
+clsa limited
+taiwan branch
+dunhua south road
+section
+taipei
+tel
+fax
+usa new york
+credit agricole securities
+usa inc
+credit agricole building
+avenue the americas
+new york
+tel
+fax
+china shenzhen
+clsa limited shenzhen rep office
+room shun hing square
+wang commercial centre
+shennan road east
+shenzhen
+tel
+fax
+korea
+clsa securities korea ltd
+one ifc
+gukjegeumyung
+yeongdeungpo
+seoul
+tel
+fax
+thailand
+clsa securities thailand ltd
+thai tower
+all seasons place
+wireless road lumpini
+pathumwan bangkok
+tel
+fax
+usa san francisco
+credit agricole securities
+usa inc
+suite
+california street
+san francisco
+tel
+fax
+hong kong
+clsa limited
+one pacific place
+queensway
+hong kong
+tel
+fax
+malaysia
+clsa securities malaysia sdn
+bhd
+suite level
+menara dion
+jalan sultan ismail
+kuala lumpur
+tel
+fax
+united kingdom
+clsa
+moor house
+london wall
+london
+tel
+fax
+clean
+green
+clsa support
+sustainable development
+print paper sourced from
+environmentally conservative
+factories that only use fibres
+from plantation forests
+please recycle
+clsa sales trading team
+australia
+china shanghai
+hong kong
+india
+indonesia
+japan
+korea
+malaysia
+philippines
+singapore
+taiwan
+thailand
+clsa certified
+clsa asia pacific markets clsa
+key clsa credit agricole securities investment rankings buy total return expected exceed market return and provide greater
+absolute return total return expected greater than market return but less than absolute return total return expected
+less than market return but expected provide positive absolute return sell total return expected less than market return and
+provide negative absolute return for relative performance benchmark the month total return including dividends for the stock against the
+month forecast return including dividends for the local market where the stock traded

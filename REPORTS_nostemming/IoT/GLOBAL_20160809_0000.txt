@@ -1,0 +1,2019 @@
+global insight 
+august gmt 
+global semiconductors 
+global insight survey shows 
+internet things moving 
+from hype reality 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment 
+decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions 
+communications with subject company public appearances and trading securities held research analyst account 
+global insight 
+contributors 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley international plc 
+craig hettenbach 
+joseph moore 
+francois meunier 
+equity analyst 
+equity analyst 
+equity analyst 
+craig hettenbach morganstanley 
+joseph moore morganstanley 
+francois meunier morganstanley 
+morgan stanley mufg securities ltd 
+morgan stanley taiwan limited 
+kazuo yoshikawa cfa 
+charlie chan 
+equity analyst 
+equity analyst 
+kazuo yoshikawa morganstanleymufg 
+charlie chan morganstanley 
+global insight 
+contributors continued 
+morgan stanley mufg securities ltd 
+morgan stanley international plc 
+tetsuro tsusaka cfa 
+mathias santos silva 
+equity analyst 
+equity analyst 
+tetsuro tsusaka morganstanleymufg 
+mathias santos silva morganstanley 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley mufg securities ltd 
+vinayak rao cfa 
+diana chang 
+shida zhang 
+research associate 
+research associate 
+research associate 
+vinayak rao morganstanley 
+diana chang morganstanley 
+shida zhang morganstanleymufg 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject 
+nasd nyse restrictions communications with subject company public appearances and trading securities held research analyst account 
+global insight 
+contents 
+portfolio manager summary 
+risk rewards 
+microcontrollers are simple compute engines 
+found everyday use applications such white 
+goods and autos 
+arm risk reward 
+internet things emerging growth driver 
+for the semiconductor industry 
+infineon risk reward 
+cypress semiconductor risk reward 
+microchip technology risk reward 
+and could add more semiconductor 
+growth 
+implications softbank proposed 
+acquisition arm 
+nxp semiconductor risk reward 
+reneas risk reward 
+stmicroelectronics risk reward 
+key takeaways from the survey 
+texas instruments risk reward 
+positioning mcu supplier 
+survey results details 
+survey description 
+global insight 
+global semiconductors 
+global insight survey shows 
+internet things moving 
+from hype reality 
+industry view 
+semiconductors line 
+alphawise work found that the designers surveyed are adding 
+iot connectivity products this signals inflection point for 
+microcontrollers months and implies bump semi industry 
+growth our new estimates are above the street for many suppliers buy mchp 
+and nxpi 
+strong evidence that the iot adoption finally happening 
+surveyed key decision makers responsible for the engines the 
+iot mcus and wireless connectivity design oems glean insight 
+not accessible through traditional outlets like company conversations and market research the results indicate that designers 
+are incorporating connectivity products which given month 
+lead times implies inflection point for demand we modeled the impact for the semi industry and companies three scenarios exhibit and see incremental growth off the baseline increase for the semiconductor industry where 
+growth has matured and dependant gdp inflection iot can 
+have meaningful impact the leading iot vendors highlighted our 
+survey are texas instruments microchip stmicro and nxp semiconductor cypress also stronger position after the broadcom iot 
+buy 
+doubling headcount mostly arm the within 
+years see this ringing endorsement iot which combined 
+with the overwhelming positive survey feedback points coming 
+wave connectivity deployment tsmc the world biggest semiconductor foundry also recently stressed that iot one the most 
+important growth drivers semis 
+softbank proposed acquisition arm injects long term strategic capital into iot the price huge premium 
+sales for most semiconductor deals ceo masayoshi son 
+seen visionary was early alibaba investor and has indicat 
+texas instruments valuation only mcu exposure equal 
+our growth forecasts for key suppliers come modestly 
+with more pronounced ramp expected see 
+momentum building for iot into adding growth 
+average are also raising pts for mcu companies 
+winners and potentially challenged companies emerging buy 
+microchip iot boost and upside growth increasing traction for 
+its portfolio suite cross selling approach and nxp share gains 
+bit the fastest growing segment mcus are equal weight 
+weight arm downgraded post the softbank bid but nonetheless 
+highlight meaningful upside penetration rates and note risks 
+renesas and infineon after weak survey showing 
+global insight 
+portfolio manager summary 
+expect microcontroller companies the biggest 
+beneficiaries from the uptick connectivity bluetooth zigbee attach rates along with providers mcu 
+products for iot applications our survey indicates over 
+designers are currently including some form con 
+nectivity technologies along with mcus the following 
+exhibit captures the survey implications terms relative 
+positioning different mcu companies across product 
+categories exhibit 
+exhibit 
+survey indicates microchip nxp stmicro are best positioned 
+mcu market share 
+mcus sales 
+nxp 
+renesas electronics 
+microchip 
+stmicroelectronics 
+infineon 
+texas instruments 
+cypress 
+mcus 
+strong 
+weak 
+strong 
+strong 
+weak 
+strong 
+weak 
+analog 
+average 
+average 
+strong 
+average 
+strong 
+strong 
+weak 
+security 
+strong 
+weak 
+strong 
+average 
+average 
+average 
+weak 
+iot 
+average 
+weak 
+strong 
+strong 
+weak 
+strong 
+strong 
+source alphawise survey morgan stanley research 
+cypress iot positioning based our view post the company acquisition broadcom iot business 
+brief iot refresher the internet things iot the next genera 
+complex baseband manages all the radio functions mobile 
+tion personal computing connecting multiple objects and ena 
+device connecting the device the base station average selling pri 
+bling them interact with each other and with their environment 
+ces for mcus are the range while cpu from intel can average 
+some examples connectivity are home automation google 
+and baseband processors from qualcomm cost 
+nest and wearables the consumer space factory automation 
+smart metering asset monitoring and machine machine the 
+see inflection point for iot with any new technology the 
+industrial end market and connected vehicles smart lighting roads 
+hype phase typically leads the fundamental impact several years 
+and smart parking automotive 
+and iot has been different but our alphawise survey fielded 
+may designers said they are adding connectivity for iot 
+for additional background iot and how see the market devel 
+pointing initial growth uptick and stronger inflection 
+oping please see the following detailed reports the internet 
+based month design cycle times 
+things now the internet things now connecting the real 
+economy global insight the internet things report update 
+and believe could boost the slow growing semiconductor 
+market pcs were the main driver for semis the before 
+microcontrollers mcus power the iot and their low cost 
+growth transitioned mobility laptops mobile phones smart 
+allows for pervasive usage across all electronics mcu 
+phones and tablets the new century but smartphones have 
+small computing device embedded product help control and 
+matured overall sector growth has slowed low single digits 
+manage its operation mcus are simple engines designed perform 
+expect industrial and automotive two important iot markets 
+specific tasks they are used white goods tvs remote controls 
+the main growth drivers over the next few years along with 
+thermostats security systems etc embedded mcus these appli 
+mcus think other connectivity technologies such blue 
+cations can efficiently sense process and control low cost they 
+tooth low energy and zigbee that are central iot applications 
+add intelligence superior control and user friendly interface 
+should help boost semiconductor growth 
+contrast microprocessors cpus central processing units power 
+devices such pcs tablets and smartphones and tend more 
+global insight 
+every increase connectivity using mcus could add rough 
+see the greatest impact the mcu market the 
+the semiconductor industry around 
+semiconductor industry estimate that increasing adoption iot 
+incremental underlying growth exhibit drilling down 
+could add growth for arm for microchip and 
+our survey respondents indicated that iot leading pick 
+for cypress exhibit 
+usage higher performance higher cost bit mcus such 
+exhibit 
+exhibit 
+increase connectivity attach rate adds annual semi 
+see iot adding growth for mcu companies average 
+iot tailwind mcu company growth 
+conductor growth 
+semiconductor growth 
+mchp and arm could see 
+incremental growth 
+arm 
+investor growth 
+expectations 
+connectivity 
+attach 
+forecast with 
+connectivity 
+attach 
+connectivity 
+attach 
+nxpi 
+stm 
+mchp 
+base growth forecast 
+txn 
+iot tailwind 
+source morgan stanley research 
+source sia morgan stanley research 
+how play iot and the emerging mcu 
+trends semis 
+addition transitioned our calculation methodology 
+are increasing our eps estimates for arm and the mcu compa 
+exhibit note that for renesas and infineon who 
+nies reflect the benefit from rising iot adoption average our 
+both screened poorly the survey are not making any changes 
+eps estimates for the group are now above the street led 
+our estimates pts 
+eps better capture the inflection for iot which then discount 
+back turns overall the median for mcu companies comes 
+mchp higher and nxp exhibit addition our 
+revenue estimates are above with mchp higher and nxp 
+higher exhibit 
+exhibit 
+exhibit 
+our eps estimates for microchip and nxp are and 
+our revenue estimates for microchip and nxp are and 
+above the street 
+above the street 
+eps street 
+revenue street 
+mchp 
+mchp 
+nxpi 
+txn 
+stm 
+nxpi 
+source morgan stanley research thomson reuters 
+source morgan stanley research thomson reuters 
+morgan stanley research 
+stm 
+txn 
+global insight 
+exhibit 
+median our for mcu companies comes 
+price target 
+revenue mcu sales 
+nxp 
+microchip technology 
+stmicroelectronics 
+texas instruments 
+cypress semiconductor 
+median 
+mcus 
+revenue 
+old 
+new 
+change 
+source gartner morgan stanley research 
+mchp microchip portfolio approach resonating with designers 
+increasing iot connectivity attach rate comes fruition with the 
+pointing uptick attach rate products successfully cross 
+stock trading valuation eps discount high 
+sells analog and connectivity along with mcus this should drive 
+analog mcu peers think investors are only giving the company 
+inflection the company growth that think has yet reflect 
+partial credit for cost cutting measures for the fsl deal any upside 
+estimates fully embraced investors microchip has the 
+growth from pick iot could drive higher valuation multiple 
+highest exposure mcus sales followed nxp and 
+for the stock 
+cypress around our non gaap eps estimate 
+for mchp above the street 
+arm softbank announced would buy arm for its strong position 
+the internet things market which based its already strong 
+investors have often expressed skepticism microchip acquisition 
+market share the mcu space but likely increase two 
+strategy means for supplementing organic growth yet per 
+threefold based our survey softbank offer for arm represented 
+our survey results microchip has not only solid traction mcus 
+premium and values the company sales ebit 
+including the addition bit arm mcus from atmel but also 
+and our estimates 
+well positioned benefit from cross selling opportunities analog 
+basis this considerably above most semi deals that have been val 
+smsc supertex and micrel and connectivity issc technologies 
+ued softbank expects increase arm investment 
+stemming from acquisitions importantly see inflection for 
+tevels and has commented that its expects double the company 
+microchip iot and the market accelerates next year expect 
+headcount the all employees over the coming years 
+which could drive upside estimates well mchp valuation 
+multiple 
+arm the clear beneficiary the move towards arm core mcus 
+from proprietary architectures our survey indicates respon 
+nxpi nxp seeing strong momentum the mcu market overtak 
+dents are utilizing arm core for their mcu products arm stat 
+ing renesas become the largest mcu supplier with 
+penetration around concentrated bit the company 
+share after merging with freescale this especially true bit 
+currently derives revenue from its mcu royalty stream and 
+mcus marked consistent share gains recent years from 
+penetration were rise would imply incremental 
+bit mcus legacy freescale enjoying 
+sales tailwind overall revenue growth 
+momentum the automotive and industrial markets driven traction for new family products such kinetis also see oppor 
+txn texas instruments screened very well our survey terms 
+tunity for nxp leverage its clear leadership automotive drive 
+traction for its mcu portfolio currently use for mcus its 
+incremental sales emerging applications such and adas 
+ability cross sell analog products prefer for their analog 
+needs and positioning for iot indicate preferred iot sup 
+our non gaap eps estimate for nxp above the 
+plier that said relative other mcu suppliers does not move the 
+street and this gap could widen into our expectations 
+needle much for mcus and connectivity are only and 
+global insight 
+sales respectively this overshadowed the company pres 
+renesas expects ramp mass production its strategic products 
+ence analog share analog ics the nearest 
+the process including safety mcus for adas applications 
+petitor which represents over the company sales 
+from and shows confidence gaining design ins for large deals 
+and market share with not only japanese tier but also european 
+renesas renesas strength lies within bit products and automo 
+and north american tier customers while admit the company 
+tive applications however the survey results the company ranked 
+continues face the risk market share loss multi purpose and 
+low terms performance bit product supplier the compa 
+consumer mcus the survey shows expect its market share 
+also ranked low mcu vendor which the automotive auto 
+automotive mcu start stabilizing 
+parts corporate respondents are currently using will consider 
+using stress however that the majority the survey respon 
+infineon infineon strength automotive and industrial more 
+dents are north american and european corporates which could 
+power chips than microcontrollers our view the survey did not 
+have resulted some bias the results the same time the results 
+highlight infineon top player microcontrollers and were 
+may not fully reflect renesas solid position among japanese custom 
+positively surprised see stmicroelectronics quite ahead 
+ers that said think the survey results show that the compa 
+result would not recommend buying infineon play micro 
+ny promotional activities and brand recognition among north 
+controllers 
+american customers are insufficient particular the company 
+has focused serving key customers during its restructuring may 
+have lost its position among smaller scale distributors which are 
+important industrial and multi purpose mcus and overall 
+renesas continues face the risk market share loss 
+morgan stanley research 
+global insight 
+microcontrollers are simple compute engines found 
+everyday use applications such white goods and autos 
+what microcontroller microcontroller mcu 
+small low cost computing device embedded product 
+help control and manage its operation typical microcontroller consists core processor memory and data 
+converters together with other peripherals and input output devices the core the mcu the cpu which 
+executes programs using program memory registers and 
+other memory 
+how are mcus different from other kinds semiconductors such 
+microprocessors and baseband processors mcus are simple 
+compute engines designed perform specific tasks wide array 
+exhibit 
+bit mcus have grown the pace overall mcu market over the 
+last decade while and bit have lagged 
+applications and end markets this compares with microprocessors 
+referred cpu central processing unit which provide the processing power for compute devices such pcs tablets and smartphones 
+mcu market growth 
+and tend meaningfully more complex baseband the device that 
+manages all the radio functions the mobile device connecting the 
+device base station average selling prices asps for mcus are the 
+range while cpu from intel can average and base 
+year 
+year 
+year 
+year 
+band processors from qualcomm the range 
+bit 
+where are mcus used mcus are used across wide range wellknown applications such white goods tvs remote controls thermostats security systems etc microcontrollers embedded these applications have one thing common the capability efficiently sense 
+process and control low cost they also add intelligence superior 
+control and user friendly interface 
+what the difference between and bit mcus the core 
+the cpu mcu executes instructions perform specific task and 
+can process bits information single instruction depending the requirement the choice bit core depends 
+the application and the performance requirements needed the prod 
+bit 
+bit 
+total mcu market 
+source gartner morgan stanley research 
+bit mcus now represent the mcu market from 
+uct given the increasing sophistication electronics and advances 
+bit 
+bit 
+bit 
+end products growth has shifted from bit and bit bit prod 
+source gartner morgan stanley research 
+ucts which carry the best performance although are more costly 
+exhibit 
+the pricing gap between bit mcus and and bit has steadily narrowed over the last decade 
+exhibit and 
+mcu pricing sia 
+the driving force behind the move bit bit mcus have seen 
+increased adoption developers given their ability offer higher 
+speed performance and richer feature set relative bit mcus 
+addition increasing penetration arm mcus that predominantly 
+bit has been key driver finally declining asps for bit mcus 
+down over the last decade exhibit has improved the cost 
+per performance element 
+bit 
+source sia morgan stanley research 
+bit 
+bit 
+global insight 
+internet things emerging growth 
+driver for the semiconductor industry 
+with any new technology the hype phase typically precedes fundamental impact years advance and with iot 
+has been different however are encouraged the 
+responses from our survey where designers are 
+adding connectivity for iot pointing initial inflection 
+growth and even stronger inflection 
+based month design cycle times 
+think inclusion connectivity technologies such bluetooth low energy and zigbee that are central iot applications 
+along with mcus should help boost semiconductor growth every 
+increase connectivity attach microcontroller products 
+could add roughly the semiconductor industry around 
+growth addition our survey respondents indicated 
+that iot leading pick usage bit mcus result 
+think iot represents significant growth driver for the microcontrol 
+believe that the internet things could boost otherwise 
+ler market which annual sales represents around 
+slow growing semiconductor market pcs were the main growth 
+overall semiconductor industry 
+driver for semis the before growth transitioned mobility 
+over the past years laptops mobile phones smartphones and tablets but pcs and now smartphones have matured the overall 
+growth the sector has slowed low single digits expect the 
+main growth drivers for the industry over the next few years 
+industrial and automotive two important markets for iot 
+drivers semiconductor growth 
+source company data morgan stanley research 
+morgan stanley research 
+global insight 
+microchip and nxp screen the best think the established 
+mcu companies namely microchip nxp and texas instruments are 
+very strong position cross sell other products such connectivity technologies bluetooth low energy and zigbee and 
+analog products that designers need develop iot applications 
+texas instruments was cited survey respondents their 
+preferred vendor for sourcing analog products reinforcing the 
+attractive breadth their analog portfolio that includes amplifiers 
+convertors power management among number other discrete 
+products 
+microchip came close second with survey respondents 
+indicating they source their analog product needs from the company 
+this implies evidence that its strategy building its analog portfolio 
+organically and through smsc supertex and micrel acquisitions starting pay off addition microchip offers the full suite 
+connectivity products that are essential for iot applications 
+result view the company key beneficiary iot led its 
+ability cross sell ancillary analog connectivity products its core 
+mcu customers 
+nxp preferred vendor for mcus respondents use them 
+with broad portfolio across bit and importantly leading position the fastest growing segment the market namely bit 
+mcus addition the company leading vendor for security for iot 
+applications area where expect see increasing traction given 
+the trend increasing attach connectivity with mcu applications 
+finally nxp portfolio analog and connectivity products positions 
+well capitalize cross selling opportunities net net think 
+nxp solid position mcu connectivity analog and security puts 
+good position benefit from our expectation pick 
+growth iot over the coming years 
+global insight 
+and could add more 
+semiconductor growth representing 
+incremental growth 
+see internet things iot significant growth driver 
+for mcu companies and incremental tailwind growth for 
+the overall semiconductor industry expect iot accelerate connectivity attach rate along with mcu applications our 
+survey revealed that over respondents are looking 
+attach some form connectivity along their mcu applications addition iot leading increased demand for bit 
+mcus with respondents indicating uptick their 
+bit mcu usage because iot 
+our base case scenario see iot adding incremental 
+connectivity sales resulting tailwind the overall semiconductor market assuming incremental connectivity attach rate 
+with bit mcus and with bit scenario and 
+where assume and incremental connectivity 
+attach rates with bit mcus see incremental connectivity sales and higher semiconductor growth 
+expect iot add connectivity sales and over overall semiconductor growth 
+market size 
+current 
+microcontrollers 
+change 
+scenario 
+scenario 
+scenario 
+higher connectivity attach rate 
+bit 
+change 
+bit 
+change 
+bit 
+change 
+incremental 
+connectivity sales 
+incremental semi growth 
+total semis 
+change 
+source sia gartner morgan stanley research 
+morgan stanley research 
+global insight 
+tandem with our methodology analyzing the impact mcu 
+for mcu companies for increase and eps estimate 
+industry and overall semiconductor growth from iot extended 
+for given backdrop lsd growth for semiconduc 
+this individual mcu companies under coverage see iot con 
+tors expect iot add growth for companies with high 
+tributing partially mcu companies with the full run rate 
+mcu exposure 
+benefit realized given the month design time period 
+for mcu connectivity products average our revenue estimates 
+exhibit 
+average our revenue estimate come and eps with increasing contribution into 
+revenue 
+arm 
+nxp 
+microchip technology 
+stmicroelectronics 
+texas instruments 
+cypress semiconductor 
+median 
+old 
+change 
+new 
+estimate 
+change 
+street 
+street 
+diff 
+change 
+old 
+new 
+estimate 
+change 
+eps 
+arm 
+nxp 
+microchip technology 
+stmicroelectronics 
+texas instruments 
+cypress semiconductor 
+median 
+old 
+source gartner company data morgan stanley research 
+base case for arm gbp 
+new 
+change 
+estimate 
+change 
+street 
+street 
+diff 
+old 
+new 
+change 
+estimate 
+change 
+global insight 
+implications softbank proposed 
+acquisition arm 
+strategy after arm acquisition son thinking 
+longer term strategy for arm making arm core 
+firm for softbank group promotion iot terms 
+current strategy softbank president masayoshi son has 
+indicated that wants put effort into areas beyond 
+smartphones where arm has dominant share over 
+such networks and iot where there still room 
+increase share softbank has made communications services mobile and internet services mainly internet advertising into earnings pillars but has great expectations for 
+growth the iot field however expect difficult 
+generate earnings from iot services due low arpu 
+and thus softbank likely aim secure core technology 
+indispensable terminals that could see explosive growth 
+the iot era thereby obtaining license revenue construct global earnings base 
+evolved currently the mobile communications business the 
+core softbank earnings and assets but that due the acquisition vodafone and sprint and has only been the case for the last 
+years 
+softbank major businesses have undergone dynamic change since 
+the company was founded initially softbank distributed packaged software for pcs and published related works the company 
+then acquired based yahoo and ramped yahoo japan becoming internet business and then with the acquisition vodafone 
+morphed again into mobile internet firm its core softbank not mobile operator but internet company and considering son ambition for softbank expand cloud iot operations 
+his decision secure the core technology that arm has easy 
+understand with the arm acquisition softbank aims secure 
+position internet company that platform holding down 
+overwhelming resources 
+softbank stance has been show respect for arm current management team and strategy press conference the time the 
+acquisition son indicated that would involved drawing 
+arm longer term strategy ahead also stated that wanted 
+strengthen arm development organization and accelerate operations stating that wanted double the development organization centering engineering delisting arm create environment where the firm can dedicate itself the business without being 
+preoccupied with quarterly earnings should positive 
+not expect much the way near term synergies from the 
+acquisition that due the boost softbank earnings from newly 
+consolidating arm being small and there being only limited synergies between arm and softbank existing operations more than 
+evaluating whether there are short term synergies believe what 
+most important understand son medium long term 
+vision and watch see whether post merger integration successful measures expand operations and retain engineers who are 
+especially crucial given that arm development oriented firm 
+implications the acquisition arm softbank group 
+culmination son ambition since founding 
+softbank aiming for dominant platform internet firm 
+many investors have asked why softbank acquired arm softbank 
+has been ahead paradigm shifts the past and the company has 
+grown even its business portfolio and corporate structure 
+morgan stanley research 
+global insight 
+key takeaways from the survey 
+goal the mcu survey surveying key decision makers 
+for mcus have garnered insights into the competitive 
+positioning and emerging battleground iot that are not 
+possible ascertain from company discussions and even 
+thrid party research inside you find the responses questions being asked 
+preferred mcu vendor performance 
+bit mcus mchp dominates bit tallying responses 
+including atml the next closest nxp and considerably 
+better than its stated market share gartner 
+bit txn leads but closely followed mchp and nxp 
+bit nxpand are neck and neck bit followed stm 
+what surprised the most 
+preferred iot supplier with any new technology the hype phase 
+momentum for iot has accelerated with over designers 
+typically precedes fundamental impact years advance and with iot 
+looking incorporate connectivity along with their mcu appli 
+has been different that said the survey results overwhelmingly 
+cations and this also leading uptick growth bit 
+point iot taking off now with designers adding connectivi 
+mcus 
+more iot adoption driving growth bit microcontrollers 
+arm penetration way higher than its stated market 
+leading iot vendors order are mchp stm and nxp separately 
+share including very strong traction autos 
+stronger position after the broadcom iot buy 
+respondents using arm core 
+screened very favorably throughout the survey and even 
+preferred security supplier for security nxp mchp and 
+line higher than nxp fsl autos 
+appear best positioned 
+microchip strong iot security and second only being 
+well positioned leverage mcu leadership drive analog 
+derivative implications upshot for analog respon 
+sales although still lags bit 
+dents source ancillary analog parts from mcu suppliers with autos 
+stmicro traction strong bit even higher than infineon 
+seeing the highest attach rate best positioned capture 
+who disappointed autos 
+this followed closely microchip and infineon coming dis 
+responses for nxp were somewhat underwhelming some are 
+tant third 
+relative its market share 
+renesas screened poorly which could call into question its 
+efforts stabilize market share 
+what was line with our expectations 
+mcu market continues shift towards bit products that 
+offer high functionality and performance 
+designers are switching arm for better performance and 
+established ecosystem importantly the momentum behind 
+arm has pick recently with respondents having 
+switched arm core the past months 
+nxp given its strong leadership security chip based payment 
+cards and secure element for smartphones autos was cited has 
+preferred vendor for security products 
+the combination mchp and atml continues dominate the 
+bit market 
+global insight 
+positioning mcu supplier 
+arm holdings arm gbp 
+renesas electronics 
+arm does not sell microcontrollers per but does sell intellectual 
+even considering the fact that the majority survey respondents are 
+property semiconductor companies and oems design and sell 
+based north america the overall responses are unfavorable and 
+their own microcontrollers arm only designs bit microcontrol 
+the survey result negative for renesas the fact that renesas 
+lers and has market share the microcontrollers market 
+ranked the lowest among mcu vendors best positioned fulfill 
+estimate that arm receives royalty fee for every mcu sold with 
+analog needs may justify the company intention improve its ana 
+its intellectual property estimate that arm mcu revenues 
+log portfolio through 
+amounted which the total arm royalties and 
+classic arm royalties low end chips not used application proc 
+renesas share within the mcu market declining from 
+essors networking servers 
+its share think the reasons behind the market 
+share decline recent years are the company was crisis state 
+arm has enjoyed strong market share gain mcus the past five 
+and lost design ins during the new management team 
+years and the survey supportive further market share growth 
+prioritized gross margin improvement since they have tried 
+believe semiconductor companies and oems like the flexibility 
+reduce the composition low margin products including general 
+using common programming language any mcu chip based 
+purpose mcus and the yen depreciation over the last two years 
+arm from nxp renesas atmel renesas would use the same 
+eroded the sales japanese clients when translated dollar basis 
+programming language thus reducing the time market for end 
+products 
+even considering the fact that majority survey respondents are north 
+american corporates the overall responses are unfavorable and the 
+nxp semiconductors nxpi 
+survey result negative for renesas think the survey result 
+shows that the company activities within north america and 
+europe are insufficient and that there still seems downward 
+nxp became the largest mcu supplier post its acquisition 
+pressure the company market share 
+freescale with share overtaking renasas electronics 
+from technology perspective the company has diversified portfo 
+note that renesas mcu market share product for bit 
+lio bit mcus with share bit with share and 
+products for bit products and for bit products and 
+the fast growing bit mcu market 
+its strength lies within bit products however the survey result 
+the company ranked low terms performance bit product 
+importantly both nxp and freescale have enjoyed strong momen 
+supplier meanwhile the company mcu market share applica 
+tum mcus over the recent years nxp has been steadily gaining 
+tion for automotive for industrial and for consumer 
+share mcus since the financial crisis with its share from 
+electronics and strong automotive applications which also 
+meanwhile freescale had turned cor 
+its area focus however the survey result the company also 
+ner the mcu market with the company gaining share 
+ranked low mcu vendor which the automotive auto parts cor 
+and stemming the steady decline experienced 
+porate respondents are currently using will consider using 
+over the period down from 
+going forward expect nxp build its dominant position 
+renesas expects ramp mass production its strategic products 
+mcus leveraging its solid position security and good traction for 
+the process including safety mcus for adas applications 
+fsl bit arm arm cortex and based kinetis mcu line 
+from and shows confidence gaining design ins for large deals 
+and market share with not only japanese tier but also european 
+and north american tier customers think the company has 
+been turning itself around since and expect its market share 
+automotive mcu start stabilizing industry implica 
+morgan stanley research 
+global insight 
+tion the company will outsource the production products beyond 
+the process tsmc and the volume expansion the products should positive for tsmc 
+texas instruments txn 
+texas instruments too has demonstrated steady momentum 
+mcus with its share more than doubling over the past dec 
+the fact that the company scored the lowest among mcu vendors 
+ade the company growth mcus has been driven traction for 
+best positioned fulfill analog needs deserves attention think 
+its bit mcu portfolio where its share has increased 
+this may justify the company intention improve its analog portfo 
+over the past years bit the company share 
+lio through 
+has basically been flat around over the same period from 
+end market perspective the company mcu portfolio more 
+tsmc twd 
+tsmc has low mid single digit sales exposure mcus the company currently has ultra low power ulp eflash and started 
+focussed the automotive and industrial markets where they have 
+and share respectively 
+stmicroelectronics stm eur 
+eflash started risk production ulp eflash was 
+developed and expected start production these tech 
+stmicroelectronics began transition its mcu business arm 
+nologies would used for applications such wireless mcu iot 
+few years ago and management stated that they should have done 
+devices wearable devices and high performance mcu tsmc has 
+earlier stm was previously using proprietary architecture 
+also been major foundry partner with mcu vendors such renes 
+partnership with hitachi called now stmicroelectronics has 
+gained momentum the market and had market share 
+the survey surprisingly positive for stm and positions them 
+microchip technology mchp 
+the atmel acquisition catapults microchip into position mcus 
+strong top the mindset customers 
+infineon technologies ifx eur 
+with share ahead stmicro the addition atmel further extends microchip dominance bit mcus with share 
+infineon has been involved mcus for the past years especially 
+and strengthens its position bit mcu with the company share 
+for industrial and automotive applications infineon has wide range 
+increasing more than importantly atmel brings estab 
+products including bit bit and bit standard arm flavor 
+lished presence arm based mcus helping plug big hole 
+for industrial applications and proprietary tricore for automotive 
+microchip portfolio that based its proprietary pic architecture 
+applications infineon scored surprisingly low the automotive seg 
+and potentially helping remove headwind growth 
+ment which viewed most investors area strength the 
+company the nascent adas market 
+even growth bit mcus has slowed the company has continued 
+outpace the market through share gains share over 
+the last years bit the company was late entrant but has seen 
+cypress semiconductor 
+strong momentum with share rising from basically 
+nothing finally bit atmel had shown good momentum 
+cypress has share the mcu market bolstered its spansion 
+with sales from basically the 
+acquisition march the company also seeing some traction 
+pany was benefiting from strong pace new bit arm based prod 
+for its psoc product line which has better cost profile 
+uct introductions that had doubled increased 
+below than the earlier psoc lines cypress psoc products 
+and had continued trend higher well microchip its 
+are based bit bit arm cores and also encompass the company 
+own also seeing solid growth bit through its proprietary pic 
+sram memory analog digital logic and other peripherals span 
+based product and mips its leverages huge bit installed base 
+sion mcu business which came from its acquisition fujitsu ana 
+and moves customers and bit 
+log mcu product lines has stabilized the steady erosion seen the 
+years leading that deal 
+global insight 
+the company post its acquisition broadcom wireless iot business 
+unit for has full connectivity suite that includes technologies such bluetooth and zigbee this coupled with broad 
+mcu portfolio that includes bit proprietary mcus bit arm 
+and bit programmable embedded system chip solutions 
+and strong position memory sram nor and nand positions 
+cypress well for pick growth iot applications 
+other semiconductor companies 
+umc twd mid low single digit sales 
+exposure mcus provides low power eflash for 
+applications including mcus smartcards and iot 
+smic hkd low single digit sales expo 
+sure mcus offers technologies for applications such ultra low power mcu high performance analog 
+and other iot related applications march smic 
+announced partnership with crossbar offer low power 
+embedded memory mcus based its process node 
+hhgrace non covered has over sales exposure 
+envm for mcus and smartcards which mainly manufactured 
+for greater china semiconductors most foundries have exposure 
+mcus through their specialty technology offering such embedded memory used mcus however the sales contribution would 
+not that meaningful general idms dominates the mcus market meanwhile mcus use mainly mature nodes with small die size 
+for example our industry check with taiwan fabless company 
+ememory suggests that would likely stay the mainstream 
+geometry for mcus and may gradually migrate the 
+future and die per wafer about application processors 
+few hundreds 
+implications for equipment while the demand may more 
+mature nodes does not necessarily mean that foundries would 
+only spend mature equipment for example tsmc stated that 
+does not use just the mature equipment meet the growing 
+demand for specialty technologies the company has upgrade 
+and buy new equipment order manufacture the new applications 
+morgan stanley research 
+global insight 
+survey result details 
+mcu application mix mostly dominated 
+bit driven the desire for higher 
+performance and functionality 
+dents agreed for the upgrade for designers that are 
+still using bit architecture not surprisingly cost the primary 
+impediment for the transition bit architectures 
+designers are utilizing bit architectures for applications 
+performance and higher functionality stands out the key reason for 
+which nearly the level bit share total mcus today 
+upgrading bit 
+revenue the highest penetration bit 
+automotive while both for consumer and industrial 
+markets around the respondents have upgraded bit 
+the past months and higher performance and greater 
+functionality was the most common reason cited 
+bit dominates across major applications including automotive consumer electronics and industrial 
+instruction set architecture for current applications 
+bit 
+bit 
+bit 
+bit 
+source alphawise survey morgan stanley research 
+consumption requirement 
+better performance drives bits demand over cost and power 
+total 
+automotive consumer electronics industrial 
+reasons for currently using 
+bit 
+source alphawise survey morgan stanley research 
+bit 
+bit 
+out respondents upgraded bit the past months 
+cost 
+performance 
+power consumption 
+switching costs 
+source alphawise survey morgan stanley research 
+momentum for arm based mcus came 
+stronger than our initial expectations 
+the majority respondents are already utilizing arm core for 
+their applications majority those focus bit mcus arm 
+source alphawise survey morgan stanley research 
+penetration highest automotive followed consumer 
+electronics and industrial the survey revealed 
+global insight 
+that the momentum for arm mcus has picked recently with 
+the respondents transitioning arm the past months 
+designers switched arm for better performance ecosystem soft 
+given the typical month lead time from design 
+ware tools and lower costs 
+revenue this good indication future momentum arm interestingly higher performance respondents established ecosystem software tools were cited ahead lower 
+cost key reasons designers are transitioning arm from 
+proprietary architectures and those that haven 
+made the switch familiarity with their current applications ecosystem and ability customize were they main reasons for 
+sticking proprietary cores finally the need for product customization and lower costs were two important 
+reasons for designers looking develop their own arm processor 
+cores 
+source alphawise survey morgan stanley research 
+arm penetration among survey respondents came above our expec 
+tations 
+familiarity and consistency with prior applications are the key reasons 
+core type are you using arm proprietary core 
+other core pic etc 
+proprietary core 
+why some designers continue use proprietary cores 
+arm 
+total 
+automotive consumer electronics industrial 
+source alphawise survey morgan stanley research 
+source alphawise survey morgan stanley research 
+respondents have switched arm core the past months 
+internal arm mcu core development mainly depends need product customization and cost savings 
+source alphawise survey morgan stanley research 
+source alphawise survey morgan stanley research 
+morgan stanley research 
+global insight 
+dor followed microchip and stmicro 
+strong evidence iot design activity 
+with texas instruments emerging 
+preferred vendor 
+automotive txn has clear lead followed nxp 
+consumer microchip preferred designers followed 
+txn and stmicro finally industrial microchip leads 
+followed texas instruments and stmicro 
+the survey highlighted strong adoption iot with over 
+respondents adding considering add connectivity their appli 
+importantly iot driving uptick growth for bit mcus 
+cations among the various connectivity technologies 
+respondents and connectivity technologies 
+the survey indicates that adoption the highest fol 
+addition cost availability software tools and performance are the 
+lowed bluetooth low energy and nfc texas instru 
+key criteria for designing iot applications for designers 
+ments was cited the respondents their preferred iot 
+over respondents are looking add connectivity along with their 
+mcu products 
+connectivity along with processing 
+iot leading uptick growth for bit mcus and connectivity 
+total 
+industrial 
+uptick product consumption because launch new iot 
+applications 
+consumer electronics 
+products 
+automotive 
+not seen 
+uptick 
+yes for analog 
+yes for connectivity 
+yes for memory 
+yes for bit mcu 
+yes for bit mcu 
+source alphawise survey morgan stanley research 
+total 
+automotive 
+consumer electronics 
+industrial 
+yes for bit mcu 
+source alphawise survey morgan stanley research 
+stands out the favored iot supplier 
+favored supplier for iot 
+cypress semiconductor 
+cost matters the most for iot applications followed software tools 
+and performance 
+renesas electronics 
+silicon labs 
+other 
+infineon technologies 
+nxp semiconductors 
+stmicroelectronics 
+microchip 
+texas instruments 
+total 
+automotive 
+consumer electronics industrial 
+source alphawise survey morgan stanley research 
+source alphawise survey morgan stanley research 
+global insight 
+nxp and microchip are preferred vendors 
+from security perspective and and 
+microchip were highlighted for their ability 
+cross sell analog products 
+from vendor perspective nxp and microchip are the leading choices for security solutions with respondents citing the two 
+companies their preferred vendors for incorporatings security for 
+iot closely followed texas instruments also 
+majority the respondents are looking source their ancillary analog needs from their current mcu vendor not 
+over respondents are incorporating security their iot 
+surprisingly texas instruments respondents given the 
+applications either through their internal efforts sourcing 
+breadth its analog product portfolio that includes convertors 
+secure products from their mcu suppliers only 
+amplifiers and power management the best positioned supplier 
+the respondents are relying software vendors fulfill 
+the other hand microchip does not receive much attention 
+their security needs 
+analog and yet was close 
+over respondents are incorporating security along with their 
+majority respondents are sourcing their ancillary analog needs from 
+mcu products 
+their current mcu supplier 
+how incorporating security for iot applications 
+source ancillary analog needs for your socs from your current 
+mcu vendor 
+total 
+automotive 
+consumer electronics 
+industrial 
+sourced from 
+other vendor 
+our 
+projects designs 
+not include socs 
+yes 
+developing internallyfrom mcu hardware from independent 
+supplier 
+software vendors 
+other 
+not incorporating 
+security 
+total 
+automotive 
+consumer 
+electronics 
+industrial 
+source alphawise survey morgan stanley research 
+source alphawise survey morgan stanley research 
+nxp and microchip are the preferred vendors from security perspec 
+txn and mchp are best positioned cross sell analog products 
+tive 
+their customers 
+source alphawise survey morgan stanley research 
+source alphawise survey morgan stanley research 
+morgan stanley research 
+global insight 
+preferred vendors microchip bit 
+texas instruments bit and nxp 
+semiconductors bit 
+nxp leads bit followed txn and stmicroelectronics 
+microchip was the cited their preferred vendor for bit mcus 
+the respondents well above its leading market share 
+nxp semiconductors and stmicro were 
+the next two bit suppliers that designers are using bit texas 
+instruments has narrow lead over microchip and nxp 
+finally the fast growing bit mcu space 
+nxp the preferred vendor followed texas instruments 
+and stmicro 
+source alphawise survey morgan stanley research 
+microchip the clear leader bit mcus 
+source alphawise survey morgan stanley research 
+txn microchip and nxp are the key players bit mcus 
+source alphawise survey morgan stanley research 
+global insight 
+survey description 
+alphawise surveyed respondents whose organizations 
+are oem system integrators and all them stated they 
+are the decision maker have influence regarding microcontroller their companies the respondents 
+were from companies with over employees while 
+and had less than employees and 
+employees shown below about 
+respondents were system architect engineer while 
+and were software engineer and project manager 
+han gateway home automation system set top box tablet 
+reader wearables such smart watches fitness bands etc and 
+industrial automation control building automation system 
+data acquisition industrial gateways machine controls motion controls process control monitoring robotics operator interfaces are 
+similar these respondents products have smaller footprint 
+communications and networking shown below 
+end markets where the survey respondents focussed 
+end device where products are used 
+organization size survey respondents 
+employee numbers for the organization 
+other 
+less than 
+employees 
+employees 
+employees 
+more than 
+employees 
+source alphawise morgan stanley research 
+source alphawise morgan stanley research 
+finally the respondents are from the and aggregating 
+canada and other country the americas region added 
+exposure north america europe middle east africa are the 
+functional role survey respondents 
+biggest region where the respondents engineering organi 
+primary role within the organization 
+zation are head quartered germany while united kingdom france 
+communication 
+networking 
+industrial 
+automation 
+control 
+automotive 
+consumer 
+electronics 
+australia and italy each accounted for the overall group about 
+respondents are from china 
+others 
+board engineer 
+engineering directors 
+level 
+engineering manager 
+level 
+project 
+manager 
+and apac 
+software 
+engineer 
+the survey respondents are based followed emea 
+system 
+architect engine 
+source alphawise morgan stanley research 
+note other roles include soc engineer mechanical engineer algorithm developer functional expert 
+and test verification validation engineer 
+engineering organization headquarter 
+market the respondents products are used automotive devices such airbag passenger safety systems vehicle infotainment visual displays vehicle gateways communications transmission controls energy electric motor management meanwhile 
+the end product exposure consumer electronics digital still 
+video camera electronics toy gaming system home area network 
+morgan stanley research 
+north america 
+europe middle 
+east africa 
+asia pacific 
+others 
+source alphawise morgan stanley research 
+global insight 
+arm arm equal weight 
+investment thesis 
+arm semiconductor business 
+model the most robust business 
+model the european technology 
+sector our view with high 
+operational leverage arm receives 
+royalty rate every chip 
+containing its 
+while the past two years licensing 
+has surprised the upside royalties 
+have surprised the downside 
+think medium term growth for 
+royalties closer rather than 
+the that the market forecasts 
+source homson reuters historical share price data morgan stanley research estimates 
+arm has strong leverage the 
+smartphone tablet both ipad and 
+android and laptop markets 
+price target 
+reflecting softbank bid implying 
+bull 
+bull case price target reflect softbank offer 
+prior the bid our bull case assumed continued innovation and higher performing devices 
+lead lower asp decline and longer duration growth while new end markets servers internet 
+things and networking help the top line grow 
+base 
+base case price target reflect softbank offer 
+prior the bid our base case assumed innovation continues slow the smartphone 
+and tablet market but long duration and operating leverage leads sustainable cash flow and eps 
+growth cagr new end markets servers internet things and networking add 
+growth although not the magnitude smartphones revenues grow cagr and ebit margins expand from 
+bear 
+bid doesn through and experience recession scenario assume investors would 
+not look arm dcf valuation but basis instead arm troughed during the liquidity crisis and compressed last summer when investors 
+were also worried about growth believe arm could trough such 
+scenario investors would likely see through the downturn arm better positioning 
+the semiconductor market this suggests value per share 
+providing baseband processors not 
+only for lte communication but 
+also for connectivity wifi bluetooth 
+gps application and graphics 
+processors furthermore windows 
+has been ported arm believe 
+arm will take share the laptop app 
+processor market 
+key value drivers 
+growth end markets and market 
+share gains leading increasing 
+royalties 
+share gains the market even 
+intel and amd still dominate the 
+market 
+risks achieving price target 
+key risks relate the announced deal 
+with softbank not reaching 
+completion regard this unlikely 
+this point given the 
+recommendation the board and 
+limited anti trust issues 
+global insight 
+cypress semiconductor equal weight 
+investment thesis 
+our represents eps includes stock based compensation our 
+multiple discount peers given lower profitability and subpar balance sheet see 
+opportunity for multiple expansion cypress delivers margins 
+have moved equal weight 
+following recent strong 
+outperformance the stock that 
+believe leaves fairly valued with 
+balanced risk reward from here nearterm potential implications around 
+ceo change having outsized 
+impact the stock more than 
+underlying business fundamentals 
+fundamental basis think upside 
+gms will important sustaining 
+bid the stock terms 
+downside risk highlight the 
+company weakened balance sheet 
+after the purchase broadcom iot 
+business source potential 
+concern the macro deteriorates 
+although our unchanged 
+are increasing our bear case valuation 
+from reflect better 
+downside support considering the 
+attention being placed 
+bull 
+consolidating semiconductor market 
+source thomson reuters morgan stanley research 
+price target 
+eps 
+upside growth programmable systems and data communications segment driven stronger 
+adoption and share gains psoc ble and type markets include premium our 
+bull case given pick consolidation semiconductor industry 
+revenue growth 
+reach 
+base 
+eps 
+rebound programmable systems driven ramp psoc and ble products well steady 
+growth for spansion mcu analog business datacomm returns growth driven pick 
+adoption usb and type products lsd growth memory products driven non volatile 
+memory products and nand business sram remain roughly flat and nor continues decline 
+albeit lower pace finally emerging tech continues its strong momentum and accretive 
+revenue growth part driven full year spansion and revenue growth 
+programmable systems growth and 
+memory products and down 
+data communications and 
+reach and another 
+and eps and 
+bear 
+eps 
+potential catalysts 
+upside gms utilization rebounds 
+and product mix improves our 
+estimate above 
+the street 
+stronger than expected ramp psoc 
+products and faster adoption ubs 
+type 
+risks achieving price target 
+potential downside memory due 
+secular headwinds nor and 
+lesser degree sram 
+growth programmable systems and 
+data communications comes below 
+expectations 
+uneven execution which could weigh 
+the valuation multiple 
+memory continues headwind with double digit declines nor growth pick 
+programmable systems and data communications below expectations 
+revenue declines 
+morgan stanley research 
+global insight 
+infineon ifxgn underweight 
+why underweight 
+strength the upturn automotive 
+and industrial end markets 
+pricing low end mid end power 
+semis light increased chinese 
+competition 
+competition from japanese suppliers 
+helped weaker jpy 
+pricing power autos with increased 
+competition from stmicro hyundai 
+and audi 
+potential catalysts 
+source thomson reuters historical share price data morgan stanley research estimates 
+state the car loan market 
+equifax and major oems 
+price target 
+set our line with our base case fair value looking sales multiples for and 
+assuming through cycle margin hence justifying target multiple 
+automotive data especially the 
+premium segment 
+german industrial data 
+chinese gdp data and key train 
+bull 
+infrastructure contract 
+bull case sales 
+our bull case assumes that peak multiple rolled forward one year infineon will reach 
+operating margin and investors look for strong growth autos and industrials while pmm continues 
+gain traction smartphone and digital segments book bill ratio developes strongly and 
+investors extrapolate cyclicality for the coming years 
+base 
+risks achieving price target 
+base case sales 
+strength book bill ratio 
+momentum turns and infineon remains vulnerable the semis cycle valuation reverts lower 
+level more line with the ebit margin printed across the cycle are conservative autos 
+stronger cyclical performance 
+and industrials and continue see ifx analog play limited scope for digital offset the 
+long term 
+bear 
+bear case sales 
+assume book bill ratio falls well below sales growth turns negative because high fixed 
+costs and margins trend down towards 
+margins returning peak 
+global insight 
+microchip technology mchp overweight 
+investment thesis 
+upgraded mchp the proposed 
+acquisition atml which adds 
+eps this 
+accretive microchip 
+earnings 
+atmel adds already strong mcu 
+franchise with the combined company 
+having share and representing the 
+player the segment 
+see compelling value mchp and 
+mean reversion the stock which has 
+lagged the sox and 
+over the past years based 
+source thomson reuters morgan stanley research 
+pro forma earnings with atml mchp 
+trades discount the group 
+price target 
+our represents multiple eps incudes impact stock 
+based compensation turn discount high end analog mcu peers given higher leverage 
+post the atmel deal 
+bull 
+our eps 
+microchip new products and bit mcus and atmel acquisition drive over cagr 
+through still below the company updated target model 
+the atmel deal goes through 
+including atmel contribution revenue cagr through 
+potential catalysts 
+acceleration growth bit mcus 
+helped atmel strong momentum 
+with arm based products 
+future revenue synergies with smsc 
+which date has been margin 
+expansion play 
+eps accretion the mcrl deal 
+base 
+our eps 
+improving cycle where microchip typically does well the early stages and contribution 
+from atmel smsc and mcrl drives strong revenue and eps growth 
+revenue cagr into including atmel and micrel contribution 
+mcus contribution from atmel and 
+analog growth contribution from micrel and 
+memory and 
+risks achieving price target 
+execution 
+higher net leverage post recent 
+acquisition 
+due dilution from atmel deal after 
+synergies gradually kicks 
+eps and eps 
+bear 
+our eps 
+recent growth the housing and industrial end markets stall out with falling 
+revenue cagr through including atmel contribution 
+due dilution form atmel acquisition and limited cost synergies 
+morgan stanley research 
+global insight 
+nxp semiconductor nxp overweight 
+investment thesis 
+source thomson reuters morgan stanley research 
+price target 
+our represents our eps includes stock based compensation 
+our target multiple discount peer average given that the company higher debt balance 
+and possible integration risks with the freescale merger that large extent should balanced 
+nxp better growth prospects 
+bull 
+bull case eps 
+expansion beyond base case continued share gains within general purpose and auto mcus 
+higher global saar stronger than expected adoption mobile payments china smartphones 
+oems and faster than expected ramp chip based cards the assumes revenue growth 
+and the company operating margins including stock based compensation expense cross 
+and buybacks above expectations 
+base 
+base case eps 
+the company rebounds from the sharp drop seen double digit growth connected device 
+driven mobile payments mcu share gains and good growth autos driven increasing adoption 
+nxp radar solutions 
+revenue growth and outgrowing analog mcu peers 
+gms expand and another 
+and eps and 
+bear 
+bear case eps 
+macro environment weakens and competitive pressures identification emerge muted growth 
+drivers and weaker than expected growth across all segments results msd revenue decline 
+operating margins and gross margins below target model 
+rate nxpi overweight rating reflect 
+impressive eps cagr for the 
+company driven above average revenues 
+growth and freescale acquisition driven 
+cost savings 
+post freescale merger nxp likely 
+continue outgrow the semi industry led 
+exposure secular growth themes 
+such increasing penetration mobile 
+payment transition emv payment cards 
+the and continued penetration 
+electronic documents government 
+applications more both companies are 
+leaders the automotive market one 
+the fastest growing verticals semis with 
+combined position 
+expect cost savings from 
+the freescale merger key driver 
+eps growth for the company driving 
+eps accretion 
+resumption buybacks and 
+pick provides another tailwind 
+for eps 
+key value drivers 
+hsd growth the secure connected 
+devices business and automotive business 
+continued market share gains general 
+purpose and auto mcus 
+continued growth automotive content 
+per vehicle 
+potential catalysts 
+pick growth automotive driven 
+faster than expected adoption adas and 
+technology 
+new nfc controller secure element 
+socket wins android oems 
+nxp achieving upside its target 
+cost savings for the fsl merger 
+acceleration cash returns 
+shareholders via additional buybacks and 
+possibly dividend initiation 
+roll out dual interface payment cards 
+the 
+risks achieving price target 
+execution freescale integration 
+competition and mobile payments 
+from infineon micro and broadcom 
+declining auto production the macro 
+weakens particulary china 
+global insight 
+renesas overweight 
+why 
+ramp strategic products and 
+phase production site reforms drive 
+earnings growth 
+potential build strong position 
+mcu and soc for autonomous driving 
+over the long term 
+key value drivers 
+trends markets for automotive and 
+industrial devices renesas market share 
+morgan stanley research estimates share price aug 
+source thomson reuters morgan stanley research 
+price target 
+ebitda 
+accelerating growth markets for automotive and industrial devices higher valuation multiple 
+compared base case 
+sales down 
+sales 
+base 
+gross margins 
+derived applying ebitda multiple our forecasts based historical mid cycle 
+multiple 
+bull 
+reductions fixed costs due 
+structural reforms etc 
+upside risk factors 
+accelerated structural reforms costs 
+reductions and gross margin improvement 
+ahead our expectations 
+acquisition strong market share for 
+image recognition socs and safety 
+microcontrollers for self driving 
+automobiles 
+ebitda 
+risks achieving price target 
+based following assumptions setting price target using ebitda multiple based 
+historical mid cycle multiple 
+falling fixed costs and gpm improvement supporting earnings growth 
+maintains strong position market for semiconductors for automotive applications 
+sales down 
+sales 
+continued decline market share 
+yen strengthening annual declines 
+bear 
+ebitda 
+sluggish earnings growth lower valuation multiple compared base case continued decline 
+market share 
+sales down 
+sales 
+morgan stanley research 
+slowdown global automobile 
+production and microcontroller demand 
+more than for each 
+appreciation against the dollar and 
+for each appreciation against 
+the euro our forecasts assume usd 
+and eur 
+global insight 
+stmicroelectronics stm equal weight 
+why equal weight 
+improved industry development 
+major part inventory correction 
+likely behind that said demand 
+not reassuring 
+pricing likely provides headwind 
+growth 
+should the eur decrease the share 
+price could increase even further 
+bull case 
+key value drivers 
+structural growth core business 
+from mems sensors and 
+source thomson reuters historical share price data morgan stanley research estimates 
+microcontrollers 
+increasing focus core business 
+dividend yield about 
+price target 
+set our price target line with our base case fair value and use sales methodology 
+sales based margins expanding 
+and supports valuation 
+dividend seeking environment and risk 
+has declined dividend cut already 
+occurred 
+bull 
+sales sales 
+euro continues depreciate parity from the current level management turns the company 
+around fully addressing the underperforming digital crolles this increases competitiveness and 
+brings margins through the cycle infineon and the stock rerates sales 
+half infineon 
+risks achieving price target 
+currency swings eur usd could 
+base 
+was 
+sales sales was 
+sales based long term margin potential below company target and 
+infineon target meanwhile automotive and industrial end markets have been increasingly 
+challenging and could last longer than expected solution digital provides optionality 
+lead some upside profitability 
+key upside risk here that 
+management could take the 
+opportunity execute fully its 
+restructuring digital and crolles 
+bear 
+sales sales 
+bear case assumes trough sales multiple margins remain lower for longer our bear 
+case around breakeven for the next years adopt sales the bear target multiple 
+the stock has typically troughed this level downcycles 
+give itself optionality and potentially 
+take market share across the board 
+after several difficult years 
+weakening demand for denominated 
+goods imported back europe and 
+global insight 
+texas instruments txn equal weight 
+investment thesis 
+revenue exposure slower growth 
+markets analog peers with other 
+dlp asic calculators legacy 
+wireless still revs and less 
+exposure industrial autos than 
+peers 
+txn has led the way terms cash 
+return which has led valuation 
+improvement it hard improve 
+cash returns from fcf 
+its credit the company has largely 
+shunned recent hype around markets 
+such iot though still has broad 
+source thomson reuters morgan stanley research 
+capabilities which should help the risk 
+profile peers 
+price target 
+despite high likelihood 
+fundamental improvement valuation 
+our represents our eps based the average historic multiple peak 
+earnings for analog companies 
+premium peer group leaves less 
+bull 
+sub type growth environment 
+bull case eps 
+project for the company 
+improving macroeconomic environment drives analog snapback new highs operating 
+margins txn grows revenue its customers replenish inventories addition strong 
+end demand growth high incremental margins drive significant margin expansion and fcf remains 
+high txn reaps the benefits from underutilized capacity txn achieves gms and oms 
+base 
+base case eps 
+assumes analog business grows faster than the market line with high performance analog 
+peers 
+analog after organic growth growth growth decline 
+growth and growth 
+embedded processing grows and and and and and 
+txn achieves gms and opm 
+bear 
+room for upside particularly the 
+and 
+positive business drivers 
+returning basically free cash 
+flow shareholders through 
+dividends and repurchases 
+can grow with minimal capex 
+business model increasingly built 
+around analog embedded strengths 
+risks achieving price target 
+bear case trough eps 
+other revs consists low 
+global macroeconomic weakness drives significant declines ti core analog business and 
+wireless decline faster than anticipated macro erodes further 
+revenue decline 
+gross margin and operating margin and levels 
+growth businesses 
+more exposed pcs smartphones 
+and wireless infrastructure than some 
+other analog names 
+morgan stanley research 
+global insight 
+morgan stanley international plc morgan stanley acting financial advisor vodafone group plc vodafone relation its 
+discussions with liberty global plc liberty global regarding the potential creation joint venture the netherlands that would incorporate 
+both companies local operating businesses per vodafone press release issued february fees may payable morgan stanley 
+connection with its financial services please refer the notes the end the report 
+mitsubishi ufj morgan stanley securities ltd mumss acting financial advisor each mitsubishi ufj financial group 
+inc mufg and mitsubishi ufj lease finance company limited mul relation the business alliance between mufg the bank 
+tokyo mitsubishi ufj ltd mul hitachi ltd and hitachi capital corporation and mufg and mul respectively acquiring shares hitachi 
+capital corporation from hitachi ltd announced may the proposed transaction subject regulatory approvals and other 
+customary closing conditions this report and the information provided herein are not intended solicit support for any potential transaction 
+otherwise provide advice investors mufg and mul have agreed pay advisory fees mumss for its financial advisory services 
+highly restricted 
+global insight 
+disclosure section 
+the information and opinions morgan stanley research were prepared are disseminated morgan stanley llc and morgan stanley 
+and morgan stanley xico casa bolsa and morgan stanley canada limited and morgan stanley international plc 
+and rmb morgan stanley proprietary limited and morgan stanley mufg securities ltd and morgan stanley capital group japan ltd 
+and morgan stanley asia limited and morgan stanley asia singapore pte registration number and morgan stanley asia singapore 
+securities pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents 
+and should contacted with respect any matters arising from connection with morgan stanley research and morgan stanley taiwan limited 
+and morgan stanley international plc seoul branch and morgan stanley australia limited holder australian financial 
+services license which accepts responsibility for its contents and morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents and morgan stanley india company private 
+limited regulated the securities and exchange board india sebi and holder licenses research analyst sebi registration 
+stock broker bse registration and nse registration inb merchant banker sebi registration 
+and depository participant with national securities depository limited sebi registration nsdl which accepts the 
+responsibility for its contents and should contacted with respect any matters arising from connection with morgan stanley research and 
+morgan stanley asia indonesia and their affiliates collectively morgan stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report charlie 
+chan craig hettenbach francois meunier joseph moore mathias santos silva tetsuro tsusaka cfa kazuo yoshikawa cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+july morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research ambarella inc arm holdings plc asm international asml holding cypress semiconductor corp dialog semiconductor plc 
+fairchild semiconductor int inc inphi corporation marvell technology group ltd stmicroelectronics umc 
+within the last months morgan stanley managed managed public offering offering securities analog devices inc inphi corporation 
+micron technology inc qorvo inc sensata technologies holding texas instruments 
+within the last months morgan stanley has received compensation for investment banking services from analog devices inc broadcom ltd cypress 
+semiconductor corp dialog semiconductor plc inphi corporation intel corporation micron technology inc nxp semiconductor qorvo inc sensata 
+technologies holding connectivity ltd texas instruments 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from advanced micro devices 
+aixtron ambarella inc analog devices inc arm holdings plc asm international asml holding broadcom ltd cavium inc cypress 
+semiconductor corp dialog semiconductor plc fairchild semiconductor int inc infineon technologies inphi corporation intel corporation 
+invensense inc linear technology corp marvell technology group ltd maxim integrated products inc microchip technology inc micron technology 
+inc nvidia corp nxp semiconductor semiconductor corp qorvo inc renesas electronics sensata technologies holding skyworks 
+solutions inc smic stmicroelectronics connectivity ltd texas instruments umc xilinx 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from advanced micro 
+devices ambarella inc amphenol corp analog devices inc arm holdings plc asm international broadcom ltd cypress semiconductor corp 
+fairchild semiconductor int inc infineon technologies intel corporation linear technology corp marvell technology group ltd maxim integrated 
+products inc micron technology inc nxp semiconductor semiconductor corp sensata technologies holding smic connectivity ltd 
+texas instruments umc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company advanced micro devices aixtron ambarella inc analog devices inc arm holdings plc asm international asml holding 
+broadcom ltd cavium inc cypress semiconductor corp dialog semiconductor plc fairchild semiconductor int inc infineon technologies inphi 
+corporation intel corporation invensense inc linear technology corp marvell technology group ltd maxim integrated products inc microchip 
+technology inc micron technology inc nvidia corp nxp semiconductor semiconductor corp qorvo inc renesas electronics sensata 
+technologies holding skyworks solutions inc smic stmicroelectronics connectivity ltd texas instruments umc xilinx 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company advanced micro devices ambarella inc amphenol 
+corp analog devices inc arm holdings plc asm international broadcom ltd cypress semiconductor corp fairchild semiconductor int inc infineon 
+technologies inphi corporation intel corporation linear technology corp marvell technology group ltd maxim integrated products inc microchip 
+technology inc micron technology inc nvidia corp nxp semiconductor semiconductor corp sensata technologies holding smic 
+stmicroelectronics connectivity ltd texas instruments umc xilinx 
+morgan stanley llc makes market the securities advanced micro devices ambarella inc amphenol corp analog devices inc arm holdings 
+plc asml holding broadcom ltd cavium inc cypress semiconductor corp fairchild semiconductor int inc inphi corporation intel corporation 
+invensense inc linear technology corp marvell technology group ltd maxim integrated products inc microchip technology inc micron technology 
+inc nvidia corp nxp semiconductor semiconductor corp qorvo inc sensata technologies holding skyworks solutions inc 
+stmicroelectronics connectivity ltd texas instruments tsmc umc xilinx 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley research 
+global insight 
+highly restricted 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+july 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight over the stock total return expected exceed the total return the relevant country msci index the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+equal weight equal the stock total return expected line with the total return the relevant country msci index the average total return 
+the analyst industry industry team coverage universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the relevant country msci index the 
+average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+underweight under the stock total return expected below the total return the relevant country msci index the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities advanced micro devices amphenol 
+global insight 
+highly restricted 
+corp analog devices inc asm international cypress semiconductor corp intel corporation maxim integrated products inc micron technology inc 
+nvidia corp semiconductor corp smic stmicroelectronics connectivity ltd texas instruments umc xilinx 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers hong 
+kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities hong 
+kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+certain information morgan stanley research was sourced employees the shanghai representative office morgan stanley asia limited for the use 
+morgan stanley asia limited 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+morgan stanley research 
+global insight 
+highly restricted 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia indonesia 
+canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley 
+bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage semiconductors 
+company ticker 
+rating 
+price 
+craig hettenbach 
+amphenol corp aph 
+analog devices inc adi 
+broadcom ltd avgo 
+cypress semiconductor corp 
+fairchild semiconductor int inc fcs 
+linear technology corp lltc 
+maxim integrated products inc mxim 
+microchip technology inc mchp 
+nxp semiconductor nxpi 
+semiconductor corp 
+qorvo inc qrvo 
+sensata technologies holding 
+skyworks solutions inc swks 
+connectivity ltd tel 
+joseph moore 
+advanced micro devices amd 
+ambarella inc amba 
+cavium inc cavm 
+inphi corporation iphi 
+intel corporation intc 
+invensense inc invn 
+marvell technology group ltd mrvl 
+micron technology inc 
+nvidia corp nvda 
+texas instruments txn 
+xilinx xlnx 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+global insight 
+highly restricted 
+industry coverage technology semiconductors 
+company ticker 
+rating 
+price 
+andrew humphrey 
+aixtron aixgn 
+francois meunier 
+arm holdings plc arm 
+asml holding asml 
+dialog semiconductor plc dlgs 
+imagination technologies group img 
+infineon technologies ifxgn 
+stmicroelectronics stm 
+mathias santos silva 
+asm international asmi 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 
+morgan stanley research 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

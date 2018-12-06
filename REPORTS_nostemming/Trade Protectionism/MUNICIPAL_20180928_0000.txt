@@ -1,0 +1,707 @@
+september gmt 
+municipal strategy north america 
+state local tariff exposure guide 
+governments have recently imposed tariffs over worth goods and the trade conflict 
+persists which state and local governments are most exposed 
+morgan stanley llc 
+michael zezas cfa 
+strategist 
+michael zezas morganstanley 
+mark schmidt cfa 
+strategist 
+mark morganstanley 
+alexander ventriglia 
+strategist 
+alexander ventriglia morganstanley 
+meredith pickett 
+what did investors have asked how tariffs will felt across state and local credits using wage export and import data 
+developed regional exposure guide that measures how tariffs imports and exports may 
+affect states and msas then extend this analysis simulate how exposures increase under full scale china tariffs which 
+would propel the total value goods subject tariffs over find the impact unevenly distributed just 
+general exposure trade unevenly distributed across states agricultural manufacturing and trading hubs are most risk 
+strategist 
+meredith pickett morganstanley 
+exhibit 
+source alphawise morgan stanley research bea census bureau figures are all based annual data 
+due the nature the fixed income market the issuers 
+bonds the issuers recommended discussed this 
+report may not continuously followed accordingly 
+investors must regard this report providing stand alone 
+analysis and should not expect continuing analysis 
+additional reports relating such issuers bonds the 
+issuers 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+overview tariff timeline the road global tariffs 
+exhibit 
+date 
+january 
+february 
+march 
+march 
+selected actions 
+imposes safeguard tariffs solar panels and washing machines 
+releases section investigation results finds steel and aluminum imports threaten national security 
+announces steel and aluminum import tariffs 
+ustr releases section investigation results finds china trade practices regarding technology transfer and 
+rights unfair 
+imposes tariffs steel and aluminum imports but exempts certain trading partners such mexico and canada 
+march 
+china imposes retaliatory tariffs aluminum and agricultural products 
+april 
+releases tariff list worth imports from china 
+april 
+china releases tariff list worth imports from 
+april 
+reduces exemption list for steel and aluminum tariffs only argentina steel and aluminum australia steel and 
+aluminum brazil steel and south korea steel 
+june 
+canada imposes retaliatory tariffs response the steel and aluminum tariffs 
+mexico imposes retaliatory tariffs response the steel and aluminum tariffs 
+june 
+president directs ustr identify list for tariffs worth products from china 
+june 
+turkey imposes retaliatory tariffs response the steel and aluminum tariffs 
+june 
+imposes retaliatory tariffs response the steel and aluminum tariffs 
+june 
+imposes tariffs worth imports from china from list 
+july 
+china imposes retaliatory tariffs worth imports from from list 
+releases preliminary list for tariffs worth imports from china 
+july 
+threatens tariffs all imports from china 
+july 
+china announces retaliatory tariffs worth imports from 
+august 
+imposes tariffs worth imports from china from list 
+august 
+china imposes retaliatory tariffs worth imports from from list 
+september announces final list tariffs worth imports from china 
+imposes tariff worth imports from china 
+september 
+china imposes retaliatory tariffs worth imports from 
+source morgan stanley research piie ustr white house the guardian international trade administration cbp see trade tensions chipping away growth september note this not exhaustive list global trade actions argentina brazil and south korea are subject quotas instead tariffs 
+overview assess the impact the status quo further escalation 
+exhibit 
+list tariffs included this analysis 
+approximate value tariffed goods 
+tariffs country 
+section steel tariffs exemptions argentina australia 
+rest brazil and south korea 
+tariffs world section aluminum tariffs exemptions argentina and 
+imposed 
+australia 
+the 
+china 
+china 
+retaliatory 
+tariffs 
+imposed 
+the 
+mexico 
+canada 
+turkey 
+scenario current tariffs 
+scenario full scale 
+china tariffs 
+retaliatory tariffs response the section 
+tariffs 
+retaliatory tariffs response the section 
+tariffs 
+retaliatory tariffs response the section 
+tariffs 
+section tariffs 
+sum value tariffed goods 
+source morgan stanley research piie census usa trade online tool wto global policy watch cnn international trade administration mohawk global canada department finance approximate values tariffed goods are generally based trade data this not exhaustive list new tariffs introduced since the 
+began enforcing section tariffs other tariffs such those from india and russia were not included due either lack data availability data quality concerns argentina brazil and south korea are subject quotas instead tariffs quotas were not accounted for this analysis 
+methodology measured impact using wage export import data 
+tariffs response tariffs 
+percent wages impacted tariffs 
+mapped digit harmonized system codes digit naics codes identify regional exposure 
+industries impacted the retaliatory tariffs the percent wages affected was used determine the degree 
+impact all codes included the us steel and aluminum tariffs were eliminated since domestic producers 
+those goods should benefit from the global tariffs 
+naics data paired with the bls quarterly census employment and wages allow assess the impact 
+state and msa but not differentiate between domestic and global focused establishments 
+state exports goods subject tariffs gsp 
+used the census usa trade online tool quantify the annual value tariffed goods exported state 
+the specific country applying the tariff done for the percent wages method codes included the us 
+steel and aluminum tariffs were eliminated 
+using state exports more precisely tells the value goods that are subject tariffs versus the percent 
+wages method which based broader classifications business type however the exporting state origin 
+movement state does not reflect the state production practically this means states that consolidate goods 
+for export such louisiana will overemphasized msa level data available 
+tariffs 
+state imports goods subject tariffs gsp 
+using the census usa trade online tool quantified the annual value tariffed goods imported each state 
+from specific country tariffs were assumed apply steel and aluminum imports from all countries besides 
+those that were exempted quotas were not taken into account 
+the census refers the importing state the state destination which not equivalent the state 
+consumption this series can reflect consolidation points and can overemphasize large states since shipment 
+with multiple destinations will only considered imported the state that receives the greatest value 
+the shipment goods msa level data are available 
+impact top industries exports imports impacted tariffs 
+exhibit 
+top three industries exposed tariffs 
+industry 
+total wages 
+nationwide 
+current tariffs 
+semiconductor and 
+related device manufacturing 
+pharmaceutical 
+preparation manufacturing 
+electronic computer 
+manufacturing 
+full scale china tariffs 
+exhibit 
+exhibit 
+top three exports exposed tariffs chinese 
+retaliation tariffs only 
+total exports 
+product 
+nationwide 
+current tariffs 
+top three imports exposed tariffs tariffs 
+china only steel and aluminum 
+total imports 
+product 
+nationwide 
+current tariffs 
+machines for the 
+reception conversion 
+transmission voice etc 
+soybeans 
+motor vehicles 
+cylinder capacity btw 
+and 
+crude oil from 
+petroleum and bituminous 
+minerals 
+full scale china tariffs 
+semiconductor and 
+related device manufacturing 
+civilian aircraft 
+engines and parts 
+pharmaceutical 
+preparation manufacturing 
+soybeans 
+electronic computer 
+manufacturing 
+motor vehicles 
+cylinder capacity btw 
+and 
+source morgan stanley research bls qcew accessed august figures are all based 
+annual data 
+source morgan stanley research census usa trade online tool figures are all based 
+annual data 
+parts accessories 
+for auto data processors 
+static converters 
+auto data processor power 
+supplies 
+full scale china tariffs 
+phones for cellular 
+ntwks for oth wireless 
+ntwk 
+portable automatic 
+data processing machines 
+machines for the 
+reception conversion 
+transmission voice etc 
+source morgan stanley research census usa trade online tool figures are all based 
+annual data 
+tariffs response tariffs wage exposure current tariffs 
+exhibit 
+exhibit 
+most and least affected states 
+rank 
+source alphawise morgan stanley research bls qcew accessed august bea figures are all based annual data 
+state 
+indiana 
+wisconsin 
+michigan 
+ohio 
+oregon 
+south carolina 
+alabama 
+idaho 
+minnesota 
+iowa 
+montana 
+north dakota 
+new york 
+hawaii 
+new mexico 
+rhode island 
+nevada 
+delaware 
+maryland 
+wyoming 
+percent wages 
+impacted 
+source alphawise morgan stanley research bls qcew accessed august bea figures are 
+all based annual data 
+tariffs response tariffs wage exposure full scale china tariffs 
+exhibit 
+exhibit 
+most and least affected states 
+rank 
+source alphawise morgan stanley research bls qcew accessed august bea figures are all based annual data 
+state 
+indiana 
+wisconsin 
+michigan 
+ohio 
+oregon 
+alabama 
+idaho 
+south carolina 
+iowa 
+north carolina 
+alaska 
+north dakota 
+new york 
+hawaii 
+new mexico 
+maryland 
+wyoming 
+rhode island 
+nevada 
+delaware 
+percent wages 
+impacted 
+source alphawise morgan stanley research bls qcew accessed august bea figures are 
+all based annual data 
+tariffs response tariffs wage exposure current tariffs 
+exhibit 
+exhibit 
+most and least affected large msas 
+rank 
+source alphawise morgan stanley research bls qcew accessed august bea figures are all based annual data msas were colored based deciles 
+msa 
+elkhart goshen 
+san jose sunnyvale santa clara 
+beaumont port arthur 
+yakima 
+hickory lenoir morganton 
+grand rapids wyoming 
+cincinnati 
+portland vancouver hillsboro 
+santa rosa 
+boise city 
+york hanover 
+detroit warren dearborn 
+salinas 
+minneapolis paul bloomington 
+chicago naperville elgin 
+dallas fort worth arlington 
+san juan carolina caguas 
+milwaukee waukesha west allis 
+san diego carlsbad 
+lake charles 
+college station bryan 
+hagerstown martinsburg 
+atlantic city hammonton 
+lincoln 
+mcallen edinburg mission 
+salisbury 
+waco 
+amarillo 
+topeka 
+springfield 
+burlington south burlington 
+tallahassee 
+gulfport biloxi pascagoula 
+corpus christi 
+anchorage 
+killeen temple 
+myrtle beach conway north myrtle beach 
+crestview fort walton beach destin 
+wilmington 
+fayetteville 
+percent 
+wages 
+impacted 
+source alphawise morgan stanley research bls qcew accessed august bea figures are 
+all based annual data msas employees 
+tariffs response tariffs wage exposure full scale china tariffs 
+exhibit 
+exhibit 
+most and least affected large msas 
+rank 
+source alphawise morgan stanley research bls qcew accessed august bea figures are all based annual data msas were colored based deciles 
+msa 
+elkhart goshen 
+san jose sunnyvale santa clara 
+beaumont port arthur 
+yakima 
+hickory lenoir morganton 
+grand rapids wyoming 
+cincinnati 
+portland vancouver hillsboro 
+boise city 
+santa rosa 
+york hanover 
+detroit warren dearborn 
+minneapolis paul bloomington 
+salinas 
+chicago naperville elgin 
+dallas fort worth arlington 
+san juan carolina caguas 
+milwaukee waukesha west allis 
+san diego carlsbad 
+lake charles 
+washington arlington alexandria 
+portland south portland 
+lincoln 
+college station bryan 
+hagerstown martinsburg 
+atlantic city hammonton 
+mcallen edinburg mission 
+salisbury 
+topeka 
+burlington south burlington 
+springfield 
+tallahassee 
+gulfport biloxi pascagoula 
+corpus christi 
+anchorage 
+killeen temple 
+wilmington 
+myrtle beach conway north myrtle beach 
+crestview fort walton beach destin 
+fayetteville 
+percent 
+wages 
+impacted 
+source alphawise morgan stanley research bls qcew accessed august bea figures are 
+all based annual data msas employees 
+tariffs response tariffs export exposure current tariffs 
+exhibit 
+exhibit 
+most and least affected states 
+rank 
+state 
+louisiana 
+alaska 
+south carolina 
+alabama 
+washington 
+kentucky 
+tennessee 
+texas 
+west virginia 
+michigan 
+connecticut 
+arizona 
+colorado 
+new york 
+florida 
+maryland 
+oklahoma 
+north dakota 
+hawaii 
+wyoming 
+source alphawise morgan stanley research bea census usa trade online tool figures are all based annual data 
+exports gsp 
+source alphawise morgan stanley research bea census usa trade online tool figures are all 
+based annual data 
+tariffs response tariffs export exposure full scale china tariffs 
+exhibit 
+exhibit 
+most and least affected states 
+rank 
+source alphawise morgan stanley research bea census usa trade online tool figures are all based annual data 
+state 
+washington 
+louisiana 
+south carolina 
+alaska 
+alabama 
+oregon 
+kentucky 
+new mexico 
+texas 
+tennessee 
+connecticut 
+montana 
+florida 
+new york 
+colorado 
+maryland 
+oklahoma 
+hawaii 
+north dakota 
+wyoming 
+exports gsp 
+source alphawise morgan stanley research bea census usa trade online tool figures are all 
+based annual data 
+tariffs import exposure current tariffs 
+exhibit 
+exhibit 
+most and least affected states 
+rank 
+source alphawise morgan stanley research bea census usa trade online tool figures are all based annual data 
+state 
+idaho 
+georgia 
+kentucky 
+california 
+tennessee 
+south carolina 
+mississippi 
+michigan 
+illinois 
+indiana 
+colorado 
+vermont 
+west virginia 
+delaware 
+south dakota 
+north dakota 
+wyoming 
+hawaii 
+montana 
+maine 
+imports gsp 
+source alphawise morgan stanley research bea census usa trade online tool figures are all 
+based annual data 
+tariffs import exposure full scale china tariffs 
+exhibit 
+exhibit 
+most and least affected states 
+rank 
+source alphawise morgan stanley research bea census usa trade online tool figures are all based annual data 
+state 
+tennessee 
+california 
+kentucky 
+georgia 
+illinois 
+mississippi 
+arkansas 
+idaho 
+new jersey 
+minnesota 
+alaska 
+colorado 
+delaware 
+maine 
+west virginia 
+south dakota 
+hawaii 
+wyoming 
+north dakota 
+montana 
+imports gsp 
+source alphawise morgan stanley research bea census usa trade online tool figures are all 
+based annual data 
+impact tale four municipalities 
+beyond targeting states america breadbasket tariffs apply states the manufacturing heartland well 
+kentucky 
+louisiana 
+don drink drive kentucky whiskey has been the subject many trade related 
+headlines since multiple trading partners targeted the politically sensitive export yet the 
+state only exported worth whiskey according census data we 
+more concerned about transportation manufacturing with large motor vehicle exports 
+featuring prominently the state tariffed exports and tens thousands jobs tied 
+the industry addition ranking among the top ten states impacted current tariffs 
+each measure assessed the bluegrass state credit quality lags that most states 
+has one the lowest pension funding ratios the nation 
+there trouble transit louisiana stands out the state with the greatest percentage 
+tariffed exports gsp which reflection the outsized role the state ports play 
+consolidating agricultural goods the mouth the mississippi soybeans represent 
+over two thirds the non steel and aluminum exports estimate 
+currently tariffed china beyond impacting just the ports chinese tariffs also scope 
+energy and chemical products which support billions annual wages the state 
+washington 
+aircraft the radar like louisiana washington appears more drastically 
+impacted current tariffs exports than the coastal state actually since about 
+soybeans produced elsewhere flow through the state ports however full scale 
+tariffs loom large for washington aircraft industry the state aircraft exports are worth 
+over annually and its transportation equipment manufacturing businesses that 
+could further scoped tariffs provides least jobs and over annual 
+wages the state 
+michigan 
+bump the road unsurprisingly michigan exposure the auto industry has caused 
+the state rank among the top ten states impacted current tariffs wages exports 
+and imports the transportation equipment manufacturing industry alone provides over 
+jobs and annual wages michigan auto manufacturers could face 
+margin erosion not only from revenue pressure tariffs decrease foreign demand but 
+also from cost increases from imposed tariffs vehicle parts 
+recent reports trade tariffs 
+public policy 
+september midterms what goes blue 
+september trade faqs china nafta autos 
+september china trade still escalating 
+september grading the midterms 
+august china talks this week what we watching 
+august trade china announcement means circuit breaker yet 
+july trade reprieve for autos china expense 
+july tariff list escalatory cycle motion 
+global economics 
+september risks global macro outlook it all about 
+september trade tensions chipping away growth 
+august recasting inflation tariffs and much much more 
+july global supply chain impact who most exposed 
+july trade tension lingering for longer china economics 
+other 
+july trade risk factor perspective quantitative equity research 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan stanley mexico casa bolsa and morgan stanley 
+canada limited used this disclosure section morgan stanley includes morgan stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and 
+their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan stanley research disclosure website 
+morganstanley researchdisclosures contact your investment representative morgan stanley research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client support team follows canada hong kong 
+latin america london singapore sydney tokyo alternatively you may contact your investment representative 
+morgan stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they have not received and will not receive direct indirect compensation 
+exchange for expressing specific recommendations views this report meredith pickett mark schmidt cfa alexander ventriglia michael zezas cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality research investor client feedback stock 
+picking competitive factors firm revenues and overall investment banking revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing liquidity fund management commercial banking extension credit 
+investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position 
+the debt the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley 
+research contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the contents from the rating alone any case ratings research 
+should not used relied upon investment advice investor decision buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+august 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our ratings overweight equal weight not rated and underweight morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond equal weight and not rated hold and underweight sell 
+recommendations respectively 
+coverage universe 
+stock rating category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+count 
+total 
+count total ibc 
+other material investment 
+services clients misc 
+rating 
+category 
+count 
+total 
+other misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment banking compensation the last months due rounding off 
+decimals the percentages provided the total column may not add exactly percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst industry industry team coverage universe risk adjusted basis over the 
+next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci 
+sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc morgan stanley any their affiliates are available the morgan 
+stanley wealth management disclosure website morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the same person who reviews the equity research report behalf 
+morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based developments with the issuer the sector the market that may have 
+material impact the research views opinions stated therein addition certain research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with 
+that frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning section the dodd frank wall street reform and 
+consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the recommendations views expressed research the same stock 
+this may the result differing time horizons methodologies market events other factors for all research available particular stock please contact your sales representative matrix 
+http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients certain but not all morgan stanley research products are also 
+made available clients through third party vendors redistributed clients through alternate electronic means convenience for access all available morgan stanley research please contact your sales representative 
+matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and using morgan stanley research you are indicating that you have 
+read and agree bound our terms use http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with our privacy policy and our 
+global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences and collect readership data that can deliver better and more personalized service and 
+products you find out more information about how morgan stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances and objectives those who receive morgan stanley recommends 
+that investors independently evaluate particular investments and strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and certain investors may not eligible purchase participate some all 
+them morgan stanley research not offer buy sell the solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may 
+vary because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational financial conditions companies other factors there may time 
+limitations the exercise options other rights securities instruments transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality accuracy and value 
+research firm profitability revenues which include fixed income trading and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns more class common equity securities the companies 
+for all other companies mentioned morgan stanley research morgan stanley may have investment less than securities instruments derivatives securities instruments companies and may trade them ways 
+different from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have investments securities instruments derivatives 
+securities instruments companies mentioned and may trade them ways different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable comprehensive information but make representation that 
+accurate complete have obligation tell you when opinions information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company associated expenses unless pre approved authorized members 
+research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such information for your reference 
+only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media 
+without the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation regulations accessing and receiving morgan stanley research 
+not permitted provide morgan stanley research any third party including but not limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which 
+may create give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and not construed recommendation solicitation 
+trade such securities instruments mstl may not execute transactions for clients these securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not constitute offer sell the solicitation offer buy any 
+securities the prc prc investors shall have the relevant qualifications invest such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant 
+governmental authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities investment defined under prc law such information 
+provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa which regulated comision nacional bancaria valores paseo los 
+tamarindos torre col bosques las lomas floor mexico city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong kong branch singapore morgan stanley asia singapore pte 
+registration number and morgan stanley asia singapore securities pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents 
+and should contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited singapore branch registration number australia 
+wholesale clients within the meaning the australian corporations act morgan stanley australia limited holder australian financial services license which accepts responsibility for its 
+contents australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia pty ltd holder australian financial 
+services license which accepts responsibility for its contents korea morgan stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan 
+stanley sekuritas indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley 
+private wealth management limited niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised 
+the spanish securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct applicable financial research established under spanish 
+regulations the morgan stanley llc which accepts responsibility for its contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct 
+authority and the prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial services and markets act research which has been 
+prepared any its affiliates rmb morgan stanley proprietary limited member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture 
+owned equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan stanley research being disseminated 
+morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services authority the dfsa and directed professional clients 
+only defined the dfsa the financial products financial services which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre regulatory authority the qfcra and directed business 
+customers and market counterparties only and not intended for retail customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment advisory activity investment advisory service provided exclusively 
+persons based their risk and income preferences the authorized firms comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties representations relating the accuracy completeness 
+timeliness the data they provide and shall not have liability for any damages relating such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley 

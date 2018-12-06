@@ -1,0 +1,1921 @@
+december gmt 
+communications systems and applications 
+outlook the infrastructure 
+fights back 
+investors anticipate improved spending environment 
+but believe the best investment opportunities are 
+with companies that enable more efficient and secure 
+networks and new revenue opportunities favor csco 
+comm anet and band 
+service provider spend should improve after lumpier than expected but 
+equipment vendors need well positioned for new network architectures 
+the pauses from service provider should eventually lift while firstnet 
+build could start early for the optical space inventory levels should 
+clear china and lead some spending recovery but globally carrier capex will 
+remain challenged many service providers continue exercise caution around 
+low revenue growth and will favor equipment vendors best positioned help 
+modernize networks and increase efficiencies see similar dynamic the 
+enterprise side where customers will continue explore sdn and integrate 
+networking with security strategies which should drive generally positive effect 
+upgrade activity but particularly help those vendors with the breadth and 
+product portfolio enable them 
+post tax reform capital allocation flat profit industry will big theme 
+investors have long anticipated the passage this week tax reform bill and 
+generally expect companies our coverage universe primarily increase 
+share repurchase activity for some stocks most notably csco large capital 
+return programs could drive eps upside beyond what currently anticipated 
+valuations but wonder least some the companies our coverage 
+universe could better off exploring strategic despite improved network 
+spend still anticipate relatively flat profit pools for the industry and 
+companies struggling grow revenue may better off acquiring expand 
+their addressable markets 
+favor csco comm anet and band growth opportunities are seeing 
+anecdotal evidence that csco will build leadership and market share 
+enterprises converge networking and security strategies consistent with our 
+sdn thesis manifesting the early stages campus refresh cycle after 
+volatile expect comm primary beneficiary carrier capex 
+customers continue seek efficiencies building and maintaining high speed 
+network anet looks set continue posting upside strong activity 
+supplemented increased traction with software based router technologies 
+are also positive band market opportunity and expect the company 
+meaningfully benefit from new voice messaging platforms webscale 
+customers 
+morgan stanley llc 
+james faucette 
+equity analyst 
+james faucette morganstanley 
+meta marshall 
+equity analyst 
+meta marshall morganstanley 
+yuuji anderson 
+equity analyst 
+yuuji anderson morganstanley 
+communications systems and applications 
+north america 
+industryview 
+cautious 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+remain most cautious lite and jnpr maintain negative stance 
+optical components due industry oversupply and our view that lite 
+already benefiting from peak investments multiple customer types while 
+valuations now embed high volume high margin smartphone opportunity for 
+sensing products product cycle transition risks for jnpr persist and continued 
+volatility switches and routers and expect the company will need 
+increase opex pursue new growth opportunities cutting eps estimates 
+better reflect that expectation and see further earnings downside risk 
+communications systems applications outlook 
+think the communications markets generally mature advances moore law 
+have driven total system potential far ahead software ability exploit maturity 
+begets mature stock drivers cost cutting dividends buybacks etc and maintain 
+stock appreciation checklist for quick reference our coverage universe and 
+available levers drive stock prices 
+our checklist square indicates that the market not yet anticipating the stock driver 
+circle indicates the market partially anticipating the driver and deviations from 
+current forecasts could impact the stock company positively negatively check mark 
+indicates the driver already been built into estimates and valuation and 
+indicates the company unlikely attempt actions drive the stock the more 
+squares company has the more likely the stock can meaningfully appreciate our 
+view 
+share gains from new products despite market maturity most communications 
+companies continue invest aggressively gain share core markets and push 
+into adjacent markets there are exceptions this for example telephony and 
+contact center markets are mature but cloud versions these products are still 
+its infancy similarly the enterprise smartphone market mature but enterprise 
+mobility management software still relatively young 
+increased returns shareholders markets matured and company growth rates 
+slowed investors including activists have pushed aggressively for increased cash 
+returns many companies our coverage universe have responded with sizable 
+buybacks and most still have substantial funds available given the size 
+available buybacks and current fcf forecasts believe that increased cash 
+returns shareholders are largely built into expectations and valuations across 
+the group 
+substantial opex cuts leverage typically these cuts leverage only come after 
+substantial pain for stockholders while many the operating expense 
+rationalization programs have taken place our space there are number 
+names who went through acquisitions splits reorganizations the last year and 
+could realize synergies viav arrs comm additionally many the young 
+ipos our list have prioritized achieving breakeven driving operating leverage 
+outlook the likes rng mobl and aten would caution that cutting opex 
+particuarly our space often difficult given increasing levels investment 
+from companies seeking disrupt incumbents see industry themes 
+become software company while preserving gross profit dollars companies 
+continue invest aggressively mature markets expect roic fall further 
+for hardware companies one possible means stock price appreciation 
+become software company start software company like the applications 
+vendors our coverage universe that transition can tricky often times will 
+come the expense gross profit dollars even gross margins rise higher 
+margins but lot less top line revenue the outcomes remain seen but 
+believe that least the case some our names the market baking the 
+assumption that more contributions from software only sales won hurt them 
+communications systems and applications coverage list 
+exhibit changes heading into 
+ticker 
+csco 
+comm 
+anet 
+glw 
+company name 
+cisco systems inc 
+commscope holding company inc 
+arista networks inc 
+corning inc 
+new 
+rating 
+old 
+rationale 
+anticipate increased share repurchases from foreign cash repatriation 
+improved spending environment from tax reform 
+higher share gains router some anticipation campus network entry 
+rolling forward multiple cont growth businesses outside display 
+source morgan stanley research 
+exhibit risk reward across coverage list 
+underweight 
+overweight 
+bull 
+current 
+price 
+base 
+jnpr 
+lite 
+rng 
+fivn 
+ffiv 
+trmb 
+calx 
+grmn 
+aten 
+viav 
+glw 
+acia 
+zbra 
+fit 
+cien 
+mobl 
+gpro 
+eght 
+infn 
+arrs 
+comm 
+csco 
+anet 
+band 
+bear 
+source morgan stanley research estimates thomson reuters 
+exhibit our coverage universe 
+apps 
+rng 
+eght 
+fivn 
+band 
+mobl 
+ringcentral inc 
+inc 
+inc 
+bandwidth inc 
+mobileiron inc 
+misc 
+glw 
+grmn 
+trmb 
+zbra 
+fit 
+gpro 
+corning inc 
+garmin ltd 
+trimble inc 
+zebra technologies corp 
+blackberry ltd 
+fitbit inc 
+gopro inc 
+cien 
+lite 
+viav 
+acia 
+infn 
+calx 
+ciena corp 
+lumentum holdings inc 
+viavi solutions inc 
+acacia communications inc 
+infinera corp 
+calix inc 
+core networking 
+company name 
+cisco systems inc 
+arista networks inc 
+juniper networks inc 
+networks inc 
+commscope holding company inc 
+arris international plc 
+networks inc 
+optical 
+price 
+current 
+rating target 
+price 
+ticker 
+csco 
+anet 
+jnpr 
+ffiv 
+comm 
+arrs 
+aten 
+business desciprtion 
+diversified networking vendor with position markets which they compete 
+switching vendor with focus software optimized for highest demand use cases 
+routing switching and security vendor with focus traditional and new service providers 
+networking vendor with leadership position application delivery and security 
+diversified component provider for wireless broadband and data center infrastructure 
+leading supplier set top boxes and cable broadband infrastructure equipment 
+networking vendor with focus application delivery security and 
+cloud telephony and unified communications vendor 
+cloud telephony and unified communications vendor 
+cloud telephony and unified communications vendor notably contact center software 
+leading cpaas provider enabling voice messaging initiatives for enterprises 
+enterprise mobility management software vendor 
+diversified material science company with expertise specialty glass ceramics and optics 
+gps and other hardware provider consumer electronics aviation autos and marine 
+leveraging positioning technology expertise provide complete commercial solutions 
+diversified vendor with focus asset intelligence technologies 
+mobile hardware and enterprise mobile software company 
+wearables vendors focused health and wellness activity tracking 
+action camera vendor consumer electronics market 
+diversified optical vendor focused transport and data center markets 
+optical components vendor focused merchant silicon solutions 
+vendor with test measurement and optical security products 
+optical components vendor 
+diversified optical vendor focused transport and data center markets 
+optical vendor with focus access markets 
+source morgan stanley research estimates thomson reuters 
+exhibit communications systems applications stock appreciation checklist 
+core networking 
+share gains from new products 
+increased returns shareholders 
+substantial opex reduction leverage 
+improve roi via lower investment 
+become software company 
+while preserving gross profit dollars 
+applications 
+csco 
+jnpr 
+ffiv 
+anet 
+comm 
+arrs 
+brcd 
+ubnt 
+aten 
+hive 
+rng 
+eght 
+fivn 
+mobl 
+band 
+glw 
+grmn 
+trmb 
+zbra 
+bbry 
+fit 
+gpro 
+cien 
+acia 
+infn 
+viav 
+lite 
+calx 
+misc 
+share gains from new products 
+increased returns shareholders 
+substantial opex reduction leverage 
+improve roi via lower investment 
+become software company 
+while preserving gross profit dollars 
+optical 
+legend 
+still done not built into expectations estimates valuation 
+stock appreciation 
+more likely 
+process and least partially built into expectations estimates valuation 
+done and built into estimates and stock 
+unrealistic not likely attempted 
+stock appreciation 
+less likely 
+source morgan stanley research estimates 
+industry themes 
+conditions look good for improvement service provider spend but still 
+challenging space while overall globally carrier capex was was lumpier 
+than expectations and many equipment vendors were caught off guard namely infn 
+comm cien jnpr lite moving into some the roadblocks more 
+consistent spending environment should clear driving rebound for certain vendors 
+results for the optical space not expect conditions return peaks 
+particularly terms profitability but think that spending should better 
+than levels whole 
+resolution the time warner and centurylink acquisitions 
+dampened the spending environment particularly heading into the 
+infn comm viav calx saw the biggest negative reactions this downturn 
+particularly approvals for both these deals have dragged centurylink 
+now closed and time warner appears coming closer 
+resolution would expect both improve spending infn could see the biggest 
+rebound from centurylink resuming spending though management cautious 
+forecast the timing after false starts through most 
+firstnet firstnet allocates and spectrum build interoperable 
+public safety broadband network the united states march was 
+granted authority build out firstnet and each state has the choice opt 
+the program build out the network themselves opt opt out elections for the 
+states and territories are due december this year and states have 
+already elected opt firstnet build out should begin early next year and 
+comm would see the most benefit our coverage universe comm has estimated 
+revenue more the first year from this project total 
+additionally has held off allocating additional spectrum until firstnet 
+decisions are made which could drive bigger resurgence wireless spend for 
+comm building could start early soon 
+china inventory clears much the optical componentry space has been 
+depressed the transition from backbone provincial build outs china 
+did not planned the transition has been slower than expected and 
+equipment vendors huawei and zte decided tighten cash cycles and work 
+through inventory for much the year expect inventory clear heading into 
+but not think spending levels will match and given maturing build 
+needs prices paid for equipment will less than expected roadm buildouts are 
+still opportunity but are not expecting huge rebounds spend that could 
+see valuations return levels noted our optical cycle piece earlier 
+this year valuations rarely return multiples seen peak even when china 
+demand returns this caps the valuation are willing assign lite core 
+business between space trading around currently keeping 
+the name acia which has exposure zte could see some rebound but 
+expect that from new products purchases old product zte was buying 
+exhibit carrier capex expected decline over the next two years 
+global carrier capex 
+source morgan stanley research estimates 
+exhibit global declines mostly attributable apac and emea north america expected 
+recover 
+carrier capex region 
+north america 
+latin america 
+apac 
+emea 
+source morgan stanley research estimates 
+exhibit carriers continue exercise conservatism their budgets 
+global capex revenue 
+source morgan stanley research estimates 
+exhibit exposure service provider spend 
+millions 
+oracle 
+ibm 
+cisco 
+huawei 
+accenture 
+nokia alu 
+ericsson 
+motorola solutions 
+juniper 
+amdocs 
+networks 
+zte 
+commscope 
+fortinet 
+arris 
+revenue 
+ebit 
+approx rev 
+from carriers 
+teradata 
+ubiquiti 
+ciena 
+fujitsu 
+infinera 
+viavi 
+broadsoft 
+gigamon 
+adtran 
+mitel 
+radware 
+networks 
+calix 
+harmonic 
+total rev profit pool 
+revenue 
+ebit 
+approx rev 
+from carriers 
+source morgan stanley research estimates thomson reuters highlighted names indicate names under coverage 
+still ways off helping prolong the optical fiber cycle wrote our global 
+insight from october believe the cycle should longer than but spend 
+meaningful size shouldn start until the period our research indicates that the 
+ramp will more arduous than costs need come down 
+explored our proprietary model permitting issues spectrum allocation regulatory 
+buy and technical challenges not expect these issues resolved 
+when sizable spend expected begin consequently believe the cycle will 
+more elongated with smaller initial wireless spend compared previous cycles this 
+odds with some investors views that could have synchronized ramp more 
+regions than during the launch instead traditional blanketed network rollouts 
+expect spend start with fixed wireless use cases the and europe whereas 
+china use cases may focused more iot internet things are wrong and 
+the cycle faster than are expecting would likely driven quicker rollouts 
+china that spur global competitive reaction given deployment and cost issues are 
+not large believe the amount invested will less than will have 
+longer tail for general investors would tend 
+believe this negative for all wireless infrastructure exposed names however 
+are right and proves arduous ramp even begins earlier than planned 
+think there are opportunities with technologies that enable more network flexibility 
+like fiber comm glw 
+exhibit investment cycle 
+source dell oro morgan stanley research estimates 
+exhibit cycle 
+source dell oro morgan stanley research estimates 
+sdn helps security and networking converge the exponential benefit combining 
+networking and security efficiencies encapsulated our sdn concept 
+outlined our north american insight from may believe security will increasingly 
+integrated with network functionalities which estimate could deliver much 
+savings global enterprises given the relatively small cost networking 
+the overall budget stack expect roi improvements with sdn will drive 
+equipment replacement cycles for vendors that enable traffic visibility analytics and 
+automation functionalities the push traffic growth alone has faded and without 
+security killer app equipment life cycles will continue fade estimate that 
+csco has spent acquiring companies that improve network traffic visibility 
+analytics and automation capabilities the past two years csco holds leading share 
+the firewall market and its end end portfolio unmatched peers combined with 
+the largest network footprint think csco best positioned enable sdn and 
+therefore continue take share networking and security budgets 
+exhibit software defined networking can reduce the cost 
+security breaches and significantly expand potential savings 
+compared typical networking spend 
+source idc morgan stanley research 
+smaller faster cheaper still transforming optical optical will 
+increasingly used data centers and networks the most 
+efficient way transfer data but optical equipment remains 
+expensive which has been one the gating factors faster 
+adoption for much customers were willing pay 
+anything for optical equipment there was very little 
+supply the market with multiple competitors and 
+technologies coming scale many optical component 
+vendors saw margin compression delays spend customers 
+evaluate cheaper equipment instead aco cwdm 
+instead etc acia and lite and others demonstrated 
+hyperscale data demand can fickle and 
+hypercompetitive not expect this change but 
+expect acia have some rebound demand its pico product 
+helps the company reemerge with competitive advantage 
+tax reform likely increase share repurchase activity but how about the 
+anticipation for recent tax reform has already had positive effect stocks our 
+coverage universe with either high effective tax rates substantial cash and investment 
+balances foreign subsidiaries subject taxes upon repatriation for the vast majority 
+companies our coverage universe would expect tax reform primarily used 
+for increased share repurchases most notably csco holds its cash and 
+investments foreign subsidiaries and its net cash balance roughly the 
+current market cap and estimate that repatriation and share reduction could 
+increase annual eps 
+exhibit non gaap corporate tax rates and offshore cash across coverage universe 
+ticker 
+csco 
+qcom 
+glw 
+anet 
+jnpr 
+ffiv 
+comm 
+zbra 
+arrs 
+cien 
+viav 
+acia 
+eght 
+company name 
+cisco systems inc 
+qualcomm inc 
+corning inc 
+arista networks inc 
+juniper networks inc 
+networks inc 
+commscope holding company inc 
+zebra technologies corp 
+arris international plc 
+ciena corp 
+viavi solutions inc 
+acacia communications inc 
+inc 
+non gaap 
+effective tax 
+cash and investments 
+last 
+amount foreign 
+subsidiaries 
+held 
+source morgan stanley research estimates 
+accelerated share repurchase activity could drive stocks but for least some 
+the companies our coverage universe question whether they will better off 
+accelerating activity for example ffiv has far disappointed revenue growth 
+expectations for the current product cycle which least partially attributable 
+maturing adc market without meaningfully expanding its addressable market perhaps 
+building its network security domain ffiv could struggle grow earnings 
+networking industry with little profit growth while accelerated capital returns 
+could temporarily appease investors insufficient reinvestments both organically and 
+inorganically will only exacerbate decelerating negative growth and believe jnpr 
+currently facing those repercussions 
+exhibit companies that stand benefit substantially from tax reform might consider strategic 
+accelerate growth 
+ticker 
+csco 
+qcom 
+glw 
+anet 
+jnpr 
+ffiv 
+comm 
+zbra 
+arrs 
+cien 
+viav 
+acia 
+eght 
+company name 
+cisco systems inc 
+qualcomm inc 
+corning inc 
+arista networks inc 
+juniper networks inc 
+networks inc 
+commscope holding company inc 
+zebra technologies corp 
+arris international plc 
+ciena corp 
+viavi solutions inc 
+acacia communications inc 
+inc 
+non gaap 
+effective tax 
+amount foreign 
+subsidiaries 
+rev growth 
+rev growth 
+source morgan stanley research 
+strategic activity overhangs there are number names our universe that either 
+are active strategic situations qcom have been reported news sources 
+have been exploring strategic situations ffiv rng though the companies have not 
+commented and have knowledge any potential transactions see our qcom 
+note from early november for key shareholder questions the current broadcom bid 
+general think many names our universe face challenging markets and have less 
+financial flexibility and strategic activity offers attractive outlet for others with more 
+financial flexibility think there are more avenues for accretion given valuations 
+today 
+exhibit across space over last year 
+source morgan stanley research estimates 
+asc could accelerate growth rates but mostly non event for sector 
+new revenue recognition rules going into effect general should have small 
+impact overall financials revenue recognition under current gaap contains 
+disparate array complex rules specific industries asset classes and even 
+transactions this has resulted increasingly unequal treatment transactions that 
+are economically similar the financial accounting standards board fasb and the 
+international accounting standards board iasb undertook multi year convergence 
+project develop singular model that will applied all revenue contracts with 
+customers enacted under asc noted our accounting team recent note 
+where the names our universe could see the most change the revenue 
+recognition line particularly some the biggest impacts would expect 
+see technology with being greatest impact many our appliance vendors 
+elimination the need establish vsoe vendor specific objective evidence 
+which will require companies determine the sales price individual components 
+bundled offerings this will result acceleration the revenue recognition 
+timing saas companies highlighted the impact immaterial 
+for distributors revenue will recognized when sold through distribution sell 
+deferring recognition until the distributor sells component sell through 
+companies highlighted they are likely recognize revenues earlier result 
+capitalization certain costs including sales commission which will amortized 
+the income statement over contract period 
+best opportunities heading into 
+cisco systems csco raising 
+security and networking decisions are becoming integrated and cisco best 
+positioned benefit from this convergence through faster switching replacement 
+cycles and growth the security business results highlighted the early stages 
+this transition with catalyst campus switching products adopted 
+customers the first three months the security portfolio growing growth and 
+infrastructure products bookings the vast majority customers are also 
+electing the advanced software subscription option with catalyst purchases 
+which provides security and automation features and further evidence that our thesis 
+beginning play out see our sdn report for more details expect cisco 
+post revenue growth organically and inorganically large part because 
+the catalyst switching opportunity heading into despite headwind 
+from the company conversion subscription model across parts the product 
+portfolio namely campus switching 
+exhibit security decisions are increasingly driving equipment 
+spend while capacity demand diminishing catalyst 
+source dell oro group morgan stanley research 
+exhibit security use cases can reduce the cost breach 
+significantly expanding potential savings with software defined 
+networking 
+source idc morgan stanley research 
+note cost breach added for comparative purposes includes costs outside the budget 
+cisco nearly free cash flow year has given the company remarkable 
+flexibility over the course the past twelve months the company has returned 
+approximately fcf shareholders through dividends and share repurchases 
+and respectively and utilized most the rest acquisitions 
+acquisitions contributed around top line growth dilution bottom 
+line and share repurchases helped more than offset stock based compensation dilution 
+shares repurchased over ltm overall diluted share count down 
+and diluted shares respectively with cash previously trapped 
+offshore this week tax reform bill could spur the company enact larger capital 
+return program this year 
+remain raising price target rolling forward our estimates are now 
+valuing csco earnings line with our coverage universe 
+earnings growth basis the company has not commented the size new capital 
+return program but believe increased share repurchases could increase eps 
+least and together with continued fundamental strength cisco shares could trade 
+meaningfully above our our bull case 
+commscope holding company comm raising 
+commscope should gain growing portion capex budgets customers tackle the 
+costs building higher speed networks commscope focuses solutions that help 
+carriers build more efficient networks including fiber pre assembled equipment that 
+requires less labor densification and power solutions etc customer demand will remain 
+volatile carriers allocate flat budgets basis between shareholder 
+return spectrum capex but investing more efficient networks one the only ways 
+customers can balance growing demand and flat arpu keeping investment priority 
+result commscope should see growing portion capex budgets helping 
+customers tackle the costs building higher speed networks fiber small cells 
+antennas they add spectrum even that demand not always linear 
+exhibit lots runway fiber penetration 
+exhibit telcos need invest fiber stem broadband add 
+disadvantage 
+source morgan stanley research estimates company data 
+source oecd 
+tax reform should ease pressure some carrier capex plans leaving 
+comm while tax reform not expected meaningfully change carrier capex budgets 
+gives more confidence that carriers will not revise them negatively increasing the 
+chance for earnings upside that leaves would note 
+announcement wednesday that with the passing tax reform they plan increase 
+investment upwards mentioned our upgrade following results and 
+our global insight thought earnings would represent low point longterm demand drivers remained strong and commscope was the best position 
+capture upside from these drivers with the passage tax reform and net neutrality 
+struck down think carriers are more likely invest higher speed connections 
+fiber and efficiency projects that often are ignored tight capital environments 
+move last month largely captures the estimated improvement eps 
+that comm could receive result tax reform addition customers potentially 
+being less capital constrained comm non gaap tax rate was nearly something 
+they believe could lowered upwards tax reform estimate the 
+impact upwards eps annually note have not yet adjusted our 
+company model for the new tax rate 
+with remain more cautious around telco capex growth but still think 
+the environment remains healthy particularly under the more service provider tax 
+friendly actions the new administration carriers will need spend stay 
+competitive and build more efficient networks something commscope should see 
+outsized benefit from even that spend lumpy our now more 
+normalized eps well additional for tax reform our current estimates 
+reflect earnings power that depressed given quick adjustment demand but that 
+adjustments the company could make could improve earnings power from our 
+estimates could turn more negative were macro weakness increase pushing out 
+carrier network improvements 
+bandwidth band 
+cpaas adoption set grow enterprises seek new ways interact with customers 
+general enterprises are still early days responding new avenues customer 
+engagement more methods more devices because they don have the house 
+technical knowledge develop multi branched engagement models are seeing 
+adoption increase easy use cloud communications platforms cpaas 
+communication platforms service are developed allow companies easily 
+implement multiple ways interact with customers voice text app multiple 
+device mobile home device think the industry early stages similar 
+where individual company web pages were years ago where adoption was slow 
+until easy use web development platforms came along according idc the cpaas 
+market should grow cagr over the next few years growing 
+recent ipo bandwidth unique the communications platform space owning both 
+the software platform and underlying network the company has built competitive 
+moat offering software platform top nationwide voice network that 
+spent years and building this allows bandwidth offer the most costeffective flexible and responsive solution which has allowed win some the most 
+demanding customers like google microsoft amazon cisco 
+with ahead market gaining confidence growth bandwidth current 
+valuation stands revenue below any its comparables believe the 
+market discounting bandwidth compelling value proposition for new customers 
+particularly with larger ones and how fast the industry could grow particularly with 
+some the web giants investing significant dollars into communications initiatives 
+think our growth expectations are appropriately conservative even with acceleration 
+the coming years and that past operating performance the best evidence that 
+bandwidth can achieve management target ebitda margins 
+exhibit bandwidth growth adjusted comparables 
+exhibit not giving credit for web scale customer base 
+rev 
+rng 
+fivn 
+band 
+eght 
+band 
+ctl 
+note ctl growth estimate excludes acquisition closed november 
+source thomson reuters morgan stanley research 
+rev growth 
+source company presentation 
+arista networks anet raising 
+please see our separate note anet 
+routing gaining momentum software investments yielding another avenue for share 
+gains arista software development has sustained its time market advantage 
+including for new software based routing capabilities arista flexroute appears 
+gaining more traction with legacy service provider networks than had previously 
+thought and the recently released eos update expands into additional use cases for 
+traditional broadband networks expect service providers continue adopting new 
+network architectures and are therefore raising our estimates for and beyond 
+part reflect higher switch router contributions 
+raising estimates price target valuation beginning build campus 
+network while supply constraints could mute near term traction think arista longterm software development will continue drive share gains already demonstrated 
+the current cycle and recent switch router traction our new eps 
+excluding current net cash slight premium large cap software peers growthadjusted basis believe investors are anticipating operating margins continue 
+perform above management official targets and benefits from the recent tax reform 
+bill could add over eps but note that current valuation now 
+larger than the entire data center switching market and therefore likely building 
+some optionality from arista potential entry into campus networking potentially 
+doubling its addressable market 
+harder see appreciation 
+lumentum holdings lite 
+maintaining negative bias optical secret have been bearish optical 
+throughout very bullish time optical stocks and our view that the industry too 
+competitive and too unpredictable companies too far down the supply chain 
+consistently make money was overshadowed industry supply constraints 
+difficult transition multiple demand drivers and lucrative opportunities 
+sensing during the early days adoption wrote about earlier this quarter optical 
+cycles tend around years and valuations tend not recover after demand 
+disruptions sudden china demand shortfalls for component companies without 
+heavy exposure sensing oclr margin contraction took place little over 
+year into the cycle china demand fell dramatically short expectations 
+during results for companies with exposure like lite think will likely 
+take until early next year for negative bias play out based how fast competitors 
+could ramp production capacity for future generations smartphones how 
+attractive new offerings will 
+vcsel market diversifying should challenge profitability vcsels have traditionally 
+been very competitive market and the apple supply chain has always been fiercely 
+competitive while this ultimately what keeps acknowledge that lite has 
+executed the opportunity about well possible they knew ramping units would 
+difficult and used outsourced capacity helping the vendor grab share others 
+faltered hold large majority not share this cycle however are beginning 
+see signs that vcsel demand will diversified and profitability challenged with 
+apple prepaying finisar invest towards house capacity think this 
+just first step diversification other companies who have invested increased 
+capacity like and ams look recoup some their investment through competitive 
+pricing that should limit lite ability repeat gross margins and operating 
+margins from this business 
+edge emitting lasers potentially expands the opportunity but limited universe 
+buyers more recently dialog about edge emitting laser use for sensing particularly 
+issues appear tying use vcsels however with samsung appearing 
+lack significant interest date and our view that sensing will still largely 
+constrained higher end phones view this tam expansion the near term that 
+could come above market share phones revenue 
+upwards earnings they had share still believe that the true 
+earnings power the sensing opportunity for lite around 
+asp 
+source morgan stanley research estimates assumes total phones share tax rate 
+exhibit profitability would have stay elevated increasingly 
+competitive market support valuation today 
+margin 
+margin 
+exhibit profitability would have stay elevated increasingly 
+competitive market support valuation today 
+share 
+source morgan stanley research estimates assumes total phones asp tax rate 
+remain with lumentum has been period peak investment across 
+multiple customer types data center telco and fully benefiting from 
+high volume high margin smartphone opportunity demand could remain healthy for 
+longer than normal cycle period albeit with digestion periods like are seeing china 
+and north america are cautious margins remaining their improved levels 
+the industry continues have too many participants buyers true for too given 
+expect margins will return more normalized level once capacity comes online 
+across the industry saw initial evidence june quarter results think the company 
+should trade more normalized multiple underlying business eps handset sensing opportunity think that the current price 
+builds too much optimism about the duration demand and margin health could 
+wrong the sensing opportunity was quickly expand beyond handsets the 
+china roadm opportunity was more concentrated for lite reflected our bull case 
+juniper networks jnpr 
+growth drivers undergoing product cycle transitions risks estimates remain jnpr 
+saw accelerated growth through strong data center switching sales but 
+disappointed expectations recent quarters certain large cloud customers slowed 
+switching purchases ahead planned changes their network architectures 
+expect some switching growth return cloud customers transition jnpr latest 
+fixed switch configuration but its timing and size remain uncertain further think the 
+routing business will face similar headwind from product cycle transitions jnpr ptx 
+router saw strong adoption the cloud revenue per quarter but 
+conversations with industry contacts suggest customers are planning transition 
+smaller form factor and lower asp products coming networking builds likely 
+volatility jnpr few growth drivers point ongoing risks estimates 
+exhibit volatility jnpr few growth drivers pose significant risk estimates 
+product revenue 
+switching 
+core routing 
+total product revenue growth 
+source dell oro morgan stanley research 
+think jnpr hurting its long term prospects continuing constrain spend 
+while competitors and customers increase investments networking technologies 
+currently forecast jnpr spend below the company historic 
+high the company may execute effectively its development 
+roadmap but think the margin error slim particularly networking spend 
+becomes increasingly tied broader security architecture decisions favoring vendors 
+with the broadest footprint portfolio and spend see our sdn report recent 
+volatility data center switching and potential volatility data center routing lead 
+believe that jnpr must increase investments execute sufficient amount 
+growth opportunities 
+does make sense for juniper get acquired have noted multiple times 
+juniper lacks the scale many their multi line competitors making tough 
+weather the slow architectural transitions and pricing pressure its service provider 
+customers relative eric csco partnership nok alu merger huawei growing 
+reach juniper has expanded into hyperscale reduce service provider exposure and 
+while are doubtful that this strategy can successful the long term hyperscale 
+customers increasingly look white box and switch router architectures the company 
+unlikely depart from this business without meaningful premium 
+might make sense for potential acquirers juniper has leading routing portfolio but 
+routing market becoming increasingly challenged service provider capex 
+switch router architectures juniper has adapted its switching business enabling 
+switch routing platform for customers but believe these are ultimately corrosive 
+the more profitable routing business lower asps and lower margin company 
+that has significant service provider business could find sales synergies with juniper but 
+not think would warrant significant premium for the increasingly challenged 
+routing segment the business 
+remain with are lowering our rev eps estimates 
+from reflect our caution ptx routers outlined above and 
+our expectation that the company will have increase investments execute 
+its product roadmap and pursue further growth opportunities continue believe 
+the company relative underinvestment the industry will make difficult sustain 
+earnings growth expect margin pressures persist from competitive pricing and the 
+services business subsidizing service providers efforts modernize their legacy 
+networks our price target eps which discount our coverage 
+universe earnings growth basis think discount warranted given the 
+ongoing risk estimates from above could become more positive the stock 
+should the company demonstrate new product cycle momentum current investment 
+levels 
+exhibit changes the jnpr model 
+millions except per share data 
+new revenue 
+old revenue 
+change 
+new gross profit 
+new gross margin 
+old gross profit 
+old gross margin 
+change 
+new operating income 
+new operating margin 
+old operating income 
+old operating margin 
+change 
+new adjusted eps 
+old adjusted eps 
+change 
+source morgan stanley research 
+companies would like like 
+corning glw raising 
+panel sector oversupply remains the key risk the stock our display technology 
+team maintains cautious view the panel market and expects increased oversupply 
+capacity continues ramp corning display business has remained relatively 
+resilient even panel market weakness emerged mid owed largely continue 
+supply discipline amongst glassmakers but given the exacerbating oversupply 
+believe glass pricing declines will slightly higher than were previously 
+anticipating and adjust our estimates accordingly our outlook for corning display 
+remains relatively unchanged with revenue declines yoy driven mostly the 
+anticipated yen hedge reset while pricing decline partially offset shipment 
+growth 
+will growth opportunities outshine the display business while display revenue 
+pace decline are anticipating total revenue grow due optical 
+communications and specialty materials turning are estimating revenue 
+growth driven continued strength optical and ramp environmental are 
+increasing our optical estimates build revenues from the recent 
+acquisition expecting transaction close annual revenue its way 
+management revenue target are also anticipating growth 
+environmental for from sales gas particulate filters ramp 
+taken together our estimates decline slightly anticipation pricing declines 
+display but our estimates increase build the recent acquisition resulting 
+and rev eps and from 
+and respectively with multiple growth opportunities built into 
+estimates continue believe gorilla autos the key upside driver and meaningful 
+developments could help investors understand the timing and ramp revenues 
+exhibit changes glw model 
+new revenue 
+old revenue 
+change 
+new gross profit 
+new gross margin 
+old gross profit 
+old gross margin 
+change 
+new operating income 
+new operating margin 
+old operating income 
+old operating margin 
+change 
+new adjusted eps 
+old adjusted eps 
+change 
+source morgan stanley research 
+are raising our continued growth despite display declines could drive 
+multiple rating are rolling forward our multiple ebitda which 
+slightly below our coverage universe ebitda growth basis our valuation reflects 
+continued caution the display cycle and note that despite growth other 
+businesses still expect the display segment the largest business segment 
+operating profits through and comprise over total non gaap operating 
+profit but other segments continue drive earnings growth throughout the panel 
+sector down cycle could become more positive and see reasons for meaningful 
+rating the stock particularly the gorilla autos opportunity comes more into 
+focus 
+exhibit multiple slightly below peers ebitda growth 
+basis 
+exhibit expect display remain the largest business segment 
+even others grow 
+ebitda 
+non gaap ebit contribution 
+trmb 
+zbra 
+grmn 
+csco 
+ffiv 
+environmental 
+technologies 
+glw 
+comm 
+cien 
+arrs 
+jnpr 
+specialty materials 
+life sciences 
+anet 
+telecommunication 
+ebitda growth rate 
+source thomson reuters morgan stanley research 
+display 
+technologies 
+source thomson reuters morgan stanley research 
+arris international arrs 
+have favored arris for its ability gain eps leverage the docsis upgrade caused 
+attractive business mix shift however continued pressure memory pricing the 
+cpe business and execution risk rkus integration leave cautious rerating 
+near term 
+lack positive earnings revisions has been biggest headwind for the stock something 
+the continued pressure memory pricing expected prevent the near term 
+view arris lack ability post upward estimate revisions the biggest inhibitor 
+valuation growth over the last couple years situation don see abating for the 
+next months arris gross margins have dropped the last year dram 
+pricing has increased significantly and its ability pass pricing increases 
+customers the video set top box stb portion its cpe customer premise 
+equipment business has remained limited with our global semiconductor memory 
+team expecting dram pricing continue increase for least the next six months 
+and arrs buying memory months ahead time think will difficult for 
+arrs avoid further gross margin pressure from memory pricing increases that 
+will continue pressure ability post upward earnings revisions 
+while like the ruckus icx acquisition are cautious about arris ability post 
+upside early quarters another driver upward estimate revisions could the 
+addition the ruckus icx business acquired for cash off the balance 
+sheet while exhibit our report shows stabilization this business over the last 
+months think that with coming generation change from there 
+could pause purchasing ahead product released the additionally with 
+arris typically acquiring consolidation targets are cautious its ability instantly 
+optimize enterprise sales team overall like the rationale the transaction 
+just think there little opportunity for upside that could create positive valuation 
+impact until the 
+cable investment cycle happening but difficult see impact near term have 
+been positive arris over the last year given the impending docsis upgrade 
+still think this positive earnings growth driver throughout much cable 
+companies upgrade the speeds their networks compete with fiber but given 
+memory pricing challenges and acquisition risk think this catalyst gets drowned out 
+the near term 
+with but like ability rate towards end year memory pressures 
+and risk abate potential for earnings beats return mentioned view positive 
+earnings revisions the greatest opportunity for sustained valuation moves for arris 
+allowing trade more its traditional trading range ntm the range 
+has been bounded for the last two years think that memory pricing and 
+acquisition integration create headwinds that make organic revisions unlikely the near 
+term and result are changing our ntm earnings 
+eps the range has traded for the last two years could turn more positive 
+the headwinds abate the biggest risk our call the meaningful flexibility for 
+accretive share repurchases acquisitions the annual free cash flow 
+affords arris view further downside the near term limited given dcf valuation 
+exhibit trading range has been below historical range 
+exhibit there has been lack positive earnings revisions 
+that would create that environment 
+source thomson reuters 
+source thomson reuters 
+exhibit comparables indicate that multiple could rerate able 
+post earnings upside 
+anet 
+grmn 
+glw 
+grmn 
+qcom 
+trmb 
+trmb 
+ffiv 
+comm 
+ffiv 
+cien 
+glw 
+zbra 
+csco 
+zbra 
+exhibit but dealing with competitive landscape that more 
+traditionally post earnings beats 
+comm 
+jnpr 
+csco 
+arrs 
+jnpr 
+arrs 
+source thomson reuters 
+operating margin 
+year eps growth rate 
+source thomson reuters 
+garmin grmn 
+software and sensor ecosystem drives confidence wearables business individual 
+product cycles are difficult predict because hardware improvements that matter are 
+more related sensor technologies and less performance improvements driven 
+moore law processing power battery life form factor between meaningful 
+sensor improvements wearables vendors must persistently introduce new software 
+functionalities across multiple product cycles expanding its smartwatch portfolio 
+across different use cases and price points garmin has developed large ecosystem 
+sensor functionalities ranging from wrist based monitoring ant compatibility and 
+software features offering deeper performance insights exceptional results with the 
+fenix watch over the past year give some investors pause ahead difficult comps but 
+are more confident the longer term opportunity for garmin wearables business 
+sensor and software improvements drive new product categories 
+aviation becoming significant tailwind but current estimates and valuation 
+adequately reflect opportunities for now outperformance was also driven 
+upside the aviation business which benefiting from accelerated retrofit activity 
+ahead faa mandate that all aircraft fitted with ads systems 
+expect aviation strength continue retrofit activity and the company the 
+process doubling capacity its kanasas city facility pursue share new aircrafts 
+aviation and wearables growth combined help drive low single digit ebitda growth 
+while the pnd business continues wane which believe adequately reflected 
+current valuations stock trading ebitda would become more positive 
+the stock gain confidence new product cycles heading into the new year 
+particularly new outdoors and auto oem announcements around ces 
+ciena cien 
+company takes glass half full look ahead remain slightly more conservative 
+margins but incorrect lots value general believe that ciena will either 
+able achieve the long term growth profitability targets they laid out but not both 
+leaving the sidelines cien for now ciena laid out fairly aggressive year 
+growth target thursday call calling for annual revenue growth and 
+post tax change eps growth whereas they view the global industry china growing 
+over that same time period mentioned previously ciena has executed well 
+their strategy diversify revenue sources their product roadmap has given them the 
+ability attract net new customers believe that they can achieve above market 
+growth though fall the bottom end that range over the next three years from 
+product advantages and benefits long investments new relationships but tend 
+more reserved market growth however remain less optimistic ability 
+achieve the operating margin target over that period just given the amount 
+competition that exists the space general believe that above market growth 
+will come slightly lower margins will come from net new customers meaning 
+that for the company will either fall slightly short margin targets growth 
+targets could prove too conservative our view margins software 
+growth becomes more meaningful portion revenue new wins are more 
+accretive than expected 
+with ciena traction with new customers and categories packet 
+networking webscale waveserver blue planet continue encouraging this 
+expanded focus should help consistency results and help ciena outgrow the market 
+however given levels competition within optical not see this enough reason 
+for the multiple expand our eps which builds level 
+conservatism the speed metro builds and discount for forecasting issues 
+inherent cien from having larger customers have raised our account 
+rolling forward estimates well more assumed top line growth from new wins 
+could turn more positive were the pace international wins increase software 
+growth blue planet help meaningfully improve gross margins 
+valuation analysis 
+exhibit communication systems applications comparable valuation 
+qcom 
+glw 
+grmn 
+trmb 
+zbra 
+fit 
+gpro 
+qualcomm inc 
+corning inc 
+garmin ltd 
+trimble inc 
+blackberry ltd 
+zebra technologies corp 
+fitbit inc 
+gopro inc 
+median 
+cien 
+lite 
+viav 
+acia 
+infn 
+calx 
+ciena corp 
+lumentum holdings inc 
+viavi solutions inc 
+acacia communications inc 
+infinera corp 
+calix inc 
+median 
+apps 
+core networking 
+ringcentral inc 
+inc 
+inc 
+bandwidth inc 
+mobileiron inc 
+median 
+misc 
+price earnings 
+optical 
+ebitda 
+diluted 
+shares 
+company name 
+cisco systems inc 
+arista networks inc 
+juniper networks inc 
+networks inc 
+commscope holding company inc 
+arris international plc 
+networks inc 
+median 
+rng 
+eght 
+fivn 
+band 
+mobl 
+median 
+equity net cash enterprise 
+value 
+share 
+value 
+revenue 
+share price 
+ticker 
+csco 
+anet 
+jnpr 
+ffiv 
+comm 
+arrs 
+aten 
+source morgan stanley research thomson reuters 
+exhibit morgan stanley estimates consensus 
+estimates 
+consensus estimates 
+ticker 
+company name 
+core networking 
+csco 
+jnpr 
+anet 
+ffiv 
+comm 
+arrs 
+aten 
+cisco systems inc 
+juniper networks inc 
+arista networks inc 
+networks inc 
+commscope holding company inc 
+arris international plc 
+networks inc 
+apps 
+rng 
+eght 
+fivn 
+band 
+mobl 
+ringcentral inc 
+inc 
+inc 
+bandwidth inc 
+mobileiron inc 
+misc 
+eps 
+qcom 
+glw 
+trmb 
+grmn 
+zbra 
+gpro 
+fit 
+qualcomm inc 
+corning inc 
+trimble inc 
+garmin ltd 
+zebra technologies corp 
+blackberry ltd 
+gopro inc 
+fitbit inc 
+optical 
+revenue 
+cien 
+lite 
+viav 
+acia 
+infn 
+calx 
+ciena corp 
+lumentum holdings inc 
+viavi solutions inc 
+acacia communications inc 
+infinera corp 
+calix inc 
+revenue 
+variance positive higher 
+eps 
+revenue 
+eps 
+source morgan stanley research thomson reuters 
+exhibit rick reward across coverage universe 
+underweight 
+overweight 
+bull 
+current 
+price 
+base 
+jnpr 
+lite 
+rng 
+fivn 
+ffiv 
+trmb 
+calx 
+grmn 
+aten 
+viav 
+glw 
+acia 
+zbra 
+fit 
+cien 
+mobl 
+gpro 
+eght 
+infn 
+arrs 
+comm 
+csco 
+anet 
+band 
+bear 
+source morgan stanley research thomson reuters 
+exhibit scatterplot 
+exhibit cash 
+acia 
+glw 
+viav 
+lite 
+zbra 
+ffiv 
+arrs 
+jnpr csco 
+viav 
+comm 
+ffiv 
+cien 
+trmb 
+grmn 
+anet 
+lite 
+jnpr 
+eps growth rate 
+eps growth rate 
+source morgan stanley research thomson reuters 
+source morgan stanley research thomson reuters 
+exhibit revenue scatterplot 
+rev 
+ffiv 
+csco 
+trmb 
+glw 
+grmn 
+acia 
+comm 
+viav 
+mobl 
+aten 
+zbra 
+jnpr 
+arrs cien 
+infn 
+fit 
+gpro 
+calx 
+source morgan stanley research thomson reuters 
+exhibit investment growth 
+revenue growth 
+rng 
+anet 
+anet 
+fivn 
+rng 
+eght 
+lite 
+aten 
+mobl 
+infn 
+band 
+rev growth rate 
+lite 
+arrs 
+trmb 
+acia 
+glw 
+cien 
+calx 
+zbra 
+comm 
+ffiv 
+csco 
+jnpr 
+qcom 
+operating margins 
+source morgan stanley research thomson reuters 
+anet risk reward 
+significant opportunity fastest growing segment large market 
+investment thesis 
+strong and cycles help drive 
+market share 
+data center switching market expected 
+double size from 
+software development drives adoption 
+new network architectures routing 
+key value drivers 
+dec 
+jun 
+dec 
+price target dec 
+jun 
+historical stock performance 
+dec 
+jun 
+current stock price 
+dec 
+anet 
+source thomson reuters morgan stanley research 
+price target 
+eps excluding net cash 
+bull 
+revenue 
+mid long term operating margins network wide disruption ramp 
+accelerates share gains more than are anticipating while use cases outside 
+data center switching routing optical and campus become significant 
+contributors offshore component sourcing and traction with new products 
+result higher gross margins than current data center switching range revenue the upper end software peers accounting for arista 
+combination superior growth and margins 
+base 
+eps excluding net cash 
+the road share the switching market strong cycle drives 
+continued share gains supplemented increased flexroute adoption hpe 
+partnership helps drive new customer wins outside hyperscale vertical 
+revenue growth and steady gross margins keep operating margins the for the long term excluding net cash slight premium large cap 
+software peers earnings growth basis which think appropriate given 
+arista higher margin profile companies with comparable growth rates 
+bear 
+eps 
+share gains and data center capex slow considerably macro concerns result 
+pull back cloud capex slower spend gives arista competitors and white 
+box time catch slowing share gains eps factors mid single digit 
+earnings growth current net cash position and likely strategic value 
+lower valuations though have knowledge potential transaction 
+there ceiling the share arista can 
+have the data center switching market 
+even with largest customers shifting white 
+boxes arista has plenty headroom for 
+market share gains 
+will cloud builders move towards building 
+their own switches the expense vendors 
+like arista think that this not 
+reasonable outcome for most customers but 
+certainly makes arista strategy being first 
+market with the fastest switches critical 
+maintaining the most performance oriented 
+buyers customers 
+can arista expand beyond the data center 
+switching yes believe has significant 
+opportunity such areas switch router 
+use cases optical and broader enterprise and 
+campus switching 
+potential catalysts 
+arista continues gain meaningful share 
+the fast growing data center switching 
+market 
+large customers continue grow 
+purchases 
+sdn adoption happens quicker than 
+expected 
+risks achieving price target 
+customer concentration 
+difficulties growing international business 
+company fails gain share 
+adverse outcome cisco litigation 
+intel give pursuing moore law 
+comm risk reward 
+upside from better service provider spending represents opportunity heading 
+into upcoming technology transitions longer term upside 
+investment thesis 
+commscope mitigating slowing capex 
+growth broadening portfolio 
+should outperform capex growth trends 
+making carrier spend more efficient 
+efficiency stand out chance repeat with 
+future acquisitions 
+industry trends effecting 
+commscope 
+dec 
+jun 
+dec 
+price target dec 
+jun 
+historical stock performance 
+dec 
+jun 
+current stock price 
+dec 
+comm 
+source thomson reuters morgan stanley research 
+price target 
+more normalized eps level line with previous average 
+trading range line with traditional trading range and comparable 
+companies 
+bull 
+bull case eps 
+finds another large asset integrate and optimize commscope well versed 
+buying and integrating acquisitions managing deliver better than expected 
+synergies and generate consistent enough cash flow delever they were 
+able continue this pattern with another sizeable asset standalone 
+segment business the market could start building more consistent 
+earnings growth note wouldn expect any large transactions until late 
+trades line with comparables with similar earnings growth 
+base 
+key debates 
+can commscope grow more than carrier 
+capex growth yes offering network 
+operators more efficiency 
+does materially change the outlook for 
+commscope need for fiber backhaul 
+should help the connectivity business 
+how much runway there fiber 
+penetration believe there meaningful 
+runway households from 
+today 
+normalized earnings plus for tax reform 
+growth rebounds firstnet begins resolutions comes and fttx 
+building resumes able achieve double digit earnings growth operating 
+margins increase and debt paydown continues growth mobility helps 
+carry day until resolved and fttx spending resumes more 
+normalized eps level line with previous average trading range eps 
+would require additional opex cuts demand levels were stay depressed 
+bear 
+carrier capex not growing aggregate but 
+looking for more efficient solutions 
+years until meaningful wireless spend 
+fiber penetration increasing 
+bear case eps 
+macro slowdown puts debt paydown and operating leverage risk earnings 
+leverage doesn materialize given top line pressures cash flow generation 
+slows prevents degree debt paydown desired trades bottom traditional 
+trading range 
+catalysts 
+wireless investment for begins sooner 
+than expected 
+broadband penetration increases 
+increase spectrum deployed 
+telcos increase capital intensity 
+international markets recover 
+risks achieving price target 
+carriers continue pressure capex 
+continue capital return programs 
+offers mobile broadband which slows 
+investment wired technologies 
+wireless investment more software 
+than hardware 
+csco risk reward 
+share gains security driven spend leads earnings growth and multiple 
+expansion 
+investment thesis 
+cisco gains share budgets security 
+and networking spend converge favoring the 
+company end end architecture 
+software defined networking proves 
+growth opportunity customers more 
+consistently upgrade equipment 
+implement the latest security technologies 
+key debates 
+dec 
+jun 
+dec 
+price target dec 
+jun 
+historical stock performance 
+dec 
+jun 
+current stock price 
+dec 
+csco 
+source thomson reuters morgan stanley research 
+price target 
+eps 
+bull 
+bull case eps 
+accelerated share gains security and networking budgets cash repatriation 
+gets passed equipment replacement cycles come down meaningfully 
+customers seek consistently upgrade legacy switches keep pace with 
+security technologies higher than expected share gains budgets implies 
+low mid single digit long term earnings growth and market gives credit with 
+multiple expansion repatriation reform passes and subsequent share 
+reduction adds eps 
+base 
+eps 
+software share gains and replacement cycle improvements low single digit 
+revenue growth and mid single digit earnings growth over the next three years 
+switching business steadily improves security spend continues pull 
+through equipment upgrades continued share gains with the security business 
+and mix shift towards software drives steady improvements operating 
+margins line with our coverage universe earnings growth basis 
+bear 
+eps 
+replacement cycles worsen and software shift stalls switches segment sees 
+continued deterioration security spend fails improve replacement cycles 
+software business does not expand meaningfully from core firewall business 
+leading flat declining earnings eps reflects company trading peak 
+earnings 
+can csco successfully transition 
+software and services oriented business 
+are seeing good traction particularly 
+security and becoming driver for 
+equipment spend 
+does the move the cloud adversely 
+impact csco traditional enterprise market 
+certain segments the market yes but 
+campus and hybrid cloud environments will 
+remain and require date networks 
+support security technologies 
+there potential for incremental margin 
+improvements business turns more 
+software and services will mostly drive 
+higher gross margins incremental operating 
+leverage will mostly reinvested used for 
+acquisitions 
+potential catalysts 
+software and services business drive 
+growth 
+accelerated replacement cycles results 
+meaningful improvements switch router 
+segments 
+acceleration gdp and therefore 
+spending 
+risks achieving price target 
+slower than expected gdp and spending 
+growth 
+intensifying headwinds from legacy 
+switching and routing businesses 
+new architectures sdn and nfv 
+subject cisco more pricing and margin 
+pressure than currently anticipated 
+glw risk reward 
+capital returns create value but need new growth opportunities generate upside 
+investment thesis 
+company generates cash flow 
+underwrite shareholder return 
+commitment through 
+display business which generates majority 
+earnings operates efficiently 
+other businesses all have catalysts that 
+could generate upside however not 
+necessary for the base valuation 
+nov 
+may 
+nov 
+price target nov 
+may 
+historical stock performance 
+nov 
+may 
+current stock price 
+nov 
+glw 
+source thomson reuters morgan stanley research 
+price target 
+ebitda slightly below coverage universe ebitda 
+growth basis 
+bull 
+ebitda 
+gorilla glass makes inroads into alternative markets more fiber rich 
+architectures widely adopted specialty materials business able grow 
+significantly again continued innovation drives new use cases multiple 
+automotive makers start incorporate gorilla glass into their vehicles greatly 
+increasing glass volumes auto filters business expands meaningfully specialty 
+materials business doubles and overall margin profile company increases 
+ebitda represents the upper end the historical average trading range 
+base 
+key debates 
+can the display business relied upon for 
+earnings power believe can while 
+there will temporary periods disruption 
+overall the industry has remained relatively 
+steady over the past few years 
+what risk other aluminosilicate other 
+surface vendors pose corning believe 
+the risk the near term minimal corning 
+has committed staying ahead the 
+industry and would develop alternative 
+surfaces those became economical 
+automotive commercial glass markets 
+represent legitimate opportunity yes but 
+the medium long term meaningful 
+impact expected the next years 
+ebitda 
+corning returns shareholders through healthy fiber growth 
+continues some optionality for auto new market opportunities between 
+expected fcf generation the recent dow corning divestiture and expected debt 
+raise think corning should able deliver its commitment 
+shareholders the display market maintains better conditions optimal pricing 
+demand tailwinds and company executes optical fiber opportunity one 
+upside initiatives begins generating hundreds millions revenue over next 
+couple years ebitda above the historical average trading range 
+reflect opportunities optical and better display pricing 
+potential catalysts 
+bear 
+risks achieving price target 
+ebitda 
+cash flow falls display business suffers specialty materials business 
+suffers display business sees earnings erosion does not generate large 
+upgrade cycle and prices continue drop gorilla glass fails find entry into 
+alternative markets and weak tablet sales combined with pricing pressure cause 
+earnings erode weaker business outlooks disappoint shareholder return 
+commitment dropping year ebitda the low end the 
+historical average trading 
+slight weakening the dollar 
+using gorilla glass auto 
+conversion fiber the data center 
+transition larger tvs 
+new life sciences packaging innovation 
+use more sheets gorilla glass per 
+mobile device 
+pricing discipline dissipates display 
+swings currency that raise cost 
+hedging program 
+change ftth deployment plans 
+replacement cycles lengthen 
+morgan stanley acting financial advisor time warner inc time warner 
+relation its definitive agreement acquired inc announced october 
+the proposed transaction subject regulatory approvals and other customary 
+closing conditions this report and the information provided herein not intended 
+serve endorsement the proposed transaction result the procurement 
+withholding revocation proxy any other action security holder time warner 
+has agreed pay fees morgan stanley for its financial services including transaction 
+fees that are contingent upon the consummation the proposed transaction please refer 
+the notes the end this report 
+qualcomm 
+morgan stanley acting financial advisor broadcom limited broadcom 
+connection with its proposal acquire qualcomm incorporated announced 
+november the proposed transaction subject negotiation definitive 
+agreement and there guarantee that any transaction will ultimately 
+consummated please refer the notes the end this report 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan 
+stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley includes morgan 
+stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and their affiliates 
+necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report yuuji 
+anderson james faucette meta marshall 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+november morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research cisco systems inc corning inc fitbit inc gopro inc juniper networks inc viavi solutions inc 
+within the last months morgan stanley managed managed public offering offering securities bandwidth inc viavi solutions inc 
+within the last months morgan stanley has received compensation for investment banking services from bandwidth inc ciena corporation cisco 
+systems inc corning inc viavi solutions inc zebra technologies corporation 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from inc networks inc 
+acacia communications inc arista networks bandwidth inc blackberry ltd ciena corporation cisco systems inc commscope holding company inc 
+corning inc networks inc fitbit inc inc garmin ltd gopro inc infinera corp juniper networks inc mobileiron qualcomm inc trimble inc viavi 
+solutions inc zebra technologies corporation 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from arris 
+international plc cisco systems inc commscope holding company inc corning inc fitbit inc garmin ltd viavi solutions inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company inc networks inc acacia communications inc arista networks bandwidth inc blackberry ltd ciena corporation cisco 
+systems inc commscope holding company inc corning inc networks inc fitbit inc inc garmin ltd gopro inc infinera corp juniper networks 
+inc mobileiron qualcomm inc trimble inc viavi solutions inc zebra technologies corporation 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company arris international plc cisco systems inc commscope 
+holding company inc corning inc networks inc fitbit inc garmin ltd gopro inc infinera corp juniper networks inc qualcomm inc viavi solutions 
+inc zebra technologies corporation 
+morgan stanley llc makes market the securities networks inc arista networks arris international plc bandwidth inc blackberry ltd 
+ciena corporation cisco systems inc commscope holding company inc corning inc networks inc fitbit inc inc garmin ltd gopro inc infinera 
+corp juniper networks inc lumentum holdings inc qualcomm inc trimble inc viavi solutions inc zebra technologies corporation 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+november 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months due rounding off decimals the percentages provided the total column may not add exactly 
+percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities ciena corporation cisco systems inc 
+corning inc fitbit inc gopro inc juniper networks inc qualcomm inc zebra technologies corporation 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage communications systems and applications 
+company ticker 
+rating 
+price 
+james faucette 
+networks inc aten 
+arista networks anet 
+blackberry ltd 
+cisco systems inc csco 
+corning inc glw 
+networks inc ffiv 
+juniper networks inc jnpr 
+mobileiron mobl 
+qualcomm inc qcom 
+trimble inc trmb 
+zebra technologies corporation zbra 
+meta marshall 
+acacia communications inc acia 
+arris international plc arrs 
+bandwidth inc band 
+calix inc calx 
+ciena corporation cien 
+commscope holding company inc comm 
+infinera corp infn 
+lumentum holdings inc lite 
+viavi solutions inc viav 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

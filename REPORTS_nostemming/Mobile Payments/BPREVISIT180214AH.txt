@@ -1,0 +1,821 @@
+morgan 
+stanley 
+research 
+europe 
+morgan stanley international 
+plc 
+andrew humphrey 
+morgan stanley llc 
+smittipon srethapramote 
+andrew humphrey morganstanley 
+smittipon srethapramote morganstanley 
+katy huberty cfa 
+industry view 
+rating 
+february 
+kathryn huberty morganstanley 
+mobile payments 
+betsy graseck cfa 
+blue paper revisit 
+emv focus 
+betsy graseck morganstanley 
+vasundhara govil 
+vasundhara govil morganstanley 
+danyal hussain 
+danyal hussain morganstanley 
+revisit 
+the month since published our mobile 
+payments blue paper the coming battle for the 
+wallet january have met with many 
+investors discuss the market company and 
+stock implications mobile payments 
+developments target make timely highlight 
+key conclusions 
+recent data breaches likely accelerate 
+chip and pin roll out most the investors we 
+talked are focused the potential roll out chip card 
+payment technology the emv questions have 
+centered whether the data breaches seen target 
+neiman marcus and other retailers late will 
+accelerate spending new infrastructure both cards 
+and pos terminals think this likely and could 
+create short term earnings boost for both gemalto 
+and ingenico 
+jerry liu 
+jerry liu morganstanley 
+manan gosalia 
+manan gosalia morganstanley 
+read the original report 
+nfc could see halo effect from new investment 
+the vast majority pos terminals being installed today 
+are emv compliant including the the cost 
+incorporating nfc functionality these minimal 
+any accelerated emv deployment the could also 
+positive for nfc additional nfc wallet roll outs 
+internationally france germany and the 
+could also refocus attention the technology 
+the space still fragmented and apple next move 
+will key our paper could not find clear winner the 
+current crop mobile wallets and conversations with 
+investors confirm this general view apple has been 
+making several comments around payments including 
+filing patents most apple activity far through 
+ibeacon has been around the retail experience rather than 
+the act payment however now seems increasingly 
+likely that the company will make decisive move during 
+still expect visa and mastercard model 
+remain unchallenged under all scenarios 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may 
+have conflict interest that could affect the 
+objectivity morgan stanley research investors 
+should consider morgan stanley research only 
+single factor making their investment decision 
+for analyst certification and other important 
+disclosures refer the disclosure section 
+located the end this report 
+analysts employed non affiliates are not registered with finra may not 
+associated persons the member and may not subject nasd nyse restrictions 
+communications with subject company public appearances and trading securities held 
+research analyst account 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+investment case 
+the month since published our mobile payments blue 
+paper the coming battle for the wallet january 
+have met with wide range investors discuss the market 
+for mobile payments and company and stock implications 
+most the investors we talked are focusing the 
+potential roll out smartcard payment technology the 
+particularly chip and pin and emv europay mastercard 
+visa questions have centered whether the data breaches 
+seen target neiman marcus and other yet unnamed 
+retailers late could accelerate the timeline for 
+deployment emv believe the payment security 
+questions raised the data breaches are likely lead 
+renewed focus the roll out new payment technology 
+including emv which could create short term earnings boost 
+for both gemalto and ingenico 
+the thesis presented our blue paper 
+mobile payments could expand the industry revenue pie 
+billion globally the significant opportunity for mobile 
+devices facilitate payments underscored the disparity 
+between active credit debit accounts globally estimated 
+and active mobile phone accounts some 
+them smartphones think mobile payments can expand the 
+global revenue pie from including 
+developed markets and emerging markets 
+unclear which revenue model will dominate existing 
+models have been place japan and korea for several 
+years but new ones are emerging europe and the 
+mobile wallets such isis sponsored several telecom 
+companies may seeking fee from issuers for storing 
+payments credentials phone others such google 
+wallet are seeking create opportunities gathering and 
+packaging user data for targeted marketing still others 
+including the retailer sponsored mcx seek potentially lower 
+acceptance costs using alternative payments rails 
+scenarios explored four scenarios around technology 
+and adoption two look most likely hardware solutions 
+become the mobile wallet standard best positioned visa 
+mastercard merchants banks potentially challenged 
+paypal google and other wallets telcos and few 
+cloud based providers become the standard best positioned 
+paypal apple google potentially challenged telcos pos 
+vendors tsms expect visa and mastercard model 
+remain unchallenged under all scenarios 
+what happened target 
+discount retailer target announced december that 
+had been the victim systems breach the previous few 
+days which compromised the personal data some 
+cardholders with target store accounts security company 
+symantec has stated that the software likely used the attack 
+called blackpos states that the malware had been 
+target systems since some time prior november and 
+that the initial point the breach was target web server 
+target has indicated that the data breach could affect 
+consumers including the theft the details credit 
+and debit cards estimates potential losses have varied 
+widely though most commentators have indicated these could 
+total over billion data lost includes names phone numbers 
+email and home addresses and card details 
+according target cfo john mulligan the breach occurred 
+when hackers infiltrated target computer systems and 
+installed malware the point sale network the company 
+states was able remove the malware from virtually all 
+registers our stores december and disabled 
+further registers december 
+would emv have prevented the target breach 
+there has been much discussion around this consensus 
+that emv would have partly prevented the target breach 
+least have made the theft payment card details significantly 
+less likely and less valuable 
+when traditional magnetic card swiped the cardholder 
+details contained the magnetic stripe similar vhs 
+cassette tape are transmitted into the terminal where they are 
+encrypted using payment card industry pci standards the 
+terminal has been compromised card data can stolen 
+skimmed with emv card the chip embedded the card 
+employs cryptography and other security features protect 
+cardholder information the ability combine the chip with 
+secure pin which can verified offline well the back 
+end infrastructure mean that emv has reduced fraud 
+substantially markets where has been introduced discover 
+financial services stated that the has seen 
+reduction credit card fraud since emv was introduced while 
+the has witnessed increase over the same period 
+the one the last markets globally other than china 
+introduce chip card technology 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+will the breach accelerate emv roll out the 
+potential upside for companies with emv exposure 
+believe very likely that the sees faster uptake 
+emv cards and terminals over the next few years after fairly 
+slow start visa and mastercard have reaffirmed the deadline 
+october when merchants who not have emv 
+terminals will liable for fraud resulting from transactions 
+where customer has tried use emv card progress 
+towards this target has been slow partly due the chickenand egg problem merchants and banks each waiting for the 
+other invest roll out emv retailers will have pay 
+install the terminals and the banks will have pay reissue 
+cards investment spend will split along those two lines 
+hit the goal for full emv adoption the incentive 
+make the investments clear retailers without emv terminals 
+will not reimbursed for fraud after the deadline 
+among our coverage believe ingenico best positioned for 
+growth the emv market pos terminal shipments are 
+revenue for ingenico where gemalto banking 
+business the group total addition believe 
+ingenico could benefit from growth market share the 
+following recent deals gemalto market share likely 
+lower the than the rest the world least initially 
+several comments and announcements from industry players 
+over the last few weeks support our view while have yet 
+see major bank announce wholesale roll out emv 
+believe the market continues grow 
+think you going see both think you see chip and 
+pin old cards and then lot online type 
+transactions use tokenization they both have very very 
+good technologies protect consumers and companies 
+from fraud jamie dimon ceo jpmorgan 
+earnings transcript 
+being the chair the clearinghouse are working 
+tokenization the cloud emv not necessarily the 
+endpoint get mobile banking and you look 
+cloud and other encryptions would interesting see 
+whether not really want leapfrog emv and put all 
+our energy the more sophisticated end point 
+mobile banking and cloud encryption richard david ceo 
+bancorp earnings transcript 
+target announced february that will accelerate its 
+roll out chip card infrastructure that its stores all 
+contain terminals accept chip card payment early 
+months ahead the previous plan target also 
+plans reissue proprietary redcards using chip 
+technology early target expects total investment 
+the programme million 
+jpmorgan has reissued million debit cards out 
+million total citi also plans reissue all customer debit 
+cards involved the data breach not believe emv 
+cards will used for this new issuance the short term 
+usb and wells fargo are also reissuing cards 
+pos terminals ingenico could benefit from acceleration 
+replacement cycle believe the total number pos 
+terminals installed the million assuming this has 
+been relatively stable since the last confirmed world bank data 
+were published nilson report november cites 
+million pos terminal shipments the though 
+this may overstate the addressable market for ingenico the 
+company not present pay pump facilities gas stations 
+taxi terminals for instance and the world bank statistics 
+for installed base not include self service 
+ingenico cites the replacement cycle being around 
+years implying addressable market around million 
+terminals per year believe more aggressive roll out 
+emv could see this cycle accelerate typical replacement 
+cycles the brazilian market are around years the 
+could accelerate this level bull case which would imply 
+doubling the market from today level 
+ingenico could also see some additional market share gains 
+result the emv roll out the company saw significant 
+reduction market share over from its 
+addressable market around lost share the iso 
+market the company has recently signed some additional 
+deals with isos chase paymentech vantiv which could see 
+the recovery some share the market has also changed 
+with equinox previously hypercom losing share since its 
+acquisition private equity 
+bull case for ingenico the company could win market 
+share addressable market million pos 
+terminals per year this scenario ingenico could ship 
+terminals into the compared current shipments 
+and global shipments around million terminals 
+practice the addressable market could larger growth 
+wireless terminals the hospitality sector grow the 
+addressable market and installed base any scenario the 
+opportunity for additional terminal shipments material 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+exhibit 
+emv payment terminals distribution market 
+excluding china and the 
+installed base emv pos terminals millions units 
+latam canada caribbean 
+asia pacific 
+mideast africa 
+estimate total installed base credit and debit cards 
+the billion the typical replacement cycle for bank 
+cards years which consistent with annual card 
+issuance likely higher once store cards are taken 
+into account 
+western europe 
+eastern europe 
+emv chip cards gemalto could see growth chip card 
+issuance gemalto leading supplier chip cards globally 
+estimate with around market share globally 
+smartcards used the banking sector chip and pin cards 
+source emvco 
+exhibit 
+emv terminals have already reached high levels 
+penetration outside the and china 
+gemalto market share likely lower overall the 
+market and management has stated will likely partner with 
+local card issuers believe market share would not 
+out the question applying our estimate for gemalto asps 
+this could revenue 
+opportunity total revenue billion 
+revenue opportunity 
+emv penetration rate for pos terminals market 
+latam 
+canada 
+caribbean 
+asia pacific 
+mideast 
+africa 
+western 
+europe 
+eastern 
+europe 
+source emvco 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+cloud based hardware based technology 
+this debate far from resolved but believe the renewed 
+focus emv implementation viewed many shot 
+the arm for nfc near field communication technology the 
+argument being that the pos upgrade cycle driven emv 
+implementation will provide retailers with the necessary 
+incentive simultaneously adopt technology that capable 
+supporting nfc transactions well following the recent data 
+breaches both visa and mastercard have reaffirmed the dates 
+for migration emv implementation the through 
+liability shift beginning october 
+could security concerns drive hardware based solutions 
+proponents nfc have argued that nfc based wallets allow 
+for faster and easier tap and go consumer payments 
+experience while enhancing payments security consumers 
+credentials are securely stored the mobile devices secure 
+element thereby protecting against skimming and compromise 
+account information while the two factor authentication 
+makes nfc relatively more secure payments technology 
+our view its cost implementation has been significant 
+barrier adoption thus far think the recent data breaches 
+could cause issuers and retailers evaluate the cost and 
+benefits associated with implementation nfc based mobile 
+payments technology for perspective the consumer 
+bankers association estimates the costs date replacing 
+cards for its customers affected the target breach 
+total costs could multiple this figure with 
+million customer cards affected the breach target the 
+cost terminal replacement smaller relatively speaking 
+target had retail locations november 
+assuming pos terminals average per location 
+average cost per terminal suggests replacing the 
+entire estate pos terminals with emv nfc equipped 
+terminals would 
+but even with increased security concerns believe that 
+nfc faces significant hurdles adoption the given 
+apple ios operating system accounts for 
+smartphones the and apple has decided not 
+enable nfc its phones 
+the merchants behind the retailer funded mcx have 
+stated that they will not accept any other forms mobile 
+wallets their stores view the upgrade cost nfc 
+minimal verifone has the past sought charge 
+premium for nfc terminals though ingenico indicates 
+there additional cost however mcx will likely use 
+barcode generated the mcx app authenticate 
+customers there maybe disincentive for mcx 
+retailers promote nfc within stores 
+the percentage non apple phones that are nfc 
+enabled the remains limited according 
+november survey deloitte only 
+consumers stated that they their mobile phones have nfc 
+capability 
+tokenization could make cloud based payments more 
+secure while nfc technology has distinct advantages over 
+cloud based technologies when comes security 
+believe that recent initiatives taken the leading networks 
+move towards tokenization could considerably beef security 
+for card not present transactions believe that tokenization 
+could make cloud based mobile payment transactions more 
+secure use one time payment codes authenticate 
+transactions without any card information actually being 
+present the mobile device what could make cloud based 
+solutions more attractive retailers enhanced security due 
+tokenization resulted lowering interchange fees for 
+card not present transactions 
+apple poised make its move mobile payments 
+recent comments the company indicate increased 
+likelihood that apple will launch mobile payments platform 
+ceo tim cook commented the december quarter earnings 
+call and since then the wall street journal that the company 
+plans launch new product and services categories 
+when asked directly about mobile payments the earnings 
+call cook said that customers want purchase content using 
+touch the fingerprint sensor because simple easy and 
+elegant currently apple allows users purchase content 
+from the itunes and app stores using their fingerprint but the 
+technology not available third party applications cook 
+also said saw more opportunity this area especially when 
+given the demographics apple customers and the amount 
+commerce that goes through ios devices versus competing 
+platforms 
+apple and others are creating ecosystem beacons 
+recent months have seen trials and adoption beacons 
+and bluetooth low energy the standard this network 
+beacons will essential simple and easy use mobile 
+payment network our view fact there could many 
+applications such deliver advertisements public 
+information and locate something someone indoors 
+believe apple will unlikely launch mobile payment system 
+unless the supporting infrastructure ready based its 
+historical behavior since does not want users have 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+consumer trust mobile payments providers 
+start ups 
+facebook 
+mcx remains wildcard the wallet wars several 
+investors that met with believe that the cloud based 
+merchant funded mcx mobile wallet could one the first 
+successful mobile wallets take off given the fact that the 
+retailers behind the consortium will ban the use other forms 
+mobile wallets their stores this could present strong 
+enough incentive for consumers download and use the mcx 
+wallet first furthermore unlike other mobile wallet providers 
+the merchants behind mcx have army cashiers that can 
+promote the mcx mobile wallet consumers and get people 
+sign download the mcx app the spot 
+exhibit 
+local merchants 
+management has been clear that plans monetize future 
+services and believe that likely includes mobile payments 
+recode net recently reported that ebay covered scott 
+devitt approached apple discuss using paypal the 
+foundation for apple payment service according sources 
+cited that article apple unlikely partner with ebay this 
+true believe further suggests apple looking build 
+its own infrastructure where can control the whole system 
+collect more user data and importantly retain all the economics 
+from the service 
+google 
+apple itself also enabled ibeacon technology all its 
+retail stores the late last year 
+telcos 
+discover 
+major league baseball expanding its ibeacon 
+project from trial with one team since last 
+september teams march according 
+macrumors 
+national merchants 
+although consumers could incentivized use the mcx 
+mobile wallet through discounts that retailers such target 
+are able offer due lower costs associated with direct debit 
+believe that recent data breaches based retailers 
+target neiman marcus and michael amongst other will 
+also make consumers less willing share there financial 
+credentials with retailers consumers trust retailers 
+provider for mobile wallet services was relatively low begin 
+with see exhibit and the highly publicized news regarding 
+the target data breach which led congressional hearing 
+will likely increase the skepticism 
+apple 
+for the super bowl the national football league 
+installed beacons times square and metlife 
+stadium where the game was played broadcast 
+news and promote store sales according the 
+new york times 
+american express 
+mastercard 
+shopkick another shopping app startup expanded its 
+ibeacon trial from macy american eagle and 
+aerie stores january according the company 
+paypal 
+amazon 
+inmarket mobile shopping startup installing 
+ibeacon grocery stores according the 
+associated press the technology was rolled out 
+dozens safeway and giant eagle stores the 
+beginning the year and will reach thousands 
+stores the end about people use 
+inmarket mobile app 
+banks 
+however believe mcx faces significant challenges 
+evolving into national general purpose mobile payments 
+scheme while the mass adoption hurdle for any new payment 
+scheme obvious believe that the value proposition the 
+mcx wallet may also not straight forward when comes 
+consumer experience while target may want extend the 
+strategy behind the success its decoupled debit redcard 
+which offers discount off each purchase fellow mcx 
+consortium member such wal mart may not willing 
+able offer such discount thus the value proposition the 
+consumer could get muddled consumers need read the 
+fine print the use case that varies each retailer 
+furthermore the interests the various member retailers 
+behind mcx may not aligned while some the larger 
+merchants may interested ach automated clearing 
+house funding put pressure payment network operators 
+lower payments acceptance costs others may more 
+interested the loyalty targeted marketing value proposition 
+visa 
+frustrating experience with incomplete network below 
+sample recent major developments beacons 
+source mckinsey mobile payments consumer survey 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+and while mcx merchants may have advantage being 
+able sign consumers the checkout line also think 
+the experience store branded cards may not good 
+omen for mcx while store branded cards typically give 
+consumers higher discount than general purpose credit cards 
+the growth purchase volumes have lagged general purpose 
+card spending 
+exhibit 
+merchants that are mcx members 
+eleven 
+acme fresh market 
+alon brands 
+bahama breeze 
+banana republic 
+baskin robbins 
+bed bath beyond 
+best buy 
+buybuy baby 
+the capital grille 
+chilli 
+christmas tree shops 
+circle 
+conoco 
+cvs 
+dick sporting goods 
+dillard inc 
+dunkin brands 
+eddie 
+exxon mobil 
+face values 
+gap 
+giant eagle 
+hmshost 
+hobby lobby stores 
+hy vee 
+kohl 
+kmart 
+kum 
+longhorn steakhouse 
+lowe 
+maggiano 
+meijer 
+michaels stores 
+goods market 
+old navy 
+olive garden 
+phillips 
+price right 
+publix 
+quiktrip 
+racetrac 
+red lobster 
+riteaid 
+sam club 
+sears holdings 
+seasons 
+sheetz 
+shell oil 
+shoprite 
+southwest airlines 
+sunoco 
+target 
+wal mart 
+wawa 
+wendy 
+yard house 
+source company data morgan stanley research 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+disclosure section 
+morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the 
+financial services and markets act research which has been prepared any its affiliates used this disclosure section morgan stanley 
+includes rmb morgan stanley proprietary limited morgan stanley international plc and its affiliates 
+for important disclosures stock price charts valuation methodology and risks associated with any price targets and equity rating histories regarding 
+companies that are the subject this report please see the morgan stanley research disclosure website 
+morganstanley researchdisclosures contact your investment representative morgan stanley research broadway attention 
+research management new york usa 
+for valuation methodology and risks associated with any price targets referenced this research report please contact the client support team 
+follows canada hong kong latin america london singapore 
+sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and 
+that they have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this 
+report andrew humphrey smittipon srethapramote 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+january morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research ingenico logitech mastercard inc technicolor tomtom visa inc 
+within the last months morgan stanley has received compensation for investment banking services from mastercard inc technicolor 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from gemalto 
+ingenico logitech mastercard inc technicolor tomtom visa inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from 
+mastercard inc technicolor tomtom 
+within the last months morgan stanley has provided providing investment banking services has investment banking client 
+relationship with the following company gemalto ingenico logitech mastercard inc technicolor tomtom visa inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past 
+has entered into agreement provide services has client relationship with the following company mastercard inc technicolor tomtom 
+visa inc 
+morgan stanley llc makes market the securities logitech mastercard inc visa inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based 
+upon various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment 
+banking revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making 
+providing liquidity and specialized trading risk arbitrage and other proprietary trading fund management commercial banking extension credit 
+investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered 
+morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed this report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below 
+morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the 
+equivalent buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since 
+morgan stanley research contains more complete information concerning the analyst views investors should carefully read morgan stanley 
+research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon 
+investment advice investor decision buy sell stock should depend individual circumstances such the investor existing holdings 
+and other considerations 
+global stock ratings distribution 
+january 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside 
+our ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks 
+cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative 
+weightings see definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy 
+recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+stock rating category 
+coverage universe 
+investment banking clients ibc 
+rating 
+count 
+total 
+count total ibc category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received 
+investment banking compensation the last months 
+analyst stock ratings 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the 
+relevant broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant 
+broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant 
+broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index 
+europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+stock price price target and rating history see rating definitions 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc 
+morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures 
+for morgan stanley specific disclosures you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the 
+same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities ingenico mastercard inc tomtom 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning 
+section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other factors for 
+all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients certain 
+but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through alternate electronic means 
+convenience for access all available morgan stanley research please contact your sales representative matrix http morganstanley matrix 
+any access and use morgan stanley research are subject morgan stanley terms use http morganstanley terms accessing and using 
+morgan stanley research you are indicating that you have read and agree bound our terms use http morganstanley terms addition you 
+consent morgan stanley processing your personal data and using cookies accordance with our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge including for the purposes setting your preferences and collect readership data that can deliver better and 
+more personalised service and products you find out more information about how morgan stanley processes personal data how use cookies and how reject 
+cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please not 
+access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances and 
+objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and strategies and encourages investors 
+seek the advice financial adviser the appropriateness investment strategy will depend investor circumstances and objectives the securities 
+instruments strategies discussed morgan stanley research may not suitable for all investors and certain investors may not eligible purchase participate 
+some all them morgan stanley research not offer buy sell any security instrument participate any trading strategy the value and income from 
+your investments may vary because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes 
+operational financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not realized 
+provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company securities instruments 
+morgan 
+stanley 
+research 
+february 
+mobile payments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based 
+upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading and capital markets profitability 
+revenues client feedback and competitive factors fixed income research analysts strategists economists compensation not linked investment banking capital 
+markets transactions performed morgan stanley the profitability revenues particular trading desks 
+morgan stanley research not offer buy sell the solicitation offer buy sell any security instrument participate any particular trading strategy 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns 
+more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley may have investment 
+less than securities instruments derivatives securities instruments companies and may trade them ways different from those discussed morgan stanley 
+research employees morgan stanley not involved the preparation morgan stanley research may have investments securities instruments derivatives 
+securities instruments companies mentioned and may trade them ways different from those discussed morgan stanley research derivatives may issued 
+morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable 
+comprehensive information but make representation that accurate complete have obligation tell you when opinions information morgan stanley 
+research change apart from when intend discontinue equity research coverage subject company facts and views presented morgan stanley research have 
+not been reviewed and may not reflect information known professionals other morgan stanley business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company 
+associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions take proprietary positions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such information for your 
+reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research may not 
+distributed the public media quoted used the public media without the express written consent morgan stanley information securities instruments that 
+not trade taiwan for informational purposes only and not construed recommendation solicitation trade such securities instruments mstl may not 
+execute transactions for clients these securities instruments our readers hong kong information distributed hong kong and behalf and attributable 
+morgan stanley asia limited part its regulated activities hong kong you have any queries concerning morgan stanley research please contact our hong 
+kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not constitute 
+offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest such securities and shall 
+responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental authorities themselves 
+morgan stanley research disseminated brazil morgan stanley japan morgan stanley mufg securities ltd and for commodities related 
+research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts responsibility for its contents 
+singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte ltd registration number 
+regulated the monetary authority singapore which accepts legal responsibility for its contents and should contacted with respect any matters 
+arising from connection with morgan stanley research australia wholesale clients within the meaning the australian corporations act morgan stanley 
+australia limited holder australian financial services license which accepts responsibility for its contents australia wholesale 
+clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia pty ltd holder 
+australian financial services license which accepts responsibility for its contents korea morgan stanley international plc seoul branch india 
+morgan stanley india company private limited indonesia morgan stanley asia indonesia canada morgan stanley canada limited which has approved 
+and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth management limited 
+niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group 
+company which supervised the spanish securities markets commission cnmv and states that morgan stanley research has been written and distributed 
+accordance with the rules conduct applicable financial research established under spanish regulations the morgan stanley llc which accepts 
+responsibility for its contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority 
+and the prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial services 
+and markets act research which has been prepared any its affiliates morgan stanley private wealth management limited authorized and regulated the 
+financial conduct authority also disseminates morgan stanley research the private investors should obtain the advice their morgan stanley 
+international plc morgan stanley private wealth management representative about the investments concerned rmb morgan stanley proprietary limited member 
+the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services 
+authority the dfsa and directed professional clients only defined the dfsa the financial products financial services which this research relates will only 
+made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre 
+regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail customers defined the 
+qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment advisory 
+activity investment advisory service provided accordance with contract engagement investment advisory concluded between brokerage houses portfolio 
+management companies non deposit banks and clients comments and recommendations stated here rely the individual opinions the ones providing these 
+comments and recommendations these opinions may not fit your financial status risk and return preferences for this reason make investment decision relying 
+solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties 
+representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating such data the global 
+industry classification standard gics was developed and the exclusive property msci and morgan stanley bases projections opinions forecasts and 
+trading strategies regarding the msci country index series solely public information msci has not reviewed approved endorsed these projections opinions 
+forecasts and trading strategies morgan stanley has influence control over msci index compilation decisions morgan stanley research portions may not 
+reprinted sold redistributed without the written consent morgan stanley morgan stanley research disseminated and available primarily electronically and 
+some cases printed form additional information recommended securities instruments available request 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan 
+the americas 
+broadway 
+new york 
+united states 
+tel 
+morgan stanley 
+europe 
+bank street canary wharf 
+london 
+united kingdom 
+tel 
+stanley 
+research 
+japan 
+otemachi chiyoda 
+tokyo 
+japan 
+tel 
+asia pacific 
+austin road west 
+kowloon 
+hong kong 
+tel 

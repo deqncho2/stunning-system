@@ -1,0 +1,676 @@
+july gmt 
+software 
+cybersecurity blue paper 
+revisit focusing 
+security analytics 
+enterprises become more distributed and 
+traditional security solutions less effective 
+security analytics emerges key technology 
+solve for the signal noise challenges and improve 
+security effectiveness stand alone markets and 
+broader suites see splk key beneficiary 
+revisit our cybersecurity blue paper rethinking security 
+focusing the increasingly paramount area security analytics term 
+encompassing analytics embedded into broad security platforms well 
+stand alone analytics solution aimed reducing the detection time malicious 
+activity several forces are driving the need for increased visibility via analytics 
+into the security platform including inefficiency and noisiness security 
+prevention solutions greater volume and variety security data and the 
+emergence big data technologies better collect store and process this data 
+see splunk key beneficiary this trend with its flexible platform that 
+offers rich security and operational insights other key conclusions 
+what enabling the market for security analytics see three converging 
+factors which drive the growing market for security analytics data relevant 
+security growing volume velocity and variety computing environments 
+grow more complex and distributed data store and analytics technology has 
+developed alongside data growth bringing together internal data analysis 
+analyzing data points generated from internal technology and processes and 
+external data analyzing data from relevant external data sources apply 
+internally and traditional preventative oriented technology remain well 
+below effective necessitated tools shorten the time detection when 
+prevention fails 
+how large will the market for security analytics grow see large security 
+vendors increasingly offering security analytics feature broader suites 
+aiming towards the single pane information for the enterprise assess their 
+overall security profile example includes palo alto autofocus solution 
+which automates the process detecting unique incidents within the network 
+there will also narrow list vendors that can operate the switzerland 
+technology collecting analyzing and storing data across disparate security and 
+non security events data our view today there are separate markets for 
+morgan stanley llc 
+melissa gorham 
+equity analyst 
+melissa gorham morganstanley 
+keith weiss cfa 
+equity analyst 
+keith weiss morganstanley 
+james faucette 
+equity analyst 
+james faucette morganstanley 
+katy huberty cfa 
+equity analyst 
+kathryn huberty morganstanley 
+software 
+north america 
+industryview 
+attractive 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+security analytics security information and event management threat 
+intelligence and user behavioral analysis see these technologies merging 
+together direct and adjacent security analytics markets total about billion 
+product spend about the security software market see 
+cagr within these markets through estimated growth 
+for total security spending 
+what the best way play this trend 
+splunk security key driver growth for splunk revenue 
+its technology enabling security analytics and enterprise visibility 
+positions splunk the switzerland disparate security data 
+expanding delivery models splunk cloud large partner ecosystem 
+and new premium apps user behavioral analysis will sustain its 
+differentiation large and growing security analytics market 
+ibm ibm security one the largest security businesses the 
+industry and positioned capture share customers look 
+consolidate vendors and capitalize ibm leadership out 
+core security areas 
+analytics driven security suite well positions 
+capture share investment dollars shift towards solutions enabling 
+better visibility and intelligence however still the early days 
+selling the broader security analytics platform with most the 
+revenue tied its core vulnerability management solution 
+key conclusions 
+rise security noise rise big data technologies increasing strategic importance 
+security analytics 
+exhibit security analytics moving from detection predictive analytics enabled big data technology 
+source morgan stanley research splunk 
+what does this mean more efficiently finding the needle the haystack 
+security analytics contributes two themes within the security landscape analytical 
+capabilities will increasingly offered enhanced features functionality into broader 
+security suites lower false positives and bolster productivity security analysts and 
+security analytics will largely already evolve into separate stand alone market 
+with the role central aggregator the switzerland across disparate security 
+technologies some key trends 
+why now greater variety volume and velocity data relevant for security 
+decision making the increased complexity computing environments coupled 
+with the greater sophistication bad actors has driven greater volume and 
+diversity data relevant for security purposes addition network traffic 
+moving and out the network effective security solutions incorporate 
+additional data gleaned from machine logs forensics data employee identity 
+information physical security information external threat intelligence etc 
+but what with leveraging big data tools garner value from the data 
+security solutions are now leveraging new data store technologies store and 
+process large volume structured unstructured data and new data analytics 
+technologies incorporating machine learning and cognitive computing machine 
+learning the ability for technology change and improve response new 
+data cognitive computing the ability technology automate human thought 
+processes these types technologies drive more relevant security insight and 
+bolsters the productivity security analysts who are tasked with taking action 
+the most pertinent alerts see security analytics tools enabling more effective 
+automation incident response example security system automatically 
+quarantining device when abnormal behavior detected the integration 
+between detection oriented devices and automated prevention incident response 
+largely not place today due the risk false positives blocking legitimate 
+activities processes however the security systems get smarter and can 
+process greater amount data the likelihood false positives moves lower 
+which provides granularity behavior down the user level the analysis 
+identity information with security data allows for actionable insight down the 
+user level important capability detect and block insider threats this allows 
+for user and peer group profiling which turn boosts detection rates for the 
+stealthiest malicious activities this has given rise the emerging user behavioral 
+analysis uba market which believe will integrated with larger security 
+incident and event management platforms siem such splunk 
+probabilistic security already leveraged payment networks payment networks 
+assess risk levels through predictive analytics analyzing wide range factors like 
+purchasing behavior location purchases anomaly detection reputation scoring and 
+address detection they are able quickly determine the chance that fraudulent 
+purchase being attempted part this payment networks have tuned their 
+algorithms strike balance between restrictive which would cause lost revenue and 
+lax which would drive increased fraud controls while the payment industry still faces 
+losses general milliseconds they make risk assessment customer that has 
+led losses only total transactions enterprise networks face similar 
+balance between stringent security controls and high productivity enterprise 
+architectures are arguably more complex than payments with broad range normal 
+behaviors across very disparate environment users apps machines etc however 
+think the security vendors are tackling these challenges leveraging big data 
+technologies base line normal behavior 
+where will work security looking for the central aggregator 
+security analytics bolster the value the big security suites see large 
+security vendors increasingly offering security analytics feature functionality 
+additional product offering broader protection oriented suites this supports view 
+that protection oriented technologies are not effective therefore enterprises look 
+for capabilities that provide additional visibility shorten the time detection the 
+benefit security platform best breed solutions integrated together that 
+provides single pane information for the enterprise and analytics bolsters the 
+actionable insight incorporated this single pane 
+some examples include 
+palo alto networks palo alto released its autofocus subscription service 
+which automates the process detect unique incidents within the network 
+reduces the signal noise ratio automating the process finding the truly 
+critical threats increasingly important reduce the time detection crowded 
+and noisy security landscape this subscription attaches palo alto networks 
+next generation firewall solution 
+fireeye fireeye has released variety analytics related subscriptions the 
+areas threat analytics threat intelligence and forensics its threat analytics 
+platform collects network traffic and constructs events for threat detection and 
+response expansion into these new product areas are important piece 
+fireeye future growth prospects with its core appliances down yoy 
+and its product subscription solutions growing and 
+exhibit cisco activity cisco cisco covered james faucette 
+pushing forward with its efforts 
+increasingly focused around 
+develop platform approach which 
+security and analytics 
+features key functions network 
+visibility analytics and automated 
+response example includes cisco 
+cognitive threat analytics product which 
+offered add for its web 
+security appliance this solution detects 
+and responds suspicious web traffic 
+company filings press releases 
+which may point attacks already under 
+way they also recently released their 
+tetration analytics solution which attempts use data collected about network 
+user behavior make more predictive decisions changes the network and able 
+pick better anomalous behavior additionally they announced the 
+acquisition cloudlock june which provides enterprises with visibility 
+and analytics around user behavior and sensitive data cloud services this 
+acquisition the latest cisco latest acquisitions which have increasingly been 
+centered around security and analytics 
+cash spend acquisitions 
+large scale 
+tuck ins 
+ytd 
+exhibit recent transactions relevant for security analytics 
+ann date 
+acquirer 
+target 
+business target 
+june 
+january 
+october 
+october 
+july 
+january 
+cisco 
+fireeye 
+cisco 
+splunk 
+fireeye 
+cloudlock 
+isight partners 
+lancope 
+logentries 
+caspida 
+mandiant 
+cloud access security brokerage security analytics the cloud 
+cyberthreat intelligence for global enter 
+network behavior analytics threat visibility and threat intelligence 
+machine data search technology 
+machine learning and behavioral analytics 
+endpoint security and incident response management solutions 
+source morgan stanley research company data 
+but stand alone security analytics solutions will remain priority even 
+consolidating world 
+believe there will likely narrow list vendors that can operate the 
+switzerland technology collecting analyzing and storing data across disparate 
+security technologies while security vendors focused threat prevention are building 
+security analytics into their solutions believe there will need neutral third 
+party that can enable integration and visibility across the entire infrastructure today 
+there are separate markets for security analytics security information and event 
+management threat intelligence and user behavioral analysis all which centers 
+around data analysis see these technologies merging some ways play 
+splunk splunk released its user behavioral analysis solution the fall 
+released its user behavioral analysis solution userinsights 
+complement its vulnerability management suite 
+ibm ibm qradar provides monitoring platform with app store for 
+customization and integration with many party providers ibm recently 
+announced watson for cyber security with the intention addressing the 
+significant labor shortage and costs that plague this area ibm will integrate 
+watson with qradar followed integration with external providers like splunk 
+end 
+how big market can this 
+the market for security analytics somewhat nebulous incorporated into existing 
+markets additional feature functionality but also includes stand alone pure play 
+markets the direct market opportunity includes security incident and event 
+management software siem forensics and threat intelligence solutions together 
+these markets represent spending according idc growing 
+however some other markets leverage good amount security analytics 
+including vulnerability management identity and access management and advanced 
+threat protection together direct and adjacent markets total about product 
+spend about our estimate total security product spend however 
+these markets are growing meaningfully faster clip than overall security with 
+expected cagr over the next years our estimate growth that time 
+period for total security spending 
+exhibit see security analytics related markets direct and indirect outpacing overall growth security spend over the next five years 
+reaching spend 
+security analytics 
+direct markets 
+security incident event management 
+forensics 
+threat intelligence 
+cagr 
+adjacent markets 
+vulnerability management 
+identity access management 
+specialized threat protection 
+security analytics related 
+total security products 
+source idc morgan stanley research 
+best ways play splk the best pure play ibm also leader 
+splunk technology enabling security analytics and enterprise visibility 
+positions splunk the switzerland disparate security technology continue 
+believe that the security use case revenue will key driver growth 
+for splunk while expanding delivery models splunk cloud large partner ecosystem 
+and new premium apps user behavioral analysis will sustain its differentiation 
+large and growing security analytics market 
+splk from its feb lows however the stock down yoy well 
+below the average software stock down yoy and down the past week the 
+average software stock down concerns slowing enterprise spend increased 
+competition and model impacts from the move splunk cloud have weighed the 
+stock however believe management outlook revenue growth for splunk 
+from will once again prove conservative with continued investments the 
+business expanding partner network accenture cloud vendors stabilizing ratable 
+mix and low international exposure revenue 
+fcf our estimate fcf growth from believe the 
+current multiple undervalues splk defensible market position and strong secular 
+tailwinds around security and big data 
+secureworks secureworks provides managed security services 
+platform which manages monitors and integrates point solutions behalf 
+enterprises this platform bolsters security postures and addresses enterprises limited 
+human capital and security expertise the key secureworks solutions lies the 
+analytics brings its customers unique secureworks given its scale the value 
+proposition its platform centers around its counter threat platform which collects 
+analyzes and takes action based security events day revenue 
+believe investors are largely valuing secureworks services company but 
+proving out its strong positioning the evolving security landscape will prove rewarding 
+for patient investors our view 
+ibm revenue ibm security one the largest 
+security businesses the industry comparing enterprise security revenue 
+symantec total and revenue cisco and check 
+point ibm security revenue growth accelerated recent quarters from growth last 
+year the company fulfills its vision offering tightly integrated 
+product portfolio security accounts for ibm strategic imperatives with the 
+majority revenue from software but also considerable amount from services ibm 
+taking share customers look consolidate vendors and manage gaps between 
+products something ibm can increasingly after acquisitions years 
+symantec with corporate endpoints and enterprise customers symantec 
+leverages large volume data across its customer base bolster its security product 
+solutions and its cybersecurity services offerings symantec expects release new 
+version its advanced persistent threat apt solution which should leverage 
+machine learning capabilities better detect zero day threats the endpoint its 
+cyber security services has also been relative outperformer yoy leverages 
+its large installed base and database threat intel prevent and remediate attacks 
+emerging analytics driven security suite well positions 
+capture share investment dollars shift towards solutions enabling better 
+visibility expansion beyond traditional vulnerability management beginning take 
+shape with management noting positive traction and solid pipeline with its new 
+insights idr solution encouraging commentary amid crowded siem market however 
+still the early days selling the broader security analytics platform with 
+most the revenue tied its core vulnerability management solution proving out the 
+emerging platform story the enterprise space through continued product 
+development would drive more positive view the stock 
+morgan stanley acting financial advisor blue coat systems inc blue coat 
+relation the proposed sale symantec corporation announced june blue 
+coat has agreed pay fees morgan stanley for its financial services please refer the 
+notes the end the report 
+valuation methodology and risks 
+ibm 
+our price target derived from eps fcf 
+shr our base case multiple expands modestly higher earnings quality 
+and improving backlog deferred income trends signal growth future years ibm 
+trades the low end software and services peers line with oracle 
+eps fcf financing receivables 
+risks achieve 
+continued signs cloud cannibalizing ibm core markets 
+ibm fails monetize investments watson and cognitive computing 
+slowing high end server growth post product cycles 
+headwinds and prolonged weakness emerging markets 
+acquisition integration risk 
+rpd 
+based off fcf yielding share price 
+assuming discount rate fcf slight discount its profitable security 
+peers but relatively line with growth this equates sales line with 
+comp group 
+risks achieve 
+upside risks new customer wins particularly large scale enterprise deployments 
+driven recent sales investments well increased penetration existing 
+customers could drive better than expected growth leverage and greater scale 
+could drive margin leverage better than expected 
+downside risks increased competition from larger competitors and limited growth 
+markets outside vulnerability management could limit the sustainability growth 
+lack progress toward fcf breakeven could lead weaker stock price 
+performance 
+scwx 
+based off discount fcf assuming fcf 
+revenue this implies revenue line with the median 
+security peers reflecting the attractive secular trends 
+risks achieve 
+downside risks increased competition from larger competitors managed security 
+services could limit the sustainability growth lack progress towards reaching fcf 
+and operating margin break even could lead weaker stock price performance 
+splk 
+based off fcf assuming fcf rev 
+and discount rate margins improve through and 
+leverage and growing recurring rev fcf growth supports splk multiple 
+fcf yielding share price entering 
+risks achieve 
+increased competition from large and established tech vendors 
+multiple licensing models perpetual term and subscription could lead increased 
+income statement volatility 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan 
+stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley includes morgan 
+stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and their affiliates 
+necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report james 
+faucette melissa gorham katy huberty cfa keith weiss cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+june morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research atlassian corporation plc avg technologies fireeye inc mindbody inc new relic inc nuance communications inc palo alto 
+networks inc qlik technologies inc salesforce servicenow inc splunk inc tableau software travelport worldwide limited varonis systems inc 
+veeva systems inc workday workiva inc 
+within the last months morgan stanley managed managed public offering offering securities atlassian corporation plc godaddy 
+inc instructure inc nuance communications inc inc sabre corp travelport worldwide limited 
+within the last months morgan stanley has received compensation for investment banking services from appfolio inc atlassian corporation plc box 
+inc cdk global inc godaddy inc instructure inc intuit microsoft mindbody inc nuance communications inc oracle corporation qlik technologies 
+inc inc sabre corp secureworks corp splunk inc technologies holdings inc travelport worldwide limited 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from adobe systems akamai 
+technologies inc apigee corporation appfolio inc atlassian corporation plc autodesk avg technologies barracuda networks inc bazaarvoice inc 
+box inc cdk global inc check point software technologies ltd citrix systems inc cvent descartes systems group inc dst systems inc enernoc 
+inc fireeye inc fortinet inc godaddy inc hubspot inc ibm imperva inc instructure inc intuit jive software inc microsoft mindbody inc netsuite 
+new relic inc nuance communications inc oracle corporation palo alto networks inc proofpoint inc qlik technologies inc inc red hat inc 
+sabre corp salesforce servicenow inc shopify inc splunk inc technologies holdings inc symantec tableau software travelport worldwide 
+limited varonis systems inc veeva systems inc vmware inc workday workiva inc zendesk inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from adobe 
+systems akamai technologies inc autodesk check point software technologies ltd dst systems inc fortinet inc ibm intuit microsoft nuance 
+communications inc oracle corporation red hat inc sabre corp salesforce technologies holdings inc symantec travelport worldwide 
+limited 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company adobe systems akamai technologies inc apigee corporation appfolio inc atlassian corporation plc autodesk avg 
+technologies barracuda networks inc bazaarvoice inc box inc cdk global inc check point software technologies ltd citrix systems inc cvent 
+descartes systems group inc dst systems inc enernoc inc fireeye inc fortinet inc godaddy inc hubspot inc ibm imperva inc instructure inc 
+intuit jive software inc microsoft mindbody inc netsuite new relic inc nuance communications inc oracle corporation palo alto networks inc 
+proofpoint inc qlik technologies inc inc red hat inc sabre corp salesforce servicenow inc shopify inc splunk inc technologies 
+holdings inc symantec tableau software travelport worldwide limited varonis systems inc veeva systems inc vmware inc workday workiva inc 
+zendesk inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company adobe systems akamai technologies inc autodesk 
+cdk global inc check point software technologies ltd citrix systems inc dst systems inc enernoc inc fireeye inc fortinet inc godaddy inc ibm 
+intuit microsoft nuance communications inc oracle corporation red hat inc sabre corp salesforce servicenow inc technologies 
+holdings inc symantec travelport worldwide limited workday 
+employee director consultant morgan stanley director ibm workiva inc this person not research analyst member research 
+analyst household 
+morgan stanley llc makes market the securities adobe systems akamai technologies inc apigee corporation appfolio inc atlassian 
+corporation plc autodesk avg technologies barracuda networks inc bazaarvoice inc box inc cdk global inc check point software technologies ltd 
+citrix systems inc cvent descartes systems group inc dst systems inc enernoc inc fireeye inc fortinet inc godaddy inc hubspot inc ibm 
+imperva inc instructure inc intuit jive software inc microsoft mindbody inc netsuite new relic inc nuance communications inc oracle corporation 
+palo alto networks inc proofpoint inc qlik technologies inc inc red hat inc sabre corp salesforce secureworks corp servicenow inc 
+shopify inc splunk inc technologies holdings inc symantec tableau software travelport worldwide limited varonis systems inc veeva 
+systems inc vmware inc workday workiva inc zendesk inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+june 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+stock price price target and rating history see rating definitions 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems autodesk bazaarvoice 
+inc cdk global inc citrix systems inc fireeye inc ibm intuit microsoft netsuite nuance communications inc oracle corporation proofpoint inc red 
+hat inc symantec 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers hong 
+kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities hong 
+kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia indonesia 
+canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley 
+bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage software 
+company ticker 
+rating 
+price 
+brian essex cfa 
+appfolio inc appf 
+cdk global inc cdk 
+descartes systems group inc dsgx 
+dst systems inc dst 
+enernoc inc enoc 
+godaddy inc gddy 
+instructure inc inst 
+mindbody inc 
+sabre corp sabr 
+shopify inc shop 
+technologies holdings inc ssnc 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+qlik technologies inc qlik 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+splunk inc splk 
+symantec symc 
+vmware inc vmw 
+workday wday 
+melissa gorham 
+avg technologies avg 
+barracuda networks inc cuda 
+box inc box 
+fireeye inc feye 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+inc rpd 
+secureworks corp scwx 
+varonis systems inc vrns 
+sanjit singh 
+apigee corporation apic 
+atlassian corporation plc team 
+new relic inc newr 
+nuance communications inc nuan 
+tableau software data 
+stan zlotsky cfa 
+bazaarvoice inc 
+cvent cvt 
+hubspot inc hubs 
+jive software inc jive 
+netsuite 
+veeva systems inc veev 
+workiva inc 
+zendesk inc zen 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

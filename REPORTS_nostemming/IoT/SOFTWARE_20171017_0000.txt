@@ -1,0 +1,2601 @@
+october gmt 
+software capital goods 
+how software creates the 
+foundations for the digital 
+factory 
+the push towards digital factory drives both increased 
+efficiency the factory floor and new revenue streams with 
+digital services bundled into manufactured goods winners will 
+those best able integrate the dynamism software 
+innovation and deep domain expertise manufacturers 
+digitalization manufacturing could unlock material opportunities for 
+efficiency gains and new revenue streams global manufacturing drives over 
+trillion commerce world bank and amasses over petabytes 
+data annually yet faces severe pressure growth and profit conditions ripe 
+for technological disruption collaborating across morgan stanley research 
+global analyst base furthered conversations with industry participants 
+sketched out path towards the digital factory this integrated set 
+systems utilising common data platform optimise the design manufacturing 
+distribution and ultimately usage manufactured goods the opportunities are 
+substantial efficiency improvements manufacturing goods mckinsey 
+estimates the economic impact the internet things factory operations 
+and equipment optimisation trillion and large new revenue 
+potential from integrating digital services into the manufactured goods 
+capital goods and software vendors both bring value one supplier comes 
+close covering the entire map the digital factory software vendors bring 
+fail fast but rapid innovation approach and comfort with disruption very 
+different culture that the factory floor capital goods stocks have the deep 
+domain expertise and customer trust necessary effect industry change 
+vendors best able combine these attributes should emerge winners 
+large manufacturers boosting software exposure since have tracked 
+billion spent capital goods stocks software heavy deals gaining 
+presence product and manufacturing software siemens plm eda and 
+schneider mes cad have strong positions with general electric analytics 
+asset monitoring rockwell automation mes analytics and abb dcs grid 
+management well placed expect honeywell and fortive active 
+software building foundations software vendors that seem best integrated 
+partnerships and customer relationships the digital factory are autodesk 
+design manufacturing dassault systemes product lifecycle 
+manufacturing hexagon metrology tools lifecycle manufacturing sap 
+data analytics manufacturing and software data analytics 
+morgan stanley international plc 
+adam wood 
+equity analyst 
+adam wood morganstanley 
+ben uglow 
+equity analyst 
+ben uglow morganstanley 
+lucie carrier 
+equity analyst 
+lucie carrier morganstanley 
+george webb 
+research associate 
+george webb morganstanley 
+joshua harris 
+equity analyst 
+josh harris morganstanley 
+morgan stanley llc 
+keith weiss cfa 
+equity analyst 
+keith weiss morganstanley 
+nigel coe cfa 
+equity analyst 
+nigel coe morganstanley 
+hamza fodderwala 
+research associate 
+hamza fodderwala morganstanley 
+sawyer rice 
+research associate 
+sawyer rice morganstanley 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+building the foundations for the digital factory 
+mapping the path the digital factory 
+the pursuit increasing efficiency and scope for new revenue streams will lead 
+manufacturers towards factory where data assembly line becomes the focal 
+point their manufacturing and distribution processes currently the industrial 
+internet consortium estimates that typical factory more than data 
+discarded without any attempt derive value the digital factory data yielded from 
+sensors within and around the machinery and the products themselves will create 
+feedback loops that better inform the initial design products optimise the 
+manufacturing process and squeeze waste out the supply chain these same sensors 
+will enable more efficient distribution products new monitoring and predictive 
+maintenance services both factory and once the products are the field and new 
+add services the digital factory the integration these sensors and disparate 
+systems top shared data platform 
+exhibit integrated use product data forms the foundation the digital factory 
+source morgan stanley research 
+what the catalyst for change see five core elements driving the shift towards the 
+digital factory the threat low cost manufacturing china manufacturers facing 
+product commoditisation thinner margins and lower revenue growth consumer 
+desire for increasingly customised products the industrial internet things iiot 
+and additive manufacturing generative design 
+exhibit nearly petabytes new data stored the manufacturing industry each year 
+annual new data stored sector petabytes 
+source idc mckinsey global institute 
+what barriers are there overcome view the traditional factory environment 
+being very challenging navigate and where there are three primary issues 
+disparate processes the landscape very heterogeneous with multiple hardware 
+platforms that run different operating systems lack collaboration design and 
+manufacturing teams haven historically worked well together and lack the 
+collaborative tools and the technological capabilities required make the 
+digital factory reality big data cloud computing have not historically existed 
+been widely deployed date 
+exhibit spending the discrete manufacturing software sector expected grow 
+cagr between and and from the highest starting base other sectors 
+idc software spend forecast sector 
+cagr 
+source idc worldwide spending guide software only morgan stanley research 
+opportunities for increasing efficiency 
+additive manufacturing reduces waste increases customization foresee greater 
+integration additive manufacturing printing the digital factory with lower costs 
+printers and increased functionality enabling manufacturing companies 
+leverage them more industrial scale than present where use cases are typically 
+limited prototyping research and development 
+optimize design with data from the factory floor and the real world lessons learnt 
+the factory floor ideally should fed back into the company logistics and finance 
+system erp and its design software plm this step would fully represent the closing 
+the loop between the factory floor and the earliest levels the product sales and 
+design processes with plm data output from the factory floor can input into the 
+product design process enabling easier and earlier optimisation the product 
+design total this could mean reduced production costs shortened time market 
+and increased production flexibility for manufacturers 
+predictive maintenance this involves using predictive analytics help identify the 
+operating condition machinery doing enables fine tuning the maintenance 
+process potentially removing the need perform costly and time consuming preemptive maintenance when machine does not require disruptive reactive 
+maintenance machine has developed fault 
+opportunities drive new revenue streams 
+shifting from selling products selling outcomes think capital goods companies 
+appear the first move eyeing more subscription type business model that adopts 
+services based approach pricing could eventually switch being linked the 
+efficiency the equipment operations and away from lump sum initial purchase 
+currently the case key requirement this the ability collect data the 
+product operates the field and then being able monetise that either through 
+providing uptime guarantee via ongoing predictive maintenance services this 
+more closely aligned with what customers really care about for example the run time 
+achieved from turbine opposed ownership the turbine 
+why will build the digital factory 
+capital goods companies have already begun acquiring partnering gain software 
+exposure within design and manufacturing software systems trend that looks likely 
+continue software more attractive market and has exhibited stronger growth that 
+has averaged since whereas capital goods growth has only been 
+addition software typically carries more visible and profitable business model with 
+higher recurring revenues and margins however software alone doesn solve the 
+equation deep domain expertise considerable fixed investments and longstanding 
+customer relationships give the capital goods companies strong positioning 
+exhibit software companies generally enjoy higher margins 
+next ebit margin 
+capital goods companies 
+software companies 
+source reuters data autodesk aveva and schneider electric data not pro forma autodesk mse reflect when subscription model has 
+improved scale 
+factory landscape key terms 
+enterprise software tools 
+extended enterprise resource planning comprised 
+core enterprise resource planning erp functionality for finance 
+manufacturing planning and logistics and other key business functions 
+customer relationship management crm marketing sales and customer 
+support processes 
+supply chain management scm controlling and monitoring the movement 
+items from their raw material state through their finalised state 
+product lifecycle management plm comprised 
+computer aided design cad tool enabling virtual product design 
+computer aided engineering cae takes the virtual product created cad 
+and allows for analysis robustness and assembly performance simulation 
+computer aided manufacturing cam takes computer generated design 
+from cad cae and creates cam model calculating relevant tool paths 
+for machine follow 
+product data management pdm manage product data single system 
+manufacturing execution system mes deals with manufacturing process 
+control work process tracking product traceability data collection and 
+labour tracking 
+factory level tools software and hardware 
+supervisory control and data acquisition scada monitors gathers 
+processes and performs basic data analytics using data output factory 
+floor instrumentation 
+field control systems 
+programmable logic controllers plcs control manufacturing processes 
+making logic based automated decisions 
+industrial pcs ipcs alternative plcs these can offer greater 
+programming flexibility than plcs though are less rugged 
+field instrumentation cncs motors robots printers machinery that 
+physically move help manufacture process product 
+metrology monitors products they through the manufacturing process 
+feeding back data and checking for defects comparing the built product the 
+designed product 
+the digital factory 
+digital manufacturing fully flexible design and production 
+see the ideal for manufacturers having software integrated production 
+line being able rapidly respond changing market dynamics with minimal 
+disruption reach this vision think the factory needs enter the digital age 
+where the product design and manufacturing processes are fully synchronised 
+such that they can optimised within the context each other with more 
+connected factory environment manufacturers can quickly adjust their processes 
+for example crm software logged sharp rise demand for certain product 
+then production can quickly shifted towards addition defect becomes 
+apparent the aftermarket for product this data can fed back into the 
+digital factory recalibrate the design and manufacturing process the 
+combination real time demand data real time production planning and the 
+ability flex production lines means that the design and manufacturing process 
+can fully integrated this ensures products can built multiple production 
+lines whilst increasing speed market 
+exhibit simplified version the digital factory floor setting discrete industry 
+source morgan stanley research 
+introducing the digital factory 
+our stylised digital factory features the deployment new technologies 
+industrial scale next generation sensors iot connectivity modules line 
+metrology cloud storage create more advanced factory setting than 
+typically constructed today believe that industry and the industrial 
+internet things iiot will drive significant changes the structure factory 
+and will provide significant scope for manufacturers increase the productivity 
+their operations and improve the quality and levels customisation 
+manufactured products 
+extended erp and plm systems remain top the tree scada functionality 
+absorbed into the mes expect extended erp and plm cement their role the 
+initial systems used when first processing customer order designing the product and 
+dealing with related finance logistics and scheduling foresee scada software 
+becoming increasingly interlinked with mes software with mes capabilities eventually 
+broadening out encompass the role scada rendering separate scada layer 
+redundant result the mes system moves add competency running direct 
+connections factory controls plcs ipcs and field instrumentation cnc 
+machines acts systems supervisor and acquires data 
+greater machine machine connectivity deployment connectivity iot 
+modules enables live connections between machinery the factory floor and 
+increased quantity operating data captured and fed back into the 
+manufacturing process more than greenfield factories where machinery may have 
+direct links supplied single machinery provider iot modules become increasingly 
+deployed brownfield factories whereby the iot modules combined with iot 
+platform act interface between heterogeneous machinery the iot modules perform 
+connection handling and data aggregation companies such telit communications and 
+blox are spearheading the development iot modules 
+next generation sensors deployed through the production process traditionally 
+sensors have formed key component the manufacturing process connecting plcs 
+help guide the production process common sensors include photoelectric and laser 
+sensors for presence proximity detection and positioning sensors for measurement and 
+tolerance control siemens presence stands out sensor development with its 
+simatic range the use sensors certainly not new concept however new use 
+cases are likely introduced such location tracking sensors these can 
+attached work progress and production machinery and help monitor the 
+progression product through the factory floor this critical for mass 
+customisation succeed product moving through the production line the 
+manufacturing machinery needs identify the specific product and calibrate its settings 
+accordingly 
+printers become mainstay the manufacturing environment foresee greater 
+integration additive manufacturing printing the digital factory with lower costs 
+printers and increased functionality enabling manufacturing companies 
+leverage them more industrial scale than present where use cases are typically 
+limited prototyping research and development 
+diverse factory controls options may impact the structure the overall software set 
+discrete factory floor several types controllers can used the main ones 
+being plc programmable logic controllers pac programmable automation 
+controllers and ipc industrial think solution necessarily better than the 
+other depends the process needs themselves but would highlight few 
+differences that can make the integration easier into larger system that can impact 
+the sustainability the system one end ipc would typically work based 
+open source not attached piece hardware the software itself can moved 
+any other ipc combines control and human machine interface from one place 
+potentially limiting the costs and the ability manage more data this feature also 
+the case for pac historically plc and pac were seen less open although 
+think this less today their specific programing for machine hardware well 
+the need for additional hmi tend remain the case does the view that they may 
+more solid from cybersecurity standpoint but believe the latter remains 
+tested the digital factory develops 
+line and end line eol metrology equipment operate alongside the 
+manufacturing machinery and separate end process ensuring that output meets 
+quality control specifications metrology improves off line metrology that 
+does not require the manufactured product removed from the production line 
+inspection performed the product moves along the line thereby not disrupting the 
+production process end line metrology retained the digital factory there 
+residual need ensure that the end manufactured product matches specifications and 
+quality control requirements prior transport from the factory 
+data storage conducted the cloud and edge aside from premise data 
+storage off premise cloud hybrid solutions data storage deployed for applications 
+that require higher speeds edge computing may also play role data output from the 
+factory floor can continuously fed back into enterprise level software such cad 
+and crm enabling the company harness lessons learnt the design and marketing 
+process for example metrology identifies manufacturing defect product that 
+data can quickly fed back into the plm software encourage design remove 
+the defect alternatively that data may fed back into the mes with manufacturing 
+operations changed help calibrate machinery towards workaround 
+the digital factory has enhanced data capabilities 
+exhibit digital factory data capabilities 
+source morgan stanley research 
+the digital factory see the industrial internet things generating multiple benefits 
+that will increase factory productivity improve product quality and increase 
+manufacturing flexibility fundamental this are data feedback loops that enable data 
+from the later stages manufacturing fed back into earlier stages the design 
+and manufacturing processes enabling optimisation 
+predictive analytics involves applying statistical techniques large bank 
+historical data make predictions regarding future events for example predictive 
+analytics may used generate predictions around the timing for when 
+machinery will develop fault and require maintenance replacement the use 
+predictive analytics requires domain knowledge while you need software expertise 
+order able scrutinise large set data you need knowledge factoryfloor processes able recognise the warning signs for event ahead 
+time 
+predictive maintenance predictive maintenance promises one the biggest 
+use cases for predictive analytics involves using predictive analytics help 
+identify the operating condition machinery being able harness predictive 
+maintenance would allow for fine tuning the maintenance process this may 
+remove the need perform costly and time consuming pre emptive maintenance 
+when machine does not require disruptive reactive maintenance machine 
+has developed fault instead software can leveraged order optimise 
+maintenance schedule according when the machine actually requires 
+maintenance rather than predetermined intervals when machine may not 
+require adjustment 
+extensive real time data flows the digital factory envisage more extensive 
+data flows from data collected the factory floor into cloud storage base 
+back into the mes extended erp and plm systems this net result create 
+comprehensive interconnected modification loop lessons learnt the factory 
+floor level can automatically fed back into the design process and enterprise 
+systems 
+direct feedback link with erp and plm lessons learnt the factory floor 
+ideally should fed back into the company logistics and finance system erp 
+and also the design software plm this step would fully represent the closing 
+the loop between the factory floor and the earliest levels the product sales and 
+design processes see crm becoming more entrenched the ideation and 
+manufacturing process customers will able modify their orders and then 
+real time that will feed back factory floor machinery with plm data output 
+from the factory floor can input into the product design process enabling 
+easier and earlier product design 
+integrated design the digital factory sees greater interaction between the erp 
+and plm systems particularly cad with increased quantity and quality data 
+output driving scope manufacture individually customised orders 
+industrial scale 
+exhibit hexagon closing the loop with metrology 
+exhibit and capturing data fuel predictions 
+source hexagon hxgn live 
+source hexagon hxgn live 
+the internal use case productivity customisation and flexibility 
+see the development the digital factory and associated digitalization 
+solutions providing two use cases internal use cases will likely see 
+manufacturers benefit from increased productivity and flexibility they can act 
+upon new data flows and the conclusions they entail addition think there 
+scope for new business models and the integration new digital services into 
+products external use case below detail the internal use case benefits 
+that see the digital factory offering manufacturers 
+sizeable efficiency gains could unlocked across the design and manufacturing 
+process 
+exhibit expected annual gains smart factories over the next years 
+source capgemini digital transformation institute smart factory survey february march 
+shorter product release cycles driving manufacturing agility and flexibility 
+integrated and connected product lifecycle system that links the design side ideation 
+the enterprise side logistics finance marketing manufacturing has the potential 
+significantly cut the time market for product 
+for example within the digital factory setup car may being designed plm 
+software while the same time the mes software arranging the scheduling 
+and most efficient manufacturing operations for the factory floor the erp 
+system orders parts and arranges the appropriate supply chain and the crm 
+system marketing the car potential customers sorting out sales leads and 
+distribution channels for the final product for this vision work each software 
+system needs communicate with each other real time 
+lot size one enhanced product customization greater number connections 
+between customer orders within the erp and plm systems increases companies ability 
+offer product customization more economical scale than possible today lot 
+size one refers manufacturing product batches size rather than typical mass 
+batches the growth printing and its inherent versatility 
+the growth configurable bills materials boms and improvements bom 
+consistency also closely align enable easier product customization 
+exhibit example digital factory 
+improvements brilliant factories 
+sector 
+location 
+aviation 
+muskegon 
+renewables 
+haiphong 
+transportation 
+grove city 
+multi modal 
+pune 
+source general electric 
+factory improvements 
+time delivery 
+cost out 
+inventory turns 
+lead time 
+productivity 
+inventory turns 
+shop efficiency 
+increase analytics based 
+repairs 
+inventory turns 
+equipment 
+effectiveness 
+cost improvement 
+inventory turns 
+lessons learnt can harnessed one the most significant benefits the digital 
+factory that manufacturers can circulate lessons learnt directly back into enterpriselevel software systems improve future processes for example consider metrology 
+the end the production process scanning product and identifying defects data 
+flows back into the plm software can used modify the design relatively quickly 
+and eventually automated fashion 
+closer demand matching present manufacturers typically mass produce product 
+according few designs based insight from previous market research often the 
+end products not precisely match end customer demand which can lead low 
+inventory turnover and cash tied unproductive working capital the use big 
+data more closely integrated crm systems and reduced time market all enable 
+tailoring manufactured products more precisely customer tastes that means 
+higher revenues less requirement discount unfavoured products better working 
+capital management and more efficient production planning 
+more efficient inventory management historically companies have needed retain 
+spare stock for niche products often with complex design safeguard constant supply 
+for critical industries aerospace however holding surplus raw materials work inprogress component parts ties cash working capital rendering unproductive 
+printing increasingly enters the industrial scale manufacturing process production 
+flexibility rises parts can then printed order and cash can released 
+adaptive pricing increased convergence between enterprise systems and factory floor 
+systems further extends the ability companies engage adaptive pricing 
+expect there better linkage between what happening the factory floor and 
+the impact the end market for example utilisation the factory floor very high 
+there potentially scope increase product prices moreover the ability offer more 
+customised products enables increased ability engage price discrimination where 
+you can better charge customers what they are willing pay because the end product 
+more closely aligns their wants 
+predictive maintenance means fewer breakdowns smarter software and better 
+connections between hardware and software systems open channels for predictive 
+maintenance field instrumentation can monitored automated fashion with 
+potential problems statistically analysed large bank historical data flagged 
+the system advance that means more internal hardware uptime increased more 
+continuous output and less waste given fewer errors the manufacturing process 
+case study siemens and maserati ghibli solution 
+siemens deployment its integrated design and manufacturing software with 
+maserati the manufacture the maserati ghibli car provided some the first 
+anecdotal evidence around the clear benefits that the digital manufacturing 
+process can achieve the benefits were achieved three core dimensions time 
+market was reduced increased product flexibility with 
+combinations for the ghibli possible and increased efficiency with increase 
+the number cars produced with integration new assembly lines 
+exhibit siemens leveraged both its software and hardware solutions the maserati ghibli 
+project 
+source siemens morgan stanley research 
+digital twins require interaction between virtual assets and real assets 
+what digital twin digital twin fully workable near real time virtual model 
+either real machinery product entire manufacturing process and the largest 
+cases entire factory digital twins are typically used for asset performance 
+management but also digital manufacturing where manufacturers can virtualise and 
+optimise the factory processes product design prior entering production the 
+proliferation sensoring technologies falling data storage costs and cheaper 
+computing power have combined over the past years position manufacturers for 
+use digital twins 
+think that the role digital twins key element the convergence between 
+capital goods and software companies date digital twins have principally been 
+developed and championed dassault systemes and siemens though other 
+companies have since used spoken about the concept with the underlying functionality 
+typically held within cad software survey data from research and markets reveals 
+that executives surveyed expect have integrated digital twin functionality 
+operating 
+digital twins can drive cost savings help productivity digital twins allow for 
+product changes made the virtual world saving costs and for product 
+visualisation and simulation prior production digital commissioning this enables 
+fine tuning and testing the engineering design prior any cash outlay materials 
+general electric has been deploying sensoring technology alongside its predix software 
+platform their rilliant manufacturing initiative when integrated its aviation plant 
+cheltenham achieved higher level productivity with point 
+improvement time delivery 
+and provide fully traceable record from ideation through the end the 
+product lifecycle this supports continual product refinement through easier 
+identification product faults and drives benefits reducing speed market 
+similar benefit can derived when digital twin created the production process 
+whole early identification potential manufacturing bottlenecks and production 
+process streamlining 
+exhibit dassault mapping together real machine with 
+dedicated virtual model 
+exhibit siemens harnessing digital twins the product the 
+process and the equipment 
+source dassault systemes morgan stanley digital day presentation 
+source siemens smart manufacturing the semiconductor industry 
+intelligent analytics the end goal but beyond the horizon 
+although intelligent analytics and complete automation may the end goal 
+not see being achieved mid term although the target for manufacturers may 
+eventually have system flag problem and then automatically correct the 
+factory floor more primitive functionality needs commercially scaled first 
+present believe are the diagnostic analytics phase whereby system can flag 
+problem and identify why has occurred then transmits alert and human 
+intervention required the factory floor manually correct for the issue 
+recalibrating machine cleaning sensor 
+initially see move predictive analytics and then prescriptive analytics 
+example predictive analytics capability would see system flag problem advance 
+happening based analysis historical data and past events using statistical 
+models however after this human intervention still required correct for the issue 
+beyond this prescriptive analytics would not only see the system make predictions but 
+then also form direct instructions perhaps generated the software following logic 
+tree how correct for 
+exhibit the increasing value data insight 
+source morgan stanley research 
+the external use case changing business models selling 
+digitalization solutions 
+aside from the potential internal benefits digital factory expect there 
+external use case for solution providers exploit the sale digitalization 
+solutions end customers help them drive their own efficiencies act 
+service provider and sell outcome will work your energy operations 
+and manage them see this covering spectrum possibilities from the sale 
+ecosystem hardware and software siemens would promote the 
+more complete end the sale basic data capture and insight solutions the 
+more nascent end 
+one the core challenges facing digitalization solutions providers relates 
+payment methods solutions providers explicitly charge for service they 
+bundle with existing offering they charge they charge flat fee 
+charge efficiency savings basis whereby the solutions provider takes 
+percentage cut the value the customers efficiency savings 
+exhibit the battle for the customer 
+platform 
+think the digital factory opens scope for new digital solutions embedded 
+into manufactured goods ranging from sale data analytics platform that 
+customers can use scrutinise data they output sales predictive 
+maintenance solution while the product operates using field sensors through 
+more complete service led solution this could involve pricing according will 
+sell you hours uptime this product 
+source morgan stanley research 
+expect the end customer have three primary options choosing digitalization 
+solution each these solutions are built underlying iot platform 
+solution provided capital goods companies 
+solution provided partnerships between software and capital goods 
+companies 
+mix and match diy approach whereby the end customer selects mix part 
+solutions from third party component suppliers 
+choosing any particular route has advantages and disadvantages choosing solution 
+from capital goods company typically software hardware linked solution provides 
+the benefit being linked company with real factory level domain knowledge they understand what happens the factory floor and some cases directly 
+manufacture the machinery however some the larger players siemens and 
+fanuc have historically been offering more closed systems and most capital goods 
+companies are relatively new managing software business models where there 
+very different culture and structuring incentives 
+think some awareness exists around the challenges combining both world and 
+explains several announcements over the last months partnerships between 
+capital goods and software companies well the hiring high profile executive 
+coming from the software world industrial companies believe the ability work 
+well together could significantly beneficial both sides leading enhanced 
+solution for customers however the question remains where the value added and 
+who captures and could potentially concern for capital goods companies that 
+are used dominating the factory floor even machines software level such plcs 
+cncs for instance think many capital goods companies are currently evaluating 
+how position themselves the best manner possible especially they not offer 
+the full ecosystem even those who have full ecosystem such siemens are 
+currently moving part their offering into subscription type business model 
+more services based approach that could ultimately become efficiency based 
+approach and which relatively new for the sector indeed while efficiency 
+equipment was always selling argument the payment was made equipment sale 
+rather than being based the efficiency the equipment operations this were 
+adopted could mark shift sales strategy and the revenue generation model 
+across the sector 
+finally the third party component supplier approach potentially allows companies 
+pick the best breed solutions for their particular needs providing more tailor made 
+solution however the final solution less consistent and result there are more 
+likely integration updating issues compared full ecosystem offering from 
+for example siemens this increases the chances that middleware required 
+interface between programs 
+while software companies are perhaps best placed provide technical data capabilities 
+such pattern analysis historical data big data they may lack the requisite domain 
+knowledge put that data insight into action the factory floor 
+challenges for suppliers digitalization solutions 
+this section frame several the obstacles affecting software companies 
+capital goods companies and then both groups from the perspective looking 
+who best placed supply third party customers with suite digitalization 
+solutions 
+challenges from software viewpoint 
+making the sale market software companies have traditionally sold into the 
+cio department the end customer rather than managers specific engineering 
+divisions software companies will have make sure they have the right contacts the 
+manufacturing departments companies they can sell solutions effectively and 
+fundamentally they need able speak the language the manufacturers 
+view companies with existing contacts with manufacturers being better placed sell 
+incremental offerings 
+capital goods companies going alone software cannot offer the ecosystem without 
+hardware siemens has been particularly proactive building out full suite digital 
+offering with the acquisition mentor graphics the latest string acquisitions 
+aimed filling gaps its offering risk the size the opportunity for software 
+companies could more capital goods companies build out their own offerings and 
+then seek create ecosystems whereby they offer both the software and hardware 
+bundled offering several large players engaged this could create captive 
+markets off limits software players that not wish acquire hardware assets and 
+hence who cannot offer complete factory floor ecosystem 
+challenges from capital goods viewpoint 
+lack experience managing software business models the software industry can 
+characterised being younger more entrepreneurial environment compared the 
+manufacturing industry consequently capital goods companies may not used the 
+culture and incentive structures present within the software industry and while their 
+software capabilities exist they have been rather limited the control the machine 
+and the execution the different steps the manufacturing process rather than 
+controlling managing the entire factory ecosystem this turn could inhibit the capital 
+goods companies ability attract and retain talent 
+abstraction integration the history software and technology has generally been 
+for software abstracted away from the hardware layer the software can 
+written once and then run multiple environments can see that some the 
+greatest software success stories microsoft sap oracle have benefitted from being 
+platform hardware agnostic believe this could present challenge 
+manufacturing environment given typically the software has been enabler for the 
+machine function and tended many but not all cases attached piece 
+hardware another example the shop floor comes from looking the installed base 
+controllers while there certainly large installed base based systems for 
+machine automation hardware agnostic the more dominant solution remains plc 
+systems that are tied the hardware but seen more robust notably for the integrity 
+the system uptime obviously critical manufacturing environment and 
+software companies will have persuade manufacturing operations that software 
+platforms can trusted software built into the hardware 
+what pricing model employ for external use cases question mark remains over 
+how end customers should charged bundled into existing service offering 
+value added product charged separately priced one off subscriptionbased model priced outcome linked consumption basis whereby revenue 
+share percentage the end customers cost savings 
+challenges for both software and capital goods companies 
+who owns the data hosted digital day early the topic digital 
+manufacturing attended many senior figures from large cap capital goods 
+companies while there seemed consensus our digital day that end customer data 
+should completely remain the property the end customer the ownership 
+aggregated name data issue that was less clear 
+lack domain knowledge software companies seeking enter the factory setting 
+and capital goods companies seeking move into software both also suffer from 
+lack domain knowledge software companies may find that they require deep 
+knowledge factory floor processes and how interpret data patterns real 
+sense order able provide insight with regard predictive analytics the 
+same time while capital goods companies may able interpret output data they 
+may lack the software knowledge required able effectively process that data 
+into something that interpretable 
+how best drive process change discussed the note from our european capital 
+goods team digital manufacturing into the light there have been multiple attempts 
+merge software and hardware industries engineering some readers may remember 
+the acquisition europe second largest software company baan invensys abb 
+adoption company wide industrial platform the early general 
+comment believe that there can problems alignment software and 
+hardware engineers are often trying solve for different things typically the main 
+objective plant manager factory minimise downtime the system needs 
+run fast and efficiently the most reliable system possible the incentives for trying 
+new things are often not that great which why our surveys typically show high 
+reluctance production engineers tamper with existing installed base 
+while process change may make lot sense paper have often seen that 
+much more difficult drive practice the key benefit software automate and 
+optimise processes and then ensure those processes are completed identical 
+way every time software companies will have ensure they have senior enough buy 
+customers drive the process change well the expertise manage the shift 
+driving convergence between design and manufacturing departments for the benefits 
+the digital factory unlocked for any particular manufacturer there needs 
+working relationship not only the software side but terms designers and 
+factory floor workers which relationship that has historically been weak although 
+solutions providers may attempt deploy their own collaborative software products 
+help reduce this issue siemens teamcenter solution driving this change 
+achieving cross disciplinary collaboration will critical 
+cybersecurity key concern for iiot adoption our industrial internet things 
+user survey published march cloud control the future industrial 
+automation cyber security was first and data integrity terms main concerns 
+barriers around iiot adoption the debate around the data collected industrial 
+facilities broad going from who will manage the data who will own who will use and 
+protect suppliers will have sufficiently bridge concerns around cybersecurity 
+order gain real buy from customers 
+exhibit cybersecurity tops concerns 
+cybersecurity increased connections increased complexity 
+increased vulnerability 
+source morgan stanley automation world industrial automation 
+survey alphawise 
+the virus dubbed stuxnet was detected across power plants factories 
+and traffic systems around the world rather than carrying fake security 
+certificate many viruses stuxnet had stolen real security certificate from 
+existing program which used infiltrate internal systems tamper with 
+settings hardware yet show the various safety systems that nothing was 
+amiss this instance the code that spread only had specific target code 
+shut down centrifuges that spin nuclear material certain nuclear facilities iran 
+the code would remain inactive any other sites 
+result stuxnet centrifuge failure rates iran natanz nuclear plants were 
+extremely high and the virus had been damaging centrifuges for almost year 
+before being determined being the underlying cause 
+stuxnet first infected microsoft windows machines whilst self replicating before 
+spreading siemens software and then onto specific siemens build 
+programmable logic controllers plcs through the scada system the virus was 
+set instruct centrifuges within the nuclear facilities spin twice fast 
+normal speed simultaneously the scada software was manipulated show 
+that the centrifuges were spinning the correct speed 
+although believed that stuxnet required nation state level backing given its 
+complexity possible that such attacks could become more accessible less 
+sophisticated hackers over time therefore there needs concerted effort 
+tie digitalised production facilities with high grade cybersecurity solutions 
+failure potentially exposes both software and capital goods companies 
+production cost reputational regulatory and legal risks 
+capital goods and software companies converge 
+harness the potential benefits the digital factory first see capital goods 
+companies acquiring partnering gain software exposure within design and 
+manufacturing software systems software more attractive market and has 
+exhibited stronger growth that has averaged since whereas capital goods 
+growth has only been addition software typically carries more visible and 
+profitable business model with higher recurring revenues reducing revenue cyclicality 
+and higher gross margins date capital goods companies have largely limited their 
+software exposure that associated with machine operating systems think that 
+well developed integration between plm software mes software and field control 
+systems plcs dcss would clear value customers 
+exhibit software companies generally enjoy higher margins and higher valuation multiples 
+ntm ebit margins ntm ratio 
+software names 
+ansys 
+aspen tech 
+dassault systemes 
+microsoft 
+sap sage 
+aveva 
+hexagon 
+capital goods names 
+schneider 
+honeywell 
+fortive 
+rockwell 
+abb 
+siemens 
+mitsubishi electric 
+source reuters data aveva and schneider electric data not pro forma aveva and schneider based price pre deal announcement morgan stanley 
+research share prices used cob 
+see mes and plm software being key convergence zones 
+the convergence capital goods and software companies trend that has been 
+evolving for decade but which has been visibly increasing pace the 
+acquisition plm provider ugs siemens marked the first clear sign 
+that capital goods companies were looking broadening their software 
+capabilities since then there have been numerous partnerships and acquisitions 
+many which indicate desire capital goods companies link together 
+product design and product manufacturing this section discuss why see 
+software and capital goods convergence mes and plm software whether 
+see software companies moving down the stack into hardware solutions and the 
+trajectory convergence date 
+why mes and plm 
+the current environment see both software and capital goods companies 
+present within the mes market dassault systemes sap aspen tech siemens 
+rockwell abb whereas the plm market principally dominated software 
+companies dassault systemes sap ptc autodesk though would note that 
+siemens has significantly increased its exposure recent years the other hand 
+capital goods companies have historically dominated suppliers factory floor 
+hardware and scada software where domain knowledge critical 
+believe that being able link together and close the loop between product 
+conception product manufacturing and the product life cycle has scope drive 
+tangible advantages both the end customer and the manufacturer addition 
+achieving plant factory level automation could significantly benefit from closer 
+connection between the design and the manufacturing process terms 
+manufacturing optimisation preferred solution would have ecosystem 
+without extensive middleware hence the convergence between engineering design and 
+manufacturing operations appears natural step the long run 
+exhibit ptc partnered combine plm and mes expertise 
+source general electric optimize your manufacturing performance 
+exhibit mes pure plays have been increasingly consolidated out 
+the market 
+source gartner data morgan stanley research 
+the mes market growing consolidating market according data from gartner 
+the mes market grew estimated notably niche pure plays 
+the mes market are being increasingly acquired industrial automation firms and 
+enterprise software providers the revenue share pure play mes players reduced 
+significantly from whilst the share from automation 
+firms increased from 
+only factories have mes solution data from research and advisory firm lns 
+research suggested that factories not have mes system place 
+although some factories may not warrant the scale transition digital factory 
+given the central role that the mes plays the digital factory think this leaves mes 
+vendors with significant potential growth runway 
+printing driver consolidation since printing uses templates created 
+directly from cad software establishes direct link between plm software and the 
+printing hardware the factory floor should printers become staple the 
+commercial manufacturing environment expect greater collaboration between plm 
+software providers and manufacturers optimise the manufacturing process 
+software companies try acquire hardware assets and move down the 
+stack 
+hardware less attractive business model date software companies have opted 
+for limited degree vertical integration not think likely that software 
+companies acquire hardware assets for multiple reasons hardware tends more 
+easily commoditised over time hardware tends lower margin business also 
+with lower recurring revenues versus software hardware more capital intensive 
+result not see clear rationale for software companies seeking acquire 
+material hardware exposure 
+however not moving down the stack into hardware poses challenges for software 
+companies when comes the sale digitalization solutions including the inability 
+offer full ecosystem solution factory software and hardware customers 
+result see two main alternatives strategies that software companies may employ 
+creating partnerships with capital goods companies 
+the use integration tools apis middleware connect heterogeneous 
+technologies into single platform middleware used when programming languages 
+not match and require linking tool 
+furthermore expect there continued consolidation software companies 
+fragmented sub sectors such cad and mes where many niche players exist 
+example dassault systemes has been one the more active players the software 
+side and has expanded its offering through the value chain dassault has historically 
+had strong offering within plm but for example acquired mes exposure 
+through the acquisition intercim enabling them link plm and mes software 
+together into integrated overall package dassault has since expanded the mes 
+side with the acquisition apriso 
+capital goods companies have been bolstering their software presence 
+capital goods companies are rapidly broadening their software exposure with the six 
+largest companies the capital goods space combining hold annual digital revenues 
+approaching and with typical software exposures ranging from sales 
+exhibit siemens and abb lead the pack for software exposure 
+capital goods software exposures basis total revenues 
+exhibit siemens software acquisitions have focused plm and 
+mes capabilities 
+siemens software acquisitions 
+mes 
+elan software 
+systems 
+active 
+camstar 
+plm 
+vistagy kineo tesis 
+lms 
+international 
+ugs 
+mentor graphics 
+adapco 
+honeywell 
+rockwell 
+fortive 
+schneider 
+abb 
+siemens 
+source company data morgan stanley research top its software sales has another 
+related software enabled product upgrades abb and schneider adjusted for acquisitions 
+estimated software and aveva respectively 
+source company data morgan stanley research dates refer acquisition announcement 
+see three main strategies for capital goods companies develop their 
+solutions portfolios 
+develop own house software 
+partner with software companies and develop working relationship and 
+acquire software companies gain direct exposure 
+see house development the least attractive option for capital goods companies 
+given the long lead time develop sophisticated capability and because they 
+typically lack domain knowledge within the software space although would note 
+that initially followed this strategy with the predix platform 
+based precedent arrangements capital goods companies have appeared prefer 
+either partnerships with software companies and direct acquisitions build out 
+their software portfolios there have also been significant disparities between capital 
+goods companies how far advanced and proactive they have been terms building 
+out their digital manufacturing software portfolios the specific angle they have 
+followed siemens appear aim towards being more broad based providers 
+while see the strategies rockwell abb and schneider more building from 
+their current core capabilities 
+exhibit saw numerous partnership announcements between capital goods and software companies 
+source morgan stanley research 
+also saw notable pickup the number software acquisitions undertaken the leading capital goods 
+companies general electric stood out being the most active large cap name with the acquisitions meridium 
+bit stew servicemax and wise siemens also acquired substantial exposure with mentor graphics the most 
+recent large scale acquisition cost across the key acquisitions highlighted the 
+timeline below think spend software names has exceeded 
+exhibit and also marked increase the number capital goods companies acquiring further software exposure 
+source morgan stanley research 
+mes and plm software are where have seen convergence 
+exhibit breakdown where software companies sit capital goods companies 
+source morgan stanley research 
+software companies who involved from our space 
+see digital manufacturing having positive implications the software 
+industry for the plm erp and metrology segments which dassault 
+syst mes sap hexagon autodesk and software are exposed names 
+with strong product portfolios 
+dassault syst mes 
+the market leader plm moving into manufacturing execution dassault product 
+heritage the plm space where the clear market leader the company 
+leadership stems from the design side the plm market where its high end catia and 
+more mid market focused solidworks design software are both the leaders their 
+respective markets has expanded its core plm offering encompass among 
+others simulation software simulia digital manufacturing software delmia 
+process management software enovia and all this sits one data backbone the 
+experience platform competes with autodesk ptc and ansys but believe its 
+main competition comes from the capital goods industry siemens according data 
+from cambashi had market share the manufacturing plm market 
+markedly ahead number siemens with 
+growing organically and via into manufacturing execution has already built 
+strong offering digital manufacturing with its delmia brand historically delmia 
+enabled companies design and optimise production line the virtual world the 
+digital twin and over time has seen this offering integrate more with the catia design 
+software this integration the experience platform enables design and 
+manufacturing decisions taken with greater awareness and knowledge for 
+example product cannot produced existing production lines does make more 
+sense for the product modified the production lines even understanding what 
+can built where would very challenging without this software approach 
+however while delmia has its heritage the virtual world see the brand 
+increasingly extending into actual production planning and logistics dassault first 
+move this are think was the acquisition intercim partner pre acquisition 
+intercim was the first move into manufacturing execution software mes this 
+move was followed larger deal acquire apriso broaden mes 
+capabilities finally has also acquired quintiq which brought supply chain and 
+logistics planning all three acquisitions are managed under the delmia umbrella and 
+believe move out its traditional virtual world software into planning and 
+executing manufacturing and logistics the real world this shift brings the company 
+into more direct competition with both erp vendors like sap both mes and supply 
+chain planning and capital goods companies like siemens mes 
+hardware agnostic dassault acknowledges that capital goods companies may have 
+advantage integrating software and analytics back into their own hardware 
+environments however most manufacturing facilities will very heterogeneous and 
+this opens the market independent provider who can integrate across these 
+complex landscapes the company also highlighted key technical differentiation its 
+platform believes the only vendor that has moved from file based datastore 
+object based datastore which dassault believes more integrated and intuitive 
+use 
+exhibit dassault platform market leading 
+plm solution 
+exhibit dassault sales are capital goods end 
+markets 
+source dassault digital day presentation 
+source dassault digital day presentation 
+exhibit dassault largest industries 
+account for software revenues 
+major brands 
+catia software revenue catia dassault flagship plm design 
+application that covers full product design and product experience acts link 
+software physical design 
+solidworks software revenue solidworks design tool 
+targeted designers migrating for the first time rather than for more experienced 
+designers 
+source company data morgan stanley research 
+enovia software revenue enovia dassault data management and 
+collaboration tool which also includes online community enable users 
+share knowledge about the platform 
+delmia software mse revenue delmia dassault tool for 
+manufacturing optimisation management goes beyond traditional mes which 
+typically focuses specific plant and looks harmonising manufacturing operations 
+cross plant scale can digitally plan simulate and model the global production 
+process and can integrated into catia 
+simulia software mse revenue simulia dassault simulation 
+software for virtual product quality reliability and safety testing virtual simulation 
+car undergoing crash test 
+vision the digital factory 
+believe that dassault vision enable companies integrate the design 
+manufacturing and real world use products these products can good 
+possible the key this vision the availability data one the biggest issues facing 
+companies today that many product and manufacturing decisions are taken 
+information vacuum for example the core the design team does not work with the 
+manufacturing team this means that the design team could create the most optimised 
+exhibit from ideation full cycle the 
+aftermarket 
+product but this product almost worthless cannot manufactured 
+result this vision has core data backbone the experience platform 
+which all its software applications sit this enables design teams create products 
+while ensuring that these products fit with manufacturing plans the simulation 
+software means that the products can designed more efficiently designers can test 
+whether products meet specifications how much material need this product 
+part withstands pressure while they are still being created more complex simulation 
+reduces the need for physical prototypes the processes that need followed 
+companies drive this collaboration can designed and managed enovia finally 
+real world data can collected from both the products themselves iot use case 
+even from social media netvibes exalead and fed back into design and 
+manufacturing teams both can optimised based the real world experiences 
+source morgan stanley research 
+dassault also believes that materials science will become increasingly important 
+design and manufacturing especially materials like composites and manufacturing 
+techniques like printing become more mainstream the company also plays this 
+space with its biovia offering which brings together developments and the accelrys 
+acquisition 
+sap 
+exhibit extended erp grow into 
+market 
+gartner extended erp sub market sizes 
+scm 
+core erp 
+crm 
+cagr 
+market leader the extended erp segment data from gartner placed sap 
+the leading player the extended erp segment with market share significantly 
+ahead its nearest competitors oracle and salesforce gartner expects 
+extended erp grow cagr into with crm growing most quickly 
+cagr and core erp lagging cagr gartner expects the extended erp market 
+grow cagr into market 
+extended erp 
+source gartner data morgan stanley research extended erp 
+defined crm scm and core erp eam fms components hcm 
+and manufacturing and operations 
+heavily exposed real world software sap presence lies within the upstream level 
+the manufacturing process with particularly material exposure within extended erp 
+crm scm and core erp think that the digital manufacturing trend takes hold 
+sap well placed benefit from greater levels interoperability between erp and 
+the factory floor systems sap also has exposure plm within the legacy business 
+suite and now but present this smaller part the overall revenue 
+base versus extended erp cambashi data suggests that sap has top position 
+within the plm market garnering market share 
+exhibit sap has direct exposure 
+discrete manufacturing 
+core will need revamp deal with digital expect sap critical player 
+facilitating digital transitions the company key will provide the faster core 
+applications and databases that companies will need real time execution and unit 
+one manufacturing are become reality addition for enterprises investments 
+front end applications and customer engagement pay off believe they will need 
+renovate their back end systems deal with the large volumes data and faster 
+response times that more demanding consumers will expect 
+sap industry revenue exposure 
+consumer 
+energy natural 
+resources 
+discrete 
+manufacturing 
+services 
+public services 
+source company data morgan stanley research 
+financial services 
+sap particularly well placed provide iot believe companies will want 
+integrate the data from sensors and iot applications into core logistics finance and 
+supply chain software realise the full benefits iot for example company leasing 
+iot enabled machinery cars assets will want able incorporate real time 
+information breakdowns and usage seamlessly into its financial planning inventory 
+management and logistics 
+exhibit sap leonardo plays key role sap digital 
+manufacturing strategy 
+exhibit sap offers complete erp solution within the 
+manufacturing setting 
+source sap cebit 
+source sap cebit 
+sap leonardo horizontal iot beyond providing the core systems support iot via 
+hana sap has also developed its own iot platform leonardo sap does not 
+currently have the same domain expertise that many vertical application specific iot 
+players hold but the company can choose partner with siemens choose 
+specific verticals which deeper addition sap does not start zero here 
+has industry functionality and expertise over verticals also believe sap can 
+differentiate itself iot providing broader horizontal solutions that integrate with 
+its current erp software sap currently the dominant supplier these core 
+systems believe sap leonardo iot platform should able offer greater 
+functionality customers than competitors only offering the iot sensors 
+applications 
+vision the digital factory 
+believe that data lies the heart sap vision for the digital factory and 
+potentially the source competitive advantage first sap has very strong share 
+erp and extended erp discrete and process industries this means that very large 
+part the processes these industries run sap and the data that these processes 
+create sit sap systems sap can cover very wide range from initial customer demand 
+crm through orders inventory management production planning and execution 
+erp supply chain management scm and plm mes addition this sap has the 
+hana platform which next generation data platform where the data from all these 
+systems and factory machine sensors can brought together 
+sap therefore has strong claim the platform where the data collected and 
+analysed and where that analysis drives better informed decision making critically 
+when those decisions have been taken will more often than not processes run 
+sap software that will modified benefit from the data insight such sap offers 
+form natural feedback loop from software sensors data platform and then 
+back into the business processes 
+hexagon 
+exhibit hexagon faces competitors 
+such autodesk and bentley systems 
+the industrial space 
+source hexagon 
+measuring metrology hexagon core product offerings within the digital factory 
+lie metrology where has strong market position the product offering spans the 
+spectrum from manual tools such handheld scanners fully automated robotic 
+arms hexagon likely stands benefit from the trend industrial automation 
+increased number automated processes the factory floor will mean that there are 
+increased number parameters that need checked therefore think 
+likely that there will increase the quantity during creation metrology tools 
+required digital factory compared the traditional factory 
+software exposure industrial enterprise solutions hexagon industrial enterprise 
+solutions ies division contains both software cad cam cae life cycle engineering 
+and hardware metrology industrial sensors that applicable the digital factory 
+hexagon asset information platforms provide the software ensure consistency 
+between products designed and products built 
+exhibit hexagon software spans materials through systems 
+exhibit hexagon the factory the future 
+source hexagon hxgn live 
+source hexagon hxgn live 
+msc software acquisition bolstered cae exposure the manufacturing side hexagon 
+expanded its product offering with the announcement the purchase msc software 
+february the deal sees hexagon substantially bolster its cae offering with the 
+deal size totalling although hexagon had previously expanded its plm product 
+set through the acquisition intergraph this was predominantly the asset design 
+and construction side msc represents major move into the manufacturing space 
+building hexagon acquisition vero cam software 
+manufacturing intelligence building the factory the future manufacturing 
+intelligence highlighted the recently acquired msc simulation software well its 
+own vision factory feedback loop msc software has long been involved the 
+simulation the basic car but now has the opportunity help autonomous cars learn 
+how react running multiple simulations potential driving situations the 
+company also sees printing additive manufacturing large opportunity given 
+the ability produce completely different parts traditional manufacturing methods 
+simulation also plays into hexagon vision feedback loop the factory where the 
+exhibit hexagon has diverse endmarket customer base 
+hexagon industry exposure 
+surveying 
+infrastructure 
+natural resources power 
+energy 
+transport public service and 
+automotive 
+aerospace defense 
+electronic manufacturing 
+public safety 
+source company data morgan stanley research estimates 
+metrology measurement tools pick any manufacturing deviations feed that back 
+into the software the machine programming can automatically corrected and 
+create self correcting production line hexagon drinking its own champagne well 
+constructing large factory china for the group that will showcase all 
+its technology both the design and build the plant and then how runs 
+vision the digital factory 
+manufacturing platform software the smart connected factory here hexagon will 
+combine tech from ppm and improve productivity factories the end vision 
+automated feedback loop between the design software cad the software 
+programming the machinery the factory floor cam the measurement technology 
+dmis the machinery itself and simulation software cae these systems will 
+integrated and will correct themselves rather than collecting data and passing for 
+human intervention clearly this long term industrial vision which will take multiple 
+years deliver hexagon acknowledges this and will take small steps with customers 
+this fully automated factory 
+initial example would where the measurement system connects with small 
+number factory floor machines the measurement tech can compare the built 
+product with the designed product and see where there are deviations there are 
+issues can automatically correct the machine programming for this creating 
+automated feedback loop hexagon has this type small project underway 
+demonstrate the value the concept the company believes that the ability not just 
+collect data but then feed back the end machinery correct errors rather than 
+producing report for human the main point differentiation its vision 
+competing digital factory visions 
+autodesk 
+market leader aec expanding the manufacturing product suite while autodesk 
+has established dominant positioning its core architectural engineering and 
+construction aec business the manufacturing segment which generated 
+total revenue has been far more competitive market for the company 
+recent years autodesk has expanded its manufacturing product suite beyond its 
+flagship design tool inventor with the acquisition delcam providing one the 
+most sophisticated cam computer aided manufacturing software packages available 
+today according data from cambashi autodesk had share the manufacturing 
+plm market behind its top two largest competitors dassault and siemens with 
+and market share respectively 
+early mover advantage cloud with broader solution set believe that 
+autodesk becoming more competitive the manufacturing segment more 
+importantly autodesk first mover advantage the cloud creating strong image 
+innovator and one that fundamentally changing the way design industry 
+professionals perform their daily jobs the company pioneering product fusion 
+offered the first integrated cad cam and cae tool connecting the entire product 
+development process single cloud based platform while plm large and mature 
+category believe autodesk cloud based approach also democratizing the use 
+the software within organizations that the past could not have afforded the 
+associated costs fundamental disruption focus innovation and improved 
+monetization vectors could enable autodesk grow significantly faster than the 
+market estimate our view this highlighted growing customer adoption fusion 
+which saw its monthly active users more than double our quarterly reseller 
+checks also support this trend with autodesk manufacturing partners often 
+highlighting fusion one the largest contributors net new subscriptions 
+exhibit autodesk fusion connects the entire development process under single cloud 
+platform 
+source autodesk investor presentation 
+vision the digital factory 
+integrating the manufacturing process from design build autodesk vision 
+enable the integration design into the manufacturing processes its customers 
+opportunity that the company describes matching design build major issue 
+facing companies today the limited lack collaboration between the design and 
+manufacturing build teams which often results product inefficiencies and tomarket delays with integrated cloud based solutions like autodesk 
+customers can connect their development process from the initial concept design 
+cad its ultimate development with inbuilt cam features manufacture the final 
+product 
+longer term believe emergence generative design could potentially 
+meaningful opportunity for autodesk after several years development management 
+announced the commercial release its generative design platform dreamcatcher 
+earlier this year the premise generative design allows designer engineer 
+specify basic parameters ranging from functional requirements material type and cost 
+restrictions which are then used generate number various design solutions for 
+the final product the designer engineer then identifies and adapts the right solution 
+desired this process should lead major reductions cost development time 
+material consumption and product weight and gives manufacturing customers the ability 
+customize products brand new ways while still very early its adoption customer 
+interest autodesk generative design platform have ranged from new startups and 
+smbs large brands such under armour airbus and stanley black decker piloting 
+the service 
+exhibit generative design allows users generate number design solutions based 
+defined parameters and identify the optimal solution 
+source company website 
+software 
+partnering with other industry veterans address the digital factory opportunity 
+september software announced its first clear venture addressing digital 
+manufacturing part adamos adamos derived from adaptive manufacturing 
+open solutions alliance between software and carl zeiss leader 
+optical systems medical devices and metrology asm leading integrated 
+solutions provider semiconductors and electronics dmg mori leading 
+manufacturer machine tools and durr global mechanical and plant 
+engineering firm the combined installed base the partners covers hundreds 
+thousands machines and systems and more partners may added the future 
+what solution does adamos offer one the challenges iiot how small and mid 
+size companies take advantage the new technologies when they not have the 
+investment budgets the larger industrial companies the adamos platform combines 
+software expertise software with the manufacturing domain knowledge from the 
+other four partners this way software delivers platform that hopes 
+comprises the majority the technology industrial company would need start 
+build iiot use cases this would remove the need for these companies either build 
+buy the platform infrastructure that would common the applications that run 
+top 
+adamos iaas paas unit will offer application market place top that 
+iiot platform for both premier and additional partners use for example dmg mori 
+may create application for predictive maintenance and share that the adamos 
+marketplace assuming the app developer sets the application public status then 
+members within the can form agreements and gain usage the apps this could see 
+them benefit jointly from faster speed innovation resource pooling selling 
+applications other partners and reducing time market additional partners can 
+offer their applications onto the marketplace 
+exhibit sources revenue 
+source research software 
+what the revenue model for adamos aside from minimum licence commitments 
+revenue generated from the customer who purchases the machine with the 
+applications bundled with their hardware offering there are three sources revenue 
+from cost levied each new device added the platform revenue from per 
+megabyte cost data consumed the platform and revenue from cost per api 
+call made for reference taking predictive maintenance application api call may 
+request data from the machine its current running speed temperature 
+result end customer revenue streams should relatively recurring nature and are 
+intrinsically volume based this customer payment made the partner who retains 
+percentage and passes the rest adamos adamos then pays away further 
+share software 
+what expertise does software bring the aside from software direct 
+software expertise and development the platform software will retain all 
+research and development operations within the software will also offer 
+software development and consultancy services for the development apps 
+members the app factory alliance 
+exhibit adamos collaboration between initial partners 
+exhibit overview the structure adamos 
+source software 
+source adamos launch presentation sept 
+vision the digital factory 
+software position within the digital factory therefore lies within its provision the 
+adamos iot platform upon this manufacturers can lever variety specialised apps 
+such predictive maintenance embed into their own systems software cto 
+wolfram jost believes there are multiple arguments for using adamos over existing 
+platforms firstly adamos tailor developed solution for the engineering and 
+machine tools space with partners bringing clear domain knowledge secondly 
+companies may show reluctance use platforms exclusively delivered existing 
+manufacturing industry providers for fear client relationship disruption equally 
+companies may prefer avoid being locked any platform developed large 
+software vendor there lock the adamos platform jost commented 
+that believes predominantly microsoft but also ptc were competitors within this 
+space would add sap with its leonardo platform 
+the adamos platform will start ramp october with target for initial 
+major applications live january 
+plm software main players and positioning 
+exhibit what product solutions key plm players have 
+plm 
+market 
+plm for manufacturing companies cars planes mobile phones etc 
+est 
+market 
+dassault 
+ptc 
+catia 
+creo 
+siemens 
+autodesk 
+hexagon 
+inventor 
+vero 
+ansys 
+market 
+plm for architecture engineering construction 
+sap 
+series 
+high 
+dassault 
+siemens 
+ptc 
+autodesk 
+computer 
+aided design 
+cad 
+fibersim 
+mid 
+solidworks 
+bentley 
+aveva 
+plant 
+marine 
+autocad 
+civil 
+autoplant 
+nemetschek hexagon 
+aspentech 
+dassault 
+siemens 
+autodesk 
+ibm 
+ptc 
+sap 
+product data 
+management 
+pdm 
+collaboration 
+tools 
+ansys 
+mathworks 
+dassault 
+siemens 
+altair 
+hexagon msc 
+simulation 
+computer 
+aided 
+engineering 
+cae 
+autodesk 
+dassault 
+siemens 
+vero software 
+computer 
+aided 
+manufacturing 
+cam 
+creo 
+cadworx 
+revit 
+fibersim 
+creo 
+layout 
+solid edge 
+windchill 
+teamcenter 
+autocad 
+aveva 
+vero 
+vault 
+sap plm 
+femap 
+creo 
+simulate 
+catia 
+catia 
+inventor 
+star ccm 
+cfd 
+lms 
+nastan 
+msc one 
+msc 
+nastran 
+msc apex 
+simcenter 
+fusion 
+fti 
+cam 
+delcam 
+cam express 
+fusion 
+creo 
+ansys 
+openplant 
+scia 
+micro station 
+autocad 
+allplan 
+openplant 
+aveva 
+activity 
+visualisation 
+platform 
+micro 
+station 
+projectwise 
+vault 
+aveva 
+engage 
+simulia 
+intergraph 
+smart 
+allplan 
+solid edge 
+aveva net 
+enovia 
+graphisoft 
+pds 
+infraworks micro station 
+fusion 
+draftsight 
+autodesk 
+autocad 
+aveva 
+market leaders 
+smartplant 
+axsys 
+frilo 
+software 
+revit 
+pds 
+caesar 
+strudl 
+scia 
+aspen 
+series 
+intergraph 
+smart 
+vero 
+featurecam 
+powermill 
+source company data cimdata for market leaders and market split cambashi for market sizing morgan stanley research 
+major players the capital goods space 
+siemens 
+our european capital goods team believes that siemens the stand out capital goods 
+player within the digital manufacturing space with broad based offering that very 
+well differentiated siemens involved across the value chain from electrification 
+automation digitalization siemens notes the latter market forecast grow 
+cagr between and the company generated total 
+sales from its software offerings amounting across plm mes 
+infrastructure management design and asset management solutions 
+exhibit siemens covers the entire production value chain 
+source siemens digital day presentation 
+exhibit driven its mindsphere iot operating system 
+source siemens digital day presentation 
+within its product portfolio siemens has developed software for both discrete 
+manufacturing industries cars smartphones well process manufacturing 
+industries dairy oil gas following the acquisition mentor graphics which 
+closed march its design and simulation software portfolio has expanded from 
+predominantly mechanical design also encompass sophisticated electrical design 
+consequence siemens can now create fully fledged product simulation digital 
+twin with the development its own iot operating system mindsphere and 
+employee collaboration platform link design and factory floor workers teamcenter 
+believe siemens also the most advanced capital goods player terms 
+implementation progress from corporate standpoint think that siemens has 
+demonstrated preference own the behind the design technologies deploys 
+rather than partner with software companies 
+vision the digital factory 
+think siemens vision close the loop between product design product 
+manufacturing and product lifetime management and present each step the 
+way 
+siemens comes from decades experience factory automation and intrinsic 
+knowledge the manufacturing process with over connections points from its 
+own installed base and million automation systems installed globally believe the 
+footprint and manufacturing domain knowledge unrivalled and this from this 
+strength that siemens has built with several acquisitions the software side since 
+and over deployed siemens has developed its capabilities around product 
+development and product life management but with strong focus the actual 
+manufacturing execution the process based its historical knowledge such 
+siemens was early developing the idea digital twins for factories manufacturing 
+processes 
+though clear siemens now competes with very different companies than just 
+hardware providers the company vision digital manufacturing has come from its day 
+day exposure manufacturing processes and its subsequent domain knowledge 
+rather than abstraction modelisation 
+abb 
+estimate that approximately sales including revenues 
+were generated across plc ipc mes infrastructure management design and 
+asset management solutions separately independent consultants arc estimate abb 
+exposure stronger within process industries although arc estimate that abb 
+market share factory automation only they estimate industry leading 
+market share within process industries note that arc estimates were published 
+before the acquisition abb april would estimate this add 
+couple percentage points terms market share factory automation 
+exhibit abb has exposure from software through factory floor 
+instrumentation 
+exhibit industry benefits from digital manufacturing 
+source abb digital day presentation 
+source abb digital day presentation 
+abb has principally partnered with software companies date which ceo guido jouret 
+was keen emphasise being abb way go our morgan stanley digital day 
+march the company currently has partnerships with dassault systemes and microsoft 
+through azure and sees this preferable developing its own complete solution 
+with proficiency the electrical material mechanical and digital spheres combined 
+with substantial installed base abb well placed capitalise upon 
+industrial opportunities arising from digital manufacturing particularly within the 
+utilities sector where has strong existing position abb has also been completing 
+smaller bolt acquisitions boost its offering within the digital factory with the 
+acquisition metrology company february this year good example 
+vision the digital factory 
+more than vision digital factory believe that abb has started its transition 
+digital having vision digital management installed industrial base not 
+necessarily only factory which believe comes also from its large installed base 
+non factory environment notably the utilities space the process industries 
+space that said abb position the global robotics market gives the company 
+edge this important part the factory set think abb vision digital 
+factory probably starts here and has been recently enhanced the acquisition 
+leader plcs and ipcs from its initial starting point abb has developed interesting 
+solutions which are serving solutions robotics simulation monitoring the process 
+notably via the robotstudio but also connection with the manufacturing process 
+itself arguably the vision may seem for now less holistic than siemens for instance but 
+builds upon the company core strength factory automation 
+schneider 
+schneider has historically employed large scale buy build approach expand its 
+digital manufacturing capabilities with acquisitions scada group invensys 
+operations management for and telvent for name few away 
+from the discrete environment and the process manufacturing side schneider has 
+also recently acquired aveva for adding the revenues that aveva would add 
+the group disclosure from schneider suggests that software revenues operate 
+run rate approximately sales basis within this aveva 
+would account for these are generated from across mes infrastructure 
+management design and asset management solutions 
+schneider digital platform named ecostruxure comprises three layers that can 
+deployed via the cloud premise connected products edge control 
+apps analytics and services the company intends enhance business via 
+connectivity analytics use subscription based business models build new 
+offerings and change customer engagement build lasting life cycle relationships 
+vision the digital factory 
+the digital factory specifically abb schneider digital reach much broader 
+than just the factory space think schneider vision target the easier and more 
+intuitive set and monitoring the factory machine level building its 
+leading position plc but also factory processes level schneider has traditionally 
+worked based open source software and think this key differentiator its 
+strategy and fully part its vision from the beginning contributing directly where 
+has specific expertise and partnering other areas giving the potential have 
+broader reach even though may not have the same breadth terms factory 
+equipment offering installed base some competitors the focus practicality 
+and simplicity the process and set that can applied entire factory but 
+also some part ecostruxure very flexible system and ecosystem 
+offering across the entire company divisions and applications 
+general electric 
+exposure digital manufacturing principally through its predix platform which 
+has seen over investment and its rilliant manufacturing initiative total 
+although the company has over digital twins active across range sectors 
+and assets including steam turbines power plants and locomotives large proportion 
+these are used for asset performance management purposes rather than within 
+factory setting however note that software revenue exposure the group level 
+lower than its other major peers this revenue principally derived 
+from software spanning infrastructure management design and asset management 
+solutions 
+exhibit view the brilliant factory 
+exhibit has invested over into its predix platform 
+source digital day presentation 
+source general electric 
+digital division digital targeting orders and has longerterm target reaching which aims achieve leveraging its scale 
+offering early mover advantage and domain expertise the company has become 
+increasingly acquisitive over the past months having bolstered its software 
+portfolio with the acquisitions meridium wise servicemax and iqp but retains 
+partnerships with each ptc and microsoft azure 
+vision the digital factory 
+believe that vision for predix provide industrial companies with the tools 
+navigate the complex technological and business transition that occurring result 
+the iiot revolution result see mostly focusing providing data 
+capture and insight solution rather than more integrated software hardware offering 
+believes the one the core issues facing companies today the profound lack 
+data that being captured and analyzed dumb assets deployed the field now 
+predix brings layer insight and understanding that will better allow project and 
+factory managers run their businesses doing this aiming transform current 
+factories into rilliant factories where productivity improvements and cost savings can 
+readily identified 
+ge brilliant factory initiative enables customers predict adapt and react more 
+quickly with new insights the factory floor within the initiative hoping 
+service customers through seven key fields scheduling logistics increasing asset 
+utilization through predictive analytics thereby improving operating performance and 
+efficiency and reducing repair costs connected products embedding software 
+replace the current break fix model with predict and prevent services approach 
+intelligent environments implementing sensors across factory assets enhance users 
+experiences field force management optimizing workforce through data expertise 
+and best practice processes make repairs and overhauls more effective industrial 
+analytics monitoring asset health and using predictive analytics boost productivity 
+asset performance management apm utilizing ge industry expertise achieve new 
+levels performance reliability and availability for machinery the factory floor 
+operations optimization using enterprise wide scale resolve operational issues and 
+increase efficiencies 
+rockwell automation 
+rockwell derived its revenues from its software portfolio 
+from across mes and design offerings rockwell has historically preferred partner 
+with software companies and has existing partnerships with cisco and panduit well 
+microsoft with whom working develop manufacturing information solutions 
+the same time the company has retained strong house software development 
+team with development engineers being software engineers 
+exhibit factorytalk underlies rockwell software and connected 
+asset offering 
+exhibit connecting disparate data with analytics applications 
+source rockwell digital day presentation 
+source rockwell digital day presentation 
+core the software offering the factorytalk system which links company 
+management level erp system together with unintegrated plant level software 
+providing more centralised system for data collation and manufacturing control 
+rockwell would point its ethernet based open architecture and homogenous 
+technology platform being key product differentiator that believes easier 
+for the customer integrate and thus argues carries lower total cost ownership 
+vision the digital factory 
+rockwell points out that over sales include bundled hardware and that over 
+development engineers are software engineers rockwell keenly focused 
+not only manufacture factory floor hardware but also integrated software 
+however view rockwell vision harness data flows factory floor level 
+rather than integrating back into design software result for example focuses 
+capturing real time data then contextualising analysing and optimising that data 
+ensure that the hardware both self aware and system aware therefore view 
+rockwell approach aiming deliver closed loop smart assets the factory floor 
+through the connected enterprise rok hopes drive new era smart 
+manufacturing smart manufacturing represents the integration three key 
+productivity factors automation operations information and advanced analytics 
+through its various mes platforms rok links machines and equipment through open 
+platforms and enables them think the goal this transition improve 
+productivity across value chain increasing visibility and access contextual 
+information connected processes and products 
+appendix 
+what the traditional factory landscape and what data capabilities does 
+have 
+what are the factors that are driving the move towards digital 
+manufacturing 
+what technologies and systems have combined enable digital 
+manufacturing become reality including additive manufacturing 
+what the bill materials and why important 
+glossary what are each the components the simplified factory 
+landscapes 
+comps table covered exposed software and capital goods companies 
+the traditional factory landscape 
+from traditional factory digital factory 
+this section outline the industrial landscape from the perspective 
+discrete manufacturing industry factory environment and high level view 
+how software and hardware are integrated into factory setting present 
+note discrete industries such packaging are industries that deal with endproducts that can normally deconstructed back into its component parts this 
+normally factory setting the other hand process industries chemicals 
+oil gas have very different environments plants where the focus 
+controlling material flow and where the end product cannot easily deconstructed 
+whereas plc based systems are dominant discrete industries dcs based systems 
+are dominant process industries 
+the traditional factory 
+exhibit simplified version the traditional factory floor setting discrete industry 
+source morgan stanley research 
+real virtual under this setup the start the manufacturing process within 
+the real world with extended erp and the virtual world with plm these two 
+groups software interact with each other but predominantly after thefact basis when customer order received the product virtually designed and 
+engineered the plm software whilst the business aspects the order such 
+the financials customer relationship and delivery logistics are captured within 
+extended erp software 
+mes oversees the entire manufacturing operation data from both the real and 
+virtual worlds are then fed into the mes system the lowest level enterprise 
+control the mes performs range tasks including production scheduling and 
+product traceability while managing the manufacturing operations from highlevel 
+scada the highest level operator control the factory floor the scada 
+system oversees the operations field control systems plcs and their linked 
+underlying machinery its supervisory role scada acquires data machinery 
+performance create event alerts and provide data back factory floor 
+operators the factory landscape downstream from scada dominated 
+hardware 
+heterogeneous hardware landscape with limited machine connectivity and 
+system harmonisation field control systems plcs receive information from 
+upstream software systems using this the plcs relay information including precise 
+instructions and controls the underlying machinery they are connected 
+off line and end line eol metrology equipment operates alongside the 
+manufacturing machinery and separate end process ensuring that output 
+meets quality control specifications metrology requires the manufactured 
+product removed from the production line prior inspection which carries 
+additional cost end line metrology performed the end the production 
+line ensure that the manufactured product matches specifications and quality 
+control requirements prior sale the customer 
+premise storage the traditional factory data typically collected into 
+premise data storage facility automated data feedback flows back into the 
+extended erp plm software are either limited not present 
+what are the data capabilities the traditional factory 
+exhibit traditional factory data capabilities 
+source morgan stanley research 
+the traditional factory structured with isolated systems and machines connectivity 
+between these machines mainly only harboured within the scada level there 
+relatively limited machine machine connectivity and data analytical capabilities 
+simple data analytics the factory level data capabilities mainly reside within 
+scada with data collection which enables graphical analysis metrology 
+equipment also plays role feeding back data into the software data flow the 
+enterprise level the mes involved with data analytics but overview the 
+entire factory operation rather than more granular level detail there 
+limited interfacing between factory instrumentation and software systems which 
+makes difficult perform root cause analysis errors 
+basic system alerts although the traditional factory capable creating 
+system alerts for example piece instrumentation malfunctions these alerts 
+are relatively basic and are generally only descriptive diagnostic nature 
+the factory floor these alerts are generated the operator level scada software 
+human intervention then required rectify the issue 
+limited real time data flows result mix homogeneous hardware 
+without common interface although some mixture middleware and older 
+technology fewer data flows exist the traditional factory data typically stored 
+premise rather than the cloud the industrial internet consortium points out 
+that typical factory over data generated discarded without 
+attempt draw value due high storage and transport costs moreover 
+reporting cycles are typically based pooling data within predefined window 
+every hours result decision making largely reactive and thus the 
+value data produced diluted 
+what are the digital manufacturing drivers 
+see the ideal position for manufacturers being capable creating low cost 
+highly customised and high quality products with short time market enabling them 
+flexibly meet changing trends consumer demand achieve this have seen 
+manufacturers either partnering with software companies access their 
+design manufacturing software capabilities acquiring expertise directly 
+courtesy their scale and leading positions international capital goods companies are 
+currently most active deploying digitalization solutions within their own factories 
+enhance productivity beyond this think some will develop their own suite 
+technological solutions bundle with hardware and sell smaller scale 
+manufacturers this creates new market with new business model the scope sell 
+outcomes uptime think customers ultimately care about the outcome 
+hours turbine engine usage rather than product the turbine believe the 
+following factors are also driving the trend towards digital manufacturing 
+desire for customised products delivering large scale production customised items 
+requires change the product creation process from the current industrial setup 
+towards integrating product design manufacturing planning with factory floor hardware 
+industrial scale roll out printers should aid larger scale product customisation 
+exhibit manufacturing one the 
+least digitalised industries 
+source capgemini consulting mit center for digital business 
+manufacturers desire for shorter time market increasing production flexibility 
+and higher product quality see the convergence the hardware linked platforms 
+scada and software platforms higher the value chain mes plm being integral 
+towards achieving these objectives see clear value being able design products 
+optimise designs once initial data received from the manufacturing process and then 
+optimise the factory floor itself for the manufacturing process 
+pressure manufacturers reduce costs and improve production efficiencies 
+driven increasing low cost competition abroad particularly china china 
+committed manufacturing digitalization and late the ministries industry 
+and information technology and finance released year plan transition the 
+manufacturing economy into the digital world this builds the made china 
+plan which set out upgrade the manufacturing industry from low grade production 
+value added production addition whilst chinese companies are increasingly 
+encroaching into low medium end hardware automation offerings their software 
+offerings are less mature the previous waves cost improvements introductory 
+robotisation shift manufacturing low cost offshore locations are expiring the 
+digital factory has the potential drive the next new long term wave 
+desire from capital goods companies leverage the growth potential the 
+industrial internet things where software will undoubtedly play key role the 
+data management side capital goods companies could also benefit from owning 
+larger proportion the manufacturing ecosystem and being able bundle hardware 
+solutions with software solutions integrated within providing them with more 
+defensible product offering the long term 
+what are the digital manufacturing enablers 
+this section outline six factors that think are actively enabling the vision 
+digital manufacturing become reality aside from significant improvements 
+being made the software level with new functionality and software companies 
+expanding cross vertical plm tying mes see the following key 
+enablers pricing cuts for cloud storage machine machine connectivity 
+big data metrology technologies additive manufacturing 
+technologies and sensor technologies 
+cloud storage costs prices from major vendors for cloud storage have fallen 
+significantly over the past years one the most notable drivers digital 
+manufacturing cloud data costs our stylised traditional factory data was typically 
+stored premise and data feedback loops were consequently limited the stylised 
+digital factory factories run off cloud based data store and connectivity greater 
+cloud data pricing charged major vendors such amazon web services aws has 
+been rapidly declining over the past years aws pricing the first terabyte 
+data has fallen from month late month 
+june 
+exhibit aws costs have fallen sharply since 
+source aws amazon april and december figures are for the easter north virginia ohio and west oregon region 
+advancements connectivity modules internet things iot modules are 
+enhancing machine machine connectivity and enabling the industrial internet 
+things iiot increasingly prevalent factories iot modules created companies 
+like telit communications and blox undertake connection handling for 
+heterogeneous software and hardware and perform data aggregation doing this they 
+enhance connectivity increasing the volume and quality data collection 
+transfer and analysis possible 
+exhibit iot module 
+source telit communications short range wireless module 
+advancements data analytics harnessing the power big data can provide 
+valuable insights big data software seeks data mine large volumes structured 
+unstructured data help identify potential insights manufacturing environment 
+big data can used large quantities produced data uncover trends and useful 
+insights when recalibrate machinery optimise performance that can then 
+relayed for use under human intervention the longer term this data may linked 
+with artificial intelligence and machine learning able drive towards more 
+automated factory floor 
+case study ibm spss predictive analytics software was deployed project with 
+daimler production cylinder heads totalled per day and different 
+variables were collected during the production and quality management processes 
+implementing spss helped reduce the scrap rate the process from 
+reducing quality management costs and meaning less working 
+labour was required for rule creation and error reporting procedures 
+implementation carried week return investment 
+advancements production measurement technologies shifting from off line 
+line metrology the more automated digital factory requires lesser degree 
+disruption the production line with metrology solutions shifting from off line where 
+the product has removed from the production line prior inspection line 
+where the product inspected whilst the production line data collected from 
+inspection can then through connectivity fed back into earlier stages the 
+production process such that optimised production the real world can simulated 
+beforehand the virtual world 
+industrial deployment additive manufacturing printing enables product 
+customisation and increased complexity assuming increase the amount 
+material used there extra cost when looking add complexity printable 
+design because the manufacturing technique additive rather than subtractive there 
+additional material cut erode this enables the production tailored products 
+more cost effective and scalable basis the printing end market growing 
+rapidly with gartner expecting total end user spend printers grow 
+cagr between and 
+exhibit siemens digital twin 
+factory robot 
+source siemens 
+sensor technology improvements building the platform for enhanced data 
+collection sensors are prerequisites for both data collection and automation work 
+competently and generate valuable insights within the digital factory sensors help 
+detect development the factory floor areas such performance and health and 
+safety order improve efficiency less down time data from the sensors are 
+aggregated through connectivity see iot module description above and processed 
+through analytics key sensor applications comprise positioning proximity gesture light 
+and pressure sensors but also emerging sensor segments such chemical sensors and 
+spectral sensors for agriculture within automation sensors have fundamental 
+role the eyes ears and nerves the robotic systems quality and efficiency these 
+sensor applications are continuously improving the segment scales leading better 
+and simultaneously more affordable applications for industrial players 
+iot sensor costs have been declining data from intelligence shows that average 
+sensor costs have seen steady pricing declines over the past years from per 
+sensor and with forecast continued decline towards per sensor 
+exhibit average iot sensor costs estimated have fallen over 
+average iot sensor cost 
+change 
+source intelligence research 
+printing has the scope enable product customisation 
+larger scale 
+printing additive manufacturing rapidly growing end market gartner expect that 
+total end user spending printers expected grow cagr from 
+over the same time frame total shipments printers 
+worldwide expected grow cagr nearly from million shipments 
+million shipments shipments printers under are 
+forecast grow cagr whereas shipments printers over are 
+forecast grow cagr 
+exhibit end user spending printers expected grow 
+cagr into 
+exhibit while total shipments are expected grow more than 
+fold 
+total shipments printers worldwide units 
+total end user spending printers worldwide 
+printer cost 
+source gartner data morgan stanley research 
+source gartner data morgan stanley research 
+printing additive factory capabilities 
+printing enables greater product individualisation assuming increase the 
+amount material used there extra cost when looking add complexity 
+design because the manufacturing technique additive rather than subtractive 
+there extra cutting involved this enables the production tailored 
+products prosthetic limbs designed precisely fit your body 
+has the potential disrupt the traditional factory supply chain there 
+reduced need hoard inventory rarely used parts rather the factory can 
+follow the just time concept and print component parts and when they are 
+required 
+enhances the value cad software placing increased value the design 
+the product cleverly designed products have the scope reduce the quantity 
+material used production for given strength and given that there 
+increase cost from complexity savings from reduced material drop the bottom 
+line 
+can significantly reduce time market with product for example removing 
+the need create specialised tools construct product 
+but there are still challenges overcome scalability the technology best suited 
+small production batches rather than bulk production although the number 
+materials increasing relatively few are suited commercially scalable printing 
+process siemens has estimated that product designs are unprintable and that 
+require full work order usable and the printer size governs the 
+upper limit what objects can printed single part 
+printers still early the phases the adoption curve present the industrial 
+uses printing are largely confined research and development rather than being 
+within the core production process their report predicts printing 
+accelerates gartner surveyed enterprises nov and found that the top 
+applications for printing according those who currently use plan use are 
+evaluating using printing included non core manufacturing uses use plan are 
+evaluating using printing for product development also for prototyping and 
+for core only respondents use plan use are evaluating using 
+printing for core production high volume finished goods 
+capital goods building out the technology exposure would expect capital goods 
+companies have been broadly proactive increasing their exposure printing given 
+that constitutes factory floor hardware would view printing being 
+potential catalyst for capital goods companies acquire grow exposure the plm 
+market given that cad and printing are necessary complements siemens note their 
+ability design simulate and then print part providing the full printing value 
+chain within their own product ecosystem particular both siemens and abb have 
+established printing functionality capable industrial deployment 
+the software side note that dassault systemes has been actively building 
+exposure including through the partnership with simulia engineering software 
+printing and additive solutions company stratasys february 
+exhibit printing encouraging capital goods companies the value chain 
+source siemens 
+bills materials integration challenge 
+one the most significant challenges the data transfer process revolves 
+around bills materials boms boms are lists materials output for different 
+parts product lifecycle and include engineering bom ebom 
+manufacturing bom mbom and servicing bom sbom currently companies 
+have contend with different boms being created and located different 
+software platforms whether that plm core erp crm mes software 
+see the digital factory providing the structure for more closely knit boms 
+manufacturing environment that likely demands rapid increase individually 
+customised products will give rise the need for each product have separate 
+customisable bom this environment boms will remain crucial element the 
+manufacturing process 
+main types bom 
+ebom engineering bom designed bom the ebom list materials 
+required according the engineering design the product does not account for 
+supplementary parts such product packaging the ebom originated within the 
+heart design software typically cad plm 
+mbom manufacturing bom built bom the mbom based off the ebom 
+but altered reflect the actual parts required for manufacturing for example 
+computer may require screws per the ebom but due faulty screws 
+manufacturing breakages manufacture the product might require screws 
+assuming average are unusable the mbom also accounts for specific parts 
+that may unavailable and presents substitute parts that are available the 
+mbom more detailed list parts compared the ebom originated within 
+the erp software and shared with the mes for manufacturing 
+sbom servicing bom serviced bom also known the maintenance bom 
+this lists out parts required maintain the product through its post manufacturing 
+lifecycle 
+exhibit core types bom 
+source morgan stanley research 
+exhibit erp involved with both the ebom and mbom data flows 
+source morgan stanley research 
+present boms are compartmentalised currently boms are originated different 
+software with for example the ebom being created within plm software and the 
+mbom being created within erp software this approach can and historically has led 
+consistency challenges for manufacturers change has processed for one 
+bom there single alteration that can made change other boms they 
+reside disparate software this lack consistency can lead product defects 
+product revisions and sub optimal manufacturing processes 
+the nirvana unify boms towards single bom drive consistency and reduce 
+the costs mismatching boms the ideal for manufacturers only have deal with 
+single unified bom however compartmentalisation still present because 
+practical terms engineering teams work very differently manufacturing teams and 
+historically plm software has not been well suited work with the more granular 
+detail required mbom over ebom 
+the emergence the configurable bom increasingly manufacturers are working with 
+boms configurable boms these are boms that detail products required 
+materials per customer specified custom product design the likely increase the 
+number boms that manufacturer has deal with poses further challenge and 
+makes bom consistency essential 
+can digital manufacturing help would plm erp hold the single bom digital 
+manufacturing likely drive increased data flows between software applications 
+enabling better consistency between boms whilst not necessarily the case that 
+boms will merge into single version they did combine think there would 
+battle between erp providers and plm providers who would both want own the 
+data underlying the bom date think plm companies have been reluctant 
+move towards single bom retaining the bom your own platform helps lock 
+customers your platform whilst there case for the mbom being held within plm 
+software plm becoming increasingly capable mbom optimisation and could 
+provide full product traceability erp providers such sap would likely want 
+retain origination control the mbom keep themselves within the core the 
+manufacturing process 
+the factory landscape software hardware 
+enterprise level tools software 
+the product creation process starts the enterprise level with software such erp 
+plm and mes providers these solutions are very different see traditional 
+software companies such sap and oracle being key players within erp whereas 
+plm and mes has typically been dominated more design and manufacturing oriented 
+companies such dassault syst mes and siemens 
+exhibit sap dominant the 
+extended erp market sap market share 
+that the nearest competitor 
+extended erp market shares 
+sap 
+oracle 
+salesforce 
+microsoft 
+players 
+other 
+extended enterprise resource planning comprises core erp crm and scm 
+core erp software has functionality for finance manufacturing and logistics and 
+other key business functions erp software typically deals with functions such 
+inventory workforce and cash management systems governance and 
+manufacturing planning and execution erp the largest segment the software 
+market market size erp the core the real world systems within businesses 
+including factory landscapes 
+source gartner data morgan stanley research extended erp 
+defined crm scm and core erp eam fms components hcm 
+and manufacturing and operations 
+customer resource management crm software covers functionality from 
+managing direct sales force managing customer contacts and interactions 
+also extends into managing customer marketing crm currently peripheral the 
+manufacturing process once order has been received with little scope for 
+extensive product alterations once the manufacturing process has begun however 
+systems improve and customer demands for customisation increase expect 
+crm become more tightly linked with the manufacturing process for example 
+customer demand levels could feed directly into manufacturing planning and 
+execution real time while crm could drive the customisation products 
+supply chain management scm software has functionality involving the supply 
+chain such controlling and monitoring the movement items from their raw 
+material state through their finalised state typical capabilities scm software 
+include purchase order fulfillment monitoring sourced materials and supplier 
+relationship management 
+exhibit dassault has leading position 
+within the manufacturing software 
+market 
+technical software market manufacturing market 
+shares cambashi 
+dassault 
+siemens plm 
+ptc 
+autodesk 
+sap plm 
+ansys 
+others 
+source cambashi data morgan stanley research plm sectors 
+included manufacturing architecture engineering construction 
+product lifecycle management plm comprises cad cae cam and pdm 
+computer aided design cad computer based tool enabling virtual product 
+design including initial creation modification design optimisation and product 
+visualisation following the virtual design product can transmitted 
+electronically the factory floor for use machinery such cnc and 
+printers the cad software starts deal with the electronic bill materials 
+ebom which less refined version the eventual mbom and list the 
+materials required make the product purely from design perspective 
+computer aided engineering cae software takes the virtual product created 
+cad and helps simulates the design enabling optimisation from engineering 
+standpoint and allowing for analysis robustness and assembly performance 
+typical cae analyses include finite element analysis fea and computational fluid 
+dynamics cfd 
+computer aided manufacturing cam software takes the model created either 
+cad cae and creates cam model calculating relevant tool paths for 
+machine follow post processor driver computer numerical control cnc 
+machine reads these enable manufacturing the part cam software also 
+used printers 
+product data management pdm core component within plm whether 
+standalone software solution with its functionality integrated into the core 
+design and simulation offerings pdm software used manage product data 
+single system whether that information parts specifications version control 
+manufacturing details cad information 
+manufacturing execution system mes this software the lowest enterprise level 
+manufacturing control the mes plays important role being the connecting link 
+between the upstream erp and plm software and the more downstream scada 
+software providing the connection the mes delivers real time data and isolates 
+critical information particular the mes deals with manufacturing process control 
+work process tracking product traceability data collection and labour tracking 
+unlike scada the mes provides overall view the company factory floors 
+providing high level view for use company management 
+factory level tools software hardware 
+factory level technologies span both hardware and software the bridge between the 
+enterprise level and the floor level scada software which takes the role 
+factory floor data acquisition and supervisory control below scada are field controls 
+such plcs dominant discrete industries and dcss dominant process industries 
+turn these connect field instrumentation directly such robots valves drives 
+which perform processes the product itself metrology sits alongside this process 
+and the end the process quality control check 
+supervisory control and data acquisition scada scada software the highest 
+operator level control receives information from the mes scada software monitors 
+gathers processes and performs basic data analytics using data output factory floor 
+instrumentation acting data historian scada also capable instructing specific 
+plcs although the plcs that directly connect the end manufacturing 
+instrumentation robots motors controls individual elements the physical 
+production process the factory floor level and distills the data down into series 
+maps and tools for interpretation factory operators well providing system 
+alerts acting event historian 
+field control systems comprises programmable logic controllers plcs distributed 
+control systems dcss and industrial pcs ipcs 
+plcs are dedicated specialist ruggedised computers used for controlling 
+manufacturing processes making logic based automated decisions they are the 
+local hardware control centres for production hardware the factory floor such 
+robots sensors drives and valves plcs are typically used discrete 
+manufacturing industries automobiles packaging 
+exhibit schneider electric modicon 
+plc 
+dcss distributed control systems are typically used process manufacturing 
+industries oil gas pharmaceuticals where fully integrated solution 
+required 
+ipcs are becoming increasingly used factory environments alternative 
+plcs and offer greater flexibility programming ipcs can also host scada 
+programs recently acquired abb and beckhoff are prominent vendors 
+field instrumentation cncs motors robots valves printers this the 
+machinery that physically moves help manufacture process the product each 
+robot for example relies dedicated coded instructions about how should move 
+and when should move which are generated and passed down from the plcs that 
+they are connected printers are increasingly moving from predominantly being 
+used product prototyping towards being used commercial production printers 
+use designs processed and transferred directly cad part plm software and 
+not require field control system the factory floor similarly cnc machines are selfcontained and use coded instructions passed down from cam software 
+source schneider electric 
+exhibit hexagon automated 
+arm metrology hardware 
+metrology metrology includes both hardware and software elements during product 
+creation metrology software used alongside factory hardware monitors products 
+they through the manufacturing process feeding back data and checking for 
+defects metrology present both during the manufacturing process and the end 
+the production process the end product creation measurement hardware 
+performs final inspection often through laser scanning technology the purpose 
+check the final dimensions and qualities the product for quality control 
+scanning the surface product ensure free defects and meets internal 
+standards this ensures that consistent product manufactured 
+source hexagon 
+comps table 
+exhibit valuation comparables software capital goods consensus methodology 
+software valuation for consensus data 
+ticker 
+calendarised 
+software 
+ansys 
+mse autodesk 
+mse aveva 
+mse dassault systemes 
+mse hexagon 
+mse microsoft 
+mse oracle 
+parametric ptc 
+mse software 
+mse sap 
+rating 
+ccy 
+price 
+oct 
+anss 
+adsk 
+avv 
+dast 
+hexab 
+msft 
+orcl 
+pmtc 
+sowgn 
+sapg 
+usd 
+usd 
+gbp 
+eur 
+sek 
+usd 
+usd 
+usd 
+eur 
+eur 
+price mkt cap 
+target 
+mean 
+median 
+ebit 
+ebitda 
+sales 
+fcfe yield 
+dividend yield 
+capital goods 
+mse 
+mse 
+mse 
+mse 
+mse 
+mse 
+mse 
+mse 
+abb 
+general electric 
+honeywell international 
+mitsubishi electric 
+renishaw 
+rockwell automation 
+schneider 
+siemens 
+abbn 
+hon 
+rsw 
+rok 
+schn 
+siegn 
+chf 
+usd 
+usd 
+jpy 
+gbp 
+usd 
+eur 
+eur 
+mean 
+median 
+source morgan stanley research estimates reuters data for non covered companies aveva and schneider electric deal not yet closed 
+morgan stanley international plc morgan stanley acting financial advisor schneider electric 
+industries sas schneider electric wholly owned subsidiary schneider electric relation the proposed 
+combination schneider electric software business with aveva group plc announced september 
+schneider electric may pay fees morgan stanley for its financial services please refer the notes the end 
+the report 
+disclosure section 
+morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the prudential 
+regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial services and 
+markets act research which has been prepared any its affiliates used this disclosure section morgan stanley includes rmb morgan 
+stanley proprietary limited morgan stanley international plc and its affiliates 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report lucie 
+carrier nigel coe cfa joshua harris ben uglow keith weiss cfa adam wood 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+september morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research alstom amadeus holdings appian corp atos aveva group plc capgemini cdk global inc coupa software inc 
+eaton corp plc electrolux ellie mae inc emerson electric fireeye inc gea group general electric honeywell international hubspot inc 
+indra ingersoll rand intuit landis gyr group lennox international metso oyj microsoft nexans osram licht palo alto networks inc 
+philips rexel rotork plc sabre corp salesforce sap servicenow inc smiths group software spectris plc splunk inc united 
+technologies corp veeva systems inc vesuvius plc watsco inc weir group plc workday inc 
+within the last months morgan stanley managed managed public offering offering securities appian corp autodesk 
+capgemini cdk global inc cloudera inc coupa software inc eaton corp plc evry general electric godaddy inc honeywell international 
+hubspot inc landis gyr group microsoft nuance communications inc parker hannifin corp prysmian rev group inc servicenow inc 
+shopify inc smiths group stanley black decker united technologies corp vmware inc grainger inc workday inc yext inc 
+within the last months morgan stanley has received compensation for investment banking services from adobe systems akamai technologies 
+inc appian corp autodesk box inc capgemini cdk global inc cloudera inc coupa software inc endurance international group holdings inc evry 
+general electric godaddy inc honeywell international hubspot inc illinois tool works lennox international microsoft nuance communications inc 
+parker hannifin corp philips rev group inc sabre corp sage servicenow inc shopify inc siemens smiths group technologies holdings inc 
+stanley black decker travelport worldwide limited united technologies corp vmware inc grainger inc workday inc yext inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from inc abb adobe 
+systems akamai technologies inc alfa laval alstom amadeus holdings ametek inc appfolio inc appian corp assa abloy atlas 
+copco atlassian corporation plc atos autodesk aveva group plc barracuda networks inc bazaarvoice inc bodycote plc box inc capgemini cdk 
+global inc check point software technologies ltd citrix systems inc cloudera inc coupa software inc cyberark software ltd dassault systemes 
+descartes systems group inc dometic group dover eaton corp plc electrolux ellie mae inc emerson electric endurance international group 
+holdings inc evry fastenal fireeye inc inc flsmidth fortinet inc fortive corp gea group general electric godaddy inc halma 
+plc supply holdings inc hexagon honeywell international hubbell inc hubspot inc illinois tool works imi plc imperva inc indra ingersoll 
+rand instructure inc intuit johnson controls international kone oyj legrand lennox international metso oyj microsoft mindbody inc new relic inc 
+nexans nnit nuance communications inc oracle corporation osram licht outotec oyj palo alto networks inc parker hannifin corp 
+pentair plc philips proofpoint inc prysmian qualys inc inc red hat inc regal beloit corp rev group inc ringcentral inc rockwell 
+automation rotork plc sabre corp sage salesforce sandvik sap schneider electric servicenow inc shopify inc siemens skf smiths 
+group software sophos group plc sopra steria group spectris plc spirax sarco engineering plc splunk inc spx flow technologies 
+holdings inc stanley black decker symantec tableau software temenos group tieto travelport worldwide limited united technologies corp 
+varonis systems inc veeva systems inc vestas wind systems vesuvius plc vmware inc grainger inc wartsila oyj abp watsco inc 
+weir group plc wesco international inc workday inc workiva inc yext inc zendesk inc zumtobel 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from abb 
+adobe systems akamai technologies inc alstom amadeus holdings autodesk capgemini check point software technologies ltd dover 
+eaton corp plc electrolux fortinet inc general electric hexagon honeywell international hubbell inc illinois tool works intuit johnson 
+controls international kion group legrand microsoft nuance communications inc oracle corporation parker hannifin corp philips prysmian 
+red hat inc regal beloit corp sabre corp salesforce sap schneider electric siemens smiths group sophos group plc 
+technologies holdings inc stanley black decker symantec tableau software travelport worldwide limited vmware inc grainger inc wesco 
+international inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company inc abb adobe systems akamai technologies inc alfa laval alstom amadeus holdings ametek inc 
+appfolio inc appian corp assa abloy atlas copco atlassian corporation plc atos autodesk aveva group plc barracuda networks inc 
+bazaarvoice inc bodycote plc box inc capgemini cdk global inc check point software technologies ltd citrix systems inc cloudera inc coupa 
+software inc cyberark software ltd dassault systemes descartes systems group inc dometic group dover eaton corp plc electrolux 
+ellie mae inc emerson electric endurance international group holdings inc evry fastenal fireeye inc inc flsmidth fortinet inc fortive 
+corp gea group general electric godaddy inc halma plc supply holdings inc hexagon honeywell international hubbell inc hubspot 
+inc illinois tool works imi plc imperva inc indra ingersoll rand instructure inc intuit johnson controls international kone oyj landis gyr group 
+legrand lennox international metso oyj microsoft mindbody inc new relic inc nexans nnit nuance communications inc oracle 
+corporation osram licht outotec oyj palo alto networks inc parker hannifin corp pentair plc philips proofpoint inc prysmian qualys inc 
+inc red hat inc regal beloit corp rev group inc ringcentral inc rockwell automation rotork plc sabre corp sage salesforce 
+sandvik sap schneider electric servicenow inc shopify inc siemens skf smiths group software sophos group plc sopra steria group 
+spectris plc spirax sarco engineering plc splunk inc spx flow technologies holdings inc stanley black decker symantec tableau 
+software temenos group tieto travelport worldwide limited united technologies corp varonis systems inc veeva systems inc vestas wind 
+systems vesuvius plc vmware inc grainger inc wartsila oyj abp watsco inc weir group plc wesco international inc workday inc 
+workiva inc yext inc zendesk inc zumtobel 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company abb adobe systems akamai technologies 
+inc alstom amadeus holdings autodesk capgemini cdk global inc check point software technologies ltd citrix systems inc dover eaton 
+corp plc electrolux emerson electric fireeye inc fortinet inc fortive corp general electric godaddy inc hexagon honeywell international 
+hubbell inc hubspot inc illinois tool works intuit johnson controls international kion group legrand lennox international microsoft nuance 
+communications inc oracle corporation parker hannifin corp philips prysmian red hat inc regal beloit corp rockwell automation sabre 
+corp salesforce sap schneider electric servicenow inc siemens smiths group sophos group plc technologies holdings inc 
+stanley black decker symantec tableau software travelport worldwide limited united technologies corp vmware inc grainger inc wesco 
+international inc workday inc 
+employee director consultant morgan stanley director workiva inc this person not research analyst member research analyst 
+household 
+morgan stanley llc makes market the securities inc abb adobe systems akamai technologies inc ametek inc appian 
+corp atlassian corporation plc autodesk barracuda networks inc bazaarvoice inc box inc cdk global inc check point software technologies ltd 
+citrix systems inc cyberark software ltd dover eaton corp plc ellie mae inc emerson electric endurance international group holdings inc fastenal 
+fireeye inc inc fortinet inc general electric godaddy inc supply holdings inc honeywell international hubbell inc hubspot inc 
+illinois tool works ingersoll rand instructure inc intuit johnson controls international lennox international microsoft mindbody inc new relic inc 
+nuance communications inc oracle corporation palo alto networks inc parker hannifin corp pentair plc philips proofpoint inc holdings inc qualys 
+inc inc red hat inc regal beloit corp ringcentral inc rockwell automation sabre corp salesforce sap servicenow inc shopify inc 
+splunk inc spx flow technologies holdings inc stanley black decker symantec tableau software travelport worldwide limited united 
+technologies corp varonis systems inc veeva systems inc vmware inc grainger inc watsco inc wesco international inc workday inc 
+zendesk inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+september 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months due rounding off decimals the percentages provided the total column may not add exactly 
+percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems assa abloy 
+atlas copco autodesk bazaarvoice inc capgemini cdk global inc citrix systems inc dover eaton corp plc electrolux emerson electric fortive 
+corp general electric hexagon honeywell international hubbell inc hubspot inc illinois tool works indra johnson controls international 
+legrand metso oyj microsoft nuance communications inc oracle corporation palo alto networks inc parker hannifin corp philips prysmian 
+rexel sap schneider electric servicenow inc siemens skf smiths group stanley black decker symantec united technologies corp 
+vmware inc grainger inc workday inc 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage technology software services 
+company ticker 
+rating 
+price 
+nkr 
+skr 
+dkr 
+sfr 
+adam wood 
+amadeus holdings ama 
+atos atos 
+aveva group plc avv 
+capgemini capp 
+dassault systemes dast 
+evry evry 
+hexagon hexab 
+indra idr 
+nnit nnit 
+sage sge 
+sap sapg 
+software sowgn 
+sophos group plc soph 
+sopra steria group sopr 
+temenos group temn 
+tieto 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage capital goods 
+company ticker 
+rating 
+price 
+sfr 
+skr 
+sfr 
+skr 
+skr 
+dkr 
+skr 
+skr 
+skr 
+sfr 
+skr 
+dkr 
+ben uglow 
+abb abbn 
+alstom also 
+atlas copco atcoa 
+kion group kgx 
+landis gyr group landi 
+philips phg 
+sandvik sand 
+schneider electric schn 
+siemens siegn 
+skf skfb 
+vestas wind systems vws 
+lucie carrier 
+assa abloy assab 
+dometic group dometic 
+electrolux eluxb 
+gea group 
+kone oyj knebv 
+legrand legd 
+nexans nexs 
+osram licht osrn 
+philips lighting light 
+prysmian pry 
+rexel rxl 
+schindler holding schp 
+zumtobel zumv 
+peter murdoch 
+alfa laval alfa 
+flsmidth fls 
+metso oyj metso 
+outotec oyj 
+wartsila oyj abp 
+robert davies 
+bodycote plc boy 
+halma plc hlma 
+imi plc imi 
+renishaw plc rsw 
+rotork plc ror 
+senvion seng 
+smiths group smin 
+spectris plc sxs 
+spirax sarco engineering plc spx 
+vesuvius plc vsvs 
+weir group plc weir 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage software 
+company ticker 
+rating 
+price 
+brian essex cfa 
+appfolio inc appf 
+cdk global inc cdk 
+descartes systems group inc dsgx 
+ellie mae inc elli 
+endurance international group holdings inc eigi 
+godaddy inc gddy 
+instructure inc inst 
+mindbody inc 
+holdings inc qtwo 
+sabre corp sabr 
+shopify inc shop 
+technologies holdings inc ssnc 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+symantec symc 
+vmware inc vmw 
+workday inc wday 
+melissa franchi 
+barracuda networks inc cuda 
+box inc box 
+cyberark software ltd cybr 
+fireeye inc feye 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+qualys inc qlys 
+inc rpd 
+secureworks corp scwx 
+splunk inc splk 
+varonis systems inc vrns 
+meta marshall 
+inc eght 
+inc fivn 
+ringcentral inc rng 
+sanjit singh 
+appian corp appn 
+atlassian corporation plc team 
+cloudera inc cldr 
+new relic inc newr 
+nuance communications inc nuan 
+tableau software data 
+stan zlotsky cfa 
+bazaarvoice inc 
+coupa software inc coup 
+hubspot inc hubs 
+veeva systems inc veev 
+workiva inc 
+yext inc yext 
+zendesk inc zen 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage machinery 
+company ticker 
+rating 
+price 
+nigel coe cfa 
+parker hannifin corp 
+rev group inc revg 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage multi industry 
+company ticker 
+rating 
+price 
+jiayan zhou cfa 
+fastenal fast 
+supply holdings inc hds 
+grainger inc gww 
+watsco inc wso 
+wesco international inc wcc 
+nigel coe cfa 
+mmm 
+ametek inc ame 
+dover dov 
+eaton corp plc etn 
+emerson electric emr 
+fortive corp ftv 
+general electric 
+honeywell international hon 
+hubbell inc hubb 
+illinois tool works itw 
+ingersoll rand 
+johnson controls international jci 
+lennox international lii 
+pentair plc pnr 
+regal beloit corp rbc 
+rockwell automation rok 
+spx flow flow 
+stanley black decker swk 
+united technologies corp utx 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

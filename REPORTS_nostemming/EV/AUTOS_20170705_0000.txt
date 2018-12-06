@@ -1,0 +1,783 @@
+july gmt 
+autos shared mobility 
+towards cost parity for evs 
+our chemicals colleagues see battery packs easily reaching 
+kwh the early and perhaps lower our tech 
+colleagues like silicon carbide chips saving car both 
+support our battery penetration forecasts ice emissions 
+costs continue rise evs are becoming the cheaper option 
+morgan stanley international plc 
+victoria greer 
+equity analyst 
+victoria greer morganstanley 
+equity analyst 
+harald hendrikse morganstanley 
+francois meunier 
+equity analyst 
+francois meunier morganstanley 
+charles webb 
+equity analyst 
+charlie webb morganstanley 
+autos shared mobility 
+europe 
+industryview 
+chemicals kwh early new discoveries needed lower our 
+chemicals colleagues see battery costs kwh comfortably achievable 
+the early increasing nickel and reducing cobalt content cathode 
+materials tech step change needed for costs fall further unlikely but potential disruptors are already key focus kwh and 
+assuming battery supported chip innovation also battery 
+component costs would still higher than petrol but european fuel 
+costs evs can support purchase price premium and still reach parity 
+total cost ownership this even before factoring any incremental costs for 
+ices from future emissions regulations battery evs could rapidly become the 
+cheaper option 
+chips silicon carbide brings efficiencies power electronics silicon carbide 
+sic adoption has been slow and our tech colleagues expect silicon igbt chips 
+stay mainstream through however sic materially improves efficiency 
+lower power loss higher temperature resilience increasing range 
+and reducing charging time costs are high today sic chips are unit 
+for igbts but given the efficiency potential the team sees system cost 
+parity over time market leader infineon sees slow sic penetration based its 
+customers year roadmaps but tesla already uses sic and toyota new prius 
+development dual track with igbts but also sic chips made house oems 
+chose use sic range charging benefits reduce battery capacity from 
+kwh this could save over car 
+conclusion tech advances are coming just not from tier auto suppliers 
+evs are already close parity with ices looking total cost ownership 
+europe and with battery and electronics improvements could move closer 
+component cost parity from tier auto supplier perspective though 
+interesting see these innovations coming largely from companies outside 
+the sector bosch will invest semiconductor manufacturing reuters 
+june can other tier shift their product base further towards the new valueadd areas powertrain exposed suppliers face change from today highly 
+consolidated high margin markets fragmented markets with the value add 
+elements power electronics chips battery cells largely outside their control 
+michelin and autoliv think the oems remain challenged but 
+prefer suppliers without material powertrain exposure 
+harald hendrikse 
+line 
+our tech colleagues note technology semiconductors sic chips increase mileage 
+sizing the opportunity 
+our chemicals colleagues note chemicals will 
+cathode evolution drive the revolution 
+our global fleet model and forecasts 
+autos shared mobility one billion bevs 
+exhibit advances semiconductors silicon carbide 
+and battery technology could see evs approach cost 
+parity with ice cars around 
+data morgan stanley research 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+technological advances support our battery penetration 
+forecasts 
+our base case for battery penetration sees new car sales battery evs 
+excluding hybrids rising and 
+with over billion fully electric cars the global fleet order reach these 
+levels think that material technological advances both battery technology and 
+other powertrain components such the power electronics with sic are required 
+cost remains one the major hurdles our base case forecasts being achieved 
+see our work modelling the global auto fleet out autos shared mobility 
+one billion bevs may well more detailed work 
+component changes and costs autos shared mobility content evolution ice 
+hybrid march 
+exhibit battery electric penetration model vehicles 
+and growing bev sales mean that ice sales may peaking right now and 
+start impact much more negatively absolute ice sales volumes post 
+world bev sales penetration 
+source morgan stanley research estimates 
+exhibit fleet basis the ice fleet continues grow until and doesn start fall 
+sharply until post assuming our current global fleet growth 
+ice fleet 
+bev fleet 
+world car fleet 
+source world bank imf ihs ward morgan stanley research estimates 
+chemicals kwh achievable new technology could drive 
+further improvements time 
+kwh current technologies potential 
+lower with new technologies 
+our chemicals colleagues see clear path reducing battery costs kwh 
+current technologies this mostly focussed increasing the mix nickel 
+and reducing the mix cobalt the cathode all using nickel manganese cobalt 
+nmc but shifting the composition towards nickel raising energy density while 
+also cutting cobalt requirements the most expensive raw material the cathode 
+getting below kwh likely require technology breakthrough 
+potentially from one the many disruptive technologies being investigated 
+today such lithium sulfur lithium air and solid state lithium 
+even without material improvements below kwh evs could close much 
+the current cost gap with ices this before factoring any incremental 
+costs future emissions regulations european regulations are not set yet post 
+and targets could well managed via the mix but further 
+tightening nox and particulates present petrol engines also could mean 
+rising costs 
+how get kwh 
+fit for purpose cathode technologies should support pack cost kwh 
+automotive oem cost and technology roadmaps are intrinsically linked cathode 
+material producers need improve the energy density the cathode materials order 
+support lower price kwh while maintaining stable price for the cathode 
+material not yet clear whether the targeted energy density improvements will 
+enough maintain stable cost for the cathode given contractual price downs 
+agreed for each platform nmc has clear technology roadmap move from 
+nmc more nickel rich nmc currently use and nmc the not toodistant future simplistically increasing the nickel content not only raises the energy 
+density but also thrifts cobalt currently the most expensive ternary raw material 
+and reduces the total metal required this roadmap well understood and will 
+support reduction the battery dollar cost kwh somewhere close 
+which believe fit for purpose supported emission regulation and government 
+incentivisation 
+cell scale effects are already diminishing technology improvements and reduction 
+materials costs likely support industry cost roadmap cell costs have declined 
+fast pace over the past five years driven increasing scale 
+production cathode evolution and chemical proficiency and advancements 
+other materials however believe the scale effects are already diminishing given that 
+plants have reached critical production level and the fact that fixed costs contributed 
+relatively small proportion total production costs most the cell costs are 
+therefore largely determined material prices and composition 
+increasing the energy density the battery the key lever for players within the 
+supply chain navigate cost pressures and support the industry cost roadmap the 
+cathode key component where energy density improvements can and are being 
+made are the anode electrolyte and separator although the later two less 
+degree for example tesla model battery cell has incorporated new type 
+graphite anode blended with silicon which can improve the energy density the total 
+cell 
+exhibit china lfp battery cell cost structure 
+exhibit china nmc battery cell cost structure 
+china lfp battery 
+china ncm battery 
+material 
+volume 
+cathode 
+anode 
+electrolyte 
+separator sqm 
+shell cover 
+current collector 
+current collector 
+nmp 
+pvdf 
+cmc 
+sbr 
+conductive additives 
+others tabs termimals insulator etc 
+manufacturing overhead 
+labor 
+others 
+total 
+source morgan stanley research 
+cost per 
+cost 
+unit 
+kwh percent 
+material 
+volume 
+cathode 
+anode 
+electrolyte 
+separator sqm 
+shell cover 
+current collector 
+current collector 
+nmp 
+pvdf 
+cmc 
+sbr 
+conductive additives 
+others tabs termimals insulator etc 
+manufacturing overhead 
+labor 
+others 
+total 
+cost per 
+cost 
+unit 
+kwh percent 
+source morgan stanley research 
+reductions material costs will limited mainly the cathode the cathode 
+comprises the bulk the overall savings opportunity making the battery 
+component cost the cell itself consists several components including the anode and 
+cathode materials the battery separator and electrolyte most the metal costs can 
+associated with the cathode and composition varies technology improvements the 
+cathode energy density will reduce the amount metal required per kwh basis 
+which important not only lowering the absolute metal requirement per kwh but 
+also reducing the metal price risk the average market price each metal depends 
+the supply and demand dynamics which for small markets can expose the automotive 
+oems unwanted metal price exposure which some cases cannot hedged 
+cobalt 
+should the rate technology improvement slow price pressures across the supply 
+chain will become more visible the technology roadmap largely place offset the 
+cost roadmap should see any point slowdown the rate technology 
+improvements increase energy density deflationary pressures will affect the supply 
+chain gradual technology improvements and remaining scale effects should support 
+steady migration kwh which point raw materials and precursors will make 
+large portion the overall cost turn this may lead some volatility the cost 
+per kwh metal prices move higher and lower depending the underlying supply 
+and demand for each metal 
+kwh evs could already cheaper than petrol diesel 
+total cost ownership 
+purchase prices are much higher today exhibit shows model attempting 
+calculate the impact monthly running costs much higher current transaction 
+prices assume that evs have much lower residual costs than internal combustionengine cars least early suggesting that lease costs will much higher given that 
+greater depreciation will have covered during the life the lease thus monthly 
+lease costs for plug hybrid vehicles phevs and battery electric vehicles bevs could 
+much higher than monthly lease costs for petrol engine alternatives 
+however then continue compare total running and ownership costs evs can 
+start quickly reduce that price disadvantage 
+lower running costs make much the difference looking total cost 
+ownership assume phevs and bevs have lower fuel costs lower insurance 
+costs and lower service costs than current vehicles calculate that based 
+european fuel prices fuel and running costs for bevs could much lower 
+than for current petrol diesel engine cars adding all calculate that 
+although hybrids and extended range evs continue more expensive all 
+our calculation bev costs comes just per month versus for our petrol 
+and diesel cars not huge cost difference this assumes that battery sells 
+purchase price premium petrol car versus component costs only around 
+higher based battery priced kwh 
+exhibit total cost ownership calculations are close parity for battery evs around 
+purchase price premium petrol european fuel costs 
+purchase price 
+assumed residual after years 
+residual year 
+capital cost 
+monthly lease cost 
+annual running costs 
+fuel 
+insurance 
+servicing 
+annual running cost 
+monthly running costs 
+petrol 
+diesel 
+phev 
+rev 
+bev 
+fcev 
+miles with fuel per liter mpg 
+total cost ownership 
+tco pcm 
+monthly lease plus running costs 
+source morgan stanley research estimates 
+fit for future materials required get costs below kwh 
+evs are major challenge for oem profitability cost reduction will remain very 
+important the industry transitions towards battery evs see two issues for oem 
+profitability first the obvious cost pressures evs from building volumes from low 
+base and just component costs second think that lower ice volumes from 
+cannibalisation and lower prices demand shifts the new technologies could 
+mean sharply falling profitability the legacy business too see autos shared 
+mobility future car earnings risks for more detail our illustrative model this 
+environment think demand will high for future battery technologies that can 
+reduce costs 
+exhibit ice and business ebit curves our list transition model assumptions post 
+ice margins could fall sharply profitability starts improve 
+ebit 
+ice ebit 
+source company data morgan stanley research estimates 
+kwh could bring battery evs close cost parity with petrol assuming 
+battery kwh the total battery pack for would cost our analysis 
+leaving total component costs still well above traditional internal combustion 
+engine cars although above already more favourable total cost ownership 
+basis europe our tech team sees potential for silicon carbide sic chips increase 
+range oems choose use this solution most likely post they 
+think reduce battery capacity and cost this could take costs out the 
+car narrowing the petrol battery cost gap just that 
+kwh our tech colleagues expect total system costs for sic the same 
+today systems despite higher chip costs not flex our assumptions for the 
+hybrid powertrain here that electric motor inverter converter charger wiring 
+for more detail please see their report sic chips increase mileage 
+sizing the opportunity june 
+battery costs can reduced below kwh battery evs could even come close 
+petrol cars component costs think this unlikely achieved petrol until 
+costs fall kwh but this much closer happening for diesel cars europe 
+even just looking the costs including development cost adhering the real 
+driving emissions and new worldwide harmonised light duty test cycles wltc 
+that euro standards see autos shared mobility future car earnings 
+risks november for more detail european diesel regulations post our 
+analysis suggests that battery evs could rapidly become the cheaper solution battery 
+costs continue fall and the cost ice emissions compliance continues rise 
+ice emissions compliance costs likely keep rising affecting hybrids also yet 
+not clear how european emissions regulations will develop post cafe 
+standards are planned out absent any changes from the current 
+administration but china and india visibility also limited post clearly likely 
+that emissions regulations will continue tighten for increasing penetration 
+sales helpful these regulations are based fleet average adding evs which 
+count zero helps oems overall numbers for nox and particulates however the element emissions that harmful health standards are absolute and each 
+car must meet them governments focus more clean air expect nox and 
+particulate regulations get progressively tougher adding costs both petrol and ice 
+affecting hybrids also without detail where these regulations could can 
+estimate how much this could and course neither can the oems but much 
+the cost around developing new engines rather than just adding more content 
+existing engines ice and particularly diesel volumes start fall think this 
+makes for tough investment proposition for oems which can avoided altogether 
+shifting development focus towards evs 
+exhibit battery evs could close cost parity with petrol diesel cars even before 
+any incremental costs emissions regulations continue tighten 
+exhibit rising costs complying with emissions regulations has pushed oems towards battery 
+evs 
+drivetrain costs and nox compliance keep rising 
+kwh 
+kwh 
+kwh 
+bev 
+kwh 
+phev 
+stop start 
+battery electric 
+riginal drivetrain assum ption 
+add 
+add diesel decline 
+add 
+add rde 
+source morgan stanley research estimates 
+fit for the future cathode technology will drive differentiation and capture value fit 
+for the future materials will required reduce the battery cost kwh and 
+where see the greatest opportunity for cathode material producers capture value 
+unlike fit for purpose materials fit for the future cathode materials will provide 
+greater industry differentiation and likely see higher barriers entry with more 
+restrictive landscape suspect automotive oems will willing share the 
+improved cost economics well less metal price volatility with cathode producers 
+believe that the market for fit for the future materials could resemble something 
+more similar that the autocatalyst market unlike the more commodity fit for 
+purpose material market 
+possible technology disruptors 
+lithium sulphur lithium sulfur often cited the long term solution given its 
+very high specific energy about three times that conventional 
+lithium ion battery the other advantages are the relatively low cost raw 
+materials specific power density and good cold temperature 
+discharge characteristics well low temperature charging 
+limitations include material degradation low cycle life and self discharge 
+high voltage lithium ion much research going into next generation ion 
+increase the operational voltage and therefore energy density while not 
+compromising the stability the cathode material this includes alternate 
+material structures olivine spinel and material doping increase stability 
+higher voltages limitations include reduced cyclability and material degradation 
+high voltages 
+lithium air lithium air believed offer the energy density 
+conventional ion battery the theoretical specific energy lithium air 
+would par with gasoline fuelled vehicle widely 
+acknowledged least years from commercialisation and only some 
+the material challenges can overcome limitations include material degradation 
+due air purity short cycle life and poor thermal operating range 
+solid state lithium this often perceived the natural progression current liion batteries with the ability store twice the energy although there are some 
+concerns over the loading capabilities solid state batteries continue use current 
+cathode materials but replace the anode with solid state lithium and use 
+alternate electrolyte limitations include material degradation the anode short 
+cycle life poor thermal operating range 
+fuel cells the increased focus evs has raised interest fuel cells again fuelcell vehicles typically run off hydrogen and while range and power are less 
+limitation the infrastructure build out remains the greatest hurdle material 
+limitations include fuelling infrastructure and energy efficiency liquifying 
+hydrogen transportation 
+and many others 
+tech silicon carbide offers material efficiency improvements 
+sic could improve range the same system cost 
+our tech colleagues have built bottom proprietary chip model driven 
+chips car and their long standing statistical pricing model silicon carbide sic adoption 
+has been slow and the team expects today silicon igbt chips remain mainstream for 
+the next years however sic materially improves efficiency lower power loss higher 
+temperature resilience increasing range and reducing charging time 
+sic chips are unit for igbts but given the efficiency potential the team 
+believes that adoption could increase bringing system cost parity over time market 
+leader infineon sees slow sic penetration based its customers roadmap for the next 
+years but tesla already uses sic and toyota new prius development dual track 
+with igbts but also sic chips made house 
+trade off between increased range and reduced cost 
+range miles today going today the newest evs are 
+achieving fully electric ranges around miles using the epa standard 
+which tougher than the european nedc certified ranges the chevy bolt epa 
+certified miles range the tesla model expected have least miles the 
+next generation nissan leaf due expected step range miles from 
+the range miles the larger battery option both estimates are from 
+cleantechnica information remains closely guarded new launches particularly 
+what ranges can achieved under the epa certification regime but targets for the 
+porsche mission audi tron quattro and the mercedes suv are all around 
+miles almost 
+range has been the priority but think miles will sufficient 
+thus far new launches have mostly seen improved energy density deployed 
+increased battery capacities higher kwh order achieve longer ranges range per 
+kwh has not really improved but the physical size and cost per kwh has come down 
+hard gauge exactly where the tipping point would consumer acceptance but 
+think that miles major step from current levels over time certainly 
+see potential for some much longer range evs the market but also believe that oems 
+will seek offer range battery capacities not least support pricing for variants 
+with larger batteries tesla already prices its models this way think that oems 
+could use the efficiency improvements that sic brings increase range some cases 
+and reduce cost others charging times are also key making smaller batteries 
+workable for consumers but for the launches charging times are already 
+expected fall sharply and sic further development that could reduce charging 
+time 
+exhibit battery evs today the latest have around miles range launches are 
+expected miles 
+model 
+today production 
+nissan leaf 
+nissan leaf 
+chevy bolt 
+bmw range extender 
+bmw range extender 
+tesla model 
+tesla model 
+tesla model 
+future launches 
+nissan leaf next generation 
+porsche mission 
+audi tron quattro 
+mercedes suv 
+mini 
+bmw 
+jaguar pace 
+battery 
+year size kwh 
+epa range epa range 
+miles 
+curb 
+weight 
+kwh 
+tbc 
+tbc 
+competitive 
+competitive 
+source company data cleantechnica automotive news morgan stanley research italics denote data unconfirmed the company epa 
+all else equal sic could reduce component cost 
+estimates battery pack costs vary typically see expectations between and 
+kwh the early although our chemicals colleagues now see kwh 
+comfortably achievable the early this implies total battery pack 
+cost between and taking total component costs well above traditional 
+internal combustion engine cars assuming only that battery using sic power 
+electronics could achieve the same range battery without clearly costs 
+could come down substantially saving per car far seems that sic not 
+widespread even orders for evs with three year time lag between orders and 
+start production the auto industry clearly any sic cost savings will post 
+the earliest however this coincides with our expectations for penetration ramp 
+between and based oems model launch plans our tech colleagues 
+expect total system cost for sic the same today systems despite higher chip 
+costs haven flexed our assumptions for the hybrid powertrain here electric 
+motor inverter converter charger wiring 
+exhibit sic could reduce the component cost contributing evs approaching cost parity 
+global supplier comps 
+exhibit global auto supplier comps 
+company 
+price 
+jun 
+price target 
+rating 
+market cap 
+eps 
+eps growth rate 
+consensus eps 
+dividend 
+yield 
+ebitda 
+sales 
+fcf yield 
+europe 
+autoliv 
+bertrandt 
+continental 
+edag engineering 
+elring klinger 
+faurecia 
+gkn 
+hella hueck 
+plastic omnium 
+schaeffler 
+gestamp 
+valeo 
+europe weighted average 
+north america 
+american axle 
+borgwarner inc 
+dana 
+delphi 
+lear 
+meritor 
+tenneco 
+north america weighted average 
+japan 
+aisin seiki 
+calsonic kansei 
+denso 
+exedy 
+keihin 
+koito mfg 
+nhk spring 
+nok 
+stanley electric 
+takata 
+toyoda gosei 
+toyota boshoku 
+toyota industries 
+japan weighted average 
+china 
+minth group limited 
+fuyao glass 
+huayu automotive 
+weifu high tech 
+lingyun industrial 
+china weighted average 
+korea 
+hyundai mobis 
+mando corp 
+korea weighted average 
+india 
+exide industries 
+india weighted average 
+global weighted average 
+source thomson reuters morgan stanley research estimates 
+exhibit european autos comps 
+source thomson reuters morgan stanley research estimates 
+disclosure section 
+morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the prudential 
+regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial services and 
+markets act research which has been prepared any its affiliates used this disclosure section morgan stanley includes rmb morgan 
+stanley proprietary limited morgan stanley international plc and its affiliates 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report victoria 
+greer harald hendrikse francois meunier charles webb 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+may morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research daimler europcar groupe faurecia psa peugeot citroen schaeffler 
+within the last months morgan stanley managed managed public offering offering securities bmw gestamp automocion 
+within the last months morgan stanley has received compensation for investment banking services from autoliv bmw gestamp automocion psa 
+peugeot citroen renault volkswagen 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from autoliv bmw continental 
+daimler europcar groupe faurecia gestamp automocion hella kgaa hueck michelin psa peugeot citroen renault schaeffler 
+valeo volkswagen volvo 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from autoliv bmw 
+continental daimler renault schaeffler volkswagen volvo 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company autoliv bmw continental daimler europcar groupe faurecia gestamp automocion hella kgaa hueck 
+michelin psa peugeot citroen renault schaeffler valeo volkswagen volvo 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company autoliv bmw continental daimler edag 
+engineering group psa peugeot citroen renault schaeffler valeo volkswagen volvo 
+morgan stanley llc makes market the securities autoliv 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+june 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities autoliv bmw continental daimler 
+psa peugeot citroen renault schaeffler valeo volkswagen 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the following companies business countries which are generally subject comprehensive sanctions programs administered enforced the 
+department the treasury office foreign assets control ofac and other countries and multi national bodies renault 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage autos shared mobility 
+company ticker 
+rating 
+price 
+skr 
+harald hendrikse 
+bmw bmwg 
+daimler daign 
+edag engineering group 
+europcar groupe eucar 
+psa peugeot citroen peup 
+renault rena 
+volkswagen vowg_p 
+volvo volvb 
+victoria greer 
+autoliv alv 
+continental cong 
+faurecia eped 
+gestamp automocion gest 
+hella kgaa hueck hle 
+michelin micp 
+nokian tyres plc 
+schaeffler sha_p 
+valeo vlof 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

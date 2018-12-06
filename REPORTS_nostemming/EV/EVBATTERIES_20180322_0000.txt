@@ -1,0 +1,903 @@
+march gmt 
+batteries 
+cathode evolution what are the 
+risks from new capacity 
+the revolution attractive growth story but see 
+risk ignoring the evolving supply story explore the 
+competitive landscape and potential disruption that cathode 
+capacity additions could have current market dynamics 
+with all the cell components the cathode material market expected grow 
+meaningfully the coming years from demand acknowledging this attractive 
+outlook also examine the supply side risks from significant extra capacity 
+technology improvements and increasingly competitive production backdrop 
+cathode capacity additions look set accelerate materially since 
+june have identified significant number additional cathode 
+ncm nca capacity projects come online between and well 
+new entrants most notably sinochem this capacity wave combined with the 
+technology evolution cathode toward higher energy density materials less 
+cathode but more kwh could have significant impact industry utilisation 
+and turn challenge industry price discipline this similar what have 
+seen the separator market this year where prices are down between 
+depending grade consequence material capacity increases 
+china strategic investment evs should not overlooked near term china 
+will make over demand for evs and battery capacity globally china 
+aspiration the global leader proliferates throughout the whole supply 
+chain and the cathode market exception chinese producers technical 
+competence continues progress with many players now providing material 
+korean and japanese battery manufacturers while investment scale continues 
+accelerate cathodes well raw material refining 
+could the market demand cast eye out the 
+market dynamics appear more challenging even under the more bullish our 
+scenarios where demand pulled forward and supply lags 
+significant capacity ramps ncm nca cathode capacity being front loaded 
+build out capacity for future demand even our most bullish scenario 
+this could still see supply demand similar position that seen 
+fast growth industries solar electronics the past 
+how play the opportunity given our concerns around the risk cathode 
+materials commoditise with associated price deflation believe investors 
+should ascribe greater value those companies investing the development 
+future materials where valuations don yet reflect the potential upside johnson 
+matthey rather than those investing large scale capacity today where 
+valuations not appropriately discount the risks commoditisation umicore 
+which have explored more detail separate report 
+morgan stanley international plc 
+charles webb 
+equity analyst 
+charlie webb morganstanley 
+paul walsh 
+equity analyst 
+paul walsh morganstanley 
+alexandra thrum 
+research associate 
+alexandra thrum morganstanley 
+morgan stanley asia limited 
+jack 
+equity analyst 
+jack morganstanley 
+andy meng cfa 
+equity analyst 
+andy meng morganstanley 
+morgan stanley international plc seoul 
+branch 
+kyle kim 
+equity analyst 
+kyle kim morganstanley 
+chemicals 
+europe 
+industryview 
+line 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+cathode materials not discounting the risks 
+how does our view the cathode material market differ from consensus while 
+not dispute the volume growth expected evs and therefore for battery materials 
+question whether the supply chain risks are being appropriately discounted the 
+market this was never more apparent than umicore recent success raising 
+additional capital modest discount last close price invest 
+into additional cathode material capacity this note examine some the risks 
+well exploring number scenarios how this may play out 
+key questions 
+are cathode materials commodity 
+can china become the global market leader 
+when will supply expansions become visible the market 
+are cathode materials commodity 
+believe for the most part oems intend dual source some instances trisource cathode materials the market develops and see this evidence the 
+substantial fungibility cathode materials this even visible the kwh 
+vehicles using the same generation battery materials today believe differentiation 
+between the producers not based access technology but instead focuses 
+the production process quality control and the availability and quality input 
+materials don see any these longstanding barriers the industry rapidly 
+industrialises most apparent china 
+what are cathode materials how you produce them 
+cathode active materials are one the three main chemical elements dictating the 
+properties and performance battery cell along with the anode and 
+electrolyte the cathode facilitates the charge discharge process battery 
+therefore depending the materials used will influence properties such 
+energy density kwh power density cost kwh safety and 
+cyclability 
+simplistically put the production process involves grinding the various metal salt 
+precursors before compressing and baking these materials large ovens high 
+temperatures reality more complicated ensure the quality the 
+material and account for additional alterations the materials such coating 
+and doping 
+exhibit cathode active material production process 
+source journal power sources vol pages 
+lower energy dense materials commoditise first would expect lower energy 
+dense materials commoditise initially given the material stability safety cyclability 
+less concern for commercial applications however are seeing increasing 
+competition with each step along the technology roadmap ncm 
+with some producers repurposing skipping entirely the production less 
+energy dense materials ncm based our channel checks expect significant 
+mix shift ncm cathode materials this year with significant capacity 
+addition either having ramped the end ramping now 
+ncm next given increasing concerns over cobalt the industry looking 
+accelerate the adoption ncm which has the potential greatly reduce the cost 
+improve performance and importantly reduce the oem risk over cobalt availability 
+although the roadmap clear there are still technological challenges 
+manage optimise produce these higher energy dense materials today making unclear 
+whether they will produced scale near term however note that leading 
+chinese cathode producers have now ramped pilot scale plants ncm with their 
+materials undergoing the final testing phase with view ramping ncm 
+batteries 
+exhibit ion cathode material demand type 
+lfp lmo other cathode material 
+nmc cathode material 
+nca cathode material 
+cagr 
+exhibit nmc technology penetration adoption rates 
+source morgan stanley research estimates 
+source morgan stanley research estimates 
+the recent iea battery workshop attended see key takeaways here byd noted that 
+they expected producing material volumes ncm batteries years pilot 
+scale volumes ncm material are expected this year finalise qualification for 
+batteries that will used models the company acknowledged that this 
+tight window but stressed the industry focus make the shift given concerns over 
+cobalt availability and price believe the consensus view for materially later 
+adoption period and slower rate 
+technology and innovation may demand premium but what base the rate 
+innovation will crucial staying one step ahead commoditisation but there may 
+near term technology ceiling for ion are concerned that current cathode 
+materials ncm and even next generation ncm materials will 
+commoditise rapid pace given the level market competition and intended 
+expansion plans while would expect the technology leaders best placed 
+push the technology boundaries existing materials there risk that current ion 
+technology will reach ceiling where the incremental performance improvements 
+longer justify the cost 
+possible technology disruptors 
+solid state lithium this often perceived the natural progression current liion batteries with the ability store twice the energy although there are some 
+concerns over the loading capabilities and production costs ion solid state 
+batteries continue use current cathode materials but typically replace the 
+anode with lithium and use solid electrolyte limitations include material 
+degradation the anode short cycle life and poor thermal operating range 
+fuel cells the increased focus evs has raised interest fuel cells again fuelcell vehicles typically run off hydrogen and while range and power are less 
+limitation the infrastructure build out remains the greatest hurdle material 
+limitations include fuelling infrastructure and energy efficiency liquifying 
+hydrogen transportation 
+lithium sulphur lithium sulphur often cited the long term solution given its 
+very high specific energy about three times that conventional 
+lithium ion battery the other advantages are the relatively low cost raw 
+materials specific power density and good cold temperature 
+discharge characteristics well low temperature charging 
+limitations include material degradation low cycle life and self discharge 
+high voltage lithium ion much research going into next generation ion 
+increase the operational voltage and therefore energy density while not 
+compromising the stability the cathode material this includes alternate 
+material structures olivine spinel and material doping increase stability 
+higher voltages limitations include reduced cyclability and material degradation 
+high voltages 
+lithium air lithium air believed offer the energy density 
+conventional ion battery the theoretical specific energy lithium air 
+would par with gasoline fuelled vehicle widely 
+acknowledged least years from commercialisation and only some 
+the material challenges can overcome limitations include material degradation 
+due air purity short cycle life and poor thermal operating range 
+and many others 
+where could wrong the supply side believe that cathode materials will 
+not commoditise think you have assume that chinese cathode producers are not 
+able obtain quality raw materials advance their production equipment and 
+processes and prove quality and consistency finished product the other side 
+the equation demand could simply continue outrun supply 
+can china become the global market leader 
+evs are strategic importance china china intends continue lead the global 
+revolution given three strategic pillars improving china competitiveness the 
+global auto industry market addressing inner city emission concerns and 
+reducing reliance oil imports improve self sufficiency the ade china 
+blueprint clearly details china intention the global leader across the complete 
+supply chain targets that battery systems and drive systems will reach 
+international advanced standards and that china will export battery 
+systems and drive systems scale self owned brand and 
+plugged nev sales should reach million units holding the domestic market 
+with large proportion near term vehicle growth coming from china expect 
+this support the domestic evolution and investment the complete supply chain 
+exhibit chinese government subsidy policy 
+item 
+recharge 
+milage 
+china national subsidy 
+standards cny 
+china national subsidy 
+standards cny 
+change 
+source mof morgan stanley research 
+china investment ncm surprise given material battery capacity expansion 
+and incentive changes chinese ncm cathode material producers are building out 
+capacity line with china battery makers which could substantially loosen 
+supply demand dynamics and lead meaningful fall utilisation and drive price 
+deflation expect meaningful shift the production ncm batteries 
+china given the latest incentives focus range further mix shift then 
+expected years ncm with pilot scale volumes produced this year 
+finalise the qualification process 
+exhibit nmc nca materials have become the materials choice due higher energy 
+density 
+source evvolumes cleantechnica 
+chinese producers should not overlooked large portion capacity additions 
+coming from chinese producers and many investors have questioned the viability this 
+new capacity but believe should not ignored believe china sees the 
+potential achieving global leadership plug hybrid vehicles and has been 
+moving build its own supply chain centred lithium ion batteries and other 
+components support the industry the strong growth china recent years has 
+seen many cathode material producers change their focus from portable electronics 
+the high growth market identify easpring shanshan xtc reshine jinhe the 
+current leaders nmc technology with sales domestic and global customers 
+exhibit announced ncm nca capacity additions between now and 
+cathode 
+ncm 
+ncm 
+ncm 
+ncm 
+type 
+basf toda capacity 
+capacity expansion 
+capacity expansion estimated capacity 
+ncm 
+ncm 
+tba 
+tbc 
+jmat capacity 
+capacity expansion 
+elno 
+sumitomo capacity 
+capacity expansion 
+debottlenecking 
+nca 
+nca 
+nca 
+chem capacity 
+capacity expansion 
+debottlenecking 
+ncm 
+ncm 
+ncm 
+shanshan capacity 
+capacity expansion 
+capacity expansion 
+capacity expansion 
+capacity expansion 
+ncm 
+ncm 
+ncm 
+ncm 
+ncm 
+easpring capacity 
+easpring capacity 
+jiangsu easpring phase 
+jiangsu easpring phase 
+jiangsu easpring phase 
+jiangsu easpring phase iii 
+capacity expansion intended 
+ncm 
+ncm 
+ncm 
+ncm 
+ncm 
+ncm 
+ncm 
+reshine capacity 
+capacity expansion zhejiang golden eagle 
+capacity expansion 
+ncm 
+ncm 
+ncm nca 
+mostly 
+mostly 
+jinhe capacity 
+capacity expansion hubei phase 
+capacity expansion hubei phase 
+capacity expansion zunyi guizhou province 
+ncm 
+ncm 
+ncm 
+xiamen tungsten capacity 
+capacity expansion 
+capacity expansion 
+ncm 
+ncm 
+ncm 
+tbc 
+tbc 
+gem capacity 
+capacity expansion 
+ncm 
+ncm 
+tbc 
+zhenhua chem capacity 
+capacity expansion 
+capacity expansion 
+ncm 
+ncm 
+ncm 
+tbc 
+tbc 
+umicore capacity 
+capacity expansion 
+capacity expansion 
+capacity expansion 
+size 
+commission date 
+late 
+late 
+end 
+beyond 
+beyond 
+jan 
+jun 
+jan 
+end 
+end 
+end 
+mar 
+end 
+end 
+end 
+end 
+end 
+between 
+end 
+end 
+end 
+source company announcements vehicle trend morgan stanley research 
+recent chinese cathode producer announcements 
+china sinochem corp has announced its intention invest battery materials 
+statement the shanghai stock exchange sinochem announced that 
+intends invest via its owned subsidiary jiangsu ruisheng new materials 
+technology into number projects produce raw materials for lithium ion 
+batteries this includes project china ningxia province that would produce 
+tonnes year high quality nickel materials for battery cathodes there 
+also separate project add synthetic graphite for anodes 
+ningbo shanshan intends invest add cathode material 
+capacity shanshan announced that will increase investment additional 
+capacity both anode and cathode materials shanshan intends invest 
+build new lithium ion cathode material plant baotou inner 
+mongolia autonomous region construction expected finish next year after 
+which the facility will output tons battery cathode materials annually 
+easpring launches pilot scale ncm plant easpring currently has tons 
+and tons annual capacity ncm and ncm respectively which 
+increased tons and tons respectively the second half 
+part that second wave expansion the company completed its pilot plant 
+ncm source vehicle trend 
+jinhe ramps focus high nickel cathode materials ningbo jinhe lithium 
+battery materials said seminar that the company was producing ncm and 
+nca materials scale with total capacity tons jinhe reportedly has 
+built fully automatic production line tons for high nickel products its 
+hubei plant phase and intends achieve capacity tons 
+source vehicle trend 
+xiamen tungsten ltd enters add nickel rich cathode 
+materials xiamen tungsten ltd xtc has tied with fujian mindong 
+electric power ltd establish joint venture that capable annual 
+capacity tons high nickel materials 
+tianli energy launches high nickel ncm pilot scale plant aug 
+tianli energy announced that had launched pilot scale test plant for high 
+nickel ternary and nca materials these will used the company improve 
+its manufacturing technique and will send samples leading lithium battery 
+makers 
+source company announcements vehicle trend 
+where could wrong china unable tackle the production challenges 
+higher energy dense materials for use commercial battery applications struggle 
+get product market given approval cycles then domestic chinese capacity could end 
+being under utilised 
+when will this supply visible the market with what 
+impact 
+supply additions pose risks market its infancy while supply additions will 
+needed market forecast grow cagr the level 
+fragmentation and rate proposed capacity expansion pose risk price discipline 
+believe that current nmc nca cathode producers will front load capacity additions 
+with the aim building out capacity for future demand recent 
+announcements from market participants suggest that this already under way 
+reflecting something similar what has been seen fast growth industries 
+solar electronics the past 
+exhibit global ncm nca cathode material supply looks set accelerate meaningfully 
+others 
+ecopro 
+chem 
+pulead 
+reshine 
+jinhe 
+gem 
+zhenhua chem 
+tianli energy 
+xtc xiamen tungsten 
+easpring 
+shanshan 
+nichia 
+sumitomo 
+basf toda 
+umicore 
+source morgan stanley estimates based company announcements 
+could the market oversupplied there much debate around the timing 
+both demand and supply given the rapid rate demand growth and long approval 
+and product cycles the automotive industry terms demand believe that the 
+infancy the market and significant ramping capacity throughout the supply chain 
+means demand has likely been pulled forward account for workin capital build 
+and inventory stocking supply the other hand more difficult calibrate given 
+closely linked specific auto platform launches below model various scenarios and 
+their potential impact utilisation rates 
+exhibit ncm nca cathode market shares 
+pulead 
+ecopro others 
+chem 
+reshine 
+jinhe 
+gem 
+zhenhua chem 
+tianli energy 
+xtc xiamen 
+tungsten 
+easpring 
+exhibit ncm nca cathode market shares 
+chem 
+umicore 
+ecopro others umicore 
+pulead 
+basf toda 
+shanshan 
+nichia 
+source company announcements morgan stanley research estimates 
+sumitomo 
+reshine 
+jinhe 
+gem 
+zhenhua chem 
+xtc xiamen 
+tianli energy 
+tungsten easpring 
+basf toda 
+sumitomo 
+nichia 
+shanshan 
+source company announcements morgan stanley research estimates 
+exhibit scenario nameplate supply demand unchanged 
+supply 
+demand 
+implied nameplate utilisation 
+source morgan stanley research estimates 
+exhibit scenario pull forward demand versus lagged supply 
+source morgan stanley research estimates 
+exhibit scenario pull forward demand versus lagged supply 
+source morgan stanley research estimates 
+improvement energy density compounds the oversupply risk believe the industry 
+shifting quicker than many expect nickel rich materials ncm which 
+increasingly consistent with the message from automotive oems both europe 
+daimler and china byd example moving from ncm ncm 
+would see energy density the cathode improve from 
+improvement this means additional future capacity will supply more kwh than has 
+been seen historically similarly there will the potential for meaningful 
+debottlenecking from existing assets 
+chinese market dynamics differ europe and north america 
+china set make installed gwh demand playing 
+central role unlike the korean and japanese battery manufacturers the chinese 
+producers renegotiate cell component pricing each year this important because 
+increases market transparency around pricing also allows for greater 
+competition between producers which turn could lead deflation the most 
+recent evidence for this has been separators where sizeable capacity additions 
+from shanghai semcorp have led price decreases 
+depending the various grades they looked take market share and 
+fill this additional capacity 
+umicore has been very clear regards the market tightness experienced 
+which consistent with our models also likely remain tight least 
+the first half the year and think most likely support umicore pulled forward 
+guidance however look out into the market dynamics appear more 
+challenging even under our more bullish assumptions significant capacity ramps 
+ncm nca cathode capacity being front loaded with the aim build out capacity for 
+future demand which our bullish assumptions could see supply 
+this reflects something similar what has been seen fast growth industries 
+solar electronics the past 
+appendix 
+exhibit battery industry value chain 
+source morgan stanley research 
+global fleet penetration and battery demand set accelerate 
+exhibit our auto team bull bear and base case bev penetration forecasts 
+exhibit global powertrain sales mix forecasts 
+global powertrain mix sales units 
+base fleet penetration 
+bull fleet penetration 
+battery 
+bear fleet penetration 
+hybrid plug 
+hybrid 
+mild hybrid 
+diesel 
+petrol 
+source ward acea caam morgan stanley research estimates from onwards 
+source ward acea caam morgan stanley research estimates from onwards 
+exhibit increased bev penetration accelerate battery capacity demand gwh 
+exhibit average battery capacity kwh per bev rise gradually given regional mix dynamics 
+bus 
+bev 
+phev 
+north america 
+hev 
+europe 
+asia row 
+bev global average 
+source sne research morgan stanley research estimates 
+source sne research morgan stanley research estimates 
+china make global bev demand over the near medium term 
+exhibit china set the global leader bev vehicle sales units 
+exhibit with over bev vehicle sales units 
+other 
+india 
+japan 
+europe 
+usa 
+korea 
+china 
+latam 
+europe 
+india 
+korea 
+other 
+japan 
+latam 
+europe 
+europe 
+usa 
+china 
+source acea company data morgan stanley research estimates 
+source acea company data morgan stanley research estimates 
+exhibit similarly china will make battery capacity demand gwh 
+exhibit china also set the global leader phev vehicle sales units 
+row 
+row 
+china 
+south korea 
+india 
+china 
+lat 
+europe 
+source company data morgan stanley research estimates 
+europe 
+source acea company data morgan stanley research estimates 
+technology roadmap 
+approximate commercial energy density and material requirements for current ternary materials 
+commercialspecific capacity mah 
+average voltage 
+energy density cathode material 
+cathode weight kwh 
+nickel kwh 
+cobalt kwh 
+manganese kwh 
+aluminium kwh 
+lithium kwh 
+ncm 
+ncm 
+ncm 
+ncm 
+nca 
+aluminium kwh 
+cobalt kwh 
+manganese kwh 
+nickel kwh 
+lithium kwh 
+ncm 
+ncm 
+ncm 
+ncm 
+nca 
+source company data morgan stanley research estimates 
+cathode technology evolution and implications for metal demand per kwh 
+exhibit expect mix shift towards more energy dense ternary materials 
+exhibit which will lead decrease lithium intensity per kwh while nickel content should rise 
+manganese 
+cobalt 
+nickel 
+lithium 
+source morgan stanley research estimates 
+source morgan stanley research estimates 
+exhibit ncm materials shift nickel rich varieties 
+exhibit this evolution ncm technology has material implications for metal demand per kwh 
+manganese kwh 
+cobalt kwh 
+nickel kwh 
+lithium kwh 
+source morgan stanley research estimates 
+source morgan stanley research estimates 
+glossary terms 
+bev battery electric vehicle which for the purpose this report relate passenger vehicles 
+phev plug hybrid electric vehicle 
+hev hybrid electric vehicle 
+unit electrical energy equivalent power consumption one watt for one hour one watt hour 
+joules multiplying battery voltage the rated capacity gives the battery energy 
+cathode materials electrode electrochemical cell which reduction takes place absorbing electrons 
+during discharge the cathode positive reverse charge 
+ncm lithium ion cathode with nickel manganese and cobalt 
+nca lithium ion cathode with nickel aluminium and cobalt 
+specific capacity density electrical energy battery ampere hours the stored energy measured 
+observing the elapsed time while discharging constant current the end discharge voltage the 
+capacity the leading health indicator battery 
+commercial voltage battery thresholds charge and discharge 
+energy density also known volumetric energy density specifies the amount energy cell can hold 
+volume energy density synonymous with the runtime battery 
+specific energy also known gravimetric energy density indicates the amount energy cell contains 
+weight relates battery capacity governs runtime 
+cycle life number cycles battery can deliver 
+lce lithium carbonate equivalent the form that lithium contents and prices are most commonly quoted 
+source morgan stanley research battery university 
+jmat 
+valuation thesis our price target the blended average our dcf wacc terminal growth 
+same assumptions ddm coe and sotp using average peer multiples valuations 
+upside risks strength ldv production more tightening emission regulation strength pgm prices strengthening usd 
+and new product launches and hybrid growth 
+downside risks negative mix developments diesel losing share evs weakening usd softer global car production pricing 
+pressure weaker pgm prices and increasing competition 
+umi 
+valuation thesis our price target based the average dcf wacc growth same assumptions 
+dcf ddm coe sotp using peer group ebitda multiples and tam analysis valuations 
+upside recovery minor metal pricing euro depreciation share gains autocatalyst hdd and ldv and cathode materials 
+accelerated penetration further metal recycling legislation 
+downside decline metal pricing headwinds loss share autocatalysts hdd and ldv and cathode materials slower 
+growth battery technology shift fierce feedstock competition recycling 
+disclosure section 
+morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the prudential 
+regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial services and 
+markets act research which has been prepared any its affiliates used this disclosure section morgan stanley includes rmb morgan 
+stanley proprietary limited morgan stanley international plc and its affiliates 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report kyle kim 
+jack andy meng cfa paul walsh charles webb 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+february morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research arkema covestro dsm linde victrex 
+within the last months morgan stanley managed managed public offering offering securities covestro 
+within the last months morgan stanley has received compensation for investment banking services from lanxess linde 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from air liquide akzo nobel 
+arkema basf clariant covestro croda dsm evonik industries johnson matthey lanxess linde phosagro oao sabic 
+solvay synthomer plc umicore wacker chemie yara asa 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from akzo nobel 
+basf clariant dsm evonik industries johnson matthey lanxess linde sabic solvay synthomer plc umicore 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company air liquide akzo nobel arkema basf clariant covestro croda dsm evonik industries johnson matthey 
+lanxess linde phosagro oao sabic solvay synthomer plc umicore wacker chemie yara asa 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company akzo nobel basf clariant croda dsm evonik 
+industries johnson matthey lanxess linde sabic solvay synthomer plc umicore 
+within the last months affiliate morgan stanley llc has received compensation for products and services other than investment banking 
+services from covestro 
+morgan stanley llc makes market the securities lanxess 
+morgan stanley international plc corporate broker croda 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+february 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months due rounding off decimals the percentages provided the total column may not add exactly 
+percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+stock price price target and rating history see rating definitions 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities air liquide akzo nobel basf clariant 
+covestro dsm lanxess linde solvay 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage chemicals 
+company ticker 
+rating 
+price 
+sar 
+sar 
+sar 
+sfr 
+nkr 
+charles webb 
+johnson matthey jmat 
+synthomer plc synts 
+umicore umi 
+victrex vctx 
+muneeba kayani 
+industries qatar iqcd 
+phosagro oao phorq 
+sabic 
+safco 
+yansab yanbu national petrochemical 
+paul walsh 
+air liquide airp 
+akzo nobel akzo 
+arkema ake 
+basf basfn 
+clariant cln 
+covestro 
+croda crda 
+dsm dsmn 
+evonik industries evkn 
+sdfgn 
+lanxess lxsg 
+linde ling 
+solvay solb 
+wacker chemie wchg 
+yara asa yar 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

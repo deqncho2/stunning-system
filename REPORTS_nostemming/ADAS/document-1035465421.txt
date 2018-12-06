@@ -1,0 +1,3362 @@
+july 
+asia pacific japan 
+equity research 
+auto auto parts electronic 
+components sector 
+connections series 
+automotive technology insights electrification 
+automation informatization vol electrification 
+figure electronics market set grow 
+billion yen 
+the credit suisse connections series 
+leverages our exceptional breadth 
+macro and micro research deliver 
+incisive cross sector and cross border 
+thematic insights for our clients 
+auto electrical components market lhs 
+phv fcv ratio rhs 
+source jsae credit suisse 
+research analysts 
+masahiro akita 
+masahiro akita credit suisse 
+akinori kanemoto 
+akinori kanemoto credit suisse 
+hideyuki maekawa 
+hideyuki maekawa credit suisse 
+shunsuke tsuchiya 
+shunsuke tsuchiya credit suisse 
+yoshiyasu takemura 
+yoshiyasu takemura credit suisse 
+summary three major trends currently dominate automotive technology 
+electrification automation and informatization here present the findings 
+cross sector survey conducted explore current developments within these 
+three areas including automotive sector supply chain trends well the 
+activities increasingly critical major suppliers the electronic components 
+general electrical equipment and consumer electronics industries this report 
+the first installment series focuses electrification 
+key points the growth the use electronics automobiles irreversible 
+the main areas activity can broadly divided into electrification the power 
+train and electrification auxiliary devices achieve linear control and 
+enhanced responsiveness expect the automotive electronics market grow 
+from about now this will driven large part rise 
+the weighting hevs pcevs evs and fcevs which will involve power 
+train electrification the ability tap into this rapid growth the automotive 
+electronics market will likely key determinant the mid long term earnings 
+prospects both automotive and non automotive suppliers alike 
+top picks related automotive electronics 
+autos toyota honda 
+automotive components denso aisin seiki toyota industries 
+electronic components nidec tdk japan aviation electronics 
+industry murata manufacturing 
+general electrical equipment hitachi toshiba 
+consumer electronics panasonic 
+disclosure appendix the back this report contains important disclosures analyst 
+certifications and the status non analysts disclosure credit suisse does and seeks 
+business with companies covered its research reports result investors should aware that the firm may have 
+conflict interest that could affect the objectivity this report investors should consider this report only single factor 
+making their investment decision 
+credit suisse securities research analytics 
+beyond information 
+client driven solutions insights and access 
+july 
+table contents 
+electrification automation and informatization 
+automotive technology trends mainly three fields 
+automotive sector environment 
+vehicle commoditization automaker convergence creating winner takes all conditions 
+for suppliers 
+electronic components tech sector environment 
+post automotive products 
+electrification 
+ideal approach for engine load reduction and linear control 
+share prices and valuations 
+implications electronics related trends for automakers and manufacturers auto 
+parts and electronic components 
+electrification powertrains 
+environmental regulations the driving force behind recent automotive technologies 
+hev phev fcev market 
+stricter environmental standards supporting continued growth hev phev fcev 
+market 
+automakers ramping hev phev fcev rollout 
+the evolution the toyota prius 
+analysis hev phev market 
+prius model comparison generation 
+full scale global rollout toyota promising ths 
+analysis hev phev economics 
+fcevs next generation driver 
+categorization hev phev fcev systems 
+the shift toward electrification powertrains products and suppliers 
+electrification auxiliary components 
+increasing use onboard motors 
+device rich systems ecus expanding 
+shift automotive electronics from mlcc market perspective 
+automaker sales weighting might surpass 
+semiconductors 
+appendix 
+auto auto parts electronic components sector 
+july 
+electrification automation and 
+informatization 
+automotive technology trends mainly three fields 
+series cross sector reports connected electronics automation and 
+informatization 
+trends automotive technology are increasingly focused the three areas 
+electrification automation and informatization offering ways boost environmental 
+performance and enhance user safety and comfort addition researching these three 
+areas automotive technology are conducting cross sector research aimed 
+highlighting the important trends within automotive supply chains while focusing 
+specific individual stocks the sectors such electronic components electronic 
+equipment and consumer electronics that are playing critical roles automotive 
+technology plan produce series cross sector connections reports examine 
+sectors relating the three growth areas electrification automation and informatization 
+they are applied the automotive field this report look the increasing 
+adoption motors and electronic components 
+delivering increased environmental performance safety and comfort 
+vehicles typically consist parts all which are designed deliver the 
+environmental performance safety and comfort demanded either users automakers 
+the evolution automobiles can viewed terms the continuous improvement the 
+various systems and modules that make the powertrain drivetrain brake and chassis 
+and body exterior and interior the vehicle deliver increased levels satisfaction for 
+these three elements 
+delivering user satisfaction becoming increasingly complex challenge however due 
+the impact rapid globalization the auto sector which has led diverse range 
+requirements alongside increasingly strict laws and regulations automakers are focusing 
+the areas electronics automation and informatization potential ways delivering 
+higher levels user satisfaction under complex conditions powertrain electrification 
+expressed hybrid electric and fuel cell vehicles hevs pcevs evs fcevs 
+expanding market the growth wire technologies also leading ongoing 
+adoption electronic devices optimize vehicle control addition are now entering 
+phase mass adoption active and passive safety technologies the 
+communications field researchers are starting focus new technologies 
+realize electronic communications between vehicles between the vehicle and road 
+surface 
+non automotive sector supplying high value added products three fields 
+automotive supply chains the value added specific parts systems and modules 
+that exerting the major influence technical trends the key value creators and drivers 
+these trends are the companies capable supplying parts systems and modules vital 
+the increasing use electronics automation and informatization automakers the 
+value added via these three trends grows electronic component electronic equipment 
+and consumer electronics players within other non automotive sectors are seeing their 
+scope operations increasingly encroach into the automotive sphere this almost selfevident given the increasing adoption computers sensors and motors passenger 
+vehicles see non automotive sector players leading some the shift auto related 
+technical value creation which turn likely generate increasing growth potential from 
+auto related operations for such companies 
+auto auto parts electronic components sector 
+july 
+automotive sector environment 
+vehicle commoditization automaker convergence 
+creating winner takes all conditions for suppliers 
+commoditization driven qcd convergence inevitable 
+the trends driving vehicle commoditization are relentless the result greater uniformity 
+qcd quality cost delivery terms the old days large automakers were said 
+the million unit club nowadays though volume automakers need producing 
+least vehicles annually support medium long term growth potential within 
+rapidly globalizing sector automakers need gain scale and inject resources into markets 
+with high growth potential the pre globalization car market was based competition for 
+the regional markets japan the and europe but today all the major automakers 
+are engaged many fronted war grab share the emerging markets china india 
+and asean alongside existing major markets the result greater convergence between 
+automakers terms the mix regional sales well the related model mix 
+increasing technical convergence with adoption open architecture 
+automakers increasingly rely suppliers automotive technology advances the 
+same time vehicle manufacturers are undeniably dependent range automotive 
+technologies open architecture steadily being adopted suppliers possess many the 
+core technologies involved the use electronics automation and informatization 
+implying these technologies are tending become black box solutions far the 
+automakers are concerned moreover automakers china and other developing 
+countries strive close the technical gap developed country rivals have option but 
+seek the cooperation suppliers advanced technologies many which now possess 
+global footprint yet since any automaker can develop vehicles with passable technical 
+characteristics provided they gain the cooperation the suppliers this also the single 
+most important factor driving technical convergence between automakers 
+figure current per vehicle sales prices costs and sales 
+figure global automakers cannot avoid future 
+volumes for automakers 
+convergence even with increasing scale 
+asv million yen 
+asv million yen 
+mass makers 
+premium makers 
+low 
+cost 
+makers 
+acv million yen 
+source company data credit suisse 
+acv million yen 
+source company data credit suisse 
+declining mean and standard deviation for automakers rates sales growth 
+the historical sales growth data provide real evidence the increasing qcd convergence 
+between automakers and the related outcome commoditization plot the average 
+rate sales growth the mean during leading automakers toyota 
+nissan and honda from japan and ford from the daimler bmw volkswagen 
+renault and psa citroen from europe and hyundai and kia south korea find that 
+the average rate growth and its standard deviation have been falling express 
+another way vehicle commoditization and qcd convergence have made increasingly 
+auto auto parts electronic components sector 
+july 
+difficult for automakers gain any overwhelming technical superiority over rivals which 
+turn has prevented companies from gaining sector dominance terms market share 
+earnings growth 
+rising standard deviation for automotive parts suppliers sales growth rates points 
+emergence winner takes all sector characteristics 
+conversely analysis the sales growth rates automotive components suppliers shows 
+different trend over the same period plot the average rate sales growth the 
+mean during leading suppliers based the automotive news global 
+supplier ranking denso continental aisin seiki magna international hyundai mobis 
+johnson controls faurecia trw automotive delphi automotive valeo lear and toyota 
+boshoku find that the average rate growth has been gradually falling but the 
+standard deviation has been increasing think this result evidence that the sector 
+has steadily been gaining winner takes all characteristics over time whilst the differential 
+between the rates sales growth for the fastest growing and slowest growing suppliers 
+this group was only this had increased 
+winner takes all conditions linked capabilities electrification automation and 
+informatization 
+the automakers have been converging the individual differences between automotive 
+components suppliers have been increasing steadily the sector gained winner takes all 
+characteristics some companies have consistently grown sales transforming into auto 
+parts mega suppliers with portfolios products covering particular high value added fields 
+such electronics automation and informatization while the others that have failed 
+diversify out conventional product areas have seen sales growth dwindle over time 
+technical mastery areas such electrification automation and informatization where 
+automakers have become increasingly reliant has enabled the former group suppliers 
+reap the rewards the ability add significant value using technology whereas the 
+latter group have seen prices for their products fall real terms along with the unit cost 
+vehicles due their inability supply components that incorporate high value added 
+technical expertise with growing numbers electronic components electronic equipment 
+and consumer electronics players trying add value the automotive sector through the 
+fields electrification automation and informatization expect conditions for the 
+conventional auto parts suppliers become even tougher 
+figure falling trend for mean sales growth rate 
+figure falling trend for standard deviation sales 
+automakers 
+growth rate automakers 
+linear 
+source thomson reuters credit suisse 
+auto auto parts electronic components sector 
+linear 
+source thomson reuters credit suisse 
+july 
+figure falling trend for mean sales growth rate 
+figure rising trend for standard deviation sales 
+auto parts suppliers 
+growth rate auto parts suppliers 
+linear 
+source thomson reuters credit suisse 
+auto auto parts electronic components sector 
+linear 
+source thomson reuters credit suisse 
+july 
+electronic components tech sector 
+environment 
+post automotive products 
+amid declining hardware sales the accelerating shift toward electrification automation 
+and informatization rapidly expanding companies auto related sales weightings this 
+section analyze and draw forecasts for auto related sales japanese makers 
+devices such electronic components and semiconductors current conditions 
+size the currently struggling hardware market 
+figure shows global shipment value hardware pcs mobile phones and tablet 
+pcs shipment value smartphones and tablet pcs has risen sharply since while 
+shipment value pcs and tvs has declined overall the value the hardware market 
+remains flat the value electronic components shipments closely correlated with 
+hardware shipment value over the past years has been higher excluding 
+memory and some devices for which demand still increasing expect the market 
+for devices supplied makers remain flat 
+figure hardware shipment value flat 
+notebook 
+desktop 
+feature phone 
+tablet 
+smartphone 
+source company data credit suisse estimates 
+auto related operations gaining presence 
+figure shows the sales auto makers major japanese electronic components and 
+semiconductor makers the combined sales major manufacturers came 
+around yoy accounting for around quarter their total sales 
+this amounts around the global auto electronics market value basis 
+the ratio still around excluding the three companies that traditionally have high 
+exposure auto companies ngk spark plug which sells spark plugs sensors etc 
+ibiden diesel particulate filters and alps electric instrument panels doors seat and 
+steering modules while sales auto makers rose sharply yoy sales 
+excluding auto makers rose only yoy 
+auto auto parts electronic components sector 
+july 
+figure products supplied automakers and electronic components semiconductor device makers exposures 
+automakers 
+total sales 
+automotive devices sales 
+yoy chg 
+total 
+code 
+company 
+ibiden 
+products 
+ngk spark plug 
+nidec 
+motor for eps dct eop abs others cvt control valve ecu adas 
+mabuchi motor 
+motor for power window lifters electric parking brakes door lock actuators 
+mirrosrs air conditioning damper head light beam adjustors 
+kyocera 
+alps component 
+instrumental panel module door sheet modules steering module keyless 
+entry components switches volumes bluetooth wifi modules 
+murata 
+mlcc inductors piezo devices bluetooth modules power supply sensor 
+tdk 
+mlcc inductor magnets sensors power supply piezo devices battery 
+taiyo yuden 
+nichicon 
+aluminum electrolytic capacitors power supply charger 
+nippon chemicon 
+aluminum electrolytic capacitors dlcap 
+nippon denpa kogyo 
+koa 
+hirose 
+japan aviation elec 
+iriso elec 
+mitsumi electric 
+dpf non expansion mat 
+spark plugs glow plugs uego tempreture nox sensors cutting tools 
+display cutting tools ceramic parts camera module piezo devices 
+mlcc inductors 
+crystal devices 
+resistors 
+connectors 
+connector resolver touch panel 
+connectors 
+antenna tuner camera module 
+yokowo 
+renesas electronics 
+mcu analog power sic 
+rohm 
+discrete driver analog power eeprom 
+sanken electric 
+nissha printing 
+shinko electric 
+wacom 
+total 
+total excluding ngk spark plug ibiden alps 
+antenna 
+power sensor driver 
+industrial materials touch panels 
+glass sealant leadframe 
+pen tablet display for automotive designer 
+consumer electronics display 
+panasonic 
+japan display 
+sharp 
+note electronics self driving computerization tougher environmental regulations 
+source company data credit suisse estimates 
+sales seven japanese electronic device makers already higher than 
+among individual companies sales seven renesas electronics ngk spark plug tdk 
+alps electric kyocera murata mfg and nidec are already higher than while 
+sales automakers accounted for more than total sales sector 
+companies 
+auto auto parts electronic components sector 
+july 
+figure sales automakers 
+figure companies ranked sales exposure 
+automakers 
+wacom 
+shinko electric 
+taiyo yuden 
+nissha printing 
+kyocera 
+nidec 
+mitsumi electric 
+murata 
+hirose 
+tdk 
+nichicon 
+nippon chemicon 
+rohm 
+ibiden 
+koa 
+japan aviation elec 
+nippon denpa kogyo 
+renesas electronics 
+sanken electric 
+alps component 
+mabuchi motor 
+yokowo 
+iriso elec 
+ngk spark plug 
+wacom 
+shinko electric 
+nissha printing 
+taiyo yuden 
+koa 
+nippon denpa kogyo 
+hirose 
+nichicon 
+yokowo 
+mitsumi electric 
+nippon chemicon 
+iriso elec 
+japan aviation elec 
+sanken electric 
+mabuchi motor 
+rohm 
+ibiden 
+nidec 
+murata 
+kyocera 
+alps component 
+tdk 
+ngk spark plug 
+renesas electronics 
+source company data credit suisse estimates 
+auto auto parts electronic components sector 
+source company data credit suisse estimates 
+july 
+electrification 
+ideal approach for engine load reduction and linear 
+control 
+key applications are powertrain electrification wire and boosting efficiency 
+auxiliary systems 
+electrification automotive parts systems and modules proving relentless broad 
+terms the advantages are linear control and reduction engine load engine load 
+reduction way mitigating dependence the energy produced the engine this 
+area electronic components are being used replace traditional hydraulic other 
+mechanical systems the most developed systems for engine load reduction can found 
+the powertrains used hev fcev vehicles micro hybrids using idling 
+stop systems iss 
+linear control motorized systems also growing continually importance demand 
+increases for parts systems and modules with more advanced specifications the prime 
+example this wire applications that use electrical signals control the throttle 
+brakes steering other linear control applications include using the technology boost 
+the efficiency various types auxiliary components converting pumps air conditioning 
+compressors and other auxiliary parts from mechanical electronic control not only saves 
+the energy produced the engine for use the drivetrain but also enables more efficient 
+control this enhances environmental performance well safety and comfort which 
+think implies that this trend likely persist 
+data confirm expansion market for electronic components 
+can track the long term trends automotive technology using the shipment value data 
+published the japan auto parts industries association japia the trend toward more 
+use electronic components can seen between and the increasing 
+contribution electronics overall auto parts shipment value accounting for just 
+auto parts shipments value electronics had grown note 
+that the other sector registering significant growth drivetrain and steering components 
+body components are the sector that has lost out most noticeably 
+figure relative shipment value electronics has risen significantly the past 
+years 
+information 
+equipment 
+chassis brake 
+drivetrain 
+body 
+electronics 
+engine 
+steering 
+lamps meters 
+electric equipment 
+source japia credit suisse 
+auto auto parts electronic components sector 
+july 
+growth electronic parts market linked structural shift auto production costs 
+the growth the market for electronic components has been linked structural shift 
+automotives manufacturing costs according data published meti and toyota 
+electronics accounted for the production cost small gasoline powered cars 
+such the corolla and luxury models such the crown for hybrids 
+such the prius the equivalent figure was approximately the average ratio 
+for the cost electronics the total manufacturing cost for passenger cars was around 
+but this figure estimated increase about given that 
+some the total vehicle production cost attributable parts and materials this 
+implies that electronic components will become the largest contributor parts 
+and material costs this consistent with the rising proportion electronics within auto 
+parts shipment values 
+figure electronic components generate rising proportion auto manufacturing 
+costs 
+small gasoline luxury gasoline 
+car corolla 
+car crown 
+prius 
+electronic components 
+average 
+average 
+other components 
+source meti toyota motor credit suisse 
+historical overview automotive electronics 
+now growing rapidly the market for electronics used automotive applications originated 
+the with the introduction limited electronic parts such lights starters 
+alternators voltage regulators and igniters the saw the passage the muskie act 
+the control exhaust emissions fresh demand for greater fuel efficiency 
+response the twin oil shocks and the introduction more electronics the engine field 
+computing power increased adoption electronic technologies started take off 
+the and with the development innovative advances such electronically 
+controlled automatic transmissions anti lock braking systems abs electronically 
+controlled suspension electronic power steering airbags electric windows and powered 
+seating controls these technologies were aimed enhancing the basic vehicular 
+functions moving steering and braking well improving the safety and comfort 
+users since have seen acceleration the introduction automotive electronics 
+led the development hybrid and electric vehicles 
+auto auto parts electronic components sector 
+july 
+figure automotive electronics motorization technology progress 
+source jsae 
+auto auto parts electronic components sector 
+july 
+electronic powertrain development driving expansion market 
+see continuing development hevs phevs evs and fcevs and related use 
+electronics powertrain systems driving growth the market for electronic components 
+forecast this market growing have made separate volume 
+forecasts out for conventional vehicles powered internal combustion engine 
+icevs and hevs phevs evs fcevs that will compliant with environmental 
+performance regulations based regulatory targets that have been established for the 
+entire sector our forecast for the market for electronic components based 
+estimate the proportion total auto production costs that will attributable 
+electronic components expect overall ownership hevs phevs evs fcevs 
+increase from and based these 
+figures estimate the size the market 
+and 
+figure automotive electrification market projected grow 
+billion yen 
+auto electrical components market lhs 
+phv fcv ratio rhs 
+source jsae credit suisse estimates 
+auto auto parts electronic components sector 
+july 
+share prices and valuations 
+valuations automotive electronics related companies 
+the figure below shows valuations automotive electronics related companies 
+comparing average related stocks the automobile auto parts electronic 
+components electronic equipment and consumer electronics sectors automobile sector 
+stocks clearly have the lowest valuations followed auto parts companies the 
+electronic parts electronic equipment and consumer electronics sectors have varying 
+exposures the automobile market making simple comparisons difficult for example 
+difficult decide whether stocks the automobile and auto parts sectors are relatively 
+undervalued they have substantial upside potential can only say that they reflect 
+fundamentals growth potential some extent 
+figure valuations automotive electrification related companies 
+sector 
+code 
+company 
+rating 
+share price 
+target price 
+autos 
+auto parts 
+per 
+return 
+pbr 
+roe 
+toyota motor 
+outperform 
+hino motors 
+outperform 
+mazda motor 
+outperform 
+honda motor 
+outperform 
+fuji heavy industries 
+outperform 
+nissan motor 
+neutral 
+isuzu motors 
+neutral 
+daihatsu motor 
+neutral 
+suzuki motor 
+neutral 
+yamaha motor 
+underperform 
+bridgestone 
+outperform 
+toyota industries 
+outperform 
+denso 
+outperform 
+musashi seimitsu 
+outperform 
+aisin seiki 
+outperform 
+exedy 
+outperform 
+takata 
+outperform 
+sumitomo rubber 
+neutral 
+tokai rika 
+neutral 
+calsonic kansei 
+neutral 
+keihin 
+neutral 
+toyoda gosei 
+underperform 
+toyota boshoku 
+underperform 
+electronic 
+nidec 
+outperform 
+components 
+tdk 
+outperform 
+japan aviation elec ind 
+outperform 
+murata manufacturing 
+outperform 
+ibiden 
+neutral 
+ngk spark plug 
+neutral 
+mitsumi electric 
+neutral 
+alps electric 
+neutral 
+hirose electric 
+neutral 
+kyocera 
+neutral 
+electronic 
+hitachi 
+outperform 
+equipment 
+toshiba 
+outperform 
+instruments 
+mitsubishi electric 
+neutral 
+consumer 
+panasonic corporation 
+outperform 
+electronics 
+japan display 
+neutral 
+sharp corp 
+underperform 
+source company data credit suisse estimates 
+auto auto parts electronic components sector 
+july 
+implications lower auto and auto parts sector stock valuations 
+looking automobile auto parts and electronic parts sector stock valuations over the 
+past years see that automobile and auto parts sector stock valuations have fallen 
+slightly the last two years this doubt due several factors but given that 
+electronic parts sector stock valuations have risen the same time have consider 
+the possibility that value added moving some not all sector stocks amid auto 
+commoditization and shift open architectures added value which automakers 
+previously kept themselves tending flow outwards also auto parts added value 
+migrating from conventional areas electronics and other areas and think valuations 
+might reflecting these factors 
+figure twelve month auto auto parts and electronic component 
+autos 
+auto parts 
+electronic components 
+source company data thomson reuters credit suisse 
+could auto parts sector stocks undervalued electronic parts sectors stocks 
+overvalued 
+with electronic parts makers increasingly exposed the automobile market the disparity 
+between the relative valuations electronic parts sector stocks and auto parts sector 
+stocks topic constant discussion certainly the month forward average the 
+electronic parts sector over the past years far higher than the equivalent for 
+the auto parts sector should also noted that whereas the latest month 
+forward average for the electronic parts sector slightly below the past year 
+average the auto parts average far further from the past year 
+average believe the auto parts sector average reflects declining expected growth 
+rate versus the sector compared with past performance 
+conduct the same comparison for denso which has the largest exposure the 
+electronics field among auto parts sector companies see clear premium versus the 
+sector average since for example the high represents climb 
+level quite close the electronic parts sector average believe this indicates that 
+denso could expand the electrification market has comprehensive product 
+portfolio and that expectations versus denso earnings growth could rise the same 
+level for electronic parts think valuation disparities between individual companies 
+the auto parts sector could arise and expand depending the scale their exposure 
+the auto electrification market 
+within the electronic components sector makers auto related parts may have traded 
+discount the past but given sluggish growth the hardware market see 
+auto auto parts electronic components sector 
+july 
+opportunities add value the automotive field through components supporting 
+electrification automation and informatization suppliers these components could see 
+swift reduction their valuation discount while would not surprised see 
+premium applied stocks with relatively high exposure hardware 
+figure twelve month auto parts electronic component and denso 
+auto parts 
+electronic components 
+denso 
+source company data thomson reuters credit suisse 
+auto auto parts electronic components sector 
+july 
+implications electronics related trends for 
+automakers and manufacturers auto parts and 
+electronic components 
+automakers 
+particularly highlight toyota outperform which confirming 
+clear advantage among japanese automakers the field powertrain electrification 
+especially generating earnings from hev systems addition its steps toward the 
+creation full hev lineup the company slated launch the next generation prius 
+with the new prius toyota will introduce the new ths iii hybrid system and use 
+its toyota new global architecture tnga platform which aims achieve profitability 
+approaching the companywide average individual cost basis result the costs 
+hev systems from the new prius onwards will considerably reduced furthermore 
+the company inaugurate local production core components china and elsewhere 
+which should radically accelerate the global development hev technologies 
+ths emerges the facto industry standard and further economies scale fall within 
+reach would not surprised see the company actively marketing the system itself 
+other automakers through hybrid business alliances that case major system 
+suppliers like denso aisin seiki and peve would benefit least the top line toyota 
+also planning introduce fcevs end and aims reproduce the success 
+that scored with hevs the next generation environmentally friendly vehicles 
+honda outperform introducing three new hev systems part 
+its earth dreams technology next generation powertrains the new model fit hybrid 
+use the intelligent dual clutch drive dcd system minimize the increase price 
+compared previous gasoline powered models think this strategy encourages the 
+proliferation hevs but think real earnings improvement tandem with volume 
+growth will only seen once there full global lineup the fit series including the 
+vezel like toyota honda focusing fcevs the successors hevs and the 
+company plans launch its own mass production models japan the and europe 
+from elsewhere while nissan neutral focusing evs 
+mainly for next generation models shifting omnidirectional strategy that includes 
+hevs where there strong demand however will take some time before these make 
+overall earnings contribution the selling price the leaf has dropped sharply since 
+was introduced and while global sales volume topped units january 
+think there will still transition period for the development infrastructure etc before 
+see real market penetration 
+auto parts manufacturers 
+light toyota edge power train advances terms market share within the auto 
+parts sector tend favor toyota suppliers with significant exposure the 
+electrification market such denso outperform aisin seiki 
+outperform and toyota industries outperform 
+denso expanding its product lineup all directions including its existing broad 
+range parts for electronic control conventional internal combustion engines and parts 
+for new hev phev technologies expect the company sales the 
+hev phev field grow from the current level around about 
+denso handles products ranging from hev ecus inverters converters 
+battery monitoring units current sensors high voltage batteries and motor generators 
+furthermore while denso has focused its sales hev phev related products 
+supplying toyota aims expand its customer base beyond toyota enhancing its 
+responsiveness and adaptability systems supplier the future another strength 
+that the company can handle core components well parts and systems internally 
+produces igbt power semiconductors for pcus and inverters house and also codeveloping the sic power converters with toyota denso covers large part the 
+auto auto parts electronic components sector 
+july 
+growing market for automotive electronics including systems components and materials 
+expect the company sustain profit growth over the longer term 
+for aisin seiki hev transmission sales non toyota customers look promising the 
+next driver longer term growth follow automatic transmissions the company has 
+recently started supplying small motor hev transmissions for the skyactiv hybrid 
+system mazda axela but also announced its results briefing that 
+developing hev transmissions that can used various cars signaling that intends 
+aggressively market its hev transmissions customers other than toyota think 
+that toyota hev strategies may support the active selling hev transmissions and 
+regenerative braking systems other companies toyota hev systems use hev 
+transmissions from aisin and regenerative braking systems from advics which 
+together account for about half the total cost other words the per vehicle added 
+value very high and expanded sales would make substantial contributions aisin 
+seiki profit growth 
+toyota industries supplies various high value added electronics for hev phev 
+technologies including converters direct cooling units for pcus and inverters 
+due sharply rising sales hevs such toyota prius and aqua the company 
+electronics business expanding particular the company converters are 
+used many toyota hevs and has become the biggest domestic supplier this 
+area with market share expect the company will work increase its sales 
+non toyota customers well they launch new environmentally friendly vehicles 
+addition toyota industries commands more than the global market for automotive 
+air conditioning compressors and supplying electronic compressors for use with 
+hev phev systems toyota industries currently selling these toyota and 
+expect that the introduction new products will accelerate the expansion sales other 
+automakers japan the and europe 
+electronic components manufacturers 
+our preferred listed manufacturers within the japanese electronic components sector are 
+follows nidec outperform which has benefited from the 
+growth demand for motors used automotive powertrain and suspension systems led 
+markets the and europe and murata outperform tdk 
+outperform and jae outperform all 
+which are benefiting from the ongoing adoption electronic components within 
+automotive systems 
+nidec has been one the major beneficiaries the western led shift adopt electronic 
+controls the suspension braking and auxiliary systems notably electric power steering 
+eps electric anti lock braking systems ebs abs and dual clutch transmission dct 
+powertrains the adoption such technologies has expanded the market for small motors 
+used power and control these systems the use integrated starter generator isg 
+unit mild hybrid powertrains europe also potential boon for nidec addition 
+think nidec approaching the start mass production traction motors for automotive 
+powertrain applications finally the emerging trend integrating ecus used eps ebs 
+systems with motors should lead synergies with the recently acquired nidec elesys 
+murata another company with strong growth prospects due the shift toward advanced 
+electronic control onboard systems using growing array device rich ecus this 
+creating demand for multilayer ceramic capacitors mlccs inductors ceramic resonators 
+and other passive components the world leader acceleration sensors for electronic 
+stability control esc systems murata also benefiting from stricter regulations around 
+the world that support broader esc adoption the kids and transportation safety act 
+the also boosting demand for ultrasound sensors another area expertise the 
+communications sector besides growing use onboard systems authorities are 
+also considering regulating the usage dedicated short range communications dsrc 
+auto auto parts electronic components sector 
+july 
+technologies based the protocol looking further ahead expect murata 
+benefit the market develops for onboard cellular devices facilitate use cars 
+like murata tdk benefiting from rising demand for inductors mlccs and other passive 
+components also see growth for tdk european markets especially for piezoelectric 
+material parts for precision control fuel injection and for current sensors and 
+converters used hybrid electric vehicles tdk also poised benefit from the growing 
+use motors high efficiency ferrite neodymium magnets area where tdk has 
+special expertise making neodymium magnets with reduced zero amounts the rare 
+earth metal dysprosium via its high anisotropy field layer hal production process 
+through its joint venture china tdk highly cost competitive making conventional 
+neodymium magnets for automotive applications well 
+jae short for japan aviation electronics gaining tailwind from range automotive 
+trends including more onboard ecus and the growing use and rapid transmission 
+data gathered sensors cameras radar and other devices high speed transmission 
+data between ecus the powertrain braking and suspension backbone the vehicle 
+will indispensable for automated technologies which expect translate into higher 
+demand for high value added connectors supplied jae junction box connectors are 
+another area potential demand due the desire restrict growth wire harnesses 
+finally jae actively developing its overseas operations with the specific aim being 
+tier supplier automakers europe 
+auto auto parts electronic components sector 
+july 
+electrification powertrains 
+hevs phevs evs and fcevs take pride place 
+among technologies reduce engine loading 
+electrification powertrains critical environmental standards are met 
+think automakers must redouble their commitment technological development 
+supporting improved fuel efficiency keeping yardstick the eu average 
+emission target for lower fuel consumption and achieve greater fuel efficiency 
+think automakers will need take multi pronged approach our view the main 
+approaches are likely improving internal combustion engines improving energy 
+efficiency reducing the engine weight and reducing the engine load reducing the 
+engine load primarily means curbing the vehicle reliance energy produced 
+the engine for the most part think this will achieved electrifying systems that 
+have traditionally been mechanical often hydraulic among technologies geared toward 
+reducing the engine load powertrain electrification delivering eco friendly cars such 
+hevs evs including phevs and fcevs likely retain pride place for the time 
+being believe powertrain electrification critical automakers are remain 
+compliant with environmental regulations 
+figure technological areas related improving fuel efficiency 
+source jsae credit suisse 
+auto auto parts electronic components sector 
+july 
+environmental regulations the driving force behind 
+recent automotive technologies 
+adoption hev phev fcev technologies imperative automakers are clear 
+environmental objectives 
+clear present that the auto sector technological needs are being driven primarily 
+environmental regulation environmental regulations can broadly grouped into 
+exhaust gas regulations aimed reducing emissions particulate matter nitrogen 
+oxides and other byproducts prime example being the european union euro emission 
+standards and emission and fuel economy standards typified the eu 
+regulation and japan fuel efficiency standards which are dictated 
+the energy conservation law with regard emission standards particular the 
+has set itself the target progressively reducing average new car emissions 
+and this has lent impetus automakers 
+development eco friendly vehicles not just europe but indeed worldwide the 
+meanwhile has settled fuel economy standards that will require model year cars 
+get the equivalent miles per gallon marking technological leap forward with 
+nearly double the fuel efficiency new vehicles currently the road 
+figure compare average emissions for the world leading automakers with 
+its high weighting compact cars fiat has the lowest emission volume while daimler 
+highest owing its heavy weighting larger vehicles among japanese automakers 
+strong sales the prius and other hybrid vehicles have propelled toyota into the lead 
+ranks second only fiat global basis while the eu overall target reduce 
+emissions average the emission goals individual auto 
+manufacturers are calculated based average vehicle weight and such difficult 
+get picture progress toward those goals have doubt though that 
+automakers are doing their utmost reduce emissions through the launch 
+compliant vehicles they otherwise face graduated penalties their average emission 
+levels are above the target 
+meet the target automakers must lower their average emission 
+volume per annum through goes without saying that this will require 
+improved fuel economy for larger vehicles currently emitting more than 
+addition though automakers need reduce average emissions for compact cars 
+the market volume zone level well below without certain weighting 
+eco friendly vehicles using hev phev fcv technologies automakers will not meet 
+the target and over the past few years and european automakers have gradually 
+increased their exposure such vehicles 
+figure restrictions major markets 
+usa 
+china 
+japan 
+proposal 
+estimate 
+source credit suisse 
+auto auto parts electronic components sector 
+july 
+figure emissions europe assembler and model 
+company average 
+touareg hybrid 
+santa 
+focus 
+yaris 
+fiat prius 
+qashqai 
+audi hybrid 
+hybrid 
+yaris 
+hybrid 
+series 
+passat 
+hybrid 
+sonata hybrid 
+micra 
+focus 
+golf 
+insight 
+polo 
+smart 
+fit 
+source company data credit suisse 
+hev phev fcev market 
+ongoing expansion market for eco friendly vehicles 
+anticipate further growth the market for environmentally friendly vehicles using 
+electric powertrain technologies hev phev fcev etc place conventional 
+internal combustion engines just over two million hevs phev and evs were 
+produced worldwide japanese automakers took early lead mass producing hevs 
+phevs and evs but since the lehman crisis their and european counterparts have 
+progressively rolled out new offerings whereas there were only few eco friendly models 
+the market the early there were automakers clearly have been 
+motivated the need meet environmental regulations including the requirement 
+europe that average new car emissions reduced and 
+think the number models will only increase expect automakers 
+especially those based japan offer hybrid versions every model their range 
+japan hevs are fueling growth the passenger vehicle market indeed the months 
+since the consumption tax hike hevs from toyota and honda have been key shoring 
+vehicle sales honda the fit now accounts for roughly all vehicles sold 
+under the fit label toyota meanwhile hevs make global sales volume and 
+constitute domestic sales hevs also account now for honda domestic 
+sales volume 
+auto auto parts electronic components sector 
+july 
+figure hev fcev production volume 
+figure number hev fcev models offered 
+automakers 
+thousand units 
+models 
+hev 
+japanese 
+fcev 
+americans 
+europeans 
+koreans 
+source ihs credit suisse estimates 
+source marklines credit suisse 
+figure toyota hev sales volume and hev weighting 
+figure toyota hev sales volume and hev weighting 
+global 
+domestic 
+thousand units 
+thousand units 
+domestic sales volume lhs 
+overseas sales volume lhs 
+domestic hev sales volume lhs 
+domestic hev share rhs 
+global hev share rhs 
+source company data credit suisse estimates 
+source company data credit suisse estimates 
+figure new passenger car sales rankings japan 
+figure hev weightings for honda models sold 
+may 
+japan 
+rank 
+brand 
+honda 
+toyota 
+toyota 
+toyota 
+toyota 
+honda 
+toyota 
+nissan 
+toyota 
+nissan 
+toyota 
+honda 
+toyota 
+subaru 
+mazda 
+honda 
+toyota 
+nissan 
+suzuki 
+suzuki 
+model 
+fit 
+aqua 
+prius 
+voxy 
+corolla 
+vezel 
+vitz 
+note 
+noah 
+serena 
+harrier 
+freed 
+passo 
+impreza 
+axela 
+step wgn 
+crown 
+trail 
+swift 
+solio 
+source jada credit suisse 
+auto auto parts electronic components sector 
+sales volume 
+may 
+honda total 
+ratio 
+domestic reg 
+vehicles 
+source company data credit suisse 
+july 
+stricter environmental standards supporting 
+continued growth hev phev fcev market 
+see phev fcev weighting rising 
+expect sales eco friendly vehicles hev phev fcev total reach units 
+constituting the automobile market this forecast premised the eu 
+new car emission targets and 
+median and and assumes comparable reduction 
+further assume that the market whole will meet these progressively tougher 
+standards and base our sales volume forecasts per vehicle emissions for 
+conventional icevs and environmental friendly vehicles using phev fcev 
+technologies 
+conclude that combined phev fcev sales volume will reach units 
+units units and units which point 
+estimate phev fcev weighting the unit sales forecast 
+for think hvs will account for phevs for evs for and 
+fcevs for our view automakers will fail achieve average emissions 
+with icev hev pcev models alone that being the case expect 
+steep rise fcev sales volume the interim also essential that automakers 
+greatly improve the fuel economy conventional icevs 
+figure hev phev fcev weighting increase emissions targets are 
+tightened 
+phv fcv ratio lhs 
+reg rhs 
+ave rhs 
+source marklines credit suisse estimates 
+auto auto parts electronic components sector 
+july 
+figure meet target automakers must sell more fcev models 
+complement hevs phevs 
+million units 
+phv 
+fcev 
+source marklines credit suisse estimates 
+automakers ramping hev phev fcev rollout 
+chronological view eco friendly vehicle evolution 
+now years since toyota launched the first prius and cast our eyes across the 
+world automobile manufacturers find that almost all the industry leaders have some 
+form eco friendly vehicle hev phev fcev etc their model lineup the 
+market for environmentally friendly cars has grown progressively bigger terms both 
+the amount vehicles sold and the number players involved below present 
+chronological view the market evolution from the dawn this new era when toyota 
+began mass producing the first generation prius the present day listing the major 
+players contributions 
+toyota cumulative hev sales units adopting all the above 
+approach and taking steps globalize hev business 
+toyota launched the prius the world first mass produced hev with the tagline 
+just time for the century with the release the prius automakers around the 
+world wanted know more about the toyota hybrid system ths which was major 
+topic conversation the detroit motor show toyota went develop number 
+hevs the estima hybrid and crown mild hybrid dint mounting furtherevolved hybrid systems ths ths existing models 
+the company released the second generation prius introducing the characteristic 
+triangle silhouette that remains feature today that model featured the ths hybrid 
+system refinement the original ths toyota also added two hybrids the 
+and the lexus lineup and around the same time brought out 
+hybrid version the camry the company best selling car north america the flagship 
+lexus came out and that year cumulative hev sales topped the million 
+vehicle mark 
+the following year saw the limited launch the fchv adv advanced version 
+the fuel cell vehicle toyota had been working since the this model extended 
+the single fill cruising range around the third generation prius debuted 
+greatly boosting toyota overall hev sales volume with the aid tax breaks 
+introduced that year encourage eco car purchases when toyota released the thirdgeneration prius was immediately compared the second generation insight that 
+honda had just released the time toyota continued selling the second generation 
+prius rebadged the prius alongside the new version 
+auto auto parts electronic components sector 
+july 
+since then toyota has added three dedicated hybrid vehicles the lexus sai 
+and lexus well continuing mount hybrid systems existing models 
+creating cars like the auris hybrid launched the prius the first vehicle the prius lineup use ion batteries when also released small type dedicated hev the 
+prius aqua like the third generation prius the aqua features toyota hybrid system 
+ths with reduction gear offering fuel efficiency the test cycle 
+since october has ranked ahead the prius the best selling car japan 
+toyota first plug hybrid the prius phv debuted when the company also 
+commenced sales the electric vehicle developed jointly with the based 
+tesla motors the same time toyota continues its way offering full hev lineup 
+mounting hybrid systems core models such the yaris and corolla whereas the 
+company sold only around hevs when the first generation prius launched 
+had achieved cumulative sales vehicles 
+the tokyo motor show saw the unveiling the toyota fcev concept previewing 
+next generation hydrogen fuel cell powered hybrid production car scheduled launch 
+japan early end ahead the worldwide rollout the company intends 
+release fourth generation prius featuring the toyota hybrid system iii ths iii 
+expect the use the tnga platform with this model will support improvement 
+profitability almost the company wide average individual unit cost basis may 
+also commence production hybrid vehicles and their key parts china doing 
+taking major step toward globalization the hev business 
+honda from focus ima three pronged hev strategy 
+honda involvement hevs dates back when launched the first generation 
+insight this was the first vehicle use honda integrated motor assist ima technology 
+featuring single motor parallel hybrid system installed with the internal combustion 
+engine from design aspect the insight was notable for its aerodynamic rear wheel 
+skirts launched some years later end the latest civic hybrid features the fifthgeneration ima system mounted the seventh generation civic prior that the accord 
+hybrid debuted the with the north american seventh generation accord 
+its base 
+honda also pursuing development fcvs began leasing the fcx japan 
+and the and followed with the fcx clarity honda also recently announced 
+plans collaborate with next generation fuel cell technology the 
+company launched the second generation insight now five door hatchback like its direct 
+competitor the prius this new insight featured improved ima system and enhanced 
+fuel economy the test cycle with starting price only set 
+off hybrid war with toyota prius 
+honda released several more ima equipped hevs over the course including 
+the its first experiment with sports type hev and the fit hybrid fit shuttle 
+hybrid and freed hybrid all based the second generation fit the ilx hybrid 
+became the first hev released under the luxury acura brand and the same year honda 
+began offering the fit lease only proposition october honda had grown 
+cumulative hev sales volume one million units 
+honda next generation earth dreams technology powertrain suite features three new 
+hev systems essence three pronged approach the manner abenomics 
+three arrows launched january the second generation accord hybrid employs 
+honda mmd intelligent multi mode drive two motor hybrid system more recently the 
+company released the second generation fit hybrid featuring the single motor dcd 
+intelligent dual clutch drive system the next generation nsx apparently plans 
+use the three motor awd super handling all wheel drive system featuring 
+independent motors for the right and left rear wheels 
+auto auto parts electronic components sector 
+july 
+nissan strategic shift from focus evs multi pronged approach including 
+hevs 
+when one thinks nissan and eco friendly cars the leaf tends come mind 
+however ten years earlier nissan delivered units the tino hev 
+sedan minivan crossover appearances would suggest that the company has since taken 
+alternative path hev development reality the altima hybrid released the 
+featured ths supplied toyota although nissan subsequently persisted with 
+development response market needs also launched the fuga hybrid using 
+proprietary hev technology 
+the same year nissan began marketing the aforementioned leaf the secondgeneration leaf unveiled can run when fully charged from the 
+previous version and has average electrical consumption all the 
+mode while initially priced around japan the leaf now retails for about 
+january cumulative global sales reached units 
+nissan revived the hybrid story when launched the cima dedicated hybrid 
+like the fuga hybrid that preceded the cima featured one motor two clutch parallel 
+hybrid intelligent dual clutch control system nissan also released the serena hybrid 
+smart simple hybrid the end nissan announced plans roll out 
+hev models including one phev whereas evs previously held sway among its 
+environmental vehicles the company now taking multi pronged approach that includes 
+demand hevs 
+other japanese automakers key may lie supplementing technologies through 
+alliances 
+among the other japanese automakers mitsubishi motor has concentrated 
+development released the miev ahead the nissan leaf and 
+debuted the outlander phev mazda unveiled hybrid version the tribute virtual 
+twin the ford escape hybrid both feature two motor hybrid system produced 
+aisin mazda also offers hybrid version the new axela launched and 
+featuring toyota hybrid technology 
+fuji heavy industries released the plug stella phev but later halted production 
+launched the hybrid using hev system developed house but the 
+company may look borrow toyota hybrid technology future adapted for use its 
+own vehicles the minivehicle category suzuki has used the ene charge system for 
+charging batteries its wagon and other models which are best described 
+micro hybrids with alternator tuned for energy regeneration when decelerating 
+overseas automakers ramping development eco cars hot pursuit 
+japanese rivals 
+overseas automakers hybrid vehicle launches have picked rapidly since the lehman 
+crisis daimler and bmw have jointly developed advanced hybrid system that 
+used mainly big suvs also released the chevrolet volt series hybrid 
+with range extender engine daimler meanwhile worked with bmw develop mild hev 
+system that featured the mercedes hybrid and bmw activehybrid while 
+and porsche brought out the touareg hybrid and cayenne hybrid featuring shared 
+drivetrain 
+among korean automakers hyundai debuted its first lpg hev the avante lpi hybrid 
+followed the sonata hybrid gasoline hev overseas automakers 
+including those from the europe and korea plan sustain steady flow eco car 
+launches comply with increasingly stringent environmental standards bmw has already 
+launched the and phev while daimler soon release class phev 
+followed class phev the group meanwhile has developed the edsg 
+transmission new hybrid powertrain designed fit the mqb chassis 
+auto auto parts electronic components sector 
+auto auto parts electronic components sector 
+figure chronological view eco friendly vehicle evolution 
+brand 
+toyota 
+honda 
+nissan 
+japanese others 
+toyota gen prius launched 
+estima hybrid launched 
+crown mild hybrid launched 
+toyota fchv launched 
+toyota alphard hybrid launched 
+toyota gen prius launched 
+lexus launched 
+fchv launched 
+lexus launched 
+toyota camry hybrid launched 
+toyota hev accumulated sales reach million units 
+lexus launched 
+toyota fchv adv launched 
+toyota gen prius launched 
+lexus launched 
+toyota hev accumulated sales reach million units 
+toyota sai launched 
+toyota auris hybrid launched 
+lexus launched 
+toyota hev accumulated sales reach million units 
+toyota prius launched 
+toyota aqua launched 
+toyota prius phv launched 
+toyota hev accumulated sales reach million units 
+toyota yaris hybrid launched 
+lexus launched 
+toyota launched 
+toyota launched 
+toyota hev accumulated sales reach million units 
+toyota corolla hybrid launched 
+honda gen insight launched 
+civic hybrid launched 
+honda fcx launched lease sales 
+honda accord hybrid launched 
+honda fcx clarity launched lease sales 
+honda gen insight launched 
+honda launched 
+honda gen fit hybrid launched 
+honda fit shuttle hybrid launched 
+honda freed hybrid launched 
+acura ilx hybrid launched 
+honda fit launched lease sales 
+honda hev accumulated sales reach million units 
+honda gen accord hybrid launched 
+honda accord plug hybrid launched 
+honda gen fit hybrid launched 
+nissan tino hybrid launched 
+nissan trail fcev launched lease sales 
+nissan altima hybrid launched 
+nissan fuga hybrid launched 
+nissan leaf launched 
+infiniti launched 
+nissan cima hybrid launched 
+nissan serena hybrid launched 
+nissan renault accumulated sales reach thousand units 
+infiniti hybrid launched 
+mitsubishi miev launched 
+mitsubishi minicab miev launched 
+mitsubishi dignity launched 
+mitsubishi outlander phev launched 
+subaru plug stella launched lease sales 
+subaru hybrid launched 
+mazda tribute hybrid launched 
+mazda premacy hydrogen hybrid launched lease sales 
+mazda demio launched lease sales 
+daihatsu hijet cargo hybrid launched 
+daihatsu altis launched 
+daihatsu mebius launched 
+suzuki twin hybrid launched 
+suzuki wagon launched 
+hino dutro hybrid launched 
+isuzu elf diesel hybrid launched 
+mitsubishi fuso aero star launched 
+july 
+source company data marklines credit suisse 
+auto auto parts electronic components sector 
+figure chronological view eco friendly vehicle evolution 
+brand 
+americans 
+europeans 
+others 
+ford escape hybrid launched 
+mercury mariner hybrid launched 
+mercury milan hybrid launched 
+ford transit connect electric launched 
+ford focus electric launched 
+ford max hybrid launched 
+ford fusion hybrid launched 
+ford max energi launched 
+lincoln mkz hybrid launched 
+ford fusion energi launched 
+chevrolet tahoe hybrid launched 
+gmc yukon hybrid launched 
+cadillac escalade hybrid launched 
+chevrolet silverado hybrid launched 
+gmc sierra hybrid launched 
+gmc yukon denali hybrid launched 
+chevrolet volt launched 
+chevrolet malibu eco launched 
+chevrolet impala eco launched 
+chevrolet spark launched 
+tesla roadster launched 
+tesla model launched 
+fisker karma launched 
+touareg hybrid launched 
+audi hybrid launched 
+audi hybrid launched 
+audi hybrid launched 
+jetta hybrid launched 
+porsche cayenne hybrid launched 
+porsche panamera hybrid launched 
+porsche panamera hybrid launched 
+mercedes hybrid launched 
+mercedes hybrid launched lease sales 
+mercedes class cell launched 
+mercedes class cell launched lease sales 
+mercedes vito cell launched lease sales 
+mercedes bluetec hybrid hybrid launched 
+smart fortwo electric drive launched 
+mini launched lease sales 
+bmw activehybrid launched 
+bmw activehybrid launched 
+bmw active launched lease sales 
+bmw activehybrid launched 
+bmw activehybrid launched 
+opel ampera launched 
+renault fluence launched 
+renault kangoo launched 
+renault zoe launched 
+peugeot ion launched 
+citroen zero launched 
+peugeot launched 
+peugeot launched 
+citroen launched 
+peugeot partner electric launched 
+fiat launched 
+volvo plug hybrid launched 
+hyundai avante lpi hybrid launched 
+kia forte lpi hybrid launched 
+hyundai blueon launched lease sales 
+hyundai sonata hybrid launched 
+kia optima hybrid launched 
+kia ray launched lease sales 
+hyundai fuel cell launched lease sales 
+byd launched lease sales 
+byd launched 
+byd qin launched 
+saic roewe hybrid launched 
+saic roewe launched 
+dongfeng fengshen bsg hybrid launched 
+beijing new energy launched 
+chery new energy bsg launched lease sales 
+chery new energy launched 
+changan new energy jie xun hybrid launched lease sales 
+mahindra reva revai 
+mahindra reva launched 
+july 
+source company data marklines credit suisse 
+july 
+the evolution the toyota prius 
+how the pioneering model the hev market has changed 
+the toyota prius has evolved over three generations since debuted clear 
+that the model has gained size while becoming less expensive and more fuel efficient 
+the first generation prius had two motors plus engine sitting forward compartment 
+for front wheel drive vehicle this ths utilizing planetary gears was the first attempt 
+hev drivetrain packaging the battery pack comprised batteries arranged 
+series and located compartment under the rear passenger seat 
+the first generation prius was four door passenger sedan with dimensions 
+and the second and third generation models were larger 
+serve the requirements overseas markets such north america becoming five door 
+hatchbacks with the same triangular silhouette design the dimensions increased 
+and respectively vehicle 
+weight also increased with each subsequent generation 
+although the model has grown size its price tag has been lowered the first and second 
+generations had basic model starting prices japan before consumption tax 
+while the basic third generation prius had sales price the same basis 
+part this was compete price with the second generation insight that honda launched 
+the same year toyota also lowered the price tag the second generation prius just 
+starting prices for the fourth generation prius scheduled for introduction 
+are expected lower again support full scale commercial development overseas 
+toyota developed the basic ths design create the ths powertrain for the secondgeneration prius the volume the battery pack was squeezed while increasing 
+the overall charge capacity for the third generation model toyota further increased the 
+energy efficiency the ths system adding reduction gears the fuel economy the 
+prius mode has improved over the generations from and 
+respectively further improvements are anticipated with the fourth generation with 
+fuel economy mode forecast increase from 
+auto auto parts electronic components sector 
+july 
+figure toyota prius specifications model generation 
+gen prius 
+gen prius 
+gen prius 
+image 
+release date 
+length 
+width 
+height 
+wheel base 
+weight 
+system 
+ths 
+ths 
+ths with reduction mechanism 
+engine 
+fxe dohc 
+fxe dohc 
+fxe dohc 
+battery 
+mode 
+mode 
+mode 
+fuel efficiency 
+mode 
+sales price 
+remarks 
+world first mass produced hybrid vehicle 
+size increased match north america market needs 
+received japan car the year 
+one motion design applied improve aerodynamics 
+released north america 
+received north america car the year 
+release europe 
+received europe car the year 
+ths system efficiency improved adding reduction 
+mechanism 
+engine displacement increased cooled egr 
+applied improve high speed cruising fuel efficiency 
+released china 
+received japan car the year 
+production launched china 
+released widely countries 
+accumulated sales reach million units 
+accumulated sales reach million units 
+source company data credit suisse 
+analysis hev phev market 
+hev phev product comparison highlights strategic differences between 
+automakers 
+have researched the hev phev and models marketed the leading global 
+automakers pinpoint salient trends the market for green cars our comparison 
+based dividing quantitative characteristics models the product the three 
+dimensions and the vehicle weight fuel efficiency measured for mode 
+price place each global maker models the relevant axis size price fuel 
+efficiency price for evs derive values for fuel efficiency using maker specifications for 
+total energy efficiency and power consumption 
+our analysis reveals that japanese automakers such toyota and honda are tending 
+develop comparatively compact models while seeking achieve gains fuel efficiency 
+relative price contrast automakers such and ford are introducing models 
+that provide more room for the same price rather than improvements fuel efficiency our 
+analysis also shows that evs tend deliver higher fuel efficiency other factors such 
+vehicle range are ignored 
+japanese automakers targeting cheaper models with low fuel consumption 
+the hev phev models japanese automakers are mainly the compact and 
+subcompact segments this partly reflects the fact that most these models were 
+developed primarily for the japanese market but also illustrates how these manufacturers 
+are targeting small vehicles that offer low fuel consumption the nissan leaf the 
+best performing model our fuel efficiency price index among the hev models the 
+newly remodeled fit jazz overseas from honda also scores highly this regard 
+naturally this the result honda efforts keep fuel consumption and model price 
+low but the sales success also shows how this approach has produced cars that are 
+attractive japanese consumers 
+auto auto parts electronic components sector 
+july 
+three years after its initial release toyota has made minor changes the aqua raise 
+its fuel efficiency surpassing the fit however even the most basic model the 
+range more expensive than the fit besides the aqua prius and other hevs 
+toyota also putting its hybrid drive technology into wide range models including its 
+luxury lexus range while still aiming find the correct pricing balance going forward 
+terms general trends think japanese automakers will target further improvements 
+fuel efficiency price terms discuss later the report the majority the current 
+hev phev models the market impose heavier cost burden the consumer than 
+any the conventional icev models this means further reductions price are needed 
+these new classes passenger vehicle are supplant icev models completely 
+western automakers are mainly adding value existing model range while starting 
+focus more seriously fuel efficiency improvements 
+western automakers have released limited numbers pure hev phev models 
+preferring add value developing hybrid versions existing models neither bmw nor 
+mercedes models compare well based our price based indices because both 
+companies line ups are the luxury end the market the first dedicated developed 
+bmw the plug hybrid with optional range extender whilst the fuel efficiency 
+this phev high considerably more expensive than any japanese 
+mass production model rather than targeting low fuel economy absolute terms 
+automakers have developed hybrid models based traditional relationship between 
+price and vehicle size gm chevrolet impala eco the best the makers hev 
+models size price terms believe this due the decision base the hev models 
+full size pickup platform although the chevrolet volt marketed dedicated 
+phev compact slightly inferior the various japanese models both size price and 
+fuel efficiency price terms 
+environmental regulations continue tighten developed countries exemplified 
+the strict emission standards europe and zero emission vehicle zev regulations 
+the expect these regulatory trends prompt western automakers accelerate 
+development pure hev phev models close the gap with japanese automakers 
+among recent european entrants are the from and the bmw mercedes 
+also expected develop plug hybrid models for the next generation its class and 
+class cars the plans expand the number models fitted with its eassist 
+mild hybrid system part its phev strategy ford introduced six hev models 
+its line but appears basing its future development program for hybrid suvs 
+full size pickup platform 
+auto auto parts electronic components sector 
+july 
+size price 
+figure hev model analysis size price fuel efficiency price 
+toyota 
+honda 
+nissan 
+ford 
+bmw 
+daimler 
+psa 
+hyundai kia 
+byd 
+fuel efficiency price 
+source company data credit suisse estimates 
+figure hev model analysis fuel efficiency versus 
+figure hev model analysis size versus price 
+price 
+toyota 
+honda 
+nissan 
+honda 
+nissan 
+ford 
+bmw 
+daimler 
+size 
+fuel efficiency 
+toyota 
+capacity weight 
+ford 
+bmw 
+daimler 
+psa 
+psa 
+hyundai kia 
+hyundai kia 
+million yen 
+million yen 
+byd 
+price 
+source company data credit suisse estimates 
+byd 
+price 
+source company data credit suisse estimates 
+prius model comparison generation 
+toyota prius models have improved with each generation 
+have performed similar analysis for the three generations prius model released 
+toyota date each new generation has yielded clear improvements size price and fuel 
+efficiency price terms other words toyota has not only upgraded the fuel efficiency 
+successive generations but has also increased the size while lowering the price tag most 
+notably with the third generation model expect the fourth generation prius scheduled 
+for release yield further improvements based the trends date expect 
+slight increases vehicle dimensions and upgrade fuel efficiency clear the 
+mark toyota also expecting major reductions cost with the introduction the toyota 
+new global architecture tnga platform combined with more concerted overseas sales 
+efforts this should translate into the development more advanced models our view 
+auto auto parts electronic components sector 
+july 
+figure model analysis for toyota prius 
+size price 
+prius alpha 
+prius gen 
+prius gen 
+aqua 
+prius gen 
+fuel efficiency price 
+source company data credit suisse estimates 
+full scale global rollout toyota promising ths 
+ths could become facto standard 
+toyota expected achieve considerable cost savings its fourth generation prius due 
+out through introduction tnga and new hev system based its nextgeneration ths iii this will play critical role driving global sales the prius which 
+has already achieved significant penetration the japanese market well supporting 
+the company efforts make the toyota hybrid system ths the global facto 
+standard time when rivals are introducing steady stream models incorporating 
+phev and other technologies 
+maintain its technological lead toyota has shared its hev technology with only very 
+limited number companies date however believe this could change going 
+forward with toyota selling its ths system directly other automakers through hybrid 
+business alliances order pursue its goal turning ths into the facto standard 
+well create greater economies scale this could also prove boon for 
+toyota main suppliers who have not been able sell hybrid parts many which were 
+jointly developed with toyota outside buyers this can expected make fairly 
+significant contribution the earnings key systems suppliers like denso aisin seiki 
+and primearth energy 
+analysis hev phev economics 
+lower price tags and costs are required increase hev market penetration 
+our opinion further reductions vehicle manufacturing costs and associated price tags 
+are essential hev phev models are gain increased market penetration have 
+made detailed study the economic rationale for consumers purchase current hev 
+models comparing specific hev models against comparable icev models our analysis 
+estimates the payback period for the hev based the difference sales price our 
+assumptions have set standard mileage per month based japanese 
+government road transport data have also assumed gasoline price 
+based our price comparison the dealer rrp including consumption tax and 
+used model variants that are close possible terms features equipment and 
+engine displacement 
+auto auto parts electronic components sector 
+july 
+whilst the conclusions are naturally sensitive the assumptions our analysis shows that 
+most consumers would not able recoup the hev price differential purchase within 
+standard period ownership except the cases the toyota aqua and the honda fit 
+for the toyota prius calculate would take owners months over seven years 
+recoup the difference price with the equivalent toyota auris the case the 
+lexus the payback period compared with the equivalent gasoline powered lexus 
+months over years strictly economic terms would seem the 
+purchasers these hev models are effect heavily subsidizing the manufacturer 
+contrast those purchasing the toyota aqua rather than the equivalent vitz model could 
+expect recoup the difference price months about years this seems 
+more reasonable economic proposition for consumers for the remodeled honda fit 
+the price differential with gasoline powered model equivalent engine displacement 
+little less than which could recouped just months around two years 
+based these estimates think honda likely sell more hybrid version fit models 
+than originally expected consumers will naturally see more compelling economic case 
+buy hybrid rather than gasoline powered equivalent the price differential between 
+the two shrinks further reductions total costs are required automakers are push 
+market penetration rates for hev models the next level 
+auto auto parts electronic components sector 
+july 
+figure comparison hev economics 
+model 
+toyota vitz 
+toyota aqua 
+vehicle weight 
+engine displacement 
+fuel efficiency 
+average running distance month 
+average fuel usage month 
+length width height 
+vehicle sales price yen 
+average fuel cost yen month 
+period depreciate vehicle price difference month 
+model 
+toyota auris package 
+toyota prius 
+vehicle weight 
+engine displacement 
+length width height 
+fuel efficiency 
+average running distance month 
+average fuel usage month 
+vehicle sales price yen 
+average fuel cost yen month 
+period depreciate vehicle price difference month 
+model 
+lexus 
+lexus 
+vehicle weight 
+engine displacement 
+fuel efficiency 
+average running distance month 
+average fuel usage month 
+length width height 
+vehicle sales price yen 
+average fuel cost yen month 
+period depreciate vehicle price difference month 
+model 
+lexus 
+lexus 
+vehicle weight 
+engine displacement 
+length width height 
+fuel efficiency 
+average running distance month 
+average fuel usage month 
+vehicle sales price yen 
+average fuel cost yen month 
+period depreciate vehicle price difference month 
+model 
+bmw 
+bmw activehybrid 
+vehicle weight 
+engine displacement 
+fuel efficiency 
+average running distance month 
+average fuel usage month 
+length width height 
+vehicle sales price yen 
+average fuel cost yen month 
+period depreciate vehicle price difference month 
+model 
+honda fit 
+honda fit hybrid 
+vehicle weight 
+engine displacement 
+fuel efficiency 
+average running distance month 
+average fuel usage month 
+length width height 
+vehicle sales price yen 
+average fuel cost yen month 
+period depreciate vehicle price difference month 
+source company data credit suisse 
+auto auto parts electronic components sector 
+july 
+fcevs next generation driver 
+can toyota reproduce the success hevs 
+june toyota unveiled its new fuel cell electric vehicle and announced would 
+launch domestic sales the car sometime the new model will the world 
+first mass production fcev and expected priced around toyota has 
+been working fcev development for over years and developed its own fuel system 
+relying fuel cell stacks that create power through hydrogen oxygen chemical reaction 
+well high pressure tanks for storing the hydrogen fuel the new fcev will have 
+range approximately mode and refilling time about three minutes full 
+tank hydrogen par with typical gasoline powered vehicle 
+honda unveiled its new honda fcev concept the los angeles international auto 
+show honda proprietary stack about smaller than conventional stacks yet 
+still produces over power with power density the car equipped 
+with high pressure hydrogen storage tank has range over miles and 
+hydrogen tank refilling time about three minutes honda will release the car japan 
+the and europe also working with general motors jointly develop 
+low cost hydrogen storage tank system that will smaller and lighter than current 
+systems while offering greater performance which should help the company continue 
+expand its fcev business over the medium term 
+even the automobile market sees resumed offensive phevs and evs and 
+renewed emphasis among automakers expanding sales toyota and honda appear 
+staking their bets fcevs the core the next generation environmentallyfriendly vehicles think this could also aimed reproducing the companies 
+success hevs the current market leading technology japanese automakers like 
+toyota and honda led the way mass production hevs and also hold number key 
+related patents result representing market entry barriers that make difficult for other 
+companies keep this should allow heavyweights like toyota and honda maintain 
+their technological lead and capture the bulk market share over the near term looks 
+like both toyota and honda are now trying replicate this successful formula fcevs 
+according patent result data toyota the number one and honda number two total 
+number japanese patent applications filed relating hydrogen storage and 
+compression technology the the top applicant for patents related fuel cell 
+technology general motors followed honda second and toyota fourth place 
+short addition japanese automakers like toyota and honda global makers like 
+are also actively pursuing fcev related technology with the goals both building new 
+barriers market entry well maintaining technological edge the industry moves 
+toward open architecture that when these technologies mainstream they will 
+able capture value added with development infrastructure like hydrogen refilling 
+stations still issue full scale growth fcevs will take longer than for hevs but 
+reflected toyota plans provide funding support for hydrogen stations the key will 
+future public private collaboration infrastructure development 
+auto auto parts electronic components sector 
+july 
+figure toyota fcv 
+figure honda fcev concept 
+source company data 
+source company data 
+categorization hev phev fcev systems 
+making sense diversifying systems 
+making clear distinctions between the hevphev fcev powertrain systems used 
+the various car manufacturers complicated these systems diversity and complexity 
+and the different names and brands applied them have studied the main systems 
+based structure and composition the first question ask what drives the axle the 
+answer yields three separate categories just the engine the engine and motor and 
+just the motor within the first category engine driven powertrains define 
+system that can regenerate energy micro hybrid 
+refer powertrain systems where the engine and the motor supply power the same 
+driveshaft parallel hybrids these can further categorized according the method 
+power transmission categorize systems where only motor provides the power based 
+the source electrical power systems that use generator are either series hybrids 
+range extended evs systems combining generator with active recharging are plug 
+hybrids motor driven systems that only require recharging are evs while fcev uses 
+fuel cell generate the electrical power 
+figure categorization hevs and evs 
+what the axle 
+driven 
+engine 
+engine motor 
+engine vehicle 
+yes 
+micro hybrid 
+different 
+electric 
+energy 
+regeneraition 
+function 
+using same axle 
+direct connection 
+same 
+parallel hybrid 
+power 
+transmission 
+clutch 
+planetary gear 
+motor 
+power supply 
+generator 
+series hybrid 
+generator 
+charging 
+plug hybrid 
+charging 
+electric vehicle 
+fuel cell 
+fuel cell vehicle 
+source company data credit suisse 
+auto auto parts electronic components sector 
+july 
+outline automakers hev phev fcev systems 
+noted previously toyota ths combines characteristics both parallel hybrid and 
+series hybrid systems the ths system uses two motors drive motor and 
+electricity generation motor well planetary gear driven power distribution 
+mechanism this allows for considerable flexibility making adjustments engine 
+motor drive and electricity generation motors according driving conditions the engine 
+itself the main drive source for the controls and while the drive motor supplements this 
+the electricity generation motor captures regenerative energy 
+honda developing three new hev systems including the dcd used the new 
+model fit hybrid which combines vtec engine with single motor hybrid 
+drive mode motor power and engine power are combined through dual clutch 
+transmission dct create system that provides strong acceleration torque nissan 
+intelligent dual clutch control system uses one motor and two clutches engine and 
+transmission are both traditional types used internal combustion engine vehicles but 
+instead torque converter the first clutch uses the motor while the second clutch uses 
+forward reverse switching mechanism incorporated the continuously variable 
+transmission cvt 
+the voltec system used gm chevrolet volt classified range extending 
+system this system combines two motors with planetary gear setup the motors are for 
+power generation and driving but both can also used combination depending 
+driving conditions nissan leaf uses lithium ion batteries mounted under the floor with 
+motor and inverter front the motor single piece unit extending from reduction 
+gear differential suzuki ene charge idling stop system equipped with 
+regenerative energy capture system combining high efficiency output alternator and 
+lithium ion batteries 
+figure toyota ths system schematic 
+figure toyota ths 
+source company data credit suisse 
+source company data credit suisse 
+figure honda sport hybrid dcd schematic 
+figure honda sport hybrid dcd 
+source company data credit suisse 
+source company data credit suisse 
+auto auto parts electronic components sector 
+july 
+figure nissan intelligent dual clutch control hybrid schematic 
+figure nissan intelligent dual clutch control hybrid 
+source company data credit suisse 
+source company data credit suisse 
+figure voltec system schematic 
+figure voltec platform 
+source company data credit suisse 
+source company data credit suisse 
+figure nissan powertrain schematic 
+figure nissan platform 
+source company data credit suisse 
+source company data credit suisse 
+figure suzuki ene charge system schematic 
+figure suzuki ene charge system 
+source company data credit suisse 
+source company data credit suisse 
+auto auto parts electronic components sector 
+july 
+the shift toward electrification powertrains 
+products and suppliers 
+limited number auto parts suppliers standouts among non automaker affiliates 
+the table below summarize major products and supply chains related electrical 
+powertrains including hev phev and fcev the first striking point that the auto 
+parts suppliers common conventional automotive supply chains have limited presence 
+electrical powertrain supply chains the supply chain map below shows the only 
+such companies present from within our coverage universe are denso aisin seiki toyota 
+industries keihin and calsonic kansei plus toyota boshoku with its motor cores 
+drivetrains such hev transmissions which combine motors generators and gears 
+aisin seiki jatco and others handle the supply systems while electronic equipment 
+and electronic component makers supply motors and makers steel and specialty steel 
+and other materials makers dominate the market for motor components such 
+permanent magnets and electromagnetic steel plates denso supplies comprehensive 
+range parts including inverters converters ecus electrical current sensors 
+high voltage relays and power semiconductors toyota industries makes 
+converters and auxiliary parts such electrical compressors honda affiliate keihin 
+supplies motor battery ecus hev ecus while nissan affiliate calsonic kansei supplies 
+inverters and lithium ion battery controllers lbcs for the leaf 
+contrast the above large number manufacturers unaffiliated with automakers are 
+already represented these supply chains for example even key part markets 
+which denso has the largest share inverters converters electrical current 
+sensors high voltage relays etc the second place group includes electronic component 
+makers tdk nichicon shindengen electric and alps electric also already see 
+electronic equipment makers such toshiba mitsubishi electric and hitachi hitachi 
+automotive systems and consumer electronics makers such panasonic deeply 
+involved these supply chains japanese device makers are also prominent the supply 
+discrete ics used for power supply and inverter and converter passive 
+components 
+more new entries non auto affiliates and ongoing differentiation among 
+individual auto parts suppliers likely 
+expect the market for electrical auto parts grow some the 
+automaker affiliates current conventional supply chains will not capture this exclusively 
+rather other companies that are already working win away even little the total 
+value added business relative the total auto parts market are likely accelerate this 
+pursuit time goes the auto parts market the model cycle relatively stable and 
+discount requests limited making this fairly easy business for non auto affiliates move 
+into therefore think likely that their sales expansion will accelerate 
+the market for electrical auto parts does expand the remainder the 
+conventional auto parts market could conversely see its value added contribution decline 
+further this would unavoidable the extent that finished vehicle makers are unable 
+pass through selling prices all the increased costs from efforts improve the 
+attractiveness their vehicles terms fuel efficiency and higher value added other 
+words between suppliers able get involved electrical auto parts and suppliers unable 
+avoid remaining conventional auto parts gaps are likely grow asp parts per 
+vehicle with distinctions earnings growth widening over time 
+auto auto parts electronic components sector 
+july 
+figure electronic powertrain products and suppliers 
+tier 
+system component 
+drivetrain system 
+drivetrain system 
+drivetrain system 
+drivetrain system 
+drivetrain system 
+motor generator 
+motor generator 
+motor generator 
+motor generator 
+motor core 
+motor core 
+motor core 
+motor permanent magnet 
+motor permanent magnet 
+motor permanent magnet 
+motor permanent magnet 
+motor permanent magnet 
+electric steel 
+electric steel 
+country 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+supplier 
+aisin seiki 
+aichi machine industry 
+hitachi automotive systems 
+jatco 
+yasukawa electric 
+aisin seiki 
+hitachi automotive systems 
+meidensha 
+toshiba 
+mitsui high tec 
+kuroda precision industries 
+toyota boshoku 
+aichi steel 
+daido steel 
+hitachi metals 
+shinetsu chemical 
+tdk 
+nippon steel sumitomo metal 
+jfe 
+customer 
+toyota hino ford 
+nissan 
+eaton 
+nissan 
+mazda 
+aisin seiki 
+eaton isuzu 
+mmc 
+hino aisin seiki 
+model 
+toyota prius lexus hino dutro hybrid etc 
+nissan leaf etc 
+chevrolet volt etc 
+nissan fuga hybrid nissan cima etc 
+mazda demio mazda premacy hydrogen hybrid etc 
+chevrolet volt isuzu elf hybrid etc 
+mitsubishi miev etc 
+hino dutro hybrid etc 
+tier 
+system component 
+inverter 
+inverter 
+inverter 
+inverter 
+inverter 
+inverter 
+inverter 
+country 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+supplier 
+denso 
+hitachi automotive systems 
+calsonic kansei 
+mitsubishi electric 
+meidensha 
+toshiba 
+yasukawa electric 
+customer 
+toyota 
+daimler eaton isuzu 
+nissan 
+honda 
+mmc 
+hino ford 
+mazda 
+model 
+toyota camry hybrid lexus lexus etc 
+chevrolet volt chevrolet tahoe hybrid etc 
+nissan leaf etc 
+honda insight honda honda fit hybrid etc 
+mitsubishi miev mitsubishi minicab miev etc 
+hino dutro hybrid ford max hybrid ford fusion hybrid etc 
+mazda demio mazda premacy hydrogen hybrid etc 
+tier 
+system component 
+converter 
+converter 
+converter 
+converter 
+converter 
+converter 
+country 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+supplier 
+denso 
+toyota industries 
+nichicon 
+shindengen 
+tdk 
+hitachi automotive systems 
+customer 
+toyota nissan 
+toyota 
+mmc 
+honda 
+honda 
+isuzu 
+model 
+toyota camry hybrid lexus lexus nissan leaf etc 
+toyota prius toyota aqua etc 
+mitsubishi miev mitsubishi minicab miev etc 
+honda civic hybrid etc 
+honda insight honda honda fit hybrid etc 
+isuzu elf hybrid etc 
+tier 
+system component 
+power motor control ecu 
+power motor control ecu 
+power motor control ecu 
+power motor control ecu 
+power motor control ecu 
+country 
+japan 
+japan 
+japan 
+japan 
+japan 
+supplier 
+denso 
+fujitsu ten 
+hitachi automotive systems 
+keihin 
+mitsubishi electric 
+toyota 
+toyota 
+nissan isuzu 
+honda 
+mmc 
+system component 
+battery control unit 
+battery control unit 
+battery control unit 
+country 
+japan 
+japan 
+japan 
+supplier 
+denso 
+calsonic kansei 
+keihin 
+tier 
+system component 
+battery 
+battery 
+battery 
+ion battery 
+ion battery 
+ion battery 
+ion battery 
+country 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+tier 
+system component 
+battery charger 
+battery charger 
+tier 
+tier 
+tier 
+tier 
+customer 
+model 
+toyota prius lexus toyota estima hybrid etc 
+toyota prius lexus lexus etc 
+nissan leaf isuzu elf hybrid etc 
+honda insight honda civic hybrid honda accord hybrid honda fit hybrid etc 
+mitsubishi miev etc 
+customer 
+toyota 
+nissan 
+honda 
+model 
+toyota prius toyota aqua toyota camry hybrid lexus etc 
+nissan leaf etc 
+honda insight honda civic hybrid honda accord hybrid honda fit hybrid etc 
+supplier 
+prime earth energy 
+sanyo electric panasonic 
+panasonic 
+prime earth energy 
+automotive energy supply 
+blue energy 
+lithium energy japan 
+customer 
+toyota 
+honda ford porsche psa 
+fhi 
+toyota 
+nissan renault 
+honda 
+mmc psa 
+model 
+toyota prius toyota aqua toyota camry hybrid lexus etc 
+honda insight ford escape hybrid touareg hybrid etc 
+subaru crosstrek hybrid etc 
+toyota prius etc 
+nissan leaf nissan fuga etc 
+honda civic hybrid honda honda accord hybrid honda fit hybrid etc 
+mitsubishi miev mitsubishi minicab miev etc 
+country 
+japan 
+japan 
+supplier 
+toyota industries 
+nichikon 
+toyota 
+nissan 
+system component 
+regenerative brake 
+regenerative brake 
+regenerative brake 
+country 
+japan 
+japan 
+japan 
+supplier 
+aisin seiki 
+hitachi automotive systems 
+nissin kogyo 
+toyota 
+nissan 
+honda 
+system component 
+current sensor 
+current sensor 
+current sensor 
+current sensor 
+current sensor 
+current sensor 
+country 
+japan 
+japan 
+japan 
+japan 
+japan 
+japan 
+supplier 
+denso 
+tdk 
+yazaki 
+alps electric 
+kohshin electric 
+kohshin electric 
+toyota 
+system component 
+high voltage relay 
+high voltage relay 
+high voltage relay 
+high voltage relay 
+country 
+japan 
+japan 
+japan 
+japan 
+denso 
+panasonic 
+omron 
+nec tokin 
+toyota 
+toyota 
+system component 
+country 
+japan 
+japan 
+japan 
+japan 
+supplier 
+denso 
+fuji electric 
+mitsubishi electric 
+rohm 
+toyota 
+toyota 
+honda 
+tier 
+igbt 
+igbt 
+igbt 
+igbt 
+supplier 
+customer 
+model 
+toyota prius plug hybrid 
+nissan leaf mitsubishi miev mitsubishi minicab miev etc 
+customer 
+model 
+toyota prius toyota sai lexus etc 
+nissan leaf etc 
+civic hybrid honda fit honda accord plug hybrid honda fit hybrid etc 
+customer 
+model 
+toyota prius toyota aqua toyota camry hybrid lexus etc 
+customer 
+model 
+customer 
+model 
+lexus etc 
+lexus lexus etc 
+honda insight honda honda fit hybrid etc 
+source company data marklines credit suisse 
+auto auto parts electronic components sector 
+july 
+denso outperform 
+denso developing wide range hev phev related products complement full 
+lineup electronic control products for icev applications the company aims increase 
+its sales the hev phev field from some present about 
+denso broad ranging product lineup this field includes hybrid vehicle ecus inverters 
+converters battery monitoring units current sensors high performance batteries 
+and motor generators one product development watch for the future high output 
+small inverter module that denso exhibited the automotive engineering exposition 
+denso supplying inverters toyota for models other than the prius corolla and aqua 
+but likely increase its share within the toyota group starts gain orders for the 
+next generation inverters for models such the fourth generation prius 
+date denso has supplied most its hev phev related products toyota but 
+now seeking develop products that fit the requirements other automakers well 
+has already secured orders for hev inverters for the nissan pathfinder hev and mazda 
+axela hev mazda overseas also developing hev battery packs after its success 
+supplying ion batteries for the ene charge system used suzuki wagon models 
+denso aims build its reputation for high quality powertrain system control products 
+develop its business supplier varied products for hybrid vehicle systems 
+one denso strengths its house development expertise with the small components 
+that into automotive parts modules and systems besides house production capacity 
+for the igbt power chips used power control units and inverters denso also jointly 
+developing power semiconductors with toyota where the silicon has been replaced 
+silicon carbide sic this project has succeeded lowering internal resistance based 
+proprietary design for the internal structure such chips this has reduced the amount 
+internal heat generated cutting thermal energy losses the small inverters based 
+this technology can generate power world leading output power density 
+figure denso hev related products 
+source company data 
+auto auto parts electronic components sector 
+july 
+figure high output small inverter denso 
+figure silicon carbide mosfet denso 
+source company data 
+source company data 
+aisin seiki outperform 
+aisin seiki earnings have been growing due expanding sales automatic 
+transmissions not only toyota but also other customers think its next source 
+longer term growth likely attractive scenario rising sales hev transmission 
+non toyota customers most recently supplying low capacity motor hev 
+transmissions for mazda axela skyactiv hybrid and the results briefing 
+management said for the first time that was developing hev transmissions for wide 
+variety vehicles actively working expand sales hev transmissions including 
+non toyota customers toyota progresses with its hev strategy aisin seiki may 
+continue actively expand sales non toyota customers such products hev 
+transmissions and regenerative braking systems toyota aims pursue rising 
+economies scale making the toyota hybrid system facto standard core 
+suppliers hev systems such aisin seiki would have even greater incentive focus 
+selling non toyota customers well hev transmissions from aisin and 
+regenerative braking systems from advics are about half the total cost toyota hev 
+systems value added per vehicle from these components extremely high and sales 
+expand this could contribute substantially earnings growth aisin seiki 
+aisin seiki major supplier electric oil pumps used hydraulic controls for automatic 
+transmissions and hev cooling applications also supplies electric water pumps 
+used cooling inverters engines was the first japanese company commercialize 
+electric water pumps for engine cooling applications and these products are used the 
+toyota prius replacing the older mechanical water pumps they are one the primary 
+cooling devices used car engines the use electrical water pump not only reduces 
+mechanical losses but also helps optimize cooling functions through linear control the 
+company the world leader automotive use water and oil pumps both mechanical 
+and electrical types other major players this sector include hitachi automotive systems 
+japan and kspg germany growth expected over the longer term electrical 
+pumps are used growing numbers hvs phevs evs and idling stop systems 
+auto auto parts electronic components sector 
+july 
+figure hev transmission shipments aisin 
+figure electric water pump aisin seiki 
+thousand units 
+source company data credit suisse 
+source company data 
+toyota industries outperform 
+toyota industries supplies high value added electronics for hev phev applications 
+including converters pcu direct cooling devices and inverters the company 
+electronics business has grown significantly due sales products for the hev like 
+toyota prius and aqua models its converters are used many toyota hybrids 
+and the top supplier these products japan with market share just over 
+going forward aiming develop more sales non toyota group customers the 
+market penetration eco compliant vehicles starts increase more rapidly the current 
+prius contains one the company house products proprietary pcu direct cooling 
+device that delivers substantially greater cooling effect this was the first product from 
+toyota industries installed core technical component the prius model 
+besides supplying inverters using this direct cooling technology the company also 
+developing compact lightweight powertrain units based integrated design for 
+functional components such the motor and reduction gears 
+the company also commands more than the global market for compressors used 
+vehicle air conditioning systems besides traditional fixed displacement compressors 
+also supplies variable displacement compressors and electric powered compressors for 
+use hev phev applications its products are used the prius aqua and toyota 
+other eco compliant models going forward the company plans accelerate growth 
+sales non toyota group customers electric type compressors the recently 
+introduced and easily installed esa series which more energy efficient and lighter 
+than the former series being incorporated into house produced motors and 
+inverters ford and honda have also placed orders for these products expect the 
+company use these new products spearhead growth sales japanese european 
+and automakers 
+auto auto parts electronic components sector 
+july 
+figure converter toyota industries 
+figure japanese converter market shares 
+nichicon 
+denso 
+hitachi 
+automotive 
+tdk 
+toyota 
+industries 
+source company data credit suisse estimates 
+source irc credit suisse 
+figure toyota ind growth plan for electronic products 
+source company data 
+figure variable displacement electric compressors 
+figure toyota ind growth plan for electric 
+compressors 
+source company data 
+auto auto parts electronic components sector 
+source company data 
+july 
+keihin neutral 
+keihin has supplied all the motor and battery ecus used honda hybrid powertrains 
+from the ima system the dcd system used the latest fit hybrid keihin developed 
+this latest ecu jointly with honda estimated shipments were roughly 
+vehicles receiving signals from the ecu that controls the overall powertrain the ecu 
+controls the motor and the battery the latest fit model these controls have been 
+integrated save space and reduce weight keihin the assembly subcontractor for the 
+pcus used the accord hybrid mmd system well keihin reliant external 
+vendors for some the components used its inverters and converters but 
+think will still seek establish its presence pcu systems supplier the future 
+over the long term there also potential for growth from supplying customers outside the 
+honda group 
+figure hybrid vehicle ecu keihin 
+figure hev ecu shipments keihin 
+thousand units 
+source company data 
+source marklines credit suisse 
+calsonic kansei neutral 
+the company supplies inverters and ion battery controllers lbcs for the nissan leaf 
+has installed specialized robots its kodama factory automate inverter production 
+the lbc monitors and controls the individual cells within the ion battery pack provide 
+information the driver the vehicle range and battery charging status based the 
+residual charge the battery combining strong and weak electric elements 
+single substrate helped realize more compact lbc lower cost elsewhere the 
+company has recently started supplying battery cooling brushless motors for the skyline 
+hybrid these brushless motors are also specially designed compact lightweight products 
+aimed satisfying the stricter performance requirements fully electronic powertrain 
+think calsonic will able secure orders for various new vehicle models future 
+auto auto parts electronic components sector 
+july 
+figure use inverter calsonic kansei 
+figure ion battery controller calsonic kansei 
+source company data 
+source company data 
+electronic components and semiconductors benefiting from electric powertrains 
+the growing use electric powertrains increasing demand for power integrated circuits 
+including schottky barrier diodes sbds mosfet metal oxide semiconductor field effect 
+transistor and igbt insulated gate bipolar transistor devices this will provide tailwind 
+for makers such mitsubishi electric rohm fuji electric and renesas electronics 
+gasoline powered vehicles greater use direct fuel injection and electric water pumps 
+boosting mosfet demand hybrid electric vehicles the demand for power ics rising 
+due the use varied devices from converters including the step two way 
+types and inverters integrated starter modules isms range extenders and battery 
+recharging equipment 
+rising demand for power 
+ics due advanced engine 
+controls and hybrids 
+converters for hybrid electric vehicles expect makers start supplying more 
+power mosfet devices with high voltage resistance trench designs from along 
+with igbt adoption silicon carbide sic sbd and power mosfet expected 
+the earliest with sic igbt devices appearing from around current 
+trends see demand for power ics automotive applications rising strongly since the 
+growth usage being driven the shift electric powertrain suspension and braking 
+systems alongside the broader trend toward greater use onboard electronics 
+hybrid electric vehicles current sensors play vital role battery management and the 
+control the flow electric current between the motor and inverter tdk has started 
+mass produce small current sensors applying its gmr head technology which allows 
+more compact solution eliminating the need for magnetic cores and coils alps electric 
+also offers core less current sensors its product lineup 
+europe mild hybrids are expected appear from expect this trend 
+stimulate demand for isg units which integrate the starter and generator replace the 
+conventional starter and alternator based its own switched reluctance technology 
+nidec has been developing the isg concept with controlled power technologies cpt 
+the resulting products are expected enter commercial production from 
+within the growing market for converters used hybrid electric vehicles tdk 
+supplying honda along with general motors and ford north america while nichicon 
+mass producing such products for nissan and mitsubishi motors tdk trying develop 
+more compact converters using proprietary heat dissipation board turn 
+the mosfet into surface mounted device and developing designs for smaller coils 
+that involve printing the pattern onto spiral using metallic paste tdk also owns two way 
+converter technology but possible that the adoption technology europe will 
+done using step converters from await related developments 
+auto auto parts electronic components sector 
+hybrid electric vehicles 
+driving converter 
+and isg demand 
+july 
+nippon chemi con significant player energy recovery systems supplying electric 
+double layer capacitors for onboard systems used both mazda and honda elsewhere 
+alps electric supplies electronic gear shifters for transmissions using advanced electronic 
+controls these products eliminate the need for mechanical link with the transmission 
+demand for capacitors coils resistors and other passive components growing the 
+use onboard electronics continues increase another positive related trend growth 
+the number components per ecu which function advanced powertrain control 
+technology along with the increasing use ecus hybrid electric vehicles 
+growth onboard ecus expected boost demand for connectors well passive 
+components moreover addition ethernet high speed transmission large volumes 
+data used cameras radar and other devices advanced driver assistance systems 
+adas think ethernet high speed transmission will start support integrated control 
+powertrain braking and suspension system ecus from around automakers try 
+achieve the goal safe automated driving this trend increased inter ecu signaling 
+will also tend boost demand for junction box connectors prevent related proliferation 
+wire harnesses 
+auto auto parts electronic components sector 
+july 
+electrification auxiliary 
+components 
+optimal solutions for linear control high responsiveness 
+with demand increasing for higher specifications all kinds parts systems and 
+modules the importance the linear control that electrically driven parts provide 
+various mechanisms continues rise from throttle operation braking and steering the 
+trend toward wire control electrical signal addition such gains are also 
+extending many types auxiliary parts shifting from mechanical electrical control for 
+auxiliary components such pumps and air compressors not only reduces consumption 
+engine output energy during driving but also increases control efficiency expect the 
+trend toward electrical control progress still further given the benefits seen along 
+range key dimensions including environmental safety and comfort 
+electronic systems divide broadly into sensors actuators and electronic control units 
+ecus with the shift toward electrical controls demand continues rise not only for 
+suppliers that can deliver whole systems but also for ecus that can control total systems 
+sensors that can detect the required information and even actuators the required 
+electrical motors 
+increasing use onboard motors 
+number onboard motors per vehicle continuing increase 
+the number onboard motors installed vehicles continues increase inexorably the 
+majority these motors are interior exterior fittings but there also significant trend 
+towards using more electric motors powertrain braking and suspension systems and 
+within the actual vehicle chassis 
+figure number onboard motors per vehicle 
+units 
+laxury 
+middle suv 
+light compact car 
+source company data credit suisse estimates 
+besides the starter and alternator electric motors are being incorporated into automotive 
+powertrains electronically controlled throttles continuously variable valve timing and lift 
+mechanisms which enable optimized control valve timing low engine speed radiator 
+cooling fans and other advances another area growing technical interest expanded 
+use isg units europe support the shift mild hybrids 
+auto auto parts electronic components sector 
+july 
+braking suspension and chassis related systems electric motors are being adopted 
+means improve drivability and safety while boosting fuel efficiency examples include 
+electric power steering electric parking brakes and electronically controlled brake systems 
+such abs and esc fully electronic gearboxes and suspension systems are now being 
+used luxury models are also beginning see the adoption motors electronic 
+control features such dual clutch transmissions and systems designed control engine 
+oil pressure electric power steering eps was standard models 
+and this figure expected rise nearly automakers install more 
+the larger models their range braking systems global regulatory trends are pushing 
+widespread adoption esc moreover from new car models were required have 
+electric braking system gain five stars under europe ncap new car assessment 
+program think automakers will prefer install upgraded abs the short term but 
+clearly there significant potential for abs motors redeveloped ebs motors 
+related trend also see increasing demand for ecu integrated motors particularly 
+systems such abs esc and eps 
+figure auto related motor application 
+price 
+power train 
+average motor per car 
+laxury 
+adaptted motors 
+middle suv light compact 
+starter 
+alternator 
+electronic control throttle 
+variabel valve timing intelligent electronic motor 
+electronic egr valve 
+radiator cooling fan 
+fuel pump 
+chassis 
+electronic power steering eps 
+electronic steering lock 
+electronic parking brake 
+electronic control brake abs esc 
+electronic control variable gear ratio steering 
+electronic control suspension 
+electronic four wheel steering system 
+electronic active stabilizer 
+electronic electronic control 
+electronic dct 
+interior exterior 
+mirror 
+dorr lock 
+power window 
+easy closer luggage front rear door 
+wiper 
+washer 
+power sheet 
+active headrest 
+auto front light leveling 
+adaptive front lighting system afs 
+front light cleaner 
+air conditioner blower 
+air conditioner damper 
+air conditioner louver 
+seat air conditioning system 
+air cleaning device 
+meter 
+electronic pretensioner 
+navi audio 
+electronic tilt steering telescopic 
+electronic fuel rid opener 
+total 
+brush motor 
+brushless motor 
+stepping motor 
+winding field synchronous power generator 
+adapted 
+less adapted 
+source company data credit suisse estimates 
+auto auto parts electronic components sector 
+july 
+nidec major beneficiary existing trends with further value uplift possible 
+from ecu integrated motors major acquisition 
+see nidec major beneficiary the trend towards using electric motors braking 
+suspension and chassis related auxiliary systems the company already has dominant 
+share the market europe for eps related motors and its global share this market 
+rose see this figure increasing around 
+nidec also began supplying motors for dual clutch transmissions and electric oil pumps 
+think the company starting push into europe with its motors for ebs 
+applications there also additional future potential from isg units for mild hybrid 
+powertrains which expect nidec begin marketing europe from around 
+ecu integration into motors difficult proposition within the main powertrain creating 
+technical barrier entry due the level electronic control required but think 
+more feasible for nidec with motors auxiliary systems such electric power steering 
+electric servo braking esb motors used interior exterior fittings light the 
+automobile model cycle think ecu integrated motors are likely start contributing 
+earnings from onwards nidec elesys recent acquisition supplies ecus for use 
+eps abs esb and esc systems the short term expect nidec focus the 
+development ecu integrated motors for eps and esb applications estimate that 
+the average cost onboard ecu which implies that ecu integrated motors 
+could realize double the sales and per unit for nidec compared with the motors alone 
+addition nidec has been indicating the possibility major automotive acquisition for 
+some time and think likely expand its business portfolio this direction 
+figure nidec shipment volume projections for 
+figure onboard motors market and related nidec 
+onboard motors 
+sales projections 
+thous units 
+others 
+abs ebs 
+sun 
+roof power 
+window 
+seat adjuster 
+engine cooling 
+nidec 
+automotive 
+sales rhs 
+automotive 
+motor 
+market lhs 
+oil pump 
+dct 
+eps 
+source company data credit suisse estimates 
+auto auto parts electronic components sector 
+source company data credit suisse estimates 
+july 
+device rich systems ecus expanding 
+ecu expansion continues 
+electronic control continues gain importance alongside demand for shift higherspec systems that partly driven tougher regulations believe the number 
+vehicles fitted with ecus will continue increase addition the shift from hydraulic 
+electronic control using electric motors electric vehicles and increasing adoption 
+sensors and actuators cars advanced electronic control demand due tougher 
+emissions and fuel consumption regulations governing internal combustion engines 
+accordingly look for the number cars equipped with ecus continue increase 
+per year carmakers might strive install integrated ecus the future but 
+the near term expect ecu adoption system continue expand 
+figure ecu shipment volumes 
+thous units 
+sensor actuator 
+xev 
+information 
+safety driving 
+brake chassis related 
+power train 
+body 
+ecu per car 
+source company data fuji chimera research institute credit suisse estimates 
+figure ecu adoption segment 
+power train 
+segment 
+brake 
+chassis 
+safety 
+driving 
+body 
+information 
+sensor 
+actuator 
+xev 
+total average 
+compact 
+middle 
+large 
+source company data fuji chimera research institute credit suisse estimates 
+non body ecus which feature large numbers electronic devices expanding 
+place body ecus 
+expect adoption powertrain suspension safety electric vehicle and 
+sensor actuator ecus accelerate place body ecus such ecus for body 
+integration meters and powered windows look for more electronic devices 
+incorporated these ecus further boosting demand 
+figure shows examples mlcc numbers type ecu body ecus currently 
+feature over mlccs per unit while computerized non body ecus incorporate 
+mlccs expect demand for mlccs grow faster than ecu volume due 
+increased adoption powertrain safety suspension sensor actuator ecus which 
+feature large numbers mlccs per unit 
+auto auto parts electronic components sector 
+july 
+while these mlcc numbers type ecu are purely examples variations mlcc 
+numbers per unit translate also differing specifications for the semiconductors deployed 
+ecus thus common thread shared electronic parts and semiconductor devices 
+figure number mlccs ecu type 
+ecu 
+mlcc units 
+gasoline engine ecu 
+diesel engine ecu 
+transmission ecu 
+abs esc ecu 
+eps ecu 
+body ecu 
+ecu 
+air bag ecu 
+hvac ecu 
+adas ecu 
+infortainment ecu 
+power control ecu 
+battery management ecu 
+mlcc units 
+source company data fuji chimera research institute 
+high barriers entry japanese device makers should benefit the most from 
+demand growth the near term 
+the fact that powertrain electric vehicle and suspension ecus must meet tougher 
+standards than body and non body ecus terms heat water and vibration resistance 
+should boon japanese device makers which make the high reliability their 
+products selling point 
+for example body and non body ecus which are mounted near the cabin generally 
+have withstand ambient temperature range degrees celsius water 
+protected and withstand vibration ecus mounted near engine 
+compartments require higher specification components the requirements are 
+degrees celsius shower submerge and 
+besides devices for these automotive systems require reliability and mass production 
+tests over long period years before mass production can get fully under way this 
+generates startup costs but the business can expected generate stable earnings for 
+around years once mass production gets going the sector was forced engage 
+fierce price competition for time due short product life cycles and catch with 
+asian rivals but think japanese device makers position will remain unchanged the 
+near term 
+electronic parts profit contribution likely outstrip that from semiconductors 
+comparison with hardware automobiles have longer product cycles and require 
+long term guarantee supply semiconductor devices migration finer process 
+geometries source cost savings but scope for such savings limited automakers 
+needs dictate that the same process maintained for long periods time advances 
+autonomous and connected vehicles will demand increased adoption application 
+processors and connectivity solutions cellular etc these products however 
+must manufactured using cutting edge ultrafine process technologies this makes 
+difficult leave products and production lines unchanged over long periods much 
+thought must given the type eco system that should built 
+when comes passive and electromechanical components connectors the 
+materials required specifications and design differ greatly depending whether the enduse hardware automobile however the production processes not vary 
+much unlike semiconductor manufacturing where cost savings rely primarily 
+upgrades production equipment passive and electromechanical component makers can 
+resort also improving takt time shortening production lines and employing labor saving 
+technology while barriers entry are high and easy matter maintain excellent 
+product quality see greater scope for earnings expansion than the production 
+parts for hardware where manufacturers face annual pressure for price cuts the 
+realm and must also cope with seasonal swings demand 
+auto auto parts electronic components sector 
+july 
+shift automotive electronics from mlcc market 
+perspective 
+expecting mlcc shipment value continue grow per year 
+the following examine the proliferation electronics automobiles based 
+murata mfg and tdk mlcc sales automakers estimate that these two companies 
+command nearly the global market making them good yardstick for measuring 
+trends the adoption electronics automobiles 
+mlccs are basic components incorporated the electronic circuits ecus the 
+automotive mlcc market has grown around fold value over the past years 
+cagr owing growth the number ecus used cars supported 
+increasing use auto electronics electrification automation and computerization 
+per vehicle sales shipment value divided number vehicles sold worldwide including 
+commercial vehicles rose from unit unit cagr 
+the automotive electronic devices market usually thought grow the same pace 
+the number ecus per vehicle per year however noted above growth 
+device rich ecus and systems leading increased mlcc demand excess ecu 
+demand growth expect this trend gain momentum 
+limited commoditization automotive mlccs 
+the idea that mlccs can considered commodity does not necessarily hold true 
+the automotive sphere mlccs used car navigation and car audio systems are highly 
+commoditized but take example the mlccs deployed ecus mounted 
+inside near the engine room degree customization required not only size and 
+capacity but also the mode vibration required each customer and ecu and 
+extension the type resin external metal terminal conductive epoxy 
+japanese manufacturers streets ahead passive components 
+japanese companies particular murata mfg and tdk dominate the mlcc market 
+japanese manufacturers also command huge market shares other areas including 
+inductors resistors quartz devices and ceramic resonators gather that tdk for 
+example has share the inductor market and that its global share rises 
+nearly confine our discussion common mode filters cmf used differential 
+transmission the other aforementioned markets are also largely controlled japanese 
+manufacturers including murata mfg toko and panasonic looking ahead anticipate 
+rapid growth demand for power inductors uptake converters increases 
+and think japanese companies will sure respond appropriately 
+figure shows murata mfg and tdk mlcc sales automakers our estimates 
+figure shows the per unit value mlccs obtained dividing shipment value 
+global auto shipment volume including commercial vehicles 
+auto auto parts electronic components sector 
+july 
+figure murata mfg tdk mlcc sales automakers 
+figure murata mfg tdk per unit value mlccs 
+cagr 
+cagr 
+average mlcc asp per car 
+mlcc sales for automotive 
+source company data credit suisse estimates 
+source company data credit suisse estimates 
+automaker sales weighting might surpass 
+explain greater detail 
+computerization market reach 
+expect the electronic components 
+the proliferation device rich 
+electric vehicle systems 
+later expect the electrification automation and 
+per year cagr however 
+and semiconductor markets grow more strongly due 
+systems and ecus and adoption new adas and 
+look for non auto related sales for japanese device companies listed figure 
+remain flat our base scenario see sales automakers rising from around 
+least around annual growth line with the auto 
+electronics market whole versus and around fold 
+expect automaker sales weightings exceed and reach around 
+our super bull scenario which current growth per year continues 
+envisages expansion and 
+figure expecting device sales automakers exceed total sales 
+auto and non auto sales forecasts for japanese device makers 
+non auto 
+auto 
+auto ratio 
+base scenario 
+cagr 
+bull scenario 
+cagr 
+super bull scenario 
+cagr 
+source company data credit suisse estimates 
+auto auto parts electronic components sector 
+july 
+semiconductors 
+japanese makers maintaining large shares especially power and mcu ics 
+japanese semiconductor makers have lost market presence except certain product 
+categories such nand and cmos sensors however they still have around 
+share the automotive semiconductor market renesas electronics accounting for most 
+the share they have large shares the power supply discrete and mcu markets 
+they have not sustained major share losses despite revisions business continuity plans 
+and supply risk after the march earthquake 
+overseas manufacturers expect gain share among japanese makers from around 
+overseas majors such infineon ifx stmicroelectronics nxp freescale 
+semiconductor fsl nxp and texas instruments txn are aiming business with 
+japanese tier companies and automakers but expect full fledged adoption only from 
+around understand they are aiming gain share the japanese market 
+based their track record with european tier makers which have lead adas 
+rather than with traditional ecu makers 
+figure automotive semiconductor ranking 
+ranking automotive 
+semiconductor vendors 
+renesas electronics 
+infineon technologies 
+stmicroelectronics 
+freescale semiconductor 
+nxp 
+texas instruments 
+robert bosch 
+denso 
+semiconductor 
+rohm 
+toshiba 
+sanken 
+analog devices 
+panasonic 
+micron technology 
+mitsubishi 
+spansion 
+microchip technology 
+melexis microelectronics systems 
+fuji electric 
+toyota 
+osram 
+vishay 
+fujitsu semiconductor 
+stanley electric 
+others 
+total 
+americas 
+asia pacific 
+emea 
+japan 
+revenues 
+market share 
+source company data gartner credit suisse estimates 
+auto auto parts electronic components sector 
+july 
+figure japanese semiconductor maker shares device 
+total 
+assp 
+asic 
+non optical sensors 
+optoelectronics 
+discrete 
+analog 
+general purpose logic 
+dsp 
+microcontroller 
+microprocessor 
+memory 
+source company data gartner credit suisse estimates 
+auto auto parts electronic components sector 
+july 
+figure semiconductor sales and market share automotive companies 
+renesas 
+electronics 
+denso 
+rohm 
+toshiba 
+sanken 
+toyota 
+memory 
+microprocessor 
+microcontroller 
+dsp 
+general purpose logic 
+analog 
+discrete 
+optoelectronics 
+non optical sensors 
+asic 
+assp 
+total 
+infineon 
+stm 
+fsl 
+nxp 
+txn 
+robert 
+bosch 
+memory 
+microprocessor 
+microcontroller 
+dsp 
+general purpose logic 
+analog 
+discrete 
+optoelectronics 
+non optical sensors 
+asic 
+assp 
+total 
+renesas 
+electronics 
+denso 
+rohm 
+toshiba 
+sanken 
+toyota 
+memory 
+microprocessor 
+microcontroller 
+dsp 
+general purpose logic 
+analog 
+discrete 
+optoelectronics 
+non optical sensors 
+asic 
+assp 
+total 
+market share 
+infineon 
+stm 
+fsl 
+nxp 
+txn 
+robert 
+bosch 
+memory 
+microprocessor 
+microcontroller 
+dsp 
+general purpose logic 
+analog 
+discrete 
+optoelectronics 
+non optical sensors 
+asic 
+assp 
+total 
+market share 
+panasonic mitsubichi 
+fuji elec 
+fujitsu 
+japan total 
+onnn 
+adi 
+spansion 
+total 
+market 
+fuji elec 
+fujitsu 
+japan total 
+onnn 
+adi 
+spansion 
+total 
+market 
+panasonic mitsubichi 
+source company data gartner credit suisse estimates 
+auto auto parts electronic components sector 
+july 
+appendix 
+figure companies the automotive ecu market 
+entry companies 
+radar sensor 
+power window smart motor 
+steering sensor 
+automotive camera 
+yaw rate sensor module 
+vehicle battery charger 
+battery monitoring ecu 
+converter 
+inverter module 
+ecu 
+telematics ecu 
+display audio 
+car navigation ecu 
+airbag ecu 
+pre crash safety ecu 
+other body ecu 
+meter ecu 
+tpms ecu 
+electonic key ecu 
+air conditioning ecu 
+electric power steering ecu 
+body integrated controller ecu 
+esc ecu 
+abs ecu 
+transmission ecu 
+idling stop systeme ecu 
+diesel engine ecu 
+gasoline engine ecu 
+maker 
+autoliv 
+behr hella thermocontrol 
+bosch 
+brose 
+continental 
+delphi 
+dongah 
+flextronics 
+gentex 
+harman becker 
+hella 
+huf electronics 
+hyundai mobis 
+infineon technologies 
+johnson controls 
+kefico 
+kostal 
+lear 
+electronics 
+lucas tvs 
+magna 
+magneti marelli 
+mando 
+methode electronics 
+nexteer automotive 
+schrader electronics 
+sensata technologies 
+shinchang electrics 
+sysrton donner inertial 
+trw automotive 
+tdk epc 
+source company data fuji chimera research institute credit suisse estimates 
+auto auto parts electronic components sector 
+july 
+figure companies the automotive ecu market 
+entry companies 
+power window smart motor 
+radar sensor 
+automotive camera 
+steering sensor 
+yaw rate sensor module 
+battery monitoring ecu 
+vehicle battery charger 
+converter 
+inverter module 
+ecu 
+display audio 
+telematics ecu 
+car navigation ecu 
+pre crash safety ecu 
+airbag ecu 
+other body ecu 
+meter ecu 
+tpms ecu 
+electonic key ecu 
+air conditioning ecu 
+electric power steering ecu 
+body integrated controller ecu 
+esc ecu 
+abs ecu 
+transmission ecu 
+idling stop systeme ecu 
+diesel engine ecu 
+gasoline engine ecu 
+maker 
+united technologies 
+valeo 
+visteon 
+aisin 
+asmo 
+advics 
+omron 
+calsonic kansei 
+kyocera 
+keihin 
+shindengen electric manufacturing 
+sumitomo wiring systems 
+denso 
+tokai rika 
+clarion 
+sharp 
+sony 
+toshiba 
+toyota motor 
+toyota industries 
+nichicon 
+nissin kogyo 
+nippon seiki 
+pioneer 
+panasonic 
+hitachi automotive systems 
+hitachi 
+fujitsu ten 
+fuji electric 
+honda elesys 
+mitsuba 
+mitsubishi electric 
+yazaki 
+rohm 
+source company data fuji chimera research institute credit suisse estimates 
+auto auto parts electronic components sector 
+july 
+companies mentioned price jul 
+aisin unlisted 
+aisin seiki 
+alps electric 
+bmw bmwg 
+bridgestone 
+cpt unlisted 
+calsonic kansei 
+continental ctcn 
+continental cong 
+delphi automotive plc dlph 
+daihatsu motor 
+daimler daign 
+denso 
+exedy 
+fanuc 
+faurecia eped 
+fiat fia 
+ford motor 
+freescale semiconductor inc fsl 
+fuji electric 
+fuji heavy industries 
+general motors corp 
+hino motors 
+hirose electric 
+hitachi 
+hitachi automotive systems unlisted 
+honda motor 
+hyundai mobis 
+hyundai motor 
+ibiden 
+infineon technologies ifxgn 
+iriso electronic 
+isuzu motors 
+japan aviation electronics industry 
+japan display 
+johnson controls jci 
+keihin 
+kia motors 
+koa 
+kyocera 
+lear corp lea 
+mabuchi motor 
+magna international mga 
+mazda motor 
+mitsubishi electric 
+mitsubishimotors 
+mitsumi electric 
+murata manufacturing 
+musashi seimitsu industry 
+ngk spark plug 
+nxp nxp 
+nichicon 
+nidec 
+nidec elesys unlisted 
+nihon dempa 
+nippon chemicon 
+nissan motor 
+nissha printing 
+panasonic corporation 
+porsche pshg_p 
+renault rena 
+renesas electron 
+rohm 
+stmicroelectronics stm 
+sanken electric 
+sharp corp 
+shindengen elec 
+shinko electric industries 
+sumitomo rubber industries 
+suzuki motor 
+tdk 
+trw automotive holdings corp trw 
+taiyo yuden 
+takata corporation 
+tesla motors tsla 
+texas instruments inc txn 
+tokai rika 
+toko 
+toshiba 
+toyoda gosei 
+toyota boshoku 
+toyota industries 
+auto auto parts electronic components sector 
+july 
+toyota motor 
+volkswagen vowg_p 
+wacom 
+yamaha motor 
+yokowo 
+psa peugeot citroen unlisted 
+valeo vlof 
+disclosure appendix 
+important global disclosures 
+masahiro akita akinori kanemoto hideyuki maekawa and shunsuke tsuchiya each certify with respect the companies securities that the 
+individual analyzes that the views expressed this report accurately reflect his her personal views about all the subject companies and 
+securities and part his her compensation was will directly indirectly related the specific recommendations views 
+expressed this report 
+the analyst responsible for preparing this research report received compensation that based upon various factors including credit suisse 
+total revenues portion which are generated credit suisse investment banking activities 
+december analysts stock rating are defined follows 
+outperform the stock total return expected outperform the relevant benchmark over the next months 
+neutral the stock total return expected line with the relevant benchmark over the next months 
+underperform the stock total return expected underperform the relevant benchmark over the next months 
+relevant benchmark region december japanese ratings are based stock total return relative the analyst coverage universe which 
+consists all companies covered the analyst within the relevant sector with outperforms representing the most attractive neutrals the less attractive and 
+underperforms the least attractive investment opportunities october and canadian well european tings are based stock total 
+return relative the analyst coverage universe which consists all companies covered the analyst within the relevant sector with outperforms representing the 
+most attractive neutrals the less attractive and underperforms the least attractive investment opportunities for latin american and non japan asia stocks ratings 
+are based stock total return relative the average total return the relevant country regional benchmark prior october and canadian 
+ratings were based stock absolute total return potential its current share price and the relative attractiven ess stock total return potential within 
+analyst coverage universe for australian and new zealand stocks month rolling yield incorporated the absolute total return calculation and and 
+threshold replace the level the outperform and underperform stock rating definitions respectively the and thresholds replace the and levels the neutral stock rating definition respectively prior december japanese ratings were based stock total return 
+relative the average total return the relevant country regional benchmark 
+restricted certain circumstances credit suisse policy and applicable law and regulations preclude certain types communications 
+including investment recommendation during the course credit suisse engagement investment banking transaction and certain other 
+circumstances 
+volatility indicator stock defined volatile the stock price has moved down more month least the past 
+months the analyst expects significant volatility going forward 
+analysts sector weightings are distinct from analysts stock ratings and are based the analyst expectations for the fundamentals and 
+valuation the sector relative the group historic fundamentals and valuation 
+overweight the analyst expectation for the sector fundamentals and valuation favorable over the next months 
+market weight the analyst expectation for the sector fundamentals and valuation neutral over the next months 
+underweight the analyst expectation for the sector fundamentals and valuation cautious over the next months 
+analyst coverage sector consists all companies covered the analyst within the relevant sector analyst may cov multiple sectors 
+credit suisse distribution stock ratings and banking clients 
+global ratings distribution 
+rating 
+versus universe 
+which banking clients 
+outperform buy 
+banking clients 
+neutral hold 
+banking clients 
+underperform sell 
+banking clients 
+restricted 
+for purposes the nyse and nasd ratings distribution disclosure requirements our stock ratings outperform neutral underperform most closely 
+correspond buy hold and sell respectively however the meanings are not the same our stock ratings are determined relative basis please refer 
+definitions above investor decision buy sell security should based investment objectives current holdin and other individual factors 
+auto auto parts electronic components sector 
+july 
+credit suisse policy update research reports deems appropriate based developments with the subject company the sector the 
+market that may have material impact the research views opinions stated herein 
+credit suisse policy only publish investment research that impartial independent clear fair and not misleading for more detail please refer 
+credit suisse policies for managing conflicts interest connection with investment research http csfb research and 
+analytics disclaimer managing_conflicts_disclaimer 
+credit suisse does not provide any tax advice any statement herein regarding any federal tax not intended written used and cannot 
+used any taxpayer for the purposes avoiding any penalties 
+see the companies mentioned section for full company names 
+the subject company fia bmwg daign vowg_p cong 
+pshg_p currently was during the month period preceding the date distribution this report client credit suisse 
+credit suisse provided investment banking services the subject company fia bmwg vowg_p 
+cong pshg_p within the past months 
+credit suisse provided non investment banking services the subject company fia bmwg daign 
+vowg_p cong pshg_p within the past months 
+credit suisse has managed managed public offering securities for the subject company fia bmwg vowg_p 
+cong pshg_p within the past months 
+credit suisse has received investment banking related compensation from the subject company fia bmwg 
+vowg_p cong pshg_p within the past months 
+credit suisse expects receive intends seek investment banking related compensation from the subject company 
+fia bmwg vowg_p 
+cong pshg_p within the next months 
+credit suisse has received compensation for products and services other than investment banking services from the subject company 
+fia bmwg daign vowg_p cong pshg_p within the past months 
+the date this report credit suisse makes market the following subject companies 
+the end the preceding month credit suisse beneficially own more class common equity securities daign 
+for other important disclosures concerning companies featured this report including price charts please visit the website rave creditsuisse disclosures call 
+important regional disclosures 
+singapore recipients should contact credit suisse singapore branch for any matters arising from this research report 
+the analyst involved the preparation this report have not visited the material operations the subject company 
+fia 
+bmwg daign vowg_p cong pshg_p within the past months 
+restrictions certain canadian securities are indicated the following abbreviations nvs non voting shares rvs restricted voting shares 
+svs subordinate voting shares 
+individuals receiving this report from canadian investment dealer that not affiliated with credit suisse should advised that this report may not 
+contain regulatory disclosures the non affiliated canadian investment dealer would required make this were its own report 
+for credit suisse securities canada inc policies and procedures regarding the dissemination equity research please visit 
+http csfb legal_terms canada_research_policy shtml 
+the following disclosed european company ies have estimates that comply with ifrs fia bmwg daign vowg_p cong 
+pshg_p 
+credit suisse has acted lead manager syndicate member public offering securities for the subject company 
+fia bmwg vowg_p cong pshg_p within the past years 
+the date this report credit suisse acts market maker liquidity provider the equities securities that are the subject this report 
+principal not guaranteed the case equities because equity prices are variable 
+commission the commission rate the amount agreed with customer when setting account any time after that 
+the extent this report authored whole part non analyst and made available the the following are important 
+disclosures regarding any non analyst contributors the non research analysts listed below any are not registered qualified research 
+analysts with finra the non research analysts listed below may not associated persons cssu and therefore may not subject the 
+nasd rule and nyse rule restrictions communications with subject company public appearances and trading securities held 
+research analyst account 
+credit suisse securities japan limited masahiro akita akinori kanemoto hideyuki maekawa yoshiyasu takemura shunsuke tsuchiya 
+auto auto parts electronic components sector 
+july 
+for credit suisse disclosure information other companies mentioned this report please visit the website rave creditsuisse disclosures call 
+auto auto parts electronic components sector 
+july 
+references this report credit suisse include all the subsidiaries and affiliates credit suisse operating under its investment banking division for more information our structure please use the 
+following link credit suisse who_we_are this report may contain material that not directed intended for distribution use any person entity who citizen resident 
+located any locality state country other jurisdiction where such distribution publication availability use would contrary law regulation which would subject credit suisse its affiliates 
+any registration licensing requirement within such jurisdiction all material presented this report unless specifically indicated otherwise under copyright none the material nor its 
+content nor any copy may altered any way transmitted copied distributed any other party without the prior express written permission all trademarks service marks and logos used 
+this report are trademarks service marks registered trademarks service marks its affiliates the information tools and material presented this report are provided you for information 
+purposes only and are not used considered offer the solicitation offer sell buy subscribe for securities other financial instruments may not have taken any steps 
+ensure that the securities referred this report are suitable for any particular investor will not treat recipients this report its customers virtue their receiving this report the investments and 
+services contained referred this report may not suitable for you and recommended that you consult independent investment advisor you are doubt about such investments investment 
+services nothing this report constitutes investment legal accounting tax advice representation that any investment strategy suitable appropriate your individual circumstances 
+otherwise constitutes personal recommendation you does not advise the tax consequences investments and you are advised contact independent tax adviser please note particular 
+that the bases and levels taxation may change information and opinions presented this report have been obtained derived from sources believed reliable but makes representation 
+their accuracy completeness accepts liability for loss arising from the use the material presented this report except that this exclusion liability does not apply the extent that such 
+liability arises under specific statutes regulations applicable this report not relied upon substitution for the exercise independent judgment may have issued and may the future 
+issue other communications that are inconsistent with and reach different conclusions from the information presented this report those communications reflect the different assumptions views and 
+analytical methods the analysts who prepared them and under obligation ensure that such other communications are brought the attention any recipient this report some investments 
+referred this report will offered solely single entity and the case some investments solely associate may the only market maker such investments past 
+performance should not taken indication guarantee future performance and representation warranty express implied made regarding future performance information opinions and 
+estimates contained this report reflect judgment its original date publication and are subject change without notice the price value and income from any the securities financial 
+instruments mentioned this report can fall well rise the value securities and financial instruments subject exchange rate fluctuation that may have positive adverse effect the price 
+income such securities financial instruments investors securities such adr the values which are influenced currency volatility effectively assume this risk structured securities are complex 
+instruments typically involve high degree risk and are intended for sale only sophisticated investors who are capable understanding and assuming the risks involved the market value any 
+structured security may affected changes economic financial and political factors including but not limited spot and forward interest and exchange rates time maturity market conditions and 
+volatility and the credit quality any issuer reference issuer any investor interested purchasing structured product should conduct their own investigation and analysis the product and consult with 
+their own professional advisers the risks involved making such purchase some investments discussed this report may have high level volatility high volatility investments may experience 
+sudden and large falls their value causing losses when that investment realised those losses may equal your original investment indeed the case some investments the potential losses may 
+exceed the amount initial investment and such circumstances you may required pay more money support those losses income yields from investments may fluctuate and consequence 
+initial capital paid make the investment may used part that income yield some investments may not readily realisable and may difficult sell realise those investments similarly may 
+prove difficult for you obtain reliable information about the value risks which such investment exposed this report may provide the addresses contain hyperlinks websites except the 
+extent which the report refers website material has not reviewed any such site and takes responsibility for the content contained therein such address hyperlink including addresses 
+hyperlinks own website material provided solely for your convenience and information and the content any such website does not any way form part this document accessing such website 
+following such link through this report website shall your own risk this report issued and distributed europe except switzerland credit suisse securities europe limited one cabot 
+square london england which authorised the prudential regulation authority and regulated the financial conduct authority and the prudential regulation authority this report being 
+distributed germany credit suisse securities europe limited niederlassung frankfurt main regulated the bundesanstalt fuer finanzdienstleistungsaufsicht bafin this report being 
+distributed the united states and canada credit suisse securities usa llc switzerland credit suisse brazil banco investimentos credit suisse brasil its affiliates mexico 
+banco credit suisse xico transactions related the securities mentioned this report will only effected compliance with applicable regulation japan credit suisse securities japan 
+limited financial instruments firm director general kanto local finance bureau kinsho member japan securities dealers association the financial futures association japan japan 
+investment advisers association type financial instruments firms association elsewhere asia pacific whichever the following the appropriately authorised entity the relevant jurisdiction 
+credit suisse hong kong limited credit suisse equities australia limited credit suisse securities thailand limited regulated the office the securities and exchange commission thailand 
+having registered address abdulrahim place floor unit rama road silom bangrak bangkok thailand tel credit suisse securities malaysia sdn bhd 
+credit suisse singapore branch credit suisse securities india private limited cin regulated the securities and exchange board india registration nos 
+having registered address floor ceejay house road worli mumbai india credit suisse 
+securities europe limited seoul branch credit suisse taipei securities branch credit suisse securities indonesia credit suisse securities philippines inc and elsewhere the world the 
+relevant authorised affiliate the above research taiwanese securities produced credit suisse taipei securities branch has been prepared registered senior business person research 
+provided residents malaysia authorised the head research for credit suisse securities malaysia sdn bhd whom they should direct any queries this report has been 
+prepared and issued for distribution singapore institutional investors accredited investors and expert investors each defined under the financial advisers regulations only and also distributed 
+credit suisse singapore branch overseas investors defined under the financial advisers regulations virtue your status institutional investor accredited investor expert investor 
+overseas investor credit suisse singapore branch exempted from complying with certain compliance requirements under the financial advisers act chapter singapore the faa the 
+financial advisers regulations and the relevant notices and guidelines issued thereunder respect any financial advisory service which credit suisse singapore branch may provide you this 
+research may not conform canadian disclosure requirements jurisdictions where not already registered licensed trade securities transactions will only effected accordance with 
+applicable securities legislation which will vary from jurisdiction jurisdiction and may require that the trade made accordance with applicable exemptions from registration licensing requirements 
+non customers wishing effect transaction should contact entity their local jurisdiction unless governing law permits otherwise customers wishing effect transaction should only 
+contacting representative credit suisse securities usa llc the please note that this research was originally prepared and issued for distribution their market professional and 
+institutional investor customers recipients who are not market professional institutional investor customers should seek the advice their independent financial advisor prior taking any investment 
+decision based this report for any necessary explanation its contents this research may relate investments services person outside the other matters which are not authorised 
+the prudential regulation authority and regulated the financial conduct authority and the prudential regulation authority respect which the protections the prudential regulation authority and 
+financial conduct authority for private customers and the compensation scheme may not available and further details where this may the case are available upon request respect this 
+report may provide various services municipal entities obligated persons municipalities including suggesting individual transactions trades and entering into such transactions any services 
+provides municipalities are not viewed advice within the meaning section the dodd frank wall street reform and consumer protection act providing any such services and related 
+information solely arm length basis and not advisor fiduciary the municipality connection with the provision the any such services there agreement direct indirect between any 
+municipality including the officials management employees agents thereof and for provide advice the municipality municipalities should consult with their financial accounting and legal 
+advisors regarding any such services provided addition not acting for direct indirect compensation solicit the municipality behalf unaffiliated broker dealer municipal securities 
+dealer municipal advisor investment adviser for the purpose obtaining retaining engagement the municipality for connection with municipal financial products the issuance municipal 
+securities investment adviser provide investment advisory services behalf the municipality this report being distributed financial institution other than credit suisse its 
+affiliates that financial institution solely responsible for distribution clients that institution should contact that institution effect transaction the securities mentioned this report require further 
+information this report does not constitute investment advice credit suisse the clients the distributing financial institution and neither credit suisse its affiliates and their respective officers 
+directors and employees accept any liability whatsoever for any direct consequential loss arising from their use this report its content principal not guaranteed commission the commission rate 
+the amount agreed with customer when setting account any time after that 
+copyright credit suisse and its affiliates all rights reserved 
+investment principal bonds can eroded depending sale price market price addition there are bonds which investment principal can 
+eroded due changes redemption amounts care required when investing such instruments 
+when you purchase non listed japanese fixed income securities japanese government bonds japanese municipal bonds japanese government guaranteed bonds japanese corporate bonds from 
+seller you will requested pay the purchase price only 
+auto auto parts electronic components sector 
+check_connections 
+series_auto_ele 
+doc 

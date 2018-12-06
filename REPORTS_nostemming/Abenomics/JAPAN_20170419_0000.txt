@@ -1,0 +1,509 @@
+april gmt 
+japan economics 
+can japan achieve long run 
+real growth 
+can japan achieve long run real growth not think 
+that can paradoxically low growth may raise japan 
+investment appeal 
+key long term goal abenomics has been sustained real growth 
+after four years abenomics think that this goal unlikely 
+achieved 
+our logic gdp the product labor productivity and labor force labor 
+productivity trend growth has decelerated and labor force will keep 
+falling unless labor productivity accelerates sharply gdp growth 
+impossible current policies are not likely accelerate productivity enough 
+two approaches the descriptive approach starts with the identity that labor 
+productivity equals the product capital efficiency and capital intensity 
+historically capital efficiency has slowed more than capital intensity has 
+quickened labor productivity growth slower the analytical approach 
+based production function which links labor productivity more broadly 
+business investment and technology the impact investment has been stable 
+but technology has slowed 
+achieving gdp growth would require ahistorical mixtures technology 
+progress and investment therefore think that growth unlikely 
+paradox precisely because low growth japan has attractive investments the 
+best ones will break bottlenecks raising quality and quantity 
+investment and augmenting labor availability identify industries where 
+the opportunity for business investment could substantial 
+with apologies schumpeter began his book can capitalism 
+survive follows can capitalism survive not think that can but 
+this opinion mine like that every other economist who has pronounced 
+upon the subject itself completely uninteresting what counts any 
+attempt social prognosis not the yes that sums the facts and 
+arguments which lead but those facts and arguments themselves 
+following schumpeter advice this paper will focus facts and arguments see 
+schumpeter joseph can capitalism survive harper perennial edition 
+june the government stated aim achieve over the next ten 
+years average about nominal gdp growth and about real gdp 
+growth see japan revitalization strategy japan back june 
+japanese the target trl corollary the original 
+morgan stanley mufg securities ltd 
+robert alan feldman 
+economist 
+robert tokyo feldman morganstanleymufg 
+japanese labor productivity 
+actual 
+logistic trend 
+source cabinet office and morgan stanley research calculations 
+for important disclosures refer the disclosure section 
+located the end this report 
+introduction four years abenomics far 
+four years have passed since the start abenomics when abe returned office 
+december the goals are clear exiting deflation and raising real growth 
+indeed june the government said aim achieve over the next ten 
+years average about nominal gdp growth and about real gdp growth 
+see japan revitalization strategy japan back june japanese the 
+method comprehensive requiring actions monetary fiscal and growth policies 
+performance however has been combination passes fails and incompletes 
+monetary policy the action spring purchase trl year jgbs was 
+success boj support for the april consumption tax hike was mistake the shift 
+trl jgb purchase october was success the shift negative rates 
+january was mistake the shift jgb yield targeting september was 
+success despite many bumps underlying price movements are longer deflationary 
+fiscal policy the spending side has shown two improvements constraining overall 
+spending introducing cap the increment social spending the central 
+government budget while increasing the share growth oriented spending 
+support for higher labor force participation women that said government remains 
+very large social spending areas and may hampering attempts efficiency gains 
+the tax side has shown similarly mixed bag the reduction the statutory corporate 
+tax rate from has helped spur investment have enhanced 
+incentives however higher individual tax rates have hampered work incentives 
+moreover for foreign workers there have been two adverse developments the exit tax 
+and the levying inheritance tax even after repatriation 
+growth policy there has also been mixed bag among successes corporate 
+governance policies have improved incentives for capital allocation agricultural reforms 
+have reduced the influence monopoly power administrative reforms have raised the 
+responsiveness bureaucracy policy actions immigration reforms have augmented 
+labor supply the middle lie several items such energy reform one hand 
+deregulation has enhanced competition the retail level and competition among 
+suppliers across hitherto impassible regional barriers the other vested interests still 
+retain strong influence over regulatory decisions and have slowed both and 
+adoption new more efficient technologies among the failures electoral reform 
+two laws meant correct voter disparities were enacted but did virtually nothing 
+reduce them the continued silver democracy serves the short term needs the 
+elderly but short changes younger citizens with the result slower productivity 
+growth 
+enough known now take stock the longer term outlook for abenomics has the 
+pace far been sufficient achieve the stated goal real growth order 
+address this question start with short history productivity growth 
+labor productivity has slowed but why 
+let start looking the evolution labor productivity defined real output per 
+worker symbols has decelerated exhibit indeed the quadratic time trend 
+dashed line exhibit suggests that productivity growth may only 
+yes basis points logistic time trend suggests solid trend 
+exhibit labor productivity 
+actual 
+logistic trend 
+poly actual 
+note for the logistic trend curve solid trend line used equation the form exp where productivity function 
+time there are three parameters determines the vertical position determines the inflection point and determines the shape chose values 
+and minimize the sum the root mean square errors see also japan economics snapshot abenomics fights history jul the 
+polynomial trend dashed simple quadratic equation time starting 
+source cabinet office ministry internal affairs and communications and morgan stanley research calculations 
+however time trends are black boxes they have two major weaknesses there 
+explanation why productivity has slowed and extension the trends gives results 
+that are not credible the logistic method says that there absolute upper limit 
+labor productivity this seems unlikely given technology progress the quadratic 
+method worse shows productivity starting fall from and fall 
+accelerating rate thereafter indeed were the quadratic trend hold labor productivity 
+would fall which seems absurd 
+hence must think inside the box need further breakdown labor 
+productivity order project where might this two ways first 
+descriptive and then analytical 
+the logistic curve method uses data from and the polynomial 
+quadratic method 
+where does labor productivity come from 
+sources labor productivity growth are most easily described simple fact labor 
+productivity the product capital efficiency and capital intensity that 
+multiplying the labor force gives gdp that 
+the sixty year history japanese gdp terms these factors 
+shown exhibit labor hardly moved capital intensity was 
+overwhelmingly the most important factor bit more interesting 
+the decline capital efficiency indexed only 
+drop one hand such drop normal 
+light the well known principle declining marginal returns 
+each increment capital produces smaller increment gdp 
+that said the drop very large 
+exhibit growth contributions 
+translated into annual growth rates for real gdp rose 
+per year this growth comprised pts from capital 
+intensity and pts from labor while capital efficiency 
+subtracted pts per year short lower quality capital was 
+more than offset higher quantity while labor contributed bit growth 
+real gdp 
+efficiency 
+intensity 
+labor 
+source cabinet office morgan stanley research 
+exhibit growth component movements 
+real gdp 
+capital efficiency 
+source cabinet office morgan stanley research 
+capital intensity 
+the story looks different and shows kink when focus 
+post data exhibit the historical pattern higher 
+intensity lower efficiency continued until the financial crisis 
+from until the lehman shock capital 
+efficiency stabilized growth came almost entirely from increased 
+capital intensity although decelerated this pattern implies that 
+the financial crisis changed business attitudes toward 
+investments quality became more important and quantity less 
+labor 
+the lehman shock caused downward shift capital 
+efficiency because some capital stock simply became redundant 
+moreover after this level change capital efficiency began 
+deteriorate again albeit much slower pace than the post lehman shock gdp 
+growth derived from higher capital intensity and during the abenomics period from 
+increased labor force participation well 
+the conclusion from this approach labor productivity slowed because the adverse 
+balance changes capital intensity and capital productivity although higher capital 
+intensity pushed labor productivity upward lower capital efficiency pushed labor 
+productivity downward more 
+from description analysis 
+while enlightening the descriptive approach labor productivity has two important 
+flaws does not allow for any interaction the impact capacity quality and 
+intensity and relates only obliquely the three key elements the current 
+growth debate labor productivity technology progress and demographics order 
+make social prognosis schumpeter words see footnote need 
+analytical framework for the why theory how capital efficiency capital 
+intensity and labor evolve and interact this can done starting with the concept 
+production function then isolating the role labor productivity and technology 
+the concept production function simple merely formula map productive 
+inputs capital labor output symbols this merely there are three 
+hard parts specifying mathematical form for the equation that makes sense 
+terms economics finding data represent the variables and using statistical 
+methods that are credible linking the data the formula only when all three have 
+been done can make credible statements about the speed technological change 
+labor productivity 
+for the formula use the most transparent one the canonical cobb douglas 
+production function but adjusted make technology time dependent that 
+where output the initial level technology time the growth rate 
+technological progress capital labor and parameter showing the capital 
+share income note that the coefficients capital and labor add order 
+ensure that there are constant returns scale the production function 
+the benefit the cobb douglas form that extremely easy use particularly 
+when focusing labor productivity transformed the production function into labor 
+productivity terms into 
+the implications this approach for labor productivity growth are easy derive take 
+natural logs both sides and get 
+take the first difference this and get 
+fortunately since the change natural log variable very close the 
+percentage change that variable the growth rate labor productivity 
+exhibit shows the parameter estimates for both the capital share income and 
+technological progress the key question whether parameters and changed 
+over time the results our estimates are exhibit 
+capital share income 
+capital income share lhs 
+technology rhs 
+technology growth rate 
+exhibit parameters different regression periods 
+look how technology parameter changed over time 
+first attempted using quadratic function time however the 
+estimation results made little sense more effective method 
+was splitting the sample period historical turning points 
+the capital share income parameter the period 
+when japan was impacted the collapse the bubble economy 
+generated negative coefficient for the capital share income 
+this period was obviously aberration the other periods 
+the estimated capital share income was remarkably similar 
+about left hand scale exhibit 
+source company data morgan stanley research 
+technological progress parameter the pattern here much 
+clearer the measured pace technological progress also known total factor 
+productivity declined consistently over the estimate periods the most recent 
+period the pace has been only per year 
+our estimated parameters therefore imply that today 
+short raising labor productivity growth requires either substantial sustained 
+increases the capital labor ratio accelerating total factor productivity 
+growth 
+tried two other production function specifications the ces and upper limit 
+production function the form where the upper limit 
+related the capital stock note this latter function then 
+approaches infinity approaches geometrically this function one branch 
+inverted transposed hyperbola with asymptote neither alternative production 
+function proved tractable enough reach qualitative conclusions and 
+concentrated the cobb douglas formulation 
+the calculation correct the basis point level for example 
+rounded basis point level this differs from from only 
+basis point quite close enough for our purposes 
+the odd results stem from the weakness long term quadratic trends their power 
+becomes overwhelming time goes 
+there are several potential reasons for the negative parameter estimate the 
+were period when companies kept doing old style projects even though the bubble 
+had burst the wake the bubble negative impact capital accumulation 
+possible odd old projects especially real estate were completed even though the 
+economy had made them non economic the sample period for the calculation 
+short and badly disrupted the shocked economy the the capital stock 
+series applies the business sector only since the estimates for public sector capital 
+stock are poorly measured best the business sector capital stock was most impacted 
+the bubble had the current estimate included all the public investment into 
+bridges nowhere the estimate might have been even more negative did not 
+adjust the capital stock with capital utilization series there are cases when doing 
+might helpful argue however that unused factory still factory the 
+factory longer usable then should depreciated out the capital stock 
+figures the real issue whether the capital stock figures for the business sector are 
+fully accurate the odd value the estimated parameter may only indicate larger thanusual measurement problems the underlying data for business sector capital stock 
+the 
+how much capex needed 
+using this approach can calculate how much capex will needed the estimated 
+combination parameters order achieve the abenomics goal real growth 
+can also tell how much would needed with alternative parameter combinations 
+gross terms labor supply likely decline about per year over the next 
+decade thus order achieve real gdp growth labor productivity growth 
+would have thus 
+because have good estimates the path can calculate how much change 
+needed given parameter combination and then once know the path 
+and the rate depreciation historically about can derive values for 
+required investment from the relationship that that required 
+required 
+exhibit business investment needed for real growth 
+source morgan stanley research 
+simplified version this calculation for only and 
+derive the what if estimates for required investment exhibit 
+with the estimates for and for achieving 
+real growth would require about trl private sector 
+investment this compares the actual value 
+trl 
+what combinations parameter and parameter would make 
+the current level capex sufficient parameter the share 
+capital income stays the current then technology 
+progress would have about slower rates 
+technological progress would make the required share capital 
+rise extreme levels 
+could raising the labor force can alternative not think that can labor 
+force augmentation while important especially for incorporating new global 
+technologies seems extremely unlikely fill the gap 
+hence syllogism abenomics about raising productivity growth productivity 
+growth about enhancing technology progress and capital intensity therefore 
+abenomics about enhancing technology and capital intensity has done 
+have discussed this alternative elsewhere domestic labor supply hitting peak 
+because demographics and the already high rates labor force participation both 
+women and the elderly and what about foreign workers today there are about mln 
+foreign workers japan mere real growth until even with faster labor 
+productivity growth and increases domestic participation rates would require another 
+mln foreign workers for details see feldman robert alan japan economics will 
+japan need mln foreign workers achieve growth mar 
+has abenomics raised and 
+has abenomics done enough achieve within the next few years either higher 
+technology progress sufficient pace capital formation the introduction 
+summarized the successes and failures abenomics far our conclusion that 
+actions far are insufficient more detailed summary our view given exhibit 
+which shows updated radar chart progress 
+exhibit uneven progress abenomics 
+apr 
+agriculture 
+electoral 
+reform 
+apr 
+medical 
+immigration 
+energy 
+tax reform 
+education 
+corp 
+governance 
+gov 
+reform 
+labor 
+scale 
+source morgan stanley research 
+give very high points abenomics both corporate governance and agriculture 
+also give high points education reform government reform and tax reform even 
+give good points immigration reform however there have been significant lags 
+medical reform electoral reform which needed change the incentives that diet 
+members face when making fiscal decisions has failed moreover the recent report 
+from the work style reform committee major disappointment crucial area 
+this basis cannot reasonably conclude that technological progress will accelerate 
+enough that business investment will rise enough achieve growth 
+paradox japan remains extremely interesting investment 
+target 
+capital efficiency key factor when looking for good investments using the 
+framework above search through industry data from the ministry finance 
+corporate statistics and identify industries where capital efficiency high and where 
+not the best opportunities may lie the industries where capital efficiency worst 
+because these industries are the most ripe for reform 
+the approach illustrated exhibit using data for the horizontal axis shows 
+capital intensity industries with high capital intensity are the right and low capital 
+intensity the left the vertical axis shows capital efficiency defined the ratio 
+operating profit capital each industry shown combination capital intensity 
+and capital efficiency 
+how judge the performance each industry compare each industry 
+standard defined labor productivity the dashed line shows the combinations 
+capital efficiency and intensity that would generate average labor productivity 
+that since the dashed lines show combinations and that 
+generate the all sector average value the solid line shows combinations 
+that generate labor productivity that above the all sector average 
+exhibit capital efficiency and intensity 
+capital efficiency 
+chemicals 
+pharma 
+rest 
+education 
+actual 
+capital intensity 
+comb avg 
+marine 
+tspt 
+comb with rise 
+source ministry finance corporate statistics morgan stanley research data sourced through nikkei needs fame 
+some good many bad the exhibit shows that very small number industries 
+outperform and large number underperform numerical details are exhibit for 
+example the petroleum industry has already exceeded all sector labor productivity 
+further increases capital efficiency are needed there may other problems 
+this industry but low average labor productivity not one note however that the 
+employment industries where labor productivity exceeds the average only 
+the total other words employment industries where labor productivity 
+exceeds the average and industries where falls below average 
+some industries not have that much more for example the ceramics 
+industry reaching the all sector average for labor productivity would require rise 
+capital efficiency only however most other industries have much more 
+increase capital efficiency times would necessary merely achieve 
+average labor productivity restaurants education and marine transport 
+unfortunately achieving the average labor productivity levels not good 
+enough stabilize long term living standards higher average labor productivity 
+needed the goal raise labor productivity above the level the work gets 
+much harder even the electric machinery industry capital efficiency would have 
+rise order achieve this goal 
+exhibit required improvements capital efficiency reach labor productivity targets 
+petroleum 
+electric_power 
+mining 
+leasing 
+real_estate 
+water_gas 
+chemicals_pharma 
+info_telecom 
+autos_autoparts 
+construction 
+nonferrous 
+precision_mach 
+other_mfg 
+advertising_bus_serv 
+ceramics 
+air_oth_transport 
+wholesale 
+genl_machinery 
+nonauto_transpt_eq 
+electric_machinery 
+metal_prod 
+paper_pulp 
+food_mfg 
+rentals 
+elec_components 
+land_transport 
+amusement 
+wood_products 
+lodging 
+agriculture 
+retail 
+other_service 
+iron_steel 
+printing 
+textiles 
+medical_welfare 
+personal_services 
+restaurant 
+education 
+marine_transport 
+target 
+employment 
+mln 
+source ministry finance corporate statistics morgan stanley research calculations data sourced from nikkei needs fame 
+there are two takeaways for investment strategy first order for japan hit labor 
+productivity goals needed for abenomics virtually every industry needs improve 
+capital efficiency where the needs are greatest medical personal services restaurants 
+education and marine transport the investment benefits could greatest second 
+even large capital efficiency improvements will not sufficient many industries 
+capital deepening will needed well these industries the opportunity for 
+business investment could substantial 
+for the definition capital use the sum tangible excluding land and 
+intangible assets for labor use the total number employees 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley mufg securities ltd and its affiliates collectively morgan 
+stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important disclosures 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited vietnam this report issued morgan stanley 
+singapore holdings canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany 
+morgan stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated 
+bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised 
+the spanish securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules 
+conduct applicable financial research established under spanish regulations the united states morgan stanley llc which accepts 
+responsibility for its contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial 
+conduct authority and the prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes 
+section the financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited 
+member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture 
+owned equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+morgan stanley mufg 

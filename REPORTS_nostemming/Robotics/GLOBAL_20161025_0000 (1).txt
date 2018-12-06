@@ -1,0 +1,2235 @@
+october gmt 
+global financials and payments 
+data analytics for fis 
+the journey from insight 
+value 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have 
+conflict interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse 
+restrictions communications with subject company public appearances and trading securities held research analyst account 
+contributors 
+morgan stanley contributors 
+payments financial technology 
+james faucette 
+equity analyst 
+james faucette morganstanley 
+vasundhara 
+equity analyst 
+vasundhara govil morganstanley 
+danyal hussain 
+equity analyst 
+danyal hussain morganstanley 
+banks 
+betsy graseck 
+equity analyst 
+betsy graseck morganstanley 
+ken zerbe 
+equity analyst 
+ken zerbe morganstanley 
+european technology 
+francois meunier 
+equity analyst 
+francois meunier morganstanley 
+morgan stanley llc 
+morgan stanley asia limited 
+contributors 
+the boston consulting group contributors 
+new york 
+france 
+united states 
+sushil malhotra 
+lionel ar 
+john rose 
+malhotra sushil bcg 
+ar lionel bcg 
+rose john bcg 
+new york toronto 
+nicolas harl 
+shervin khodabandeh 
+mohammed badi 
+harl nicolas bcg 
+khodabandeh shervin bcg 
+badi mohammed bcg 
+axel reinaud 
+new york 
+berk hizir 
+reinaud axel bcg 
+hizir berk bcg 
+olivier sampieri 
+chicago 
+sampieri olivier bcg 
+alenka grealish 
+yann nant 
+grealish alenka bcg 
+nant yann bcg 
+argentina 
+federico muxi 
+india 
+bharat poddar 
+muxi federico bcg 
+poddar bharat bcg 
+belgium 
+stefan dab 
+united kingdom 
+sukand ramachandran 
+dab stefan bcg 
+ramachandran sukand bcg 
+china 
+tjun tang 
+united states 
+ashwin adarkar 
+tang tjun bcg 
+adarkar ashwin bcg 
+greece 
+vassilis antoniades 
+laurent desmangles 
+antoniades vassilis bcg 
+desmangles laurent bcg 
+bcg gamma team comprises world class data scientists and 
+business consultants who specialize advanced analytics 
+contents 
+executive summary 
+state the union where fis and payments companies 
+stand today 
+seven things you should know about data analytics 
+the world 
+what comes next five key imperatives for fis 
+appendix digitalization and implications for data 
+monetization 
+appendix survey methodology 
+global financials and payments 
+data analytics for fis 
+the journey from insight 
+value 
+inancial institutions have yet realize the full roi potential data analytics but 
+the opportunity remains with potential for cost savings new revenues 
+and most important shift share toward those that execute best now race 
+extract value from the insights made 
+order assess the current state data analytics financial insti 
+privacy issues make trust asset and competitive advantage 
+tutions fis and identify best practices they need follow the bos 
+the stakes are substantial and analytics can key tool the 
+ton consulting group and morgan stanley spoke with data analytics 
+battle for market share financial institution operating margins 
+executives and experts found that while fis are collecting very 
+have been static for the past years but estimate that effective 
+large amounts data and building insights most are early the jour 
+application data analytics internal processes could source 
+ney toward generating value from their data analytics the strongest 
+near term value creation more efficient customer acquisition 
+potential for fis the short run lies achieving benefits through 
+and retention operational improvements and risk mitigation could 
+internal value creation while generating new revenue streams 
+alone drive much incremental profit eps 
+involves longer more challenging but potentially highly rewarding 
+upside but perhaps the key driver banks ultimate pursuit data 
+journey 
+analytics and both whip and carrot the notion that some fis will 
+fis the path value creation but lot work still needs 
+more effective building customer relationships through superi 
+done the boston consulting group primary research finds that 
+data analytics which could drive substantial market share shift 
+most fis have been building data analytics capabilities esti 
+between the leaders and the laggards furthermore longer term 
+mate more than has been invested fis thus far and indeed 
+aspirational objective see the potential for fis draw from new 
+many are deriving valuable insight from their initiatives but most 
+revenue pools potentially pulling incremental revenue from 
+have yet generate return commensurate with investments 
+the pool nearly trillion advertising and marketing dollars glo 
+terms cost savings market share gains revenue uplift addi 
+bally currently paid agencies tech companies and others 
+tion fis have impressive ambitions create new revenue streams 
+this report cover seven things you should know about data 
+but none the surveyed group claimed have established 
+analytics the world well five key imperatives for fis 
+credible and sizeable data driven revenue sources 
+succeed value creation efforts conjunction with this piece 
+the path value creation leveraging insights paved engineer 
+also present key investable ideas report titled early data ana 
+ing customer interactions and developing ecosystem partnerships 
+lytics movers stand out published today 
+harness critical internal and external data sets able make 
+insights actionable additionally think equally important 
+engender data based decision making culture and manage consum 
+executive summary 
+value creation through data analytics paramount excelling 
+collaborative global report informed learnings 
+the digital world but there are few industries that have tapped 
+from key industry executives this report was prepared 
+into more data and derived less upside from than the financial 
+jointly morgan stanley research and the boston con 
+institutions and payments industries and although years accu 
+sulting group researching this report bcg led inter 
+mulating data experimenting with partnerships and building 
+views with data and analytics executives and experts 
+internal buy and infrastructure have placed these firms closer 
+worldwide across banks payments companies mer 
+than ever before seeing real returns there still gap between 
+chants data aggregators service providers fintech firms 
+the insights they have started derive from data and creating 
+and within bcg addition bcg conducted quantitative 
+value from those insights bridging that divide key differentia 
+survey executives including the top 
+tion and value creation our expectation see near term 
+commercial banks understand the level data collec 
+improvements generating customer value and realization 
+tion analysis and business implementation that exists 
+internal operating improvements that drive margin expansion and 
+these organizations today 
+share gains for some the long term best class firms with the 
+right level focus generate value externally will bring incre 
+why fis finding more value consumer transac 
+mental revenue the entire industry 
+tions value creation from data analytics theme pervasive across several industries but focus the scope 
+this report financial institutions and the consumer 
+banking and payments industries particular because 
+our view that these firms sit trove purchase and 
+banking transaction data that still early being utilized 
+near term opportunity deepen 
+customer relationships and improve 
+operational efficiency 
+date analytics haven yet driven meaningful per 
+bcg interviews with financial institution executives and industry 
+formance divergence between banks for example disrup 
+experts and complementary survey work found that while fis are 
+tors online lenders meanwhile are touting data 
+investing analytics derive customer insights collecting signifi 
+key competitive advantage that enabling them take 
+cant amounts data and generating insights success translating 
+share from the incumbents expect that some fis 
+data analytics into returns relatively nascent estimate that 
+begin figure out how derive outperformance from 
+those that succeed could reap potential eps upside from 
+analytics others will more urgently pursue the opportuni 
+cost saves alone 
+well which will have ramifications for the entire set 
+ecosystem players 
+these internal returns are likely generated part through 
+deeper customer relationships reduced customer acquisition costs 
+this report cover three topics state the 
+lower churn better fraud detection and risk mitigation and more 
+union assessing data analytics and value creation finan 
+efficient operations the front end these expenses are nontrivial 
+cial institution and payment companies well high 
+banking profit base estimate that banks the 
+level results our survey seven things you should 
+spent marketing and promotion expense snl 
+know about data and analytics the world where 
+financial with per person customer acquisition costs high 
+distill the key findings our analysis and five key 
+more for basic credit products 
+imperatives for fis generate value data analytics 
+where explore key steps needed for firms make the 
+further expect improved return technology investment from 
+leap from discovering insights monetizing them 
+effective data analytics estimate that most fi spend 
+total revenue technology per year and estimate 
+over has been invested data analytics alone improving return 
+this significant investment combined with better customer acqui 
+sition could help change the trend declining roe for many fis 
+estimate median large cap bank roe increase from 
+primarily driven efficiency improvements loan 
+growth fee growth and capital return 
+exhibit 
+the revenue banks payments companies earn transactions 
+fraction the size the advertising marketing revenue pool indicative available growth opportunity data becomes key component 
+for attracting marketing dollars 
+revenue 
+external revenue potential further out 
+but could sizeable 
+long term revenue generation opportunities shouldn ignored 
+even the hurdles are considerable one the biggest potential rev 
+enue opportunities take share from advertising marketing bud 
+gets globally there increasing demand for data driven targeted 
+marketing programs that can drive higher roi the opportunity sig 
+nificant expect advertising marketing budgets across the 
+alone total and global advertising spend 
+including other forms marketing spend this global fig 
+advertising marketing spend 
+card acceptance fees 
+source the boston consulting group veronis suhler stevenson magna rab oaaa iab naa pib morgan stanley research 
+ure approaches exceeds while not all this revenue 
+addressable fis think the portion that fis will target the 
+billions they partner utilize transaction data smarten traditional marketing dollars like consumer promotion 
+the direct marketing the internet advertising 
+the 
+exhibit 
+internal value creation represents near term eps upside opportunity 
+and more importantly could lead market share shift external monetization longer term aspiration 
+opportunity 
+the card industry one for which this opportunity the greatest 
+internal 
+while the card industry attractive and growing also highly 
+value creation 
+competitive and consequently banks and payment companies are 
+constantly seeking higher roi opportunities for example for every 
+banking 
+profit base 
+the advertising marketing budget that fis payments companies can attract leveraging their transaction data create consumer targeting strategies for merchants their fee based card pay 
+current 
+eps 
+upside 
+from cost savings 
+and efficiencies 
+share shift 
+opportunity for 
+those that build 
+better customer 
+relationships with 
+analytics 
+next years 
+new revenue 
+potential 
+drawing from the 
+global spend 
+advertising plus 
+hundreds billions 
+more marketing and 
+promotion expense 
+beyond 
+time 
+ment revenue pools can expand banks and payments companies will generate nearly interchange acquiring and 
+external 
+value creation 
+source the boston consulting group morgan stanley research estimates 
+network fees from merchants according bcg estimates 
+morgan stanley research 
+seven things you should know about 
+data analytics the world 
+five key imperatives for fis monetize 
+data analytics 
+within four walls represents the best near term opportunity 
+generate value 
+complexity large fis offsets the advantages scale enter 
+prise wide execution excellence key 
+transaction data only one pillar high value adding addi 
+tional internal and external data 
+data access becoming more restricted firms can engineer 
+interactions based fair value exchange generate 
+unique new data for specific actionable insights 
+for fis creating new external revenue streams from data 
+our analysis uncovered best practices the journey from data 
+insights value and found that many fis are missing essential capabilities are hindered historical organizational and cultural factors 
+most fis are the developing and adopting stages skill and culture and few any could categorized path breaking for most 
+the hardest part the journey will involve more cultural adoption 
+than technological transformation 
+there are five best practices that when executed concurrently are 
+likely yield best returns internally while improving opportunities 
+for external value creation exhibit 
+still only aspirational 
+external value creation requires partnerships generate 
+actionable insights 
+some regions will structurally disadvantaged due 
+tighter regulation 
+engineer customer interactions gather valuable data 
+based fair value exchange for customers 
+develop structured program manage ecosystem part 
+nerships whose objectives are harness data critical 
+internal and external value creation 
+ensure execution excellence organizing data analytics 
+function center excellence with explicit senior execusee detail seven things you should know about data analytics the world 
+tive support and business buy partnership 
+ingrain data based decision making and test learn cul 
+ture 
+make trust asset and proactively manage consumer priva 
+exhibit 
+five 
+pillars 
+success 
+the 
+five 
+imperatives 
+for financial institutions 
+external consumer 
+partners 
+engineer digital 
+interaction for 
+unique data 
+develop ecosystem 
+advantage 
+ensure 
+execution 
+excellence 
+manage 
+consumer trust 
+asset 
+copyright the boston consulting group inc all rights reserved 
+ingrain data 
+driven culture 
+internal within walls 
+source the boston consulting group 
+see detail what comes next five key imperatives for fis 
+state the union where fis and payments 
+companies stand today 
+following our qualitative conversations with global fis 
+payments companies merchants and service providers 
+well our survey executives conducted bcg 
+including from the top commercial banks 
+provide overview the current state value creation 
+the and payments space 
+the findings from the bcg survey work consistent with morgan 
+stanley assessment the digitalization distinct segments 
+the financial services that report noted that banks already collect much their customers data digital format but that substantial gains remain made from digitalizing and automating data 
+processing for example eradicating manual reconciliation and data 
+entry deliver straight through processing represents multi billion dollar cost opportunity for the industry and seamless process 
+basics are place but journey from 
+insight value still nascent 
+ing can also drive improved customer experience banks are also 
+increasingly open shared solutions like the adoption shared 
+utilities deliver know your customer and anti money laundering 
+many large fis and payment companies have invested several data 
+also development distributed ledger solutions reduces manual 
+analytics necessary generate insights including social media log 
+reconciliation areas such post trade settlement scored 
+web chat text and location analytics see exhibit while 
+financial services the lower half spectrum other industries 
+these analytical capabilities could add value they will probably not 
+sufficient generate sustainable competitive edge that fis are 
+early the data analytics journey illustrated the fact that the 
+most widely cited source supplemental analytics social media 
+exhibit 
+the morgan stanley digitalization index ranks financial services 
+towards the lower end 
+was being used slightly less than half those surveyed and 
+fairly well established analytics like location and geo fencing real 
+time offers specific location are still used minority surveyed firms while surveyed fis stated are undertaking 
+believe these efforts are relatively nascent 
+exhibit 
+most are focused table stakes analytics with few using differentiated mature analytics 
+capabilities available the organization 
+respondents 
+social media analytics 
+log analytics 
+text analytics 
+location analytics 
+geo fencing real time offers 
+artificial intelligence 
+voice analytics 
+image recognition 
+video analytics 
+table stakes 
+differentiators 
+source the boston consulting group morgan stanley research 
+source morgan stanley research 
+morgan stanley research 
+management sponsorship building 
+though not yet translating formal 
+governance 
+other ecosystem players are further 
+the journey 
+our conversations with non ecosystem players suggest that they 
+find that most fis have significant data and analytics initiatives 
+are ahead fis and many cases represent attractive partners for 
+underway with active sponsorship senior management see 
+fis and payments companies 
+exhibit even such efforts are only applied few business 
+units but despite high levels active senior management sponsor 
+merchants the key customer external value creation efforts 
+ship few fis formally govern data analytics actively through senior 
+broadly believe that data analytics are key remaining competitive 
+management well below those that treat data management 
+face the threat from online competitors and acquiring new cus 
+hoc effort explore later this paper firms that 
+tomers efficiently and building share merchants are interested 
+take cohesive firmwide approach monetizing data are most like 
+establishing partnerships with fis but have general been dissatis 
+succeed 
+fied with their experience date 
+exhibit 
+most large fis and payments cos have some level senior management sponsorship 
+digital giants and service providers see meaningful opportunity 
+respondents 
+consumers digital life and use this advantage create new reve 
+leverage their position tech leaders and generate win win with 
+other ecosystem players these players currently have wider view 
+nue streams 
+fintech firms are redefining the data advantage and some cases 
+not actively supported 
+supported applied few 
+bus 
+supported applied most 
+bus 
+their very existence predicated the ability engineer interactions and acquire data which enables them better serve customers and operate with competitive edge 
+exhibit 
+overview maturity among key ecosystem players 
+active sponsorship from top 
+management 
+source the boston consulting group morgan stanley research 
+exhibit 
+although most not have data governed formally through senior 
+management 
+respondents 
+source the boston consulting group morgan stanley research 
+hoc group governs 
+formal data gov through 
+senior mgmt 
+active sponsorship from top 
+management 
+source the boston consulting group morgan stanley research 
+dedicated mgmt data quality 
+initiatives 
+technology expands the realm 
+possibility but raises the bar for firms 
+keep 
+more sophisticated ways make use the data the data proliferates more insightful analytical models are being developed that 
+can effectively use both structured and unstructured data and can 
+derive insights from even weak signals the bleeding edge deep 
+learning methods can process tera and petabytes data and ulti 
+the proliferation data coupled with advanced technology fuel 
+mately provide the strongest level predictive power 
+ing the ability generate value 
+more data available data volume types and quality are significantly growing much generated the internet and smart devices 
+exhibit 
+proliferation data coupled with tech advances has allowed for more 
+insightful analytical models 
+depth insight 
+and increasingly sensors the physical world the internet 
+business intelligence 
+things expanding the reach data gathering deeper into consumer life the digital realm the growing use apis application 
+level insights 
+program interface enabling interoperability increased data shar 
+auditability 
+explanatory power 
+ing across devices and the development applications more specific use cases moreover the banks are being required build 
+apis enable permissioned access account data third parties 
+example methods 
+requirements 
+traditional analytics 
+advanced analytics 
+ide tifies ple correlatio 
+aggregated results 
+weak predictio 
+ide tifies ple depe cies 
+data 
+gra ular results 
+good predictio 
+ide tifies eaker depe cies 
+data 
+highl gra ular results 
+stro predictio 
+high 
+mid low 
+black box 
+ear regressio 
+geo mapping 
+basic reporti frequency 
+tables 
+regressio trees 
+classificatio sis support 
+vector machine 
+model order reductio linear 
+discriminant analysis 
+deep eural orks deep 
+learning 
+structured data 
+data olu 
+structured data 
+mediu data olu 
+structured unstructured data 
+high data olu 
+under the 
+source the boston consulting group morgan stanley research 
+the same time technological advancements have enabled data 
+potential end moore law could signal slowing this 
+storage and processing keep with this proliferation 
+improvement separately data collection and analytics strategies 
+data storage cost reduction has occurred last years and plat 
+tend hinge the assumption that moore law persists driving 
+forms allowing for parallel processing structured unstructured 
+down compute costs and with continued declines data storage 
+data cost effective servers are being built the result has been 
+costs and increasing densities however the morgan stanley 
+increasing ability analyze traditional structured data and unstruc 
+semiconductor team has pointed out global insight piece explor 
+tured data social media call records innovative ways 
+ing the topic the pacing moore law may permanently slowing valid questions may also emerge about strategy soundness 
+exhibit 
+data increasing volume well variety and velocity 
+data volume 
+letting third party cloud hosting companies like amazon google 
+the sources continued cost reduction pushes 
+petabytes 
+terabytes 
+gigabytes 
+megabytes 
+sensors rfid devices 
+mobile web 
+user click stream 
+sentiment 
+user generated content 
+social interactions feeds 
+spatial gps 
+external demographics 
+business data feeds 
+speech text 
+product service logs 
+sms mms 
+web logs 
+offer history 
+testing 
+dynamic pricing 
+addiliate netowrks 
+search marketing 
+behavioral targeting 
+dynamic funnels 
+segmentation 
+offer details 
+customer touches 
+support contacts 
+purchase detail 
+purchase record 
+payment record 
+erp 
+crm 
+web 
+new data sources 
+data variety and velocity 
+source teradata the boston consulting group morgan stanley research 
+morgan stanley research 
+seven things you should know about data 
+analytics the world 
+risk fraud we segmented the most common use cases into four 
+broad categories though these are not exhaustive 
+within four walls represents the best near term 
+opportunity generate value 
+product sales and marketing the most frequently cited internal 
+complexity large fis offsets the advantages 
+use case for data sales marketing specifically effective use 
+scale enterprise wide execution excellence key 
+data can help with targeted customer acquisition through use tar 
+transaction data only one pillar high value adding 
+additional internal and external data 
+data access becoming more restricted firms can 
+geted offers opposed broad based general offers that 
+increase conversion rates and improve roi marketing dollars 
+while maintaining profitability existing loyal customer base 
+engineer interactions based fair value exchange 
+addition data analytics can drive better product development and 
+generate unique new data for specific actionable insights 
+pricing 
+for fis creating new external revenue streams from data 
+still only aspirational 
+external value creation requires partnerships generate 
+actionable insights 
+some regions will structurally disadvantaged 
+due tighter regulation 
+banks spent average total revenue marketing and 
+promotion expenditure according data from snl financial and 
+several percentage points more when including branch costs customer acquisition cost skyrockets with marketplace lenders where 
+there are bank branches help support customer acquisition 
+deck capital for example customer acquisition costs were 
+origination volume the first nine months equivalent 
+within four walls represents the best 
+near term opportunity generate value 
+revenue even lending club which touts the efficiency its 
+customer acquisition has had sales and marketing expense equivalent revenue over the past three years quantifying the 
+potential improvement customer acquisition difficult but 
+deck recently called out its data driven decision making key 
+summary for fis estimate that improvements cus 
+improved acquisition costs its earnings call 
+tomer acquisition costs customer support fraud detection compliance monitoring credit risk management etc 
+have the most potential generate near term return and 
+can increase profits much and being best 
+class represents opportunity try win market 
+share 
+exhibit 
+banks the spend revenue marketing promotion 
+total marketing promotion spend 
+business case for internal value creation viable near term opportunity for most companies the primary objective gain competitive advantage through more meaningful sales marketing 
+improved customer service higher operational efficiency reduced 
+bcg industry interviews indicate that most organizations see the 
+total banking marketing and promotion spend 
+revenue 
+source snl financial morgan stanley research 
+exhibit 
+and within payments marketing spend revenue even 
+higher and has seen little leverage over recent years 
+payments industry revenue 
+covered companies 
+revenue 
+risk fraud management critical use case for several financial 
+and payments companies banks and fintech companies use data 
+learnings for effectively underwriting credit risk while payments 
+processing companies have long used transaction data assess 
+fraud risk through use predictive analytics wide range factors such past purchasing behavior purchase location address 
+detection etc the use sophisticated predictive analytics has 
+helped the payment networks consistently minimize fraud while limiting user authentication requirements thereby reducing friction 
+the consumer experience 
+total revenue 
+marketing spend revenue rhs 
+operating margins rhs 
+source company data morgan stanley research 
+compliance key source opportunity for the financial services 
+industry given complex regulatory burden companies have found 
+data analytics effective managing the burden and cost 
+another example price optimization companies make myriad 
+compliance and compliance monitoring 
+pricing decisions each year with the objective maximizing profits 
+but many these fail deliver unlocking the value data and act 
+applying analytics these spend categories could drive much 
+ing can significantly improve the potential make better pricing 
+earnings upside between the several sources spend 
+decisions that can help save lost risk revenue merchant 
+identified ripe for improvement think could reasonable 
+acquirers like vntv and fdc have noted use analytics based pric 
+for bank shave basis points off total operating 
+ing reduce merchant churn 
+expenditure leveraging analytics throughout the firm expect 
+realization for this higher amount savings likely relegated 
+other use cases for sales and marketing that found within our 
+the most complex firms while midcap banks are less likely 
+surveyed universe include contextual offers geo location based 
+benefit also note that there likely some degree incremen 
+real time offers customer lifetime value maximization improved 
+tal technology spend before banks realize the value their analytics 
+advocacy marketing and cross sell optimizations which are primari 
+and this will most likely function how much the bank has 
+aimed driving higher topline growth 
+invested far how far along the bank addressing some the 
+key imperatives laid out this report all see wide plau 
+operations some companies have put data analytics use for driv 
+sible range outcomes with the one hand banks spending more 
+ing operational efficiency helping address issues around customer 
+chase the opportunity but doing without traction potentially 
+service optimization cross channel customer journeys par 
+dilutive those that have already made most the required invest 
+ticular for self service channels resource optimization 
+ment and are nearing meaningful upside earnings upside 
+demand prediction for optimized atm replenishment streamlining collections loans early prediction collection risk and 
+optimization outreach effort 
+morgan stanley research 
+exhibit 
+see the potential for earnings upside analytics are 
+applied major cost categories 
+plenty use cases available for fis and payment companies enhance 
+sales operations 
+sales 
+marketing 
+operations 
+targeted customer acquisition 
+next best offer cross sell optimization 
+contextual offers real time geo based 
+pricing lending deposit fee commission 
+marketing mix optimization 
+customer lifetime value optimization 
+cross channel customer journey optimization 
+complaint reduction 
+churn prediction reduction 
+demand prediction resourcing optimization 
+optimized atm replenishment 
+risk fraud 
+credit risk management 
+portfolio stress testing 
+fraud detection 
+compliance 
+stress testing 
+compliance monitoring 
+complexity large fis offsets the 
+advantages scale enterprise wide 
+execution excellence key 
+summary there are challenges that all firms will face 
+creating value from data large scale banks have clear 
+advantages such having access larger data sets that 
+allow for deriving more granular insights with more 
+robust sampling having more comprehensive and 
+established data collection capabilities however scale 
+also brings implementation challenges including more 
+complex data linking data silos that are run independently different business units form degree customer view building enterprise wide agile test learn 
+reduction noninterest expense from sales marketing 
+compliance and other compensation savings 
+incremental tech 
+spend 
+assumes current spend 
+revenue 
+culture scaling successful ideas rapidly due highpotential net 
+income 
+upside 
+organizational and product complexity 
+source the boston consulting group morgan stanley research estimates 
+key finding from our senior leadership survey that while scale 
+does provide banks with some advantages such resources build 
+beyond the hard dollar savings think market share shift 
+team and larger base customers resulting increased sampling 
+potential the bigger carrot stick fis face increasing threats 
+accuracy and higher adoption rates these are largely offset sever 
+from disruptive innovators and from each other think those that 
+challenges executing data insights large institution first 
+are able effectively use data for improving internal decision mak 
+large institutions often struggle with attendant internal complexity 
+ing well driving better consumer engagement will better 
+which can lead greater difficulty securing management buy 
+positioned not only preserve but potentially accumulate market 
+more fragmented approach managing initiatives and over 
+share from others one the most relevant avenues through cus 
+all lack coordination due part the silo nature many large 
+tomer loyalty acquiring customers can expensive but fis often 
+firms see exhibit exhibit exhibit and exhibit 
+lose them frequently when competitors offer lower priced products 
+below 
+making broad based pricing cuts often not solution given profit 
+ramification across the portfolio data can effective tool 
+addition complexity banks are often hampered cultural barri 
+understand the customer motivations and help improve retention 
+ers for example fis have been slow adopt agile test and learn 
+either offering targeted pricing changes value added services 
+culture something many fintech firms have mastered large fis 
+which customer may value more than few dollars savings 
+also noted difficulty fully incorporating data analytics insights 
+front line sales and service processes 
+exhibit 
+legacy lack funding and talent scarcity are key challenges 
+respondents 
+exhibit 
+there overall lack coordination efforts about half 
+surveyed firms 
+respondents 
+others 
+lack agility 
+lack strategy 
+talent scarcity 
+regulation 
+poor organization 
+about half firms are still 
+not coordinated their 
+efforts 
+none 
+lack funding 
+limited 
+legacy infrastructure 
+good 
+challenges ahead monetization 
+source the boston consulting group morgan stanley research 
+coordination activities 
+source the boston consulting group morgan stanley research 
+exhibit 
+activities are still mostly decentralized 
+respondents 
+exhibit 
+fis are still developing agile test learn environment 
+respondents 
+hoc temp teams 
+project driven hoc 
+teams 
+limited centralization 
+limited test learn culture 
+test and learn culture but not 
+agile 
+agile test learn culture 
+partial centralization with 
+shadow org 
+full centralization 
+org structure 
+source the boston consulting group morgan stanley research 
+morgan stanley research 
+most firms still don 
+have agile test learn 
+agile operating model 
+source the boston consulting group morgan stanley research 
+transaction data only one pillar high 
+value adding additional internal and 
+external data 
+next purchase the app then sends highly contextual 
+offers real time the customers based their geo location key the success the predictive model the partnership fivory has with merchants which merchants provide 
+anonymized consumer behavior supplement the bank 
+own data 
+summary fis need more precise timely geo specific 
+actionable insights generate greater value from data 
+leading optimized customer journeys including contextual offers location life event based for this 
+beyond transaction information accurate internal credit 
+risk product loyalty demographic location and customer service and external life events online activity 
+socio economic statistics merchant and incremental 
+credit risk data needs appropriately assimilated 
+dbs singapore cognitive computing wealth man 
+agement dbs partnered with ibm use cognitive deep 
+learnings for automated data analysis its wealth management business doing dbs was able use client and 
+market data both structured and unstructured data 
+provide best class insights and advisory services improving wealth manager efficiency and output 
+customer journey optimization multiple firms fis can 
+leverage real time internal data from multiple sources like 
+customer banking history online mobile channel interactions chat logs call voice records agent notes from prior 
+financial institution has intimate knowledge its customers 
+interactions and the profile specific agent optimize 
+the form personal and transaction data and this highly distin 
+cross channel customer journeys and predict client interac 
+guished from the vast array data available others but that said 
+tion pattern for example could identify gaps its self 
+fis are able derive far greater insight combining this basic trans 
+service channel offering that results agent handled calls 
+action level data with the array other data points available 
+predict the reason for the call and analyze customer senti 
+highlight some the more frequently cited data points fis leverage 
+ment with voice analytics better match that customer 
+with the right agent more experienced agent for high val 
+exhibit 
+fis need merge transaction data into the vast array other data 
+points derive greater insights 
+customer distress provide that agent with relevant 
+information facilitate the call quickly and painlessly 
+pre populating agent screen with info related predicted 
+call reason and ultimately pre empting potential followup call predicting the reason for agent react 
+advocacy marketing retailers advanced retailers 
+combine customer and third party data run link analysis 
+which customers are most connected transactional 
+analysis and demographic analysis order target customers with high influence and reach and focuses special 
+deals and new product access these key brand advocates 
+source the boston consulting group 
+while have not seen examples fis running similar brand 
+advocate analyses the strategy should apply the pay 
+highlight some successful examples use cases that leverage 
+the spectrum available data and analytics tools generate upside 
+fivory credit mutuel contextual offers credit mutuel 
+partnered with merchants leverage customer data location demographics transaction history and purchase history 
+order predict time amount and category the custom 
+ments space well 
+exhibit 
+sample recent firm initiatives that have made use spectrum 
+available data and analytics tools 
+data sophistication 
+wealth management 
+dbs 
+unstructured 
+structured 
+external internal 
+high volume 
+real time 
+contextual offers 
+credit mutuel 
+advocacy marketing 
+starbucks 
+churn prediction 
+social media players search engines merchants fis are all trying 
+get geo location customers 
+engineer new customer interactions that provide fair value 
+exchange data sharing examples include google maps which 
+next best offer 
+customer sentiment 
+advanced analytics 
+deep learning neural networks 
+regression trees 
+descriptive statistics 
+aggregated reporting 
+visualization 
+ingly competing gain access the same pieces customer data 
+successful value creation will depend large part firm ability 
+smart pricing 
+resource optimimization 
+from use without explicit consent moreover more firms are increas 
+customer journey optimization 
+smart collections 
+structured 
+internal 
+low volume 
+batch load 
+rights over having their data forgotten otherwise restricted 
+analytics 
+sophistication 
+source the boston consulting group morgan stanley research 
+provides map service for location data and target cartwheel app 
+which provides discounts for real time aisle location product interaction data name one key feature 
+this fair value exchange can replicated fis exemplified two 
+key examples kabbage online lender focused small business 
+data access becoming more 
+restricted firms can engineer interactions 
+based fair value exchange generate 
+unique new data for specific actionable 
+insights 
+loans and redesigned digital loan application experience for simplicity speed and convenience with seamless customer digital experience ensuring fair value exchange gain access further data 
+addition using available third party data like customer reviews and 
+assessing credit worthiness from ebay kabbage has its customers 
+volunteer bank account and sales history and return the customer 
+rewarded with faster more favorable credit decisions kabbage has 
+seen meaningful traction and has moved beyond lending its own 
+balance sheet now partnering with banks like santander offers 
+summary while organizations are expanding data collec 
+smes same day funding and ing and scotiabank fully automat 
+tion abilities gaining access externally sourced data 
+boarding underwriting servicing and monitoring along cus 
+becoming more difficult particular due increasing 
+tomer life cycle 
+sensitivity consumer privacy the traditional path 
+increasing data collection partnerships being ham 
+another example the sesame credit product ant financial 
+pered uncertain process implementation increased 
+which provides credit scoring service largely unbanked market 
+regulatory barriers and competitive uncertainties data 
+using data from alibaba trade platform like trade volume and cus 
+sharing new path however available firms can engi 
+tomers reviews complement limited credit history data custom 
+neer customer interactions that provide benefit cus 
+ers voluntarily provide banking data payments data utility bills 
+tomer exchange for the data they share generating 
+digital behavior websites visited ecommerce history personal 
+win win 
+information and social media data data run through advanced 
+machine learning platform produce credit score for individuals 
+and smbs and return for providing this data customers increase 
+their chance access funding ant financials success far clear 
+despite the proliferation customer data most fis remain limited 
+with over funding date 
+the amount data they can gather specific transactions and 
+very few have access the whole picture transaction see 
+exhibit moreover consumers regulators and ecosystem partners are becoming increasingly sensitive what data freely 
+shared the general data protection regulation the adopted 
+april serves perfect example with consumers given great 
+morgan stanley research 
+some other examples have observed 
+company 
+fis have tended focus their external efforts supporting mer 
+interaction 
+data accessed 
+how monetized 
+real estate app 
+with augmented 
+reality 
+home 
+price date value history 
+iphone camera customer 
+location financial health 
+behavior 
+sell more mortgages via 
+early customer 
+engagement 
+hao che ping 
+used car trading 
+platform 
+vehicle info buyer seller 
+demographics individual 
+financial history ping 
+offer insurance policies 
+tailored customers 
+ant financial 
+product info and attributes 
+offer credit with better 
+ecommerce 
+buyer seller location ratings 
+assessment smb 
+payments platform transaction history 
+creditworthiness 
+government and pboc records 
+commonwealth 
+bank australia 
+chants helping them identify consumer spending patterns predict 
+future purchases design the right loyalty programs and provide 
+competitive benchmarking but most cases the return has been 
+kind that benefiting fis helping retain these merchants clients opposed earning new revenue streams most instances 
+within 
+facebook 
+messenger 
+social media 
+limited data and tools internally run these types analyses 
+messages app purchases 
+pictures audio 
+services like direct 
+messaging with bank 
+linkedin 
+professional 
+networking 
+professional background 
+for use over cortana 
+assistant 
+health hob 
+keas 
+employee health 
+management 
+medical records insurance 
+claims diet exercise 
+biometrics users data 
+predict and prevent high 
+healthcare costs 
+encourage employees 
+compete diet exercise 
+beyond 
+these services have been appreciated smaller clients that have 
+for fis creating new external revenue 
+streams from data still only aspirational 
+their own 
+evidence external value creation has thus far been limited one 
+example third party aggregators such cardlytics that use data 
+identify customers that can benefit from merchant offers thereby 
+unlocking value for both similarly the payments networks have 
+partnered with merchants link them best customers for targeted campaigns 
+exhibit 
+surveyed fis are currently monetizing outside their own four walls 
+respondents 
+summary use data analytics driven services generate external new revenue streams fairly rare fis 
+most instances value has been derived through improved 
+customer service which turn typically translates 
+increased retention ability cross sell broader suite 
+aspiration monetize externally 
+aspiring but revenue realized yet 
+data monetized beyond firm 
+core services 
+source the boston consulting group morgan stanley research 
+while some fis have tried offering point solutions primarily the 
+external value creation involves sharing consumer data with third 
+area fraud and know your customer developed point solutions 
+parties generate unique value for consumers and turn additional 
+are unlikely successful for key reasons lack relevant 
+revenue streams can range from simple sale raw data mer 
+sales experience outside core competition from party tech 
+chants other third parties delivering specific actionable 
+nology suppliers fintechs stiff see exhibit think that the 
+insights the latter more valuable and hence has greater value gen 
+investments required developing the solution and establishing 
+eration potential but much more challenging 
+specialized sales force too high and probability return too low 
+attractive option for fis 
+half our surveyed fis have aspirations build external data 
+analytics business the remaining half while aspiring towards new 
+revenue streams have not realized much way external data revenues today see exhibit 
+exhibit 
+sampling third party data analytics companies 
+tools platform provider 
+enterprise platforms 
+palantir 
+ibm watson 
+cortana 
+digital reasoning 
+ayasdi 
+point solution provider 
+social media analytics 
+hootsuite 
+netbase 
+tracx 
+datasift 
+bitly 
+statistical computing 
+sas 
+spss 
+matlab 
+risk collections analytics 
+fico 
+insikt 
+trueaccord 
+dataminr 
+corelogic 
+speech nlp 
+api 
+nuance 
+narrativescience 
+arria 
+visualization 
+tableau 
+quid 
+log analytics 
+nice 
+ibm 
+splunk 
+sumologic 
+loggly 
+transaction 
+argus 
+paypal 
+square 
+real estate 
+corelogic 
+lexisnexis 
+marketing analytics 
+cardlytics 
+fivestars 
+health 
+human api 
+patients likeme 
+merchant services 
+firstdata growth 
+sift fraud 
+amex 
+bbva 
+square 
+web mobile 
+commerce 
+google analytics 
+mixpanel 
+bluecore 
+rjmetrics 
+location 
+factual 
+metaweb 
+general service provider 
+data aggregator 
+mastercard advisors 
+ibm 
+musigma 
+nice 
+credit bureau 
+experian 
+equifax 
+transunion 
+financial news 
+bloomberg 
+morningstar 
+source the boston consulting group morgan stanley research 
+exhibit 
+several prominent fintech firms have successfully made use cutting edge data and analytics models 
+data sophistication 
+unstructured 
+structured 
+external internal 
+high volume 
+real time 
+credit scoring 
+alipay 
+subprime lending 
+lendup 
+wealth mgmt 
+motif 
+robo advisor 
+walthfront 
+cons lending 
+affirm 
+sme lending 
+deck 
+structured 
+internal 
+low volume 
+batch load 
+lending 
+fundbox 
+collections 
+trueaccord 
+lending 
+payments 
+xoom 
+advanced analytics 
+deep learning neural networks 
+regression trees 
+descriptive statistics 
+aggregated reporting 
+visualization 
+analytics 
+sophistication 
+source the boston consulting group morgan stanley research 
+morgan stanley research 
+external value creation requires 
+partnerships generate actionable 
+insights 
+payment networks and may have larger market share 
+but lack customer specific information 
+don have customer personal information like name 
+contact info etc 
+sku product level data typically not available fis pay 
+ments companies while card issuers have depth data 
+the consumer their access transaction info typically limsummary where fis and payments companies struggle 
+ited merchant name and transaction size with visibility 
+most they seek generate value externally having 
+into sku data 
+sufficient data breadth depth and precision generate 
+privacy regulatory concerns could limit customer level data 
+actionable insights for merchants these insights need 
+sharing 
+customer specific term type time and location 
+breadth depth and precision will likely achievable only 
+single entity payments transaction from merchant issuer 
+through partnerships there are only few examples 
+has access full depth the data which necessitates either fair 
+successful closed loop structures 
+value data exchanges and partnerships including private label 
+card programs issuers have unique cardholder data which puts 
+them advantageous position partner card networks have the 
+breadth transaction data and could independently derive geo 
+merchants find value data analytics helps increase their share 
+graphic specific merchant level insights rather than product lev 
+wallet and helps them identify new prospects both goals 
+but likely require partnership with issuers generate powerful 
+require large sample data customer category level iden 
+actionable insights 
+tify and target specific customers fis and payments companies 
+struggle offer the combination data breadth depth and precision generate actionable insights hence their challenge sup 
+exhibit 
+overview which stakeholders have access which transaction data 
+plement their data 
+what they see 
+fis require sufficient breadth depth data 
+actionable for merchants 
+required breadth 
+required depth 
+customer level wallet data 
+link merchants product level data make 
+compelling offers 
+increase share 
+wallet 
+large pool overlapping 
+customers 
+identify 
+prospects 
+large pool prospects 
+potential size wallet 
+within merchant current customer plus contact 
+desired footprint 
+information 
+what missing 
+breadth data 
+accessed 
+merchants 
+card number 
+sku level data 
+cardholder personal info 
+transaction data not always 
+linkable customer 
+largest retailers have 
+market share 
+issuers 
+card number 
+cardholder name 
+cardholder personal info 
+sku level data 
+largest issuers have 
+market share 
+networks 
+card number 
+cardholder name 
+cardholder personal info 
+sku level data 
+data card level not 
+customer level 
+major networks have market share 
+acquirers 
+card number 
+cardholder name 
+merchant info 
+cardholder personal info 
+sku level data 
+data card level not 
+customer level 
+largest acquirers have 
+market 
+share 
+source the boston consulting group morgan stanley research 
+ecosystem partnerships are important enabler overcoming 
+these hurdles given the state fragmented data sources 
+believe that will ultimately take collaborations across multiple 
+transaction data fragmented limited insight individual firms 
+ecosystem players create value any meaningful way below 
+highlight examples partnering achieve actionable insights 
+today fis and payments companies struggle provide this combination breadth and depth for few reasons 
+branded card partnerships under brand partner 
+ship the issuer has access consumer wallet spend inside 
+fis may lack scale provide insights large customer pools 
+and outside the merchant partner and hence able pro 
+the largest bank has market share credit and 
+vide its merchant partner with share wallet information 
+debit cards combined with the average bank having much 
+third party marketing firms card linked offer engines such 
+lower share 
+cardlytics merge insights the customer level from fis 
+and merchants while keeping the raw data the source this 
+enables fis send targeted offers behalf merchants 
+banking which regulations like facilitate fintechs access 
+though note the insights are more often merchant 
+customer data fis and government agencies and see 
+level rather than product level and therefore more effec 
+enhanced data privacy explicit customer consent required 
+tive only certain merchant types that sell limited product 
+access use personal data company has legitimate interests 
+skus fast food coffee chain 
+under gdpr and where customers gain right forgotten 
+direct partnerships fis and payments companies can estab 
+lish partnerships directly with merchants visa for example 
+increasing data nationalization the data can freely 
+developed program with gap which consumers that opt 
+transferred and out the country but the more strict about 
+would receive gap offers coupons the mobile device 
+data transfer and the general data protection regulation gdpr 
+they used their card nearby merchant 
+adopted april for implementation may limits data 
+transfer only countries that are willing warrant adequate level 
+privacy protection note the does not consider the 
+exhibit 
+review range partnership structures 
+adequate privacy protection though there privacy 
+partnerships 
+branded cards 
+via data aggregators 
+directly btw 
+merchant 
+individual firm 
+shield that enables firms access data rules about data pri 
+closed loop 
+vacy are even more restrictive developing countries where data 
+merchants 
+issuers 
+merchants 
+bank 
+data aggregators 
+credit bureau 
+merchants 
+fis 
+integrated players 
+payments 
+merchants 
+nationalized restricting data from being moved abroad china 
+examples 
+citi aadvantage 
+synchrony gap 
+cardlytics 
+argus 
+experian 
+visa gap 
+visa uber 
+amazon payments 
+ant financial 
+tesco 
+fis are partial loss scale advantage for banks with global 
+resulting 
+data 
+customer 
+sow 
+contact details 
+pii bank level 
+contact details 
+marketing 
+pii bank customer 
+contact details product 
+marketing near real time 
+scale large enough 
+overlapping primary 
+customer pool 
+scale enough 
+partners have large 
+enough customer set 
+trust raw data stays 
+fis merchants 
+players 
+requirements 
+scale enough 
+partners have 
+large enough 
+customer set 
+use trust asset 
+and fair value 
+exchange access 
+customer data 
+sales data 
+party 
+infrastructure and for fintech firms hurdle scaling globally 
+paypal was denied banking license turkey 
+increased access customer personal data fis and governments regulation now requires fis provide direct access rele 
+more suitable for merchants with fewer categories 
+starbucks mcdonnalds walmart home depot 
+transaction history amount spent only high level view how much customer spent competitors but not which articles part alibaba group not available purchase made 
+times 
+source the boston consulting group 
+requiring soil data centers turkey key implications for 
+vant customer data through api see exhibit for more the 
+differences between and data privary regulation provided 
+some regions will 
+structurally disadvantaged due tighter 
+regulation 
+the customer consents and the hints may mandate something 
+similar unless the industry does its own the there 
+current requirement though treasury recommends implementing 
+api with the irs automatically share personal data the key 
+implication for fis higher spend implement some these 
+requirements well loss advantage fintech firms and key 
+implications for fintech firms potential benefit from better access 
+summary more restrictive data regulations particularly 
+relevant customer data 
+europe will likely mean that fis operating those areas 
+will long term disadvantage unless they can gener 
+consumer gains rights over data capture and usage the 
+ate fair value exchange 
+gdpr regulation implemented focuses part data 
+privacy and both raises the bar for access use personal information and also gives consumers the right forgotten and review 
+modify customer data used credit decisions the regulation 
+overview regulatory considerations 
+varies state but implicit consent usually enough record use 
+personal data though opt out rules and pre collection notice 
+the use data see several changes the regulatory environ 
+required customers must also have the right review modify data 
+ment consider see increasing data nationalization with ris 
+used credit decisions developing markets the trend also 
+ing restrictions moving data outside source country see 
+towards increasing consumer protection for example china passed 
+tightening rules for online marketplace lending with potential 
+consumer right protection law that requires explicit con 
+extension scope fair lending regulation from fis online mar 
+sent for capture personal data and gives customers the right 
+ketplace lenders and where customers gain ability correct data 
+modify stored personal information the key implications intensi 
+used credit decisions see smarter data disclosure open 
+fying consumer protection that using data currently easiest 
+morgan stanley research 
+asia and most challenging europe with the falling between 
+regulatory implications for fintech firms 
+and rising costs serve customers could pressure some firms 
+exit the business transformation costs become prohibitive 
+regulatory arbitrage declining for fintechs lending 
+yet fintechs will benefit from increased access customer 
+regulatory implications for fis 
+data but only they convince the customer that there fair 
+value exchange 
+value creation potential depends regulators flexibility 
+letting data move freely and varies geography 
+governments will become provider data reducing some 
+competitive data advantage over fintech and other 
+providers 
+consumers gain greater control over their data data 
+used only for purpose collected for generating fair value 
+exchange becomes paramount 
+exhibit 
+key reasons the more challenging environment for data monetization than the 
+source the boston consulting group 
+what comes next five key imperatives for fis 
+engineer customer interactions gather valuable data 
+based fair value exchange for customers 
+develop structured program manage ecosystem 
+partnerships whose objectives are harness data critical 
+develop structured program 
+manage ecosystem partnerships whose 
+objectives are harness data critical 
+internal and external value creation 
+internal and external value creation 
+ensure execution excellence organizing data 
+structured ecosystem partnership program solves the problem 
+analytics function center excellence with explicit 
+insufficient data breadth and depth that has historically hampered 
+senior executive support and business buy partnership 
+fis external monetization potential fis have made inroads the 
+ingrain data based decision making and test learn 
+culture 
+make trust asset and proactively manage consumer 
+privacy 
+branded card arena but are still the early days building wider 
+partnerships partnering with leading merchants across fis 
+they can deliver incremental value their customers beyond traditional reward programs card linked offer program are step that 
+direction but more can done for example fis can leverage their 
+mobile banking wallet app deliver geo location based offers 
+from these merchants based their combined data analytics 
+engineer customer interactions 
+gather valuable data based fair value 
+exchange for customers 
+while fis have extensive internal data often lacking unique data 
+that sets the apart helps unlock specific actionable insights 
+critical maximize the value data analytics both internally and 
+make their value prop stand out externally these unique data elements can about specific individual preferences which are 
+revealed inferred real time geo location etc gain access 
+these unique data sets fis need engineer digital customer interac 
+another opportunity developing api based partnerships share 
+data with party providers customers accountants and 
+deliver relevant functionality party app wallet 
+commerce app 
+ensure execution excellence 
+organizing data analytics function 
+center excellence with explicit senior 
+executive support and business buy 
+partnership 
+tions ensuring fair value data exchange for consumer adoption 
+critical the success data analytics fis cohesive consistent 
+seeking similar pieces data digital giants fintechs and advanced 
+enterprise wide strategy and operating model which lends itself 
+merchants are continuously raising the bar for fis examples include 
+supporting all business units and functional areas risk opera 
+google maps which provides map service and value adding location 
+tions best practice have enterprise level center excel 
+information for real time location data and target cartwheel app 
+lence championed senior management with explicit liaisons 
+which provides discounts for real time aisle location product inter 
+internal business and operations partners the coe role multi 
+action data name one key feature fis play critical roles 
+ceted ranging from high level contributing ingraining data 
+numerous consumers life events buying home and could add 
+driven test and learn culture discussed next teaming with part 
+more value simplifying the experience and reducing stress 
+ners identify problems and opportunities and formulate solutions 
+uncertainty they had more data either building their mobile 
+and hypothesis regarding actionable insights respectively 
+banking app building use case specific apps they can engineer 
+prises multi functional teams data engineers data scientists busi 
+improved customer journeys and data sharing for example cba 
+ness intelligence analysts and project managers 
+property guide app combines real estate data with customer provided data that enables cba deliver insights affordability housing and offer more relevant mortgage options 
+morgan stanley research 
+ingrain data based decision making and 
+test learn culture 
+assessment tools for fis and payments 
+companies best practices 
+the digital world fast paced and the winners are excelling data 
+order enable fis gauge where they are the journey towards 
+analytics underlying their success data analytics driven culture 
+data analytics best practices bcg has mapped out three phases 
+exemplified the rise online market places like amazon enter 
+exhibit most fis are the adopting developing phase with 
+prise wide these organizations empower their employees with ana 
+few reaching the path breaking phase most are the process 
+lytical tools and highly effective internal data sharing infrastruc 
+defining their strategy and operating model exhibit outlines 
+ture starting with senior management pushes for fact based 
+action items 
+data driven decision making culture that allows for calculated risktaking and experimentation 
+face this new competitive driver senior executives fis must 
+exhibit 
+our assessment framework for fis pursuing data analytics value creation 
+embrace and propagate data based decision making culture and 
+adopt enterprise wide test and learn approach that this transformation feasible shown numerous fis 
+make trust asset and proactively 
+manage consumer privacy 
+paramount data analytics excellence earning and maintaining 
+consumer trust bcg estimates that two thirds the total value 
+potential big data stands lost stakeholders fail establish 
+trusted flow personal data those organizations that make trust 
+asset and proactively manage consumer privacy will see trust 
+source the boston consulting group 
+exhibit 
+highlight key steps for fis 
+competitive advantage 
+months 
+fis given the particular sensitive nature financial information and 
+compliance requirements face relatively high bar they must not 
+only fulfill regulatory requirements but also proactively respond 
+upcoming regulation gdpr the well set their own 
+internal policy gaining the trust advantage requires executive leadership and shifting responsibility for privacy related issues from 
+legal the suite fis that can transparently steward consumer 
+information restricting its use understood and agreed upon applications that can customized the customers and generate fair 
+value exchange will have the ability access more data than competitors that fail this well they will create better products and 
+services and generate more value for consumers leading meaningful shifts market shares and faster growth 
+source the boston consulting group 
+appendix digitalization and implications 
+for data monetization 
+effective use data analytics digitalize business can 
+create significant shareholder value for the disruptors 
+exhibit 
+disruptors general retail have also created significant amount 
+shareholder value 
+which have the largest scale but also for the enablers 
+legacy companies which embrace digitalization focus 
+improving the operational model rather than being 
+denial can survive and thrive however regulation can 
+headwind digitalization such gaming methodology show the historical development total market cap 
+legacy companies the digital disruptors and how 
+much the sector market cap the disruptors represent 
+the legacy companies 
+source datastream morgan stanley equity research 
+hotels and gaming disruption has been driven digitalizing the 
+sectors which have fully embraced the digital revolution and most 
+booking process creating two large champions priceline and expe 
+aggressively implemented data analytics capabilities include media 
+dia but certain private companies have also gained share apart 
+retail hotels and gaming see our digitalization index exhibit 
+ment letting disruptors priceline and expedia now represent 
+disruptors these sectors have created significant amount 
+the total market capitalization similar share during the internet 
+shareholder value now representing their respective sec 
+boom still legacy hotel groups have performed line with 
+tor market capitalization 
+driven operational efficiencies response digital disruption 
+retail pure online plays such amazon alibaba asos yooxnap 
+regulation can act headwind digitalization seen gaming 
+zalando have gained material share their respective subsegments 
+where disruptors only represent mere the sector market 
+and currently represent about the global market cap capitali 
+capitalization certain key markets remain regulated legacy gam 
+zation the sector still legacy players group has significantly 
+ing has performed line with but with higher degree 
+outperformed the since early driven the increase 
+volatility 
+number stores but also embracing online response 
+pressure from disruption meanwhile certain segments such food 
+media likely the sector that experienced the highest degree pres 
+retail remain largely unaffected digital disruption online chal 
+sure from digital disruptors alphabet facebook netflix that now 
+lengers have yet achieve scale benefits 
+represent around total market capitalization this excludes 
+the music industry which has largely gone through similar trend 
+significant portion the outperformance legacy companies may 
+legacy media has struggled respond the digital trend and has 
+survivor bias that survivor bias retailers likely enhanced 
+group underperformed the large media agencies are 
+those that have best embraced digitalization processes 
+our view exception they have maintained high margins and 
+benefitted from consolidation 
+morgan stanley research 
+retail 
+while being under pressure from disruptors interesting note 
+general retail has gone through long and arguably more gradu 
+with wide margin despite the emergence amazon part 
+period digitalization conceptually general retail has been 
+this outperformance due players embracing digitalization such 
+very fragmented with varying incumbents depending region and 
+inditex and converting more online but the build out foot 
+segment digitalization has predominately been driven the majors 
+print into new geographies coupled has also contributed share 
+being amazon the western world and alibaba china the digitali 
+holder returns 
+that legacy retail companies have actually outperformed the 
+zation the purchase process and economies scale has created 
+two large global champions which now represent the global 
+sector market cap 
+exhibit 
+disruptors have struggled get into the food retail sector 
+hotels 
+the digitalization the hotels sector and primarily the booking 
+process has generated significant value with emergence disruptors such priceline and expedia this exercise does not 
+include major private disruptors that have gained share private 
+apartments lettings and could possibly add share attributed disruptors included see exhibit 
+exhibit 
+hotels sector global market cap priceline booking and expedia 
+make 
+source datastream morgan stanley equity research 
+note global retail excluding food retail 
+exhibit 
+legacy retail outperformed the 
+source datastream morgan stanley research 
+note hotels sector comprise accor ihg marriott hilton starwood disruptors priceline and expedia 
+exhibit 
+hotel groups performing line since early 
+source datastream morgan stanley equity research 
+note legacy retail contains major global retail franchises including inditex macy kohl penney 
+nordstrom stories ross stories tjx brands urban outfitters tiffany american eagle outfitters 
+abercrombie fitch abf next kingfisher home retail group 
+that said disruptors have struggled gain traction food 
+retail which has remained largely disrupted looking retail 
+excluding food retail the share disruptors reaches there are 
+some digital companies specialized food delivery and retail but 
+these have not reached the scale and traction compared digital 
+source datastream morgan stanley equity research 
+disruptors other sectors this suggests there still significant 
+note hotels composite includes accor ihg marriott and starwood 
+room for further digitalization retail 
+similar now the share disruptors reached the peak 
+the internet boom this emphasises the correct vision disrup 
+exhibit 
+gaming sector highlighting disruptors and enablers 
+tors but years too early terms timing while the stock market got 
+overly excited valuing these companies 
+interestingly the large hotel chains have performed well while 
+being exposed disruption market returns have been line 
+with the since the early result from the 
+inherent pressure from digital disruptors large hotel groups were 
+forced increase operational efficiencies legacy hotel groups such 
+accor ihg marriott optimized the capital base leading 
+improved profitability for example the reduction their asset base 
+has led near doubling ihg return capital employed see 
+exhibit below also response the traction priceline and 
+source datastream morgan stanley equity research 
+note legacy william hill ladbrokes mgm resorts boyd gaming las vegas sands wynn resorts disruptors unibet betsson ppb group enablers playtech net entertainment 
+expedia large hotel groups such starwood and hilton now try 
+capture the best clients providing loyalty schemes and perks 
+the share sector market value attributed disruptors and enablers has gradually increased the last decade and currently 
+exhibit 
+roce ihg doubled the past years 
+around shareholder returns has remained robust recent 
+years driven continuing conversion online benefitting disruptors but also multiple expansion however the share attributed disruptors and enablers reached peak around the 
+casino model experienced balance sheet pressure during the 
+financial crises while disruptors continued take share 
+exhibit 
+selection legacy gaming gambling companies 
+source company data morgan stanley equity research 
+gaming 
+gaming interesting sector has inherent characteristics that 
+are fundamentally well suited for digitalization high data dependance coupled with low requirement for physical interaction promotes significant drive for increased digital content that said gam 
+source datastream morgan stanley equity research 
+note legacy gaming includes william hill ladbrokes mgm resorts boyd gaming las vegas sands and 
+wynn resorts 
+ing remains only partly digitalized due government regulation 
+disruptors and enablers create shareholders value but less 
+since early legacy gaming has performed line with the 
+parison the hotels media retail sector 
+but volatility has been significant regulation has acted 
+protection for the legacy casino model the and online gaming 
+has predominately reached traction europe 
+morgan stanley research 
+media 
+similar hotels sector some media companies have focused 
+the global media sector was also one the first sectors digi 
+disruptors the media agencies have digitalized their business model 
+talize there was false start during the internet boom mostly driv 
+helping their clients using digital media platforms improved way 
+yahoo rather than today winner but the vision was correct 
+and thus have maintained their margins while growing size through 
+the share sector market cap attributed disruptors have been 
+consolidation such publicis below 
+improving the operational model response the pressure from 
+above for over decade emphasising the solid leadership the 
+sector and robustness business models companies such google and facebook and also netflix recently 
+exhibit 
+publicis doubling revenues with stable margins 
+exhibit 
+disruptors media such google facebook and netflix have generated significant amount shareholders value the past years 
+source company data morgan stanley research 
+exhibit 
+and revenues from digital 
+source datastream morgan stanley equity research 
+note all sectors include aol publicis wpp omnicom interpublic havas cbs time warner cable 
+century fox sky itv rtl prosieben disruptors alphabet facebook netflix and yahoo 
+source company data morgan stanley research 
+the previous two decades disruptors have gained significant 
+share the expense legacy media players result legacy 
+media have underperformed the worth noting that 
+the music industry largely excluded from this analysis the legacy 
+disruptors share total sector market 
+capitalization 
+music industry has experienced major disruption starting around two 
+decades ago with large implications and where currently music 
+streaming services are gaining traction distribution 
+exhibit 
+hotels disruptors priceline and expedia represent sector market cap 
+exhibit 
+legacy media companies have underperformed the 
+source datastream morgan stanley equity research 
+source datastream morgan stanley equity research 
+note legacy media includes wpp omnicom interpublic havas cbs sky itv rtl prosieben 
+exhibit 
+media disruptors represent the media sector 
+exhibit 
+general retail disruptors represent close the global market 
+cap 
+source datastream morgan stanley equity research 
+source datastream morgan stanley equity research 
+exhibit 
+gaming disruptors and enablers represent the global sector 
+source datastream morgan stanley equity research 
+morgan stanley research 
+exhibit 
+but only include global food retail that less digitalized 
+source datastream morgan stanley equity research 
+appendix survey methodology 
+comprehensive industry study the state data monetization trends challenges and next frontiers based inputs 
+extensive interviews bcg with thought leaders global firms known for their excellence data analytics 
+fis issuers acquirers networks 
+fintechs market place lenders payments players 
+merchants luxury and mass market retailers 
+service providers digital giants analytics service providers 
+augmented with data analytics maturity assessment survey 
+responses from senior leaders retail banks fintechs service providers 
+input from top commercial banks 
+reflecting inputs from global bcg leaders data analytics 
+global bcg topic expert interviews including consumer privacy fintechs big data 
+bcg business partners musigma 
+bcg gamma team 
+additional disclosures 
+the information provided herein was prepared morgan stanley llc morgan stanley and the boston consulting 
+group bcg not investment research though may refer morgan stanley research report the views morgan 
+stanley research analyst this communication does not constitute complete fundamental analysis any companies mentioned unless indicated all views expressed herein are the views the authors and may differ from conflict with those 
+morgan stanley research department this article does not constitute investment advice recommendations and not 
+solicitation offer purchase sell securities the information contained herein only good the date and 
+time publication not undertake advise any changes the opinions information contained herein morgan 
+stanley and bcg expressly prohibit the use any portion this report whether reference incorporation otherwise 
+any prospectus ipo materials other filings with the sec other financial supervisory authorities any public materials which any investment decisions might based and the fullest extent permitted law bcg shall have and 
+hereby disclaims all liability whatsoever any recipient and all recipients hereby waive any rights claims with regard 
+the report including the accuracy completeness thereof receipt and review the report shall deemed agreement 
+with and consideration for the foregoing 
+morgan stanley acting financial advisor apigee corporation apigee relation the proposed sale the company google inc 
+announced september the proposed transaction subject approval apigee shareholders applicable regulatory approvals 
+and other customary closing conditions this report and the information provided herein not intended provide voting advice serve 
+endorsement the proposed transaction iii result the procurement withholding revocation proxy any other action 
+security holder apigee has agreed pay customary fees morgan stanley for its financial services some which are contingent upon closing 
+the transaction please refer the notes the end the report 
+morgan stanley currently acting financial advisor microsoft corporation microsoft with respect its definitive agreement acquire 
+linkedin corporation linkedin announced june the proposed transaction subject approval linkedin shareholders 
+the satisfaction certain regulatory approvals and other customary closing conditions microsoft has agreed pay fees morgan stanley 
+for its financial advice that are contingent the consummation transaction please refer the notes the end the report 
+morgan stanley research 
+disclosure section 
+the information and opinions morgan stanley research were prepared are disseminated morgan stanley llc and morgan stanley 
+and morgan stanley xico casa bolsa and morgan stanley canada limited and morgan stanley international plc 
+and rmb morgan stanley proprietary limited and morgan stanley mufg securities ltd and morgan stanley capital group japan ltd 
+and morgan stanley asia limited and morgan stanley asia singapore pte registration number and morgan stanley asia singapore 
+securities pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents 
+and should contacted with respect any matters arising from connection with morgan stanley research and morgan stanley taiwan limited 
+and morgan stanley international plc seoul branch and morgan stanley australia limited holder australian financial 
+services license which accepts responsibility for its contents and morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents and morgan stanley india company private 
+limited regulated the securities and exchange board india sebi and holder licenses research analyst sebi registration 
+stock broker bse registration and nse registration inb merchant banker sebi registration 
+and depository participant with national securities depository limited sebi registration nsdl which accepts the 
+responsibility for its contents and should contacted with respect any matters arising from connection with morgan stanley research and 
+morgan stanley asia indonesia and their affiliates collectively morgan stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report james 
+faucette manan gosalia vasundhara govil betsy graseck cfa danyal hussain cfa francois meunier ken zerbe cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+september morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research amazon inc american express company automatic data processing inc bankunited inc bats global markets first data 
+corp first horizon national goldman sachs group inc ingenico morgan chase lendingclub corp logitech mastercard inc new york 
+community bancorp inc deck capital inc technicolor telit communications plc tomtom vantiv inc visa inc 
+within the last months morgan stanley managed managed public offering offering securities bank america bank new york 
+mellon corp bats global markets corporation bok financial corp capital one financial corporation citigroup inc citizens financial group inc 
+discover financial services fifth third bancorp first data corp first horizon national first republic bank goldman sachs group inc huntington 
+bancshares morgan chase keycorp new york community bancorp inc northern trust corp pnc financial services regions financial corp 
+square inc state street corporation suntrust synchrony financial bancorp wells fargo 
+within the last months morgan stanley has received compensation for investment banking services from automatic data processing inc bank america 
+bank new york mellon corp bats global markets corporation bok financial corp capital one financial corporation citigroup inc citizens 
+financial group inc fifth third bancorp first data corp first horizon national first republic bank goldman sachs group inc huntington bancshares 
+morgan chase keycorp lendingclub corp mastercard inc new york community bancorp inc northern trust corp pnc financial services 
+regions financial corp square inc state street corporation suntrust synchrony financial bancorp wells fargo 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from amazon inc american 
+express company associated banc corp automatic data processing inc bank america bank hawaii corp bank new york mellon corp bats 
+global markets corporation bok financial corp capital one financial corporation citigroup inc citizens financial group inc comerica inc 
+commerce bancshares discover financial services evertec inc fifth third bancorp first data corp first horizon national first republic bank fleetcor 
+technologies inc gemalto global payments inc goldman sachs group inc green dot corp huntington bancshares ingenico morgan 
+chase keycorp lendingclub corp logitech bank corp mastercard inc moneygram international inc new york community bancorp inc 
+northern trust corp deck capital inc paychex inc paypal holdings inc people united financial inc pnc financial services popular inc 
+regions financial corp signature bank square inc state street corporation suntrust synchrony financial synovus financial corp tcf financial corp 
+technicolor telit communications plc tomtom total system services inc trinet group inc bancorp valley national bancorp vantiv inc 
+visa inc webster financial corp wells fargo western union zions bancorp 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from amazon 
+inc american express company associated banc corp automatic data processing inc bank america bank hawaii corp bank new york mellon 
+corp bankunited inc bats global markets corporation bok financial corp capital one financial corporation citigroup inc citizens financial 
+group inc comerica inc commerce bancshares cullen frost bankers discover financial services east west bancorp inc fifth third bancorp first 
+data corp first horizon national first republic bank fleetcor technologies inc gemalto goldman sachs group inc huntington bancshares 
+morgan chase keycorp lendingclub corp bank corp mastercard inc new york community bancorp inc northern trust corp paychex 
+inc people united financial inc pnc financial services popular inc regions financial corp state street corporation suntrust svb financial group 
+synchrony financial synovus financial corp technicolor bancorp verifone systems inc wells fargo western union wex inc 
+zions bancorp 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company amazon inc american express company associated banc corp automatic data processing inc bank america bank 
+hawaii corp bank new york mellon corp bats global markets corporation bok financial corp capital one financial corporation citigroup 
+inc citizens financial group inc comerica inc commerce bancshares discover financial services evertec inc fifth third bancorp first data corp first 
+horizon national first republic bank fleetcor technologies inc gemalto global payments inc goldman sachs group inc green dot corp 
+huntington bancshares ingenico morgan chase keycorp lendingclub corp logitech bank corp mastercard inc moneygram 
+international inc new york community bancorp inc northern trust corp deck capital inc paychex inc paypal holdings inc people united 
+financial inc pnc financial services popular inc regions financial corp signature bank square inc state street corporation suntrust synchrony 
+financial synovus financial corp tcf financial corp technicolor telit communications plc tomtom total system services inc trinet group 
+inc bancorp valley national bancorp vantiv inc visa inc webster financial corp wells fargo western union zions bancorp 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company amazon inc american express company 
+associated banc corp automatic data processing inc bank america bank hawaii corp bank new york mellon corp bankunited inc bats 
+global markets corporation bok financial corp capital one financial corporation citigroup inc citizens financial group inc comerica inc 
+commerce bancshares cullen frost bankers discover financial services east west bancorp inc fifth third bancorp first data corp first horizon 
+national first republic bank fleetcor technologies inc gemalto goldman sachs group inc huntington bancshares morgan chase 
+keycorp lendingclub corp bank corp mastercard inc moneygram international inc new york community bancorp inc northern trust corp 
+paychex inc paypal holdings inc people united financial inc pnc financial services popular inc regions financial corp signature bank state 
+street corporation suntrust svb financial group synchrony financial synovus financial corp technicolor tomtom trinet group inc 
+bancorp valley national bancorp verifone systems inc visa inc webster financial corp wells fargo western union wex inc zions 
+bancorp 
+employee director consultant morgan stanley director bats global markets lendingclub corp verifone systems inc this person not 
+research analyst member research analyst household 
+morgan stanley llc makes market the securities amazon inc american express company associated banc corp automatic data 
+processing inc bank america bank hawaii corp bank new york mellon corp bankunited inc corporation bok financial corp capital one 
+financial corporation citigroup inc citizens financial group inc comerica inc commerce bancshares cullen frost bankers discover financial services 
+east west bancorp inc evertec inc fifth third bancorp first data corp first horizon national first republic bank fleetcor technologies inc global 
+payments inc goldman sachs group inc green dot corp huntington bancshares morgan chase keycorp lendingclub corp logitech 
+bank corp mastercard inc moneygram international inc new york community bancorp inc northern trust corp deck capital inc paychex inc 
+paypal holdings inc people united financial inc pnc financial services popular inc prosperity bancshares inc regions financial corp signature 
+bank square inc state street corporation suntrust svb financial group synchrony financial synovus financial corp tcf financial corp total 
+system services inc trinet group inc valley national bancorp vantiv inc verifone systems inc visa inc webster financial corp wells fargo 
+western union wex inc zions bancorp 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+september 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+morgan stanley research 
+analyst stock ratings 
+overweight over the stock total return expected exceed the total return the relevant country msci index the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+equal weight equal the stock total return expected line with the total return the relevant country msci index the average total return 
+the analyst industry industry team coverage universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the relevant country msci index the 
+average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+underweight under the stock total return expected below the total return the relevant country msci index the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities amazon inc american express 
+company automatic data processing inc bank america bank new york mellon corp capital one financial corporation citigroup inc evertec inc 
+fifth third bancorp first data corp goldman sachs group inc ingenico morgan chase keycorp lendingclub corp bank corp 
+mastercard inc paypal holdings inc square inc state street corporation suntrust synchrony financial technicolor bancorp visa inc wells 
+fargo western union 
+october state street corporation beneficially owned more class common equity securities morgan stanley 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers hong 
+kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities hong 
+kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+certain information morgan stanley research was sourced employees the shanghai representative office morgan stanley asia limited for the use 
+morgan stanley asia limited 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia indonesia 
+canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley 
+bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the following companies business countries which are generally subject comprehensive sanctions programs administered enforced the 
+department the treasury office foreign assets control ofac and other countries and multi national bodies mastercard inc 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley research 
+industry coverage payments and processing 
+company ticker 
+rating 
+price 
+danyal hussain cfa 
+automatic data processing inc adp 
+fleetcor technologies inc flt 
+moneygram international inc mgi 
+paychex inc payx 
+trinet group inc tnet 
+western union 
+wex inc wex 
+james faucette 
+first data corp fdc 
+lendingclub corp 
+mastercard inc 
+paypal holdings inc pypl 
+square inc 
+verifone systems inc pay 
+visa inc 
+vasundhara govil 
+evertec inc evtc 
+global payments inc gpn 
+green dot corp gdot 
+deck capital inc ondk 
+total system services inc tss 
+vantiv inc vntv 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage banking large cap banks 
+company ticker 
+rating 
+price 
+betsy graseck cfa 
+american express company axp 
+bank america bac 
+bank new york mellon corp 
+bats global markets bats 
+corporation bbt 
+capital one financial corporation cof 
+citigroup inc 
+discover financial services dfs 
+goldman sachs group inc 
+morgan chase jpm 
+northern trust corp ntrs 
+pnc financial services pnc 
+regions financial corp 
+state street corporation stt 
+suntrust sti 
+synchrony financial syf 
+bancorp usb 
+wells fargo wfc 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage midcap banks 
+company ticker 
+rating 
+price 
+ken zerbe cfa 
+associated banc corp asb 
+bank hawaii corp boh 
+bankunited inc bku 
+bok financial corp bokf 
+citizens financial group inc cfg 
+comerica inc cma 
+commerce bancshares cbsh 
+cullen frost bankers cfr 
+east west bancorp inc ewbc 
+fifth third bancorp fitb 
+first horizon national fhn 
+first republic bank frc 
+huntington bancshares hban 
+keycorp key 
+bank corp mtb 
+new york community bancorp inc nycb 
+people united financial inc pbct 
+popular inc bpop 
+prosperity bancshares inc 
+signature bank sbny 
+svb financial group sivb 
+synovus financial corp snv 
+tcf financial corp tcb 
+valley national bancorp vly 
+webster financial corp wbs 
+zions bancorp zion 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage technology hardware 
+company ticker 
+rating 
+price 
+sfr 
+andrew humphrey 
+gemalto gto 
+ingenico ingc 
+logitech logn 
+technicolor tch 
+tomtom 
+francois meunier 
+telit communications plc telt 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 
+morgan stanley research 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

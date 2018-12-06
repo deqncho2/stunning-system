@@ -1,0 +1,1417 @@
+global financials fintech april 
+april 
+global financials fintech 
+global insight blockchain banking 
+disruptive threat tool 
+morgan stanley international plc 
+huw van steenis 
+huw vansteenis morganstanley 
+morgan stanley llc 
+betsy graseck cfa 
+betsy graseck morganstanley 
+morgan stanley international plc 
+fiona simpson cfa 
+blockchains could have widespread potential disrupt financial 
+intermediaries our depth study suggests several misconceptions 
+identifies hurdles overcome make blockchain reality 
+banking the opportunity clear but the blue sky too far off 
+impact our 
+fiona simpson morganstanley 
+morgan stanley llc 
+james faucette 
+james faucette morganstanley 
+banking large cap banks 
+north america 
+the pot gold higher efficiencies early days but industry 
+heavyweights are sponsoring wide range blockchain use cases supported 
+industry consortiums nim fades and capital builds global bank 
+managements press harder for step down costs cost mutualisation 
+through blockchain architected financial system utilities could provide some 
+earnings boost after the related multi year investment spend plateaus 
+industryview 
+attractive 
+banks 
+europe 
+industryview 
+line 
+but blockchains could double edged sword and disrupt financials 
+blockchains won just change the financial services architecture they 
+could also change accessible profit pools lot will depend the governance 
+and how quickly incumbents move the firms holding the keys the data and 
+the architecture could drive more profit pool towards themselves 
+wonder that the custodians like jpm and stt are among the lead sponsors 
+linux hyperledger and are members they seek drive the 
+standard and retain their ground 
+the market underestimates the advantages banks and custodians have 
+already given not single policymaker met with for this note 
+would allow unpermissioned distributed ledger nor would the 
+banks given concerns aml and kyc result think industry 
+supported consortia rather than sponsored start ups will have the edge 
+roadblocks for blockchains become reality banking the 
+use case cost benefit compelling cost mutualisation who funds the 
+overhaul old systems misaligned incentives evolving the right 
+standard scaleability performance governance regulatory issues 
+legal risks cryptology security and simplicity interoperability 
+what the best use case the majority ideas hinge reducing 
+inefficiencies capital markets infrastructure several industry leaders 
+including blythe masters ceo digital asset holdings see conversation 
+later this note put post trade settlement for variety asset classes the 
+top the list domestic payments already efficient especially with real time 
+pay much and coming the but some believe international 
+payments could benefit from blockchain type communication protocol 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research result 
+investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan 
+stanley research investors should consider morgan 
+stanley research only single factor making their 
+investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+while the long term opportunity clear the blue sky still too far 
+the right affect eps think our stock positioning 
+generally reflects medium term earnings issues for our banks 
+alysts emp yed affiliates are registered ith finra may 
+asso ciated erso memb may ject nasd nyse 
+restrictio mmu icatio ith ject lic earan ces 
+tradin secu rities eld research alyst acco 
+global financials fintech april 
+our roadmap for adoption distributed ledger financial institutions 
+exhibit financial infrastructure intermediaries iterating path improve efficiencies using blockchain over the next decade 
+assets proliferate 
+shared infrastructure emerges 
+assess blockchain value for 
+financial assets 
+assess blockchain value for 
+financial assets 
+banks and other financial infrastructure 
+intermediaries fiis including central 
+depositories exchanges technology 
+vendors size potential efficiencies from 
+permissioned shared secure distributed 
+ledgers 
+banks and financial infrastructure 
+intermediaries form industry groups discuss 
+opportunities 
+linux hyperledger foundation 
+proof concept 
+proof concept 
+banks and fiis tee specific assets test case for blockchain 
+cds 
+repo settlement 
+corporate syndicated loan settlement 
+trade finance 
+international currency transfer 
+exchanges for post trade settlement 
+shared infrastructure emerges 
+proven assets adopted well beyond initial poc 
+group 
+develop interface for external users 
+leverage apis 
+reduce costs with fewer heads and increased 
+mutualization infrastructure costs 
+assets proliferate 
+more assets move onto blockchain 
+efficiencies prove out 
+poc goal assess blockchain can scale and reduce costs 
+does tech work and scale 
+does the asset transact between buyer and seller smoothly 
+does offer benefits beyond existing technologies performance 
+cost speed scale analysis 
+fails are minimis 
+can buyer seller and their parties lawyers auditors regulators 
+validate the transaction with few human touch points replacing teams 
+people 
+does offer benefits beyond existing technologies performance 
+cost speed scale analysis 
+poc tiering segment into most least important assets address 
+focus resources most important assets most inefficient processes 
+engage regulators lawyers auditors 
+rce rgan stan ley research 
+global financials fintech april 
+key hurdles cross make blockchain reality financial services 
+exhibit framing the hurdles adopting blockchain what watch for 
+rce rgan stan ley research 
+blythe masters ceo digital asset holdings private technology company that provides innovative 
+distributed ledger technology solutions wholesale financial firms the views expressed this report are those 
+morgan stanley research unless otherwise stated 
+global financials fintech april 
+making blockchain banking reality 
+blockchain technology could help banks reduce the clutter and cost numerous complex processes however 
+could double edged sword given that profit pools could fall shift new players change the competitive 
+landscape 
+explore have undertaken depth study focused two key questions 
+what would take for blockchain banking become reality 
+how disruptive could for financial stocks who could the winners and losers 
+for this note 
+met with suite numerous banks custodians market infrastructure players and asset 
+managers well many vcs and start ups active distributed ledger 
+met with several policymakers about receptivity new technology 
+joined various industry workshops making blockchain adoption reality via world 
+economic forum industry groups 
+also hosted blythe masters ceo digital asset holdings dah our recent european 
+financials conference march ceo dah blythe running one the most visible 
+experiments financial service architecture discussed the potential for blockchains 
+banking the business case well some the key roadblocks and her thoughts how 
+challenging and surmountable they are the end this note give summary our 
+conversation 
+subdivided this note into 
+investor roadmap which businesses are most prone disruption when 
+misconceptions how disruptive blockchain adoption could 
+box why should care about blockchain 
+key hurdles surmount make blockchain implementation reality 
+just how disruptive for financial institutions our tentative conclusions 
+conversation with blythe masters 
+global financials fintech april 
+investor roadmap which businesses are most prone disruption when 
+there isn really major financial institution either bank infrastructure provider that isn deeply 
+involved exploring and some cases beginning commercialise this technology today 
+blythe masters 
+which businesses are most prone disruption 
+the challenge for has been boiling down the ocean opportunity the number applications this 
+technology wholesale financial services merely limited ourselves wholesale financial services the 
+challenge trying figure out what are the projects that have legs that are viable that can scalable and 
+have interest multiple parties blythe masters 
+financial institutions are expected spend over blockchain projects making one the 
+fastest developing enterprise software markets all time according report magister advisors 
+emerging use cases 
+proposed use cases are mostly ones with costly and complex processes for post trade settlement and 
+change title santander innoventures identified use cases including international money transfers 
+trade finance syndicated lending and collateral management business insider june interestingly 
+some these use cases could solved with existing technology but took the threat new entrants funded 
+vcs growth tech multiples not bank multiples get the incumbents together discuss how deliver 
+more speed and efficiency lower cost expect the financial institutions and their customers will adopt 
+blockchain technologies asset class asset class for validated proof concepts poc efforts over the next 
+years iterative process that will likely last decades similar uber there are likely many potential use 
+cases can imagine today below are those that come most frequently when engaging with the industry 
+post trade settlement corporate loans cds repo derivatives equities and post trade settlement 
+costly each transacting party has team controllers internal auditors external auditors and regulators 
+reviewing transactions distributed ledger could enhance the audit function specific securities are more 
+easily tracked this would most helpful dks don knows which are the most costly part post trade 
+settlement more people are required involved and delays mean capital and liquidity are tied 
+transacting parties using the same distributed ledger could have more visibility help speed resolution 
+management which should lower staff costs associated with post trade settlement 
+corporate whole loans trades are well known for long settlement periods with weeks not unusual there are 
+wide range reasons including lengthy review process long review periods are costly they can expose 
+traders market risk and limiting liquidity the product blockchain technology could enable all participants 
+the chain see where the documents are the sequenced approval process highlighting who reviewing 
+how long they have had the documents pushing intermediaries speed the review process 
+additionally there are opportunities shorten the settlement window while settlement windows are function 
+regulatory and legal requirements technology pushing people expect increasingly quick response times 
+regulators are already moving shorten the settlement window equities moving join europe from 
+days over the next months and while today technology can adapt deliver shorter 
+settlement times blockchain technology can useful particularly assets that have the least efficient netting 
+clearing collateral management and longer clearing periods 
+global financials fintech april 
+additionally faster settlement window lowers cost trade less capital tied the settlement process 
+improving liquidity that capital recycled back into the market the challenge establishing who will create 
+the standard for all market participants link into this simpler smaller vertically integrated market 
+like australia which has one regulator responsible for all the participants the post trade food chain the 
+exchanges clearers banks investment banks and asset managers asx leading the charge migrating its 
+chess infrastructure more efficient blockchain infrastructure over the next few years pulling the rest the 
+industry that ties into them along for the investment spend today for better efficiencies tomorrow will 
+address the implications for local and global industry structure more thoroughly future notes 
+there been arms race pre trade infrastructure for more than decade now should ironic all 
+you that trading infrastructure has evolved the point that competitive advantages measured fractions 
+nanoseconds and yet still dealing with plus two three worse depending your asset class eight 
+years after the financial crisis that pretty shocking statement and you know one the reasons why 
+post trade infrastructure monolithic there hasn been incentive really speed very expensive 
+replace because clunky and processing enormous volumes activity and taking the wheels anything 
+that moving fast always challenge heavily regulated blythe masters 
+trade finance trade finance can pose some challenges specifically you need ensure the goods transfer 
+before the payment made with blockchain all parties financiers trading houses and any other trusted 
+intermediaries are able see when the goods have shipped and can release funding appropriately this 
+should reduce time confirm assets confirm transaction release payment and received confirmations 
+international payments international payments have friction them with multi day settlement times and 
+relatively slow bank settlement system moving blockchain should shorten settlement periods speed 
+transactions and reduce the risk fraud this would become even more important intra country payments 
+systems increasingly move real time including the october swift and ripple are both leading 
+interesting suggestions for international payments 
+reference data blockchain technology could offer significant efficiencies transactors holding reference 
+data for individual securities providing rules based standard data could enhance quality and auditability 
+transactions occur the history could enhance resolution management well 
+regulatory the banking system has numerous capital and liquidity charges blockchain holding the data 
+for regulators could more efficient for banks assessing the data intra firm well for regulators wanting 
+compare their regulated entities 
+simply put the opportunity cut out layers and layers non value added post trade reconciliation activity 
+whereby parties who keep their own records the same information have ensure consistent with other 
+parties the same information where course because kept separately and different infrastructures 
+there are discrepancies blythe masters 
+misconceptions how disruptive blockchain adoption could 
+think there are few misconceptions that may overstate quite how disruptive distributed ledgers could 
+blockchain adoption does not mean unpermissioned networks 
+not one bank nor policymaker that have met with blockchain gives even second thought 
+unpermissioned public network kyc aml and other considerations means has permissioned network 
+this reduces the risk that new start will able disintermediate entire value chains how many tech 
+companies want vertically integrate into regulated financial institution seems more likely that they will 
+want retain their tech oriented multiple supplier software and consultants the financial services 
+industry rather than regulated financial more likely expect that financial industry blockchains will 
+built around industry consortia which agree common standards with close regulatory support this 
+global financials fintech april 
+environment believe the market may underestimate the opening advantages for banks and custodians yes 
+they will need invest deliver faster less expensive financial services while ensuring viability and 
+security but they have the client relationships they can deliver more streamlined process with lower costs 
+they will formidable competitor 
+blockchain adoption does not mean 
+there are quite few blockchain firms whose business model centres settlement timeframe the 
+pitch that more efficient than today days settlement their business case misses few key 
+points first the primary reason for multi day settlement periods regulatory and legal rules and market 
+practice which enables broader participation retail investors second current technology could deliver 
+settlement today broad range asset classes regulatory and legal rules allow for you don need 
+blockchain deliver third markets with today appear have less liquidity and more volatility than 
+markets with settlement window several reasons chief among them that settlement window there 
+shorting which reduces liquidity expect settlement windows shrink due regulatory and legal 
+changes but not they shrink lenders lose some revenues but also free capital blockchain 
+technology can drive down costs too competition could migrate settlements digital asset holdings 
+building what you want into its blockchain solution which should also enable users more explicitly 
+price for the liquidity they want 
+find that there are some vested interests custodians potentially banks where actually plus two 
+three quite helpful because they get the carry the benefit case resilience and cost cutting offset the 
+nuisance the carry generally the reason why there are vested interests who need for example earn the 
+carry because they operating massively expensive infrastructure without which the business would 
+completely unsupportable 
+the carry has there order justify the cost associated with inefficient process and there isn really 
+custodian the world that when you get the right level seniority doesn understand that problem 
+they will give the carry nanosecond they give more than proportionate amount the costs and 
+simple that blythe masters 
+venture capitalists don like projects that require industry consortia but banks need partners 
+share the expense given profitability challenges 
+you came and said are you interested tech that can solve back office problems and requires 
+consortium approach not interested that investor matt harris managing director bain capital 
+ventures dtcc blockchain symposium april 
+argued january many western banks are focused lights on issues responding regulatory 
+issues simplying trying put off the heavy costs involved simply put the payback many technology 
+investments beyond years whilst given the poor profitability western banking banks have been rationing 
+spend not increasing keep themselves the black argued before perhaps this more than any 
+other factor explains why many banks particular have been slow respond see financials what 
+learned davos result this and some the other constraints discuss below banks will form 
+partnerships address see also the fintech challenge adapt partner 
+global financials fintech april 
+one blockchain expect plurality blockchains 
+when you hear blockchain think software lot experts are probably bristling right now but financial 
+sector analyst that what blockchain delivers new software architecture that provides shared immutable 
+records making processing transactions less error prone seems like logical upgrade the point that there 
+one size fits all blockchain application are likely see different blockchains for different use cases 
+developers will able leverage consulting and analytics from some blockchain solutions others may able 
+hit their goals through owning large global use case expect most will integrate with existing 
+infrastructure but some may require totally new core interface although those better large opportunities 
+with lots cost mutualisation one similarity for all successful blockchains they need not only enable 
+process efficiency but also organisational efficiency financial service companies will only adopting 
+blockchains the investment spend retool delivers hard dollar cost savings within years 
+blockchains not have entail complete transformation and early trials especially may 
+use some workarounds 
+rather blockchains will need plug existing technology financials cannot afford reinvent their financial 
+technology nor take massive punt new technology until proven clearly blockchain technology will 
+simplest markets that are already fully dematerialised with clear title why australia stock exchange asx 
+focus but even larger win will dematerialising complex western markets too 
+one industry expert recent event held under chatham house rules said that distributed management 
+digital signatures offered blockchain technology might separated from its indelible record keeping 
+mechanisms near term capital markets implementations this would form cheating whereby new 
+transactions would added from distributed set nodes but where the golden copy these data would 
+maintained centralised repository example workaround for desired use case reference data 
+blockchain technology not centred payments 
+bitcoin may the most widely recognised instance the blockchain but global financials are likely put lot 
+daylight between themselves and bitcoin financial institutions are required allow regulators review 
+transactions financial institutions have ensure that all the customers their platform are reviewed under 
+the know your customer kyc and anti money laundering aml guidelines which permissionless blockchain 
+like bitcoin would not allow that said there could some payments mechanisms between trusted 
+authenticated parties particular cross border which seems inefficient today 
+the blockchain 
+what blockchain software that enables data sharing across network individual computers 
+blockchain describes computers transferring blocks records chronological chain blockchain 
+technology also known distributed ledger the term distributed ledger refers the concept that 
+each user shares the same ledger set accounts defined the software blockchain and 
+distributed ledger are used interchangeably 
+how does work through shared software infrastructure and trust users agree software 
+protocol describing the rules for the type quality and transferability data addition the rules for 
+authorisation verification and permutation users trust that information entered into and transactions 
+conducted over the blockchain software are valid blockchain technology financial service best initial 
+use cases think are solve cluttered processes the post trade settlement period where there 
+change title 
+global financials fintech april 
+why blockchain 
+blockchains can enhance security cryptography used ensure that records can not changed 
+altered tokenisation can also enable security for each block data whether resting 
+transacting private keys for each user and product coupled with encryption for data transfer improves 
+data security and resiliency bad guys self select out users data and transactions are all encrypted 
+transactions permissioned via security keys financial services not expect blockchain security 
+ride off fully distributed permissionless ledgers which can help police fully decentralised 
+blockchain system 
+blockchains can enable lower costs shared encrypted transparent database can reduce the 
+teams people across the firms responsible for authenticating and approving each specific 
+transaction the data are irrevocable and auditable additional benefits users can share costs 
+building and maintaining infrastructure more efficient than managing individual systems the potential 
+for material reduction costs from current utility like structures potentially one the most 
+compelling reasons investigate think and echoed the suite meet 
+why that relevant this context well one way out that box there need several solutions 
+but one way radically restructure your cost base and not talking five ten cuts costs 
+talking and there only one way that and that share mutualised common 
+infrastructure that previously was kept separately and run independently every market participant 
+blythe masters 
+blockchains increase speed transactions are more streamlined buyer and seller account 
+update simultaneously when transaction authorised fewer mistakes buyers authorisations are 
+transparent not only the transacting parties but also any related parties including lawyers controllers 
+accountants etc fewer mistakes means less capital tied disputed trades and more capital for new 
+trades improving velocity capital 
+blockchains enable greater visibility transactions can monitored real time users can see 
+transactions completed important sequencing matters trade finance this could valuable 
+for regulators banks 
+you get some cyber security benefits and improved regulatory transparency because one the benefits 
+this technology one those credentialed parties that can get access this information can include 
+regulators blythe masters 
+dispute resolution management each step the transaction approved there dispute both 
+parties have digital record showing who authorised approval for transaction should enable swifter 
+dispute resolution 
+potential for fraud reduction permissioned blockchains valid users onboard the multi node 
+architecture makes harder for corruption unnoticed assume the financial institutions use 
+permissioned blockchains not the anarchic plurality peer invigilation the like one clear difference 
+between some vcs and tech folk meet and the use case financial services have yet meet 
+single banker who values the anonymity decentralised system after all estimate over 
+fines for the top and european banks cover see investor roadmap how are banks 
+responding post litigation 
+global financials fintech april 
+key hurdles surmount make blockchain implementation reality 
+let clear whenever meet suite financial institutions see the hurdles and limitation blockchain 
+technology that not say they are insurmountable but take view quite how disruptive blockchain 
+technology could and how long could take realised you need understand the hurdles and 
+roadblocks this not say any the below are not solvable but none trivial and suggests are not 
+talking impact bank custodian market infrastructure profits our view rather materially 
+beyond this 
+series challenges and questions that you have answer appropriately but not showstopper 
+blythe masters 
+exhibit framing the hurdles adopting blockchain 
+rce rgan stan ley research 
+use case cost benefit does the benefit given use case justify the investment 
+regularly see banks that could move real time systems but have put this off given expense and risk many 
+also cite that took cba commonwealth bank australia well run bank five years install new system 
+are these use cases large enough support the incremental spend would they better serviced 
+current platforms rather than using distributed ledger 
+global financials fintech april 
+cost mutualisation who funds the cost building new infrastructure 
+banks will need share infrastructure build out costs equitably new systems are truly inter operable 
+industry utilities this potentially subject organisational disputes users assess how much invest which 
+can enable free freer riders customise which degrades interoperability speed and which measure 
+allocate costs among participants revenues market share the alternative third party building out 
+industry infrastructure standard specifications major users via industry consortiums such 
+details grey box below many banks are dedicating the most their spend upgrading and overhauling 
+legacy systems and with profitability already under pressure finding budget for blockchain projects may prove 
+challenging although some parts the world these pressures are less australia 
+disparate incentives companies the financial value chain 
+inevitably there are winners and losers far much the action has been from backed companies but 
+within the larger financials the custodians that have been most active for offensive and defensive reasons 
+for example the banks involved the linux hyperledger project see grey box below are predominantly 
+custodians 
+many financial institutions are experimenting private with technology that uses consensus protocols 
+provide transparency this mirrors the history financial innovation beyond the few points time where 
+industry mandate regulation forced the industry cooperate the current path will result new jumbled 
+disconnected maze distributed ledger silos the industry should seize the emergence this technology 
+opportunity assess how modernise and significantly lower risk and cost 
+dtcc white paper embracing disruption tapping the potential distributed ledgers improve the posttrade landscape january 
+evolving the right standard 
+avoiding picking betamax over vhs clearly this work progress which why consortia are debating hard 
+how best 
+managing network effects maintain scalability 
+scalability has limits including across network bandwidth storage and even processing power some 
+implementations blockchain including bitcoin scalability challenges have already become evident least 
+well anticipated for blockchain move forward needs offer more efficient scalable solution over current 
+infrastructure 
+scale limits tend emerge variety circumstances including 
+when the full blockchain ledger intended fully distributed all participant nodes 
+multiple nodes must agree order for transaction executed 
+all nodes are required have coincident access the ledger and transactions and 
+the blocks are too small allow for high velocity frequent transactions causing transaction 
+recording overflow the block size 
+not controlling the above elements among others creates network effect that can cause the compute storage 
+and network requirements approach hyperbolic geometric growth the implications for just power 
+consumption have been studied with startling results one study suggests that encrypt all permutations for 
+the million individuals germany and the spectrum bank products used that country would cost 
+more energy annually than that produced the country whole separately the government office for 
+global financials fintech april 
+science report distributed ledger technology beyond block chain estimated that the energy requirements 
+run bitcoin are excess and may comparable the electricity usage ireland 
+while moore law and specialised silicon development may help reduce power consumption marginally 
+are seeing various iterations the blockchain concept emerging that better limit network effect and its impact 
+hardware requirements generally speaking most new blockchain proposals are looking range 
+mitigating characteristics including 
+limiting participant nodes permissioned networks 
+centralising all part the blockchain ledger 
+paring the blockchain ledger under certain circumstances 
+making block sizes and their analysis more variable and 
+incorporating data analytics and probabilities into the verification process etc 
+governance 
+many the issues raised banks and market infrastructure are not technology but process and governance 
+related for example who would charge maintaining and managing the blockchain who admits new 
+participants the blockchain with the corresponding duty run kyc aml checks permissioned system 
+who validates any given transaction and who determines who sees which transactions 
+the other hand the ability process transactions directly between parties without the need for the trusted 
+central utilities that currently serve the function reducing counterparty risk poses risk traditional 
+banking ubs white paper for the world economic forum annual meeting january 
+regulation 
+there are numerous policy issues that crop when meet banks and policy digital identity cross border 
+standards and integrity systems are nearly always head the lists regulation also critical driving fully 
+dematerialised environment for securities trading arcane physical certificates need digitised fully 
+benefit from the speed and fraud control offered fully digitised system 
+can you use this technology mutualise the infrastructure for identity management and kyc for financial 
+services purposes boils down very simple question and that will the regulators let you because 
+essence what you need confident that you going rely shared service and the shared 
+service gets wrong are you all collectively going held individually responsible for having got wrong 
+and therefore safer more responsible for you have independently gone and gathered the same 
+information prove that you were trying extra especially hard instead irresponsibly relying this shared 
+service blythe masters 
+legal risks especially kyc and aml 
+particular not one bank have met wishes disaggregated open source model for identity banks and 
+policymakers need close control for kyc and aml issues finding single digital identity passport authoriser 
+will key that why see most progress those markets with relatively small number players work 
+together partly why payments are far tougher than post trade loan settlement initiatives how these 
+initiatives work across borders equally large issue resolve 
+global financials fintech april 
+absolutely the case that the initial regulatory reaction anonymous making payments over the internet 
+was extremely negative for reasons the obvious risk anti money laundering controls sanctions avoidance 
+promoting criminal activity long long list concerns and that remains valid and not mention consumer 
+protection concerns that remains valid set concerns but small subset the concerns and the 
+deploying this technology wholesale financial infrastructure provision much more nuanced topic set 
+private permission network using the same technology but where the access participants 
+permissioned you can play you aren previously credentialed board and identified and where the 
+incentives for maintaining the resiliency the network are not the pursuit financial gain mining bitcoins 
+but rather the incentive participate network that resilient and works and you use run your 
+business which the way all you already many you operate data centres and benefit from 
+networks that have work run your business blythe masters 
+conduct issues particularly those relating know your customer kyc and anti money laundering aml 
+would also have addressed such firms offering digital currency services further research would also 
+required into how digital identity management could achieved while balancing privacy considerations 
+bank england open bank research agenda february 
+cryptography security 
+resilience any security attack especially state sponsored terrorism and bugging critical work the 
+assumption that financial markets are going hacked intensely and the issue one navigating the risks 
+best one can are encouraged the success the established payment networks which have made 
+effective use both improved authentication technologies emv well seemingly effective behavioral and 
+historical analytics keep fraud rates low most parts the world fraud rates have been kept flat down 
+during the past years while they have only risen about the where emv not yet fully 
+utilised the same time there doesn seem have been upward pressure interchange rates which are 
+largely intended help issuing banks cover their costs fraud 
+further research would also required devise system which could utilise distributed ledger technology 
+without compromising central bank ability control its currency and secure the system against systemic 
+attack bank england open bank research agenda february 
+simplicity 
+any killer app software has deliver simplicity this goes for blockchain solutions too uncomplicated and 
+easy understand needs interface with other parts the tech foodchain seamlessly enabling faster setup time training time and fixing time must deliver the promise efficiency and easy enough for all 
+parties understand and leverage 
+didn have time write short letter wrote long one instead mark twain 
+global financials fintech april 
+key projects 
+blockchain consortium 
+their own words financial innovation firm that leads consortium partnership with over 
+the world leading banks design and deliver advanced distributed ledger technologies global 
+financial markets collaborate with our partner banks research experimentation design and 
+engineering bring the ultimate users this technology into the design and production process from 
+the outset 
+who involved banco santander bank america barclays bbva bmo financial group bnp 
+paribas bny mellon cibc commonwealth bank australia citi commerzbank credit suisse danske 
+bank deutsche bank morgan goldman sachs hsbc ing bank intesa sanpaolo macquarie bank 
+mitsubishi ufj financial group mizuho financial group morgan stanley national australia bank 
+natixis nomura nordea northern trust financial group scotiabank state street sumitomo mitsui 
+banking corporation royal bank canada royal bank scotland seb societe generale torontodominion bank ubs unicredit bancorp wells fargo westpac banking corporation 
+partnership with microsoft 
+the hyperledger project 
+their own words the hyperledger project collaborative effort created advance blockchain 
+technology identifying and addressing important features for cross industry open standard for 
+distributed ledgers that can transform the way business transactions are conducted globally the project 
+linux foundation collaborative project and implements many open source best practices familiar 
+other leading projects 
+who involved 
+banks morgan abn amro anz bny mellon state street wells fargo 
+exchanges cme group deutsche borse group 
+post trade dtcc cls 
+others accenture cisco digital asset holdings blockchain blockstream bloq calastone 
+consensys credits evue fujitsu gem guardtime hitachi ibm intel intellect itbit milligan partners 
+montran necm ntt data red hat ribbit thomson reuters vmware 
+there are also numerous other bank initiatives for example ubs santander and barclays all 
+have internal incubators working blockchain solutions 
+global financials fintech april 
+just how disruptive for financial institutions our tentative conclusions 
+the heart our interest this will distributed ledger help hinder financial institutions 
+the bullish case that sharing and decluttering infrastructure could radically reduce costs and 
+provide much needed boost roes let clear for many banks especially investment banks 
+radical reduction and simplification processing costs would blessing showed 
+our recent blue paper with oliver wyman that banks will need not just prune but also change 
+their model sweeten their roes hit hurdle rates according santander more efficient 
+digital ledgers could cut costs the banking industry billion year 
+the bearish case that dramatic reduction margins the same time higher spend 
+destabilising and disruptive also risks profit pools leaking other players 
+our tentative conclusions 
+with any early stage highly complex technology that demonstrates the ability change conduct 
+business think too early stage make any profound comments about winners and losers 
+breadth adoption 
+think years off for widespread adoption and not material earnings any 
+financial cover rather show our roadmap expect proof concept tests 
+rather shared utilities for kyc securities processing and the like are likely have bigger impact 
+bank earnings than blockchain implementation 
+buy into the concept that distributed ledger has the potential help reduce the costs posttrade activities dramatically studies range from bcg santander infoventures june 
+this stage 
+best use cases financial services strike post trade especially for loans cds and securities 
+more broadly payments much further off although keep close watch ripple and its crossborder payment offerings which look bridge faster domestic payment systems between countries 
+watch two experiments closely first the dematerialised and simpler markets such australia and 
+singapore first for broad market initiatives second cumbersome process where cost savings could 
+large such bank loan settlement for signs progress 
+for custodians such bny mellon state street northern trust citi jpm which generate profits from 
+ensuring securities are accurately measured and moved and which benefit from the carry from 
+blockchain technology threatens their value add and shorter settlement periods could cut into 
+revenues more than they could free capital for buybacks but that why the custodians are 
+the leading edge distributed ledger work ensure that they can deliver the most efficient 
+blockchain solutions their clients 
+may not quite radical some hope expect workarounds for the near term trials 
+will revisiting the blockchain theme periodically and refreshing and expanding the views this note over 
+the coming quarters and years 
+global financials fintech april 
+conversation with blythe masters 
+blythe masters ceo digital asset holdings 
+prior joining dah blythe spent years morgan chase and rose managing director the age 
+she served numerous senior positions the firm including head global commodities cfo 
+morgan investment bank head global credit portfolio and credit policy and strategy addition 
+other senior roles she was the board sifma for multiple years addition chairing the 
+association for two consecutive years additionally she was chair gfma from blythe 
+the board the breast cancer research foundation and the global fund for women she also the 
+chair the board santander consumer usa holdings inc 
+huw van steenis morgan stanley 
+huw managing director morgan stanley sits the world economic forum agenda council 
+banking and their working group disruptive innovation financial services well the 
+european central banks macro prudential and financial stability contact group fellow the 
+royal society arts and board member english national opera 
+the following summary huw conversation with blythe masters the morgan stanley european 
+financials conference march questions and answers have been condensed for clarification 
+purposes you may contact morgan stanley research for further clarification please note that blythe 
+masters not member morgan stanley research department unless otherwise indicated her 
+views are her own and may differ from the views the morgan stanley research department and from 
+the views others within morgan stanley make claim that blythe masters representations are 
+accurate complete 
+huw van steenis good afternoon morgan stanley absolutely thrilled that blythe masters has flown 
+especially meet with and share her enthusiasm for blockchain and the opportunity presents for the 
+financial system blythe masters ceo digital asset management company that builds distributes 
+encrypted straight through processing tools improve efficiency security and compliance and settlement 
+speed blythe previously many you know was leading member morgan with long and 
+distinguished career successfully running the commodities business before selling really today blythe 
+delighted you come along where want start what inspired you make the switch start your 
+digital asset 
+blythe masters left morgan natural point having sold business for them and was planning 
+minding own business for least year doing few things that hadn done for the preceding awfully 
+long time and became during the course that what turned out four months the year exposed the 
+concept blockchain through this little company called digital asset every now and again long career 
+you come across idea that real kind idea where couple things fall into place and you think 
+wow actually that has real implications 
+and thought things through with the benefit having the better part three decades experience 
+financial services having worked and around market infrastructures having run global trading businesses 
+was cfo the investment bank for while operated the risk organisation and had the joy helping 
+morgan and others navigate the post financial crisis regulation process dodd frank and the corresponding 
+changes europe and the rest the world good sense financial regulation and here was this idea that 
+had implications for the core the way that industry operated largely for the better and opinion arriving 
+time where the need was great 
+global financials fintech april 
+and you don come across ideas that magnitude very often even once career especially not time 
+where you really have nothing better that got off the horse and back onto the desk and decided 
+join this little start was employee number four for full disclosure wasn idea the company 
+didn create existed and was hired run and that was almost exactly year ago the day and can 
+talk about what happened since but been lot 
+huw van steenis before dig into that why you think distributed ledger such breakthrough 
+technology 
+blythe masters okay answer the question going have explain what distributed ledger 
+brace yourselves and let see can this without causing consternation think the best thing 
+first all ask all you suspend everything you heard read about bitcoin crypto currencies and 
+all the associated noise connection with criminal activity and other undesirable aspects and just put those 
+thoughts away for minute and come back why there connection and why interesting but 
+instead focus the fact that underlying the invention alternative currencies crypto currencies was the 
+creation technology and that technology actually enables all sorts things which just one use case 
+crypto currencies 
+and that technology which known universally blockchain technology perhaps more generically 
+distributed ledger technology where all the interest and the focus least wholesale regulated financial 
+institutions actually really pretty simple concept and you know what database then you the 
+right sort territory and you all know what database because fact blockchain technology although 
+when you get into the technology itself there some complexity there and some ingeniousness nothing 
+more than new form database approach database architecture that fundamentally improvement 
+over the way that traditionally databases have been designed and used the past 
+what database you know place where store important information that want refer back 
+for various purposes some point the future visually you can imagine cylindrical thing owned 
+someone administered someone typically exists physical location the administrator the 
+database very interested investing and ensuring that the perimeter security that cylinder that protects the 
+contents strong impenetrable the lucky ones are the ones that know that turned out that penetration 
+happened and then there the rest who just don know yet 
+and typically the information that kept databases raw information not encrypted not further protected 
+other than the perimeter security which increasingly proves penetrable when someone gets there 
+that isn authorised that the consequences can dire whether the theft someone identity for 
+theft funds what have you you read about this every day that traditional database architecture and 
+pretty much everybody keeps databases because they have important information about their activity their 
+client activity that they need keep record and matter fulfilling their fiduciary responsibilities 
+they need keep that record 
+interaction between entities who keep their own separate databases requires process taking information 
+from that database sending off another party for whatever the relevant purpose independently 
+validating verifying and then course when the two sets information aren consistent reconciling the 
+reasons for the differences and simply put that reconciliation process between different renditions the same 
+data that needs communicated between parties accounts for tens billions dollars cost every year 
+the financial manufacturing process 
+that the way things have traditionally worked financial database architecture for years and along comes 
+new technology this blockchain technology distributed ledger technology which makes few 
+fundamental changes what just described the first thing that instead this cylinder one place you 
+have network with multiple nodes and you have technology which enables the multiple nodes that 
+network accessed those with need and right know and for ensuring that the data the important 
+information that all referring back can kept sync and replicated continuously real time 
+near need real time basis between parties 
+global financials fintech april 
+and protecting all this the fact that the data itself encrypted and the identity the users those who 
+have the right need and right access that information subject sophisticated identity management 
+regime involving again cryptographic tools that very possible independently verify whether not 
+actor who they say they are and has the right access that information and simply put what that allows you 
+for the first time responsibly share mutualise common infrastructure and use this database 
+environment place keep record important transactional information that one record golden 
+prime record that can shared multiple independent entities that protected through cryptography 
+that only those with need and right know only the piece information that environment that they have 
+the need and right know can that 
+and this creates the opportunity cut out layers and layers non value added post trade reconciliation 
+activity whereby parties who keep their own records the same information have ensure consistent with 
+other parties the same information where course because kept separately and different 
+infrastructures there are discrepancies and simple that shared database infrastructure 
+cryptographically secure environment which means different entities independent competing entities can now 
+share the same infrastructure with enormous implications for efficiency and actually cyber security and other 
+things because the cryptographic security that introduced 
+not lot sex appeal that amazing hot and the reason why the fact that this technology 
+was first used invent crypto currencies which were designed facilitate essentially anonymous payments 
+money value between unknown actors over the internet which immediately raises flags about who are they 
+why are they doing and how stop perfectly legitimate concerns the part regulators and 
+regulated entities 
+fact that just one subset how you can use this technology others involve post trade processing much 
+more mundane things like securities other financial assets and this coming time where you all know 
+the industry little challenged challenged from performance point view you want boil down 
+one metric roe problem roe you know has sort three inputs depending how you want 
+express but its revenue minus expenses divided capital 
+and revenue down and has been compressed for while more proprietary trading more principal 
+investing low interest rates low credit spreads costs are high and rising compliance with new regulation etc 
+and regulatory capital has gone one direction more than proportionately since with the result that roe 
+challenge and you consistently making returns your capital that below your long run cost 
+capital that becomes existential problem for financial services providers 
+why that relevant this context well one way out that box there need several solutions but one 
+way radically restructure your cost base and not talking five ten cuts costs talking 
+and there only one way that and that share mutualised common infrastructure that 
+previously was kept separately and run independently every market participant 
+there great need right now added that you get some cyber security benefits and improved regulatory 
+transparency because one the benefits this technology one those credentialed parties that can get 
+access this information can include regulators post trade transaction reporting becomes thing the 
+past because they get look directly into the transactions record and interconnectedness between parties 
+reduced because one those points your network nodes fails guess what all the other points the 
+network nodes still there and has the same information single point failure due operational 
+cyber attack significantly mitigated 
+there lot benefit associated with this technology that are interest time great need and 
+interest both regulators and regulated parties and short woke one morning bed like that was the 
+moment that had when finally came realise what the potential implications the technology were 
+once managed get over scepticism what bitcoin was all about and realised that there was lot more 
+global financials fintech april 
+huw van steenis you make very powerful case for the benefits and was chatting the ceo ubs this 
+morning this stage and was saying the same that blockchain and fundamentally rethinking the model 
+the heart how financials will have reinvent themselves let start with how are going make 
+happen entrepreneur now you actually making happen what are the problems you need solve 
+what are the issues you are already biting into 
+blythe masters there good list them and wouldn really entrepreneurial was easy 
+particular order but obviously major one certainly the stage where took this job year ago was 
+widespread scepticism spent the first two months doing this job persuading friends and otherwise who all 
+thought that lost the plot again and had gone off start trading bitcoin for living that took bit 
+explanation and there really was issue where for the first several years after the invention this technology 
+was being promoted group advocates and some cases inventors who took pretty dim view the 
+financial services sector 
+fact you were thought best inefficient profit hungry but worst evil intermediaries exploiting the 
+rest the world who had proven their collective unworthiness result the effects the financial crisis 
+which mean not belittle the effects the financial crisis but the notion that the entire financial services 
+industry adds social economic value obviously probably not the conclusion draw from the lessons 
+those events but there was this community that felt very much that that was the case let invent 
+infrastructure that allows bypass all forms financial intermediary 
+and while bypass the government central banks and any form adult supervision and that 
+better way run financial services that was the story behind bitcoin the application this technology 
+alternative currencies that didn really play too well either financial regulators the regulated community 
+they focused that and didn initially understand appreciate the potential application the technology 
+distinct from that particular use case 
+the first challenge was just that education and think getting few people like myself who speak the 
+language financial services who been there done that and understand that there actually some value 
+added going and understand that why not just that the regulation exists but why exists and what purpose 
+serves who can translate the positive attributes this technology into financial speak and that was pretty 
+big body work certainly wouldn ascribe all that having been down myself but myself and number 
+others other companies other individuals ubs and oliver bussmann who their cio has been great 
+advocate and there have been many others 
+that was number one and think honest this stage past that point there isn really major 
+financial institution either bank infrastructure provider that isn deeply involved exploring some cases 
+beginning commercialise this technology today the second issue that comes inevitably regulation now 
+all you know because you the industry there not just one regulatory framework that you need 
+worry about this context there are many many them there the regulation payments and consumer 
+protection prudential regulation financial institutions regulation markets and market infrastructure and 
+their resiliency and the rules the game many many dimensions this 
+absolutely the case that the initial regulatory reaction anonymous making payments over the internet 
+was extremely negative for reasons the obvious risk anti money laundering controls sanctions avoidance 
+promoting criminal activity long long list concerns and not mention consumer protection concerns 
+that remains valid set concerns but small subset the concerns and the deploying this technology 
+wholesale financial infrastructure provision much more nuanced topic 
+and much like the market participants the initially deeply sceptical regulators themselves have come long way 
+over the past year and see some the potential benefits and the potential benefits here actually regulators 
+have high degree existing authority ensure are delivered and prevent they are not delivered 
+you know you have the pleasure operating sensitive market infrastructure today you are subject 
+considerable degree regulation and you have demonstrate things like resiliency and privacy and 
+compliance with law and kyc and auditability and reversibility and one could for hours 
+global financials fintech april 
+turns out that you want introduce new technology new database infrastructure that has some 
+benefits you have able answer all those questions satisfactorily and you don back 
+square one and hopefully don pass jail along the way having said that all those questions can and with 
+the right design choices are answerable you just have tweak some the original assumptions about 
+blockchain for example the public bitcoin blockchain was invented facilitate activity between anyone and 
+everyone and you had ability know who therefore you were dealing with nor who was actually providing 
+the resiliency the networks processing the transactions 
+okay that clearly not going work for financial regulated assumptions change that assumption set 
+private permission network using the same technology but where the access participants 
+permissioned you can play you aren previously credentialed board and identified and where the 
+incentives for maintaining the resiliency the network are not the pursuit financial gain mining bitcoins 
+but rather the incentive participate network that resilient and works and you use run your 
+business which the way all you already many you operate data centres and benefit from 
+networks that have work run your business 
+this not new just new technology implementation for old fashioned concept when you have 
+that kind conversation with regulator and you tweaked these concerning features the original 
+implementation blockchain becomes much less scary conversation and there has been tremendous 
+progress made with regulators all over the world there are number them who are now actively speaking 
+the public domain about their enthusiasm for this approach done right including australia the asic who 
+are the securities regulator there who regulate the australian stock exchange asx with whom working 
+one the earliest deployments this technology the wild you will regulation always comes 
+issue but actually speaking someone who knows deeply the regulatory requirements and the biases and 
+preferences and objectives regulators don see that fundamental impediment series challenges 
+and questions that you have answer appropriately but not showstopper 
+the last thing that always comes the network effect many you operate big companies with many 
+departments different geographical locations that keep their own records things separately and tackling that 
+internally the organisation using this infrastructure one benefit but the big benefits come when you 
+talking about facilitating goldman and morgan and ubs and others interacting with stock market call the 
+asx and settlement and clearing system the csd the case the asx having multiple parties leverage 
+the same common infrastructure and that obviously requires mutual decision making coalition 
+agreement direction 
+the good news referring back earlier comments the need and the incentives this are enormous 
+and fundamentally different than they were five ten years ago when people used treat this space either 
+irrelevant because was just the back office stuff and banks were making enough money cover the cost 
+some cases was felt proprietary not many people have that view any longer most people would love 
+see the back all but any case the incentive collaborate has changed 
+and where you can find central point decision making where there existing central market 
+infrastructure there happens australia and many other places around the world let talk about 
+australia for minute very interesting market fully dematerialised stock market none this nonsense 
+with physical stock certificates that have kept vaults and boxes anywhere mentally the leap has 
+already been taken towards having purely electronic records ownership some competition the exchange 
+space but government mandated essentially monopoly the provision the csd essential securities 
+depository which the ledger record and the settlement and clearing system for the whole market and one 
+provider infrastructure all that even though multiple entities all the banks brokers custodians etc plug 
+into that administrative essentially 
+also happens years old and nearing the end its useful life got one way the other 
+not about break the way don want create alarm the australian markets here but has 
+upgraded going changed and therein lies the ingredients for adoption early very interesting 
+space sizeable market but not gigantic not nearly fragmented many the other markets around the 
+world multiple interested parties with the line interest the need replace anyway and conditions the 
+global financials fintech april 
+ground where economies scale can maintained and extracted here because you replacing completely 
+one infrastructure with the new infrastructure instead having the old infrastructure hang around whole 
+part you see that the early adoptions happen where you find those ingredients you will and they exist 
+huw van steenis let pursue that bit and come back some the obstacles moment what 
+digital asset hoping achieve and why australia 
+blythe masters focused reforming post trade you know there been arms race pre trade 
+infrastructure for more than decade now and you think about should ironic all you that trading 
+infrastructure has evolved the point that competitive advantages measured fractions nanoseconds and 
+yet still dealing with plus two three worse depending your asset class eight years after the 
+financial crisis that pretty shocking statement and you know one the reasons why post trade 
+infrastructure monolithic there hasn been incentive really speed very expensive replace 
+because clunky and processing enormous volumes activity and taking the wheels anything that 
+moving fast always always challenge heavily regulated etc etc etc 
+the opportunity terms the enormous inefficiencies the slowness the potential lack resiliency lies 
+more the post trades base than the pre trades base and when you think about post trade let give you 
+example simple transaction involving you and finding each other stock market and trading stock 
+now you and individuals have idea who the other probably each have broker and they may 
+small broker our friend probably aggregates larger broker there clearing member somewhere 
+there that provides clearing services there may affiliated even unaffiliated bank providing leverage 
+into your account not mine and much more prudent that don use leverage 
+there the clearing house itself that cares because our transaction that agreed has admitted for 
+clearing and then way the top the hierarchy there probably custodian somewhere one these 
+brokers using third party custodian and then there the csd the ultimate ledger keeper record and 
+that just you and doing one trade that assuming will get right that lot parties whose 
+agreements are needed essentially credentialise authorise transaction that what you and agree via 
+the stock market price discovery venue can ultimately flow through final settlement legal final settlement the 
+exchange the stock from your account account and the way along the way very interesting netting 
+algorithms are going adding what you and are doing along with other people activity hopefully 
+minimise some the operational consequences all this now think about that for minute you back 
+original description how databases are used every one the parties that simple cash equity 
+transaction that just listed off essentially party with need and right know about our deal and who has 
+role authenticating before can completed 
+the process the gathering those acknowledgements authorisations necessary and keeping them all 
+together and all referring the original record the transaction that there only one record the 
+transaction broker and your broker and the broker broker and the clearing broker and the agent and 
+the custodial entity and the bank and the clearing entity and the csd don all keep their own separate record 
+this ridiculous little trade that did they all share the same record 
+and that inherently post trade benefit because found each other with impediments efficient 
+market probably got good price and there wasn really any need change that process but all the 
+stuff that comes afterwards that really low hanging fruit essence that what building for asx tool 
+allow those related parties authentications gathered the point transaction not one two days 
+after the fact 
+huw van steenis just out curiosity australia finding that there are some vested interests 
+custodians potentially banks where actually plus two three quite helpful because they get the carry 
+actually the benefit case resilience and cost cutting offsetting the nuisance the carry 
+blythe masters well helps have been one those organisations understand that but generally the 
+reason why there are vested interests who need for example earn the carry because they operating 
+massively expensive infrastructure without which the business would completely unsupportable the 
+global financials fintech april 
+carry has there order justify the cost associated with inefficient process and there isn really 
+custodian the world that when you get the right level seniority doesn understand that problem 
+they will give the carry nanosecond they give more than proportionate amount the costs and 
+simple that 
+huw van steenis yes that makes sense when was panel recently with the wef were talking 
+about some central bankers entrepreneurs and banks about the use case and the one issue which they 
+stumbled around having single authentication agent because the banks that betsy and cover have had 
+quarter trillion fines six years and not even just french bank one bank one bank one 
+have different kyc rules even bank have got different rules how you solve that problem 
+actually they feel there single passporting authority which can trusted and mutual recognition 
+blythe masters there are two parts the answer number one you just assume you don solve the problem 
+and build systems that have comply with the existing sm rg sbord highly differentiated and yourself 
+kyc requirements for example where any entity brings itself its customer into the network the 
+permission network they have the same exact kyc that they would today one way the other and 
+technologically the way evidence that you refer the kyc database check that authorisation present 
+and otherwise the transaction invalid and and forth obviously that perpetuation the messy 
+status quo 
+but that the bare minimum requirement the first question you ever get out regulator you weren 
+thinking about not doing kyc anything silly like that were you okay definitely weren use 
+the existing kyc infrastructure now you can also use theory this exact same technology for the purpose 
+amongst other things identity management the technology described the use cases described 
+have been about keeping records asset ownership and transferring asset ownership and gathering the 
+signatures the authentications needed that but there are other important things that need keep 
+track life like proof that you are who you say you are either individually corporately 
+and you find that you read about distributed ledger blockchain technology there are plenty 
+applications that are being pursued inside and outside financial services relating identity management 
+particular favourite healthcare records how absurd that you cannot walk into point service venue 
+doctor hospital stick your fingerprint biometric reader and have your history right there for you well this 
+technology that eventually could enable that few other changes need happen too and you closer 
+the than america ever will 
+but coming back your question the issue can you use this technology mutualise the infrastructure for 
+identity management and kyc for financial services purposes boils down very simple question and that 
+will the regulators let you because essence what you need confident that you going rely 
+shared service and the shared service gets wrong are you all collectively going held individually 
+responsible for having got wrong and therefore safer more responsible for you have 
+independently gone and gathered the same information prove that you were trying extra especially hard 
+instead irresponsibly relying this shared service 
+and that over simplifies the question because there are some jurisdictions where there some ongoing 
+discussion about the government playing role managing centrally central identity management venues 
+which course the government administrating and you rely seems little bit more reasonable for 
+you rely than otherwise technology matter there absolutely the opportunity improve the 
+kyc process because inherently there much duplication that with people doing the same thing 
+not just morgan doing the same thing ubs has but even within morgan different departments 
+morgan doing the same thing multiple times typically for different product applications there really are 
+benefits there but boils down what does the law impose you institution and what would 
+deemed acceptable meeting your obligations that respect and there are different regulators around 
+different stages with different degrees opportunity around the world who have different orientation 
+towards that 
+global financials fintech april 
+singapore there government funded project from one the development agencies that explicitly 
+looking use this technology for precisely this purpose for the singapore markets the government 
+actually working with the banks and potentially non banks run poc just this proof concept 
+exactly this found that incredibly encouraging 
+huw van steenis fantastic had jeff gooch cfo markit here yesterday markit reuters and ttcc are all 
+trying kyc utilities they are making progress but the proving the toughest market and that 
+sadly the biggest market 
+blythe masters yes principally for regulatory reasons 
+huw van steenis yes exactly the other hand when meet central bankers sometimes the moment 
+for them the resilience because the resilience this much stronger and the point you made earlier 
+the introduction about you think you haven been hacked you even bigger loser than you think because 
+you don know happening talk little bit about the resilience 
+blythe masters yes this bit complicated topic there are different aspects number one 
+remember what said about data itself being encrypted remember described this transaction that you and 
+and don know how many entities that listed out but call nine something that are involved not every 
+one those entities although perhaps you wanted add tenth entity that regulator that has god 
+eye view everything who has need and right know what everybody did with everybody other than that 
+regulatory view you certainly don need know what did with broker and broker doesn need 
+know what you did with yours etc 
+the way that transaction information protected this environment each transaction becomes decompounded into those nine different bilateral relationships that described effectively and each one those 
+pieces information separately encrypted and subject separate authentication and identity management 
+you have prove who you are and that proving who you are gets you access only the relevant sub part 
+the transaction that important not like there one key and that gives you access everything 
+unless necessarily you regulator and one would have careful about that too 
+the actual data itself encrypted someone hacked into this network what they would see gibberish 
+unless they managed separately and individually steal everybody codes which practically infeasible the 
+second point the point having the distribution the technology instead having data one database 
+one point with the older fashioned back fall back mechanism where you have data recovery centre and 
+and contingency plan here one node goes down the other nodes are there and you instinctively all know 
+what that looks like because that the way the internet works the reason why the internet generally there 
+well nowadays assuming you have whatever the access mechanism the thing behind there 
+because there are multiple nodes keeping the internet running independently when one goes down there 
+plenty others there the same exact concept there that element resiliency 
+the issue can this whole thing hacked well number one bear mind the encryption tools that are 
+being used here are not specific this industry this application there entire science cryptography the 
+tools that are being used here are cutting edge but they are being developed that field and being used this 
+field and that field the same field that works government security comment but you get the point and 
+the case the public bitcoin blockchain scenario was set whereby was assumed that were building 
+network for anyone everyone anyone could play censorship all because that assumption you 
+had assume that you going encounter bad actors course and design had come with 
+make the framework resilient that and the ingenious design was this thing called proof work 
+the mechanism whereby the world arrives consensus what the true state the bitcoin blockchain 
+database involves use computing resources essentially those computers are solving complicated algorithms 
+that can only solved brute force and the only way you can that throwing lot computing power 
+lot chips and lot electricity and the ones that are quickest essentially win lottery essence 
+and when you win you get reward and your reward bit bitcoin and that has some independent value 
+global financials fintech april 
+that leads all sorts interesting questions what happens the majority the bitcoin miners are sitting 
+china who knows where because you can actually tell priori basis who the winners will and what 
+happens one day wake and them have colluded and clubbed together and they essentially wipe 
+out the entire history everything then what are going because the idea behind the bitcoin 
+blockchain was that was computationally infeasible overwhelm the computing resources the 
+network which fair enough assumption because the way you need far more computers than 
+google has today any individual private any individual government entity bar few china the 
+debatably but more than google but they all located similar jurisdiction and the government that 
+way inclined what does that mean 
+that question about resiliency that one the reasons why there are concerns about the use the public 
+bitcoin blockchain for these purposes you can convince yourself would expensive you can 
+convince yourself that nation state acting with intent couldn overwhelm that the case private 
+permissioned networks relax some these assumptions don assume that anyone and everyone can 
+access assume only trusted entities that have been pre established and identified are permissioned play 
+that allows you reduce the need for proof work threshold for commitment the database that 
+based computing resources but requires you trust those entities not running and devoid 
+bad actors all but that the majority them are free compromise but you define that group being 
+regulated institutions you know and around the city london for example sydney that not such tall 
+order fact the way that financial services work today the basis some element trust because you 
+know you operating common jurisdiction there regulator who assesses competency and you 
+misbehave there will consequences and you know who for order for there consequences 
+the security resiliency concepts are very complex here they multifaceted absolutely depends what 
+you designing and how and for whom and what assumptions you making the one thing almost 
+unambiguously easy prove that you compare any existing infrastructure today with what being proposed 
+here what being proposed here strictly stronger security environment that your benchmark which 
+realistically should unless there another better alternative you pretty good shape because right now 
+you don have anything like that degree sophistication the way that existing infrastructures work 
+huw van steenis let maybe come back digital asset you achieved huge amount the last 
+months you active sydney you active singapore mean one the challenges you gone job 
+where almost every time zone the digital asset talk bit about how you prioritise the bets the 
+business the prospects that you pursuing and where you want take over the next couple years 
+blythe masters have offices new york well people new york san francisco tel aviv budapest 
+somewhere announced western europe but that not london and london and sydney and think 
+that you know one year old company and somewhere between and souls speak 
+pretty steep trajectory some those are offices where just have developer resources just technical 
+personnel why did some those places well there because the talent pools those 
+particular markets are very interesting and talent scarce commodity this space especially talent that has 
+combination cryptography skills and financial services skills and that essence that what our company 
+all about not finding those and then building those 
+obviously big challenge running organisation that dispersed that but then still only ish 
+person ish person org you know let get real some you manage tens thousands people 
+and certainly hundreds people can done and turns out that when what you development 
+you technology company which what are actually technologists are rather used remote working 
+and using slack boards and gyro tools and other things coordinate and when you working the context 
+doing sequential sprints which are just defined sub projects the path the holy grail with defined goals 
+being able programme hours day because you have programmers different geographical time zones 
+actually incredibly powerful like that model and evolve things and try keep simple 
+possible but also need close our clients and our clients are without exception big global firms 
+most whom have operations all over the world connectivity with partners and others all over the world 
+global financials fintech april 
+the challenge for has been boiling down the ocean opportunity the number applications this 
+technology wholesale financial services merely limited ourselves wholesale financial services you 
+know not doing healthcare not doing identity management for other purposes the challenge 
+trying figure out what are the projects that have legs that are viable that can scalable and have interest 
+multiple parties described the australian situation for reason because does check lot those boxes 
+there are other similar projects like that and what building for australia has direct relevance for the 
+deutsche rses the lsegs the dtccs the tmxs the hong kong exchange the singapore exchange 
+indisputably and there great alignment interest the part those organisations that this technology 
+develops develops fashion that has foundation that open source and the public domain and that 
+subject all the rigor that goes into that and avoids them being proprietarily captive proprietary 
+platform that then proceeds extract super normal rents out them for the use 
+what found collaboration amongst both banks and central infrastructure providers where there 
+lot incentive share work and essentially positioning ourselves able deliver similar product 
+foundational product and then build top that the things that each individual customer needs 
+customise the tools their particular marketplace again just reiterate software vendor are not 
+seeking put dtcc out business replace otherwise become infrastructure provider ourselves 
+sell software solutions people that that which itself very very scalable business model and 
+doesn require capitalised doesn require actually this stage anywhere the world 
+regulated although principle wouldn object that but don take care anyone asset don 
+act principal can don look after your keys tokens there nothing yours that can 
+lose don receive customer data from clients makes sense that purely software provider 
+don aren regulated almost every single one our customers are very involved the process 
+helping them with the regulatory dialogue 
+huw van steenis conscious time got two questions one really about making this happen 
+the extent not commercially confidential when will all get to were trading australia when 
+would get see this action and what are the milestones should watch for 
+blythe masters well the first milestone will decision sometime this summer technically this winter 
+sometime between june and august australia where asx conjunction with its board regulator and 
+customers will making decision proceed with the replacement chess using this technology not 
+the case may the process that evaluative phase and the point which they make that decision 
+will not the point which you see the technology being rolled out for commercial deployment because 
+again you recognise this gigantic piece infrastructure with millions transactions flowing through and 
+multiple parties involved this will multi year project replace chess won multi month project 
+but this serious project with real resources and commitment behind 
+have whole floor asx building where work jointly with the corresponding team asx shared 
+space they the process syndicating what they with their regulators their clients the 
+government there because one the other interesting features the australian market is the mandate that 
+they enjoy for settlement and clearing for review periodically and one the rationales for investing 
+this technology that achieves the benefit competition eradicating cost without fragmenting the 
+settlement and clearing infrastructure which the other way theory impose competition the australian 
+market but given the economies scale that business that pretty heated argument 
+huw van steenis penultimate question obviously been seeing many bank insurance exchange ceos 
+here yesterday today and tomorrow what advice would you give the ceo major financial institution get 
+ahead the curve changing the operating model getting the cost down and taking advantage your 
+technology 
+global financials fintech april 
+blythe masters usually when you talk anyone the suite firm like that they have pretty acutely 
+defined sense what their top strategic priorities are and nowadays what mentioned earlier about concern 
+about the operating environment compressed revenues rising cost whether directly pressure from their 
+customers reduce cost and they capitalised entity rising capital requirements they not 
+rising capital requirements the part their clients all amounts the same thing 
+this roe thing that talked about plus concern about cybersecurity which sort existential threat that 
+everybody very focused but one comfortable about then you lucky and you got long enough 
+you might get few other agenda items like growth new markets customer experience nobody has really 
+got the time focus that much they perhaps should but that what you hear which what you 
+hear when you speak then that the way which introduce this that the point which introduce this 
+technology concept 
+not simple here buy this solution now and you solved your problem the next calendar year 
+just that dialogue which says well the trajectories here are either radical surgery yourself including the 
+possibility considering exit certain lines business fundamentally new approach the 
+manufacturing process your business you amazed how many people don want surgery 
+themselves exit businesses that they been into and that how these conversations and that how you 
+end with receptive audience and there understanding that investing now order achieve benefits 
+the long run kind the nature the beast and that the need great enough justify doing that 
+huw van steenis few words digital asset five ten years time what should expecting what 
+defines success for you 
+blythe masters well will have operating products the real world deployed major financial services 
+banks and infrastructure providers multiple continents and bigger than are now and how 
+financed who owns whether public not cross those bridges when come them 
+goal build client centric company that understands the needs its customers deliver high quality 
+solutions those needs opposed peddling product that interesting but otherwise not necessarily 
+meeting need and the process build very profitable company because will very handsomely paid 
+meet those two first criteria which client centric understand the needs our customers and 
+deliver solutions that solve them that how you build profitable company that the strategy 
+huw van steenis blythe has been huge honour host you here the conference and think you can 
+improve the roes all the banks and insurers seeing the next few days all immensely 
+grateful you thank you very much indeed for coming and flying 
+blythe masters thank you very much 
+global financials fintech april 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and 
+morgan stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley 
+includes morgan stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada 
+limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any price targets referenced this research report please contact the client support team follows 
+canada hong kong latin america london singapore 
+sydney tokyo alternatively you may contact your investment representative morgan stanley research 
+broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that 
+they have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report 
+james faucette betsy graseck cfa fiona simpson cfa huw van steenis 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+march morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research banco popolare bank ireland bbva bnp paribas commerzbank credit suisse group cybg plc deutsche bank 
+goldman sachs group inc ing morgan chase kbc group lloyds banking group nordea santander societe generale synchrony 
+financial unicredit 
+within the last months morgan stanley managed managed public offering offering securities abn amro group bank 
+america bank ireland bank new york mellon corp corporation bbva caixabank capital one financial corporation citigroup inc 
+credit agricole credit suisse group cybg plc deutsche bank goldman sachs group inc hsbc ing intesa sanpaolo morgan 
+chase lloyds banking group pnc financial services regions financial corp royal bank scotland santander societe generale state street 
+corporation suntrust svenska handelsbanken synchrony financial bancorp ubs group wells fargo 
+within the last months morgan stanley has received compensation for investment banking services from abn amro group bank america bank 
+ireland bank new york mellon corp barclays bank corporation bbva caixabank capital one financial corporation citigroup inc 
+credit agricole credit suisse group cybg plc deutsche bank goldman sachs group inc hsbc ing intesa sanpaolo morgan 
+chase lloyds banking group nordea pnc financial services regions financial corp royal bank scotland santander seb societe 
+generale standard chartered bank state street corporation suntrust svenska handelsbanken synchrony financial bancorp ubs group 
+wells fargo 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from abn amro group 
+banca monte dei paschi siena banca popolare milano banco popolare banco popular banco sabadell bank america 
+bank ireland bank new york mellon corp bankia bankinter barclays bank corporation bbva bnp paribas caixabank capital 
+one financial corporation citigroup inc commerzbank credit agricole credit suisse group cybg plc danske bank deutsche bank 
+dnb goldman sachs group inc hsbc ing intesa sanpaolo morgan chase julius baer kbc group lloyds banking group 
+mediobanca banca credito finanziario natixis nordea northern trust corp pnc financial services regions financial corp royal bank scotland 
+santander seb societe generale standard chartered bank state street corporation suntrust svenska handelsbanken swedbank synchrony 
+financial bancorp ubs group unicredit unione banche italiane scpa wells fargo 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from abn amro 
+group banca monte dei paschi siena banca popolare milano banco popolare banco popular banco sabadell bank 
+america bank ireland bank new york mellon corp bankia bankinter barclays bank corporation bbva bnp paribas caixabank 
+capital one financial corporation citigroup inc commerzbank credit agricole credit suisse group cybg plc danske bank deutsche 
+bank dnb goldman sachs group inc hsbc ing intesa sanpaolo morgan chase julius baer kbc group lloyds banking 
+group mediobanca banca credito finanziario natixis nordea northern trust corp pnc financial services regions financial corp royal bank 
+scotland santander seb societe generale standard chartered bank state street corporation suntrust svenska handelsbanken swedbank 
+bancorp ubs group unicredit unione banche italiane scpa wells fargo 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship 
+with the following company abn amro group banca monte dei paschi siena banca popolare milano banco popolare banco 
+popular banco sabadell bank america bank ireland bank new york mellon corp bankia bankinter barclays bank corporation 
+bbva bnp paribas caixabank capital one financial corporation citigroup inc commerzbank credit agricole credit suisse group 
+cybg plc danske bank deutsche bank dnb goldman sachs group inc hsbc ing intesa sanpaolo morgan chase julius baer 
+kbc group lloyds banking group mediobanca banca credito finanziario natixis nordea northern trust corp pnc financial services regions 
+financial corp royal bank scotland santander seb societe generale standard chartered bank state street corporation suntrust svenska 
+handelsbanken swedbank synchrony financial bancorp ubs group unicredit unione banche italiane scpa wells fargo 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company abn amro group banca monte dei paschi 
+siena banca popolare milano banco popolare banco popular banco sabadell bank america bank ireland bank new 
+york mellon corp bankia bankinter barclays bank corporation bbva bnp paribas caixabank capital one financial corporation 
+citigroup inc commerzbank credit agricole credit suisse group cybg plc danske bank deutsche bank dnb goldman sachs group 
+inc hsbc ing intesa sanpaolo morgan chase julius baer kbc group lloyds banking group mediobanca banca credito 
+finanziario natixis nordea northern trust corp pnc financial services regions financial corp royal bank scotland santander seb societe 
+generale standard chartered bank state street corporation suntrust svenska handelsbanken swedbank synchrony financial bancorp ubs 
+group unicredit unione banche italiane scpa wells fargo 
+within the last months morgan stanley has either provided providing non securities related services and the past has entered into 
+agreement provide services has client relationship with the following company commerzbank 
+morgan stanley llc makes market the securities bank america bank new york mellon corp barclays bank corporation 
+bbva capital one financial corporation citigroup inc credit suisse group deutsche bank goldman sachs group inc hsbc ing morgan 
+chase lloyds banking group northern trust corp pnc financial services regions financial corp royal bank scotland santander state 
+street corporation suntrust synchrony financial ubs group wells fargo 
+morgan stanley international plc corporate broker royal bank scotland 
+global financials fintech april 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making 
+providing liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and 
+buys from customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have 
+position the debt the company instruments discussed this report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley 
+research contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and 
+not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+march 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+count 
+total 
+count 
+total 
+ibc 
+rating 
+category 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received 
+investment banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant 
+broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad 
+market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad 
+market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith 
+barney llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval 
+conducted the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities banca popolare milano 
+banco popolare banco popular banco sabadell bank america bank ireland bank new york mellon corp bankia barclays bank 
+bbva bnp paribas caixabank capital one financial corporation citigroup inc commerzbank credit agricole credit suisse group 
+danske bank deutsche bank goldman sachs group inc hsbc ing intesa sanpaolo morgan chase kbc group lloyds banking 
+group mediobanca banca credito finanziario natixis nordea pnc financial services royal bank scotland santander seb societe generale 
+standard chartered bank state street corporation suntrust svenska handelsbanken synchrony financial bancorp ubs group unicredit 
+unione banche italiane scpa wells fargo 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within 
+the meaning section the dodd frank wall street reform and consumer protection act 
+global financials fintech april 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary 
+the recommendations views expressed research the same stock this may the result differing time horizons methodologies market events 
+other factors for all research available particular stock please contact your sales representative matrix 
+http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients 
+through alternate electronic means convenience for access all available morgan stanley research please contact your sales representative 
+matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms 
+accessing and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance 
+with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your 
+preferences and collect readership data that can deliver better and more personalized service and products you find out more information 
+about how morgan stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your 
+investments may vary because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market 
+indexes operational financial conditions companies other factors there may time limitations the exercise options other rights 
+securities instruments transactions past performance not necessarily guide future performance estimates future performance are based 
+assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the 
+subject company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan 
+stanley owns more class common equity securities the companies for all other companies mentioned morgan stanley research 
+morgan stanley may have investment less than securities instruments derivatives securities instruments companies and may trade them 
+ways different from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley 
+research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley 
+business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers 
+hong kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities 
+hong kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and bank morgan stanley hong kong branch 
+singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte ltd 
+registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and bank morgan stanley singapore branch 
+registration number australia wholesale clients within the meaning the australian corporations act morgan stanley australia 
+limited holder australian financial services license which accepts responsibility for its contents australia 
+wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt 
+fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and 
+the prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the 
+financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member 
+the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned 
+equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the 
+global financials fintech april 
+information morgan stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom 
+saudi arabia and directed sophisticated investors only 
+morgan stanley bank currently acts designated sponsor for the following securities deutsche bank 
+morgan stanley hong kong securities limited the liquidity provider market maker for securities hsbc listed the stock exchange hong kong 
+limited updated list can found hkex website http hkex 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized 
+firms comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences 
+for this reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages 
+relating such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage banking large cap banks 
+company ticker 
+rating 
+price 
+betsy graseck cfa 
+bank america bac 
+bank new york mellon corp 
+corporation bbt 
+capital one financial corporation cof 
+citigroup inc 
+goldman sachs group inc 
+morgan chase jpm 
+northern trust corp ntrs 
+pnc financial services pnc 
+regions financial corp 
+state street corporation stt 
+suntrust sti 
+synchrony financial syf 
+bancorp usb 
+wells fargo wfc 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+global financials fintech april 
+industry coverage banks 
+company ticker 
+rating 
+price 
+dkr 
+nkr 
+skr 
+skr 
+skr 
+skr 
+sfr 
+sfr 
+sfr 
+alice timperley cfa 
+danske bank danske 
+dnb dnb 
+nordea nda 
+seb seba 
+svenska handelsbanken shba 
+swedbank sweda 
+alvaro serrano 
+banca monte dei paschi siena bmps 
+banca popolare milano pmii 
+banco popolare bapo 
+banco popular pop 
+banco sabadell sabe 
+bankia bkia 
+bankinter bkt 
+bbva bbva 
+caixabank cabk 
+intesa sanpaolo isp 
+mediobanca banca credito finanziario mdbi 
+santander san 
+unicredit crdi 
+unione banche italiane scpa ubi 
+bruce hamilton 
+abn amro group abnd 
+bnp paribas bnpp 
+credit agricole cagr 
+ing ing 
+kbc group kbc 
+natixis cnat 
+societe generale sogn 
+canset eroglu 
+commerzbank cbkg 
+chris manners aca 
+bank ireland bkir 
+barclays bank barc 
+hsbc hsba 
+lloyds banking group lloy 
+royal bank scotland rbs 
+standard chartered bank stan 
+fiona simpson cfa 
+cybg plc cyb 
+cybg plc cybgc 
+huw van steenis 
+credit suisse group csgn 
+deutsche bank dbkgn 
+julius baer baer 
+ubs group ubsg 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

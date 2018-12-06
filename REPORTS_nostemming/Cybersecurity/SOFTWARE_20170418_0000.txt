@@ -1,0 +1,3566 @@
+software 
+morgan stanley research 
+april 
+gmt 
+april 
+software 
+security preview improving demand 
+meets low estimates 
+morgan stanley llc 
+melissa gorham 
+ity analyst 
+melissa gorham morganstanley 
+keith weiss cfa 
+ity analyst 
+keith weiss morganstanley 
+josh baer cfa 
+research asso ciate 
+josh baer morganstanley 
+stable improving demand along with sub seasonal ests 
+should help security stocks well navigate thru while investors 
+have warmed modestly the sector see continued debate 
+the durability growth drivers thru creating opps for the 
+best positioned names ftnt pfpt symc 
+anjelo austria 
+expecting solid start survey results from resellers and data 
+from our surveys cios and chief security officers csos suggest security 
+demand was healthy and poised improve after cyclically 
+slow our reseller conversations suggested continued strength 
+solutions consolidating multiple functionalities ftnt symc provide next gen 
+endpoint protection capabilities symc enable greater visibility via security 
+analytics splk and protect new vectors such the cloud pfpt consensus 
+estimates look conservative for with billings growth expectations 
+yoy average across the security space symc versus after 
+underperformance the average security stock ytd but still 
+underperforming the market ytd average versus the nasdaq 
+recent below expectations security results panw scwx have resurfaced 
+the debate the durability security demand however our 
+positive industry checks suggest company specific challenges drove these 
+weaker results broad demand slowdown 
+software 
+research asso ciate 
+anjelo austria morganstanley 
+hamza fodderwala 
+research asso ciate 
+hamza fodderwala morganstanley 
+north america 
+industryview 
+attractive 
+maintain our modestly positive view security driven several 
+factors including stable demand environment for security easier 
+billings comparables look for yoy billings growth average 
+security symc versus and stable 
+firewall refresh activity noted our cio cso surveys and average 
+valuations below historical levels reiterate our bullish views symc 
+pfpt and raise our ftnt from the back positive 
+channel commentary and data points suggesting improving firewall refreshes 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research result 
+investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan 
+stanley research investors should consider morgan 
+stanley research only single factor making their 
+investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+software 
+morgan stanley research 
+exhibit security stocks saw rebound but still lag apps 
+infrastructure stocks within the software universe 
+indexed price performance 
+infrastructure networking 
+apr 
+mar 
+mar 
+mar 
+feb 
+feb 
+jan 
+data 
+jan 
+dec 
+dec 
+nov 
+nov 
+oct 
+oct 
+sep 
+sep 
+aug 
+aug 
+jul 
+aug 
+jul 
+jun 
+jun 
+may 
+apr 
+apr 
+security 
+may 
+mar 
+mar 
+mar 
+feb 
+feb 
+jan 
+jan 
+apps 
+rce mso reu ters rgan stan ley research 
+exhibit our estimates across our security coverage assume material 
+deceleration growth while should see better growth against 
+significantly easier comparables 
+security software yoy billings growth 
+avg yoy billings 
+weighted avg yoy billings symc 
+rce data rgan stan ley research clu des chkp cyb ftnt feye impv 
+pfpt panw lys symc vrns 
+slowing firewall refreshes drag but this dynamic should 
+neutralize survey data from our survey cios january and our 
+survey chief security officers csos april suggest stable improving 
+firewall refresh cycle anniversarying the headwind security growth 
+from slowing refreshes cios indicated that they have plan 
+refresh significant portion their firewalls compared 
+the same time cios csos continue view cloud adoption 
+additive overall security spending including network security spending 
+which means that incremental virtual firewalls are not yet replacing physical 
+firewall deployments these factors should drive stabilization product 
+billings growth for the network security vendors with fortinet our 
+top pick 
+software 
+morgan stanley research 
+exhibit security software remains top cio priority 
+projects with largest spend increase 
+total responses 
+cloud computing 
+security software 
+analytics 
+networking equipment 
+erp applications 
+crm applications 
+digital transformation 
+collaboration software 
+compliance software 
+desktop virtualization 
+infrastructure hardware 
+mobile applications 
+storage hardware 
+data center build out 
+data center automation 
+infrastructure software 
+maintenance software 
+server virtualization 
+wireless lan 
+artificial intelligence machine learning 
+consulting outsourcing 
+flash storage 
+storage software 
+vertical applications software 
+voice over 
+software 
+electronic medical records 
+systems mgmt software 
+windows server operating system 
+servers mainframe equipment 
+vpn remote access 
+windows desktop operating system 
+desktop laptop equipment 
+mobile hardware 
+printers 
+maintenance hardware 
+social software 
+apr survey 
+jan survey 
+rce rgan stan ley research ril cio rvey 
+exhibit cios expect growth security spending below 
+growth reported but well ahead overall spend 
+and security spending expectations category 
+overall security 
+spending 
+endpoint 
+security 
+prevention 
+network 
+security 
+prevention 
+security 
+services 
+detection 
+risk 
+management 
+rce rgan stan ley research jan ary cio rvey 
+software 
+morgan stanley research 
+exhibit our survey chief security officers point improving 
+firewall refreshes 
+rce rgan stan ley research ril cso rvey 
+exhibit most cios view cloud migration neutral positive for 
+security spending 
+impact cloud migration security spending 
+detection 
+move the cloud decreases spend 
+endpoint security 
+move the cloud has impact 
+network security 
+move the cloud increases spend 
+rce rgan stan ley research jan ary cio rvey 
+software 
+morgan stanley research 
+key stock calls 
+symc our channel conversations noted the rising priority endpoint security positive commentary 
+symantec enterprise protection and ramping refresh cycle for blue coat our reseller survey was 
+positive with respondents line above expectations line with last but with above target 
+level haven seen since december our revenue forecast implies yoy organic 
+growth the enterprise business last and organic growth consumer last with 
+new products ramping and secularly challenged businesses shrinking believe the enterprise business should 
+return mid single digits organic growth through also see meaningful upside the consumer 
+business through the upsell lifelock which may provide upside our norton revenue estimate down 
+yoy expect see material leverage with margins from the prior ago 
+period management executes its cost savings initiatives and blue coat synergies with blue coat and lifelock 
+providing additional growth avenues operating margins improving and symc trading below the average its 
+large cap peers think symc has room for estimates and the multiple move higher remain with 
+price target 
+ftnt stable demand environment coupled with product billings estimates well below normal 
+seasonality set ftnt for positive while fortinet came better than expectations after mixed 
+investors consternation overall demand remains elevated particularly after panw recent weak 
+quarter however our channel conversations and reseller survey were stable and pointed healthy demand 
+environment suggesting panw challenges are company specific the same time our estimates for ftnt 
+assume product revenue growth yoy meaningful deceleration from yoy the 
+comparables across billings product revenue start ease through and ftnt will anniversary the service 
+provider weakness setting for improved growth with improving sales productivity guidance for only 
+bps margin improvement likely has room move higher well fcf ftnt trades 
+meaningful discount relative fcf growth with greater conviction solid results 
+raise our price target ftnt from 
+pfpt our channel conversations proofpoint continue screen positively with resellers noting 
+proofpoint expanding upsell opportunity and the tailwind from rising adoption our reseller survey 
+data showed resellers above line with their expectations from december while 
+microsoft has recently launched new security solutions around our channel conversations suggest 
+little change the competitive environment for proofpoint look for billings yoy 
+slight deceleration from billings last quarter against yoy normalized comparable that percentage 
+points easier our billings estimate looks for yoy billings growth with large 
+and growing renewal base our estimates imply only yoy growth new billings think we still 
+the early stages the mcafee transition with mcafee appliance customers its enterprise base only now 
+moving pfpt while strength the emerging product suite and broadening partner ecosystem could add 
+upside see reasonable path towards our expectation for fcf growth through which think 
+provides support for pfpt current multiple fcf 
+impv our channel conversations and reseller survey suggest weak with survey respondent 
+above expectations with respondents performing below expectations for the web application 
+firewall business cautious channel commentary likely reflected our estimates mgmt guide which look 
+for sub seasonal growth against weak forecast revenue yoy which include 
+product revenue yoy yoy against comp that bps easier however 
+remain the low end management revenue guide yoy see downside risk 
+revenue guidance implies acceleration product revenue growth yoy growth our 
+model despite limited visibility into the drivers this acceleration beyond easier comparables with elliot 
+management continued involvement and better than expected against very low bar the debate 
+remains the company will reevaluate strategic alternatives when fundamentals stabilize continued 
+weakness may quiet this debate casting impv current valuation ntm sales rich light 
+continued weak fundamentals 
+software 
+morgan stanley research 
+software 
+morgan stanley research 
+symc preview 
+our channel conversations and survey data highlight endpoint security top priority for cios which should 
+benefit symantec with its large installed base despite competition from next gen players resellers noted 
+healthy renewal rates amidst large refresh cycle for blue coat security web gateway product which should 
+provide favorable uplift enterprise revenue this and into our reseller survey was largely positive 
+with respondents line above expectations line with last quarter but with resellers above 
+target level haven seen since december additionally respondents reported symc losing 
+share march down from december and the lowest level seen since the percentage 
+resellers line above targets for symantec endpoint product stayed relatively stable our survey 
+also indicates that equal amount resellers saw blue coat gaining and losing market share improvement 
+from december but also showed higher percentage resellers who believe sales and customer support 
+issues have worsened 
+forecast revenue yoy last yoy organic last this includes 
+enterprise security revenue yoy which includes contribution from blue coat 
+yoy organic growth organic growth last estimate enterprise security revenue 
+yoy including revenue contribution from blue coat this represents yoy growth 
+organic basis with new products ramping including its endpoint atp solution and improvements made 
+symantec enterprise protection sep the fall see return mid single digit growth 
+reasonable bar 
+our estimate includes consumer security revenue yoy which includes 
+contribution from lifelock yoy organic growth organic last for anticipate 
+consumer security revenue yoy including revenue contribution from lifelock this 
+represents yoy growth organic basis think upsell within the lifelock base which not our 
+estimates fading oem headwinds and growing subscriber base with reduced churn could provide avenues 
+for consumer revenue upside looking ahead 
+estimate operating margins improvement from the prior ago period 
+management continues execute its cost savings initiatives and blue coat synergies consensus look for 
+operating margins continue improve materially significant 
+synergies from blue coat and lifelock come into the model would note that symc appreciation will drive 
+incremental dilution from its the money converts estimate additional shares due symc 
+current price value the time guidance while likely immaterial eps could 
+contribute drag eps due higher share count 
+our price target based off eps with relatively line with symc large cap 
+peers with blue coat and lifelock providing additional growth avenues operating margins improving and 
+capital allocation continuing think symc will rate better align with its earnings growth profile 
+software 
+morgan stanley research 
+exhibit symc estimates versus consensus 
+revenue 
+yoy growth 
+income 
+margin 
+eps 
+billings 
+yoy growth 
+ufcf 
+cons 
+cons 
+cons 
+cons 
+rce rgan stan ley research mso reu ters data 
+exhibit symc should see slight tailwind from the march relative guidance 
+revenue 
+exps 
+eps 
+guided actual 
+rate 
+rate 
+difference 
+ests eur 
+eur 
+eur impact estimates adj 
+rce rgan stan ley research data 
+exhibit for our model looks for qoq revenue growth tick above historic seasonality for 
+symantec security 
+symantec security qoq revenue growth 
+year mean 
+rce data rgan stan ley research estimates are rgan asis 
+software 
+morgan stanley research 
+exhibit expect significant operating margin improvement through management executes 
+its cost savings initiatives 
+non gaap operating margins 
+rce data rgan stan ley research 
+exhibit our march reseller survey showed resellers above target versus above the 
+december survey and below target line with last 
+resellers expectations for symc 
+mar jun sep dec mar jun sep dec mar jun sep dec mar jun sep dec mar 
+below target expectation 
+line with expectation 
+above target expectation 
+rce rgan stan ley research ese resu lts may directly arab rveys efo decemb rvey 
+dified estio ask ecifically syman tec secu rity exclu din veritas 
+software 
+morgan stanley research 
+exhibit product performance suggests results line with expectations with particular strength 
+endpoint and advanced malware protection 
+symc product performance 
+below 
+line 
+above 
+rce rgan stan ley research 
+exhibit while endpoint security ticked down slightly march performance endpoint smb ticked 
+from december quarter 
+respondents reporting product segment line above target 
+jun sep dec mar jun sep dec mar jun sep dec mar jun sep dec 
+endpoint security 
+endpoint smb 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+exhibit decreasing amount resellers report share loss for symc security the march 
+continuing momentum from december 
+respondents reporting symc losing share 
+dec mar jun sep dec mar jun sep dec mar jun sep dec 
+symantec losing market share overall security 
+rce rgan stan ley research 
+exhibit march data suggests bluecoat gaining market share albeit customer and sales support 
+issues have increased since december 
+blue coat trends respondents 
+bluecoat gaining market share 
+bluecoat losing momentum and market share 
+sales support has improved 
+sales support has gotten worse 
+customer support issues have increased 
+customer support issues have improved leading fewer 
+issues 
+other 
+mar 
+dec 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+exhibit our reseller survey shows blue coat product performance relatively line with expectations 
+blue coat product performance 
+premise 
+secure web 
+gateway 
+ssl visibility 
+appliance 
+web app 
+firewall 
+wan 
+optimization 
+cloud delivered web malware cloud access 
+secure web 
+analysis and security broker 
+gateway 
+sandboxing 
+below 
+line 
+above 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+chkp preview 
+check point software technologies ltd sustaining momentum into upgrading 
+software 
+morgan stanley research 
+feye preview 
+our channel conversations and survey continue mixed negative for fireeye resellers noted declining 
+license sales due tough competition limited traction new solutions orchestration cloud mvx and some 
+consternation around refresh activity the base appliances come for replacement that being said 
+resellers are still seeing stable renewal rates and did hear some customer interest helix which not yet 
+the market our reseller survey indicates the percentage resellers line above target ticked slightly 
+from last quarter with resellers above target from december product line web 
+security content security and threat intelligence are brighter spots with resellers above line 
+with expectations 
+our bearish checks for fireeye are likely largely reflected our estimates with product revenue 
+yoy and qoq year average seasonality qoq line with consensus 
+our billings estimate conservative with billings yoy and qoq well below 
+the year average seasonality qoq this assumes subscription and support billings are down 
+yoy last quarter given our assumption weakness attached subscription billings model 
+operating margins which implies total expense growth yoy slightly from last 
+reflecting continued cost discipline offset seasonal events momentum and rsa events 
+revenue and recurring revenue fireeye one the least expensive names 
+our universe sales basis and believe fireeye technology still holds value our sum the parts 
+analysis points share using very conservative assumptions however too many moving pieces the 
+near term will likely prevent feye from realizing value significantly beyond that and remain with 
+exhibit feye estimates consensus 
+revenue 
+yoy growth 
+product revenue 
+yoy growth 
+billings 
+yoy growth 
+income 
+margin 
+eps 
+fcf 
+cons 
+cons 
+cons 
+rce data rgan stan ley research 
+software 
+morgan stanley research 
+exhibit our estimates assume sales productivity declines bottom yoy growth and begins 
+improving against easier comparables 
+product rev per est productive quota carrying sales rep 
+product billings pre 
+yoy 
+linear product billings pre 
+fireeye consensus yoy growth 
+rce data rgan stan ley research 
+exhibit sum the parts calculation points upside but see limited catalysts realize this 
+sotp valuation 
+except per share 
+product 
+subscription maintenance 
+services 
+total 
+plus net cash 
+market cap 
+per share 
+ntm revenue 
+multiple 
+enterprise value 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+exhibit fireeye resellers were line above target march compared last the 
+resellers above target declined ticked down from december 
+how did your feye practice track the quarter 
+dec 
+cannot discuss 
+mar 
+jun 
+sep 
+dec 
+mar 
+more than below expects 
+below expects 
+line 
+jun 
+sep 
+above expects 
+dec 
+mar 
+more than above expects 
+rce rgan stan ley research 
+exhibit web security content security and threat intelligence product performance are brighter spots 
+what was the product level performance for feye 
+web 
+security 
+email 
+security 
+content 
+security 
+forensics 
+below 
+endpoint 
+security 
+inline 
+mobile 
+security 
+threat 
+threat 
+orchestrator intelligence 
+prevention 
+above 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+ftnt preview 
+after stronger than expected close the key debate into ftnt print whether the momentum 
+seen can sustain through see attractive set for fortinet expectations already imply 
+meaningful deceleration with billings growth yoy our channel conversations 
+indicate stable firewall refresh activity with fortinet gaining traction among larger enterprises among the 
+resellers surveyed march reported performance line above expectations modest uptick 
+from last quarter looking further into product level performance our survey pointed much better 
+traction with fortinet high end appliance with resellers reporting performance line above 
+expectations march our december survey further supporting fortinet enterprise momentum 
+exhibit continue see favorable set into given stable demand environment coupled with 
+more streamlined sales organization drives durable topline growth and plenty room for operating 
+leverage from growth higher margin recurring subscription revenue 
+estimates into the print look for revenue yoy and qoq with product 
+revenues yoy and qoq this compares yoy product revenue growth and 
+well below normal seasonality qoq average over the past years estimate billings 
+yoy and qoq year average seasonality qoq ongoing weakness from 
+fortinet service provider business billings and sales productivity likely take another quarters 
+improve expect operating margin consensus only bps yoy which may 
+prove conservative sales productivity improvements come through faster than expected 
+sustaining momentum through our model looks for billings growth sustain yoy 
+based stable market demand within network security fortinet stable relative market positioning and 
+the company anniversaries the impacts from the sales reorganization initiated and finished 
+august assume service provider billings growth will remain weak until anniversary the softness 
+but should improve modestly the against much easier comparables productivity 
+improvements and investor pressure prioritize operating leverage should drive margins higher management 
+guidance bps yoy our model looks for operating margin line with 
+guidance and consensus expectations which assumes conservative bar flat yoy sales productivity and 
+slowing sales head growth 
+valuation remains attractive raising our while the stock the past months post 
+better than expected results current valuation fcf remains discount its 
+average discount its peers and discount our forecasted fcf growth our view stability 
+the growth profile along with some incremental leverage should benefit ftnt multiple such raise 
+our price target from which implies fcf discounted back this 
+multiple relatively line with the average fcf multipole mature security software 
+including check point palo alto networks and symantec 
+software 
+morgan stanley research 
+exhibit ftnt estimates versus consensus 
+revenue 
+yoy growth 
+product revenue 
+yoy growth 
+billings 
+yoy growth 
+income 
+margin 
+eps 
+fcf 
+cons 
+cons 
+cons 
+rce data mso reu ters rgan stan ley research 
+exhibit our billings estimate for ftnt below normal seasonality 
+billings seasonality 
+year average 
+source company data morgan stanley research 
+software 
+morgan stanley research 
+exhibit while our product revenue estimates also below historic seasonality 
+product revenue seasonality 
+year average 
+rce data rgan stan ley research 
+exhibit consensus for billings slightly above ftnt year average guidance growth 
+from 
+guidance key metrics 
+historical guidance 
+actuals relative 
+relative 
+guidance midpoint 
+ftnt 
+revenue 
+eps 
+billings 
+rce data rgan stan ley research 
+exhibit resellers were line above expectations the march quarter last with 
+the resellers above target compared last 
+reseller expectations for ftnt 
+below target 
+inline target 
+above target 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+exhibit product level performance improved sequentially across the board the march quarter with 
+mid range and high end appliances areas outperformance 
+product performance expectations 
+fortigate high end 
+security management 
+and analysis 
+below 
+inline 
+above 
+subscription services 
+fortigate mid range 
+endpoint security 
+fortigate low end 
+email web content 
+rce rgan stan ley research 
+exhibit the resellers above expectations upticked meaningfully for high end appliances 
+march december 
+resellers above plan 
+fortigate low end 
+fortigate mid range 
+fortigate high end 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+exhibit our reseller survey picked higher resellers noting fortinet gaining share from 
+network security vendors well higher noted fortinet gaining share from utm vendors 
+compared three months ago have you noticed any change fortinet 
+market share 
+losing from gaining from losing next 
+other utm 
+next gen 
+gen firewall 
+vendors firewall vendors vendors 
+change 
+gaining from 
+networking 
+vendors 
+losing 
+gaining from 
+losing 
+gaining from 
+networking 
+traditional 
+traditional 
+other utm 
+vendors firewall vendorsfirewall vendors vendors 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+impv preview 
+our channel conversations and reseller survey suggest weak with survey respondent above 
+expectations the lowest level have seen since started this survey for imperva majority 
+respondents performed line with their expectations for imperva sales with underperforming their 
+expectations its waf and file security products look most challenged with respondents performing 
+below expectations 
+cautious channel commentary likely reflected our estimates mgmt guide which look for sub seasonal 
+growth against weak forecast revenue yoy which include product revenue 
+yoy yoy against comp that bps easier this also sub seasonal 
+qoq the year average qoq our operating margin estimate the low end 
+guidance reflecting our view that continued investments will necessary reinvigorate growth 
+consensus are the low end management revenue guide yoy see 
+downside risk guidance and consensus imply acceleration product revenue growth yoy growth 
+our model despite limited visibility into the drivers this acceleration beyond easier 
+comparables our margin estimate line with consensus points yoy and implies 
+yoy reduction total expenses which may difficult conjunction with focus return topline growth 
+with elliot management continued involvement and better than expected against very low bar the 
+debate remains the company will reevaluate strategic alternatives when fundamentals stabilize believe 
+impv current valuation ntm sales rich light continued weak fundamentals our versus 
+current trading levels based off fcf with discount rate discount relative 
+large cap software forward fcf reflecting impv smaller market opportunity and undersized margin 
+profile 
+exhibit impv estimates consensus 
+impv 
+millions 
+cons 
+cons 
+cons 
+revenue 
+yoy growth 
+product revenue 
+yoy growth 
+billings 
+yoy growth 
+income 
+margin 
+non gaap eps 
+fcf 
+rce data rgan stan ley research mso reu ters 
+software 
+morgan stanley research 
+exhibit expect total billings growth qoq slightly above the year average qoq 
+billings seasonality 
+year mean 
+rce data rgan stan ley research 
+exhibit however our qoq product revenue below the average 
+product revenue seasonality 
+year mean 
+rce data rgan stan ley research 
+software 
+morgan stanley research 
+exhibit consensus for revenue below impv year average guidance qoq 
+guidance key metrics 
+historical guidance 
+relative 
+impv 
+revenue 
+eps 
+actuals relative 
+guidance midpoint 
+annual guidance 
+change post 
+rce data rgan stan ley research mso reu ters 
+exhibit resellers tracked above expectations for imperva the march quarter 
+how did your impv practice track the quarter 
+mar 
+jun 
+above 
+sep 
+dec 
+line 
+mar 
+below 
+rce rgan stan ley research 
+exhibit product performance suggests imperva web application firewall business below expectations 
+how did your impv practice track the quarter product 
+line 
+waf 
+database 
+security 
+cannot discuss 
+file security 
+below 
+line 
+ddos protection cloud security 
+above 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+pfpt preview 
+our channel conversations proofpoint continue screen positively with resellers noting proofpoint 
+expanding upsell opportunity and the tailwind from rising adoption our reseller survey data showed 
+resellers above line with their expectations from december least resellers 
+performed line exceeded expectations across all product groups from december while 
+microsoft has recently launched new security solutions around our channel conversations suggest 
+little change the competitive environment for proofpoint 
+look for billings yoy slight deceleration from billings last quarter our 
+billings estimate implies qoq growth relatively line with the year average qoq normalized for 
+early renewals and against yoy normalized comparable that percentage points easier our billings 
+estimate looks for yoy billings growth our estimates imply growth the 
+renewal base billings from renewals our calc our view the majority 
+mcafee base premise still the roadmap for refresh into proofpoint solution most 
+likely that amount proofpoint upsells the mcafee base however guidance only assumes share 
+gains from the mcafee base line the high end historical norms leaving room for upside additional areas 
+potential conservatism include increased traction within the company emerging product suite social 
+media protection mobile threat response and email fraud defense ramping channel tech partnerships 
+such palo alto networks cyberark and splunk adding new subscription growth 
+estimate operating margins bps yoy even the company continues invest 
+yoy and look for operating margins only bps 
+yoy down from the bps margin expansion while management noted that the magnitude 
+leverage will likely not replicated they invest for growth still think there room for upside given 
+ramping renewal base are looking for fcf line with consensus which 
+implies fcf margins from due the ramping renewal base and disciplined 
+investments see fcf growth through which think provides support for pfpt current 
+multiple fcf 
+exhibit pfpt estimates versus consensus 
+pfpt 
+millions 
+cons 
+cons 
+cons 
+revenue 
+yoy growth 
+billings 
+yoy growth 
+income 
+margin 
+non gaap eps 
+fcf 
+rce data rgan stan ley research mso reu ters 
+software 
+morgan stanley research 
+exhibit our billings estimate for pfpt above normal seasonality 
+billings seasonality adj for early renewals 
+year mean 
+rce data rgan stan ley research 
+exhibit management guidance implies billings tick down growth compared 
+pfpt billings growth 
+total billings 
+total billings growth yoy 
+rce data rgan stan ley research 
+software 
+morgan stanley research 
+exhibit consensus for billings slightly below proofpoint year average guidance higher 
+than 
+guidance key metrics 
+historical guidance 
+relative 
+pfpt 
+revenue 
+billings 
+eps 
+actuals relative 
+guidance midpoint 
+annual guidance 
+change post 
+rce data rgan stan ley research mso reu ters 
+exhibit our march reseller survey showed respondents performing line above 
+expectations for the quarter from december 
+how did your pfpt practice track the quarter 
+mar 
+jun 
+below 
+sep 
+line 
+dec 
+mar 
+above 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+exhibit product level performance suggests strength privacy dlp and encryption with 
+resellers tracking line above expectations tap also saw strong traction 
+how did your pfpt practice track the quarter 
+enterprise 
+protection 
+targeted 
+threat 
+malvertising privacy dlp social media 
+attack 
+response 
+protection 
+and 
+security 
+protection 
+encryption 
+tap below line above 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+rpd preview 
+below preview included recent note published with preliminary guidance announcement april 
+inc managing larger pivot subscriptions apr 
+positioning for cloud based world positive pre announcement for earnings and the launch 
+several new cloud based subscriptions will likely viewed positively after few mixed results 
+and some outstanding questions the pace subscription adoption and model impacts the launch 
+insightvm cloud based vulnerability management and insightappsec application security testing adds 
+insights platform which represented bookings this solidifies the platform key 
+driver growth moving forward the expense its traditional premise business centered around 
+nexpose integrated platform with recurring subscription pricing view this transition positive 
+long term model should drive higher customer lifetime value with reduced friction around 
+upsells mgmt noted the subscription perpetual license pricing break even similar industry averages 
+which assume years this means there will headwind revenue billings operating margins 
+more contracts are billed ratably versus upfront mgmt noted this was already reflected 
+guidance which calls for billings growth versus yoy although greater than expected 
+subscription adoption does add risk the model continue see transition year await 
+better execution traction the enterprise space and await more scale its new subscription solutions 
+some upside revenue eps management now expecting revenue above the high 
+end its previously disclosed guidance versus consensus this implies 
+revenue yoy slowdown from growth yoy management notes that guidance 
+reflected some expectation transition subscription but remains unclear the magnitude this headwind 
+less billed upfront embedded guidance versus any expectation continued enterprise softness 
+noted the past few management expects operating income eps better than previously stated guidance 
+likely due the revenue upside should see upside our consensus estimates 
+and respectively 
+and reiteration low bar for while targets have been revised management reiterated 
+their full year guidance unsurprising early the year consensus are looking for yoy 
+billings growth slightly ahead billings guidance yoy this implies deceleration from yoy 
+growth billings reflecting lower mix prepaid multi year deals and greater mix ratable 
+subscription billings strength the insight platform will likely come the expense the core business the 
+sales force focuses selling more subscription services view this positive for the long term model 
+although does create greater complexity variability the model the near term look for operating 
+margins from with greater sales productivity offsetting the headwind 
+recognized revenue and gross margins from greater subscription adoption await more consistent execution 
+greater scale subscription offerings and more significant inflection margins before getting more 
+positive rpd keep our model unchanged will update post rpd earnings call may 
+software 
+morgan stanley research 
+exhibit rpd mse consensus 
+rpd 
+cons 
+millions 
+cons 
+cons 
+revenue 
+yoy growth 
+billings 
+yoy growth 
+income 
+margin 
+non gaap eps 
+fcf 
+rce rgan stan ley research 
+exhibit look for billings yoy growth line with consensus 
+total billings 
+maintenance billings 
+pro services billings 
+product and product subscription billings 
+total billings yoy growth 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+vrns preview 
+have mixed view varonis into stabilized execution and modest margin improvement yoy 
+balanced tougher comps license revenue had sustained yoy growth from through 
+but saw significant deceleration from license growth growth against comp 
+that got almost bps tougher looking model yoy license revenue growth against comp 
+that gets bps tougher with strong demand drivers for data protection solutions and growing product 
+portfolio top line growth remains somewhat underwhelming does margin leverage with the guide 
+implying margins only bps yoy varonis seeing success addressing the insider threat security risk but 
+opex investments drive growth continues limit the pace margin expansion with investor expectations 
+elevated more significant model leverage and fcf are needed support the stock current levels 
+consensus estimates license revenue decelerates from yoy last quarter although the license 
+revenue comp gets pts tougher qoq growth line with year seasonality qoq 
+consensus assumes operating margins improve bps yoy improving from 
+slightly below the bps yoy improvement for expect yoy revenue growth just 
+below consensus looking for yoy this growth represents deceleration from yoy 
+growth and assumes increase estimated license billings per productive rep 
+vrns currently trades revenue line with the average the security universe 
+revenue but vrns trades recurring revenue ahead the security average recurring 
+revenue despite less attractive margin profile with vrns the past months see vrns 
+relative underperformer these levels given more attractive stories own within security greater conviction 
+that top line growth against tougher comps can sustain into and improved sales productivity can help 
+drive more significant margin expansion would support more positive view vrns 
+exhibit vrns estimates consensus 
+vrns 
+millions 
+cons 
+cons 
+cons 
+revenue 
+yoy growth 
+licence revenue 
+yoy growth 
+billings 
+yoy growth 
+income 
+margin 
+non gaap eps 
+fcf 
+rce data rgan stan ley research sen research estimates 
+software 
+morgan stanley research 
+exhibit our vrns estimates look for total revenue growth slow from yoy 
+against bps tougher comp 
+total revenue 
+license revenue 
+services revenue 
+total revenue yoy growth 
+rce data rgan stan ley research 
+exhibit estimate license revenue continues grow faster than productive reps driving modest 
+leverage the model 
+productive reps yoy growth 
+license revenue yoy growth 
+rce 
+software 
+morgan stanley research 
+exhibit expect close breakeven operating margins 
+vrns operating margins 
+operating margin 
+linear operating margin 
+rce 
+exhibit assume expense growth continues slightly trail revenue growth vrns 
+operating margins trend higher 
+total revenue growth 
+total expense growth 
+margin 
+rce data rgan stan ley research 
+software 
+morgan stanley research 
+qlys preview 
+our channel conversations suggest line quarter for qualys benefits from the rising priority 
+vulnerability management driving most resellers line with expectations the march qualys sales are 
+largely direct revenue was through direct sales generated the channel channel 
+conversations not capture complete view 
+are looking for billings yoy improvement from yoy last but against 
+significantly easier compare yoy this also down qoq line with the 
+average seasonality for the past three years our billings estimate yoy implies 
+growth relatively line with the overall market sales productivity improves new billings per rep 
+and new products garner adoption 
+after several years underinvestment management has noted investment year reinvigorate 
+growth and scale new products our operating margins embed healthy assumptions growth 
+yoy and yoy which continues through while this represents 
+yoy margin degradation qualys can still expand margins post this investment year our view given 
+gross margins which are still below other mature saas companies have room improve new products start 
+contribute upsell billings and distribution investments result higher productivity 
+qualys maintains share with growing market solidifies traction beyond with increasing upsell 
+and expand margins investments come fruition see fcf growing through our 
+price target based fcf fcf represents the average lower 
+growth security software including chkp symc ftnt and panw but has room move higher given qlys 
+more attractive growth profile and business model cloud based 
+exhibit qlys mse consensus 
+qlys 
+millions 
+cons 
+cons 
+cons 
+revenue 
+yoy growth 
+billings 
+yoy growth 
+income 
+margin 
+non gaap eps 
+fcf 
+rce rgan stan ley research mso reu ters 
+software 
+morgan stanley research 
+exhibit our march reseller survey indicated two thirds respondents performing line relative 
+expectations for the quarter 
+how did your qlys practice track the quarter 
+dec 
+mar 
+sep 
+above 
+line 
+below 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+cybr preview 
+our channel conversations screened positively for cyberark with partners noting privileged access 
+management growing enterprise priority with cyberark key winner our reseller survey coincides with 
+our conversations with resellers above line expectations for the quarter with above 
+expectations december 
+look for revenue yoy modest deceleration from last and relatively line with 
+normal seasonality are modeling billings yoy representing more meaningful 
+slowdown from yoy growth last but against compare that bps more difficult however this 
+assumes sales productivity declines according our calc yoy reversal recent trends which may 
+prove conservative estimate revenue yoy yoy the high end 
+guidance robust market growth competitive leadership and growing upsell opportunity within the existing 
+customer base could provide uplift our top line forecasts 
+management expects margins move bps lower catches investments 
+particularly sales heads and cloud infrastructure think management will continue invest for growth 
+but this priority will balanced greater scale improved sales productivity and upward margin pressure 
+from higher maintenance renewals such see modest margin improvement over the next few years 
+coupled with top line growth this drives fcf growth for the next five years our price target 
+based off our fcf estimate multiple line with growing large cap software 
+discounted back rate 
+exhibit cybr mse consensus 
+cybr 
+millions 
+cons 
+cons 
+cons 
+revenue 
+yoy growth 
+billings 
+yoy growth 
+income 
+margin 
+non gaap eps 
+fcf 
+rce rgan stan ley research mso reu ters 
+software 
+morgan stanley research 
+exhibit our march reseller survey indicated respondents performing above expectations for 
+the quarter 
+how did your cybr practice track the quarter 
+sep 
+above 
+dec 
+mar 
+line 
+below 
+rce rgan stan ley research 
+software 
+morgan stanley research 
+symantec symc 
+pushing down the road new symantec 
+apr 
+oct 
+price target apr 
+apr 
+oct 
+historical stock performance 
+apr 
+oct 
+current stock price 
+apr 
+symc 
+price target 
+bull 
+eps 
+base 
+derived from our base case 
+investments focus yield dividends 
+strategic initiatives allow symantec 
+unlock their full market opportunity 
+driving better revenue growth 
+cagr from cutting 
+investments non core areas and 
+successfully executing synergies push 
+operating margins from 
+sustaining eps 
+with multiple line with the average 
+large cap software company 
+eps 
+top line stabilizes margins improve 
+value better realized the addition 
+blue coat bolsters symantec 
+enterprise security business with life 
+lock returning consumer security 
+software 
+morgan stanley research 
+growth margins improve the 
+company grows cagr from 
+forecast revenues 
+growing 
+operating margins improve from 
+symantec 
+trades eps including 
+convertible dilution line with large 
+cap peers 
+bear 
+eps 
+continued execution challenges drag 
+down growth and margin 
+improvement symantec struggles 
+rebuild the sales force attrition 
+continues increase and investments 
+new products are not enough 
+offset the commoditization its core 
+endpoint business operating margins 
+improve slower pace 
+resulting eps 
+the stock trades line with its 
+trough ntm eps multiple 
+with the addition the blue coat solution 
+portfolio believe symantec can return 
+high single digit growth profile with better 
+focus increased cross selling and more 
+strategic product investment the new 
+symantec blue coat management team well 
+executes their potential stronger growth 
+profile should push multiples higher 
+market changes and delivering new 
+integrated product offerings should drive 
+software 
+morgan stanley research 
+improved growth the business for 
+model billings improving 
+anniversary the steep headwinds 
+the consumer business stabilizes through 
+the second half transition and new 
+products the enterprise business drive some 
+modest growth 
+dcf the consumer security business alone 
+also points value using conservative 
+assumptions such terminal growth rate 
+the top line stabilizes and margins improve 
+valuations will trend higher realize the 
+company longer term value our view 
+new enterprise security suites and tighter 
+integration among products puts symantec 
+back the game strong security spending 
+environment 
+stabilizing cash flow growth the consumer 
+business declines moderate and enterprise 
+contribution margins trend higher 
+significant return cash shareholders 
+ramp new enterprise products 
+consumer business stabilizes renewal rates 
+improve and lifelock upsell accelerates 
+risks achieving price target 
+symantec security may not reach operating 
+margin and revenue growth targets 
+software 
+morgan stanley research 
+losing market share endpoint security from 
+next generation malware protection vendors 
+additional large acquisitions 
+management unable realize synergies from 
+blue coat and lifelock acquisitions 
+software 
+morgan stanley research 
+fireeye feye 
+disruptive technology with large opp waiting for the platform gel 
+apr 
+oct 
+price target apr 
+apr 
+oct 
+historical stock performance 
+apr 
+oct 
+current stock price 
+apr 
+feye 
+thomson reuters morgan stanley research estimates 
+price target 
+bull 
+discount bull 
+case fcf 
+base 
+see base case below 
+rapid market expansion customer 
+base sustained penetration 
+existing customers drives superior 
+growth broad market adoption results 
+feye customer base growing 
+cagr from reach 
+total revenue reaches 
+fcf margins improve reaching 
+robust growth rate 
+sustains feye multiple fcf 
+yielding share assuming 
+discount rate 
+discount base 
+case fcf 
+moderating new customer wins but 
+solid expansion existing accounts 
+expansion among existing customers 
+software 
+morgan stanley research 
+and sustained new customer adoption 
+drives feye customer base grow 
+cagr reach 
+total rev reaches fcf 
+margins improve 
+through and leverage and 
+growing recurring rev base feye 
+growth rate remains robust and feye 
+trades fcf which 
+line with slower growth large cap 
+software yielding share 
+discounted rate 
+bear 
+discount bear 
+case fcf 
+slower customer adoption niche 
+market fireeye remains niche high 
+end enterprise solution driving 
+decelerating customer growth reach 
+customers sales 
+subscription products underperform 
+penetration into the existing customer 
+base slows down and total license per 
+customer declines the mid single 
+digits reach total revenue 
+fcf margins increase 
+because lower growth feye 
+trades fcf 
+fireeye executing towards comprehensive 
+platform for detecting blocking and 
+remediating threats across the network and 
+endpoints however see revenue growth 
+slowing mid teens over the next few years 
+fireeye appliance sales reach maturity and 
+software 
+morgan stanley research 
+new products slowly ramp 
+see long term path operating 
+margins with fireeye balancing growth with 
+opex discipline however with its large upfront 
+investments will take time for fireeye 
+reach material fcf scale see fireeye 
+reaching fcf 
+with meaningful deceleration growth 
+believe feye facing normalized 
+security spending environment maturity 
+advanced malware protection technology and 
+increased competition and shifting 
+business model from appliances more 
+subscription services 
+fireeye will have manage the longer term 
+impacts slowing growth against 
+distribution channel that was built out well 
+ahead the level demand believe that 
+greater visibility into the trend line growth 
+and margin improvement likely necessary for 
+the stock materially rebound from here 
+such remain the sidelines 
+new customer wins yoy customer base 
+growth and higher growth driven 
+sales investments 
+increased existing customer penetration 
+ramping adoption for additional products 
+customer uptake new subscription services 
+including fireeye service and threat 
+software 
+morgan stanley research 
+intelligence 
+customer adoption the new endpoint 
+security solution 
+potential consolidation within the security 
+industry 
+risks achieving price target 
+upside risks increased investment sales 
+capacity channel relationships and strategic 
+partnerships could drive new customer growth 
+ahead expectations while expanded 
+product portfolio could drive higher contract 
+values and greater billings growth better 
+leverage could scale fcf profitability sooner 
+than expected 
+downside risks increased competition and 
+limited traction with new products could drive 
+substantially lower growth while lack 
+progress towards reaching profitability could 
+lead weaker stock price performance 
+software 
+morgan stanley research 
+fortinet ftnt 
+improving security demand and market share gains driving performance 
+thomson reuters morgan stanley research estimates 
+price target 
+bull 
+discount bull 
+case fcf 
+base 
+derived from base case scenario 
+utm sees broad adoption the 
+enterprise billings growth remains 
+the low mid and 
+with revenue growing yoy 
+and ahead market 
+driven surge spending and 
+continued demand for network security 
+utm products operating margins 
+improve ftnt grows 
+revenues cagr thru 
+and trades fcf and 
+discounted 
+discount base 
+case fcf 
+share gains offset soft macro and 
+service provider shifts spending 
+remains steady while ftnt continues 
+software 
+morgan stanley research 
+gain modest share service providers 
+spending normalize commercial 
+demand remains stable and billings 
+grow organically and 
+with focus better 
+productivity and against 
+slowing growth operating margins 
+grow steadily from 
+ftnt continues steadily 
+grow fcf yielding when 
+applying fcf multiple 
+and discounted rate 
+below historical year average 
+fcf 
+bear 
+discount bear 
+case fcf 
+increased competition and weak 
+spending impacts growth spending 
+stagnates and revenue growth 
+decelerates from and 
+operating margins move lower 
+through the stock trades 
+fcf line with the 
+comps low growth network and 
+security comps 
+continued growth cybersecurity threats 
+coupled with the increasing complexity and 
+cost managing point security solutions has 
+shifted enterprises towards consolidated 
+spend key positioning within this secular trend 
+well improved enterprise oriented 
+product portfolio will push fortinet top line 
+growth ahead the overall market although 
+software 
+morgan stanley research 
+growth has slowed against elongating sales 
+cycles its service provider business and 
+slowing firewall refreshes 
+enter see billing growth likely 
+stabilize the mid teens sales productivity 
+improves renewal growth remains healthy and 
+comparables ease however current trading 
+levels likely points expectations for slowing 
+growth and limited margin improvement 
+fcf our expectation for fcf 
+growth from 
+the durability earnings growth becomes 
+more clear see ftnt valuation gap 
+narrowing with ftnt moving towards our 
+firewall refresh cycle 
+new functionalities products 
+price increases 
+earnings 
+risks achieving price target 
+slowing firewall refreshes and increased 
+competition could drive substantially lower 
+growth 
+increased investment and could 
+lead lower margins 
+software 
+morgan stanley research 
+imperva impv 
+long term secular challenges leave cautious 
+apr 
+oct 
+price target apr 
+apr 
+oct 
+historical stock performance 
+apr 
+oct 
+current stock price 
+apr 
+impv 
+thomson reuters morgan stanley research estimates 
+price target 
+bull 
+discount bull 
+case fcf 
+base 
+derived from base case scenario 
+addressing larger market 
+opportunity expansion customer 
+base through new products improved 
+cross sell existing customers drives 
+significant product growth impv 
+customer base grows cagr 
+from reach 
+cumulative product per customer 
+grows mid single digits and total 
+revenue reaches 
+margins reach and fcf 
+rev moves robust 
+growth rate and margin expansion 
+sustains impv multiple fcf 
+line with security peers 
+discount base 
+software 
+morgan stanley research 
+case fcf 
+bear 
+limited opportunity for upside 
+impv execution its core markets 
+drives customer base growth 
+cagr reach 
+cumulative revenue per customer 
+grows single digits and total revenue 
+reaches our base case 
+assumes fcf rev 
+impv decelerating fcf growth rate 
+drives multiple fcf 
+yielding share price 
+assuming discount rate fcf 
+modest discount impv comp 
+group reflecting impv relatively 
+smaller market opportunity and 
+undersized margin profile 
+discount bear 
+case fcf 
+competition from larger vendors 
+slows growth competition within core 
+markets from larger vendors displaces 
+impv market share upsells into the 
+existing customer base slows and total 
+rev reaches 
+margins gradually improve 
+and fcf reaches rev 
+impv trades fcf 
+yielding share price 
+assuming discount rate 
+multiple line with software 
+companies with significant secular 
+issues and execution challenges 
+while imperva offers best breed tech 
+software 
+morgan stanley research 
+focused securing business critical 
+apps data growth has slowed due execution 
+challenges and increased competition comps 
+remain difficult through and margin 
+improvement may underwhelming greater 
+clarity the ramp its subscription 
+businesses through and the sustainability 
+fcf leverage would get more positive 
+arrive our off discount 
+fcf assuming rate modest 
+discount impv comp group reflecting 
+impv relatively smaller market opportunity 
+and undersized margin profile 
+new customer wins driven recent sales 
+investments 
+increased adoption cloud security products 
+international expansion 
+earnings call 
+risks achieving price target 
+upside risks consolidation strategic action 
+could drive stock appreciation improved sales 
+productivity and new products such 
+incapsula skyfence and counterbreach 
+garnering greater market awareness and 
+traction 
+software 
+morgan stanley research 
+proofpoint pfpt 
+capturing spend the move the cloud 
+thomson reuters morgan stanley research 
+price target 
+bull 
+bull case 
+fcf 
+base 
+derived from base case scenario 
+the next security platform 
+proofpoint sees accelerating success 
+selling broader platform across email 
+security advanced malware protection 
+data protection and archiving billings 
+growth sustains for several years 
+growing with revs 
+improved sales productivity 
+and large installed base drives 
+operating margins and 
+fcf revenue line 
+with targets pfpt trades fcf 
+yielding share 
+assuming discount rate 
+base case 
+software 
+morgan stanley research 
+fcf 
+bear 
+leading suite provider for email 
+data protection proofpoint continues 
+take share its core email protection 
+market while relatively new solutions 
+are adding incremental growth billings 
+growth sustains for the next few 
+years reach billings 
+revs greater scale and 
+better sales productivity drives 
+margins from 
+with fcf revenue 
+pfpt trades fcf 
+multiple line with historical large cap 
+growth software this yields share 
+assuming discount rate 
+bear case 
+fcf 
+commoditized the core 
+proofpoint growth decelerates 
+share gains email security slows and 
+proofpoint struggles ramp new 
+products beyond core email protection 
+growth slows low teens yielding 
+billings revenue 
+margins improve new 
+billings growth slows with margins 
+and fcf revenue reaching 
+respectively pfpt trades 
+fcf line with slower growth 
+security peers yielding share 
+assuming discount rate 
+email security mature market but think 
+proofpoint will continue capture share 
+software 
+morgan stanley research 
+enterprises shift cloud based infrastructure 
+and consolidate spend with portfolio that 
+now includes broader data security advanced 
+malware protection and security analytics our 
+estimates look for billings growth thru 
+which assumes continued share gains 
+email security modest traction newer 
+solutions such advanced malware protection 
+and rev contribution from some its 
+emerging products such social media 
+monitoring 
+proofpoint investing and which 
+well positions its for sustainable growth 
+however greater scale these investments 
+and growing recurring billings from 
+larger subscription base should drive 
+continued margin improvement such 
+see inflection point fcf ahead with 
+fcf moving from revenue 
+pfpt sales multiple compares 
+the average its security peer group 
+but line growth adjusted basis 
+sales growth peers 
+pfpt fcf multiple has moved 
+fcf significantly below our estimate 
+fcf cagr 
+new customer wins driven recent sales 
+investments and new strategic partnerships 
+increased adoption new solutions such 
+proofpoint targeted attack protection 
+increased product expansion 
+software 
+morgan stanley research 
+feature functionality 
+earnings call 
+risks achieving price target 
+increased competition from larger competitors 
+including microsoft and symantec 
+new solutions are slower gain traction 
+adoption cloud based solutions could slow 
+due data privacy and security concerns 
+software 
+morgan stanley research 
+inc rpd 
+developing into next gen risk detection security platform 
+apr 
+oct 
+price target apr 
+apr 
+oct 
+historical stock performance 
+apr 
+oct 
+current stock price 
+apr 
+rpd 
+thomson reuters morgan stanley research estimates 
+price target 
+bull 
+derived from base case 
+discount bull 
+case fcf 
+products solidify into leading nextgen security platform market 
+expansion customer base 
+improved cross sell existing 
+customers drives significant product 
+growth rpd customer base grows 
+cagr from reach 
+cumulative product per customer 
+grows the high single digits and total 
+revenue reaches 
+margins reach with fcf 
+rev moving robust 
+growth rate and further margin 
+expansion potential sustain rpd 
+multiple fcf yielding 
+share price assuming 
+discount rate 
+software 
+morgan stanley research 
+base 
+discount base 
+case fcf 
+bear 
+strong execution core markets 
+rpd solid execution its core markets 
+drive customer base growth 
+year cagr reach rpd 
+continues increase upsells within its 
+base cumulative revenue per 
+customer grows mid single digits and 
+total revenue reaches 
+operating margins break even 
+our base case assumes fcf 
+rev steady fcf growth 
+and margin expansion potential 
+sustains rpd multiple fcf 
+slight discount peers 
+yielding share price 
+assuming discount rate 
+discount bear 
+case fcf 
+stronger competition slows growth 
+competition within core markets from 
+larger vendors displaces rpd market 
+share customer growth grows 
+through reach customers 
+upsells into the existing customer base 
+slows and total rev reaches 
+margins gradually improve 
+break even and fcf reaches 
+rev rpd trades 
+fcf yielding share 
+price assuming 
+discount rate 
+product offerings provide detection 
+software 
+morgan stanley research 
+and remediation help enterprises quickly 
+find threats across the ecosystem the 
+company leverages data from across its suite 
+products detect potential intruders and 
+shorten the time detection remediation 
+with broad applicability into high demand 
+security environment across enterprises 
+believe can sustain top line 
+growth the next several years 
+with large market opportunity 
+investing appropriately for growth our view 
+margins should remain undersized the nearterm while opportunities for growth and 
+customer base expansion will likely dictate the 
+path and pace which they approach 
+margin targets see trending 
+towards margins the business 
+matures but our model conservatively 
+assumes reaches these targets 
+expect rev cagr 
+which modestly ahead its security peer 
+group avg and above broader software 
+rpd sales multiple 
+compares the average its security peer 
+group reflecting discount that 
+appropriately accounts for heavier operating 
+losses than its peers our view growth 
+alongside more attractive margin profile 
+could yield upside our forecasts driving 
+shares towards our bull case 
+new customer wins particularly large scale 
+enterprise deployments driven recent sales 
+software 
+morgan stanley research 
+investments 
+increased adoption products outside 
+core vulnerability management 
+solution could drive accelerated top line 
+growth 
+international expansion 
+earnings call 
+expanding distribution partner relationships 
+risks achieving price target 
+upside risks new customer wins particularly 
+large scale enterprise deployments driven 
+recent sales investments well increased 
+penetration existing customers could drive 
+better than expected growth leverage 
+and greater scale could drive margin 
+leverage better than expected 
+downside risks increased competition from 
+larger competitors and limited growth 
+markets outside vulnerability management 
+could limit the sustainability growth 
+software 
+morgan stanley research 
+varonis systems inc vrns 
+longer path free cash flow 
+apr 
+oct 
+price target apr 
+apr 
+oct 
+apr 
+historical stock performance 
+oct 
+apr 
+current stock price 
+vrns 
+source thomson reuters morgan stanley research 
+price target 
+bull 
+derived from base case scenario 
+discount bull 
+case fcf 
+rapid market expansion customer 
+base improved penetration 
+existing customers drives superior 
+growth strong enterprise adoption 
+results vrns customer base growing 
+cagr from 
+reach cumulative license per 
+customer grows cagr driving 
+total revenue 
+margins improve reaching 
+with fcf rev 
+robust growth rate and further margin 
+expansion potential sustain vrns 
+multiple fcf 
+yielding share price 
+assuming discount rate this 
+equates sales line 
+with security peers growing 
+software 
+morgan stanley research 
+base 
+discount base 
+case fcf 
+bear 
+limited expense moderation drags 
+path profitability vrns continues 
+grow its customer base and increase 
+penetration within its existing base but 
+not rate that significantly outpaces 
+growth operating expenses total 
+revenue reaches our 
+base case assumes operating 
+margins improve and fcf 
+rev increases strong 
+fcf growth rate and margin expansion 
+potential sustain vrns multiple 
+fcf yielding share 
+price assuming discount 
+rate this equates 
+sales relatively line with the slower 
+growth names within its comp group 
+discount bear 
+case fcf 
+stronger competition and slower 
+customer adoption customer growth 
+decelerates single digits 
+reach customers penetration into 
+the existing customer base slows and 
+total rev reaches 
+operating margins increase 
+new business slows and fcf reaches 
+rev vrns trades 
+fcf yielding share 
+price assuming discount 
+rate this equates 
+sales the low end low growth 
+peers 
+software 
+morgan stanley research 
+investment thesis 
+varonis offers unique platform manage 
+secure and optimize human generated data 
+largely untapped market opportunity however 
+are cautious the efficacy with which 
+varonis can exploit this opportunity 
+particularly within the security use case the 
+face formidable competition such 
+symantec 
+while varonis targets some attractive and large 
+markets such security execution has been 
+mixed with sales and marketing expense 
+outpacing top line growth for the past several 
+years while have seen improved sales 
+productivity recently this leaves uncertain 
+whether varonis can exploit its attractive 
+opportunity and are cautious the timing 
+varonis meaningful free cash flow 
+generation 
+expect rev cagr 
+which relatively line with its smid cap 
+peers vrns sales 
+multiple now relatively line with the 
+security peer group which see rich given 
+its similar growth but lower margin profile 
+key value drivers 
+new customer wins and higher 
+growth driven sales investments 
+increased penetration among existing 
+customers via adoption additional varonis 
+software 
+morgan stanley research 
+products and new use cases 
+potential catalysts 
+earnings call 
+new product adoption 
+expanding distribution partner relationships 
+risks achieving price target 
+new customer wins driven recent sales 
+investments well increased penetration 
+existing customers through adoption new 
+products could drive better than expected 
+growth leverage and greater scale 
+could drive margin leverage better than 
+expected 
+varonis offers strategic technology therefore 
+consolidation within the security software 
+space could drive vrns multiple higher 
+software 
+morgan stanley research 
+qualys inc qlys 
+qualys proves out durable growth profile 
+apr 
+oct 
+price target apr 
+apr 
+oct 
+historical stock performance 
+apr 
+oct 
+current stock price 
+apr 
+qlys 
+thomson reuters morgan stanley research estimates 
+price target 
+bull 
+discount bull 
+case fcf 
+base 
+derived from base case scenario 
+extending well beyond vulnerability 
+management customer adoption 
+continues healthy pace reach 
+however further 
+penetration into the base drives 
+subscription revenue growth well ahead 
+base growth with subscription 
+revenue through total 
+revenue reaches 
+share its tam today 
+operating margins improve 
+qlys sustains fcf 
+multiple multiple line with 
+growing large cap software 
+discount rate 
+discount base 
+software 
+morgan stanley research 
+case fcf 
+bear 
+solid execution its fast growing 
+core markets qlys sustains 
+cagr reach customers 
+well below chkp ftnt bases 
+subscription revenue grows 
+cagr qlys further penetrates its 
+base and total rev reaches 
+share its total 
+addressable market relatively line 
+with its share today margins 
+improve modestly through 
+increased investments balance 
+growing recurring rev base and 
+efficiencies fcf rev 
+and fcf cagr 
+drives qlys trade fcf 
+multiple line with low growth 
+large cap software discount 
+rate 
+discount bear 
+case fcf 
+losing share the core market 
+competition from next gen vendors 
+increases while new product traction 
+stalls subscription revenue growth 
+slows single digits from 
+the new customer adds slow and 
+expansion existing customer 
+becomes more muted qlys trades 
+fcf line with secularly 
+challenged software companies 
+with only share its core vulnerability 
+management qualys has long runway 
+software 
+morgan stanley research 
+even with market opportunity that small 
+but growing fast relative other buckets 
+security software spending assume that 
+qualys grows its core business line with the 
+market share potential from legacy 
+vendors and greenfield opportunities 
+balanced increased competition from other 
+next gen vendors like and tenable 
+the use cases are broadening and 
+qualys has the add solutions and the right 
+delivery model cloud and agent based 
+capitalize that however still early days 
+the upsell opp its cloud agent will take 
+time ramp while non solutions still 
+represent billings today longer term 
+the cloud agent allows extension into new 
+security markets areas such patch 
+management and endpoint detection adding 
+some compelling optionality qlys 
+qualys has best class margins today with 
+ebitda margins however growing 
+product portfolio and greater emphasis 
+growth will likely balance out leverage 
+from increasing offshore resources and 
+benefits from ramping renewal base driving 
+relatively stable margin outlook for the next 
+few years 
+expect rev cagr 
+which line with its security peer group avg 
+and the broader software qlys 
+fcf multiple compares the 
+average its security peer group 
+discount particularly growth adjusted 
+basis growth alongside more attractive 
+software 
+morgan stanley research 
+margin profile could yield upside our 
+forecasts driving shares towards our bull case 
+new customer wins yoy customer base 
+growth and higher growth driven 
+sales investments 
+increased existing customer penetration 
+including ramping adoption additional 
+products 
+international expansion 
+earnings call 
+general data protection regulation gdpr 
+effective the could drive higher 
+spending security technologies within the 
+and multinational corporations 
+new product introductions and greater 
+subscription attach including adoption its 
+cloud agent solution 
+risks achieving price target 
+upside risks new customer wins particularly 
+large scale enterprise deployments well 
+increased penetration existing customers 
+with new solutions could drive better than 
+expected growth leverage and greater 
+scale could drive margin leverage 
+better than expected increase 
+activity within smid cap software could drive 
+software 
+morgan stanley research 
+more bullish investor view 
+downside risks increased competition from 
+larger competitors and limited growth 
+markets outside vulnerability management 
+could limit the sustainability growth 
+increased competition could necessitate 
+additional spending limiting margin 
+leverage 
+software 
+morgan stanley research 
+cyberark inc cybr 
+strong core competency with large potential tam further margin upside remains uncertain 
+apr 
+oct 
+price target apr 
+apr 
+oct 
+apr 
+historical stock performance 
+oct 
+current stock price 
+apr 
+cybr 
+price target 
+bull 
+discount bull 
+case fcf 
+base 
+derived from base case scenario 
+emerging product suite gains 
+traction cybr sustains cagr 
+from reach 
+customers revenue grows 
+cagr cybr further penetrates 
+its base and total rev reaches 
+share its growing 
+tam margins slowly tick 
+through and 
+leverage and growing recurring 
+revenue base fcf rev reaches 
+cybr trades fcf 
+yielding share price 
+assuming discount rate 
+multiple line with historical fast 
+growing large cap software 
+discount base 
+software 
+morgan stanley research 
+case fcf 
+bear 
+continued share gains growing 
+privileged access market cybr 
+sustains cagr from 
+reach customers 
+revenue grows cagr cybr 
+further penetrates its base and total rev 
+reaches share 
+its total addressable market 
+margins slowly tick 
+through and leverage and 
+growing recurring revenue base fcf 
+rev reaches cybr 
+trades fcf yielding 
+share price assuming 
+discount rate multiple line 
+with growing large cap software 
+discount bear 
+case fcf 
+share gains muted unable expand 
+beyond core competencies cybr 
+sustains cagr from 
+reach customers 
+revenue grows cagr cybr 
+maintains its share its tam with 
+total rev reaching 
+margins slowly tick fcf 
+rev reaches cybr 
+trades fcf yielding 
+share price assuming 
+discount rate with secularly 
+challenged software companies 
+cyberark the leading vendor the 
+increasingly strategic security market 
+software 
+morgan stanley research 
+privileged access management pam 
+enterprises are shifting focus from protecting 
+the perimeter which not effective 
+protecting users data apps hybrid 
+environments highlighting the increasing 
+priority identity management solutions 
+market focused privileged users the users 
+with the keys the crown jewels will likely 
+see outsized benefit from the increased 
+priority identity management solutions 
+think current spending levels pam 
+understates the total market opportunity which 
+can reach see cyberark the key 
+beneficiary given its share 
+see path top line growth 
+coupled with modest improvements its 
+already industry leading margins drive 
+fcf growth over the next few years cybr 
+trades sales and 
+fcf relative the average the group and 
+respectively growth adjusted 
+basis this represents respectively 
+which roughly line with the average its 
+peers 
+our assumes growth continues pace 
+well ahead overall security spend given 
+cyberark leading position and the nascency 
+the market however cyberark accelerates 
+customer adds begins address new areas 
+security spend see the stock moving 
+toward our bull case 
+additional sales capacity and sales 
+software 
+morgan stanley research 
+productivity our model assumes 
+growth quota carrying sales heads 
+and sales productivity down 
+new customer wins 
+increased traction with upsells cross sells 
+customers adopted more cyberark 
+solutions 
+earnings 
+general data protection regulation gdpr 
+effective the could drive higher 
+spending security technologies within the 
+and multinational corporations 
+risks achieving price target 
+upside risks broader security spending 
+accelerates materially privilege access 
+management security hits inflection point 
+enabling accelerating customer adds cybr 
+sees materially traction selling broader 
+suite with endpoint privilege manager threat 
+analytics etc becoming meaningful growth 
+driver upside from better top line growth 
+and improved sales productivity drives margins 
+materially higher than the outlook and 
+activity within security picks 
+downside risks broader security spending 
+slows materially cybr reaches market 
+saturation and has difficulty expanding beyond 
+its core pam market increased competition 
+software 
+morgan stanley research 
+drives pricing pressure slowing top line 
+growth and greater competition 
+necessitates ramped investment profile 
+driving margins lower 
+software 
+morgan stanley research 
+financials 
+exhibit symc income statement 
+millions except per share data 
+total revenue 
+year over year change 
+quarter over quarter change 
+total cost revenue 
+revenue 
+gross income 
+gross margin 
+operating expenses 
+sales marketing 
+yoy growth 
+revenues 
+research development 
+yoy growth 
+revenues 
+yoy growth 
+revenues 
+total operating expenses 
+operating income 
+operating margin 
+other income 
+income before taxes 
+revenues 
+taxes 
+tax rate 
+net income 
+net margin 
+pro forma eps 
+diluted shares outstanding operating 
+rce rgan stan ley research data 
+exhibit symc balance sheet 
+millions except per share data 
+assets 
+cash cash equivalents 
+investments 
+accounts receivable 
+deferred income taxes 
+deferred commissions 
+inventories 
+other current assets 
+total current assets 
+goodwill 
+intangibles acquired product rights 
+deferred commissions 
+investment joint venture 
+other non current assets 
+total assets 
+liabilities 
+accounts payable 
+accrued compensation benefits 
+other current liabilities 
+current deferred revenue 
+current portion long term debt 
+income taxes payable 
+total current liabilities 
+convertible subordinated notes 
+long term debt 
+long term deferred revenue 
+deferred tax liability 
+other long term liabilities 
+total liabilities 
+common and preferred stock 
+additional paid capital 
+other comprehensive income 
+retained earnings 
+total stockholder equity 
+total liabs stockholder equity 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit symc cash flow statement 
+millions except per share data 
+operating activities 
+net income loss 
+adjustments operating activities 
+depreciation ppe non ppe 
+stock based compensation expense 
+deferred income taxes 
+tax benefit issuance stock 
+impairments and loss disposal assets 
+amortization acquired product rights 
+other 
+changes operating assets and liabilities 
+accounts receivable 
+inventories 
+deferred commissions 
+accounts payable and accrued expenses 
+accrued compensation benefits 
+deferred revenue 
+income taxes payable and others 
+cash flow from operations 
+purchase property equipment 
+others 
+purchase investments 
+cash flow from investment activities 
+cash flows from financing activities 
+common stock paid capital 
+dividend paid 
+repurchase common stock 
+tax benefit issuance stock 
+debt issuance assumption net and others 
+cash flow from financing 
+exchange rate impact 
+change cash and cash equivalents 
+cash beginning period 
+cash end period 
+less cash and cash equivalents discontinued operations 
+cash end period 
+rce rgan stan ley research data 
+exhibit cybr income statement 
+millions except per share data 
+license 
+yoy change 
+qoq change 
+maintenance and services 
+yoy change 
+qoq change 
+total revenue 
+yoy change 
+qoq change 
+total cost revenues 
+gross income 
+gross margin 
+operating expenses 
+research development 
+yoy change 
+revenues 
+sales marketing 
+yoy change 
+revenues 
+general administration 
+yoy change 
+revenues 
+special charges 
+total operating expenses 
+yoy change 
+operating income 
+operating margin 
+yoy change 
+depreciation and amortization 
+ebitda 
+ebitda margin 
+net interest and other income expense 
+income before taxes 
+revenues 
+provision benefit for income taxes 
+tax rate 
+net income 
+net margin 
+pro forma eps operating 
+year over year change 
+esos expense net tax 
+eps net esos after tax modelware 
+weighted avg common shares basic 
+diluted shares outstanding operating 
+rce data rgan stan ley research 
+software 
+morgan stanley research 
+exhibit cybr balance sheet 
+millions except eps 
+ordinary shares nis par value 
+preferred shares nis par value 
+additional paid capital 
+accumulated other comprehensive income loss 
+retained earnings 
+total stockholders equity 
+total liabilities and stockholders equity 
+trade payables 
+employees and payroll accruals 
+deferred revenue current 
+accrued expenses and other current liabilities 
+total current liabilities 
+deferred revenue long term 
+long term deferred tax liabilities 
+accrued severance pay 
+other liabilities 
+total liabilities 
+assets 
+cash and cash equivalents 
+short term bank deposits 
+marketable securities 
+trade receivables 
+short term deferred tax asset 
+prepaid expenses and other current assets 
+total current assets 
+property and equipment net 
+intangible assets and goodwill net 
+marketable securities 
+severance pay fund 
+prepaid expenses and other long term assets 
+long term deferred tax asset 
+other noncurrent assets 
+total assets 
+liabilities 
+rce data rgan stan ley research 
+exhibit cybr cash flow statement 
+millions except eps 
+change net working capital 
+decrease increase trade receivables 
+increase prepaid expenses and other current and long term assets 
+increase decrease trade payables 
+increase short term and long term deferred revenues 
+decrease employees and payroll accruals 
+increase decrease accrued expenses and other current and long term 
+liabilities 
+increase decrese accrued severance pay net 
+other non cash charge 
+net cash provided used operating activities 
+proceeds from short and long term deposits 
+investment short and long term deposits 
+investment marketable securities 
+purchase property and equipment 
+payments for business acquisitions net cash acquired 
+net cash provided used investing activities 
+issuance shares net 
+witholding proceeds related exercise options 
+tax benefit related share based compensation 
+proceeds from exercise options 
+net cash provided used financing activities 
+net income 
+depreciation and amoritzation 
+share based compensation expenses 
+tax benefit related share based compensation 
+deferred income taxes net 
+exchange rate impact 
+change cash and cash equivalents 
+cash beginning period 
+cash end period 
+rce data rgan stan ley research 
+software 
+morgan stanley research 
+exhibit ftnt income statement 
+millions except per share data 
+total cost revenue 
+revenue 
+yoy change 
+gross income 
+gross margin 
+operating expenses 
+revenues 
+revenues 
+revenues 
+total operating expenses 
+operating income 
+operating margin 
+ebitda 
+ebitda margin 
+revenues 
+product 
+yoy change 
+qoq change 
+subscription service 
+yoy change 
+qoq change 
+total revenue 
+yoy change 
+qoq change 
+other income 
+income before taxes 
+income taxes non gaap 
+tax rate non gaap 
+net income non gaap 
+eps diluted non gaap 
+yoy change 
+avg common shrs diluted 
+eps diluted gaap reported 
+rce rgan stan ley research data 
+exhibit ftnt balance sheet 
+millions except per share data 
+assets 
+cash cash equiv 
+short term inv 
+accounts receivable 
+inventory net channel 
+prepaid other 
+total current assets 
+deferred costs revenues 
+goodwill 
+intangible assets 
+long term investments 
+other non current assets 
+liabilities 
+accounts payable 
+accrued liabilities 
+accrued compensation benefits 
+income tax payable 
+deferred revenue current 
+other 
+total current liabilities 
+deferred revenue long term 
+other long term liabilities 
+total liabilities 
+convertible preferred stock 
+common stock 
+treasury stock 
+additional paid capital 
+other 
+retained earnings accumulated deficit 
+total assets 
+total stockholder equity 
+total liabilities stockholder equity 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit ftnt cash flow statement 
+millions except per share data 
+operating activities 
+net income loss 
+adjustments operating activities 
+depreciation ppe non ppe 
+amortization investment premiums 
+amortization stock based compensation 
+provision for doubtful accounts 
+loss gain asset disposal 
+excess tax benefit from employee stock options 
+changes working capital 
+accounts receivable 
+inventory 
+deferred cost rev inventory 
+prepaid and other assets 
+accounts payable 
+accrued expenses comps etc 
+deferred revenue 
+income tax payable 
+other liabilities 
+net cash provided used operating activities 
+cash flows from investing activities 
+purchase property equipment 
+purchase short term investments 
+maturities sale short term investments 
+other 
+net cash used investing activities 
+cash flows from financing activities 
+proceeds common stock 
+proceeds from issuance stock options 
+repurchase common stock 
+other financing 
+net cash provided financing activities 
+exchange rate impact 
+change cash and cash equivalents 
+cash beginning period 
+cash end period 
+free cash flow 
+fcf 
+unlevered fcf 
+rce rgan stan ley research data 
+exhibit feye income statement 
+millions except per share data 
+product 
+yoy change 
+qoq change 
+subscription 
+yoy change 
+qoq change 
+services 
+yoy change 
+qoq change 
+total revenue 
+yoy change 
+qoq change 
+total cost sales 
+gross profit 
+gross margin 
+operating expenses 
+sales marketing 
+research development 
+general administration 
+special charges 
+total operating expenses 
+yoy change 
+operating income 
+operating margin 
+yoy change 
+ebitda 
+net interest and other income expense 
+provision benefit for income taxes 
+tax rate 
+pro forma eps operating 
+year over year change 
+esos expense net tax 
+eps net esos after tax modelware 
+weighted avg common shares 
+basic 
+diluted shares outstanding 
+operating 
+dilution ratio 
+period end basic shares 
+outstanding 
+change eop shares qoq 
+ebitda margin 
+net income 
+net margin 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit feye balance sheet 
+millions except eps 
+accounts payable 
+accrued liabilities 
+accrued compensation 
+long term debt current 
+proceeds from early exercise options 
+deferred revenue current 
+total current liabilities 
+long term debt less current portion 
+deferred revenue long term 
+preferred stock warrant liability 
+other liabilities 
+total liabilities 
+convertible preferred stock 
+common stock 
+additional paid capital 
+treasury stock 
+notes receivable from stockholders 
+retained earnings accumulated deficit 
+total stockholders equity 
+total liabilities and stockholders equity 
+assets 
+cash and cash equivalents 
+short term investments 
+accounts receivables net 
+inventories 
+deferred costs revenue current portion 
+prepaid expenses and other current assets 
+total current assets 
+deferred costs revenue non current 
+property and equipment net 
+goodwill 
+intangible assets 
+other noncurrent assets 
+total assets 
+liabilities 
+rce rgan stan ley research data 
+exhibit feye cash flow statement 
+millions except eps 
+net income 
+depreciation and amortization 
+stock compensation expenses 
+change the fair value preferred warrants 
+loss disposal 
+release deferred tax allowance 
+other non cash charge 
+changes working capital 
+accounts receivable 
+inventories 
+prepaid expenses other assets 
+deferred cost revenue 
+accounts payable 
+accrued liability 
+accrued compensation 
+deferred revenue 
+other liabilities 
+net cash provided used operating activities 
+acquistion business net cash acquired 
+purchase 
+proceeds from sale investments 
+lease deposits 
+net cash provided used investing activities 
+proceeds from line credit 
+payment line credit 
+proceeds repayment from term debt 
+proceeds repayment growth loan 
+issuance series preferred stock 
+issuance series preferred stock 
+stock options exercised before vesting 
+repurchase common stock 
+repayment notes receivable 
+net cash provided used financing activities 
+exchange rate impact 
+change cash and cash equivalents 
+cash beginning period 
+cash end period 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit impv income statement 
+millions except per share data 
+product license 
+yoy change 
+qoq change 
+services 
+yoy change 
+qoq change 
+total revenue 
+yoy change 
+qoq change 
+cost product license 
+product license margin 
+cost services 
+services margin 
+total cost revenues 
+gross income 
+gross margin 
+operating expenses 
+sales marketing 
+yoy change 
+revenues 
+research development 
+yoy change 
+revenues 
+general administration 
+yoy change 
+revenues 
+special charges 
+total operating expenses 
+yoy change 
+operating income 
+operating margin 
+yoy change 
+depreciation and amortization 
+ebitda 
+ebitda margin 
+net interest and other income expense 
+net income 
+net margin 
+pro forma eps operating 
+year over year change 
+esos expense net tax 
+eps net esos after tax modelware 
+weighted avg common shares basic 
+diluted shares outstanding operating 
+income before taxes 
+revenues 
+provision benefit for income taxes 
+tax rate 
+loss attributable nci 
+rce rgan stan ley research data 
+exhibit impv balance sheet 
+millions except eps 
+convertible preferred stock 
+common stock 
+additional paid capital 
+retained earnings accumulated deficit 
+accumulated other comprehensive income loss 
+non controlling interest 
+total stockholders equity 
+total liabilities and stockholders equity 
+cash and cash equivalents 
+short term investments 
+restricted cash 
+accounts receivables net 
+inventory 
+deferred tax assets 
+prepaid expenses and other current assets 
+total current assets 
+property and equipment net 
+goodwill 
+acquired intagible assets net 
+severance pay fund 
+restricted cash 
+deferred tax assets 
+other noncurrent assets 
+total assets 
+deferred revenue long term 
+accrued severance pay 
+other liabilities 
+total liabilities 
+assets 
+liabilities 
+accounts payable 
+accrued compensation and benefits 
+accrued and other current liabilities 
+deferred revenue current 
+total current liabilities 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit impv cash flow statement 
+millions except eps 
+depreciation and amortization 
+stock compensation expenses 
+amortization premiums accretion discounts investments 
+excess tax benefits from share based comp 
+other non cash charge 
+changes working capital 
+accounts receivable 
+inventory 
+prepaid expenses other assets 
+accounts payable 
+accrued compensation and benefits 
+accrued and other liabilities 
+severance pay net 
+deferred revenue 
+other liabilities 
+net cash provided used operating activities 
+purchases proceeds from sale investments 
+acquisitions net cash acquired 
+decrease increase restricted cash 
+purchase 
+net cash provided used investing activities 
+common stock 
+proceeds repayment from term debt 
+excess tax benefits from share based comp 
+net cash provided used financing activities 
+net income 
+exchange rate impact 
+change cash and cash equivalents 
+cash beginning period 
+cash end period 
+rce rgan stan ley research data 
+exhibit pfpt income statement 
+millions except per share data 
+subscription 
+yoy change 
+qoq change 
+hardware and services 
+yoy change 
+qoq change 
+total revenue 
+yoy change 
+qoq change 
+cost subscription 
+subscription margin 
+cost hardware and services 
+hardware services margin 
+total cost revenues 
+gross income 
+gross margin 
+operating expenses 
+sales marketing 
+yoy change 
+revenues 
+research development 
+yoy change 
+revenues 
+general administration 
+yoy change 
+revenues 
+special charges 
+total operating expenses 
+yoy change 
+operating income 
+operating margin 
+yoy change 
+depreciation and amortization 
+ebitda 
+ebitda margin 
+net interest and other income expense 
+provision benefit for income taxes 
+tax rate 
+net income 
+net margin 
+income before taxes 
+revenues 
+add back interest expense converts net tax 
+convert interest rate 
+non gaap net income for eps calculation 
+net margin 
+pro forma eps operating 
+year over year change 
+esos expense net tax 
+eps net esos after tax modelware 
+weighted avg common shares basic 
+diluted shares outstanding operating 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit pfpt balance sheet 
+millions except eps 
+common stock 
+additional paid capital 
+retained earnings accumulated deficit 
+total stockholders equity 
+total liabilities and stockholders equity 
+cash and cash equivalents 
+short term investments 
+accounts receivables net 
+inventory 
+deferred product costs 
+prepaid expenses and other current assets 
+total current assets 
+property and equipment net 
+deferred product costs noncurrent 
+goodwill 
+intangible assets net 
+other noncurrent assets 
+total assets 
+accounts payable 
+accrued liabilities 
+notes payable and lease obligations 
+deferred rent current 
+deferred revenue current 
+total current liabilities 
+convertible senior notes 
+notes payable and lease obligations noncurrent 
+other long term liabilities noncurrent 
+deferred revenue long term 
+total liabilities 
+assets 
+liabilities 
+rce rgan stan ley research data 
+exhibit pfpt cash flow statement 
+millions except eps 
+net income 
+depreciation and amortization 
+accretion discounts investments 
+provision for allowance for doubtful accounts 
+stock compensation expenses 
+deferred income taxes 
+change fair value warrant liability 
+change fair value contingent earn outs 
+amortization debt issuance costs 
+changes working capital 
+accounts receivable 
+inventory 
+deferred products costs 
+prepaid expenses and other assets 
+noncurrent assets 
+accounts payable 
+earn out payment 
+accrued liabilities 
+deferred rent 
+deferred revenue 
+net cash provided used operating activities 
+proceeds from sale investments 
+purchase investments 
+purchase 
+acquisitions businesses net cash acquired 
+net cash provided used investing activities 
+common stock 
+payments debt issuance costs 
+repayments notes payable and loans 
+net cash provided used financing activities 
+exchange rate impact 
+change cash and cash equivalents 
+cash beginning period 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit qlys income statement 
+total revenue 
+yoy change 
+qoq change 
+cost revenue 
+cost revenue 
+gross profit 
+gross margin 
+operating expenses 
+sales marketing 
+yoy change 
+revenues 
+research development 
+yoy change 
+revenues 
+general administration 
+yoy change 
+revenues 
+special charges 
+total operating expenses 
+yoy change 
+operating income 
+operating margin 
+yoy change 
+depreciation and amortization 
+ebitda 
+ebitda margin 
+net interest and other income expense 
+income before taxes 
+revenues 
+provision benefit for income taxes 
+tax rate 
+net income 
+net margin 
+pro forma eps operating 
+year over year change 
+esos expense net tax 
+eps net esos after tax modelware 
+weighted avg common shares basic 
+diluted shares outstanding operating 
+rce rgan stan ley research data 
+exhibit qlys balance sheet 
+millions except eps 
+cash and cash equivalents 
+short term investments 
+accounts receivable 
+deferred tax assets current 
+prepaid expenses and other current assets 
+total current assets 
+long term investments 
+property and equipment net 
+deferred tax assets net 
+intangible assets net 
+goodwill 
+other noncurrent assets 
+total assets 
+long term deferred revenue 
+other noncurrent liabilities 
+income taxes payable noncurrent 
+capital lease obligations noncurrent 
+total liabilities 
+convertible preferred stock 
+common stock 
+treasury stock 
+additional paid capital 
+accumulated deficit 
+total stockholders equity 
+total liabilities and stockholders equity 
+assets 
+liabilities 
+accounts payable 
+accrued liabilities 
+current capital lease obigations 
+deferred revenue 
+total current liabilities 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit qlys cash flow statement 
+millions except eps 
+depreciation and amortization 
+bad debt expense 
+loss disposal property and equipment 
+stock based compensation 
+amortization premiums and accretion discounts investments 
+excess tax benefits from stock based compensatio 
+impairment intangible assets 
+deferred income taxes 
+provision for doubtful accounts and other 
+changes working capital 
+accounts receivable 
+prepaid expenses and other current assets 
+accounts payable 
+accrued liabilities and other 
+other current liabilities 
+deferred revenue 
+income taxes payable 
+other liabilities 
+net cash provided used operating activities 
+purchases investments 
+sales and maturities investments 
+purchases property and equipment 
+capitalized software development costs 
+net cash provided used investing activities 
+proceeds from exercise stock options 
+excess tax benefits from stock based compensation 
+principal payments under capital lease obligations 
+others 
+net cash provided used financing activities 
+net income 
+exchange rate impact 
+change cash and cash equivalents 
+cash beginning period 
+cash end period 
+rce rgan stan ley research data 
+exhibit rpd income statement 
+millions except per share data 
+cost revenue 
+cost product revenue 
+product gross margin 
+cost maintenance revenue 
+maintenance gross margin 
+cost services 
+services gross margin 
+total cost sales 
+gross profit 
+gross margin 
+operating expenses 
+sales marketing 
+yoy change 
+revenues 
+research development 
+yoy change 
+revenues 
+general administration 
+yoy change 
+revenues 
+special charges 
+total operating expenses 
+yoy change 
+operating income 
+product 
+yoy change 
+qoq change 
+maintenance 
+yoy change 
+qoq change 
+services 
+yoy change 
+qoq change 
+total revenue 
+yoy change 
+qoq change 
+operating margin 
+yoy change 
+depreciation and amortization 
+ebitda 
+ebitda margin 
+income before taxes 
+revenues 
+provision benefit for income taxes 
+tax rate 
+net income 
+net margin 
+pro forma eps operating 
+year over year change 
+esos expense net tax 
+eps net esos after tax modelware 
+weighted avg common shares basic 
+diluted shares outstanding operating 
+net interest and other income expense 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit rpd balance sheet 
+millions except eps 
+cash and cash equivalents 
+short term investments 
+net accounts receivable 
+prepaid expense and other 
+total current assets 
+total 
+goodwill and intangible net 
+other long term assets 
+total assets 
+long term deferred revenue 
+term loan payable 
+other liabilities 
+total liabilities 
+preferred stock 
+common stock 
+treasury stock 
+additional paid capital 
+accumulated deficit 
+total stockholders equity 
+assets 
+liabilities 
+accounts payable 
+accrued expenses other 
+contingent liability 
+short term loan payable 
+deferred revenue 
+total current liabilities 
+total liabilities and stockholders equity 
+rce rgan stan ley research data 
+exhibit rpd cash flow statement 
+millions except eps 
+changes working capital 
+accounts receivable 
+prepaid expenses and other current assets 
+accounts payable 
+accrued expenses and other 
+other current liabilities 
+deferred revenue 
+contingent consideration 
+other liabilities 
+net cash provided used operating activities 
+purchase 
+cash paid for acquisitions 
+purchases investments 
+net cash provided used investing activities 
+preferred common stock proceeds 
+common and preferred stock 
+change debt and equity issuance 
+proceeds from stock option exercise 
+payments contingent consideration 
+capital leases 
+borrowings payments from term loans 
+net cash provided used financing activities 
+net income 
+depreciation and amortization 
+stock based compensation 
+deferred income tax 
+amortization debt discount 
+foreign currency remeasurement 
+provision for doubtful accounts and other 
+exchange rate impact 
+change cash and cash equivalents 
+cash beginning period 
+cash end period 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit vrns income statement 
+millions except per share data 
+license 
+yoy change 
+qoq change 
+maintenance and services 
+yoy change 
+qoq change 
+total revenue 
+yoy change 
+qoq change 
+cost revenue 
+gross income 
+cost revenue 
+operating expenses 
+sales marketing 
+yoy change 
+revenues 
+research development 
+yoy change 
+revenues 
+general administration 
+yoy change 
+revenues 
+special charges 
+total operating expenses 
+yoy change 
+gross margin 
+operating income 
+operating margin 
+yoy change 
+depreciation and amortization 
+ebitda 
+ebitda margin 
+net interest and other income expense 
+income before taxes 
+revenues 
+provision benefit for income taxes 
+tax rate 
+net income 
+net margin 
+pro forma eps operating 
+year over year change 
+rce rgan stan ley research data 
+exhibit vrns balance sheet 
+millions except eps 
+cash and cash equivalents 
+short term deposits 
+restricted cash 
+accounts receivables net 
+prepaid expenses and other current assets 
+total current assets 
+property and equipment net 
+other noncurrent assets 
+total assets 
+accounts payable 
+accrued expenses 
+deferred revenue current 
+total current liabilities 
+deferred revenue long term 
+severance pay 
+preferred stock warrant liability 
+other liabilities 
+total liabilities 
+convertible preferred stock 
+common stock 
+additional paid capital 
+retained earnings accumulated deficit 
+total stockholders equity 
+total liabilities and stockholders equity 
+assets 
+liabilities 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+exhibit vrns cash flow statement 
+millions except eps 
+net income 
+depreciation and amortization 
+stock compensation expenses 
+loss disposal 
+accretion interest 
+amortization deferred charges 
+change the fair value preferred warrants 
+release deferred tax allowance 
+other non cash charge 
+changes working capital 
+accounts receivable 
+prepaid expenses other assets 
+accounts payable 
+accrued liability 
+increase severance pay 
+deferred revenue 
+other liabilities 
+net cash provided used operating activities 
+proceeds from sale investments 
+decrease increase restricted cash 
+purchase 
+net cash provided used investing activities 
+proceeds repayment from term debt 
+stock options exercised before vesting 
+exercise warrants 
+issuance stock 
+repurchase common stock 
+issuance sale common stock employees 
+net cash provided used financing activities 
+exchange rate impact 
+cash beginning period 
+cash end period 
+change cash and cash equivalents 
+rce rgan stan ley research data 
+software 
+morgan stanley research 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and 
+morgan stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley 
+includes morgan stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada 
+limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that 
+they have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report 
+melissa gorham keith weiss cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+march morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research cdk global inc citrix systems inc coupa software inc cyberark software ltd ellie mae inc fireeye inc intuit palo alto networks 
+inc red hat inc salesforce servicenow inc splunk inc veeva systems inc workday workiva inc zendesk inc 
+within the last months morgan stanley managed managed public offering offering securities coupa software inc ellie mae inc 
+microsoft nuance communications inc shopify inc travelport worldwide limited 
+within the last months morgan stanley has received compensation for investment banking services from akamai technologies inc appfolio inc cdk 
+global inc coupa software inc ellie mae inc godaddy inc instructure inc microsoft nuance communications inc sabre corp secureworks corp 
+shopify inc technologies holdings inc travelport worldwide limited workiva inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from inc adobe systems 
+akamai technologies inc appfolio inc atlassian corporation plc autodesk barracuda networks inc bazaarvoice inc box inc cdk global inc check 
+point software technologies ltd citrix systems inc coupa software inc cyberark software ltd descartes systems group inc ellie mae inc endurance 
+international group holdings inc fireeye inc inc fortinet inc godaddy inc hubspot inc imperva inc instructure inc intuit jive software inc 
+microsoft mindbody inc new relic inc nuance communications inc oracle corporation palo alto networks inc proofpoint inc qualys inc 
+inc red hat inc ringcentral inc sabre corp salesforce servicenow inc shopify inc splunk inc technologies holdings inc symantec 
+tableau software travelport worldwide limited varonis systems inc veeva systems inc vmware inc workday workiva inc zendesk inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from adobe 
+systems akamai technologies inc autodesk check point software technologies ltd fortinet inc intuit microsoft nuance communications inc 
+oracle corporation red hat inc sabre corp salesforce technologies holdings inc symantec tableau software travelport worldwide 
+limited vmware inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship 
+with the following company inc adobe systems akamai technologies inc appfolio inc atlassian corporation plc autodesk barracuda networks 
+inc bazaarvoice inc box inc cdk global inc check point software technologies ltd citrix systems inc coupa software inc cyberark software ltd 
+descartes systems group inc ellie mae inc endurance international group holdings inc fireeye inc inc fortinet inc godaddy inc hubspot 
+inc imperva inc instructure inc intuit jive software inc microsoft mindbody inc new relic inc nuance communications inc oracle corporation 
+palo alto networks inc proofpoint inc qualys inc inc red hat inc ringcentral inc sabre corp salesforce servicenow inc shopify inc 
+splunk inc technologies holdings inc symantec tableau software travelport worldwide limited varonis systems inc veeva systems inc 
+vmware inc workday workiva inc zendesk inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company adobe systems akamai technologies inc 
+autodesk cdk global inc check point software technologies ltd citrix systems inc fireeye inc fortinet inc godaddy inc intuit microsoft nuance 
+communications inc oracle corporation red hat inc sabre corp salesforce servicenow inc technologies holdings inc symantec 
+tableau software travelport worldwide limited vmware inc workday 
+employee director consultant morgan stanley director workiva inc this person not research analyst member research 
+analyst household 
+morgan stanley llc makes market the securities inc adobe systems akamai technologies inc atlassian corporation plc autodesk 
+barracuda networks inc bazaarvoice inc box inc cdk global inc check point software technologies ltd citrix systems inc cyberark software ltd 
+ellie mae inc endurance international group holdings inc fireeye inc inc fortinet inc godaddy inc hubspot inc instructure inc intuit 
+microsoft mindbody inc new relic inc nuance communications inc oracle corporation palo alto networks inc proofpoint inc holdings inc 
+qualys inc inc red hat inc ringcentral inc sabre corp salesforce servicenow inc shopify inc splunk inc technologies 
+holdings inc symantec tableau software travelport worldwide limited varonis systems inc veeva systems inc vmware inc workday zendesk 
+inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making 
+providing liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and 
+buys from customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have 
+position the debt the company instruments discussed this report morgan stanley trades may trade principal the debt securities 
+related derivatives that are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+software 
+morgan stanley research 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley 
+research contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and 
+not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+march 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received 
+investment banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant 
+broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad 
+market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad 
+market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith 
+barney llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval 
+conducted the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems autodesk 
+bazaarvoice inc cdk global inc intuit microsoft nuance communications inc oracle corporation palo alto networks inc symantec workday 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current 
+conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within 
+the meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary 
+the recommendations views expressed research the same stock this may the result differing time horizons methodologies market events 
+other factors for all research available particular stock please contact your sales representative matrix 
+http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients 
+software 
+morgan stanley research 
+through alternate electronic means convenience for access all available morgan stanley research please contact your sales representative 
+matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms 
+accessing and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance 
+with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your 
+preferences and collect readership data that can deliver better and more personalized service and products you find out more information 
+about how morgan stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your 
+investments may vary because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market 
+indexes operational financial conditions companies other factors there may time limitations the exercise options other rights 
+securities instruments transactions past performance not necessarily guide future performance estimates future performance are based 
+assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the 
+subject company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan 
+stanley owns more class common equity securities the companies for all other companies mentioned morgan stanley research 
+morgan stanley may have investment less than securities instruments derivatives securities instruments companies and may trade them 
+ways different from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley 
+research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley 
+business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed 
+morgan stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and 
+solely responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public 
+media without the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange 
+recommendation regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party 
+including but not limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research 
+which may create give the appearance creating conflict interest information securities instruments that not trade taiwan for 
+informational purposes only and not construed recommendation solicitation trade such securities instruments mstl may not 
+execute transactions for clients these securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt 
+fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and 
+the prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the 
+financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member 
+the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally 
+morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the 
+information morgan stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom 
+saudi arabia and directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+software 
+morgan stanley research 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized 
+firms comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences 
+for this reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages 
+relating such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+software 
+morgan stanley research 
+industry coverage software 
+company ticker 
+rating 
+price 
+brian essex cfa 
+appfolio inc appf 
+cdk global inc cdk 
+descartes systems group inc dsgx 
+ellie mae inc elli 
+endurance international group holdings inc eigi 
+godaddy inc gddy 
+instructure inc inst 
+mindbody inc 
+holdings inc qtwo 
+sabre corp sabr 
+shopify inc shop 
+technologies holdings inc ssnc 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+symantec symc 
+vmware inc vmw 
+workday wday 
+melissa gorham 
+barracuda networks inc cuda 
+box inc box 
+cyberark software ltd cybr 
+fireeye inc feye 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+qualys inc qlys 
+inc rpd 
+secureworks corp scwx 
+splunk inc splk 
+varonis systems inc vrns 
+meta marshall 
+inc eght 
+inc fivn 
+ringcentral inc rng 
+sanjit singh 
+atlassian corporation plc team 
+new relic inc newr 
+nuance communications inc nuan 
+tableau software data 
+stan zlotsky cfa 
+bazaarvoice inc 
+coupa software inc coup 
+hubspot inc hubs 
+jive software inc jive 
+veeva systems inc veev 
+workiva inc 
+zendesk inc zen 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

@@ -1,0 +1,1032 @@
+may 
+software 
+morgan stanley llc 
+keith weiss cfa 
+keith weiss morganstanley 
+where will find the 
+next billion software 
+company 
+melissa gorham 
+melissa gorham morganstanley 
+what does take the next billion software company the 
+benefits many big secular themes talk about tech big data internet 
+things artificial intelligence virtual reality look accrue existing large 
+public cloud vendors amazon facebook google and microsoft limiting 
+upside potential for investors looking for the next big thing this report 
+try identify three trends capable producing new billion market cap 
+software company the key components our view are very big market 
+opportunity bottleneck broken order access the value the 
+market and funneling mechanism defining few one clear winner that 
+market with that mind focus three market opportunities 
+the likeliest candidate saas based applications data has gravity and the 
+business workflows being automated applications will migrate towards that 
+data ultimately business users want all their workflows well integrated 
+and working off single version data the push and pull between best 
+breed functionality and broader application suites kept peak market shares the 
+low mid twenties the premise application world with saas based 
+applications faster innovation cycles and easier integration new functionality 
+becomes harder for best breed vendors sustain differentiation and 
+enables suite vendors garner broader ecosystems and higher market share 
+seen salesforce share the sales force automation market 
+with the most customer data the cloud and multiple solutions targeting over 
+million users see crm the clear leader saas based applications and 
+well their way billion market cap 
+stretch goal security consolidation the billion being spent annually 
+security today has not solved the problem cybersecurity going forward 
+chief information security officers cisos will looking systems enabling 
+more effective security not just more layers security the keys this 
+increased security effectiveness are better visibility within organization and 
+stan zlotsky cfa 
+stan zlotsky morganstanley 
+sanjit singh 
+sanjit singh morganstanley 
+josh baer cfa 
+josh baer morganstanley 
+tom mao 
+tom mao morganstanley 
+hile many secular themes technology look 
+benefit the large existing public cloud 
+vendors identified three trends with the 
+potential grow new software mega cap for investors 
+looking for long term winners see crm panw and 
+team amongst the best positioned for these trends 
+hamza fodderwala 
+hamza fodderwala morganstanley 
+anjelo austria 
+anjelo austria morganstanley 
+morgan stanley appreciates your support 
+the institutional investor all america 
+research team survey 
+request your ballot 
+software 
+north america 
+industryview 
+attractive 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+outside into the threat environment and increased automation the actions 
+taken response this increased visibility both these push the industry 
+towards consolidation into broader security platforms the most effective 
+consolidator seen security panw however achieve the revenue 
+scale necessary become billion market cap company palo alto 
+networks must successfully expand their focus from the network security 
+segment the broader pool overall security spending 
+get this right we geniuses app development for the masses 
+see long tail business processes with more limited user bases which have yet 
+automated applications representing large pool potential value 
+creation the smaller user bases means packaged application vendors are 
+unlikely target this opportunity however vendor could truly make app 
+development easy enough for information workers which there are 
+million automate their own business processes and the components these 
+applications were shareable amongst users drawing users towards fewer 
+vendors very large vendor could supported while not their core business 
+today the potential extending their easy use workflow automation engine 
+the broader information worker base makes team compelling long term 
+opportunity 
+the components billion software company 
+keith your space getting boring seems like all the key secular themes lead the 
+same big companies where the next really big company going come from where 
+that next billion company going come from 
+the genesis this note came from recent meeting where client noted all 
+the technology trends are talking about public cloud internet things and 
+artificial intelligence seem lead the same five vendors amazon google 
+microsoft facebook and alibaba and they are already very big companies what 
+wanted know was where will that next huge company come from 
+exhibit seems every tech question has the same answer 
+source company data morgan stanley research 
+that meeting started with thinking about how can find the next billion 
+market cap company the first thing needed was figure out what level the 
+fundamentals need reach support billion valuation came with 
+simple equation with round figures for this exercise average you pay 
+multiple for large well positioned vendor the software group which means the 
+company needs yield about billion net income adding back taxes average 
+tax rate yields operating income software names have pretty good 
+operating margins around average scale the magic number get 
+billion annual revenue 
+exhibit fundamentals billion market cap 
+source morgan stanley research 
+then identified three key components needed support revenues that scale 
+very big market opportunity this will usually come from either platform 
+that can support multiple use cases very large user base that you can sell set 
+applications into 
+bottleneck broken unlock value there needs large pool value 
+unlocked and some bottleneck reaching that value has broken large 
+companies seem more likely built revolutionary evolutionary 
+innovations 
+demand funnels few one vendor demand must funnel few one 
+vendor that large market opportunity 
+when trying find these big markets there are basically two ways you could 
+broad deep 
+broad according forrester there are about million worldwide 
+information workers which the core pool potential large base users for 
+enterprise software company for example let say get share the 
+million worldwide information workers and charge them per user 
+that gives you billion revenues this the microsoft model such 
+microsoft office its windows operating system very broad tool set that can 
+used across high percentage the users within that big base informations 
+workers 
+deep according idc there are about worldwide firms with over 
+employees which would the companies that are going buying 
+significant amounts technology get billion revenue company 
+would need garner approximately million per customer assuming 
+share the mentioned firms that company must have platform that 
+drives significant value able sell that deeper value proposition this 
+line with the oracle model and its relational database platform 
+before step into where the aforementioned pools values may come from let 
+set the landscape with what call the fundamental forces software 
+dollars moving towards software seen exhibit historical bea data 
+shows that software has been getting larger piece overall capex for the past 
+years hardware peaked and has been declining ever since 
+software dollars moving from infrastructure applications within 
+software budget dollars are moving from infrastructure software towards 
+applications 
+consumerization the end customer used the department the cio 
+and those collecting requirements they would try understand the 
+organization needs and then they would out and decide what technology they 
+wanted buy fit those requirements that not the case anymore now it the 
+business user that drives purchasing decisions the business users knows from 
+their day day workflow exactly what they looking for additionally the 
+business users bring work set expectations from the consumer world 
+applications that are easy use and work out the box today the business 
+users more discreetly drive the demand and departments enable those services 
+increasing pace innovation simply the pace which things are getting 
+better getting faster see the increasing pace innovation across all 
+technology from semiconductors software service saas based 
+applications 
+exhibit software percentage capex has been growing for the past years 
+capex software hardware corporate capex 
+capex corporate software corporate capex 
+iii 
+iii 
+iii 
+iii 
+iii 
+iii 
+iii 
+capex corporate hardware corporate capex 
+source bea data 
+where are the potential markets for the next mega cap 
+talk about software generally two key buckets applications and 
+infrastructure 
+applications are the software users interact with applications automate and optimize 
+business and consumer processes making them either more efficient more effective 
+infrastructure basically all the pipes enabling those applications run it the 
+database underlying the applications that organizes and stores all the data it the 
+messaging software that enables one application talk another it the plumbing 
+why important understand the two different buckets software see two 
+different value propositions the two sides the equation see exhibit 
+applications entail open ended value proposition driven innovation 
+long vendor can create more effective and efficient business processes 
+applications are adding more and more value 
+infrastructure represents cost optimization exercise how get the lowest 
+possible cost for certain level service for example need database 
+capable holding terabyte data and sustain thousand transactions per 
+second going pay the least possible price get that functionality 
+required level service this the reason why see budget dollars moving 
+from the infrastructure layer the application layer infrastructure software has 
+become cost optimization exercise track becoming commoditized while 
+application software holds value better 
+exhibit two buckets software with two different value propositions 
+source shutterstock morgan stanley research 
+see two major forces commoditizing infrastructure software however herein lies 
+potentially very large value proposition there huge amount money already 
+being spent proprietary infrastructure software vendors today perhaps one these 
+two realms commoditization where are going see that bottleneck broken 
+open source open source software defined any software product where the 
+underlying source code visible and freely shared with the end user with 
+limited ownership the code any software engineer free use optimize and 
+extend the functionality open source programs gartner estimates least 
+all mainstream organizations will leverage some element open source 
+software within their mission critical solutions 
+public cloud particularly infrastructure service amazon web services 
+companies that bring market compute storage networking and other core 
+services huge scale iaas vendors enable customers rent rather than buy these 
+services one can think iaas extensive outsourcing exercise 
+exhibit infrastructure getting commoditized 
+source shutterstock morgan stanley research 
+potential market open source 
+what enables big open source company have one example big open source 
+company today red hat within their product portfolio the red hat enterprise linux 
+operating system represents over their revenues let look what made red 
+hat the one company that been able monetize open source really well 
+large market server operating systems are billion market and was even bigger 
+when red hat entered the space 
+consolidating funneling function operating system interface between 
+underlying hardware server coming from dell ibm hewlett packard and the 
+software running top that server database from oracle application 
+from sap given these vendors running below and top the operating system are 
+likely unwilling support every open source linux operating system available therein 
+lies funneling function vendors chose support core set linux operating system 
+flavors and red hat came out that dominant flavor every server vendor was going 
+support red hat running top their servers and every application vendor was going 
+support red hat viable run their applications their infrastructure top 
+ultimately this funnels money red hat 
+ability get people pay red hat was able get people pay from three core 
+value propositions 
+packaging red hat takes the wild wild west open source software 
+development different versions the software with developers from around the 
+world working then improve little portions code add specific 
+functionalities then packages the best those improvements and functionalities 
+into one easy install and implement piece software further they test the 
+resulting packaged software code set against all the various servers storage 
+systems and software likely run top 
+updates similar commercial vendors red hat customers receive stream 
+upgrades and updates their operating system continually patching holes and 
+improving functionality red hat users garner confidence that their piece 
+software works 
+technical support finally red hat provides their customer base with technical 
+support you have problem with your operating system there somebody 
+call this type support crucial for large enterprises 
+the end customer for server operating systems server admin who are used 
+getting these services from third party provider much easier get server admin 
+pay red hat than your end customer was software developer who packages 
+software all the time may more comfortable with community support models and 
+may not appreciate the value proposition red hat the same degree 
+open source has given one big company possible that there can another 
+large open source company going forward basis there are three markets that 
+believe could potentially very large the open source world 
+openstack started rackspace and nasa openstack open 
+source project focused providing the infrastructure build and manage public 
+and private cloud environments standard hardware other words openstack 
+set tools and technologies used automate and orchestrate what 
+customer doing their data center annual basis enterprises spend 
+billion data center technology there lot that automated however the 
+primary difficulty creating new mega vendor openstack the lack 
+funnelling functionality while there big potential market opportunity it 
+difficult imagine one two vendors taking that entire market place traditional 
+vendors like cisco hewlett packard ibm vmware and red hat each have their 
+own versions the core openstack distribution leaving open the question 
+whether the market will consolidate behind smaller set offerings while 
+see openstack good expansion opportunity for red hat don see driving 
+the company the billion market cap mark 
+data stores the database market represents about billion annual 
+spending according industry sources the market size significant however 
+the dominant trend data stores particularly open source data stores has been 
+giving the end user more choice finding the right data store fit the particular 
+type data problem needed solved this dynamic likely further fragments 
+the demand the market across more vendors 
+containers containers are emerging technology within application 
+development and deployment what containers try optimize how 
+application developers write and deploy their code see software container 
+enthusiasm revolutionizing software delivery september essentially 
+containers standardize the platform which the developer writes software code 
+and containerizing their applications developers have means ensure that 
+the code they written and tested will work across any system where 
+deployed with enterprises spending almost billion application 
+development and deployment today containers could very large market 
+opportunity from our most recent cio survey companies incorporated 
+linux containers their environments with additional expected 
+again the big question remains who will that value accrue could 
+the operating system vendors other open source companies developing 
+management frameworks for containers given developers are the end 
+customer the technology may ultimately prove difficult monetize 
+containers the analogy simply understand containers think shipping container rather than shipping couches 
+lamps refrigerators and tvs all out the box and having count for all the different shapes and sizes you pack them all 
+together into standard sized shipping container anyone within your transport network can use whether it the truck the 
+ship train the warehouse they all use standardized container the same thing applies for software containers you 
+package the software standard size container when you develop anyone who wants run knows exactly how run 
+you running the same way any environment top any software 
+potential market infrastructure service 
+let shift gears the other commoditizing functionality discussed earlier 
+outsourcing underlying infrastructures third party vendor what call 
+infrastructure service iaas see two types infrastructure service iaas 
+demand 
+the new software development kits this the application development 
+platform for extending the functionality application suites customer already 
+uses let say customer uses salesforce sales cloud which gives you 
+horizontal generic version sales force automation business processes 
+continuing the example you work morgan stanley selling institutional 
+clients with very specific needs and utilize specific selling processes you want 
+develop functionality that pertains specifically your business processes 
+tickers trade sizes etc that isn the core salesforce application the 
+customer can use this type iaas platform develop this functionality adjacent 
+their existing applications that nature going smaller market 
+opportunity given adjunct what the company already selling their 
+customers think the larger opportunity comes from 
+supporting newer existing workloads essentially outsourcing infrastructure 
+hardware and software technologies from amazon web services microsoft 
+google why that much bigger opportunity because you commoditizing 
+the billion infrastructure software and hardware that being utilized 
+data centers today see exhibit you targeting very big market 
+opportunity see global technology america insight aws disruption spreads 
+software soon services nov this potentially where the next 
+billion company comes from 
+exhibit iaas addressable market 
+source idc gartner infonetics morgan stanley research 
+probably not because infrastructure service leverages economies scale and 
+the scale vendors already exist amazon web services microsoft azure google 
+compute and alibaba have all spent considerable capital already making play for this 
+market opportunity the annual capex spent needed catch with these four are 
+considerable see exhibit 
+exhibit iaas scale game 
+source morgan stanley research note msft mse for total data center related spend goog mse for iaas cloud business baba cloud internet infrastructure 
+exhibit likely iaas winners already defined 
+source company data morgan stanley research 
+what about big data there are two categories technology that address the large 
+potential market opportunities see big data 
+data stores the underlying technologies which store organize and retrieve data 
+applications can transact business processes against analyze 
+user interfaces this how you interact how you use that interface into that back 
+end data 
+potential market data stores 
+data stores our big data blue paper see key secular themes monetizing big 
+any data sep noted expanding selection viable technologies 
+enabling customers select the data management solution that best suits the 
+application analysis being done effectively moving the industry away from what had 
+been one size fits all approach let take look the most recent gartner magic 
+quadrant relational databases see exhibit there are currently vendors within 
+the leader quadrant while this remains very big billion market opportunity 
+the market has opened lot different vendors over the past several years the 
+magic quadrant three years ago looked much cleaner with four core vendors providing 
+basically one type data store relational database and within that oracle 
+dominating the category with distributed systems market share close see exhibit 
+the central reason the relational database was the only reliable scale data store 
+for doing high performance transactional applications the answer any data store 
+question customer had was always going relational database and more times 
+than not was going oracle now the equation has flipped the customer has 
+many viable options for data store and can optimize the data store the type 
+application being built 
+for oracle this what consider death thousand cuts while oracle sustains 
+their current base customers well there just lot more competition for new 
+workloads their core database business including open source public cloud and 
+other legacy vendors like microsoft see oracle corporation see you the spring 
+time moving await clarity catalysts nov 
+oracle faces lot competitive pressure the data store market fragmenting 
+spending and eroding their market share 
+exhibit oracle death thousand cuts 
+source gartner operational database management systems magic quadrant october 
+exhibit gartner operational database management systems magic quadrant 
+source gartner operational database management systems magic quadrant october 
+potential market user interfaces 
+user interfaces single pane glass into the data within user interfaces vendors 
+look bring market single screen view analyze and eventually present 
+information contained within all the data stores company has why could this the 
+next billion company because this pertains the million worldwide 
+information workers spoke about earlier from them drive 
+billion annual revenue company qliktech and tableau are trying come out with 
+these value propositions 
+however are little reticent making high conviction case for these two the 
+blue skies scenario for qliktech tableau solution which can reach all these 
+information workers given product that compelling and easy enough use that 
+everyone could have their desk ideally instead giving presentation 
+powerpoint one could using tableau instead using static excel driven charts 
+there would real time data coming from back end data sources increasing accuracy 
+and efficiency the information workers communications our view the problem 
+with qliktech tableau becoming the next billion company the competitive 
+environment 
+particularly from the incumbent microsoft microsoft power features 
+enhanced self service data preparation data discovery and dashboards with access 
+premises and cloud data compelling price point 
+analytics embedded within the app salesforce sap workday 
+salesforce new analytics tool wave allows users enhanced visibility with 
+their own analytics tools set within the environment where the data resides 
+workday also doing this creating underlying data store enabling 
+customers transactional and analytical types workloads against the same 
+underlying data store the analytics come right alongside the automation 
+business processes sap also trying base all their applications top 
+their own database which analytically oriented data store the same 
+thing push the analytics right line with automation those business 
+processes 
+cloud providers aws google microsoft the cloud providers themselves are 
+all trying create more and more analytical functionality within their big clouds 
+this market that has real opportunity but too much competition really throw 
+out another billion software company 
+potential market internet things 
+let shift the internet things which pulls together lot the big data ideas 
+we been talking about one the core drivers within that the evolution 
+machine learning technologies eventually distill the value out the big data and big 
+compute companies have access see exhibit 
+big data the opportunity side the equation unprecedented amount data has 
+been created from the proliferation sensors our cars refrigerators and cellphones 
+all have sensors that produce bunch data furthermore the digitalization 
+business processes and mobile computing creates even more data however all this 
+data itself doesn really drive any value it what you can with that the 
+opportunity analyzing the large stores data drive insight which makes our 
+business processes and consumer processes more efficient and effective 
+the other side the equation the enabler big compute moore law increasing 
+the capacity within piece silicon public cloud creating the global capacity scale 
+workload elastic basis and grow needed horizontally scaling applications 
+enabling customers engage huge amounts processing power single problem 
+very short notice and only when needed pulling together the opportunity big 
+data and the enabler big compute the mechanism machine learning algorithms 
+running within these compute plants utilizing different techniques find connections 
+and insights out the data coming the optimal solutions that humans couldn find 
+their own there ton insight and value that could potentially come from these 
+machine learning applications 
+the problem terms this actually becoming the next billion company 
+rooted where all this data resides the big public cloud vendors amazon google 
+microsoft have machine learning tool sets where the analysis already being done 
+you look the acquisition history amazon google and microsoft over the past 
+years they bought raft and machine learning technologies they are creating 
+machine learning studios that exist within their cloud environments this the core 
+the problem that discussed earlier the existing big players are going get the 
+lion share the benefits from these innovations similar what were talking 
+about earlier regards their scale 
+exhibit internet things opportunity framework 
+source morgan stanley research 
+where think find the next mega cap 
+until this point we discussed what not going create the next mega cap 
+company where could potentially find that next billion market cap 
+company see three potential opportunities 
+the likeliest candidate saas based apps best positioned vendor crm 
+stretch goal security consolidation best positioned vendor panw 
+get this right we geniuses app development for the masses best 
+positioned vendor team 
+why saas based apps data has gravity 
+application automates the workflows business and business users want all the 
+workflow associated that business process integrated one system and working off 
+single version the data for example salesforce the idea salesforce 
+have all the data and workflows pertaining company end customers and 
+prospects consolidated one platform from the beginning the relationship 
+when sending out marketing emails when sales leads are coming the door when 
+the lead becomes customer and the company needs provide effective customer 
+support all the information why you marketing potential lead how you 
+got the lead become customer the experience that customer has had goes into 
+central data base that will help you create happier customer more leads and more 
+new sales 
+the premise world there existed push and pull between best breed 
+functionality from smaller more innovative firms and the benefits workflow 
+integration and single set data found the broader application suites this friction 
+kept peak market shares for leading application vendors the low mid twenties 
+with saas based applications faster innovation cycles releases per year and 
+easier integration new functionality given single version the code more 
+difficult for best breed vendors sustain differentiation this dynamic has enabled 
+suite vendors like salesforce garner broader partner ecosystems deeper set 
+functionality and higher market share their core market seen their share 
+the sales force automation market see salesforce into the clouds sales 
+cloud apr 
+exhibit power data creates self fulfilling cycle ultimately happier customer 
+source morgan stanley research 
+success centers having the data looking the saas landscape we looking for 
+who has the biggest sets data think the most obvious answer terms who 
+could the next billion market cap company salesforce one hand 
+they already halfway there but even more because they furthest along 
+penetrating very large customer base between sales cloud service cloud and 
+marketing cloud estimate salesforce addresses million business users 
+see salesforce into the clouds service cloud may their platform 
+business represents another large potential opportunity functionality built top 
+the platform could potentially utilized all those million information 
+workers and they doing good job monetizing the sales cloud their initial 
+product that has been the market longest has over market share they can 
+get market share across out the platforms they going that 
+billion revenue company billion market cap company 
+exhibit salesforce potential users cloud 
+source morgan stanley research 
+workday another company with the potential that can get that size pointing 
+really large market the financials offering general ledger covers the entirety 
+the back end financial systems and human capital management applications are 
+used everyone within organization should they garner enough share similar 
+salesforce their respective markets they can that billion 
+annualized revenue company over time however think would take little longer 
+exhibit path annual revenue 
+source thomson reuters morgan stanley research 
+why security consolidation 
+drivers why need the change there more malicious threat environment 
+companies are facing the problem getting harder and not easier solve with 
+expanding surface area vulnerable attack the problem longer just protecting 
+the core data center it not about just building high thick walls keep all the bad 
+guys out and keep the good stuff cloud based applications and mobile phones 
+extend outside the data center with internet things companies now have 
+protect all sorts infrastructure and devices from potentially being hacked the 
+bottom line the billion spending security today still not making safe 
+see cybersecurity rethinking security april companies are still getting 
+hacked daily basis 
+constraints what are the challenges 
+productivity drags security represents tax both terms dollars and the 
+productivity the underlying systems being protected 
+lack human capital there are not enough trained personnel properly 
+monitor and react the security systems currently place 
+false positive problem security systems must err the side missing bad 
+stuff order avoid destroying the integrity underlying systems with false 
+positives 
+how going change more effective security not more security the industry will 
+moving systems that enable more effective security not necessarily more security 
+think this comes the form increased visibility gathering all the 
+information the current state operations from within organization and the 
+threat environment outside the organization pulling together into one data 
+pool and analyzing get enhanced context what going both good and 
+bad 
+more automation when the increased visibility from this data find alerts 
+bad actors the responses should triggered automatically since requiring 
+manual human intervention will prolong the time the system are vulnerable 
+attack and don have the human capital effectively respond 
+one the primary ways achieve both increased visibility and more automation 
+through consolidation customers getting more pieces the puzzle from one vendor 
+who can pull information create automated responses and tie together these actions 
+across all the various devices organization 
+exhibit why security consolidation 
+source morgan stanley research 
+who can potentially win security consolidation full disclaimer we still very far 
+from the point that any single vendor garnering the lion share the overall security 
+budget however our top pick would palo alto networks given what they been 
+able the network security part the equation the network security market 
+about billion out the larger billion total security tam while palo alto 
+networks hasn yet gotten solution for that entire billion they been very 
+effective consolidation functionality within their core network security market when 
+looking for the best consolidator feel it important looking for the most 
+effective fast follower not necessarily the first mover looking for the vendor 
+that can consistently incorporate new functionality their platform seamlessly 
+customers don have look elsewhere for the best breed solution that way when 
+new threat comes new vector needs protected customers keep coming 
+them for more and more the overall solution 
+for palo alto network get very large they need emerge the security platform 
+for their end customers enabling multiple security functionalities apps this how 
+they can derive million per customer from the customers spoke about 
+earlier that point palo alto networks talks about their top customers having 
+spent million with them which evidence that they are able get the right sized 
+customer now the company has broaden their offering point the entire 
+billion security market instead just network security 
+another potential consolidation player would symantec the largest the 
+standalone software companies the security vendor space right now with significant 
+presence within large enterprises symantec natural choice consolidate 
+functionality they protect million corporate end points all the pcs and 
+servers amongst broad set customers they could better organize their product 
+portfolio make integration easier ultimately getting more customers buy more 
+from them they could potentially long term consolidation winner well 
+exhibit panw success network security gives confidence its ability address the broader software security tam 
+source idc company data morgan stanley research 
+why application development for the masses 
+see long tail business processes with more limited user bases which have yet 
+automated packaged applications see exhibit representing large pool 
+potential value creation the smaller user bases for these business process means 
+packaged application vendors are unlikely target this opportunity however 
+vendor could truly make app development easy enough for information workers 
+which there are million automate their own business processes and the 
+components these applications were shareable amongst users drawing users 
+towards fewer vendors very large vendor could supported 
+exhibit long tail business processes yet automated 
+source morgan stanley research 
+where the value unlock it that massive long tail businesses processes that 
+nobody would spend the time create packaged application the processes 
+conduct daily basis that maybe could automated for example there are lot 
+processes and lot work that goes into organizing equity research conference 
+many emails spreadsheets phone calls organize the participants content and 
+marketing the event however highly unlikely that any packaged application 
+vendor going create application just automate how get organized for 
+equity research conferences 
+however they did would find lot value that somebody made that daily 
+process more efficient ideally should able create these efficiencies ourselves 
+using application development tool that easy enough for information workers 
+use that would come from taking software development from the million software 
+developers today the million information workers massively expanding that 
+market opportunity and unlocking that big value pool 
+potential vendor that could that atlassian company that went public 
+january started tool for automating workflows for software developers the 
+company mantra make their workflow engine easy enough use that usage 
+moves out the department into the department the legal team etc atlassian 
+strives become app development tool for the masses salesforce and 
+servicenow are also going after these opportunities 
+again this has lot the components spoken about very big market 
+opportunity all information workers the potential for revolutionary change given 
+very few information workers are doing application development today and 
+potential funnel that demand given the need share those automated workflows 
+across different users much the same way office winnowed down one vendor 
+order effectively share excel word files automated work flows should able 
+effectively shared well whoever can get this right could make really really big 
+company 
+exhibit key unlocking app development bottleneck would transition the million global information workers become software 
+developers 
+source gartner idc morgan stanley research 
+valuation methodology and risks 
+msft based off eps operating margins expand 
+strong eps growth dividend yield and commitment share 
+repurchases drives total return profile and yields eps eps 
+msft trades premium the but inline with its premium total return profile 
+risks weak macro impacting global sales premises cannibalization cloud 
+increased data center investments hurt margins 
+orcl based off eps our applied multiple relatively 
+line with orcl current trading levels our eps orcl trading 
+slight discount the and its large cap peer msft orcl discount justified 
+due lower forward earnings growth compared msft eps growth the low 
+double digits 
+risks include disruptive technologies the data management market rapid 
+migration towards saas based subscription application model hurts near term optics 
+due ratable revenue recognition and strong competition from other secular cloud 
+application vendors 
+sapg licences continue decline while cloud accelerates driving new 
+business growth expect eps growth the high single double digits from 
+onwards sap subscription business accumulates and offsets the licence weakness 
+from the transition forecast eps cagr and given the visibility the 
+business model and the now lower eps growth outlook history believe 
+eps appropriate this below the average multiple since additionally 
+place sales line with peers the company saas business which 
+growing organic line with the growth key peers the combination these 
+target multiples drives our per share 
+risks achieving 
+upside hana cycle drives mid single digit licence growth licence 
+declines cost cutting program not immediately replaced with new hires driving 
+margin expansion 
+downside macro turns putting budgets under pressure slower take for 
+hana and hana cloud subscription transition falters badly received the 
+market 
+amzn valuation derived using sum the parts methodology where 
+value the america and international retail businesses based long term csoi 
+margins and the aws business based comparable peer group set software 
+companies our valuation supported year dcf 
+risks achieving weakness core market retail sales could hurt growth writedowns from struggling investments fire phone could continue margin drag 
+price wars with iaas competitors may lead amazon cut aws prices further while 
+incremental aws investment offsets cuts elsewhere 
+valuation derived from our discounted cash flow valuation and 
+implies adj eps use wacc and terminal growth rate line 
+with other growth oriented companies with limited debt 
+risks achieving facebook generates the vast majority its revenue from 
+advertising deterioration the health the market likely drive negative 
+revisions dilution shareholder value due stock issuances fund employee 
+compensation schemes the efficacy mobile branding platform remains 
+question mark for advertisers and pricing growth critical for thrive over time 
+googl valuation derived from our discounted cash flow valuation and 
+implies adjusted ebitda then deduct the present value 
+the other bets losses arriving our price target use wacc and 
+terminal growth rate line with other growth oriented internet companies 
+risks achieving over the company net advertising revenue comes from 
+search while believe search will continue take share global budgets and 
+google will retain its dominant share growth and markets has slowed 
+improved disclosure around the google inc and other alphabet segments may not 
+decrease the overall investment activity the business deterioration the advertising 
+market particularly vast majority revenue driven advertising negative 
+resolution antitrust probe 
+baba derived from base case dcf value strategic 
+investments and value smf profit stream base case 
+risks achieving slower than expected gmv growth due rising competition 
+greater than expected decline monetization rate margins fail recover 
+subsequent years from the dip integration issues for the numerous acquisitions 
+the company has made 
+rht based off our adj fcf estimate per share plus 
+net cash fcf line with our large cap software coverage group 
+average and line with rht fcf growth profile 
+risks achieving microsoft windows server product cycle further 
+deceleration core linux drivers lack payoff from heavy investments acquired 
+technologies 
+qlik based off fcf assuming discount 
+rate revenue grows cagr operating margins expand 
+from reach yielding fcf fcf growth 
+supports qlik multiple fcf which slight discount 
+the software coverage group average 
+risks achieving rising competition fluctuations could hurt growth 
+exposure european revenues spending slowdown sales 
+execution challenges 
+data based off our modified dcf based fcf 
+discounted our one year forward price using discount rate 
+the fcf multiple line with its new growth profile tableau price target 
+implies sales essentially inline with qlik sales both 
+companies have similar license growth profiles sales discount the 
+mid cap software comp group appropriate given tableau weaker fcf support 
+risks achieving increased competition from better capitalized companies 
+limited focus profitability could lead weaker stock price performance limited 
+product portfolio could expose tableau increased revenue volatility 
+crm based off fcf line with typical historical 
+multiple revenue growth sustains and fcf benefits margins grow 
+yoy fcf growth supports crm multiple fcf line with 
+typical historical multiple yielding forward twelve month share price assuming 
+discount rate this represents sales growth adjusted 
+risks achieving high street expectations increase downside risk salesforce 
+misses investments may pressure cash flow near term while company may 
+reluctant scale back costs over time growth slows may complicate organic 
+growth calculations and raise concerns about core business strength competition 
+from apps vendors and emerging internet platforms orcl sap msft amzn 
+now based off fcf per share plus net cash 
+assuming addition customers quarter throughout while 
+maintaining non mix resulting cagr revenue now trades inline with peers growth adjusted our fcf per share est 
+plus net cash yielding one year forward price 
+risks achieving competition from legacy vendors price and competing 
+saas offerings sales productivity may decline the business grows new markets 
+prove challenging significant downside risk the multiple execution falters 
+wday based off discounted our fcfe inline with 
+the peer group given similar growth rates subscription revenue reaching due 
+cagr customers growth avg revenue per customer and improvement 
+margins from wday trades our fcf 
+estimate discounted back discount rate 
+risks achieving competition from legacy vendors and competing saas 
+offerings faster growth higher investments further slow path profitability 
+financials software does not migrate saas limiting market 
+panw based off fcf multiple relatively 
+line with fcf growth discount rate margins improve 
+through and leverage and growing recurring rev base are assuming fcf 
+rev and discount rate 
+risks achieving slowing firewall refreshes could drive greater than expected 
+impact palo alto top line growth palo alto may see limited traction new 
+product areas such traps and wildfire increasingly competitive environment 
+could necessitate additional spending limiting margin leverage 
+symc based off eps assuming revenues 
+remaining constant for operating margins improve from 
+symantec security trades eps its average long term average 
+ntm this above its recent ntm multiple but line with long term historical 
+risks achieving symantec security may not reach operating margin and revenue 
+growth targets losing market share endpoint security from next generation 
+malware protection vendors additional large acquisitions 
+team based off fcf revenue grows 
+cagr thru and margins rebound our year dcf analysis 
+supports which assumes beta equity risk premium wacc and 
+terminal fcf growth 
+risks achieving customer pause ahead major product update atlassian 
+core jira offering potential need build enterprise sales force penetrate large 
+accounts lack traction with business users while core software market shows 
+signs saturation 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan 
+stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley includes morgan 
+stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and their affiliates 
+necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report melissa 
+gorham sanjit singh keith weiss cfa stan zlotsky cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+the following analyst strategist household member owns securities related derivatives company that she covers recommends 
+morgan stanley research sanjit singh alphabet inc common preferred stock 
+april morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research alphabet inc amazon inc atlassian corporation plc avg technologies box inc facebook inc fireeye inc intuit mindbody 
+inc nuance communications inc opower inc palo alto networks inc qlik technologies inc salesforce sap secureworks corp servicenow 
+inc splunk inc tableau software travelport worldwide limited varonis systems inc veeva systems inc workday workiva inc 
+within the last months morgan stanley managed managed public offering offering securities appfolio inc atlassian corporation 
+plc autodesk fireeye inc godaddy inc instructure inc mindbody inc nuance communications inc inc sabre corp shopify inc 
+technologies holdings inc travelport worldwide limited 
+within the last months morgan stanley has received compensation for investment banking services from alibaba group holding alphabet inc apigee 
+corporation appfolio inc atlassian corporation plc autodesk box inc cdk global inc facebook inc fireeye inc fortinet inc godaddy inc instructure 
+inc intuit mindbody inc nuance communications inc oracle corporation qlik technologies inc inc sabre corp sap secureworks corp 
+shopify inc splunk inc technologies holdings inc travelport worldwide limited veeva systems inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from adobe systems akamai 
+technologies inc alibaba group holding alphabet inc amazon inc apigee corporation appfolio inc atlassian corporation plc autodesk avg 
+technologies barracuda networks inc bazaarvoice inc box inc cdk global inc check point software technologies ltd citrix systems inc cvent 
+descartes systems group inc enernoc inc facebook inc fireeye inc fortinet inc godaddy inc hubspot inc imperva inc instructure inc intuit jive 
+software inc microsoft mindbody inc netsuite new relic inc nuance communications inc opower inc oracle corporation palo alto networks inc 
+proofpoint inc qlik technologies inc inc red hat inc sabre corp salesforce sap servicenow inc shopify inc splunk inc 
+technologies holdings inc symantec tableau software travelport worldwide limited varonis systems inc veeva systems inc vmware inc workday 
+workiva inc zendesk inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from adobe 
+systems akamai technologies inc alibaba group holding alphabet inc amazon inc autodesk check point software technologies ltd citrix 
+systems inc facebook inc fortinet inc intuit microsoft nuance communications inc oracle corporation red hat inc sabre corp salesforce 
+sap technologies holdings inc symantec travelport worldwide limited 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company adobe systems akamai technologies inc alibaba group holding alphabet inc amazon inc apigee corporation appfolio 
+inc atlassian corporation plc autodesk avg technologies barracuda networks inc bazaarvoice inc box inc cdk global inc check point software 
+technologies ltd citrix systems inc cvent descartes systems group inc enernoc inc facebook inc fireeye inc fortinet inc godaddy inc hubspot 
+inc imperva inc instructure inc intuit jive software inc microsoft mindbody inc netsuite new relic inc nuance communications inc opower inc 
+oracle corporation palo alto networks inc proofpoint inc qlik technologies inc inc red hat inc sabre corp salesforce sap 
+servicenow inc shopify inc splunk inc technologies holdings inc symantec tableau software travelport worldwide limited varonis systems 
+inc veeva systems inc vmware inc workday workiva inc zendesk inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company adobe systems akamai technologies inc alibaba 
+group holding alphabet inc amazon inc autodesk cdk global inc check point software technologies ltd citrix systems inc enernoc inc 
+facebook inc fireeye inc fortinet inc godaddy inc intuit microsoft nuance communications inc oracle corporation red hat inc sabre corp 
+salesforce sap servicenow inc technologies holdings inc symantec travelport worldwide limited workday 
+employee director consultant morgan stanley director facebook inc workiva inc this person not research analyst member 
+research analyst household 
+morgan stanley llc makes market the securities adobe systems akamai technologies inc alibaba group holding alphabet inc 
+amazon inc apigee corporation appfolio inc atlassian corporation plc autodesk avg technologies barracuda networks inc bazaarvoice inc box 
+inc cdk global inc check point software technologies ltd citrix systems inc cvent descartes systems group inc enernoc inc facebook inc fireeye 
+inc fortinet inc godaddy inc hubspot inc imperva inc instructure inc intuit jive software inc microsoft mindbody inc netsuite new relic inc 
+nuance communications inc opower inc oracle corporation palo alto networks inc proofpoint inc qlik technologies inc inc red hat inc 
+sabre corp salesforce sap secureworks corp servicenow inc shopify inc splunk inc technologies holdings inc symantec tableau 
+software travelport worldwide limited varonis systems inc veeva systems inc vmware inc workday workiva inc zendesk inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+april 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+count 
+total 
+count 
+total 
+ibc 
+rating 
+category 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems alibaba group holding 
+alphabet inc amazon inc autodesk bazaarvoice inc cdk global inc citrix systems inc facebook inc intuit microsoft netsuite nuance 
+communications inc oracle corporation proofpoint inc red hat inc sap symantec 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers hong 
+kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities hong 
+kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and bank morgan stanley hong kong branch 
+singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte ltd 
+registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and bank morgan stanley singapore branch 
+registration number australia wholesale clients within the meaning the australian corporations act morgan stanley australia 
+limited holder australian financial services license which accepts responsibility for its contents australia 
+wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents korea morgan stanley 
+international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia indonesia canada 
+morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley bank 
+frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage software 
+company ticker 
+rating 
+price 
+brian essex cfa 
+appfolio inc appf 
+cdk global inc cdk 
+descartes systems group inc dsgx 
+enernoc inc enoc 
+godaddy inc gddy 
+instructure inc inst 
+mindbody inc 
+sabre corp sabr 
+shopify inc shop 
+technologies holdings inc ssnc 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+qlik technologies inc qlik 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+splunk inc splk 
+symantec symc 
+tableau software data 
+vmware inc vmw 
+workday wday 
+melissa gorham 
+avg technologies avg 
+barracuda networks inc cuda 
+box inc box 
+fireeye inc feye 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+inc rpd 
+secureworks corp scwx 
+varonis systems inc vrns 
+sanjit singh 
+apigee corporation apic 
+atlassian corporation plc team 
+new relic inc newr 
+nuance communications inc nuan 
+stan zlotsky cfa 
+bazaarvoice inc 
+cvent cvt 
+hubspot inc hubs 
+jive software inc jive 
+netsuite 
+opower inc opwr 
+veeva systems inc veev 
+workiva inc 
+zendesk inc zen 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

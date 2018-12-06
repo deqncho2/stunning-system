@@ -1,0 +1,2824 @@
+march gmt 
+global technology 
+public cloud what worth 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment 
+decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions 
+communications with subject company public appearances and trading securities held research analyst account 
+contributors 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley llc 
+katy huberty cfa 
+brian nowak cfa 
+keith weiss cfa 
+equity analyst 
+equity analyst 
+equity analyst 
+kathryn huberty morganstanley 
+brian nowak morganstanley 
+keith weiss morganstanley 
+morgan stanley asia limited 
+morgan stanley international plc 
+grace chen 
+adam wood 
+equity analyst 
+equity analyst 
+grace chen morganstanley 
+adam wood morganstanley 
+contents 
+executive summary 
+valuation what worth 
+inflection the pace the cloud 
+revenue growth and margin maturity 
+company takeaways 
+appendix 
+risk rewards 
+global technology 
+public cloud what worth 
+analysis cloud businesses implies additional upside for 
+industry view 
+ibm which remains undervalued other cloud stocks are pricing 
+cautious 
+typical adoption curve but bull case envisions cloud foundational 
+technology like electricity this suggests upside keeps leaders amzn msft 
+baba 
+projecting typical technology adoption cycle for public cloud suggests most current valuations are fair our detailed framework analyzing the growth and profitability trends the cloud businesses leaders 
+like amazon and microsoft leads conclude that investors are forecasting and valuing their public cloud segments line with the typical 
+technology adoption cycle our base case however ibm exception 
+ibm cloud undervalued even base case raising ibm 
+transforming cloud platform expect its public cloud 
+business grow cagr with gross and operating margins expanding industry average this may prove conservative cognitive services like watson and blockchain deliver but even 
+this base case shows that core ibm non cloud trading 
+sales below ibm year historical trough apply more 
+appropriate sales line with peer ibm historical pre cloud 
+average which drives upside and our base case valuation 
+our report ibm raising price target undervalued cloud opportunity raise our price target and see shares trading fcf 
+financing receivables the back this analysis 
+more bullish view public cloud suggests broader upside across 
+cloud vendors public cloud transformational technology like 
+electricity usage broadens and workload growth accelerates our bull 
+exhibit public cloud leaders already price typical 
+technology adoption cycle with the exception ibm where even 
+our base case cloud forecasts are not reflected 
+upside stock price cloud valuation scenarios 
+upside base 
+upside bull 
+sap 
+googl 
+msft 
+amzn 
+orcl 
+baba 
+ibm 
+how did value public cloud instead the usual sales multiples created company specific models incorporating saas paas 
+iaas revenues expenses and capital requirements through 
+yield cloud fcf for the top cloud vendors our base case for the market 
+assumes classic drop off growth after adoption while our bull 
+case includes optionality around accelerating workload growth 
+applied standard set growth deceleration margin improvement 
+and capital requirement assumptions and beyond resulting full dcf valuations also compared the implied non cloud valuation for each company its pre cloud average and peer 
+multiples our company specific valuation conclusions imply upside for 
+ibm and alibaba our base case and for nearly all cloud providers 
+our bull case 
+source company data morgan stanley research note upside reflects scenarios this analysis not 
+our actual price targets 
+case implying cloud stocks are widely undervalued today this optionality keeps bullish cloud leaders amzn and msft the and 
+baba china two signposts support confidence this bull case 
+markets with the highest public cloud penetration date like salesforce automation seen close inflation the forecasted 
+market opportunities with the emergence machine learning 
+techniques public cloud environments now facilitate the automation 
+entirely new areas work like image recognition natural language 
+processing and decision making public utility electricity represents trillion market globally multiples our plus billion 
+base case cloud market forecast 
+cloud has reached the point return with price competition 
+now the bear case public cloud merely amounts outsourcing 
+existing infrastructure spend pricing will intensify and pressure margins with their enterprise value attributable public 
+cloud amzn and msft would most risk this scenario however 
+given the developments thus far including continuous mix shift 
+towards higher value solutions assign the bear case low probability this point 
+executive summary 
+investors value public cloud businesses typical technology adoption cycle this global insight 
+report presents valuation analysis looking understand what type growth and profitability investors 
+are pricing for the major public cloud vendors our detailed framework for analyzing the public cloud 
+market and the cloud businesses amazon microsoft alphabet ibm oracle sap and alibaba leads 
+the conclusion investors are forecasting and valuing the public cloud segments these business line 
+with typical technology adoption cycle current valuations largely align with our base case cloud dcf 
+valuations where assume significant drop off growth after reaching market penetration 
+typical curve adoption pattern line with declines have observed the server virtualization cycle 
+the implied non cloud valuations are mostly line with company specific historical sales multiple 
+averages from before cloud businesses were priced into valuation this suggests investors are 
+pricing relatively sober view the public cloud opportunity with one exception 
+investors well undervalue our forecasts for ibm cloud busi 
+applications analogous electricity which started means for 
+ness even given our base case market view ibm transforming 
+replacing steam engines factories and candles home this foun 
+cognitive and cloud platform through investments largely place 
+dational platform drove innovative new use cases and new technolo 
+today forecast billion public cloud business ibm growing 
+gies which transformed business and consumer processes our base 
+cagr thru line with the industry with gross and 
+case suggests billion market opportunity for public cloud 
+operating margins roughly expanding industry average 
+today growing billion which compares 
+our detailed discounted cash flow analysis drives cloud 
+trillion global market for electricity today 
+billion leaving ibm core trading sales below the 
+company historical trough over the last years despite improving 
+stalling new form data center outsourcing represents 
+declines and attractive margins applying more appropriate 
+the bear case alternatively failure companies adopt higher 
+sales line with peer and ibm historical pre cloud average 
+level functionalities security breach major data center failure 
+drives upside our base case and our bull 
+could cause public cloud growth stall such bear case scenario 
+case result this analysis raise our 
+would expect growth the public cloud stall and top out 
+billion market similar the business processing and out 
+think public cloud can more foundational our bull case 
+sourcing market today where penetration stabilized total 
+scenario see the opportunity for public cloud become global 
+services spend the focus this report however our base and 
+utility foundational technology for broadening set work 
+bull cases 
+public cloud driving much broader implementation existing 
+application workloads and enabling the creation new types 
+morgan stanley research 
+what does the bull case look like 
+global public cloud utility emerges 
+our bull case lays out scenario where 
+public cloud different from prior 
+technology adoption trends the lower 
+price and lower barriers entry 
+compute and storage resources 
+broadens out the use existing 
+application workloads and perhaps 
+more interestingly spurs accelerating 
+growth new workloads see two 
+scenarios where garner increased 
+confidence this more expansive view 
+the public cloud opportunity 
+scenario already seen 
+significant opportunity expansion 
+markets where public cloud has 
+penetrated most deeply one took 
+idc forecast the sales force 
+automation sfa market and continued 
+the forecasted trend line growth through 
+predicted market just over 
+billion salesforce was 
+million upstart the sfa market 
+with less that subscribers 
+bringing market easy use yet powerful solutions with 
+faster implementations and lower upfront costs 
+salesforce not only ramped represent the 
+sfa market they fundamentally expanded the market 
+salesforce ended billion revenue run 
+rate sales cloud sfa alone out total billion run 
+rate public cloud business and helped push the overall 
+sfa market billion almost inflation from 
+expectations 
+scenario public cloud enabling the automation 
+new areas work via machine learning public cloud 
+environments are proving the staging grounds where 
+vast stores data come together with large amounts 
+processing power and the new methodologies 
+programming enable new capabilities for digital 
+applications these new capabilities create the building 
+blocks for whole new classes applications technologies 
+like autonomous vehicles real time translation virtual 
+personal assistants the fundamental nature these new 
+capabilities very broad applicability likely spurs 
+acceleration workload growth 
+exhibit 
+see most upside potential cloud valuation with ibm baba our base case amzn and msft become better positioned our bull case 
+source morgan stanley research thomson reuters close prices 
+averages and discount peer group trading multi 
+key valuation takeaways 
+ples suggesting significant undervaluation these 
+companies our bull case cloud scenario plays out 
+valued the top cloud businesses using three methodologies 
+multiple based valuation applying multiple 
+base case dcf bull case dcf and sales multiple based 
+cloud revenues appears reasonable with average 
+valuation analyzing both the cloud valuations and the implied 
+growth sales implies sales 
+non cloud valuations for each company are able gain insight 
+growth multiple cloud revenue which line with the 
+into the underlying market assumptions cloud valuations today 
+growth adjusted trading multiple the broader saas 
+and draw several conclusions relative valuation these busi 
+space today our sales multiple based valuation the 
+nesses 
+biggest clouds today are the most valuable clouds 
+base case dcf conservative but reasonable our base 
+note valuation the base bull case prices this report reflect the 
+case dcf yields valuations higher than the revenue 
+implied company valuation from our cloud dcf and non cloud valua 
+multiple based valuation backing out cloud valuation from 
+tion methodology this analysis uses standard set assumptions 
+total company enterprise value implies non cloud sales 
+across the companies our published risk reward pages included 
+multiples that are largely line with company specific his 
+the end this report reflect our current view the company specific 
+torical valuations 
+base bear bull price targets 
+bull case dcf higher cloud valuation base case 
+our bull case dcf assumes prolonged growth 
+even after reaching industry penetration this 
+key company takeaways 
+results cloud valuations higher than base case dcf 
+valuations average the implied non cloud sales 
+microsoft value the base microsoft still has base 
+multiples are too cheap discount historical 
+premises commercial office users majority which are 
+morgan stanley research 
+likely transition over the next years our estimate 
+innovating and can grow such blockchain for mainframe cogni 
+this vast installed base coupled with pricing uplift when cus 
+tive for power redesigned storage for flash and for analytics 
+tomers transition see microsoft microsoft ready 
+which expect help stabilize revenues the core business 
+bring the bottom line think feb and high 
+saas margins that drive the majority free cash flow sup 
+oracle when apply historical pre cloud multiples the 
+porting our microsoft cloud valuation while expect azure 
+implied non cloud revenues from oracle base case cloud valua 
+grow rapidly over the next several years still assume that ama 
+tion see few points upside from current orcl prices how 
+zon aws iaas paas revenues are larger than azure reve 
+ever oracle non cloud revenues are comprised declining soft 
+nues driving home the point that microsoft high 
+ware license revenue and declining hardware revenue somewhat 
+margin office franchise making the difference cloud valuations 
+offset relatively stable and sizeable updates and support reve 
+microsoft base case likely conservative the historical sales 
+nues depending the pace oracle cloud transition think 
+multiple that apply non cloud revenue drive our 
+that discount oracle historical multiple should applied 
+implied stock prices the base and bull scenarios from 
+non cloud revenues given the emphasis the hardware busi 
+time when microsoft multiples were compressed trading 
+ness and transition cloud the software business when con 
+just forward eps the and orcl addi 
+sidering the declining non cloud business oracle compared 
+tionally while non cloud revenues for microsoft include the 
+aws gcp where all business net new discounted multi 
+declining premises office revenue that partially transitioning 
+ple non cloud revenue would suggest orcl fairly priced 
+the cloud also composed several stable low single digit 
+around 
+growth and high gross margin businesses windows commercial 
+server products well relatively higher growth and improv 
+sap sap has traditionally been premise application soft 
+ing margin businesses linkedin bing enterprise services gam 
+ware company however the move the cloud has added full 
+ing and surface because microsoft outsized exposure the 
+set options for customers from saas successfactors ariba 
+cloud public cloud growth sustains per our bull case micro 
+concur paas sap cloud platform and iaas sap hana enter 
+soft cloud valuation increases driving upside 
+prise cloud hec investor debate has centred around how canni 
+msft stock from current levels 
+balistic sap shift cloud would and how much operating 
+margins would have fall these risks could suggest sap should 
+amazon amazon aws driving and benefiting from accelerat 
+trading below its historic sales average excluding our 
+ing public cloud adoption and see aws well positioned 
+base case cloud business valuation however sap now has major 
+continue capture share the market workloads increasingly 
+product cycle with its hana offering and expect this 
+migrate the cloud while our aws base case cloud dcf implies 
+adopted across the premise hybrid and public cloud busi 
+the market fairly valuing amazon cloud business our aws bull 
+nesses estimate that this opportunity large enough keep 
+case scenario driven faster topline growth and higher free 
+premise licences flat growing the short mid term and 
+cash flow conversion suggests undervaluation aws given cur 
+with maintenance revenues growing mid single digit see sap 
+rent market prices and implies upside our base case 
+non cloud business achieving low mid single digit growth 
+such given aws outsized exposure and leading position the 
+also expect see good operating leverage the premise busi 
+public cloud market our bull case plays out see aws one 
+ness with that profile lower growth but more margin expansion 
+the top beneficiaries and undervalued within amazon 
+think reasonable for sap non cloud business trade 
+line with ahead the historic sales multiple would also 
+ibm while ibm positions itself leader hybrid cloud consist 
+note that sap offers one the more significant upside levels 
+ing both public and private cloud focus only the public 
+this group the cloud bull case comes fruition with the non 
+cloud portion this analysis our base case cloud dcf implies the 
+cloud business trading historically 
+non cloud business trades roughly half turn discount the 
+company historical pre cloud multiple reflecting the largest dis 
+alphabet detailed reasons are incrementally positive 
+count the group and upside our base case valuation 
+google cloud are marginally more positive alphabet 
+recognize that ibm non cloud revenues include declining legacy 
+ability scale its cloud business gcp given its budding large 
+businesses but expect declines stabilize the pool core non 
+enterprise traction particular with companies that compete 
+cloud revenues becomes smaller segment additionally ibm 
+with amazon its machine learning and search advantages and 
+recent analyst day highlighted areas the legacy business that are 
+its own focus innovation and new products most recently 
+cloud spanner maps new security offerings and expanding 
+suite offerings are encouraged gcp progress but note 
+that our cloud base and bull cases implies gcp already being 
+fairly valued the market part due the fact that the 
+strength alphabet existing core advertising revenue 
+business makes difficult for the cloud business move its total 
+enterprise value until hear more sustained progress and cio 
+budget shifts 
+alibaba view alibaba emerging giant china given its 
+public cloud business leadership china public cloud 
+sales estimate the analysis this report supports 
+our view that alibaba cloud business undervalued the market both our cloud base and bull case suggest upside current 
+share prices and respectively also see the information security concerns tailwind for alibaba develop public 
+cloud business china even though its technology may still 
+behind the global leaders additionally highlight the public 
+cloud market still nascent china which suggests long runway 
+for growth revenues from china public cloud market should 
+reach per idc forecast making merely 
+the global market curved low adoption currently therefore 
+our assumptions here could still conservative apply consistent assumptions because the growth trajectory china 
+could different from other leading players the public cloud 
+market china just the beginning and the cost structure 
+could different the majority alicloud datacenters are 
+china even though expanding its global footprint maintain 
+our positive view alibaba 
+morgan stanley research 
+valuation what worth 
+market assumptions underlying cloud valuations appear conservative our valuation analysis suggests investors are taking relatively sober view the public cloud market with cloud valuations likely 
+the range our relatively conservative multiple based valuation discount cloud revenue 
+and our base case dcf valuation which assumes significant drop off growth after reaching 
+penetration line with declines the server virtualization market these two methodologies imply 
+non cloud valuations that are mostly line with company specific historical sales multiple averages 
+from before believe cloud businesses were priced into valuation however any upside 
+our conservative base case cloud dcf assumptions would suggest undervaluation these large caps 
+non cloud businesses given current market prices said another way think the market could undervaluing the cloud opportunity the extent that the durability public cloud growth more robust than 
+that the server virtualization cycle due any combination the cost savings customers from basic 
+cloud economics the union several secular themes mobile iot big data driving sustainable 
+growth public cloud workloads and more prolonged growth dollars accruing public cloud vendors 
+upside our base case assumptions supports upside overall company valuations particular think the risk reward ibm msft 
+and amzn look attractive see company takeaways 
+exhibit 
+exhibit 
+ibm appears most undervalued relative public cloud players 
+per share basis ibm has the most upside potential our bull 
+our base case while outsized cloud exposure gives msft and amzn 
+case followed msft 
+upside bull 
+the most upside potential our bull case relative current stock 
+ibm 
+prices 
+baba 
+sap 
+amzn 
+orcl 
+source company data morgan stanley research baba historical average multiple reflects jan jan 
+implied non cloud sales multiple 
+googl 
+amzn 
+bull case cloud dcf 
+cloud bull 
+sap 
+base case cloud dcf 
+cloud base 
+historical avg 
+ntm sales 
+baba 
+market value 
+msft 
+orcl 
+ibm 
+googl 
+msft 
+value per share 
+source company data morgan stanley research 
+note calculated adding the cloud our base bull case the non cloud its historical 
+sales multiple close prices 
+exhibit 
+exhibit 
+bull case assumes sustained public cloud growth even after penetra 
+sustained growth bull case cloud revenue beyond drives 
+tion when server virtualization growth began meaningfully decelerate 
+upside base case valuations 
+enterprise value cloud 
+summary 
+public cloud penetration 
+public cloud growth base case 
+sap 
+googl 
+ibm 
+baba 
+cloud multiple based 
+msft 
+cloud base 
+cloud bull 
+orcl 
+total 
+amzn 
+public cloud growth bull case 
+source morgan stanley research penetration reflects base case 
+source company data idc morgan stanley research close prices 
+key valuation takeaways valued the top cloud businesses 
+bull case dcf detailed what does the bull case look like 
+using three methodologies base case dcf bull case dcf and 
+within the executive summary our bull case dcf assumes pro 
+sales multiple based valuation analyzing both the cloud 
+longed growth even after reaching penetration 
+valuations and the implied non cloud valuations for each company 
+this results cloud valuations higher than base 
+are able gain insight into the underlying market assumptions 
+case dcf valuations average the implied non cloud 
+cloud valuations today and draw several conclusions relative 
+sales multiples are too cheap discount historical 
+valuation these businesses 
+averages and discount peer group trading multiples 
+suggesting significant undervaluation these companies 
+base case dcf our base case dcf yields valuations 
+our bull case cloud scenario plays out 
+higher than the revenue multiple based valuation detailed 
+the valuation methodologies and assumptions section 
+multiple based valuation applying multiple 
+drive free cash flow for each cloud based number growth 
+cloud revenues appears reasonable with upside public cloud 
+margin and reinvestment assumptions because standard set 
+growth more sustainable than growth previous technology 
+assumptions were applied each company after the base 
+cycles with average growth sales 
+case dcf does not result material relative differences between 
+implies sales growth multiple cloud revenue which 
+cloud valuations compared the multiple based method backing 
+line with the growth adjusted trading multiple the 
+out cloud valuation from total company enterprise value implies 
+broader saas space today our sales multiple based valua 
+non cloud sales multiples that are also largely line with 
+tion the biggest clouds today are the most valuable clouds 
+company specific historical valuations however see non 
+with the inclusion and the transition the vast micro 
+cloud multiples priced discount peer group multiples this 
+soft office base the cloud over the next several years microsoft 
+seems justified given company peer groups are generally made 
+owns the most valuable cloud under the multiple based valuation 
+other companies that include higher multiple cloud businesses 
+amazon aws trails close behind supported 
+while the implied non cloud multiples inherently exclude cloud 
+aws early start and dominant market share iaas non cloud 
+valuations are mostly line with company specific historical 
+sales averages from before believe cloud businesses were priced into valuation 
+morgan stanley research 
+inflection the pace cloud adoption 
+public cloud set accelerate post adoption our recent survey work suggests public cloud nearing 
+penetration workloads and adoption set accelerate have observed that when structural 
+trend technology hits penetration adoption tends accelerate until reaches penetration 
+exhibit believe this function customers becoming more aware and comfortable with the technology additionally initial hurdles like network speed the case smartphones and security the case cloud 
+tend addressed the early years adoption our october value added reseller var survey 
+vars noted growth public cloud accelerating despite starting from larger base exhibit believe 
+that greater number partnerships and broader portfolio offerings are key drivers for customers 
+becoming more aware and comfortable with the technology drive adoption additionally our chief investment officer cio survey work suggests public cloud adoption increased workloads set accelerate exiting and expected reach exhibit reflecting similar inflection adoption other technologies 
+exhibit 
+curve twenty percent represents historically important penetration level technology 
+notebook penetration pcs 
+smartphone penetration handsets 
+workloads public cloud 
+penetration server revenue 
+digital penetration music sales 
+inflection 
+point exiting 
+source idc gartner cio survey morgan stanley research 
+exhibit 
+exhibit 
+public cloud demand accelerating 
+cios expect adoption 
+application workloads location 
+premise 
+location 
+managed hosting 
+jan 
+source morgan stanley cio survey alphawise 
+exhibit 
+public cloud address market 
+microsoft alphabet ibm oracle sap and alibaba our market analy 
+public cloud penetration 
+sis also includes servicenow workday and salesforce the lat 
+ter companies are not included the dcf valuation section given the 
+total business largely public cloud with non cloud representing 
+public cloud providers suggests the public cloud market 
+today which penetration implies addressable market spending support enterprise workloads our aggregated 
+forecast the largest public cloud providers implies public cloud 
+revenue grows cagr revenue and 
+reaches penetration public cloud addressable mar 
+addressable market our forecast addition amazon 
+immaterial portion our bottom analysis the these largest 
+end 
+acceleration drives public cloud penetration 
+end 
+source alphawise morgan stanley oct var survey 
+public cloud saas paas iaas 
+public cloud 
+revenue 
+penetration 
+public cloud 
+addressable 
+market 
+penetration 
+source morgan stanley research 
+ket exhibit additionally this roughly line with penetration suggested our january cio survey exhibit public 
+develop cloud strategy save costs after enterprises move 
+cloud revenue exceeds and penetration surpasses 
+workloads the public cloud and save infrastructure 
+believe growth will slow the transition public cloud begins 
+costs public cloud follows other technology trends would 
+mature similar the deceleration seen other technology trends 
+expect customers will reduce the incremental spend their public 
+cloud strategy this deceleration growth could happen early 
+but after penetration expect growth decelerate 
+given cios are targeting public cloud penetration 
+while structural trend technology historically accelerates post 
+according our proprietary cio survey exhibit our bull case 
+penetration adoption tends decelerate after reaching 
+lay out scenario where the cost and technological efficiencies 
+penetration exhibit similar the curve other technolo 
+public cloud drives customers increase consumption resulting 
+gies expect public cloud growth reach material penetration 
+increased demand for public cloud and sustained growth exhibit 
+rate which growth stabilizes lower level exhibit our con 
+versations with resellers suggest that customers primary reason 
+morgan stanley research 
+exhibit 
+exhibit 
+curve reflects acceleration post penetration deceleration post 
+public cloud growth slows exiting our base case 
+public cloud adoption over time workloads 
+expect acceleration public cloud 
+slow adoption matures 
+acceleration post 
+penetration 
+assumes trajectory virtualization 
+infrastrcuture growth post 
+penetration 
+est 
+post 
+public cloud penetration 
+public cloud revenue growth 
+source morgan stanley research 
+source morgan stanley cio survey alphawise 
+public cloud base case fade curve public cloud growth 
+exhibit 
+line with the deceleration virtualization spend similar pene 
+server virtualization growth and penetration 
+tration rates server virtualization infrastructure where enterprises 
+have similar goal save dollars their budgets experienced 
+rapid slowdown growth after material amount workloads 
+adoption growth server virtualization infrastructure stabilized 
+migrated platform that saves money shortly after reaching 
+the mid low single digits exhibit importantly the spending 
+the underlying addressable market began decline the back 
+achieving greater efficiencies enterprise spend our base case 
+expect the deceleration public cloud growth closely resem 
+server virtualization penetration 
+ble that server virtualization infrastructure growth similar rates 
+penetration our bottom analysis the top public cloud 
+server virtualization infrastructure growth 
+source gartner idc alphawise morgan stanley research 
+providers suggests public cloud grows cagr 
+trend server virtualization infrastructure post adoption 
+incremental profits 
+revenue growth 
+ments companies achieve greater efficiency with public cloud 
+spend relative legacy spending low single digit growth public 
+cloud revenue along with decline spend workload environments drives penetration reach this largely 
+line with server virtualization penetration and slightly lower than 
+the high penetration servers total enterprise server 
+shipments today 
+ntap 
+expect spend less supporting workload environ 
+emc 
+spend support enterprise workloads decline post 
+legacy 
+transition public cloud has deflationary impact which drives the 
+aws 
+the technology exhibit our base case forecast assumes the 
+hpe hpq 
+aws deflationary versus legacy hardware profits 
+orcl 
+the rate growth declines line with the historical 
+ibm 
+exhibit 
+deflationary impact 
+however our base case reflects growth slows cagr 
+source thomsonreuters morgan stanley research note ibm exited businesses microelectronics and customer care bpo combined contributed revenue with pre tax losses 
+about emc revenue growth benefited from continued vmw expansion and acquisitions including 
+xtremio pivotal airwatch nicira 
+public cloud bull case higher growth for longer driven 
+exhibit 
+expanding tam more bullish scenario see the opportunity 
+public cloud grows exiting bull case base case 
+for public cloud become utility which drives much broader imple 
+mentation analogous electricity over the long term according 
+the energy information administration sales electricity the 
+totaled source table meanwhile the imf estimates 
+this implies global market over the long term detailed 
+what does the bull case look like within the executive sum 
+the represents global gdp assuming the also represents world electricity sales line with share gdp 
+public cloud penetration 
+that the addressable market public cloud expands and drives 
+public cloud growth bull case 
+mary believe the largest source upside our base case 
+higher growth public cloud takes wallet share from other areas 
+public cloud growth base case 
+source morgan stanley research penetration reflects base case 
+business spend for example public cloud offerings that allow for 
+reduction human capital and savings equipment and infrastructure would expand the addressable market allowing increased 
+spend accrue additional public cloud solutions instead this 
+scenario forecast the addressable market continues grow 
+per year meanwhile penetration continues reach this 
+drives public cloud revenue sustain double digit growth exiting 
+our bull case our bottom analysis the top public 
+cloud providers suggests public cloud slows from cagr exhibit relative our base case 
+assumption slowing 
+public cloud bear case believe public cloud adoption has 
+crossed the point return which limits the bear case however 
+security breach major data center failure could cause public 
+cloud growth stall this scenario expect growth stall and 
+top out market similar the business processing and 
+outsourcing market today where penetration stabilized 
+total services spend while there outsized risk security 
+breach with public cloud recognize premise infrastructure 
+not immune security threat highlighted notable security 
+breaches target and home depot overall see limited probability industrywide bear case playing out and expect bear case 
+driven company specific factors rather than industry factors 
+loss market share and more aggressive pricing action could limit 
+our company specific revenue and gross margin forecasts where 
+model gross margin average expands points from 
+the back scaling revenue driving leverage net see the most 
+downside amazon and microsoft bear case scenario given public cloud drives roughly total company enterprise value 
+morgan stanley research 
+revenue growth and margin maturity 
+the following section analyze the top global public cloud companies and assess their relative 
+revenue size and growth current gross and operating margins and where think margins can reach over 
+time our market analysis includes servicenow workday and salesforce largely public cloud 
+addition the stocks our dcf valuation mixed cloud and non cloud businesses 
+estimate microsoft cloud the biggest revenue 
+exhibit 
+followed amazon aws and salesforce 
+microsoft and amazon are the largest cloud players today 
+note that our microsoft cloud estimate includes consumer and 
+cloud revenue 
+estimates 
+the commercial cloud which includes azure office and dynamics 
+total cloud revenue 
+cloud revenue total 
+and alibaba alicloud generated and cloud revenue 
+baba 
+wday 
+now 
+ibm 
+googl 
+looking ahead are forecasting these cloud players grow revenue anywhere from servicenow alibaba from 
+sap 
+crm 
+holding evolution game changer december 
+amzn 
+msft 
+respectively for more detail baba see alibaba group 
+orcl 
+among the more nascent cloud players estimate alphabet gcp 
+source company data morgan stanley research 
+outpacing the growth the overall market our base case 
+growth 
+exhibit 
+wide range growth across cloud players from servicenow 
+note that while estimate alibaba and alphabet are among the 
+alibaba 
+smallest cloud players now see them growing faster than peers 
+total cloud revenue growth cagr 
+estimate 
+over the next years and modeling revenue cagr 
+and respectively that said despite having the largest 
+revenue bases still see microsoft and amazon growing 
+exiting our view workloads shift the cloud microsoft 
+vey cio survey cios expect stable growth european 
+now 
+and amazon will the biggest beneficiaries and our latest cio sur 
+crm 
+source company data morgan stanley research 
+all see microsoft and amazon remaining the two 
+largest cloud players with and cloud revenue 
+respectively alibaba should the largest share gainer growing 
+cloud revenue from and becoming the fifth 
+largest player from alphabet while still the 
+smallest player still expected more than quadruple the size 
+its cloud business growing revenue from 
+sap 
+wday 
+amzn 
+orcl 
+ibm 
+msft 
+budgets 
+googl 
+well positioned continue gain incremental percentage 
+baba 
+expectations more volatile jan indicates both players are 
+exhibit 
+exhibit 
+microsoft and amazon should remain the two largest players 
+microsoft amazon drive cloud industry revenue growth 
+over next years 
+cloud revenue 
+estimates 
+cloud revenue total 
+now 
+wday 
+sap 
+googl 
+ibm 
+baba 
+orcl 
+crm 
+amzn 
+msft 
+contribution industry growth 
+total cloud revenue 
+now 
+wday 
+msft 
+source company data morgan stanley research 
+amzn 
+baba 
+crm 
+orcl 
+ibm 
+goog 
+sap 
+source company data morgan stanley research 
+shown below our forecast implies microsoft and amazon will 
+exhibit 
+drive the forward growth the public cloud both players are 
+microsoft and amazon contribute the most industry growth 
+despite slower topline 
+respectively for perspective despite its industry leading 
+growth rate baba only expected drive cloud market 
+growth 
+expected contribute and cloud industry growth from 
+contrib growth 
+revenue cagr 
+ranked contrib growth 
+bet alibaba please see company takeaways for company specific assumptions gross margin 
+amzn 
+msft 
+microsoft ibm gross margins followed alpha 
+and oracle among the other cloud players see amazon 
+highest gross margins the group followed sap 
+software players workday servicenow and salesforce have the 
+what public cloud gross margins look like today our math 
+baba 
+crm 
+orcl 
+ibm 
+goog 
+sap 
+now 
+wday 
+source company data morgan stanley research 
+exhibit 
+cloud gross margins range from alphabet alibaba 
+workday 
+gross profit gross margin 
+cloud gross profit 
+estimates 
+cloud gross margin 
+baba 
+sap 
+crm 
+amzn 
+msft 
+googl 
+now 
+wday 
+ibm 
+orcl 
+source company data morgan stanley research 
+morgan stanley research 
+exhibit 
+exhibit 
+cloud business mix 
+higher mix saas tends carry companies gross margins higher 
+iaas paas saas cloud mix 
+estimates 
+gross margin iaas paas mix 
+baba 
+googl 
+iaas 
+iaas paas mix 
+source idc company data morgan stanley research 
+source company data morgan stanley research 
+exhibit 
+exhibit 
+expect amazon and alphabet shift slightly towards saas tradi 
+cloud business mix 
+tional saas players move into the iaas paas space 
+iaas paas saas cloud mix 
+estimates 
+change saas cloud mix 
+saas mix 
+saas mix 
+baba 
+sap 
+ibm 
+orcl 
+googl 
+msft 
+amzn 
+amzn 
+saas 
+paas 
+baba 
+googl 
+msft 
+sap 
+orcl 
+paas 
+amzn 
+ibm 
+msft 
+ibm 
+saas 
+googl 
+amzn 
+msft 
+sap 
+orcl 
+orcl 
+ibm 
+sap 
+baba 
+gross margin 
+now 
+crm 
+wday 
+iaas 
+source company data morgan stanley research 
+source company data morgan stanley research 
+makes intuitive sense that the cloud companies with higher 
+over the next four years forecast the mix business from saas 
+mix the more commoditized and higher capital intense iaas busi 
+decline microsoft oracle and sap these companies saas 
+nesses amazon alphabet alibaba all over iaas mix tend 
+businesses are largely more mature and slower growing than their 
+have lower gross margins while companies with higher saas mix 
+newer iaas paas offerings this mix shift lower gross margin iaas 
+tend have higher margins oracle sap microsoft all over 
+businesses are partially offset improving cloud margins overall 
+saas 
+utilization existing infrastructure increases 
+its worth pointing out that microsoft cloud gross margins are below 
+the other hand see amazon and alphabet moving the 
+peers with similar saas business mix believe the company 
+cloud stack and pushing more into higher margin saas business over 
+invested global data center infrastructure ahead cloud demand 
+time that said still expect amazon and alphabet remain pre 
+better position itself competitively aws and other public cloud 
+dominately iaas paas players are modeling amazon and 
+companies 
+alphabet saas mix grow from amazon and 
+alphabet focus more the saas segment the market that would 
+likely drive upside our margin estimates 
+exhibit 
+see microsoft and amazon cloud gross margins reaching 
+improved scale drives margin higher 
+and respectively 
+gross margin iaas paas mix 
+crm 
+baba 
+googl 
+gross margin 
+sap 
+msft 
+wday 
+ibm 
+amzn 
+orcl 
+now 
+now 
+wday 
+baba 
+sap 
+googl 
+ibm 
+orcl 
+crm 
+amzn 
+msft 
+gross profit gross margin 
+cloud gross profit 
+cloud gross margin 
+estimates 
+iaas paas mix 
+source company data morgan stanley research 
+source company data morgan stanley research 
+what does mature public cloud profitability look like esti 
+exhibit 
+mate amazon adj operating profit with margins dis 
+see amazon leading cloud players profitability with adj ebit 
+closed industry leading the company growing scale and 
+margins followed microsoft 
+improving efficiency drives leverage over its fixed cost structure 
+operating profit operating margin 
+estimates 
+cloud operating income 
+cloud operating margin 
+with margins from 
+wday 
+googl 
+baba 
+sap 
+ing margins reaching but see microsoft closing the gap 
+now 
+with margins see amazon cloud operat 
+ibm 
+comp amazon has the second highest cloud operating profit 
+orcl 
+force our math microsoft cloud business the closest 
+crm 
+with margins ranging from alphabet alibaba sales 
+msft 
+gins the other cloud players are materially below that amazon 
+amzn 
+shown below estimate the operating profit dollars and mar 
+source company data morgan stanley research 
+exhibit 
+but see microsoft closing the gap with margins 
+amazon 
+operating profit operating margin 
+estimates 
+cloud operating income 
+cloud operating margin 
+wday 
+now 
+sap 
+googl 
+ibm 
+orcl 
+crm 
+amzn 
+msft 
+baba 
+source company data morgan stanley research 
+morgan stanley research 
+company takeaways 
+microsoft 
+key takeaways see several areas conservatism the mic 
+commercial office base supports cloud valuation microsoft still 
+rosoft valuation resulting from this analysis 
+has base premises commercial office users majority which are likely transition over the next years 
+our base case dcf assumes low single digit growth for microsoft 
+our estimate this vast installed base coupled with pricing uplift 
+cloud starting any upside this assumption implies 
+when customers transition see microsoft microsoft 
+upside the stock 
+ready bring the bottom line think feb and 
+high saas margins that drive the majority free cash flow sup 
+while our bull case assumes more durable top line growth 
+porting our microsoft cloud valuation 
+conservatively assume the same margin profile our base case 
+and also model capex cagr from our bull 
+while expect azure grow rapidly over the next several years 
+case support this growth which weighs fcf 
+still assume that aws iaas paas revenues are larger than 
+azure revenues driving home the point that its microsoft 
+the historical sales multiple that apply non cloud 
+high margin office franchise making the difference cloud valua 
+revenue drive our implied stock prices the base and bull sce 
+tions azure growth supported the maturity and quality 
+narios from time when microsoft multiples were 
+technology offerings compared several years ago and microsoft 
+compressed trading just forward eps the and 
+incumbency advantage higher utilization data center assets and 
+orcl 
+push premium paas services should materially improving margins over time 
+while non cloud revenues for microsoft include the declining 
+premises office revenue that partially transitioning the 
+because microsoft outsized exposure the cloud public cloud 
+cloud also composed several stable low single digit 
+growth sustains per our bull case see microsoft top pick 
+growth and high gross margin businesses windows commercial 
+prolonged growth increases microsoft cloud valuation and 
+server products well relatively higher growth and improv 
+hold the non cloud multiples line with historical averages 
+ing margin businesses linkedin bing enterprise services gam 
+there would upside msft stock from current levels 
+ing and surface net see flat revenue growth the non 
+cloud businesses from which together with the more 
+rapidly growing cloud assets with improving margins helps 
+key assumptions throughout this analysis include microsoft 
+drive mid teens eps growth and 
+azure microsoft office commercial and consumer and 
+dynamics other words include microsoft commercial 
+our microsoft base case dcf implies non cloud fcf multiple 
+cloud plus consumer office exclude linkedin xbox live 
+only well below the implied multiple for other companies 
+and bing from this cloud analysis divide our azure estimates into 
+this analysis well microsoft peer group trading multiples 
+iaas paas applying idc iaas paas estimated mix microsoft 
+cloud drive our capex estimates from our microsoft capex model 
+our bull case dcf implies non cloud sales only and 
+see microsoft microsoft ready bring the bottom line 
+fcf only significantly below reasonable valuation our 
+think feb assume that data center related 
+view the extent our base case dcf assumptions prove conserva 
+capex associated with the cloud businesses this analysis with the 
+tive think microsoft could see material upside the stock 
+other supporting xbox live and bing 
+not assume revenue contribution specifically from cortana 
+hololens future surface products phone hardware after 
+both our company model and throughout this analysis 
+amazon 
+ibm 
+key takeaways aws driving and benefiting from accelerating 
+key takeaways ibm historical pre cloud multiple relative 
+public cloud adoption with expanding services partners and cus 
+the implied non cloud revenue multiple derived our base 
+tomer base see aws well positioned continue capture 
+case cloud valuation suggests the non cloud business trading 
+share the market workloads increasingly migrate the cloud 
+roughly half turn discount the historical multiple dis 
+have written over the longer term the simplicity public 
+count recent trading price ibm non cloud revenues include 
+cloud relative complexity company owned data centers should 
+declining portions software revenue such middleware and 
+help aws and others eat into legacy services spend see aws 
+hardware revenue however expect declines stabilize the 
+disruption spreads software soon services 
+pool non cloud revenues shrinks additionally the recent analyst 
+day highlighted areas the legacy business that are innovating and 
+our base case dcf suggests aws already being fairly valued the 
+can grow such blockchain for mainframe cognitive for power 
+market its implied non cloud north america and international 
+redesigned storage for flash and for analytics which expect 
+retail gmv multiple line with its historical average 
+partially offset declines other areas the core business assum 
+from when believe aws was not priced into valuation and 
+ing the non cloud business valued line with the historical pre 
+with its retail peer group walmart target etc that said our aws 
+cloud multiple see upside shares reflecting new 
+bull case dcf suggests undervaluation aws non cloud busi 
+base case and price target what more see upside our 
+nesses given current market prices and implies upside our 
+bull case cloud scenario under the same methodology 
+conservative base case cloud dcf assumptions note that our 
+amazon amzn sum the parts base case valuation method 
+key assumptions throughout this analysis consider only our 
+ology value the aws business applying rev 
+estimate for public cloud revenue and exclude the contribution from 
+enue multiple our aws revenue discount the 
+private hybrid cloud order better compare clouds across 
+enterprise value derived from our aws base case dcf anal 
+companies ibm does not break out these portions the business 
+ysis this note which all else equal suggests upside our ama 
+but rather views them complimentary provide hybrid cloud 
+zon price target share see our amazon risk reward for 
+strategy built for the enterprise estimate the public cloud 
+more details 
+accounts for roughly fourth the total ibm cloud business based 
+idc public cloud services data divide our public cloud esti 
+key assumptions amazon discloses its aws revenue but not the 
+mates into iaas paas applying idc iaas paas estimated mix 
+mix revenue product such divide our aws estimates into 
+ibm cloud estimate cost good sold line with the average 
+iaas paas saas applying idc iaas paas saas estimated aws 
+for amazon microsoft alphabet and oracle which and 
+mix the first half our model over 
+largely line with ibm blended average our operating expense 
+time see the mix remaining roughly unchanged aws revenue 
+estimates assumes cloud operating expense points higher than 
+grows cagr from 
+the company blended operating expense our analysis suggests 
+aws discloses its depreciation amortization expense which 
+operating expense percent revenue prior the softlayer acqui 
+estimate will aws revenue from 
+sition roughly points lower compared current levels 
+our gross margin analysis assume aws non depreciation cost 
+assume cloud accounts for total capital expenditures this 
+goods sold are net data center plant property equip 
+higher than oracle commentary that cloud total 
+ment capital leases which line with microsoft azure 
+capex given oracle does more data center leases than building addi 
+average all estimate aws has gross margins 
+tionally capex spending prior the softlayer acquisition 
+rising aws achieves scale efficiency gains 
+lower than current levels 
+its infrastructure investments drive our aws capex and 
+acquired under capital leases separately our amazon model 
+estimate aws capex aws revenue 
+companywide capex from and aws capital 
+leases are aws revenue aws additions from 
+morgan stanley research 
+oracle 
+alibaba 
+key takeaways when apply historical pre cloud multiples the 
+key takeaways view alibaba emerging leader china 
+implied non cloud revenues from oracle base case cloud valuation 
+given its public cloud business leadership china public 
+see few points upside from current orcl prices the implied 
+cloud sales estimate forecast alicloud sales 
+stock price derived from oracle base case valuation oracle non 
+with near breakeven rising more than 
+cloud revenues are comprised declining software license revenue 
+critical level amazon web services aws opm was 
+and declining hardware revenue somewhat offset relatively sta 
+with sales similar aws business disrup 
+ble and sizeable updates and support revenues depending the 
+tion the traditional hardware vendor segment alicloud poten 
+pace oracle cloud transition which have sensitized numerous 
+tial success looms threat hardware makers china wit 
+times different analyses see oracle corporation finding oracle 
+both our cloud base and bull cases imply alicloud undervalued 
+revisiting cloud shallow cloud deep jul think 
+the market 
+that discount orcl historical multiple should applied 
+non cloud revenues given the emphasis the hardware business 
+further forecast alicloud will make alibaba sales 
+and transition cloud the software business when considering 
+versus alicloud turns into material profit 
+the declining non cloud business compared aws gcp where 
+driver there would upside risk our price target our base case 
+all business net new discounted multiple non cloud revenue 
+assumes alicloud remains near breakeven for more our alicloud 
+would suggest orcl fairly priced around 
+investment thesis please see alibaba group holding evolution 
+game changer dec 
+key assumptions oracle discloses saas and paas revenue 
+together and iaas revenue well cost revenues for these 
+key assumptions assume alicloud sales will grow cagr 
+cloud types assume saas margins are paas mar 
+during reach around this 
+gins are and iaas margins are assume that saas makes 
+pares with alibaba target grow triple digit sales for alicloud 
+the saas paas revenues moving 
+the next three years the company emphasized that its current prior 
+all together paas and lesser extent iaas plays catch 
+ity scale rather than profitability the public cloud market 
+earlier adopted saas for oracle saas percent total cloud reve 
+china still the nascent stage its near term target paying 
+nues goes from assume total 
+customers yoy thus our base 
+capex cloud capex for which line with the cloud capex mix 
+case conservatively assumes alicloud will remain near breakeven 
+from 
+however the margin improvements are faster than 
+expected then there should upside our earnings forecasts 
+sap 
+alphabet 
+key takeaways sap has traditionally been premise applica 
+key takeaways while see alphabet google cloud platform 
+tion software company however the move the cloud has added 
+gcp benefitting from accelerating public cloud adoption our 
+full set options for customers from saas successfactors ariba 
+cloud base case implies gcp already being fairly valued the mar 
+concur paas sap cloud platform and iaas sap hana enterprise 
+ket even our bull case where estimate gcp 
+cloud hec investor debate has centred around how cannibalistic 
+higher than our base case the implied non cloud trading 
+sap shift cloud would and how much operating margins 
+line with its historical average revenue multiple from 
+would have fall these risks could suggest sap should trading 
+when believe cloud was not priced into valuation are seeing 
+below its historic sales average excluding our base case 
+progress googl cloud offering see reasons are incremen 
+cloud business valuation however sap now has major product 
+tally positive google cloud but await further evidence cios 
+cycle with its hana offering and expect this adopted 
+sustainably adopting gcp before turning materially more positive 
+both across the premise hybrid and public cloud businesses 
+please see websites drivers pixel trough multiple great 
+estimate that this opportunity large enough keep premise 
+set for for reasons why remain overweight googl 
+licences flat growing the short mid term and with maintenance revenues growing mid single digit see sap non cloud 
+key assumptions alphabet does not disclose its google cloud 
+business achieving low mid single digit growth also expect 
+platform gcp revenue but estimate companywide 
+see good operating leverage the premise business with that 
+other revenue note that technology news 
+profile lower growth but more margin expansion think rea 
+site the information reported gcp revenue was north billion 
+sonable for sap non cloud business trade line with ahead 
+over time see gcp revenue growing cagr 
+the historic sales multiple would also note that sap offers 
+estimate gcp cogs are revenue 
+one the more significant upside levels this group the cloud bull 
+gross margin and depreciation revenue both line 
+case comes fruition with the non cloud business trading 
+with baba alicloud estimate aws reaches 
+historically 
+gross margins and depreciation percentage revenue reaches 
+gcp achieves scale efficiency gains its infrastructure 
+key assumptions sap discloses cloud revenues whole the 
+investments think gcp unprofitable now adjusted ebit 
+majority which will today saas assume sap cloud 
+basis but see the company reaching margins roughly 
+revenue was split saas paas and iaas with this shifting 
+line with amazon aws when was similar revenue 
+saas paas and iaas driven partly growth 
+basis 
+hana enterprise cloud iaas and the hana cloud platform 
+paas sap has consistently sustained org growth its cloud 
+business since forecast this continuing revenue 
+cagr within this expect saas grow lows 
+cagr whilst paas and iaas grow cagr off low base 
+estimate overall cloud gross margins will have risen 
+from and assume cloud related capex declines from 
+total cloud revenues 
+morgan stanley research 
+appendix 
+valuation methodologies and assumptions 
+base case dcf methodology for each company estimate cloud revenue and expenses well 
+taxes capex and depreciation reach cloud free cash flows through then assume standardized methodology across companies calculate free cash flows through and the dcf terminal value 
+apply the same rate deceleration revenue growth the rate deceleration seen 
+the server virtualization market when reached similar penetration assume that 
+each company has reached mature cloud operating margin beyond assume free cash 
+flow growth after hitting stable revenue growth margins and reinvestment requirements assume 
+company specific wacc ranging from depending the company specific variables driving 
+company cost capital assume debt cash for the cloud business calculating enterprise 
+value 
+bull case dcf methodology the general assumptions from our base case dcf methodology apply but 
+assume cloud revenues not follow the same decelerating growth trajectory the server virtualization market once reaching penetration our bull case lays out scenario where public cloud different where the combination cost savings customers from basic cloud economics coupled with the 
+union several secular themes mobile iot big data drives more durable growth public cloud 
+workloads and sustained growth dollars accruing public cloud vendors assume cloud vendors 
+are able maintain double digit growth through supporting this growth assume that the capex 
+growth rate from sustains through accompanied higher depreciation too beyond 
+apply model terminal value methodology with growth decelerating over five year period from 
+the long term sustainable growth rate 
+multiple based valuation apply multiple revenues and discount enterprise 
+value company specific wacc for three years get one year forward cloud valuations for each the 
+leading vendors 
+valuation tables 
+exhibit 
+upside downside base bull scenarios applying historical sales multiples implied non cloud revenues 
+estimates millions 
+what the price 
+current price 
+base case cloud dcf non cloud historical avg 
+bull case cloud dcf non cloud historical avg 
+upside base case 
+upside bull case 
+amzn 
+msft 
+googl 
+orcl 
+ibm 
+sap 
+baba 
+source company data morgan stanley research thomson reuters close prices thursday 
+exhibit 
+non cloud sales multiples implied from base case dcf are generally line with historical company multiples before cloud businesses were 
+priced into valuation 
+implied non cloud sales 
+implied from 
+cloud 
+historical avg 
+cloud 
+revenue 
+base case 
+bull case 
+valuation 
+methodolgy 
+ntm sales 
+discounted 
+cloud dcf 
+cloud dcf 
+amzn 
+msft 
+googl 
+orcl 
+ibm 
+sap 
+baba 
+amzn gmv 
+peer group 
+average 
+source company data morgan stanley research thomson reuters note baba historical average multiple reflects jan jan 
+morgan stanley research 
+exhibit 
+split company revenue for cloud and non cloud 
+estimates millions 
+company estimates 
+total revenue 
+cloud revenue 
+cloud revenue total 
+total revenue 
+cloud revenue 
+cloud revenue total 
+cloud revenue cagr 
+total company valuation 
+total company enterprise value 
+total company sales 
+total company gmv 
+amzn 
+msft 
+googl 
+orcl 
+ibm 
+sap 
+baba 
+ibm 
+sap 
+baba 
+source company data morgan stanley research thomson reuters close prices 
+base case dcf 
+exhibit 
+dcf implies cloud should represent larger portion company value than company revenue mix 
+estimates millions 
+base case dcf cloud valuation 
+sum cloud fcf excl terminal value 
+cloud terminal value 
+cloud enterprise value today base case dcf 
+cloud total enterprise value 
+cloud total revenue 
+difference cloud mix cloud rev mix 
+implied cloud today sales 
+implied cloud today sales 
+base case dcf implied non cloud valuation 
+implied non cloud enterprise value 
+non cloud revenue 
+implied non cloud sales multiple 
+historical avg ntm sales 
+average non cloud comp group sales 
+amzn 
+msft 
+googl 
+orcl 
+source company data morgan stanley research thomson reuters note baba historical average multiple reflects jan jan close prices 
+exhibit 
+exhibit 
+implied non cloud multiples line with historical averages 
+non cloud too cheap bull case plays out suggesting upside 
+total company valuations 
+base case dcf implied sales 
+amzn 
+msft 
+googl 
+orcl 
+ibm 
+sap 
+baba 
+implied cloud implied non historical avg peer group 
+cloud 
+average 
+sales 
+sales 
+ntm sales 
+sales 
+source company data morgan stanley research thomson reuters note baba historical average multiple reflects jan jan close prices 
+bull case dcf implied sales 
+amzn 
+msft 
+googl 
+orcl 
+ibm 
+sap 
+baba 
+implied cloud implied non historical avg peer group 
+cloud 
+average 
+sales 
+sales 
+ntm sales 
+sales 
+source company data morgan stanley research thomson reuters note baba historical average multiple reflects jan jan close prices 
+bull case dcf 
+exhibit 
+prolonged bull case cloud growth drives upside base case dcf 
+estimates millions 
+bull case dcf cloud valuation 
+sum cloud fcf excl terminal value 
+cloud terminal value 
+cloud enterprise value today bull case dcf 
+cloud total enterprise value 
+cloud total revenue 
+difference cloud mix cloud rev mix 
+implied cloud today sales 
+implied cloud today sales 
+bull case dcf implied non cloud valuation 
+implied non cloud enterprise value 
+non cloud revenue 
+implied non cloud sales multiple 
+historical avg ntm sales 
+average non cloud comp group sales 
+amzn 
+msft 
+googl 
+orcl 
+ibm 
+sap 
+baba 
+source company data morgan stanley research thomson reuters note baba historical average multiple reflects jan jan close prices 
+morgan stanley research 
+multiple based valuation 
+exhibit 
+multiple based cloud revenues discounted 
+estimates millions 
+cloud valuation revenue multiple 
+public cloud multiple applied revenue 
+cloud enterprise value 
+cloud enterprise value discounted 
+discounted cloud cloud revenue 
+amzn 
+msft 
+googl 
+orcl 
+ibm 
+sap 
+baba 
+implied non cloud sales multiple 
+historical avg ntm sales 
+average non cloud comp group sales 
+implied non cloud revenue growth cagr 
+cloud total enterprise value 
+cloud total revenue 
+difference cloud mix cloud rev mix 
+implied non cloud valuation rev multiple 
+non cloud revenue 
+implied non cloud enterprise value today 
+source company data morgan stanley research thomson reuters note baba historical average multiple reflects jan jan close prices 
+exhibit 
+exhibit 
+multiple based valuation implies non cloud businesses priced line 
+implied non cloud sales multiples are generally line with his 
+with historical averages sales 
+torical multiples 
+sales multiple cloud revenue 
+implied non historical avg peer group 
+cloud 
+average 
+sales 
+ntm sales 
+sales 
+amzn 
+msft 
+googl 
+orcl 
+ibm 
+sap 
+baba 
+amzn gmv 
+source company data morgan stanley research estimates thomson reuters note baba historical 
+average multiple reflects jan jan close prices 
+amzn 
+msft 
+googl 
+orcl 
+ibm 
+sap 
+baba 
+historical sales multiple 
+average 
+max 
+min 
+implied 
+non cloud 
+source thomson reuters morgan stanley research note baba historical average multiple reflects jan 
+jan 
+idc public cloud services market sizing 
+exhibit 
+exhibit 
+saas the largest portion but iaas growing fastest 
+public cloud services revenue 
+saas 
+iaas 
+iaas and paas gaining share public cloud revenue 
+paas 
+iaas 
+paas 
+saas 
+public cloud services revenue 
+cagr 
+source idc morgan stanley research 
+source idc morgan stanley research 
+exhibit 
+exhibit 
+iaas split compute and storage 
+saas erm and crm 
+infrastructure service 
+software service 
+server 
+basic storage 
+collaborative apps 
+crm apps 
+erm apps 
+morgan stanley research 
+content apps 
+source idc morgan stanley research 
+system 
+infrastructure 
+ops manuf apps 
+source idc morgan stanley research 
+alphabet risk reward 
+investment thesis 
+google websites growth likely 
+surprise the upside believe there 
+are several underappreciated driven 
+mobile search strong youtube 
+contribution and continued innovation 
+such maps monetization 
+continued expense discipline leads 
+margin expansion and upward revisions 
+eps estimates 
+our price target implies 
+google ebitda less the 
+the alphabet investment losses 
+source thomson reuters morgan stanley research 
+price target 
+key value drivers 
+search advertising spend continues 
+gain share global advertising budgets 
+our price target based our discounted cash flow valuation and implies 
+adjusted ebitda then deduct the present value the other bets 
+losses arriving our price target use wacc and terminal 
+growth rate line with other growth oriented internet companies 
+including the and where organic 
+bull 
+forward websites growth 
+bull case ebitda less the present value the other bets losses 
+better than expected expense discipline and share repurchases lead multiple 
+expansion and higher earnings power mobile monetization proves highly incremental 
+core search revenue growth and search takes more share global budgets youtube 
+becomes even bigger contributor top line growth and operates higher margin 
+than our base case 
+base 
+growth appears slowing 
+mobile search advertising continues 
+take share online budgets and drive 
+investments video content driving 
+longer term monetization youtube 
+moderation expense growth 
+key risks 
+search key component googl 
+advertising business while believe 
+search will continue take share 
+base case ebitda less the present value the other bets losses 
+googl core websites business grows and non gaap 
+operating losses other bets moderate assumes mid teens search revenue growth 
+through mobile device proliferation leads search advertising taking share 
+global budgets mobile search continues drive forward growth while desktop search 
+also contributes and youtube gains online video share 
+global budgets and google will retain 
+bear 
+activity the business 
+bear case ebitda less the present value the other bets 
+losses 
+global growth slows investment spend leads margin compression too 
+assumes slower search advertising growth through lower revenue compared our 
+base case growth budgets slows search takes less share budgets 
+expense discipline fails materialize leading lower than expected adj ebitda 
+its dominant share growth and 
+markets has slowed 
+improved disclosure around the google 
+inc and other alphabet segments may 
+not decrease the overall investment 
+deterioration the advertising market 
+particularly vast majority revenue 
+driven advertising 
+negative resolution antitrust 
+probe 
+amazon risk reward 
+investment thesis 
+amzn prime member growth and 
+engagement point solid topline trends 
+but see near term headwinds from heavy 
+investment last mile delivery fulfillment 
+prime now fresh prime digital content alexa 
+echo india aws drive forward growth and 
+build expand its ecosystem while remain 
+bullish about amzn long term opportunity 
+and ability execute these investments 
+prime digital content leading more prime 
+subs amzn last mile investments are leading 
+increased efficiency etc the near term 
+this investment spending will likely pressure 
+margins more than expected 
+key debates 
+mar 
+there upside topline expectations 
+sep 
+mar 
+sep 
+mar 
+sep 
+mar 
+source thomson reuters morgan stanley research estimates 
+price target 
+derived using sum the parts methodology where value the america and 
+international retail businesses based long term csoi margins gmv and the aws 
+business based comparable peer group set software companies our valuation 
+supported year dcf 
+bull 
+bull case ebitda 
+amazon sustains revenue growth through while fba and aws 
+profitability exceeds our expectations value the america retail business with 
+ebitda multiple based long term csoi margin gmv and fcf yield 
+the international retail business with ebitda multiple based long term 
+csoi margin gmv and fcf yield and aws with revenue multiple 
+premium global software cloud peers consolidated basis this implies 
+our revenue ebitda estimates 
+base 
+base case ebitda 
+amazon grows revenue from while fba and aws mix addition 
+leverage from fulfillment center efficiencies drive better profitability value the 
+america retail business with ebitda multiple based long term csoi 
+margin gmv and fcf yield the international retail business with 
+ebitda multiple based long term csoi margin gmv and fcf yield and 
+aws with revenue multiple premium global software cloud peers 
+aws growing fast with higher ebitda margins our base case supported 
+dcf based valuation our base dcf not treat amzn capital leases 
+cash expense line with street investor convention and sentiment 
+see amzn prime member growth and 
+engagement echo device sales and consumer 
+web traffic interest driving solid topline trends 
+and gmv per customer growth 
+will amazon deliver positive csoi revisions 
+amzn going through period 
+increased investment around last mile delivery 
+logistics media content and aws and think 
+the company will need deliver positive gaap 
+operating income revisions 
+outperform 
+potential catalysts 
+ecommerce penetration core markets 
+approaching key inflection acceleration 
+amazon prime membership growth drives 
+recurring revenue and positive mix shift 
+cloud adoption hitting inflection point 
+risks achieving price target 
+weakness core market retail sales could 
+hurt growth 
+slower than expected prime membership 
+growth prime gross profit contribution 
+which could caused weaker macro 
+environment increased competition from 
+other ecommerce offline retail platforms 
+failure prime investments shipping speed 
+selection streaming content etc drive 
+subscriber growth higher spend per subscriber 
+write downs from struggling investments 
+bear 
+bear case ebitda 
+investments step although amazon grows revenue the low and 
+heavy investments last mile fulfillment digital content prime devices and international 
+expansion markets and aws price cuts continue which along with higher technology 
+content expense pressure margins our bear case based dcf which treat 
+amzn operating leases full cash expense 
+morgan stanley research 
+fire phone could continue margin drag 
+price wars with iaas competitors may lead 
+amazon cut aws prices further while 
+incremental aws investment offsets cuts 
+elsewhere 
+ibm risk reward 
+investment thesis 
+strategic imperatives approach half 
+transformation not priced 
+revenue accelerating growth and improving 
+fcf conversion drive shift investors 
+sentiment recent investments cloud 
+strategy pay off and ibm cloud revenue grows 
+line with the industry while gross and 
+operating margins expanding industry 
+average long term watson has the potential 
+rate shares more line with microsoft the 
+bull case 
+key value drivers 
+can ibm win the cloud game not how you 
+mar 
+sep 
+mar 
+price target mar 
+sep 
+historical stock performance 
+mar 
+sep 
+current stock price 
+mar 
+ibm 
+source thomson reuters morgan stanley research 
+bull 
+fcf shr 
+strategic imperatives investments pay off with faster return revenue and fcf 
+growth investors begin recognize ibm competitive lead strategic imperatives 
+particularly cloud and cognitive ibm approaches revenue growth year earlier than 
+expected with return growth and fcf surpasses gaap net income the 
+back deferred income growth and working capital improvements the bull case 
+see ibm trading closer msft and acn fcf basis investors give more 
+credit ibm opportunity higher growth areas with large addressable markets like 
+tam for watson 
+base 
+fcf shr 
+transformation bears fruit with stabilizing revenue constant currency and 
+return pre tax income growth while the cloud story better appreciated 
+structural challenges the company core solution portfolio are largely offset double 
+digit growth strategic imperatives excluding the impact currency the cloud business 
+grows line with the industry while gross and operating margins expand peer average 
+ibm trades fcf financing receivables but closer which 
+turn discount msft assuming book the financing business 
+bear 
+fcf shr 
+strategic imperatives fail take off ibm fails increase the relevancy its product 
+portfolio after divesting commoditized businesses and acquiring strategic imperatives 
+cheaper and more nimble competitors take customer share and slow ibm 
+transformation ibm converts less than net income fcf our multiple inline with legacy peers like oracle and reflects meaningful discount msft 
+think don expect ibm compete with 
+aws microsoft azure price speed 
+however believe ibm portfolio 
+platform service blue mix customized 
+infrastructure service softlayer and 
+software service watson help ibm hold 
+customer dollar share way that more 
+commoditized hardware peers like hpe and 
+ntap cannot what more higher value cloud 
+services could help margins surprise the 
+upside relative cloud peers 
+what the right multiple for company 
+transition believe ibm has better prospects 
+than most hardware companies with limited 
+strategies transform for cloud cognitive 
+computing world result believe ibm 
+should trade more line with software and 
+services peers see ibm trading premium 
+orcl fcf light stronger cloud 
+story and more durable less infrastructure 
+dependent revenues and closer msft the 
+cloud story appreciated investors longerterm see ibm playing leading role 
+machine learning and apply msft fcf 
+multiple our bull case 
+potential catalysts 
+accelerated transformation and recent 
+acquisitions help achieve faster path revenue 
+growth 
+fcf conversion improves large customers 
+renew global enterprise licensing agreements 
+elas and strategic imperatives drive higher 
+annuity revenues 
+continued recovery software and gbs 
+segments help drive eps and fcf growth 
+exiting 
+watson builds momentum with strong 
+customer additions and penetration into 
+verticals outside healthcare 
+potential risks 
+continued signs cloud cannibalizing ibm 
+core markets 
+ibm fails monetize investments watson 
+and cognitive computing 
+weaker mainframe cycle 
+headwinds and prolonged weakness 
+emerging markets 
+acquisition integration risk 
+microsoft risk reward 
+investment thesis 
+durability eps growth should push multiples higher 
+top line drivers include the azure 
+microsoft emerging public cloud 
+winner data center share gains and 
+positive pricing trends and base 
+growth and per user pricing lift the 
+same time the risks from windows oem 
+and phone hardware have lessened 
+considerably 
+windows gives microsoft 
+improved story tablets new leg 
+rev growth and downstream opps for 
+synergy with the surface xbox and 
+mar 
+sep 
+mar 
+price target mar 
+sep 
+historical stock performance 
+mar 
+sep 
+current stock price 
+mar 
+msft 
+source thomson reuters morgan stanley research 
+phones device ecosystem 
+msft currently trades 
+eps line with the despite msft 
+premium total return multiple expansion 
+price target 
+based off our base case 
+bull 
+base case eps 
+durability growth confident revenue cagr top line drivers 
+include the azure microsoft emerging public cloud winner data center share gains 
+and positive pricing trends base growth and per user pricing lift and linkedin 
+the same time the risks from windows oem and phones have lessened considerably 
+margins expand contribution from linkedin double digit eps 
+growth and dividend yield drives mid teens total return profile and yields 
+eps eps msft trades premium the but line with its 
+premium total return profile 
+bear 
+gaining comfort the achievability and 
+sustainability low mid teens eps 
+bull case eps premium the 
+azure and drive top line growth intelligent cloud grows 
+cagr from rapid azure adoption and sustained legacy server growth faster 
+consumer penetration higher attach commercial premium workloads and 
+linkedin drive productivity and business processes operating margins 
+expand only modestly due lower margin azure and eps 
+base 
+from here will likely predicated 
+growth continued growth microsoft 
+commercial cloud business which may 
+warrant higher multiple and sustained 
+opex discipline could drive durable eps 
+growth 
+potential catalysts 
+sustainability commercial growth 
+cloud momentum improving cloud 
+margins and opex discipline 
+earnings 
+improving data points 
+risks achieving price target 
+weak macro impacting global sales 
+premises cannibalization cloud 
+increased data center investments hurt 
+margins 
+bear case eps 
+macro weakness and declines persist unit declines windows oem asps 
+pressure and deceleration commercial cloud growth results 
+revenue cagr msft still holds the line costs but operating margins decline 
+yielding eps 
+morgan stanley research 
+oracle risk reward 
+investment thesis 
+shallow cloud transition may leave oracle mainly legacy 
+vendor the new cloud world 
+continued adoption oracle organic 
+fusion apps and acquired cloud assets 
+netsuite dyn textura opower taleo 
+rightnow eloqua responsys 
+bigmachines toa could accelerate 
+growth the cloud businesses 
+which partially assuages investor 
+concerns oracle competitive 
+positioning the new breed native 
+cloud based companies 
+customer base drives 
+operating income from recurring 
+revenue flat revenue growth operating 
+margins supported steady stream 
+mar 
+recurring maintenance revenues and 
+sep 
+mar 
+price target mar 
+sep 
+historical stock performance 
+mar 
+sep 
+current stock price 
+mar 
+orcl 
+source thomson reuters morgan stanley research 
+price target 
+our price target derived from our base case below 
+bull 
+eps 
+increased fusion adoption accelerates cloud revenues while the database cycle 
+bolsters license revenues from the technology business eps impacts from the cloud 
+transition are muted the stronger database licenses sustaining operating margins 
+and driving eps for investors afford orcl multiple against 
+subscription transition impacted eps still significant discount other transition stories 
+like adbe intu 
+base 
+eps 
+the increasing adoption cloud solutions and database cycle are unable offset 
+the falling license revenues oracle driving continued margin and eps declines despite 
+the strong recurring contribution the customer base forward eps multiple stays the 
+low double digits investors are unwilling credit oracle for the longer term 
+benefits the cloud transition 
+return growth 
+product cycles the applications and 
+database segments with new cloud and 
+appliance delivery models have the 
+potential accelerate growth 
+key value drivers 
+cross selling and selling customer 
+base 
+scaling engineered systems business 
+concurrent middleware applications 
+and database product cycles 
+fusion apps driving accelerating 
+organic cloud revenue growth 
+eps 
+compelling saas paas cloud bookings growth fails drive the multiple expansion 
+seen other cloud transitions due larger than expected impact the income 
+statement and lack clarity the depth duration those impacts overall revenue 
+grows low single digits the next two years and operating margins trend lower 
+rebounding investors afford multiple against this cloud 
+transition impacted eps figure although still steep discount fuller transitions like 
+adbe intu 
+bear 
+repurchases driving share count help eps 
+potential catalysts 
+additional share repurchases 
+accretive acquisitions 
+risks achieving price target 
+disruptive technologies the data 
+management market 
+rapid migration towards saas based 
+subscription application model hurts nearterm optics due ratable revenue 
+recognition 
+strong competition from other secular 
+cloud application vendors 
+salesforce risk reward 
+investment thesis 
+skewed positively with increased probability bull case 
+crm one the best secular stories 
+software our view and has more 
+direct participation secular demand for 
+mobile social and cloud than any name 
+follow 
+recent sales hires should put upward 
+pressure billings and believe that 
+productivity has been tracking well 
+which should also favorably impact 
+margins over time also expect 
+strength larger more strategic deals 
+continue going forward 
+mar 
+sep 
+mar 
+price target mar 
+sep 
+historical stock performance 
+mar 
+sep 
+current stock price 
+mar 
+crm 
+source thomson reuters morgan stanley research 
+price target 
+base while expanding product offering 
+fcf discounted 
+billings growth sustains for the next years margins back recent peaks 
+the back strong customer growth and additions rapid adoption platform services the 
+transformed marketing cloud and improved renewal rates crm becomes more strategic 
+tech provider for customers and growth remains through wave adoption ramps 
+quickly and becomes material revenue over the next years revenue fcf maintains 
+cagr more spending moves into the cloud and salesforce newer clouds see 
+strong adoption larger base high margin renewal business drives margins 
+yoy fcf growth supports crm multiple fcf yielding forward 
+twelve month share price assuming discount rate 
+base 
+fcf discounted 
+normalized billings growth sustains for the next years with margins reexpanding towards levels crm continues expanding seat counts sales and service 
+clouds while platform and marketing start become material with demandware catalyzing 
+the latter billings per customer increases new cross sell opps emerge and crm able 
+expand its addressable user base with its marketing and wave analytics solutions revenue 
+growth sustains the high teens range and fcf benefits margins grow 
+yoy fcf growth supports crm multiple fcf yielding forward twelve 
+month share price assuming discount rate this represents sales 
+growth adjusted 
+bear 
+fcf discounted 
+weakening macro increasing competition and slower platform adoption drives billings 
+growth towards tepid spending environment amid macro weakness and 
+increasing attrition along with increasing competition from orcl sap and msft leads mild 
+new customer growth which along with increasing price pressure limits total billings growth 
+the short term and revenue growth over the next years crm sees 
+some margin improvement reins spending achieving margins 
+yoy fcf growth supports crm multiple fcf yielding forward twelve 
+month share price assuming discount rate 
+morgan stanley research 
+grows the new opportunity within existing 
+customers the combined effect should 
+based base case scenario 
+bull 
+longer term expanding market 
+should drive continued growth the 
+drive sustained billings and fcf growth 
+the market stabilizes 
+and crm reaches scale 
+potential catalysts 
+earnings and greater visibility into 
+organic growth 
+customer adds expansion new logo 
+announcements 
+continued success service cloud 
+platform traction with marketing cloud 
+and adoption wave analytics 
+risks achieving price target 
+high street expectations increase 
+downside risk salesforce misses 
+investments may pressure cash flow 
+near term while company may 
+reluctant scale back costs over time 
+growth slows 
+may complicate organic growth 
+calculations and raise concerns about core 
+business strength while demandware 
+acquisition presents integration risks 
+competition from apps vendors and 
+emerging internet platforms orcl sap 
+msft amzn 
+servicenow risk reward 
+investment thesis 
+solid growth expanding tam and fcf generation drives upside opportunity 
+market for itsm and expanding 
+now disruptive share gainer with 
+well established position the 
+product set addressing additional 
+market opportunity the company 
+scaling effectively address this large 
+opportunity with revenue growing 
+cagr and forecast 
+revenue cagr from 
+now also delivering increasing 
+profitability the business scales and 
+expect operating margins expand from 
+mar 
+sep 
+mar 
+price target mar 
+sep 
+historical stock performance 
+mar 
+sep 
+current stock price 
+mar 
+see potential for further upside 
+here recent sales reorganization has 
+now 
+been completed and the deal pipeline 
+source morgan stanley research 
+replenished however also see room 
+price target 
+confidence now sizeable tam 
+derived from base case scenario 
+bull 
+discount base case fcf plus net cash 
+new markets take off demand for now core itsm offering holds strong while new 
+product areas like paas and itom ramp quickly with the company seeing little falloff 
+sales productivity servicenow able add customers quarter throughout 
+while maintaining non mix revenue grows cagr 
+while margins expand from now trades our bull 
+fcf estimate net cash this implies sales multiple 
+growth adjusted premium peers 
+base 
+discount base case fcf plus net cash 
+steady market expansion now delivers solid growth through combination success 
+core itsm and increasingly meaningful revenue contribution from new product areas 
+like platform servicenow adds customers quarter throughout while 
+maintaining non mix revenue grows cagr while 
+margins expand from now trades our fcf 
+estimate net cash this implies sales multiple 
+growth adjusted multiple line with high growth saas peers 
+bear 
+discount base case fcf plus net cash 
+tam expansion stalls now continues see adoption itsm but the revenue 
+generated from new product areas less than hoped servicenow adds 
+customers quarter throughout while maintaining non mix 
+revenue grows cagr while margins expand from 
+now trades our fcf estimate net cash this 
+implies sales multiple growth adjusted discount peers 
+for multiple expansion the market gains 
+key value drivers 
+stable levels sales productivity with 
+sales headcount growing annually 
+further penetration global 
+enterprise market 
+growth acv enterprise customers 
+from seat growth and adoption new 
+use cases 
+growing share tam for itsm 
+plus additional tam with newer 
+products 
+potential catalysts 
+earnings release 
+risks achieving price target 
+competition from legacy vendors 
+price and competing saas offerings 
+sales productivity may decline the 
+business grows new markets prove 
+challenging 
+significant downside risk the 
+multiple execution falters 
+workday risk reward 
+investment thesis 
+big opportunity ahead but competition risk also looms 
+believe wday defining the 
+established erm market with 
+disruptive saas platform positioned 
+take meaningful share from legacy 
+vendors the same time are 
+entering multi year refresh cycle 
+technology that often years old 
+having built peoplesoft believe 
+wday mgmt well positioned benefit 
+from their prior experiences both 
+steering product roadmaps and building 
+customer relationships 
+mar 
+sep 
+mar 
+price target mar 
+sep 
+historical stock performance 
+mar 
+sep 
+current stock price 
+mar 
+wday 
+wday grew subscription revenue 
+yoy and look for 
+growth and the 
+source thomson reuters morgan stanley research 
+price target 
+derived from base case 
+bull 
+subscription model adds high degree 
+visibility the top line and estimate 
+the company has deferred 
+revenue and backlog 
+discounted bull case fcf 
+share gains accelerate for hcm meaningful penetration base for financials while 
+wday becomes the facto for hcm solutions the company able penetrate its 
+installed base for newer offerings like financials subscription revenue grows through 
+reach due cagr customers and steady growing avg revenue per 
+customer strong top line growth helps margins improve from 
+wday trades our fcf estimate discounted back 
+discount rate 
+the next few years are investment 
+years for wday but this spend should 
+significantly expand distribution deliver 
+broader set products and create 
+significant technology moat these 
+investments should scale especially once 
+wday sees benefits from renewal 
+tailwinds and 
+key value drivers 
+base 
+discounted base case fcf 
+continued gains hcm early traction financials subscription revenue grows 
+through reach due cagr customers and stable avg revenue per 
+customer strong top line growth helps margins improve from 
+wday trades our fcf estimate discounted back 
+discount rate line with high growth peers 
+bear 
+discounted bear case fcf 
+legacy vendors fight back success limited outside core competition heats while 
+wday struggles gain share outside hcm and investments fail pay dividends 
+subscription revenue grows through reach due cagr 
+customers and declining avg revenue per customer strong top line growth helps 
+margins improve from wday trades our fcf 
+estimate discounted back discount rate 
+morgan stanley research 
+customer base growth 
+potential catalysts 
+earnings 
+major new customer wins and traction 
+with financials offering 
+risks achieving price target 
+competition from legacy vendors and 
+competing saas offerings 
+faster growth higher investments 
+further slow path profitability 
+financials software does not migrate 
+saas limiting market 
+alibaba risk reward 
+transforming become the leading data commerce company 
+why overweight 
+see alibaba core global 
+internet holding growth opportunities 
+ecommerce china remain significant 
+supported growing income levels and 
+online penetration 
+believe alibaba asset light model 
+provides scalability and strong cash flow 
+help expand its competitive 
+advantage 
+opportunities alicloud international 
+ecommerce and rural ecommerce suggest 
+potential upside the medium term 
+see potential for its ant financial 
+business alibaba can entitled 
+shareholding ant financial upon 
+listing this subject regulatory 
+approval and there confirmed 
+source thomson reuters morgan stanley research estimates 
+timeline for listing 
+price target 
+think premium valuation 
+justified the company dominant 
+base case sotp dcf for the core operation value strategic investments 
+and value ant financial profit stream 
+bull 
+bull case 
+core business dcf value strategic investments and value ant 
+financial core business chinese retail gmv posts cagr 
+reach china retail sales driven faster online shopping penetration and higher 
+average spending newer categories show faster online growth and tmall solidifies its 
+position the platform for brands looking enter china mobile monetization rate 
+higher thanks higher load and potential rollout video ads while 
+monetization rate declines moderately given better conversion ads adopt 
+rate for onwards 
+base 
+base case 
+core business dcf value strategic investments and value ant 
+financial core business chinese retail gmv posts cagr 
+reach china retail sales gmv growth moderates due 
+high base with market growing more slowly than adopt rate 
+for onwards 
+bear 
+bear case 
+core business dcf value strategic investments and value ant 
+financial core business chinese retail gmv posts cagr 
+reach china retail sales taobao tmall loses some traction buyers opt shop 
+more specialized sites adopt rate for onwards 
+position market with long runway 
+for growth 
+current which 
+think presents compelling value its 
+industry peers trading above 
+key value drivers 
+revenue growth especially 
+ecommerce and cloud 
+monetization rate alibaba 
+chinese retail marketplace revenue gmv 
+mobile revenue mobile mau and 
+chinese retail marketplace revenue active 
+customer 
+cloud margin improvement 
+key downside risks 
+slower than expected revenue growth 
+result rising competition 
+greater than expected decline 
+monetization rate 
+larger than expected investments 
+new initiatives 
+integration issues for the numerous 
+acquisitions the company has made 
+sap risk reward 
+investment thesis 
+risk reward weighted the 
+upside see more upside than 
+upside from hana driving licence growth 
+downside the stock and our bear case 
+based trough multiples from the 
+crisis 
+sap has got its mojo back under ceo 
+bill mcdermott and with the influence 
+founder hasso plattner sap has 
+rediscovered innovation the company has 
+rewritten its core business suite take 
+advantage the hana database 
+platform which sap believes could 
+material the product that made 
+mar 
+sap name 
+sep 
+mar 
+price target mar 
+sep 
+historical stock performance 
+mar 
+sep 
+mar 
+current stock price 
+sapg 
+source thomson reuters share price data morgan stanley research estimates 
+price target 
+base case scenario 
+bull 
+bull case eps sales for the saas business 
+product cycle drives continued licence growth while cloud accelerates licence 
+growth helps drive rating and significantly offsets any short term dilution from the 
+business model transition place bull case eps faster top line and margin 
+expansion 
+base 
+below avg since base case eps sales for saas business 
+licence growth turns flat positive while cloud accelerates driving new business 
+growth expect eps return double digit growth from sap 
+subscription business accumulates and the hana product cycle offsets any licence 
+weakness from the transition forecast eps cagr and given the 
+visibility the business model believe earnings appropriate bringing sap 
+closer line with peers additionally place sales the company saas 
+business which growing line with salesforce 
+bear 
+bear case maint 
+sap sees dilution its core business from market shift cloud subs sales but loses 
+meaningful share and sees rating sap trough valuation has been 
+maintenance the last cycles believe this represents strong floor for the 
+stock take bear maintenance and cloud subscription revenues 
+big data accelerating driver for 
+sap our big data blue paper suggests 
+data technology spend will grow yoy 
+for companies with big data strategy 
+sap has with hana 
+cloud concerns could turn 
+positive believe investor concerns 
+could turn positive sap can successfully 
+integrate its cloud acquisitions and crosssell its offers into its installed base 
+maintenance offers floor 
+revenues are recurring and growing 
+high single digits this provides valuation 
+floor think 
+market sentiment still fairly 
+muted our view believe investor 
+sentiment has yet turn bullish sap 
+due concerns that the cloud transition 
+will only negative for sap and that 
+hana unlikely the opportunity 
+sap believes can 
+potential catalysts 
+sap results specifically 
+hana licences and commentary 
+risks achieving price target 
+macro turns putting budgets under 
+pressure 
+slower take for hana and 
+hana cloud subscription transition 
+falters badly received the market 
+morgan stanley research 
+highly restricted 
+disclosure section 
+the information and opinions morgan stanley research were prepared are disseminated morgan stanley llc and morgan stanley 
+and morgan stanley xico casa bolsa and morgan stanley canada limited and morgan stanley international plc 
+and rmb morgan stanley proprietary limited and morgan stanley mufg securities ltd and morgan stanley capital group japan ltd 
+and morgan stanley asia limited and morgan stanley asia singapore pte registration number and morgan stanley asia singapore 
+securities pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents 
+and should contacted with respect any matters arising from connection with morgan stanley research and morgan stanley taiwan limited 
+and morgan stanley international plc seoul branch and morgan stanley australia limited holder australian financial 
+services license which accepts responsibility for its contents and morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents and morgan stanley india company private 
+limited regulated the securities and exchange board india sebi and holder licenses research analyst sebi registration 
+stock broker bse registration and nse registration inb merchant banker sebi registration 
+and depository participant with national securities depository limited sebi registration nsdl which accepts the 
+responsibility for its contents and should contacted with respect any matters arising from connection with morgan stanley research and 
+morgan stanley sekuritas indonesia and their affiliates collectively morgan stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report grace 
+chen katy huberty cfa brian nowak cfa keith weiss cfa adam wood 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+february morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research alphabet inc amazon inc apple inc inc box inc cdk global inc centurylink inc citrix systems inc criteo crown 
+castle corp cyrusone inc electronics for imaging inc ellie mae inc etsy inc facebook inc fireeye inc fitbit inc gopro inc groupon inc grubhub 
+inc ibm microsoft ncr corp nimble storage nutanix inc palo alto networks inc priceline group inc pure storage inc qts realty trust inc rubicon 
+project inc salesforce sap servicenow inc shopify inc splunk inc teradata trivago truecar inc twitter inc veeva systems inc 
+workday workiva inc yelp inc zendesk inc zillow group inc zynga inc 
+within the last months morgan stanley managed managed public offering offering securities alibaba group holding alphabet inc 
+american tower corp apple inc inc care inc cdw corporation centurylink inc cincinnati bell inc coupa software inc crown castle 
+corp cyrusone inc ellie mae inc expedia inc godaddy inc gogo inc microsoft nuance communications inc nutanix inc priceline group inc qts 
+realty trust inc shopify inc mobile inc travelport worldwide limited trivago uniti group inc verizon communications zayo group holdings 
+inc 
+within the last months morgan stanley has received compensation for investment banking services from activision blizzard inc alibaba group holding 
+alphabet inc american tower corp appfolio inc apple inc inc care inc cdk global inc cdw corporation centurylink inc cincinnati 
+bell inc coupa software inc crown castle corp cyrusone inc ebay inc ellie mae inc expedia inc facebook inc godaddy inc gogo inc groupon 
+inc inc instructure inc level communications inc microsoft nuance communications inc nutanix inc priceline group inc qts realty trust inc 
+sabre corp secureworks corp shopify inc travelport worldwide limited trivago uniti group inc verizon communications windstream corp 
+workiva inc zayo group holdings inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from activision blizzard inc adobe 
+systems akamai technologies inc alibaba group holding alphabet inc amazon inc american tower corp appfolio inc apple inc inc 
+atlassian corporation plc autodesk barracuda networks inc bazaarvoice inc bce inc box inc care inc cdk global inc cdw corporation 
+centurylink inc check point software technologies ltd cincinnati bell inc citrix systems inc coupa software inc criteo crown castle corp 
+cyrusone inc descartes systems group inc ebay inc electronic arts inc electronics for imaging inc ellie mae inc endurance international group 
+holdings inc equinix inc etsy inc expedia inc facebook inc fireeye inc fitbit inc fortinet inc frontier communications corp garmin ltd godaddy 
+inc gogo inc gopro inc groupon inc grubhub inc hewlett packard enterprise inc hubspot inc ibm imperva inc instructure inc intelsat 
+intuit jive software inc level communications inc microsoft mindbody inc ncr corp netapp inc new relic inc nimble storage nuance 
+communications inc nutanix inc oracle corporation palo alto networks inc priceline group inc proofpoint inc pure storage inc qts realty trust inc 
+inc red hat inc retailmenot inc rogers communications inc rubicon project inc sabre corp salesforce sap sba communications 
+seagate technology servicenow inc shopify inc splunk inc sprint corp technologies holdings inc symantec mobile inc tableau 
+software telephone data systems telus corp teradata travelport worldwide limited trivago truecar inc twitter inc uniti group inc varonis 
+systems inc veeva systems inc verizon communications vmware inc windstream corp workday workiva inc xerox corp yahoo inc yelp inc zayo 
+group holdings inc zendesk inc zillow group inc zynga inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from adobe 
+systems akamai technologies inc alibaba group holding alphabet inc american tower corp inc autodesk bce inc cdw corporation 
+centurylink inc check point software technologies ltd cincinnati bell inc crown castle corp ebay inc electronic arts inc electronics for imaging inc 
+equinix inc expedia inc fitbit inc fortinet inc garmin ltd hewlett packard enterprise inc ibm intelsat intuit level communications inc 
+microsoft ncr corp netapp inc nuance communications inc oracle corporation priceline group inc red hat inc retailmenot inc rogers 
+communications inc sabre corp salesforce sap seagate technology sprint corp technologies holdings inc symantec mobile 
+inc tableau software telus corp travelport worldwide limited verizon communications vmware inc windstream corp xerox corp zayo group 
+holdings inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+highly restricted 
+the following company activision blizzard inc adobe systems akamai technologies inc alibaba group holding alphabet inc amazon inc 
+american tower corp appfolio inc apple inc inc atlassian corporation plc autodesk barracuda networks inc bazaarvoice inc bce inc box 
+inc care inc cdk global inc cdw corporation centurylink inc check point software technologies ltd cincinnati bell inc citrix systems inc 
+coupa software inc criteo crown castle corp cyrusone inc descartes systems group inc ebay inc electronic arts inc electronics for imaging inc 
+ellie mae inc endurance international group holdings inc equinix inc etsy inc expedia inc facebook inc fireeye inc fitbit inc fortinet inc frontier 
+communications corp garmin ltd godaddy inc gogo inc gopro inc groupon inc grubhub inc hewlett packard enterprise inc hubspot inc 
+ibm imperva inc instructure inc intelsat intuit jive software inc level communications inc microsoft mindbody inc ncr corp netapp inc 
+new relic inc nimble storage nuance communications inc nutanix inc oracle corporation palo alto networks inc priceline group inc proofpoint inc 
+pure storage inc qts realty trust inc inc red hat inc retailmenot inc rogers communications inc rubicon project inc sabre corp 
+salesforce sap sba communications seagate technology servicenow inc shopify inc splunk inc sprint corp technologies holdings 
+inc symantec mobile inc tableau software telephone data systems telus corp teradata travelport worldwide limited trivago 
+truecar inc twitter inc uniti group inc varonis systems inc veeva systems inc verizon communications vmware inc windstream corp workday 
+workiva inc xerox corp yahoo inc yelp inc zayo group holdings inc zendesk inc zillow group inc zynga inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company activision blizzard inc adobe systems akamai 
+technologies inc alibaba group holding alphabet inc amazon inc american tower corp apple inc inc autodesk bce inc cdk global 
+inc cdw corporation centurylink inc check point software technologies ltd cincinnati bell inc citrix systems inc crown castle corp ebay inc 
+electronic arts inc electronics for imaging inc equinix inc expedia inc facebook inc fireeye inc fitbit inc fortinet inc frontier communications corp 
+garmin ltd godaddy inc gogo inc gopro inc groupon inc hewlett packard enterprise inc ibm intelsat intuit level communications inc 
+microsoft ncr corp netapp inc nuance communications inc oracle corporation priceline group inc red hat inc retailmenot inc rogers 
+communications inc sabre corp salesforce sap seagate technology servicenow inc sprint corp technologies holdings inc 
+symantec mobile inc tableau software telus corp travelport worldwide limited twitter inc verizon communications vmware inc windstream 
+corp workday xerox corp yahoo inc zayo group holdings inc zynga inc 
+employee director consultant morgan stanley director ebay inc facebook inc hewlett packard enterprise ibm workiva inc this person 
+not research analyst member research analyst household 
+morgan stanley llc makes market the securities activision blizzard inc adobe systems akamai technologies inc alibaba group holding 
+alphabet inc amazon inc american tower corp apple inc inc atlassian corporation plc autodesk barracuda networks inc bazaarvoice 
+inc bce inc box inc cdk global inc cdw corporation centurylink inc check point software technologies ltd cincinnati bell inc citrix systems 
+inc criteo crown castle corp cyrusone inc ebay inc electronic arts inc electronics for imaging inc ellie mae inc endurance international group 
+holdings inc equinix inc etsy inc expedia inc facebook inc fireeye inc fitbit inc fortinet inc frontier communications corp garmin ltd godaddy 
+inc gogo inc gopro inc groupon inc grubhub inc hewlett packard enterprise inc hubspot inc ibm instructure inc intuit level 
+communications inc microsoft mindbody inc ncr corp netapp inc new relic inc nimble storage nuance communications inc oracle corporation 
+palo alto networks inc priceline group inc proofpoint inc pure storage inc holdings inc qts realty trust inc inc red hat inc retailmenot 
+inc rogers communications inc rubicon project inc sabre corp salesforce sap sba communications seagate technology servicenow inc 
+shopify inc splunk inc sprint corp technologies holdings inc symantec mobile inc tableau software telephone data systems telus 
+corp teradata travelport worldwide limited truecar inc twitter inc cellular corporation varonis systems inc veeva systems inc verizon 
+communications vmware inc western digital windstream corp workday xerox corp yahoo inc yelp inc zayo group holdings inc zendesk inc 
+zillow group inc zynga inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+february 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+morgan stanley research 
+highly restricted 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight over the stock total return expected exceed the total return the relevant country msci index the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+equal weight equal the stock total return expected line with the total return the relevant country msci index the average total return 
+the analyst industry industry team coverage universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the relevant country msci index the 
+average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+underweight under the stock total return expected below the total return the relevant country msci index the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems alibaba group holding 
+alphabet inc amazon inc american tower corp apple inc inc autodesk bazaarvoice inc bce inc cdk global inc centurylink inc 
+cincinnati bell inc crown castle corp ebay inc electronic arts inc etsy inc expedia inc facebook inc fitbit inc frontier communications corp gopro 
+inc groupon inc hewlett packard enterprise inc ibm intelsat intuit level communications inc microsoft ncr corp netapp inc nuance 
+communications inc oracle corporation palo alto networks inc priceline group inc rogers communications inc sap sprint corp symantec tmobile inc telephone data systems telus corp twitter inc uniti group inc cellular corporation verizon communications western digital 
+windstream corp workday xerox corp yahoo inc zillow group inc 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+highly restricted 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+certain information morgan stanley research was sourced employees the shanghai representative office morgan stanley asia limited for the use 
+morgan stanley asia limited 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+morgan stanley research 
+highly restricted 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage hardware 
+company ticker 
+rating 
+price 
+jerry liu 
+fitbit inc fit 
+garmin ltd grmn 
+gopro inc gpro 
+xerox corp xrx 
+katy huberty cfa 
+apple inc aapl 
+cdw corporation cdw 
+electronics for imaging inc efii 
+hewlett packard enterprise hpe 
+inc hpq 
+ibm ibm 
+ncr corp ncr 
+netapp inc ntap 
+nimble storage nmbl 
+nutanix inc ntnx 
+pure storage inc pstg 
+seagate technology stx 
+teradata tdc 
+western digital wdc 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+highly restricted 
+industry coverage software 
+company ticker 
+rating 
+price 
+brian essex cfa 
+appfolio inc appf 
+cdk global inc cdk 
+descartes systems group inc dsgx 
+ellie mae inc elli 
+endurance international group holdings inc eigi 
+godaddy inc gddy 
+instructure inc inst 
+mindbody inc 
+holdings inc qtwo 
+sabre corp sabr 
+shopify inc shop 
+technologies holdings inc ssnc 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+symantec symc 
+vmware inc vmw 
+workday wday 
+melissa gorham 
+barracuda networks inc cuda 
+box inc box 
+fireeye inc feye 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+inc rpd 
+secureworks corp scwx 
+splunk inc splk 
+varonis systems inc vrns 
+sanjit singh 
+atlassian corporation plc team 
+new relic inc newr 
+nuance communications inc nuan 
+tableau software data 
+stan zlotsky cfa 
+bazaarvoice inc 
+coupa software inc coup 
+hubspot inc hubs 
+jive software inc jive 
+veeva systems inc veev 
+workiva inc 
+zendesk inc zen 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley research 
+highly restricted 
+industry coverage internet 
+company ticker 
+rating 
+price 
+brian nowak cfa 
+activision blizzard inc atvi 
+alphabet inc googl 
+amazon inc amzn 
+care inc crcm 
+criteo crto 
+ebay inc ebay 
+electronic arts inc 
+etsy inc etsy 
+expedia inc expe 
+facebook inc 
+groupon inc grpn 
+grubhub inc grub 
+priceline group inc pcln 
+retailmenot inc sale 
+rubicon project inc rubi 
+trivago trvg 
+truecar inc true 
+twitter inc twtr 
+yahoo inc yhoo 
+yelp inc yelp 
+zillow group inc 
+zynga inc znga 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage telecom services 
+company ticker 
+rating 
+price 
+simon flannery 
+american tower corp amt 
+inc 
+bce inc bce 
+centurylink inc ctl 
+cincinnati bell inc cbb 
+crown castle corp cci 
+cyrusone inc cone 
+equinix inc eqix 
+frontier communications corp ftr 
+gogo inc gogo 
+intelsat 
+level communications inc lvlt 
+qts realty trust inc qts 
+rogers communications inc rcib 
+sba communications sbac 
+sprint corp 
+telephone data systems tds 
+telus corp 
+mobile inc tmus 
+uniti group inc unit 
+cellular corporation usm 
+verizon communications 
+windstream corp win 
+zayo group holdings inc zayo 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

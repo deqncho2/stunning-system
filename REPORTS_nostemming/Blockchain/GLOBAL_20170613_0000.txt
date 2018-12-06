@@ -1,0 +1,2277 @@
+foundation 
+june gmt 
+global financials and payments 
+blockchain unchained 
+twelve months incumbent financial institutions are leading the charge with 
+potential cost and capital efficiencies the driver proofs concept 
+proliferate expect gradual change with smaller interoperable 
+blockchains most likely develop 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict interest that could affect the 
+objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held research analyst account 
+foundation 
+global financials and payments 
+blockchain unchained 
+twelve months incumbent financial institutions are leading the charge with 
+potential cost and capital efficiencies the driver proofs concept 
+proliferate expect gradual change with smaller interoperable 
+blockchains most likely develop 
+present five case studies and assess how far they have 
+two investment conclusions 
+progressed against our framework hurdles bny mellon 
+blockchain tool improve efficiency the technology 
+government bond settlement asx industrial scale proof 
+matures funds and securities firms will have opportunity 
+concept project ubin singapore ripple cross border payment 
+further reduce headcount and operational expense 
+solutions and interledger protocol and ubs experiments with 
+blockchain technology becomes more widely used clear 
+utility settlement coin 
+four key findings 
+and settle transactions 
+incumbents likely win have written our may 
+blockchain still hasn had true test early signs are that this 
+fintech report expect incumbents dominate given the 
+promising technology but many the big questions have 
+amount buy and trust required for blockchain fully 
+yet answered and hasn been tested scale 
+utilized 
+complex fast moving business environment 
+implementation favoring incumbents our view 
+this 
+suggests 
+longer 
+time 
+scaled 
+blockchain can inserted into the existing infrastructure for 
+added resiliency and security given concerns over 
+one final thought the rapid appreciation cryptocurrencies has 
+blockchain technological scalability and the complexity 
+elicited many inbound phone calls both our banks and tech teams 
+the existing financial infrastructure think the best 
+possible explanations include investors search uncorrelated risk 
+near term use cases blockchain technology will those 
+assets and technologists looking for incremental security but 
+that integrate blockchain into the existing infrastructure 
+governmental acceptance would required for this further 
+with its promise security and immutability blockchain 
+accelerate the price which regulation 
+technology offers solution for financial intermediaries 
+whose business models depend its reputation being 
+secure and resilient 
+socialising blockchain key legal regulatory and business 
+case questions still need answered different 
+jurisdictions may have different attitudes 
+still killer app kick start blockchain adoption many 
+proofs concept are the process globally but there 
+killer app yet which think needed kick start adoption 
+foundation 
+contributors 
+morgan stanley asia singapore pte 
+morgan stanley llc 
+morgan stanley llc 
+nick lord 
+betsy graseck cfa 
+james faucette 
+equity analyst 
+equity analyst 
+equity analyst 
+nick lord morganstanley 
+betsy graseck morganstanley 
+james faucette morganstanley 
+morgan stanley llc 
+morgan stanley australia limited 
+morgan stanley australia limited 
+xiaohui dong 
+daniel toohey 
+edward pham 
+research associate 
+equity analyst 
+research associate 
+xiaohui dong morganstanley 
+daniel toohey morganstanley 
+edward pham morganstanley 
+morgan stanley international plc 
+morgan stanley international plc 
+morgan stanley international plc 
+anil sharma cfa 
+magdalena stoklosa 
+giulia aurora miotto 
+equity analyst 
+equity analyst 
+equity analyst 
+anil sharma morganstanley 
+magdalena stoklosa morganstanley 
+giulia aurora miotto morganstanley 
+foundation 
+contents 
+executive summary 
+who will advantaged incumbents 
+disruptors 
+blockchain months where what and 
+how 
+case studies 
+crypto conundrums bitcoin and friends blast 
+off but more questions than coins 
+appendix key consortiums 
+appendix pos solution the energy problem 
+foundation 
+executive summary 
+one year ago investors and corporates began take more 
+interest the blockchain see our reports global financials 
+fintech blockchain banking disruptive threat tool 
+april and global exchanges blockchain asx 
+set shape brave new world june that time 
+there was little actual evidence how this new technology 
+would develop the context the financial services 
+industry even was practical beyond small scale 
+are now firmly the middle the proof concept phase 
+development see exhibit this report examine 
+the milestones that have been achieved 
+investment conclusions 
+still too early for specific investment conclusions however 
+progress being made and may see initial parts the shared 
+infrastructure emerge over the next months our view that 
+incumbents are generally more likely benefit than new entrants 
+and are most likely see cost benefits possibly increased capital 
+efficiency further down the road revenue benefits are possible 
+some cases but these should treated with more initial 
+uncertainty companies that are more involved early the 
+process are more likely advantaged our view including asx 
+where what and how 
+ubs bny mellon northern trust state street and jpm finally 
+note that there are competing proofs studying the same use cases 
+singapore project ubin and ubs utility settlement coin 
+over the last months have further developed our thoughts 
+competing proofs trade finance reconciliation given the seeming 
+how the business model for the blockchain will develop see who 
+need for interoperability and fit into existing systems will 
+will advantaged incumbents disruptors except few 
+interesting see competing visions can coexist the future 
+cases where markets are small nonexistent think that 
+whether see winner takes all scenario play out 
+blockchain business solutions they work will developed 
+incumbents will permissioned and will target reducing costs 
+making existing processes more resilient and secure our research 
+shows that originally anticipated most the proofs concept 
+are concentrated capital markets type businesses and around 
+settlement discuss several initiatives this report also 
+show that the technology being developed globally 
+gauge the likelihood success otherwise have written 
+five case studies based existing proofs concept have 
+undertaken interviews with participants trials and reviewed 
+published reports these can found pages our key 
+findings measured against what see the main hurdles 
+adoption can seen exhibit 
+morgan stanley research 
+foundation 
+exhibit 
+summarised conclusions our case studies 
+source morgan stanley research 
+foundation 
+who will advantaged incumbents 
+disruptors 
+exhibit 
+blockchain requires lot buy fully utilized which suggests longer time scaled implementation and this favors incumbents 
+morgan stanley fintech framework 
+blockchain technology 
+the financial infrastructure 
+underdeveloped 
+but close many proof ofconcepts process but killer 
+app yet which needed kickstart adoption 
+yes killer app likely 
+emerges concentrated 
+markets like treasury 
+bond settlement australian 
+equity market clearing 
+where leaders have 
+market share 
+yes 
+direct involvement 
+are amid inflection 
+corporate behavior 
+technology 
+yes bank consortiums for 
+trade settlement 
+merchant adoption for 
+purchases etc 
+mostly applications are mostly targeted 
+reducing costs existing infrastructures 
+like trade settlement and international money 
+transfers 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+yes but rules not allow 
+for customers benefit 
+from fintech speed 
+banks have much 
+richer client information 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+our report fintech gauntlet riches identified number 
+important environmental considerations into our gauntlet 
+factors that influence the pace change and alter firm 
+framework which expect help industry insiders investors and 
+likelihood success through disruption versus partnering with 
+companies gauge where particular fintech effort should position 
+incumbents assessed the circumstances that enable complete 
+itself vis vis incumbents maximize impact and potential running 
+fintech disruption versus innovations that ultimately are better 
+the blockchain innovation through this framework leads 
+suited partner with and drive the operating improvement for 
+believe that incumbents opposed disruptors may best 
+incumbents while there wide variation environment 
+suited harnessing the benefits this technology scalable way 
+constraints and competition distilled what think are the most 
+see exhibit 
+morgan stanley research 
+foundation 
+exhibit 
+blockchain possible timeframe for implementation 
+assets 
+proliferate 
+shared infrastructure 
+emerges 
+you are 
+here 
+assess blockchain value 
+for financial assets 
+proof 
+concept 
+source morgan stanley research 
+assess blockchain value for 
+proof concept 
+shared infrastructure emerges 
+financial assets 
+banks and fiis tee specific assets 
+proven assets adopted well beyond initial 
+banks and other financial infrastructure 
+test case for blockchain 
+poc group 
+intermediaries fiis including central 
+poc goal assess blockchain can scale 
+develop interface for external users 
+depositories exchanges technology 
+and reduce costs 
+leverage apis 
+vendors size potential efficiencies from 
+does tech work and scale 
+reduce costs with fewer heads and 
+permissioned shared secure distributed 
+can buyer seller and their parties 
+increased mutualization infrastructure 
+ledgers 
+lawyers auditors regulators validate 
+costs 
+the transaction with few human touch 
+assets proliferate 
+intermediaries form industry groups 
+points replacing teams people 
+more assets move onto blockchain 
+discuss 
+does offer benefits beyond existing 
+efficiencies prove out 
+banks 
+and 
+financial 
+opportunities 
+hyperledger foundation 
+infrastructure 
+linux 
+technologies performance cost speed 
+scale analysis 
+poc tiering segment into most least 
+important assets address 
+focus resources most important assets 
+most inefficient processes 
+engage regulators lawyers auditors 
+foundation 
+what happened far 
+blockchain the technology behind bitcoin and other 
+cryptocurrencies erupted onto the fintech scene several 
+years ago creating parallel financial system based 
+decentralized 
+ledger 
+independent 
+existing 
+infrastructures there was perception meaningful tail 
+risk incumbents including the card networks money 
+transfer networks and banks 
+blockchain technology the context banking and financial 
+institutions really refers the more general distributed 
+ledger technology importantly banking requires private 
+permissioned network opposed open 
+permission less network such the one underpinning 
+bitcoin 
+several consortiums led incumbents with high market 
+share have emerged test proof concept blockchain 
+technologies particularly the securities clearing and 
+settlement space leaders including asx nasdaq bny 
+mellon northern trust state street and jpm are assessing 
+whether blockchain can deliver services more cheaply and 
+more securely than current systems 
+applications for distributed ledger have broadened and 
+various efforts are under way assess the business case 
+whether the benefits exceed the costs and risks 
+implementation particularly relative simpler alternatives 
+such incremental updates legacy infrastructure 
+what next 
+proof concept for some applications like securities 
+clearing and settlement and slowing enthusiasm for others 
+bitcoin the point sale 
+expect adoption will come waves asset class asset 
+class asset classes ripe for proof concept efforts are 
+those with 
+mature legacy process with existing friction 
+inefficiencies that warrant disruption ntrs private 
+equity fund administration 
+concentrated market share where incumbents could 
+effectively lead the proof concept effort bny 
+mellon treasury bond settlement asx equities 
+settlement 
+illiquid markets sme securities settlement asean 
+government bonds markets that not currently exist 
+international transfer assets between mobile 
+wallets emerging markets nyiax market for 
+advertising contracts 
+adoption some form blockchain technology 
+incumbents likely given the amount collaboration 
+required expect could take several years replace 
+existing back office functions produce measurable cost 
+savings the asset classes adopted 
+there potential application part the cybersecurity 
+toolkit against escalating cybersecurity risk blockchain 
+technology considered more difficult hack 
+and blockchain 
+artificial intelligence and blockchain have been among the buzzword elites the past couple years can help but wonder 
+they shouldn actually competitors whether they will complement one another 
+the core intention blockchain concept create record that irrefutable its accuracy and reliability but like 
+everything else life absolute confidence comes price exponentially growing computing and bandwidth requirements 
+least linear growth storage requirements significant security and privacy questions and all those costs are very front end 
+loaded creating free rider incentives with the payoff coming long term maintenance costs fall 
+the other hand could actually calculate probabilities accuracy and reliability increasing levels confidence the 
+long run there economic difference between and reliability and better data more computing power and 
+greater bandwidth should improve the ability deliver higher confidence levels improving the calculation probabilities can 
+achieved with the falling costs afforded moore law while investment undertaken hoc basis investment and 
+improvement can made iteratively allowing for clearer path and time payback 
+have seen the probabilistic approach transaction security and already see substantial success within the traditional payment 
+networks like those operated visa and mastercard the other hand working improve behind the scenes transaction 
+assessments those networks have been able keep overall fraud losses low even relative newcomer square has been able 
+keep its losses below even has given away the ability accept credit and debit cards they literally give away 
+readers and they require credit checks for individuals other verification person account and still effectively manage 
+merchant consumer fraud think moore law and improved data analytics could push those losses lower 
+hence our question can used conjunction with internet things cloud computing big data and all the current 
+buzzwords improve the application blockchain 
+morgan stanley research 
+foundation 
+blockchain months where what and 
+how 
+headlines have been proliferating 
+exhibit 
+number times blockchain has been mentioned news and 
+company documents over time 
+whilst blockchain distributed ledger technology has been around 
+for number years has only really begun gain traction the 
+mainstream the last months number mainstream 
+financial service providers moved from discussing the possibilities 
+experimentation via number proofs concept show 
+exhibit there has been significant pick the number times 
+blockchain has been mentioned company filings since early 
+further analysis highlights the preponderance interest capital 
+markets type businesses with the mentions blockchain 
+company filings from capital markets focused groups geography 
+north american groups have the largest number mentions but 
+blockchain been looked groups around the globe 
+source alphasense morgan stanley research 
+exhibit 
+exhibit 
+mentions blockchain industry sub sector 
+mentions blockchain geography 
+source alphasense morgan stanley research 
+source alphasense morgan stanley research 
+foundation 
+case studies 
+bny mellon government bond settlement platform 
+what happened far 
+bny mellon has developed blockchain based platform for treasury bond settlement called broker dealer 
+services which has been and running internally since march unlike other efforts discussed this note that are still 
+experimental proof concept stage has been production for over year 
+current use case for adding resiliency bny mellon record keeping system whole cost effective way 
+security information and resiliency are critical for custodian bank while not cost save play replace the existing 
+settlement platform provides cost effective way adding extra layers resiliency the current platform 
+what next 
+the near future bny mellon could roll out clients and develop similar applications where blockchain 
+technology leveraged cost effective way add additional layer resiliency 
+production since march bny mellon has 
+exhibit 
+developed blockchain based platform for treasury bond 
+bny mellon our fintech framework 
+blockchain based 
+settlement termed broker dealer services has 
+treasury bond settlement 
+been and running internally since march 
+bank new york mellon platform 
+independently calculates the tertiary ledger leveraging blockchain 
+infrastructure 
+underdeveloped 
+behavior tech 
+inflection 
+yes 
+technology and bny mellon reconciles the primary ledger 
+yes 
+government 
+jumpstarting 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires 
+collaboration 
+funding 
+constraint 
+incumbents 
+concentrated 
+disruption 
+challenged 
+partner with 
+incumbents 
+beyond proof concept different from the many other efforts 
+yes 
+regulatory arb 
+opportunity 
+accomodating 
+regulation 
+sufficient data 
+available 
+disruption possible 
+but slow 
+source morgan stanley research 
+ripe for 
+disruption 
+opportunity 
+revolutionize 
+discussed this note that are still experimental 
+proof concept stage has been production for over 
+year bny mellon business technology and operational staff utilize 
+for its added visibility which allows them respond 
+issues and resolve discrepancies more quickly 
+but not client facing yet currently still only serves 
+internal backup system the core system bdc which houses more 
+capabilities and information than just the settlement piece 
+not yet client facing however rolling out clients has always 
+been bny mellon intention more work needs done 
+identify the specific set incremental services that would 
+valued clients and client education the industry whole 
+still needs get comfortable with the still nascent blockchain 
+technology 
+morgan stanley research 
+foundation 
+exhibit 
+illustrative structure bny mellon relation existing infrastructure bdc 
+core system bdc 
+other functions 
+function 
+function 
+function 
+existing 
+settlement 
+infrastructure 
+duplicative 
+blockchain 
+source company information morgan stanley research 
+added resiliency the current use case fundamental 
+what next the near future bny mellon could roll out 
+custodian bank the security and resiliency its record keeping 
+clients and develop similar applications where blockchain 
+capabilities blockchain technology cost effective way 
+technology leveraged additional layer resiliency 
+introduce added layer resiliency existing infrastructure 
+have discussed duplicative the settlement piece 
+there still work done figure out the specifics 
+bdc creates backup record independent bdc thereby adding 
+client interface bny mellon would also need engage 
+resiliency the system whole addition offers more 
+regulatory dialogues and establish necessary standards and 
+granular information particularly terms historical information 
+protocols think bny mellon well positioned take 
+given blockchain technology immutability 
+those challenges with market share the space this 
+duplicative the existing settlement piece the more 
+will increase further jpm exits the remaining piece 
+comprehensive bdc system not strictly cost save play 
+have written previously killer app likely emerge 
+concentrated markets market with concentrated leaders 
+could more easily set standards and governance protocols 
+and have less issues aligning incentives and sharing costs 
+bny mellon also running way learn more 
+about the blockchain technology think there potential 
+develop similar applications where the blockchain 
+technology leveraged cost effective method 
+enhancing existing processes and software introducing 
+additional layer resiliency 
+foundation 
+exhibit 
+assessing bny mellon our framework 
+hurdles 
+use case cost benefit 
+use case cost benefit 
+comments 
+adds resiliency creates immutable version the 
+truth and allow for faster response time case any issues 
+discrepancies 
+coordination failure 
+cost mutualization free riders 
+bny mellon absorbing the cost given still 
+internal application however there potential monetize and 
+recoup initial investment rolled out clients 
+aligning incentives 
+relatively high likelihood incentives being aligned rolled out 
+clients given bny mellon dominant market share the 
+government bond settlement space and growing 
+evolving right standard 
+application still limited internal use but think bny 
+mellon well positioned establish the necessary standards 
+rolled out client given its dominant market share 
+governance immutability 
+application still limited internal use but think bny 
+mellon well positioned manage governance issues rolled 
+out client given its dominant market share 
+policy support 
+regulation 
+unlikely have involved regulators given internal nature the 
+transaction will have engage dialogues moving 
+commercial applications 
+legal risks privacy 
+internal application far and information contained within bny 
+mellon system bny mellon likely will have examine this 
+more closely for commercial applications 
+technical hurdles 
+scalability performance 
+scaling not issue built handle large volume 
+transactions 
+security 
+added resiliency the existing core bdc system blockchain 
+technology more immune hacks 
+simplicity 
+allows bny mellon resolve issues more quickly than the 
+legacy system 
+source company information morgan stanley research 
+morgan stanley research 
+foundation 
+asx the rubber hits the road 
+what happened far 
+asx partnership with digital asset holdings where owns stake has successfully completed its initial phase 
+designing dlt distributed ledger technology prototype its dlt prototype met three requisite thresholds performance 
+security and scalability 
+asx commenced the next phase development build industrial strength platform test enterprise grade capabilities 
+scale speed persistence and security 
+asx initiated consultation process and currently engaging with key stakeholders address requirements via six working 
+groups the public consultation feedback summary released march indicates market participants are supportive 
+asx has flagged that its decision will made december after its technical committee and business 
+committee meetings decision would clear the path for beta testing phase whereby the dlt would operate alongside the 
+existing chess platform for equities settlement 
+what next 
+asx decision late will important event with ramifications for the global adoption blockchain 
+equity markets 
+decision proceed would clear signal that major hurdles adoption can overcome such decision clears 
+the path for asx beta testing phase with its dlt operating alongside the existing chess platform this could 
+catalyze other markets follow soon after 
+decision not proceed likely stalls any attempts global operators implement dlt replacement within 
+large liquid cash equity market our analysis shows that the structure the australian equity market highly favorable 
+the adoption dlt relative other markets therefore asx cannot overcome the hurdles adoption seems 
+unlikely succeed elsewhere 
+foundation 
+exhibit 
+exhibit 
+asx distributed ledger technology our fintech framework 
+blockchain based 
+issuers and million daily trades 
+equity trading settlement 
+australian securities exchange with digital asset holding 
+infrastructure 
+underdeveloped 
+behavior tech 
+inflection 
+yes 
+government 
+jumpstarting 
+yes 
+requires 
+collaboration 
+funding 
+constraint 
+incumbents 
+concentrated 
+partner with 
+incumbents 
+number listed companies 
+daily value traded 
+daily number trades 
+daily value cleared 
+daily settlement messages 
+billion 
+million 
+billion 
+source morgan stanley research based morgan stanley research estimates 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+disruption 
+challenged 
+asx australia primary cash equities market with listed 
+regulatory arb 
+opportunity 
+accomodating 
+regulation 
+sufficient data 
+available 
+disruption possible 
+but slow 
+ripe for 
+disruption 
+opportunity 
+revolutionize 
+source morgan stanley research 
+where were then when wrote our previous note june 
+asx had acquired equity stake technology player 
+digital asset holdings with the two parties the initial phase 
+designing dlt prototype asx noted that dlt could materially 
+change the clearing and settlement processes the equity market 
+delivering significant benefits users and that asx was looking 
+collapse the securities market value chain the build phase 
+had been planned for the next months while definitive date 
+had been set for decision the implied date was mid late 
+blockchain option remains attractive the defensive beta growth 
+levers and blockchain opportunity makes asx our preferred capital 
+where are now the months following our initial report 
+markets exposure australia our report global exchanges 
+blockchain asx set shape brave new world highlighted that 
+asx has successfully completed its initial phase with its dlt 
+first movers blockchain have the potential reshape business 
+prototype meeting three requisite thresholds performance 
+models build competitive advantage and grow new revenue pools 
+security and scalability demonstration suite has been 
+for asx blockchain defends the clearing monopoly and reduces 
+established sydney demonstrate and develop 
+market costs while creating opportunities grow data and 
+functionality with stakeholders 
+analytic services expand securities services upstream custody 
+and downstream registry iii expand the investment universe 
+exhibit 
+beyond equities become the gateway for private banks 
+asx demonstration suite 
+investment platforms and establish innovative ecosystem with 
+apps providing richer functionality for market participants 
+reinforcing asx positioning the digital vault our report asx 
+defensive growth plus blockchain captures these benefits our 
+bull case 
+source asx 
+distinctively placed our assessment the state readiness 
+across global equities exchanges highlighted that asx was best 
+placed execute dlt solution this has allowed asx pioneer 
+the implementation dlt large liquid national equity market 
+the asx project significantly more complex than those occurring 
+elsewhere where trials typically involve limited number assets 
+simple ownership structures relatively low turnover result 
+asx faces significantly larger hurdles but potentially much larger 
+benefits terms new revenue streams and cost reduction 
+morgan stanley research 
+foundation 
+asx commenced the next phase development build 
+asx released public consultation feedback summary 
+industrial strength platform test enterprise grade 
+march general market participants were supportive 
+capabilities scale speed persistence security 
+see here 
+asx increased its stake its technology partner digital asset 
+asx has flagged that its decision will made 
+holdings 
+december after its technical committee and business 
+asx initiated consultation process and currently 
+committee meetings decision would clear the path for 
+engaging with key stakeholders address requirements via 
+beta testing phase whereby the dlt would operate 
+six working groups 
+alongside the existing chess platform for equities 
+settlement 
+exhibit 
+asx six working groups 
+working group 
+account structures participant models 
+corporate actions 
+transfers conversions data migration 
+settlement enhancements 
+data storage delivery reporting 
+non functional requirements 
+source asx morgan stanley research 
+exhibit 
+the dlt timeline 
+source asx 
+feb 
+mar 
+apr 
+may 
+jun 
+jul 
+aug 
+sep 
+oct 
+nov 
+dec 
+decision 
+foundation 
+may the stockbrokers association conference 
+december the world will watching 
+blythe masters ceo digital asset holdings noted 
+asx decision late will important event 
+asx dah are track deliver sufficient 
+with ramifications for the global adoption blockchain equity 
+core foundation platform and certain 
+markets 
+minimum functionality that will enable 
+clearing and settlement the end 
+decision proceed would clear signal that major 
+asx dlt could accommodate many and 
+hurdles adoption can overcome such decision clears 
+various new services top the platform 
+the path for asx beta testing phase with its dlt operating 
+iii the dlt could give regulators bird eye 
+alongside the existing chess platform this could 
+view that could permit them see all activity 
+catalyze other markets follow soon after our assessment 
+the aggregate and drill down potentially 
+global readiness for blockchain our prior report suggests 
+far the ultimate beneficial owner 
+the next most ready equity markets are singapore japan and 
+there risk that certain business models 
+hong kong 
+will disrupted but not though all 
+decision not proceed with dlt solution likely 
+broker dealers will put out business 
+stalls any attempts global operators implement dlt 
+all custodians will longer exist 
+replacement within large liquid cash equity market our 
+analysis shows that the structure the australian equity 
+how has our thesis conviction changed over the last months 
+market highly favorable the adoption dlt relative 
+the developments outlined above suggest progress towards 
+other markets see defensive growth plus blockchain 
+meeting the requirements for decision december the 
+therefore asx cannot overcome the hurdles adoption 
+asx consultation process has highlighted that the market wants 
+seems unlikely succeed elsewhere the short 
+more than just simply replace the existing system with dlt 
+medium term 
+participants want capture benefits the technology offers sooner 
+there risk that this complicates the delivery the challenge for 
+asx balance additional bells whistles upfront with clear 
+staged development pipeline for richer functionality this will key 
+reducing the risk execution while maintaining stakeholder 
+support and commitment their upfront investment think 
+easy win for stakeholders would generating efficiencies 
+corporate actions processing such partnering with the new 
+payments platform facilitate real time payments 
+morgan stanley research 
+foundation 
+tackling the hurdles but long way 
+exhibit 
+measure asx progress towards meeting key hurdles 
+hurdles 
+use case cost benefit 
+comments 
+asx decision undertake the necessary capex spend build 
+prototype and industrial strength blockchain suggests views 
+the cost benefit favorable 
+use case cost benefit 
+potential benefits include back office operations cost 
+reductions for both asx and participants particular relating 
+reconciliations and corporate actions lower capital required 
+held against operational and counterparty risks relating equities 
+post trade iii new revenue streams issuer services and data 
+coordination failure 
+asx the monopoly incumbent funding the development stage 
+itself the economics mutualizing ongoing operational costs 
+remain unaddressed 
+cost mutualization free riders 
+key unanswered questions include will stakeholders required 
+fund initial set connectivity costs asx effect outsourcing 
+its operating costs its participants how will nodes miners 
+reimbursed 
+aligning incentives 
+this significant hurdle adoption given the second order 
+impact revenue streams and costs are already witnessing 
+some differences opinion for example 
+while global brokers support the adoption iso 
+messaging local players are resistant reflecting the high costs 
+implement 
+similarly the intention consolidate various sub registers into 
+single asx register has been met with resistance from some share 
+registrars which currently derive income from servicing the issuer 
+sponsored subregister 
+evolving right standard 
+asx leading the global securities exchanges building its own 
+dlt inhouse collaboration with dah remains seen 
+whether other global exchanges adopt similar standard and 
+therefore whether interoperability could possible future 
+governance immutability 
+expect the governance asx blockchain equities settlement 
+depository broadly similar today chess with asx 
+acting the gatekeeper 
+policy support 
+regulation 
+the key regulator asic has been involved the stakeholder 
+engagement process have limited details around whether the 
+current regulatory environment will facilitate dlt and what rule 
+changes are needed 
+legal risks privacy 
+there has been limited commentary this topic there has been 
+suggestion that regulators could given master key view all 
+transactions 
+technical hurdles 
+scalability performance 
+the scale requirements australia cash equities market are 
+unprecedented for dlt technology asx initial prototype satisfied 
+initial scalability thresholds while recent commentary from dah 
+suggests that the industrial strength platform will ready later this 
+year 
+security 
+asx dlt will private permissioned ledger specific details 
+remain limited 
+simplicity 
+source morgan stanley research 
+there has been limited commentary this topic 
+foundation 
+iii singapore project ubin 
+what happened far 
+the monetary authority singapore mas partnering with experiment with blockchain technology project titled 
+ubin mas aim was trial the blockchain pvp followed government securities trading payment for delivery 
+and finally iii cross border payments most likely operation with canada hong kong and possibly australia india and 
+japan 
+the first stage the trial domestic interbank payments has already concluded the second stage securities trading about 
+begin sgx expected involved the second trial and will asean government securities secondary trading 
+with particular focus settlement 
+what next 
+the first trial has been successful that the blockchain has been successfully used complete interbank payments however 
+number issues for further examination have emerged 
+are likely see many blockchains that will use different protocols therefore important that apis are developed 
+ensure that the blockchains can talk each other this will resolve some the cost mutualization and free rider risk 
+well dealing with incentivization and possibly scalability issues 
+governance legal and regulatory issues still too early have come firm conclusions are still really the 
+stage proving the technical side some the specific concerns are how integrate assets held the distributed 
+ledger with bankruptcy procedures addition privacy requirements mas also keen evaluate how the creation 
+digital sgd could impact monetary policy well how may impact market and systemic risks 
+technology hurdles regarding the speed and capacity the blockchain could issues addition the technology needs 
+upgradable one the next stages for project ubin further evaluate different technical solutions 
+what the proof concept 
+exhibit 
+project ubin our fintech gauntlet framework 
+blockchain based 
+november mas announced that was partnering with 
+singapore domestic interbank payments 
+first multiple project ubin initiatives with 
+infrastructure 
+underdeveloped 
+behavior tech 
+inflection 
+mas hopes trial cross border payments most likely cooperation 
+yes 
+forces that 
+enable disruption 
+requires 
+collaboration 
+funding 
+constraint 
+incumbents 
+concentrated 
+partner with 
+incumbents 
+government securities trading payment for delivery finally 
+government 
+jumpstarting 
+forces that 
+limit disruption 
+disruption 
+challenged 
+rural island off singapore coast mas aim was trial domestic 
+interbank payments the blockchain pvp followed 
+yes 
+experiment with blockchain technology project titled ubin after 
+regulatory arb 
+opportunity 
+accomodating 
+regulation 
+sufficient data 
+available 
+disruption possible 
+but slow 
+ripe for 
+disruption 
+opportunity 
+revolutionize 
+with canada hong kong and possibly australia india and japan the 
+consortium that mas has assembled includes international 
+participants such bank america merrill lynch mitsubishi ufj 
+credit suisse morgan and hsbc alongside the three main local 
+banks dbs ocbc and uob and sgx 
+the first stage the trial domestic interbank payments was built 
+upon the groundwork done bank canada and involved 
+the creation digital sgd backed banks cash reserves with 
+source morgan stanley research 
+morgan stanley research 
+foundation 
+mas these digital sgds were then used make payments 
+what are the outcomes 
+blockchain this trial has already been concluded and deloitte and 
+mas have recently published report the second stage 
+the first trial has been successful that the blockchain has been 
+securities trading about begin sgx expected involved 
+successfully used complete interbank payments however 
+the second trial and will singapore government securities 
+number issues for further examination have emerged exhibit 
+sgs trading with particular focus settlement sgx already 
+have assessed these trials according our framework ten 
+provides non blockchain venue trade more liquid debt bond 
+hurdles 
+pro 
+one key thought emerge that are likely see many 
+mas main focus trialing blockchain was improve efficiency 
+blockchains and that these will use different protocols 
+within the financial services industry order enhance singapore 
+therefore important that apis developed ensure that the 
+attractiveness regional financial hub and promote the 
+blockchains can talk each other this was key component the 
+government smart nation agenda mas has said that focussed 
+interbank payment trial where bcs information systems provided 
+three advantages that could come from the use blockchain 
+banks with common payments gateway such that they would not 
+need rewrite their own back end systems participate the 
+operational efficiency can reduced need for 
+scheme the first stage project ubin was designed work with 
+reconciliation lower costs for market participants also 
+meps mas existing interbank clearing system the benefit 
+expected there will fewer failed trades which consume 
+this interoperability flexibility there need impose 
+disproportionate amount resources 
+expensive retooling the industry rather existing systems can 
+better collateral management 
+tied and when individual participants wish join this will 
+reduced systemic risk 
+resolve some the cost mutualization and free rider risk well 
+dealing with incentivization and possibly scalability issues evolving 
+more specifically when comes government bond trading and 
+one correct standard would also less issue for small 
+especially asean bond trading also hoped that the blockchain 
+country such singapore acceptance rather than coercion 
+can deliver improved liquidity and price discovery what are 
+necessary 
+currently otc markets especially can provide secure way for 
+participants show inventory and invite bids from selected parties 
+governance legal and regulatory issues still too early have 
+come firm conclusions are still really the stage proving 
+the technical side some the specific issues raised the deloitte 
+report are how integrate assets held the distributed ledger with 
+bankruptcy procedures addition privacy requirements mas 
+also keen evaluate how the creation digital sgd could impact 
+monetary policy well how may impact market and systemic 
+risks 
+finally technical hurdles some the participants have spoken 
+noted that data storage not perceived major issue and 
+scalability might achieved blockchains are interoperable but the 
+speed and capacity the blockchain could issues thus the 
+approach far has been test out smaller markets addition 
+the technology needs upgradable one the next stages for 
+project ubin further evaluate different technical solutions 
+foundation 
+exhibit 
+singapore blockchain trials analysed our framework 
+hurdles 
+use case cost benefit 
+use case cost benefit 
+comments 
+use case interbank payments government securities markets 
+perceived benefits lower costs increased liquidity and 
+transparency price discovery improved collateral 
+management lower systemic risk 
+coordination failure 
+cost mutualization free riders 
+aligning incentives 
+evolving right standard 
+governance immutability 
+believe that costs can kept low with investment provided 
+centrally use apis ensure that blockchain works with 
+existing technologies 
+use apis ensure cost for market participants low and 
+voluntary therefore less need align incentives 
+participants can choose join not depending whether 
+not they see the benefit 
+believe that multiple standards will used key develop 
+interoperability 
+this key issue once technical issues are proven trial will 
+move think about governance implications 
+policy support 
+regulation 
+legal risks privacy 
+this key issue once technical issues are proven trial will 
+move think about regulatory implications mas sees cross 
+border issues key keen work with other regulators 
+this 
+this key issue once technical issues are proven trial will 
+move think about legal implications 
+technical hurdles 
+scalability performance 
+the moment trial confined small markets scalability not 
+issue still early try large market use apis 
+may also overcome some the scalability issues use new 
+database technologies also expected overcome issues 
+the amount data that needs stored within the 
+blockchain however speed and the ability process large 
+numbers transactions still issue although there may 
+workarounds paralell processing 
+security 
+should possibly better than existing systems this 
+key issue however 
+simplicity 
+source morgan stanley research 
+morgan stanley research 
+foundation 
+ripple solutions network and interledger protocol 
+what happened far 
+increasingly digitized world banks centralized holders important personal and financial information have urgent 
+task develop more defensive technologies against rising cybersecurity risk 
+there recognition that blockchain technology could part the arsenal arguably more difficult hack hence 
+integrating blockchain technology into existing banking infrastructure potential way introduce added layer security 
+course for this work blockchain has interoperable with legacy technologies the existing banking infrastructure 
+ripple live demo its interledger protocol ilp indicates that the interoperability issue could solvable 
+what next 
+more work needs done but think ilp enabler for blockchain technologies among which ripple own ripple 
+network and ripple solutions lowers the bar for disruption longer required that everyone subscribes one single 
+blockchain based superledger task not even incumbents today have achieved 
+ripple still the process rolling out the ilp more payment networks writing more network specific plug ins 
+addition even though the network more secure user terminals can still hacked currently blockchain technology relies 
+single private key you lose the private key you lose all the balances work still needs done make key management 
+more robust 
+exhibit 
+banks armor against escalating cybersecurity risks more 
+ripple despite being outsider positioning itself partly 
+stake our world becomes increasingly digitized the recent 
+disruptive creating network that involves financial institutions and 
+wannacry ransomware attack further highlights potential 
+other blockchains 
+system wide vulnerabilities banks centralized holders 
+blockchain based 
+important personal and financial information have urgent task 
+global fiat currency payment network 
+ripple interledger protocol 
+risk 
+infrastructure 
+underdeveloped 
+behavior tech 
+inflection 
+yes 
+forces that 
+enable disruption 
+requires 
+collaboration 
+funding 
+constraint 
+incumbents 
+concentrated 
+partner with 
+incumbents 
+source morgan stanley research 
+cryptography and consensus driven mechanism blockchain 
+yes 
+forces that 
+limit disruption 
+disruption 
+challenged 
+blockchain technology part the arsenal employing 
+government 
+jumpstarting 
+regulatory arb 
+opportunity 
+accomodating 
+regulation 
+sufficient data 
+available 
+disruption possible 
+but slow 
+develop more defensive technologies against rising cybersecurity 
+ripe for 
+disruption 
+opportunity 
+revolutionize 
+technology arguably more difficult hack integrating blockchain 
+technology into existing banking infrastructure potential way 
+introduce added layer security the case where the primary 
+system attacked records kept blockchain based ledgers could 
+facilitate easier restoration course for this work blockchain 
+has interoperable with legacy technologies the existing 
+banking infrastructure 
+foundation 
+interoperability already solved recent industry conference 
+ilp enabler for blockchain technologies lowering the bar 
+ripple conducted live demo its interledger protocol ilp 
+for disruption creating blockchain based superledger next 
+payment was sent across seven different ledgers including public 
+impossible would require everyone sign this would not 
+and private blockchains centralized ledger and traditional 
+easy feat even for mature technologies let alone relatively 
+payment channel the payment was converted into fiat currency 
+unproven technology ilp offers out connects existing 
+cryptocurrencies xrp and ether depending the payment 
+infrastructure and the newer and competing blockchain 
+channels this lends confidence our thesis that blockchain could 
+technologies with padding from the more secure blockchain 
+work with and fact enhance existing infrastructure 
+technology the existing fiat currency network arguably more 
+secure with lower system wide risks 
+ilp connects different payment channels clear ilp not 
+blockchain instead protocol that coordinates disparate 
+ripple own cross border payment solutions and global 
+ledgers blockchain traditional update their records money 
+gross settlement network are among those blockchain 
+effectively sent from one end the other 
+technologies enabled ilp leveraging blockchain 
+technology and the cryptocurrency xrp ripple aims 
+exhibit 
+facilitate faster and more secure cross border payments 
+ilp visual 
+lowering costs and unlocking liquidity 
+not home run yet ripple still the process rolling out the 
+while lines 
+represent ilp 
+ilp more payment networks writing more network specific 
+plug ins addition even though the network more secure user 
+terminals can still hacked currently blockchain technology relies 
+single private key you lose the private key you lose all the 
+each bubble 
+represents 
+ledger 
+payment 
+system 
+blockchain 
+otherwise 
+balances work still need done make key management 
+more robust 
+source interledger protocol ripple morgan stanley research 
+morgan stanley research 
+foundation 
+exhibit 
+ripple ilp potential blockchain technology enabler and hurdle clearer 
+hurdles 
+use case cost benefit 
+use case cost benefit 
+comments 
+provides out the near impossibility creating 
+superledger which involves all participants global payment 
+network 
+coordination failure 
+cost mutualization free riders 
+terms the interledger protocol ripple willingly absorbing 
+the cost development 
+they see interledger enabler for blockchain technologies 
+general addition interledger would likely allow ripple have 
+the birds eye view the industry and provide invaluable insight 
+ripple other ventures 
+aligning incentives 
+assume the technology resilient and well marketed 
+participants would incentivized connect they can more 
+easily insert themselves into the payments network 
+evolving right standard 
+being the sole provider the technology ripple has the 
+opportunity lead the standard setting 
+each payment solution can set its own governance standards 
+interledger would merely act the connecter 
+governance immutability 
+however transactions across interledger are immutably 
+recorded 
+policy support 
+regulation 
+ripple active dialogue with regulators from different 
+jurisdictions garner support 
+legal risks privacy 
+does not apply interledger connect other payment channels 
+which will have solve aml kyc privacy issues separately 
+technical hurdles 
+scalability performance 
+scalability issue interledger acts connector 
+security 
+interledger cryptographically confirms the success failure 
+the payment however more work needs done key 
+management 
+simplicity 
+source morgan stanley research 
+provides elegant solution the coordination problem among 
+competing payment channels 
+foundation 
+blockchain technical 
+why blockchain more secure 
+high level blockchain consensus based system records could only changed when nodes the network reach 
+consensus requires significant computing power hijack even one node let alone all nodes network other 
+words hacking would extremely difficult set and more importantly prohibitively expensive 
+has blockchain ever been hacked 
+yes possible hack blockchain especially networks with fewer nodes 
+the most famous hack was the dao attack june which led ether theft the hack exploited vulnerability 
+application called dao that was running the ethereum smart contract blockchain platform 
+number bitcoin exchanges have also been hacked and are vulnerable the traditional sense they often store user data 
+private keys centralized location key management therefore critical managing security the network 
+what happened after the ethereum hack 
+the hack caused philosophical split and led the creation ethereum and ethereum classic 
+ethereum includes hard fork that reversed the theft through change code the move was controversial 
+undermined very core feature blockchain its immutability still majority the ethereum members voted for this option 
+the minority who thinks immutability the network should respected even hack stuck with what now known 
+the ethereum classic where the theft preserved record 
+what about electricity cost 
+most major cryptocurrencies bitcoin and ether today rely proof work pow validate transactions miners clear 
+transactions solving complex math puzzle only the first one that solves the puzzle gets rewarded with bitcoins she 
+mines the coin there computational redundancy the system miners compete solve the same puzzle 
+alternative that currently being explored proof stake pos where transaction validators are chosen pseudorandom way based size stake ownership that particular cryptocurrency ethereum has said that considering 
+switching the pos consensus mechanism 
+more our appendix 
+morgan stanley research 
+foundation 
+wealth managers and blockchain industry examples 
+what happened far 
+various proof concept projects spanning wealth and investment banking 
+most advanced projects are focused reducing operating client costs back office costs settlement reconciliation client data 
+handling and onboarding and syndications 
+what next 
+blockchain could reduce the costs wealth management millennials 
+implications abound blockchain enables cost reduction and robo advice see our report robo advice this turn enables 
+democratization wealth management even lower value clients can serviced profitably 
+exhibit 
+ubs leading charge use digital cash way set industry 
+utility settlement coin settlement revolution 
+making 
+standard clear and settle financial trades over distributed ledger 
+blockchain based 
+ubs lead the utility settlement coin usc project alongside 
+asset backed digital cash 
+deutsche bank santander and bny mellon aims connect the 
+ubs utility settlement coin 
+more traditional fiat currency with distributed ledger technology 
+infrastructure 
+underdeveloped 
+behavior tech 
+inflection 
+usc aims optimise the clearing and settlement system used 
+yes 
+forces that 
+enable disruption 
+requires 
+collaboration 
+funding 
+constraint 
+incumbents 
+concentrated 
+partner with 
+incumbents 
+attempt big banks collaborate order enhance digital 
+yes 
+forces that 
+limit disruption 
+disruption 
+challenged 
+banks terms security and cost reduce time and friction usc 
+government 
+jumpstarting 
+regulatory arb 
+opportunity 
+accomodating 
+regulation 
+sufficient data 
+available 
+disruption possible 
+but slow 
+ripe for 
+disruption 
+opportunity 
+revolutionize 
+source morgan stanley research 
+cash settlement system the intention for exchangeable for 
+fiat currency par and asset backed the central banks usc 
+arguably one the most advanced models for digital cash could 
+enable the settlement trades with synthetic central bank money 
+reducing collateral and regulatory capital needs systemic risk 
+decreases 
+what 
+usc asset backed digital cash instrument blockchain 
+technology for global institutional financial markets 
+series cash assets with version for each the major 
+distributed ledger one the technologies that should deliver 
+currencies 
+fundamental changes the infrastructure and processes the core 
+how different from bitcoin 
+the financial marketplace earlier the note ran through few 
+utility settlement coin private permissioned network 
+strands closer commercialization post trade equity 
+whereas bitcoin run open permissionless network 
+settlement government bond trading custody digital currency and 
+the consortium working make usc asset based coin 
+the largest wealth managers are running distributed ledger 
+specifically intended backed central bank 
+based projects across few areas largely with cost efficiency mind 
+currencies contrast bitcoin value not backed any 
+various settlement solutions usc trade finance syndication 
+client data management solutions 
+assets 
+who are the players the consortium 
+foundation 
+consortium formed august after successful initial 
+protected and with confirmations new trades identifiable 
+exploration the platform ubs and clearmatic 
+their own unique stamp can start imagining world 
+september current members include 
+with thus significantly reduced middle and back office this 
+banks bny mellon ubs lead santander 
+however will also threaten transaction fees one the 
+brokers icap 
+main sources income traditional wealth management 
+technology partner clearmatics 
+client data handling data privacy protection risk and 
+the consortium discussions with other players join 
+financial history including know your client kyc and 
+additional members the proof concept progresses 
+investment profile propositions could become less costly 
+what the significance this use case 
+and much simpler this would allow for increasing efficiency 
+utility settlement coin connects the more traditional fiat 
+terms exchanging information and thus more reliable 
+currency with distributed ledger technology the intention 
+client interactions conversely blockchain would also 
+for exchangeable for fiat currency par 
+facilitate faster client boarding and provider switching and 
+the current focus the consortium includes financial 
+structuring the usc and wider market structure design 
+active dialogue with central banks and regulators also 
+priority 
+thus reduce client loyalty and barriers change wealth 
+management service providers 
+reduced cost client regulatory reporting for example 
+should relatively simple give regulators ready access 
+what the timeline for commercial release 
+comprehensive audit trail that allows any movement 
+currently targeting for 
+assets verified the potential obvious partially 
+supporting our view that costs regulatory reporting and 
+blockchain projects wealth management are largely driven cost 
+compliance will decline for the wholesale banks 
+considerations various settlement solutions usc trade finance 
+see our blue paper for more detailed discussion 
+syndications and client data management solutions few areas 
+where think blockchain could add value include 
+the windfall the combination the above could potentially 
+reduced costs wealth management from payment settlement 
+back office processes diminish operational costs and risk 
+client costs could cost the millennials much less save for their 
+today complex trading and regulatory environment 
+retirement implications abound blockchain enables cost 
+banks have maintain whole range interfaces and 
+reduction 
+reconciliation procedures dan toohey explains with asx 
+democratization wealth management ever lower value clients 
+every step clearing and settlement loaded with cost and 
+can serviced profitably 
+and 
+robo advice 
+see 
+our 
+note 
+here 
+enables 
+complexity one can see significant reduction systems 
+interfaces manual processes substitute them with 
+permissioned ledger that records every asset with the proof 
+its ownership and authenticity cryptographically 
+morgan stanley research 
+foundation 
+crypto conundrums bitcoin and friends 
+blast off but more questions than coins 
+what happened far 
+bitcoin and other cryptocurrencies are the midst rapid appreciation 
+bitcoin still leads total value circulation but has lost share relative other cryptocurrencies especially ethereum 
+what next 
+some drivers like increased purchasing out korea and japan have been difficult explain 
+new currencies continue launched 
+development teams for leading cryptocurrencies continue work through scalability issues 
+exhibit 
+one key hurdle for leading cryptocurrency adoption buy from 
+multiple ecosystem players even new currencies vie for attention 
+many bitcoin and blockchain are often thought synonymously 
+blockchain based 
+reality blockchain primarily messaging and bookkeeping method 
+cryptocurrencies 
+whereas bitcoin store value that makes use blockchain 
+bitcoin ethereum and more 
+methodology transfer value bitcoin and other cryptocurrencies 
+infrastructure 
+underdeveloped 
+have shown rapid appreciation shown exhibit and exhibit 
+behavior tech 
+inflection 
+yes 
+yes 
+with the pace appreciation showing rapid acceleration since 
+government 
+jumpstarting 
+partner with 
+incumbents 
+source morgan stanley research 
+another cryptocurrency that attempts address some the 
+forces that 
+enable disruption 
+requires 
+collaboration 
+funding 
+constraint 
+incumbents 
+concentrated 
+disruption 
+challenged 
+the beginning while bitcoin grabs the headlines ethereum 
+yes 
+forces that 
+limit disruption 
+bitcoin and other cryptocurrencies have appreciated rapidly for 
+regulatory arb 
+opportunity 
+accomodating 
+regulation 
+sufficient data 
+available 
+disruption possible 
+but slow 
+ripe for 
+disruption 
+opportunity 
+revolutionize 
+technical shortcomings bitcoin see below has actually been 
+gaining value even faster rate the rapid appreciation 
+blockchain based currencies and the proliferation new 
+cryptocurrencies further raising blockchain technological profile 
+foundation 
+exhibit 
+exhibit 
+and ethereum 
+jul 
+jan 
+jul 
+jan 
+jul 
+jan 
+jul 
+jan 
+jul 
+jan 
+jul 
+jan 
+jul 
+jan 
+price usd 
+volume bitcoins day 
+source bitcoinity org morgan stanley research 
+key possible drivers cryptocurrency appreciation not clear 
+price usd 
+apr 
+jan 
+oct 
+jul 
+daily trading volume 
+thousand txns day 
+apr 
+jan 
+ethereum value 
+oct 
+daily trading volume 
+thousand btcs 
+jul 
+bitcoin asymptotic rise 
+bitcoin value 
+volume transactions day 
+source etherscan morgan stanley research 
+exhibit 
+why cryptocurrencies are appreciating rapidly apart from the 
+bitcoin ethereum and ripple are the big three cryptocurrencies 
+appreciation itself drawing more speculation against potentially 
+virtual currency value circulation 
+inefficient ability sell but conjunction with our strategy 
+team identify several key potential contributors 
+other 
+currencies 
+icos initial currency offerings rapid appreciation 
+cryptocurrencies encouraging speculative formation 
+new currencies see exhibit many these new 
+ripple 
+bitcoin 
+currencies don actually have use cases yet but are intended 
+exchange mediums for everything from virtual goods 
+games banking mechanisms for products like marijuana 
+where legal implications are not yet fully clear icos are 
+funded with existing cryptocurrencies hence driving 
+appreciation circle support invest new currency 
+ethereum 
+june 
+source coinmarketcap morgan stanley research 
+note comparison dollar circulation and money stock april 
+fed 
+one must buy and trade existing cryptocurrency 
+moving funds china until the last few days 
+increased demand from korea and japan bitcoin appreciation 
+disproportionate share bitcoin mining was taking place 
+seems have been heavily driven recent months 
+china where there cheap access servers and cheap 
+increased buying from korea and japan japan the recent 
+electricity numerous press sources including the wall 
+legalization bitcoin has led increase activity 
+street journal november and fortune january 
+including the recent opening new bitcoin exchanges 
+commented the possibility that bitcoin was being 
+korea however there not clear explanation for the surge 
+used help avoid monetary controls china which may 
+help explain why the chinese government has cracked down 
+bitcoin mining recently 
+morgan stanley research 
+foundation 
+rapid appreciation despite seemingly clear hurdles the rapid 
+bitcoin scales poorly helping alternatives especially those 
+appreciation bitcoin and others somewhat surprising light 
+based ethereum the blockchain underpinnings most 
+some developments that seemingly would have put downward 
+cryptocurrencies scale too poorly for most currency like uses 
+pressure the currency including plateauing trading volumes see 
+scaling challenges includes increasing electricity consumption see 
+exhibit the sec decision not allow the listing bitcoin 
+exhibit and that time clear single transactions can often 
+etf and china shutdown several bitcoin mining operations 
+from minutes more than hour and even that with 
+without those miners transaction time for bitcoin could increase 
+guarantee ethereum and others have tried address those scaling 
+substantially 
+challenges centralizing more the blockchain function but 
+increased centralization could also lead increased hacking risk 
+more like asset than currency most regulators and investors 
+view cryptocurrencies more assets than actual currencies their 
+values are too volatile and too hard actually use for payment for 
+most consider them currencies our conversations with some 
+merchants indicate that while cryptocurrencies might actually 
+attractive for them operate their businesses they find that the 
+cryptocurrencies are far too volatile used 
+exhibit 
+drawback bitcoin proof work based model the increasing electricity usage creates 
+global bitcoin mining energy consumption megawatts 
+electricity consumption 
+million homes 
+approximate electricity 
+consumption nicaragua 
+generating capacity 
+small power plant 
+mar mar mar mar mar mar mar 
+note energy consumption estimated based global mining hash rate multiplied average joule gigahash 
+energy usage which assume declines linearly from 
+source blockchain info morgan stanley research estimates 
+foundation 
+cyber currency investment driving the likes amd and nvda 
+moore believes that the reported increased demand for 
+cyber currency values have risen rapidly the interest mining has 
+crypto currency mining has been stock driver for those companies 
+too there have been widespread new reports developing 
+recent months though thinks that amd case inflation 
+shortages gpus from amd and nvda which are used mine 
+driven ethereum could have adverse impact other parts 
+ethereum bitcoin mining tends done specialized asics 
+the company business 
+general purpose processors our semiconductor analyst joe 
+exhibit 
+nvda key way play bitcoin mining has taken off the past few months 
+nvda price 
+nvda fwd multiple 
+jan 
+jul 
+jan 
+price 
+jul 
+jan 
+fwd multiple 
+source thomson reuters morgan stanley research 
+many use cases but limited crypto application the front end payments 
+virtual currencies alternative card payments early bitcoin proponents pushed the notion that bitcoin with minimal 
+transaction costs besides converting out btc could more inexpensive way for merchants accept payments online 
+wave merchants including overstock expedia and paypal braintree partnered with coinbase accept bitcoin the 
+pos but adoption slowed and some clear hurdles stand the way longer term viability 
+cost accept not materially lower btc transactions require miner fee this variable currently costs over 
+get transaction cleared the next block plus conversion costs for those consumers and merchants that prefer not use btc 
+store value high ticket transaction this could viable though the card networks also offer lower interchange 
+rates for high ticket transactions for small ticket and micro transactions this cost can several percentage points higher 
+and miner fees increase which they will because block subsidies decrease over time the costs look set grow 
+expect these processing costs for other currencies grow 
+see few reasons for consumers use btc over credit debit card given that paying online with btc represents 
+marginally more inconvenient way pay our view given the push nature the transaction the longer and more uncertain 
+transaction settlement due miner fee bidding and the lower merchant bank funded rewards versus credit 
+morgan stanley research 
+foundation 
+appendix key consortiums 
+blockchain consortium 
+http 
+established september consortium banks that planned jointly develop new financial services 
+infrastructure inspired blockchain technology november open sourced the brainchild its labor corda morgan 
+stanley goldman sachs banco santander and jpmorgan subsequently exited the consortium there remain financial 
+institutions from around the globe the consortium 
+the hyperledger project 
+hyperledger org 
+established december the linux foundation the hyperledger project cross industry open source forum for all 
+things blockchain with eight code bases and members across finance banking internet things supply chain 
+manufacturing and technology companies 
+enterprise ethereum alliance 
+entethalliance org 
+established february enterprise ethereum alliance focuses developing enterprise grade software based its smartcontract supporting blockchain its membership quickly grew from launch today and largely consists financial 
+services incumbents technology incumbents and start ups 
+foundation 
+appendix pos solution the energy 
+problem 
+high level blockchain algorithm that 
+establishes consensus and safeguards such consensus 
+bitcoin proof work pow protocol introduced the 
+possibility consensus algorithm and offered one 
+solution among other potential ones 
+energy efficient and even more resilient the most talked about 
+since then there have been multiple efforts globally understand 
+examine key differences between pow and pos the diagram 
+what could alternative solution that faster more 
+below 
+contender seems the proof stake pos protocol among 
+the more established players ethereum refining the various initial 
+proof stake protocols and contemplating moving onto its own 
+derivative version called casper the next year 
+exhibit 
+bank analyst understanding blockchain technologies 
+who uses 
+purpose 
+proof work pow 
+proof stake pos 
+most crytocurrencies today most famously bitcoin ethereum current 
+version 
+lesser known cryptocurrencies 
+ethereum future version 
+establish consensus mechanism protocol through which consensus reached among record keepers miners validators nodes with 
+regards how update the record blockchain 
+robust consensus mechanism robust record distributed ledger blockchain which holds single version truth 
+robust resistent cyberattacks difficult hack 
+encrypted transaction information broadcasted over network 
+miners nodes record keepers the pow network assemble multiple 
+pieces transactions into blocks transactions 
+validators nodes record keepers the pos network assemble 
+multiple pieces transactions into blocks transactions 
+miners validators validate the transactions check person indeed has money the account send person checking transaction history 
+the existing chain blocks and solves complex mathematical puzzle which allows the validated block appended the existing chain blocks 
+consensus mechanism 
+how blocks get added 
+the chain 
+only the first one who solves the puzzle gets rewarded all miners 
+race solve 
+the mathematical puzzle designed such that can only solved 
+brute force iteratively plugging solutions and not short cuts 
+higher computational power higher likelihood solving the puzzles 
+first 
+instead race pow validator particular block gets selected 
+pseudo random manner where higher stake leads higher chances 
+stake ownership tokens 
+higher stakes higher likelihood getting selected solve the puzzle 
+and validate the transaction 
+once transaction validated the block added chain which records all transactions 
+one version the truth created all nodes have the same copy 
+energy efficient 
+secure because 
+computationally heavy and redundant miners race validate the 
+transactions redundancy mining efforts 
+yes 
+there redundancy validator selected based stake 
+ownership redundancy 
+all honest nodes the system have copy the blockchain ledger 
+which contains all transactions since inception the network 
+envisioned the casper protocol validators would required lock 
+portion their stake specific amount determined 
+that means took lots computing power get the current version 
+truth 
+validator loses the locked amount suspicious behavior observed 
+security through penalty 
+create alternative version the truth hacker would need 
+overpower all nodes and add fake blocks the chain 
+bring credible attack attacker would need own high stake 
+that there high probability him her getting selected introduce 
+malicious block the chain 
+this would prohibitively expensive for normal hackers requires 
+overwhelming computing power the network 
+too economically risky for attacker launch attack 
+not economically viable for attacker launch attack 
+while individual would not have the computing power launch 
+attack nation state potentially could 
+not secure because 
+hacker can still hack the end user keys layman terms computer 
+only secure the security user password 
+while some crytocurrencies already are employing ethereum casper 
+protocol still under development there could unforeseen 
+shortcomings 
+same issue key management 
+source coindesk blockgeek morgan stanley research 
+morgan stanley research 
+foundation 
+disclosure section 
+the information and opinions morgan stanley research were prepared are disseminated morgan stanley asia limited which accepts the responsibility for its contents and morgan 
+stanley asia singapore pte registration number and morgan stanley asia singapore securities pte ltd registration number regulated the monetary 
+authority singapore which accepts legal responsibility for its contents and should contacted with respect any matters arising from connection with morgan stanley research 
+and morgan stanley taiwan limited and morgan stanley international plc seoul branch and morgan stanley australia limited holder australian financial 
+services license which accepts responsibility for its contents and morgan stanley wealth management australia pty ltd holder australian financial 
+services license which accepts responsibility for its contents and morgan stanley india company private limited regulated the securities and exchange board india sebi 
+and holder licenses research analyst sebi registration stock broker bse registration and nse registration inb merchant 
+banker sebi registration and depository participant with national securities depository limited sebi registration nsdl which accepts the 
+responsibility for its contents and should contacted with respect any matters arising from connection with morgan stanley research and morgan stanley sekuritas indonesia 
+and their affiliates collectively morgan stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan stanley research disclosure website 
+morganstanley researchdisclosures contact your investment representative morgan stanley research broadway attention research management new york 
+usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client support team follows canada 
+hong kong latin america london singapore sydney tokyo 
+alternatively you may contact your investment representative morgan stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they have not received and will not 
+receive direct indirect compensation exchange for expressing specific recommendations views this report james faucette betsy graseck cfa nick lord giulia aurora miotto 
+anil sharma cfa magdalena stoklosa daniel toohey 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+the following analyst strategist household member owns securities related derivatives company that she covers recommends morgan stanley research james 
+faucette mastercard inc common preferred stock anil sharma cfa santander common preferred stock 
+may morgan stanley beneficially owned more class common equity securities the following companies covered morgan stanley research automatic data 
+processing inc banco bpm spa banco sabadell bank ireland bankia bnp paribas investment management challenger limited commerzbank cybg plc deutsche bank euronext 
+evertec inc first data corp goldman sachs group inc hargreaves lansdown ing groep morgan chase lendingclub corp london stock exchange man group mastercard 
+inc medibank private ltd mediobanca banca credito finanziario metropolitan bank trust company moneygram international inc nex group plc partners group perpetual ltd societe 
+generale synchrony financial icap plc ubs group unicredit visa inc 
+within the last months morgan stanley managed managed public offering offering securities abn amro group amundi anz bank banca farmafactoring 
+spa bank america bank new york mellon corp barclays bank corporation bnp paribas caixabank capital one financial corporation commonwealth aust credit agricole 
+credit suisse group cybg plc danske bank deutsche bank discover financial services flow traders goldman sachs group inc hsbc ing groep intesa sanpaolo 
+morgan chase kbc group lloyds banking group mastercard inc nat aust bank nordax group nordea northern trust corp pnc financial services qbe insurance group 
+resurs holding royal bank scotland santander societe generale state street corporation suntrust svenska handelsbanken swedbank synchrony financial bancorp ubs group 
+unicredit vantiv inc wells fargo westpac banking 
+within the last months morgan stanley has received compensation for investment banking services from abn amro group amundi anz bank automatic data processing inc 
+banca farmafactoring spa bank central asia bank new york mellon corp barclays bank corporation bnp paribas caixabank capital one financial corporation cimb group 
+citigroup inc commonwealth aust credit agricole credit suisse group cybg plc danske bank deutsche bank deutsche boerse goldman sachs group inc hsbc ing groep 
+intesa sanpaolo morgan chase kbc group lloyds banking group mastercard inc nat aust bank nordea northern trust corp pnc financial services qbe insurance group 
+resurs holding royal bank scotland santander seb societe generale standard chartered bank state street corporation suntrust svenska handelsbanken swedbank synchrony 
+financial bancorp unicredit unione banche italiane scpa vantiv inc wells fargo westpac banking 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from aberdeen asset management abn amro group ally 
+financial inc american express company amp ltd amundi anz bank ashmore group plc asx limited automatic data processing inc banca farmafactoring spa banca monte dei 
+paschi siena banco bpm spa banco sabadell bangkok bank public company limited bank central asia bank danamon indonesia bank mandiri bank negara indonesia bank 
+america bank ireland bank new york mellon corp bank queensland bank the philippine islands bank rakyat indonesia bankia bankinter barclays bank corporation 
+bbva bdo unibank bendigo and adelaide bank limited bnp paribas bolsas mercados espanoles caixabank capital one financial corporation challenger limited cimb group 
+citigroup inc cmc markets plc commerzbank commonwealth aust computershare limited credit agricole credit suisse group cybg plc danske bank dbs group holdings 
+deutsche bank deutsche boerse discover financial services dnb euronext evertec inc first data corp fleetcor technologies inc flow traders global payments inc goldman sachs 
+group inc green dot corp hoist finance publ hsbc ing groep insurance australia intesa sanpaolo ioof holdings morgan chase kasikorn bank public company kbc 
+foundation 
+group krung thai bank public company lendingclub corp lloyds banking group london stock exchange macquarie group limited man group mastercard inc maybank medibank 
+private ltd mediobanca banca credito finanziario metropolitan bank trust company moneygram international inc nat aust bank natixis nex group plc nordax group nordea 
+northern trust corp deck capital inc oversea chinese banking corp partners group paychex inc paypal holdings inc perpetual ltd pnc financial services poste italiane spa public 
+bank qbe insurance group regions financial corp resurs holding royal bank scotland santander santander consumer usa holdings inc schroders seb security bank corporation 
+singapore exchange ltd societe generale square inc standard chartered bank state street corporation suncorp group ltd suntrust svenska handelsbanken swedbank synchrony 
+financial the siam commercial bank public company total system services inc icap plc trinet group inc bancorp ubs group unicredit unione banche italiane scpa 
+united overseas bank vantiv inc visa inc wells fargo western union westpac banking 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from aberdeen asset management abn amro group 
+ally financial inc american express company amp ltd amundi anz bank ashmore group plc automatic data processing inc banca farmafactoring spa banca monte dei paschi 
+siena banco bpm spa banco sabadell bangkok bank public company limited bank central asia bank danamon indonesia bank mandiri bank negara indonesia bank america 
+bank ireland bank new york mellon corp bank queensland bank the philippine islands bank rakyat indonesia bankia bankinter barclays bank corporation bbva bdo 
+unibank bnp paribas investment management caixabank capital one financial corporation cimb group citigroup inc cmc markets plc commerzbank commonwealth aust 
+computershare limited credit agricole credit suisse group cybg plc danske bank dbs group holdings deutsche bank deutsche boerse discover financial services dnb euronext 
+first data corp fleetcor technologies inc flow traders goldman sachs group inc hargreaves lansdown hsbc ing groep intesa sanpaolo ioof holdings morgan chase 
+kasikorn bank public company kbc group krung thai bank public company lloyds banking group london stock exchange macquarie group limited magellan financial man group 
+mastercard inc maybank mediobanca banca credito finanziario metropolitan bank trust company nat aust bank natixis nex group plc nordea northern trust corp oversea chinese 
+banking corp partners group paychex inc perpetual ltd platinum asset management pnc financial services poste italiane spa public bank qbe insurance group regions financial corp 
+royal bank scotland santander schroders seb security bank corporation societe generale standard chartered bank state street corporation suntrust svenska handelsbanken 
+swedbank synchrony financial the siam commercial bank public company icap plc bancorp ubs group unicredit unione banche italiane scpa united overseas 
+bank verifone systems inc wells fargo western union westpac banking wex inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with the following company aberdeen 
+asset management abn amro group ally financial inc american express company amp ltd amundi anz bank ashmore group plc asx limited automatic data processing 
+inc banca farmafactoring spa banca monte dei paschi siena banco bpm spa banco sabadell bangkok bank public company limited bank central asia bank danamon indonesia 
+bank mandiri bank negara indonesia bank america bank ireland bank new york mellon corp bank queensland bank the philippine islands bank rakyat indonesia bankia 
+bankinter barclays bank corporation bbva bdo unibank bendigo and adelaide bank limited bnp paribas bolsas mercados espanoles caixabank capital one financial 
+corporation challenger limited cimb group citigroup inc cmc markets plc commerzbank commonwealth aust computershare limited credit agricole credit suisse group 
+cybg plc danske bank dbs group holdings deutsche bank deutsche boerse discover financial services dnb euronext evertec inc first data corp fleetcor technologies inc flow 
+traders global payments inc goldman sachs group inc green dot corp hoist finance publ hsbc ing groep insurance australia intesa sanpaolo ioof holdings morgan 
+chase kasikorn bank public company kbc group krung thai bank public company lendingclub corp lloyds banking group london stock exchange macquarie group limited 
+man group mastercard inc maybank medibank private ltd mediobanca banca credito finanziario metropolitan bank trust company moneygram international inc nat aust bank natixis 
+nex group plc nordax group nordea northern trust corp deck capital inc oversea chinese banking corp partners group paychex inc paypal holdings inc perpetual ltd pnc 
+financial services poste italiane spa public bank qbe insurance group regions financial corp resurs holding royal bank scotland santander santander consumer usa holdings 
+inc schroders seb security bank corporation singapore exchange ltd societe generale square inc standard chartered bank state street corporation suncorp group ltd suntrust svenska 
+handelsbanken swedbank synchrony financial the siam commercial bank public company total system services inc icap plc trinet group inc bancorp ubs group unicredit 
+unione banche italiane scpa united overseas bank vantiv inc visa inc wells fargo western union westpac banking 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has entered into agreement provide 
+services has client relationship with the following company aberdeen asset management abn amro group ally financial inc american express company amp ltd amundi 
+anz bank ashmore group plc asx limited automatic data processing inc banca farmafactoring spa banca monte dei paschi siena banco bpm spa banco sabadell bangkok 
+bank public company limited bank central asia bank danamon indonesia bank mandiri bank negara indonesia bank america bank ireland bank new york mellon corp bank 
+queensland bank the philippine islands bank rakyat indonesia bank tabungan negara bankia bankinter barclays bank corporation bbva bdo unibank bendigo and adelaide 
+bank limited bnp paribas bolsas mercados espanoles investment management caixabank capital one financial corporation cimb group citigroup inc cmc markets plc 
+commerzbank commonwealth aust computershare limited credit agricole credit suisse group cybg plc danske bank dbs group holdings deutsche bank deutsche boerse 
+discover financial services dnb euronext first data corp fleetcor technologies inc flow traders goldman sachs group inc hargreaves lansdown hsbc ing groep insurance 
+australia intesa sanpaolo ioof holdings morgan chase kasikorn bank public company kbc group krung thai bank public company lendingclub corp lloyds banking 
+group london stock exchange macquarie group limited magellan financial man group mastercard inc maybank medibank private ltd mediobanca banca credito finanziario 
+metropolitan bank trust company moneygram international inc nat aust bank natixis nex group plc nordea northern trust corp oversea chinese banking corp partners group 
+paychex inc paypal holdings inc perpetual ltd platinum asset management pnc financial services poste italiane spa public bank qbe insurance group regions financial corp royal bank 
+scotland santander schroders seb security bank corporation singapore exchange ltd societe generale standard chartered bank state street corporation suncorp group ltd suntrust 
+svenska handelsbanken swedbank synchrony financial the siam commercial bank public company icap plc trinet group inc bancorp ubs group unicredit unione 
+banche italiane scpa united overseas bank verifone systems inc visa inc wells fargo western union westpac banking wex inc 
+employee director consultant morgan stanley director lendingclub corp deck capital inc verifone systems inc this person not research analyst member 
+research analyst household 
+morgan stanley llc makes market the securities ally financial inc american express company automatic data processing inc bank america bank new york mellon corp 
+barclays bank corporation bbva capital one financial corporation citigroup inc credit suisse group deutsche bank discover financial services evertec inc fleetcor technologies 
+inc global payments inc goldman sachs group inc green dot corp hsbc ing groep morgan chase lendingclub corp lloyds banking group mastercard inc northern trust corp 
+deck capital inc paychex inc paypal holdings inc pnc financial services regions financial corp royal bank scotland santander santander consumer usa holdings inc square inc 
+state street corporation suntrust synchrony financial total system services inc trinet group inc ubs group vantiv inc verifone systems inc visa inc wells fargo western 
+morgan stanley research 
+foundation 
+union westpac banking wex inc 
+morgan stanley international plc corporate broker ashmore group plc cybg plc royal bank scotland 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality 
+research investor client feedback stock picking competitive factors firm revenues and overall investment banking revenues equity research analysts strategists compensation not 
+linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing liquidity fund management 
+commercial banking extension credit investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered 
+morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed this report morgan stanley trades may trade 
+principal the debt securities related derivatives that are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan stanley does not assign ratings buy 
+hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell investors should carefully read the definitions all 
+ratings used morgan stanley research addition since morgan stanley research contains more complete information concerning the analyst views investors should carefully read morgan 
+stanley research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+may 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our ratings overweight equal weight 
+not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell but represent recommended relative weightings see definitions below satisfy regulatory requirements correspond overweight our most positive stock rating 
+with buy recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+other material investment services clients 
+investment banking clients ibc 
+misc 
+count 
+total 
+count 
+total ibc 
+rating category 
+count 
+total other misc 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment banking compensation the 
+last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe risk adjusted basis over the next 
+months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe risk adjusted basis over 
+the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe risk adjusted basis over the next 
+months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad market benchmark indicated 
+below 
+foundation 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc morgan stanley any 
+their affiliates are available the morgan stanley wealth management disclosure website morganstanley online researchdisclosures for morgan stanley specific disclosures 
+you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the same person who reviews 
+the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities ally financial inc american express company anz bank automatic data 
+processing inc banca farmafactoring spa banca monte dei paschi siena banco bpm spa bangkok bank public company limited bank america bank ireland bank new york 
+mellon corp bankia barclays bank corporation bbva bnp paribas caixabank citigroup inc commerzbank commonwealth aust credit agricole credit suisse group 
+cybg plc danske bank deutsche bank deutsche boerse discover financial services evertec inc first data corp goldman sachs group inc hsbc ing groep intesa sanpaolo 
+morgan chase kbc group lendingclub corp lloyds banking group macquarie group limited mastercard inc maybank mediobanca banca credito finanziario nat aust bank 
+natixis nordea northern trust corp oversea chinese banking corp paypal holdings inc pnc financial services qbe insurance group royal bank scotland santander seb societe 
+generale square inc standard chartered bank state street corporation suncorp group ltd suntrust swedbank synchrony financial the siam commercial bank public company 
+bancorp ubs group unicredit unione banche italiane scpa united overseas bank visa inc wells fargo western union westpac banking 
+june state street corporation beneficially owned more class common equity securities morgan stanley 
+member research who had could have had access the research prior completion owns securities related derivatives the bank ireland lloyds banking group royal bank 
+scotland this person not research analyst member research analyst household 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based developments with the issuer the 
+sector the market that may have material impact the research views opinions stated therein addition certain research publications are intended updated regular periodic 
+basis weekly monthly quarterly annual and will ordinarily updated with that frequency unless the research analyst and research management determine that different publication 
+schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning section the 
+dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the recommendations views expressed 
+research the same stock this may the result differing time horizons methodologies market events other factors for all research available particular stock please contact 
+your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients certain but not all morgan 
+stanley research products are also made available clients through third party vendors redistributed clients through alternate electronic means convenience for access all 
+available morgan stanley research please contact your sales representative matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and using morgan stanley 
+research you are indicating that you have read and agree bound our terms use http morganstanley terms addition you consent morgan stanley processing 
+your personal data and using cookies accordance with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes 
+setting your preferences and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan stanley 
+processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances and objectives those 
+who receive morgan stanley recommends that investors independently evaluate particular investments and strategies and encourages investors seek the advice financial adviser 
+the appropriateness investment strategy will depend investor circumstances and objectives the securities instruments strategies discussed morgan stanley research 
+may not suitable for all investors and certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary because changes 
+interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational financial conditions companies other factors there 
+may time limitations the exercise options other rights securities instruments transactions past performance not necessarily guide future performance estimates future 
+performance are based assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject 
+company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based upon various factors 
+morgan stanley research 
+foundation 
+including quality accuracy and value research firm profitability revenues which include fixed income trading and capital markets profitability revenues client feedback and competitive 
+factors fixed income research analysts strategists economists compensation not linked investment banking capital markets transactions performed morgan stanley the 
+profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns more class 
+common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley may have investment less than securities instruments 
+derivatives securities instruments companies and may trade them ways different from those discussed morgan stanley research employees morgan stanley not involved 
+the preparation morgan stanley research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable comprehensive 
+information but make representation that accurate complete have obligation tell you when opinions information morgan stanley research change apart from 
+when intend discontinue equity research coverage subject company facts and views presented morgan stanley research have not been reviewed and may not reflect information 
+known professionals other morgan stanley business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company associated expenses unless 
+pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl 
+such information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research 
+may not distributed the public media quoted used the public media without the express written consent morgan stanley any non customer reader within the scope article 
+the taiwan stock exchange recommendation regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party 
+including but not limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create give the 
+appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments 
+certain information morgan stanley research was sourced employees the shanghai representative office morgan stanley asia limited for the use morgan stanley asia limited 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not constitute offer sell 
+the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest such securities and shall responsible for obtaining all relevant 
+approvals licenses verifications and registrations from the relevant governmental authorities themselves neither this report nor any part intended shall constitute provision 
+any consultancy advisory service securities investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa which regulated comision nacional 
+bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico city japan morgan stanley mufg securities ltd and for commodities 
+related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley 
+asia international limited hong kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte 
+ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should contacted with respect any 
+matters arising from connection with morgan stanley research and morgan stanley asia international limited singapore branch registration number australia 
+wholesale clients within the meaning the australian corporations act morgan stanley australia limited holder australian financial services license 
+which accepts responsibility for its contents australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management 
+australia pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan stanley international 
+plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas indonesia canada morgan stanley canada limited which has 
+approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth management limited 
+niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised 
+the spanish securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct applicable financial 
+research established under spanish regulations the morgan stanley llc which accepts responsibility for its contents morgan stanley international plc authorized 
+the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory authority disseminates the research that has prepared and approves 
+solely for the purposes section the financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited 
+member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan stanley 
+international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan stanley research being disseminated 
+morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and directed sophisticated investors only 
+morgan stanley hong kong securities limited the liquidity provider market maker for securities hsbc listed the stock exchange hong kong limited updated list can found 
+hkex website http hkex 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services authority the dfsa 
+and directed professional clients only defined the dfsa the financial products financial services which this research relates will only made available customer who 
+are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre regulatory authority 
+the qfcra and directed business customers and market counterparties only and not intended for retail customers defined the qfcra 
+foundation 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment advisory activity investment 
+advisory service provided exclusively persons based their risk and income preferences the authorized firms comments and recommendations stated here are general nature these 
+opinions may not fit your financial status risk and return preferences for this reason make investment decision relying solely this information stated here may not bring about 
+outcomes that fit your expectations 
+the following companies business countries which are generally subject comprehensive sanctions programs administered enforced the department the treasury office 
+foreign assets control ofac and other countries and multi national bodies mastercard inc 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties representations relating 
+the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating such data the global industry classification standard gics was 
+developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage asean financials 
+company ticker 
+rating 
+price 
+bank central asia bbca 
+bank danamon indonesia bdmn 
+bank mandiri bmri 
+bank negara indonesia bbni 
+bank rakyat indonesia bbri 
+bank tabungan negara bbtn 
+mulya chandra cfa 
+nick lord 
+bangkok bank public company limited bbl 
+bank the philippine islands bpi 
+bdo unibank bdo 
+cimb group cimb 
+dbs group holdings dbsm 
+kasikorn bank public company kbank 
+krung thai bank public company ktb 
+maybank mbbm 
+metropolitan bank trust company mbt 
+oversea chinese banking corp ocbc 
+public bank pubm 
+security bank corporation secb 
+singapore exchange ltd sgxl 
+the siam commercial bank public company scb 
+united overseas bank uobh 
+rating 
+price 
+ally financial inc ally 
+american express company axp 
+bank america bac 
+bank new york mellon corp 
+corporation bbt 
+capital one financial corporation cof 
+citigroup inc 
+discover financial services dfs 
+goldman sachs group inc 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage banking large cap banks 
+company ticker 
+betsy graseck cfa 
+morgan stanley research 
+foundation 
+morgan chase jpm 
+northern trust corp ntrs 
+pnc financial services pnc 
+regions financial corp 
+santander consumer usa holdings inc 
+state street corporation stt 
+suntrust sti 
+synchrony financial syf 
+bancorp usb 
+wells fargo wfc 
+rating 
+price 
+automatic data processing inc adp 
+fleetcor technologies inc flt 
+moneygram international inc mgi 
+paychex inc payx 
+trinet group inc tnet 
+western union 
+wex inc wex 
+first data corp fdc 
+lendingclub corp 
+mastercard inc 
+deck capital inc ondk 
+paypal holdings inc pypl 
+square inc 
+verifone systems inc pay 
+visa inc 
+evertec inc evtc 
+global payments inc gpn 
+green dot corp gdot 
+total system services inc tss 
+vantiv inc vntv 
+rating 
+price 
+bank queensland boq 
+bendigo and adelaide bank limited ben 
+investment management btt 
+magellan financial mfg 
+perpetual ltd ppt 
+platinum asset management ptm 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage payments and processing 
+company ticker 
+danyal hussain cfa 
+james faucette 
+vasundhara govil 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage australia financials 
+company ticker 
+andrei stadnik fiaa 
+foundation 
+daniel toohey 
+amp ltd amp 
+asx limited asx 
+challenger limited cgf 
+computershare limited cpu 
+insurance australia iag 
+ioof holdings ifl 
+medibank private ltd mpl 
+nib nhf 
+qbe insurance group qbe 
+suncorp group ltd sun 
+anz bank anz 
+commonwealth aust cba 
+macquarie group limited mqg 
+nat aust bank nab 
+westpac banking wbc 
+rating 
+price 
+iii 
+cmc markets plc cmcx 
+richard wiles 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage diversified financials 
+company ticker 
+adedapo oguntade cfa 
+alvaro serrano 
+banca farmafactoring spa bff 
+anil sharma cfa 
+aberdeen asset management adn 
+amundi amun 
+ashmore group plc ashm 
+bolsas mercados espanoles bme 
+deutsche boerse 
+euronext enx 
+flow traders flow 
+hargreaves lansdown hrgv 
+hoist finance publ hofi 
+skr 
+london stock exchange lse 
+man group emg 
+nex group plc nxgn 
+nordax group ndx 
+skr 
+partners group pghn 
+sfr 
+resurs holding resurs 
+skr 
+schroders sdr 
+icap plc tcapi 
+antonio reale 
+poste italiane spa pst 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+morgan stanley research 
+foundation 
+industry coverage banks 
+company ticker 
+rating 
+price 
+alice timperley cfa 
+bank ireland bkir 
+danske bank danske 
+dkr 
+dnb dnb 
+nkr 
+nordea nda 
+skr 
+seb seba 
+skr 
+svenska handelsbanken shba 
+skr 
+swedbank sweda 
+skr 
+banco popular pop 
+banco sabadell sabe 
+bankinter bkt 
+bbva bbva 
+caixabank cabk 
+intesa sanpaolo isp 
+santander san 
+unicredit crdi 
+banca monte dei paschi siena bmps 
+banco bpm spa bami 
+mediobanca banca credito finanziario mdbi 
+alvaro serrano 
+bankia bkia 
+antonio reale 
+unione banche italiane scpa ubi 
+bruce hamilton 
+abn amro group abnd 
+bnp paribas bnpp 
+credit agricole cagr 
+ing groep inga 
+kbc group kbc 
+natixis cnat 
+societe generale sogn 
+chris manners aca 
+barclays bank barc 
+cybg plc cyb 
+cybg plc cybgc 
+hsbc hsba 
+lloyds banking group lloy 
+royal bank scotland rbs 
+standard chartered bank stan 
+magdalena stoklosa 
+commerzbank cbkg 
+credit suisse group csgn 
+sfr 
+deutsche bank dbkgn 
+ubs group ubsg 
+sfr 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

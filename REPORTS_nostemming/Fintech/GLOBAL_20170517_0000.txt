@@ -1,0 +1,4107 @@
+foundation 
+may gmt 
+global financials and payments 
+fintech gauntlet riches 
+financial and payment firms globally face growing array fintech innovations and 
+disruptors whether disruptors incumbents ultimately succeed depends several 
+factors but expect falling investment and rising incumbent investment will skew 
+returns the biggest and most entrenched 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict interest that could affect the 
+objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held research analyst account 
+foundation 
+contributors 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley llc 
+james faucette 
+betsy graseck cfa 
+vasundhara govil 
+equity analyst 
+equity analyst 
+equity analyst 
+james faucette morganstanley 
+betsy graseck morganstanley 
+vasundhara govil morganstanley 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley asia limited 
+danyal hussain cfa 
+kai pan 
+anil agarwal 
+equity analyst 
+equity analyst 
+equity analyst 
+danyal hussain morganstanley 
+kai pan morganstanley 
+anil agarwal morganstanley 
+morgan stanley asia limited 
+morgan stanley asia limited 
+morgan stanley international plc 
+grace chen 
+richard cfa 
+giulia aurora miotto 
+equity analyst 
+equity analyst 
+equity analyst 
+grace chen morganstanley 
+richard morganstanley 
+giulia aurora miotto morganstanley 
+morgan stanley international plc 
+morgan stanley mufg securities ltd 
+magdalena stoklosa 
+mia nagasaka 
+equity analyst 
+equity analyst 
+magdalena stoklosa morganstanley 
+mia nagasaka morganstanleymufg 
+foundation 
+contents 
+executive summary running the fintech 
+gauntlet 
+profile insurtech and digital disruption 
+small business insurance 
+the gauntlet 
+profile roboadvisors 
+gauntlet components 
+profile merchant acquirertech 
+the roadmap applied 
+profile marketplace lending china 
+profile digital money remittances 
+who positioned drive innovation 
+incumbents vcs 
+profile earnings opportunities from open 
+apis japan 
+investing likely moderate though 
+some areas will remain popular 
+profile digital mortgage origination 
+meanwhile incumbents likely lead more 
+investment 
+high profile areas fintech 
+appendix lessons learned 
+card payments success decades the 
+making 
+profile marketplace lending 
+profile mobile wallets and apple pay 
+profile digital wallets ecommerce and 
+mcommerce 
+profile electronic payments india 
+profile digital wallets china 
+profile electronic payments 
+profile blockchain technology for 
+financials 
+challenging road for startups even with 
+interesting ideas 
+foundation 
+global financials and payments 
+fintech gauntlet riches 
+financial and payment firms globally face growing array fintech innovations and 
+disruptors whether disruptors incumbents ultimately succeed depends several 
+factors but expect falling investment and rising incumbent investment will skew 
+returns the biggest and most entrenched 
+payments and processing 
+north america industry view 
+line 
+fintech firms the gate rapid escalation fintech investment and 
+brick and mortar digital wallets ecommerce and 
+innovation has increased the stakes for startups venture capital 
+mcommerce electronic payments india digital wallets china 
+funds and incumbents alike some these technologies expand the 
+electronic payments blockchain payments financials 
+market while others are zero sum nature but each can drive 
+insurtech robo advisory merchant acquirertech marketplace 
+meaningful ramifications for global financials which warrants 
+lending china online mobile money transfer open apis japan 
+review the risk and opportunities they create offer 
+and digital mortgage origination 
+framework 
+trend positions incumbents favorably for the most part 
+risk incumbents case specific but shaped common 
+pullback fintech investment over the past year indicative 
+elements assess the circumstances that enable fintech success 
+realization lower rois than initially hoped due some unique 
+using our gauntlet framework nine key ingredients state the 
+challenges disrupting the financials industry and our suspicion 
+existing financial infrastructure inflection consumer 
+that investors will continue scale back investing meanwhile 
+technology behavior government involvement driving change 
+financials and payments incumbents are likely emboldened 
+opportunity for regulatory arbitrage well defined and 
+step and take the investment lead and this combination 
+accommodating regulation accessibility data whether 
+incumbent behavior represents paradigm shift that should 
+significant collaboration required dependency capital 
+benefit incumbents roi 
+market access and whether incumbents are highly concentrated 
+this report review high profile areas fintech 
+investment including marketplace lending mobile wallets 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict interest that could affect the 
+objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held research analyst account 
+foundation 
+executive summary running the fintech 
+gauntlet 
+success fintech run through unforgiving gauntlet glittery prize chance disrupting trillions dollars 
+revenue delivering the right platform algorithm service model improve products and processes compared 
+entrenched incumbents 
+but challenge say the least two characteristics that make 
+our fintech gauntlet framework number factors influence 
+difficult disrupt the slow pace change behavior 
+the pace change and alter firm likelihood success through 
+financials compared curve type changes possible other 
+disruption partnering with incumbents assessed the 
+sectors and relatively intense capital requirements for financial 
+circumstances that enable fintech disruption innovations that 
+products and associated regulatory compliance infrastructure 
+ultimately drive operating improvement for incumbents and while 
+short more marathon than sprint and hard stick around 
+there wide variation environment constraints and competition 
+long enough fintech scale and truly disruptive accordingly 
+distilled what think are the most important environmental 
+failure the norm only five disruptors have survived standalone 
+considerations into our gauntlet framework see exhibit which 
+entities out over fintech firms launched during the dotcom 
+expect help industry insiders investors and companies gauge 
+era mckinsey notes 
+where particular fintech effort should position itself vis vis 
+incumbents maximize impact and potential 
+exhibit 
+the gauntlet fintech success 
+morgan stanley fintech framework 
+the financial infrastructure 
+underdeveloped 
+are amid inflection 
+consumer behavior 
+technology 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+sensitive capital 
+market funding 
+forces that 
+enable disruption 
+opportunity for 
+regulatory 
+arbitrage 
+accommodating 
+and well defined 
+regulation 
+enough financial 
+data available 
+level playing field 
+incumbents highly 
+concentrated 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+yes 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+morgan stanley research 
+foundation 
+fintech investment returning earth after robust growth 
+lighter regulation and allocation towards growth investment 
+incumbents take the reins expectations for fintech 
+consumer behavior change while slow adjusting expectations 
+investments have probably been too lofty and falling backed 
+new product service offerings and banks are still focused 
+fintech investment over the past year indicative realization 
+lowering costs including through fintech this combination 
+some the issues raise yet the market still needs through 
+incumbent behavior represents paradigm shift that should benefit 
+further rationalization and our expectation that investors will 
+incumbents roi see exhibit 
+continue scale back investing financials and payments 
+this report review key areas global fintech 
+innovation apply our framework and provide outlook key 
+highlights 
+incumbents emboldened and increasingly well capitalized are likely 
+step and take the investment lead the spike 
+investment has now catalyzed response from incumbents while 
+the same time incumbents are benefiting from the anticipation 
+exhibit 
+the fintech gameboard our expectations for incumbent spend 
+vcs increase 
+investment fintech 
+paid wait 
+incumbents scale 
+back 
+redirect focus 
+partnerships 
+startups create and 
+incumbents try mimic 
+some instances 
+disruption 
+where 
+been 
+some winners but 
+mostly losers 
+excessive spend hurts 
+returns for all 
+incumbents 
+accelerate 
+incumbent spend 
+where 
+headed 
+forget the hype 
+spend innovation slows 
+becomes clear 
+fintech roi generally 
+lower than first assumed 
+vcs scale back 
+fintech 
+source morgan stanley research 
+incumbents 
+take the reins 
+incumbent investment 
+restrains vcs and 
+industry benefits from 
+better efficiencies 
+foundation 
+takeaways from high profile areas fintech 
+marketplace lending remain bullish continued 
+market will sold digitally from today this 
+opportunity take share disruptors benefit from regulatory 
+puts smaller agents brokers like brown brown risk 
+arbitrage though continue expect slower pace growth 
+while carriers have opportunity reassert share front footed 
+than did originally capital market constraints have 
+see meaningful opportunity for insurtech companies though 
+proven more limiting than previously anticipated 
+lack data and underwriting expertise could impede even 
+mobile wallets brick and mortar adoption seems likely 
+doom some efforts 
+remain slow given lack clear value proposition and could take 
+robo advisory expect incumbents take the lead given 
+years even with investment major brands apple google etc 
+brand and network are key lower down the cost acquisition 
+fragmentation continue with expanding landscape retailer 
+provided right technology place about the 
+branded cloud based wallets plastic remain primary form 
+companies interviewed either already have offering are 
+electronic payment the for the time being 
+about launch one 
+digital wallets ecommerce and mcommerce these provide 
+merchant acquirertech think square and stripe are well 
+far clearer value prop than mobile wallets but pypl the 
+positioned for two themes secular shift towards commerce 
+mature end the adoption cycle and growth priced with 
+and potential for emergence new commerce experiences 
+new opportunities like pay with venmo unlikely 
+uber social commerce etc that could fast gain traction and 
+needle movers against large revenue base some risk over time 
+democratization pos technology that likely position 
+pypl other wallet providers vie for pypl market share 
+entrenched software technology providers favorable 
+including apple visa mastercard and google but our latest 
+position raise our price target 
+digital wallet tracker suggest this story will slow play out 
+raise our pypl price target 
+marketplace lending china believe platforms can 
+capture great growth opportunities serve the large 
+electronic payments india market shares are flux but card 
+addressable market underserved not served banks the 
+companies should see pickup absolute level transactions 
+sector still early stage and platforms that show strong 
+near term this will helped significant increase pos 
+ability underwriting credit effectively and leverage technology 
+terminals almost million new terminals the last months 
+reduce borrower acquisition cost will stand out the medium 
+new technologies could leapfrog traditional pos based payment 
+long term 
+technology 
+online mobile money transfer investment online money 
+digital wallets china alipay and tenpay are equally 
+transfer companies doesn pose meaningful immediate risk 
+well positioned capture significant online offline growth 
+incumbent operators but does reaffirm longer term risk 
+opportunities using digital wallets brick and mortar 
+pricing and profitability the world banked population 
+locations and ultimately increase share broader financials like 
+increases and eventually migrate from cash online 
+money market fund product distribution and internet banking 
+open api japan open apis could into use early april 
+electronic payments expect investments 
+fintech companies are already starting work out 
+outpace consumer payment investments over the next years 
+contracts with various financial institutions the near term 
+driven opportunity enable speed and efficiency low cost 
+transaction volume growth likely outpace profit growth but 
+capitalize growing cross border payments and consumerize 
+over the longer term expect the development commission 
+digitize payments for omni channel environment 
+models that will allow banks monetize these activities 
+blockchain payments financials adoption some form 
+potentially creating new source earnings 
+blockchain technology incumbents seems likely though 
+digital mortgage origination non bank mortgage originators 
+could take several years produce measurable cost savings 
+tried distinguish themselves from incumbents offering 
+given the amount collaboration required reach usable scale 
+more seamless mortgage process now incumbents are investing 
+meanwhile 
+heavily doing the same believe this tilts the scale favor 
+broad based 
+disintermediation 
+blockchain 
+technologies seems unlikely this point 
+the incumbents their digital capabilities improve match 
+insurtech expect meaningful change the way small 
+fintech players while their broader customer relationships 
+business insurance sold and estimate the total sbi 
+ability utilize balance sheet and lower cost funding enable 
+morgan stanley research 
+foundation 
+the gauntlet 
+outright disruption financial services has proven challenging with few success stories the complex nature 
+financial products services often accompanied onerous compliance requirements sensitive nature data which 
+makes trust based relationship with the provider critical see our foundation note data analytics for fis the journey 
+from insight value and slow pace change consumer behavior which gives incumbents plenty time adapt 
+has made disruption from outside the industry relatively hard 
+exhibit 
+the gauntlet fintech success 
+morgan stanley fintech framework 
+the financial infrastructure 
+underdeveloped 
+are amid inflection 
+consumer behavior 
+technology 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+yes 
+forces that 
+limit disruption 
+forces that 
+enable disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+enough financial 
+data available 
+level playing field 
+incumbents highly 
+concentrated 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+gauntlet components 
+state the existing financial infrastructure well functioning 
+evaluated multiple success stories determine factors variables 
+break relative situations where solution exists see three 
+that believe are key determining potential for success see 
+reasons disruption more viable less developed environment 
+flowchart below while this are not exhaustive list 
+there more opportunity add value incumbents are less likely 
+circumstances that accommodate success identified the 
+notice small disruptive threat and therefore less likely quash 
+following factors being most critical governing the path 
+mimic acquire and consumers already undergoing meaningful 
+success 
+change nascent market might more receptive new 
+and established infrastructure makes harder for innovators 
+technology provider 
+foundation 
+inflection consumer technology behavior even financial 
+data possible this breaks into two separate components the 
+sector developed meaningful inflection consumer behavior 
+data 
+result changing technology can often create new opportunities 
+well established for long enough that useful amount data even 
+whether not true disruption can come about may depend how 
+exists and this data available broadly only selectively which 
+quickly behavior shifts and that creates opportunity for the 
+could limit the ability small firm scale without partnering with 
+innovator get enough first mover advantage more often 
+the owners data note that think the availability and 
+than not the incumbents are likely follow 
+accessibility data necessary rapidly disrupt most financial 
+available 
+has 
+the 
+financial 
+infrastructure 
+been 
+subsectors but the lack data not absolute hurdle could 
+government involvement driving change while consumer 
+possible slowly build out disruptive business that accrues data 
+and industry behavior can slow change and sometimes not 
+its own and fact those with unique data sets could have 
+conducive disruption mandate from the government can help 
+upper hand against even established companies 
+break that rhythm recent examples this are the demonetization 
+effort india which has inflected usage electronic forms 
+significant collaboration required establishing business that 
+payments much faster pace than the last several years combined 
+requires buy from multiple parties itself challenging doing 
+and greece where the government pushed consumers use cards 
+financial industry where trust critical and incumbents are often 
+make purchases offering tax exemption order 
+risk averse even more challenging and while not impossible our 
+improve tax collection but government involvement can indirect 
+presumption that building support from partners takes time and 
+and unintentional well the the card act limited 
+longer ramp technologies products would favor the incumbents 
+banks ability frequently adjust interest rates customers based 
+who have the capital and longevity execute such strategy 
+perceived industry credit conditions which created opportunity 
+for marketplace lenders not covered under the regulation price 
+dependency capital market access companies that require 
+substantially lower for the same risk 
+continuous access capital markets are subject high degree 
+market volatility which can put entire business model jeopardy 
+opportunity for regulatory arbitrage incumbent financial 
+still early its formation marketplace lenders were impacted 
+institutions have had deal with increasing regulatory burden 
+pullback capital and several went under while the largest had 
+hampering practices and pricing fintech providers are often not 
+the relationships and stability weather the storm 
+subject these same regulations and such can have inherent 
+advantage pricing clearly this represents advantage and would 
+incumbents concentrated fragmented the degree 
+help position firm for disruption that arbitrage opportunity 
+industry concentration should inform the ambitions fintech 
+sustainable 
+startup financials see spectrum concentration from the 
+card network duopoly the highly fragmented small business 
+well defined and accommodating regulation highly 
+lending environment simply put believe the complete 
+regulated industry like financials regulatory uncertainty can often 
+disruption highly concentrated industry all the more 
+impede the ability scale product service offering for example 
+challenging because incumbents have the ability respond 
+the madden midland lawsuit created uncertainty true lender 
+concert any serious growing threat partnering settling for 
+status with respect operation marketplace lending platforms 
+niche part the market could more reasonable fragmented 
+that are using partner banks such webbank originate the loans 
+free for all market meanwhile partnerships don offer much 
+uncertainty around the interpretation these rules given lack 
+benefit and superior product scalable not likely quashed 
+regulatory clarity impacted investor appetite abs securities back 
+the combined resistance incumbents 
+marketplace loans originated some these platforms the 
+planned occ fintech charter meanwhile could offer clarity and 
+the roadmap applied 
+reduce regulatory overhang some online lenders which could 
+increase the likelihood that they sign funding partners 
+accessibility data data can moat equalizer firm 
+that wants disrupt least compete with established players 
+much better position the acquisition reference 
+morgan stanley research 
+this report highlight several cases companies technologies 
+successfully not providing differentiated fintech product 
+service and the ecosystem which they did the main takeaway 
+the stars will never totally align though finding some gap 
+distortion the market the most important factor 
+foundation 
+exhibit 
+online 
+money transfer 
+apis japan 
+digital 
+mortgage 
+origintation 
+marketplace 
+lending china 
+merchant 
+acquirer tech 
+electronic 
+payments 
+robo advisors 
+alipay and 
+tenpay 
+insurtech 
+electronic 
+payments 
+india 
+blockchain 
+financials 
+digital 
+wallets 
+mobile 
+wallets 
+marketplace 
+lending 
+unique set environmental forces for the various areas fintech 
+lack well entrenched financial 
+infrastructure 
+amid inflection consumer behavior 
+technology 
+government involved making change 
+opportunity for regulatory arbitrage 
+accommodating and well defined 
+regulation 
+dependency capital market access 
+incumbents concentrated 
+source morgan stanley research 
+accessible data 
+significant collaboration required 
+foundation 
+who positioned drive innovation 
+incumbents vcs 
+investing likely moderate though some areas will remain popular 
+global fintech investment backed companies has been 
+acknowledgment realities that hitting home runs fintech 
+remarkably volatile spiked over from nearly 
+hard because the slow pace consumer change and the high cost 
+but fell nearly half see exhibit below direct 
+doing business intensely regulated industry and high cost 
+investment was steady while dropped significantly why the 
+acquiring customers make getting scale difficult the end 
+dramatic swings the acceleration makes sense the convergence 
+number startups would better off working with incumbents 
+mobile technology ecommerce and mcommerce trends and 
+rather than trying disrupt them and while this yields higher 
+hamstrung banks enabled startups try serve the industry better 
+likelihood success will probably also lower the firm valuation 
+than incumbent using the latest technologies and consumer 
+netting out lower irr for its sponsors some recent downrounds 
+preferences the pullback meanwhile was potentially reflective 
+seem corroborate that realization realities 
+exhibit 
+investment fintech startups fell after rapid increase over 
+prior years 
+exhibit 
+fintech investments have concentrated payments lending 
+signaling the areas investors find most compelling 
+total global investment fintech companies 
+global fintech investment 
+backed firms 
+asia 
+other 
+payments 
+europe 
+wealth 
+mgmt 
+other 
+americas 
+insurance 
+lending 
+source pulse fintech kpmg cbinsights pitchbook morgan stanley research 
+source pulse fintech kpmg cbinsights pitchbook morgan stanley research 
+where does investing shake out still see significant 
+opportunity for fintech startups and our framework informs our 
+increase supply credit which relatively underdeveloped 
+view below 
+thereby creating greenfield growth opportunity contrast 
+markets like the are probably already saturated terms 
+more juice for marketplace lending investments large emerging 
+investment marketplace lending growth expectations have 
+markets like china developed markets like the 
+been rationalized given capital market challenges for funding 
+investments markets with immature financial infrastructures 
+which can limit the chances success without partnership with 
+are likely see better irr successful lack established 
+incumbents ultimately the measure success for marketplace 
+infrastructure creates real opportunity for true disruption 
+lending the has evolved from disrupting incumbents 
+china marketplace lending not only helping drive cost savings 
+becoming technology partner for incumbents through lending 
+for consumers due technology driven efficiencies but helping 
+service model 
+morgan stanley research 
+foundation 
+likely garner more investment dollars than consumer 
+payments developed markets most the paymentech 
+adjacent players are cross selling insurance technology enablers 
+investments over the last several years have focused 
+are assisting incumbent carriers brokers some non incumbent 
+facilitating consumer payments digital mobile wallets 
+insurers are taking innovative digital direct approaches sbi 
+payments merchant acquiring pos technology etc while the 
+space has gotten crowded returns for many have been limited 
+with only handful success stories given the availability 
+already established infrastructure that works well going 
+forward think the payment segment offers more 
+opportunity innovate and monetize given unmet business 
+blockchain blockchain investments are likely temper from 
+here even the price bitcoin surges the return propositions 
+are yet unclear and exodus banks from the initiative likely 
+put least some damper the likelihood that backed 
+blockchain startups are embraced acquired incumbents 
+needs and would expect see more fintech investment flow 
+that direction are starting see incumbents also make push 
+vntv acquisition paymetric flt planned acquisition 
+meanwhile incumbents likely lead more 
+investment 
+cambridge 
+while spend may pull back expect spend incumbents 
+that direction evidenced acquisition vocalink 
+global 
+payments 
+and 
+visa 
+launch 
+blockchain based connnect platform for cross border 
+grow for few reasons 
+business payments 
+consumer payment innovations have most opportunity for 
+disruption emerging markets that are leap frogging incumbent 
+technologies highlighted above digital innovation the 
+consumer payment market developed countries like the has 
+gotten crowded with everyone trying capitalize the trend 
+towards mobile digital omni channel commerce but slow pace 
+change consumer behavior strong incumbent foothold and 
+high degree collaboration requirement has meant that few 
+have been able monetize their innovations successfully 
+think emerging markets that lack well imbedded electronic 
+infrastructure are most ripe for disruption digital innovation 
+provides potential leap frog incumbent technologies case 
+point alipay tenpay china and paytm india 
+wealth management have argued that independent 
+start ups the robo advisor space will struggle profitable 
+given high cost acquisition and intensifying competition from 
+incumbents think however that established financial 
+advisors banks insurers etc will keep automating parts their 
+value chain kyc aml onboarding rebalancing reporting etc 
+spike investment catalyzes response after gaining steam 
+think investment may have overshot 
+soaring valuations and early success stories such lendingclub 
+square etc drew attention and led large capital inflows from 
+vcs looking fund attractive fintech ideas but some these 
+investments struggle realize gains expect capital inflows 
+from vcs rationalize going forward the online lending space 
+for example are seeing push towards profitability much 
+sooner than what some the platforms had planned 
+months ago leading lower growth prospects and much lower 
+valuations the meantime the threat disruption from 
+fintechs forcing incumbents their investments 
+technology gain operating efficiencies and preserve market 
+share 
+consumer behavior change while slow adjusting expectations 
+while pace change consumer behavior tends slow for 
+financial services and hence unlikely blindside incumbents 
+big way expect incumbents gradually evolve their product 
+service offerings cater the digital age consumer 
+developing software improve the infrastructure for 
+shift from regulatory compliance driven revenue 
+established incumbents with existing client base could 
+generation product oriented easing regulatory burden 
+cheaper and higher return way than competing the 
+under the new political environment should allow more 
+direct consumer world for investments our view 
+investment dollars from incumbents allocated towards new 
+insurtech see continued opportunity insurtech 
+backed startups are poised fill the needs small 
+businesses seeking simpler products that are easy understand 
+products offerings opposed regulatory compliance which 
+has been big drag investment dollars for the last several 
+years 
+buy brokers provide consumer friendly experience 
+focus lowering costs managing expenses remains key focus 
+aggregators give small businesses quick look options 
+for incumbents one the drivers for earnings growth 
+follows that there increasing trend towards implementing 
+foundation 
+more technology drive efficiencies with moderated headcount 
+growth going forward 
+exhibit 
+with even faster growth likely come from high profile fintech 
+incumbents like pypl and 
+est spend 
+most banks have spoken publicly about ramping spend participate 
+fintech trends and morgan provided the clearest detail its 
+fintech initiatives for major bank when they highlighted the 
+following their annual shareholder letter 
+ondk 
+how much spend spent more than billion 
+technology firmwide which approximately billion 
+dedicated toward new initiatives that amount approximately 
+million spent emerging fintech solutions which 
+include building and improving digital and mobile services and 
+partnering with fintech companies 
+pypl 
+source company data morgan stanley research estimates 
+where spending investing digital big data and machine 
+learning 
+the net outcome better returns for incumbents think 
+focused partnering well whether consumer payment 
+incumbents pick investment while vcs reduce investment tilt 
+systems zelle mortgages roostify auto finance truecar 
+towards world where incumbents are less susceptible 
+small business lending ondeck capital communications 
+disintermediation and more likely opt new technologies the 
+systems symphony are successfully collaborating with 
+balance spend comprises our fintech gameboard and shift 
+some excellent fintech companies dramatically improve our 
+another quadrant could represent upside for incumbents 
+digital and other customer offerings 
+exhibit 
+fintech gameboard 
+exhibit 
+investment activity backed firms slowed but believe 
+bank technology spend likely grow 
+vcs increase 
+investment fintech 
+paid wait 
+incumbents scale 
+back 
+redirect focus 
+partnerships 
+startups create and 
+incumbents try mimic 
+some instances 
+disruption 
+where 
+been 
+some winners but 
+mostly losers 
+excessive spend hurts 
+returns for all 
+incumbents 
+accelerate 
+incumbent spend 
+where 
+headed 
+forget the hype 
+spend innovation slows 
+becomes clear 
+fintech roi generally 
+lower than first assumed 
+incumbents 
+take the reins 
+incumbent investment 
+restrains vcs and 
+industry benefits from 
+better efficiencies 
+vcs scale back 
+fintech 
+source fdic kpmg cbinsights morgan stanley research 
+morgan stanley research 
+source morgan stanley research 
+foundation 
+high profile areas fintech 
+profile marketplace lending 
+james faucette 
+exhibit 
+lendingclub took advantage market opportunity bank regulation that reduced likelihood response from banks 
+morgan stanley fintech framework 
+marketplace lending 
+the financial infrastructure 
+underdeveloped 
+yes consumers conducting more 
+financial services transactions 
+online online banking online 
+brokerages online credit card 
+applications 
+are amid inflection 
+consumer behavior 
+technology 
+partners with 
+institutional investors but 
+negotiates individually 
+collaboration not 
+necessary 
+yes highly sensitive due 
+lack deposit base half 
+funding from 
+institutional institutions 
+and increasingly looking 
+funding through 
+securitization facilities 
+credit card lending 
+fairly concentrated but not 
+enough for banks 
+collude 
+yes 
+lending industry relatively mature though 
+institutional individual investors still had way 
+gain direct exposure consumer unsecured 
+asset class and smbs don always have access 
+reasonably priced loans 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+yes card limited 
+bank repricing giving 
+opportunity for 
+marketplace lenders and 
+others offer competitive 
+refinancing products 
+capital reserve 
+requirements impact bank 
+rates well 
+madden midland 
+case underscores lack 
+clarity for now 
+marketplace lenders taking 
+advantage partnership 
+with web bank and others 
+yes fico score available 
+starting point for 
+underwriting and 
+online social media data 
+available minimize fraud 
+risk 
+source morgan stanley research 
+what happened far 
+marketplace lenders grew rapidly following the financial crisis benefiting large part from the low rate environment pull back 
+lending from incumbents and card act that limited banks ability reprice credit risk 
+key driver growth were regulatory limitations incumbents and readily available data for marketplace lenders quickly ramp 
+loan irregularities drove sharp pullback funding with institutional investors reevaluating their investments the 
+space 
+what next 
+with expectations reset marketplace lenders are poised grow more moderate pace leveraging traditional institutions 
+primary sources capital essence serving more efficient customer acquisition and servicing channel for traditional lenders 
+uncertainty still remains regarding impact credit cycle the industry 
+despite the slower pace adoption remain bullish the potential for marketplace lenders take share they benefit from 
+regulatory arbitrage and changing consumer behavior 
+foundation 
+exhibit 
+took advantage the wide spread between card rates and chargeoffs which grew following the card act 
+rate 
+average credit card 
+interest rate 
+bank spread above risk 
+free rate ncos 
+spread opportunity 
+should remain intact 
+from rising rates loan 
+losses the bigger 
+driver 
+net charge offs 
+risk free rate 
+year 
+year bill rate 
+source federal reserve fdic morgan stanley research 
+expectations resetting with partnerships prioritized over 
+our outlook for lending club and marketplace lending 
+disruption lendingclub goal serve direct capital 
+success stories took advantage the existing changes 
+online checking credit card payments etc other fintech 
+growing willingness conduct financial transactions online 
+the second key enabler success was the consumer 
+marketplace lenders offer competitive refinancing products 
+consumer which created the opportunity for and other 
+consumer credit the result was overpriced credit card 
+card act that put constraints the way banks price for 
+quarterly originations 
+was that fact benefited from regulatory action the 
+regulation meant oversee this type activity key enabler for 
+circumventing traditional banks while this would seem flout 
+exhibit 
+loan volumes had grown exponentially until small scale fraud was 
+caught internally expect growth resume 
+intermediary between borrowers and lenders effect 
+source company data morgan stanley research estimates 
+technology consumer behavior and established itself 
+trusted brand the right time note that stumble 
+senior management fraud allegations turnover drove weakness 
+funding which think has tilted its outlook from disruptor 
+partner for the existing lending industry 
+challenges last year highlight that while the model had 
+potential disruptor change consumer behavior towards 
+transacting online lack regulatory capital reserve 
+requirements scaling effectively can challenge when 
+competing with established industry players particularly when 
+access capital key constraint result expect that 
+success the marketplace lending industry the likely 
+come from partnering with the incumbents become services 
+enablers for them helping drive efficiency customer 
+acquisition credit underwriting automated origination etc 
+opposed outright competing with them independent pure 
+play providers 
+think near term growth the industry represents low hanging 
+fruit but that long term success will come from the disruptors 
+adopting lending service model 
+morgan stanley research 
+foundation 
+profile mobile wallets and apple pay 
+james faucette katy huberty 
+exhibit 
+adoption apple pay and other mobile wallets has been underwhelming large part because the existing infrastructure functions well 
+morgan stanley fintech framework 
+mobile wallets 
+the financial infrastructure 
+underdeveloped 
+are amid smartphone 
+adoption inflection but mobile 
+wallets require their own shift 
+behavior and consumers yet 
+see enough value shift 
+are amid inflection 
+consumer behavior 
+technology 
+yes 
+brick and mortar card payments 
+infrastructure already well developed and 
+low friction 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+yes agreements with card 
+issuers and card network 
+agreements with card 
+issuers and card networks 
+forces that 
+limit disruption 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+yes card networks 
+concentrated 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+forces that 
+enable disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+yes existing card payment 
+rules though for mobile 
+payments the rules are still 
+evolving 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+what happened far 
+apple android samsung and others have introduced their mobile wallets over the past years hoping redirect brick and 
+mortar and later commerce card payment flows through their pipes but traction brick and mortar retail has been 
+underwhelming 
+key hurdle has been the efficiency the existing card payment ecosystem lack true value add combined with inertial 
+consumers and inadequate acceptance infrastructure 
+what next 
+mobile phone providers will likely continue offering mobile wallets but traction likely slow and could take years build 
+nfc acceptance infrastructure should grow with terminal upgrade cycle over coming years 
+foundation 
+what has hampered initial success the first hurdle very 
+the believe that adoption apple pay the physical 
+well entrenched infrastructure apple pay was met with high 
+pos remains challenging the near term even though the shift 
+hopes when launched september but initial user 
+from mag stripe emv driving some disruption consumer 
+adoption was slow and see one defining reason 
+behavior the value proposition consumers and merchants 
+well established card payments infrastructure which when paired 
+remains unclear and lack ubiquity terms contactless 
+with inertial consumer behavior financials tends favor 
+acceptance infrastructure remains important hurdle further 
+incumbents specifically apple pay and nfc payments general 
+points acceptance has been gating factor apple pay usage 
+are often faulted for fixing problem that doesn exist and while 
+for instance points grew the over the last year while 
+there are some advantages using you don have carry your 
+monthly apple pay transactions grew nearly fight the 
+cards around your transactions process faster than emv chip 
+inertia using well established card payment infrastructure 
+the upside has not been enough incentivize consumers change 
+important for apple pay attract points acceptance for 
+payments methods this exasperated the infrastructure 
+transactions completed regular basis for example japan 
+disadvantage that apple pay has faced that nfc acceptance itself 
+more than transit users complete million apple pay 
+has been slow roll out mature existing card payments 
+transactions per month 
+technology merchant willingness accept applepay has also 
+been limited even where nfc exists and goes back issue 
+see apple pay frictionless touchid enabled checkout more 
+perceived lack value add 
+valuable for mobile based app browser payments but 
+ubiquitous acceptance challenge here well the 
+and while adoption has accelerated recent quarters global 
+acceptance gap bridges over time apple pay could have fair shot 
+penetration remains low close months after launching the 
+gaining meaningful traction particularly adds new 
+apple pay service the company reported that there were 
+customers default they purchase iphones longer term 
+locations the that were accepting apple pay fast forward 
+think meaningful traction only likely apple pay and other 
+and over million contactless ready locations accept apple 
+mobile wallet providers can parlay traction digital wallets see 
+pay with more than million the alone according apple 
+profile digital wallets particularly lines between online 
+furthermore the number apple pay customers has tripled yoy 
+and offline commerce become blurred consumers find value 
+and transaction volume has increased over the last 
+using digital wallets for and mcommerce and out habit 
+month albeit off low base however customer adoption still has 
+continue using the wallet brick and mortar locations well one 
+ways apple pay only available countries 
+example better mcommerce integration with imessage where 
+worldwide the service expanded taiwan and ireland the most 
+apple customers can now send starbucks gift card via imessage 
+recent quarter and apple pay usage penetration has leveled off 
+expanding these use cases could encroach other peer peer 
+the low mid single digits according pymnts 
+platforms 
+our outlook for apple pay and mobile wallets 
+exhibit 
+apple pay usage penetration has stagnated the low mid single digits 
+apple pay adoption among eligible devices merchants 
+have tried apple pay 
+usage penetration 
+mar 
+jun 
+oct 
+mar 
+nov 
+mar 
+jun 
+oct 
+source pymnts infoscout morgan stanley research 
+morgan stanley research 
+foundation 
+profile digital wallets ecommerce and mcommerce 
+james faucette 
+exhibit 
+pypl has been riding the wave ecommerce inflection gaining significant traction before incumbents reacted 
+morgan stanley fintech framework 
+digital wallets paypal 
+yes frictionless ways transact online 
+trust also issuer for online commerce and 
+paypal provided buyer and seller protections 
+the financial infrastructure 
+underdeveloped 
+yes consumers continuing test 
+embrace ecommerce 
+are amid inflection 
+consumer behavior 
+technology 
+yes requires signing 
+thousands individual 
+merchants dozens 
+merchant acquirers 
+lending business 
+exposed but core business 
+not positive float from 
+customers 
+not especially relevant 
+this case 
+yes 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+yes existing card payment 
+rules though for mobile 
+payments the rules are still 
+evolving 
+yes paypal leveraged ebay 
+buyer seller data 
+minimize risk and scale 
+quickly leverage 
+global card data 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+what happened far 
+after getting scale processing ebay transactions pypl has diversified into the leading ecommerce digital wallet accepted 
+more than major websites the and processing over global ecommerce 
+other digital wallets have been launched large firms including visa mastercard chase american express apple and google 
+what next 
+still long runway for growth mobile commerce and ecommerce take share from brick and mortar and paypal 
+expands acceptance among merchants globally 
+but compared other fintech companies pypl more the mature end the spectrum with new opportunities like pay 
+with venmo unlikely needle movers against large revenue base 
+some risk other wallet providers vie for pypl market share including apple visa mastercard and google but recent 
+progress suggests pypl well entrenched 
+foundation 
+digital wallet provider paypal the payments pure play 
+ecommerce paypal represents one the most notable payment 
+innovations for commerce established pypl 
+transactions now represent leading share commerce 
+think pypl success gaining traction depended few key 
+factors 
+lead online acceptance which role reversal now positions 
+the incumbent against digital wallets from the likes visa 
+mastercard apple android and others 
+while there risk pypl its online wallet acceptance advantage 
+diminishes out over time well funded competitors continue 
+push their own wallets evidence far does not suggest much 
+traction visa checkout masterpass applepay androidpay pay 
+exponential growth commerce and lack efficient 
+payment system for online payments while card networks like 
+and provided workable solution for making payments online 
+where none other existed there was clear friction having 
+consumers enter digit card details leading high rates cart 
+abandonment moreover there were security and trust issues with 
+consumers not wanting share their payment credentials with 
+merchant that was not well known them pypl digital wallet 
+helped solve both these issues 
+with amazon and others see our latest online payment tracker 
+for more detail given the slow pace adoption for many these 
+new wallets and pypl agreements with and stop steering 
+ach think there potentially incentive for least some 
+the other wallet providers slow their investment thereby 
+limiting overall risk share loss pypl 
+exhibit 
+despite already having the highest acceptance pypl also added the 
+most merchants over the past year 
+another equally important factor for pypl success was 
+pypl acquisition ebay leading commerce 
+platform the time being the preferred payment option ebay 
+allowed paypal gain adoption with both consumers and small 
+merchants that sold the ebay platform this gave them head 
+start establishing widespread merchant acceptance one the 
+biggest hurdles faced any new forms payment 
+digital wallet acceptance among online retailers 
+desktop based transactions 
+total merchant count 
+all merchants 
+paypal 
+iii finally riding existing network rails like and was 
+likely important factor for pypl success given that this 
+allowed for easy access consumer funds way that consumers 
+were already accustomed and trusted thereby reducing 
+friction the process 
+pay with amazon 
+visa checkout 
+our outlook for paypal raising price target 
+pypl quarterly total payment volume 
+global ecommerce volume 
+global ecommerce volume 
+quarterly average 
+pypl tpv 
+pypl cagr 
+pypl cagr 
+source company data morgan stanley research 
+expect pypl remain growing force the payments 
+ecosystem given the continued shift consumer behavior towards 
+commerce and commerce while many new entrants are 
+trying replicate pypl value proposition pypl has significant 
+morgan stanley research 
+masterpass 
+google wallet 
+chase pay 
+thousands 
+shoprunner 
+amex checkout 
+exhibit 
+paypal exponential growth benefited from several factors both 
+environmental and paypal specific 
+net merchant 
+additions since 
+started tracking 
+march 
+source internetretailer morgan stanley research 
+raising pypl while pypl represents disruptor its 
+own right now more than ever firmly entrenched its position 
+online commerce share leader moreover its partnership 
+agreements with while creating some risk margins 
+reduce risk share loss raise our price target paypal 
+accommodate this positioning more incumbent with 
+reduced risk profile more willingly bake pypl higher 
+out year eps growth into our target multiple specifically raise 
+our target target multiple from which 
+represents premium current avg 
+this premium justified forward earnings growth 
+premium eps growth for pypl 
+avg 
+foundation 
+profile electronic payments india 
+anil agarwal 
+exhibit 
+india perfect example government mandate driving change 
+morgan stanley fintech framework 
+card payments india rupay 
+yes extremely low card acceptance installed 
+base and low card usage 
+the financial infrastructure 
+underdeveloped 
+yes growing middle class and 
+growing internet connectivity via 
+mobile 
+are amid inflection 
+consumer behavior 
+technology 
+yes building infrastructure 
+and consumer adoption 
+simultaneously can take 
+time rupay relies 
+agreements with banks and 
+merchants some potential 
+for mobile payments 
+reduce the infrastructure 
+required 
+yes global card networks 
+concentrated and 
+attempting build share 
+india 
+yes 
+yes government demonetization effort 
+improve tax collection 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+yes 
+forces that 
+limit disruption 
+forces that 
+enable disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+yes existing card payment 
+rules and regulation 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+what happened far 
+the infrastructure for digital payments the form real time gateways like upi unified payment interface are and running 
+digital wallets like paytm have also attracted significant number consumers and merchants 
+the process digital payments got big leg end when the government conducted the currency replacement 
+programme and started pushing digital payments aggressively 
+what next 
+the infrastructure now place and would expect digital payments continue gain share overall consumer spend 
+india will keeping track the continued pickup adoption digital payments 
+foundation 
+government giving digital payments material boost while 
+for card companies too the pie has become larger need wait 
+cards credit and debit have existed india for long time traction 
+and see how much market share new platforms will take away but 
+had been fairly limited given highly cash centric consumer payment 
+card companies should see pickup absolute level transactions 
+behavior weak penetration physical infrastructure pos 
+the near term this will helped significant increase pos 
+machines existence large informal unaccounted for economy 
+terminals which are being set india banks installed almost 
+and some extent cultural aversion debt 
+million new terminals the last months moreover new 
+payment mechanism based core bharat has been 
+cash and checks make for personal consumption 
+launched which interoperable across networks visa and 
+expenditure based various estimates for the fiscal year ended 
+mastercard are part this where payments will not need any 
+march the highest compared group other key 
+pos terminals 
+developing and developed markets 
+the various steps taken should enable india leapfrog traditional 
+pos based payments technology 
+exhibit 
+digital payments india gdp 
+digital payments india gdp 
+source reserve bank india research 
+however this changing digital payments have seen big leg 
+since november after the government initiated its currency 
+replacement programme the shortage cash prompted the 
+move digital payments and this was helped government 
+initiatives this regard cutting interchange rates increasing pos 
+penetration etc total merchant spends through digital means 
+primarily cards but including mobile wallets upi has increased 
+gdp year ending march from and 
+some this pickup will likely ebb cash has come 
+back into the system but the trend digital payments likely 
+fairly well entrenched now 
+our outlook for electronic payments india 
+likely that large part pickup digital payments over next 
+years will through upi this real time payment gateway 
+for transactions with almost all the large banks 
+connected mobile wallets have also seen material pickup since 
+november with paytm having seen significant jump customer 
+and merchant acquisition 
+morgan stanley research 
+foundation 
+profile digital wallets china 
+grace chen 
+exhibit 
+like pypl alipay has been the big ecommerce beneficiary china tencent following suit with tenpay 
+morgan stanley fintech framework 
+digital wallets china alipay tenpay 
+the financial infrastructure 
+underdeveloped 
+yes growing middle class and 
+growing ecommerce popularity 
+are amid inflection 
+consumer behavior 
+technology 
+yes agreements with 
+networks and individual 
+merchants 
+positive float from 
+payments business 
+merchant acquiring 
+fragmented 
+yes 
+yes frictionless ways transact online 
+trust also issuer for online commerce 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+direct involvement 
+yes 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+third party payment 
+providers must obtain 
+licenses banks agents 
+and use trust accounts 
+part existing payments 
+regulation and government 
+also implemented new 
+regulations monitor 
+transactions online 
+yes can leverage taobao 
+and tmall buyer and seller 
+data minimize risk and 
+scale quickly 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+what happened far 
+alipay has been the market pioneer and hold the leading market share both and mobile payment according iresearch 
+alipay accounted for total online payment market terms transaction value leveraging its strong 
+presence commerce also makes the mobile payment market result successful mobile transition and 
+increasing online offline efforts 
+tenpay emerging payment player has been catching since from lower base leveraging the large and sticky 
+user base its social platform well supportive investments according iresearch alipay accounted for total 
+online payment market terms transaction value mainly through strong commerce partners such 
+while mobile tenpay achieved market share thanks the extensive ecosystem offline payment 
+what next 
+while alipay continues dominate the online payment market given taobao and tmall capture the majority the 
+commerce transactions china offline transactions will increasingly become focus and the primary competitive arena for 
+online payments 
+china government imposing more stringent regulations online payments which could lead short term volatility 
+market development but which should also constructive the long run helping avert potential systemic risks 
+leveraging its strong social properties and rich strategic investment portfolio especially tencent believe well 
+positioned the mobile payment space capture significant growth opportunities monetizing the increasing payment 
+transactions both the online and offline arenas 
+backed large volume payment transactions and better user profiling techniques tencent could our view become 
+strong player the internet finance space especially money market fund product distribution 
+are also positive tencent strong presence the internet banking space and believe the credit system established 
+through banking business another element fundamental infrastructure for tencent user ecosystem 
+foundation 
+what drove alipay success alipay benefited from the secular 
+management products ant financial success with alipay and 
+trend commerce booming and lack strong entrenched card 
+other financial products has profoundly changed china financial 
+payment culture china and enjoyed large traffic and transaction 
+industry these financial services were developed from the 
+volumes from taobao and tmall which alipay set the 
+commerce players rather than traditional financial institutions 
+default and dominate payment channel with the fast adoption 
+mobile internet and payment alipay has also successfully 
+online offline initiatives drive offline payment 
+transformed from centric payment solution mobile 
+adoptions one the key initiatives koubei serves 
+payment gateway with wider coverage terms service 
+fa ade offline connect various local merchants with over 
+categories 
+mobile internet users china believe besides 
+increasing mobile commerce transactions incrementally offline 
+alipay innovating china financial market alipay has become 
+payment offer larger revenue opportunity alipay has been well 
+china largest third party payment service provider with 
+positioned capture the ongoing wave service digitalization 
+market share terms mobile transaction value 
+well offline payment and leverage initiatives drive faster 
+according iresearch also actively developing offline 
+offline payment adoptions 
+payments and small loans personal financing and wealth 
+exhibit 
+exhibit 
+online payment transaction volume growth china 
+total transaction volume rmb 
+mobile payment transaction volume growth china 
+total transaction volume rmb 
+yoy growth 
+yoy growth rhs 
+source iresearch 
+source iresearch 
+exhibit 
+exhibit 
+online payment market share china 
+mobile payment market share china 
+alipay 
+tenpay 
+alipay 
+chinaums 
+tenpay 
+lakala 
+jdpay 
+others 
+jdpay 
+others 
+source iresearch 
+source iresearch 
+morgan stanley research 
+foundation 
+tenpay the fundamental infrastructure for tencent 
+believe payments represents the fundamental infrastructure for 
+tencent improve product and service offerings and drive user 
+exhibit 
+tenpay leverage the large and sticky user base tencent social 
+platform well supportive investments 
+wechat 
+qzone 
+mau 
+mau 
+mau 
+engagement and stickiness the platform given the social 
+news 
+music network 
+awareness 
+settings payment especially peer money transfer one the 
+most frequent activities the social environment the same 
+time tenpay also benefits from the large transaction volumes 
+merchants 
+advertise gdt 
+consideration 
+generated the platform despite money transfer still 
+dominating the majority the transactions tenpay has shown 
+gdt 
+significant growth online payment volume more 
+conversion 
+transactions were done through mobile and payment 
+ecosystem partners 
+transactions have been the rise 
+loyalty 
+strategic investments ecosystem partners incubate 
+payment 
+payment scenario with over monthly active users 
+both wechat and and highly engaging social activities the 
+source company data morgan stanley research 
+platforms tencent has solid foundation for monetizing its 
+payment business our view tencent also incubating more 
+comprehensive payment options strategically investing 
+various transaction oriented players such meituan 
+dianping didi taxi and have positive view the 
+potential synergies created cooperation among partners 
+different use scenarios and expect tencent benefit from the 
+exhibit 
+strong growth other revenues mainly payment 
+rmb 
+other revenue 
+yoy growth 
+increasing volume commercial payment transactions through its 
+payment vehicles which think could offer significant upside 
+payment monetization 
+margin improvement track mainly driven increasing 
+third party payment volume since march tencent started 
+charge wechat pay balance withdrawal fees the 
+source company data morgan stanley research estimates 
+accumulated amount exceeds order alleviate the 
+cost burden associated with increasing transfer payments 
+result revenue contribution from other revenues mainly 
+exhibit 
+improving margins for other business 
+payments has increased meaningfully over the past few quarters 
+reaching from side effect 
+handling fee charges users are more willing keep residual 
+money their wechat wallet rather than transferring back 
+overall 
+reached over tencent removes this item 
+from its total cash balance comply with regulation changes 
+but believe such residual funds wechat wallets 
+should continue grow transaction volume grows view the 
+vas 
+their bank accounts such funds grew significantly and 
+impact these balances positive they could monetized 
+through rising payment scenarios wechat and drive more 
+commercial transactions are seeing tencent building payment 
+scenarios both online and offline improve payment 
+monetization 
+source company data morgan stanley research 
+advertising 
+others 
+foundation 
+our outlook for alipay and tenpay 
+backed large volume payment transactions and better 
+user profiling techniques tencent could our view become 
+alipay expect alipay maintain its dominant position 
+strong player the internet finance space especially money 
+online payment ecosystem taobao and tmall continue 
+market fund product distribution the market still early 
+capture majority the commerce transaction gmv china 
+stage development the majority the transactions were 
+while tenpay emerging payment channel especially 
+conducted across variety channels given aggressive subsidies 
+offline ramping very aggressively believe the payment 
+offered the players the market however believe that 
+battle offline realm early and both alipay and tenpay are 
+the return rate normalizes platforms with high volume 
+proactively building payment ecosystem especially offline 
+payment transactions such alipay and licaitong could 
+further incubate customer behavior adopting mobile payments 
+consolidate the market and become strong product distribution 
+channels 
+believe alipay will also continue drive internet finance 
+innovations leveraging its strong presence commerce 
+moreover beyond internet finance product distribution are 
+extensive user base and tremendous transaction and user behavior 
+also positive tencent strong presence the internet banking 
+data one hand expect alipay further develop wealth 
+space and believe the credit system established through 
+management products cater the increasing needs financial 
+banking business another element fundamental infrastructure 
+investment china internet users the other hand sesame 
+for tencent user ecosystem 
+credit leading credit assessment tool has laid out solid 
+foundation for consumer finance product pricing and risk 
+management 
+tenpay leveraging its strong social properties and rich strategic 
+investment portfolio especially tencent believe well 
+positioned the mobile payment space capture significant 
+growth opportunities monetizing the increasing payment 
+transactions both the online and offline arenas although 
+money transfers still dominate payment transactions see 
+encouraging progress payment monetization also expect 
+tencent fully utilize its valuable payment transaction data 
+together with its large social data better understand its users 
+creating virtuous cycle its ecosystem that fosters development 
+more products and product features and again gathers more 
+data 
+morgan stanley research 
+foundation 
+profile electronic payments 
+james faucette 
+exhibit 
+payments long elusive tam for electronic payments providers could see some fintech interest move towards instant ach the 
+morgan stanley fintech framework 
+electronic payments 
+the financial infrastructure 
+underdeveloped 
+yes consumerization 
+business payments 
+transactions pushing 
+businesses look for userfriendly solutions 
+are amid inflection 
+consumer behavior 
+technology 
+yes 
+yes ach rails are not real time yet data 
+capture with ach transactions severely 
+inadequate card payments are expensive for 
+high ticket transactions and cross border high 
+friction 
+yes 
+yes fed pushing banks roll out instant ach 
+the 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+yes ach based payments 
+need buy from buyers 
+and vendors and card 
+payments required vendor 
+buy 
+forces that 
+limit disruption 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+incumbent 
+payments represented 
+check and some ach 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+forces that 
+enable disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+yes existing card payment 
+regulation 
+transactions not heavily 
+regulated generally 
+banking partners have 
+accounts payable and 
+accounts receivable 
+businesses checking 
+account information 
+source morgan stanley research 
+what happened far 
+large but underserved tam payments are still made via checks with ach being the last major innovation 
+electronic payment options are lacking particularly for smbs that don get much attention from banks large 
+multinationals 
+other alternatives include commercial virtual card programs offered card networks conjunction with issuing partners but 
+penetration card transactions remains low low mid single digit penetration according mastercard 
+cross border payments are particularly pain point most available options are time consuming and expensive 
+what next 
+while large amounts investments have pursued consumer payments over the last several years investment payments 
+have been limited expect investments outpace consumer payment investments over the next years 
+consumerization digitization payments see increasing expectation from corporate clients able transact 
+omni channel environment with speed accuracy and ease click button 
+increasing focus from payment networks tap into opportunity planned acquisition vocalink partnership 
+with chain for rolling out connect platform for banks settle funds cross border 
+foundation 
+pain points make ripe for disruption investments and 
+payments task force with the objective 
+hence improvements payments have been mostly focused the 
+implementation improved payment system with focus 
+retail side over the last several years with corporate payments 
+speed ubiquity safety security and efficiency this should not 
+lagging meaningfully terms product innovation data indicate 
+only allow banks upgrade their offerings but also pave the way 
+that 
+for new entrants innovate fast and convenient payment 
+business business payments the although the mix 
+solutions for corporate clients europe application 
+has been shifting towards electronic payments the pace 
+should drive increased use apis for payments 
+paper 
+checks 
+still 
+constitute 
+majority 
+conversion has been slow relative consumer payments 
+change transaction behavior towards digital while individuals 
+can conduct cashless transactions seamlessly from their mobile 
+today majority payments are conducted via check ach 
+device for retail purchases corporate transactions still use 
+credit and debits wire transfers and purchasing cards the 
+clunky cumbersome rails corporate clients are increasing 
+industry has been slow innovate the side with ach 
+demanding ability transact omni channel environment 
+representing the last notable innovation circa but see 
+with real time capability 
+strong potential for increased focus the space over the next 
+several years why 
+our outlook for electronic payments 
+lack well established and efficient infrastructure electronic 
+payment options available businesses are subpar ach 
+expect investments outpace consumer payment 
+transfers require sharing sensitive account information can 
+investments over the next years similar consumer 
+prone fraud and transmission data for automatic processing 
+payments expect innovation led fintechs that 
+often inadequate requiring manual intervention for account 
+can develop targeted solutions layering technologies top 
+reconciliation which critical component payments 
+bank ach rails see automation and improvement data 
+card based payments are more seamless capture detailed 
+information availability along with the payment transaction 
+remittance information but can fairly expensive for high value 
+key focus area for innovation that remains important pain 
+transactions 
+point with ach payments requiring manual and expensive 
+huge addressable market global tam for payments 
+reconciliation cross border payments another area which could 
+trillion trillion for consumer payments 
+benefit from innovation given the difficulty making timely 
+payments through the correspondent bank network that exits 
+government mandated changes the could create unique 
+today new technologies like blockchain could have some 
+opportunity for innovation the the fed convened faster 
+applicability solving for efficient cross border payments 
+exhibit 
+the government mandate for instant bank transfers could driver electronic payments 
+bank payments transactions 
+faster payments 
+credit clearing 
+checks 
+chaps 
+bacs 
+source faster payments morgan stanley research 
+morgan stanley research 
+foundation 
+with change transaction behavior towards digital channels 
+expect innovation focus making payments available 
+omni channel environment such that business managers can make 
+transactions from their mobile devices with the ease click 
+button something that most people are becoming increasingly 
+accustomed when making consumer payments 
+expect virtual card and other payments remain key 
+focus for visa and mastercard while not all payments are 
+cardable the companies have identified tam trillion out 
+total more than trillion payment volumes where 
+they think card payments could provide valuable solution for 
+inefficient payments but overall penetration this tam 
+remains limited with pending acquisition vocalink 
+should able after much larger trillion addressable 
+market which mostly transacted ach rails and where card 
+payments may not make much sense 
+visa has also been making investments the opportunity 
+outside card payments one example its partnership with 
+chain blockchain enterprise company offer connect 
+platform for banks settle funds cross border with consistent 
+process through visa standard pactices 
+foundation 
+profile blockchain technology for financials 
+betsy graseck james faucette 
+exhibit 
+blockchain requires lot buy fully utilized which suggests longer time scaled implementation and therefore favors incumbents 
+morgan stanley fintech framework 
+blockchain technology 
+the financial infrastructure 
+underdeveloped 
+but close many proof ofconcepts process but killer 
+app yet which needed kickstart adoption 
+yes killer app likely 
+emerges concentrated 
+markets like treasury 
+bond settlement australian 
+equity market clearing 
+where leaders have 
+market share 
+yes 
+direct involvement 
+are amid inflection 
+corporate behavior 
+technology 
+yes bank consortiums for 
+trade settlement 
+merchant adoption for 
+purchases etc 
+mostly applications are mostly targeted 
+reducing costs existing infrastructures 
+like trade settlement and international money 
+transfers 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+yes but rules not allow 
+for customers benefit 
+from fintech speed 
+banks have much 
+richer client information 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+what happened far 
+blockchain the technology behind bitcoin and other cryptocurrencies erupted onto the fintech scene several years ago 
+creating parallel financial system based decentralized ledger independent existing infrastructures there was perception 
+meaningful tail risk incumbents including the card networks money transfer networks and banks blockchain technology 
+the context banking and financial institutions really refers the more general distributed ledger technology importantly 
+banking requires private permissioned network opposed open permission less network such the one underpinning 
+bitcoin 
+several consortiums led high market share incumbents have emerged test proof concept blockchain technologies 
+particularly the securities clearing and settlement space leaders including bnymellon northern trust state street and jpm 
+are assessing blockchain can deliver services more cheaply and more securely than current systems 
+applications for distributed ledger have broadened and various efforts are underway assess the business case whether the 
+benefits exceed the costs and risks implementation particularly relative simpler alternatives such incremental updates 
+legacy infrastructure 
+what next 
+proof concept for some applications like securities clearing and settlement and slowing enthusiasm for others bitcoin the 
+point sale 
+expect adoption will come waves asset class asset class asset classes ripe for proof concept efforts are those with 
+mature legacy process with existing friction inefficiencies that warrants disruption ntrs private equity fund 
+administration asx 
+concentrated market share where incumbents could effectively lead the proof concept effort bny mellon 
+treasury bond settlement 
+adoption some form blockchain technology incumbents likely given the amount collaboration required expect 
+could take several years replace existing back office functions produce measurable cost savings the asset classes adopted 
+morgan stanley research 
+foundation 
+many uses but technology likely opted 
+our outlook for blockchain financials 
+incumbents blockchain represents breakthrough database 
+technology with clear potential application across broad array 
+buy into the concept that distributed ledger has the potential 
+financials and payments key factor for success ubiquity among 
+help reduce the costs post trade activities dramatically 
+users this why believe incumbents will drive any blockchain 
+studies range from bcg santander infoventures 
+adoption customers need know and trust their counterparties 
+june this stage however think are years away 
+incumbents with significant market share needed sponsor the 
+from widespread adoption current proof concept efforts 
+technology implementation 
+certain 
+proof concepts 
+succeed 
+expect 
+shared 
+infrastructure emerge over the next years success those 
+platforms would drive other assets follow suit with the 
+technology the beginning the curve our chart below 
+not expect blockchain material earnings any 
+financials cover 
+exhibit 
+our roadmap for adoption distributed ledger financial institutions expect adoption comes waves asset class asset class more our 
+blockchain banking note here 
+assets proliferate 
+shared infrastructure emerges 
+assess blockchain value for 
+financial assets 
+assess blockchain value for 
+financial assets 
+banks and other financial infrastructure 
+intermediaries fiis including central 
+depositories exchanges technology 
+vendors size potential efficiencies from 
+permissioned shared secure distributed 
+ledgers 
+banks and financial infrastructure 
+intermediaries form industry groups discuss 
+opportunities 
+linux hyperledger foundation 
+proof concept 
+proof concept 
+banks and fiis tee specific assets test case for blockchain 
+cds 
+repo settlement 
+corporate syndicated loan settlement 
+trade finance 
+international currency transfer 
+exchanges for post trade settlement 
+poc goal assess blockchain can scale and reduce costs 
+does tech work and scale 
+does the asset transact between buyer and seller smoothly 
+does offer benefits beyond existing technologies 
+performance cost speed scale analysis 
+fails are minimis 
+can buyer seller and their parties lawyers auditors 
+regulators validate the transaction with few human touch points 
+replacing teams people 
+does offer benefits beyond existing technologies 
+performance cost speed scale analysis 
+poc tiering segment into most least important assets address 
+focus resources most important assets most inefficient processes 
+engage regulators lawyers auditors 
+enable access 
+assure functionality addresses requirements 
+source morgan stanley research 
+shared infrastructure emerges 
+proven assets adopted well beyond initial poc 
+group 
+develop interface for external users 
+leverage apis 
+reduce costs with fewer heads and increased 
+mutualization infrastructure costs 
+assets proliferate 
+more assets move onto blockchain 
+efficiencies prove out 
+foundation 
+blockchain application securities clearing and settlement 
+utility settlement coin 
+believe securities clearing and settlement will the first best 
+focus digital cash instrument for international settlement 
+use case for blockchain given high reconciliation costs and 
+formed august 
+members ubs santander icap ubs clearmatics 
+concentrated market shares covered our global insight 
+report blockchain banking disruptive threat tool banks are 
+potentially looking blockchain architected financial system 
+global payments steering group 
+utilities provide some reduced expenses improve operating 
+focus creation and maintenance rules ripple global 
+payment network 
+leverage and boost earnings still proof concept phase 
+formed september 
+seems reasonable that banks that participate can strip out some 
+members baml santander unicredit scb westpac rbc 
+redundant costs from trade reconciliation from our interview with 
+blythe masters part our global insight report 
+cibc mufg 
+enterprise ethereum alliance 
+why that relevant this context well one way out that 
+focus adopting etherum smart contract blockchain for 
+business needs 
+box there need several solutions but one way radically 
+formed february 
+restructure your cost base and not talking five ten cuts 
+members members including jpm santander ubs 
+costs talking and there only one way 
+fubon financial ing microsoft and intel 
+that and that share mutualized common infrastructure that 
+previously was kept separately and run independently every 
+custodians and clearing firms have also made headway 
+market participant 
+blockchain commercial proof concepts few examples 
+blythe masters 
+bny mellon platform for treasury bond settlement 
+for custodians such bny mellon state street northern trust 
+citi jpm which generate profits from ensuring securities are 
+the primary ledger act potential alternative primary 
+accurately measured and moved and which benefit from the carry 
+from blockchain technology threatens their value add and 
+shorter settlement periods could cut into revenues more than they 
+system down 
+ntrs ibm private equity fund accounting 
+could free capital for buybacks but that why the custodians 
+are the leading edge distributed ledger work ensure that 
+negative outcome for market participants 
+represents the first commercial adoption blockchain 
+technology financial services industry 
+trading securities environment reduces leverage the 
+system which reduces liquidity and raises bid ask spreads 
+launched feb with one client unigestion 
+aum expect gradual rollout selective clients 
+they can deliver the most efficient blockchain solutions their 
+clients addition not expect world for 
+production internally since march run parallel 
+received local regulatory approval from the guernsey 
+financial services commission 
+based open sourced hyperledger fabric technology 
+dtcc ibm axioni credit default swap processing 
+platform rebuild 
+see recent bank departures from the consortium not 
+launched early and expected live early 
+sign waned interest the technology but fact reflective 
+receiving input from market infrastructure players barclays 
+more targeted approach assessing blockchain feasibility banks 
+citi jpm ubs wfc his market ice 
+have been narrowing their focus consortiums which each 
+participant incentives are most aligned these participant banks 
+tend have relatively high market shares services that could 
+threatened benefitted successful blockchain few recent 
+examples 
+morgan stanley research 
+foundation 
+virtual currencies alternative card payments early 
+blockchain consortium 
+bitcoin proponents pushed the notion that bitcoin with minimal 
+http 
+transaction costs besides converting out btc could 
+established september consortium 
+banks that planned jointly develop new financial 
+services infrastructure inspired blockchain 
+technology november open sourced the 
+brainchild its labor corda banco santander 
+and jpm subsequently exited the consortium there 
+remain financial institutions from around the globe 
+the consortium 
+more inexpensive way for merchants accept payments online 
+wave merchants including overstock expedia dell and paypal 
+braintree partnered with coinbase accept bitcoin the pos 
+but adoption slowed and some clear hurdles stand the way 
+longer term viability 
+cost accept not materially lower btc transactions require 
+miner fee variable today about get transaction 
+cleared the next block plus conversion costs for those 
+consumers and merchants that prefer not use btc store 
+the hyperledger project 
+value high ticket transaction this could viable though 
+hyperledger org 
+the card networks also offer lower interchange rates for 
+established december the linux foundation 
+the hyperledger project cross industry open source 
+forum for all things blockchain with code bases and 
+members across finance banking internet 
+things supply chain manufacturing and technology 
+companies 
+high ticket transactions for small ticket and micro transactions 
+this cost can several percentage points higher and miner 
+fees increase which they will because block subsidies decrease 
+over time the costs look set grow expect these 
+processing costs for other currencies grow 
+see few reasons for consumers use btc over card given that 
+paying online with btc represents marginally more 
+inconvenient way pay our view given push nature the 
+exhibit 
+virtual currencies dominated bitcoin 
+transaction longer and more uncertain transaction settlement 
+due miner fee bidding and the lower merchant bank 
+funded rewards credit 
+source coinmarketcap morgan stanley research 
+note comparison dollar circulation and money stock april 
+fed 
+foundation 
+profile insurtech and digital disruption small business insurance 
+kai pan 
+exhibit 
+insurtech firms meet real need and can ride existing market trends though underwriting expertise could prove hurdle 
+morgan stanley fintech framework 
+insurtech for small businesses 
+insurance industry mature and 
+well developed the 
+the financial infrastructure 
+underdeveloped 
+yes smb insurance still obtained 
+through traditional means 
+brokers that offer complex 
+products smb owners 
+increasingly mobile tech savvy 
+yes 
+direct involvement 
+are amid inflection 
+consumer behavior 
+technology 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+carriers need meet 
+regulatory requirements 
+but are free underwrite 
+brokers too 
+forces that 
+limit disruption 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+insurance 
+relatively fragmented 
+forces that 
+enable disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+online brokers still 
+have abide industry 
+regulation 
+yes existing insurance 
+regulation 
+underwriting data 
+needs developed 
+house 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+what happened far 
+only small portion small business insurance bought digitally which has left friction the market small 
+unsophisticated buyers are forced acquire through brokers and deal with excessively complicated products 
+what next 
+estimate the total small business insurance market will sold digitally from today this 
+translates into premium market opportunity 
+smaller agents brokers like brown brown are most negatively exposed carriers have opportunity reassert share 
+front footed 
+meaningful opportunity for insurtech companies though lack data and underwriting expertise could impede even doom 
+some efforts 
+morgan stanley research 
+foundation 
+small business insurance turn digital face disruption 
+our outlook for insurtech 
+small business insurance sbi represents market and 
+the early stages digital disruption changing demographics 
+see few viable paths but the most probable assumes that 
+small business owners increasing number insurtech startups 
+brokers gain significant traction and that mid market and large 
+and heightened focus traditional carriers both incumbents and 
+brokers become increasingly interested the small business space 
+new entrants this sizeable and profitable market are catalysts 
+prompting rapid development distributor enabling software 
+for trend where smbs increasingly opt business with the 
+and technology the scenario further assumes that two these 
+most tech savvy insurers those that can offer consumer like 
+distributor platforms get adopted major incumbent carriers 
+experience 
+prompting other carriers step their digital insurance 
+initiatives expect carriers and distributors digital business will 
+what gives conviction the demographics favor digital 
+still mostly come from new companies that are relatively small 
+insurance solutions more than small business 
+size but expect digital start making inroads with traditional 
+the will owned millennials and gen xers two groups 
+customers and with companies the ten employee range 
+that prefer purchase and manage insurance digitally and 
+lower risk industries 
+according our recent survey small businesses would buy 
+insurance online they were starting their businesses today 
+who are the likely winners and laggards among our coverage 
+there are unmet insurance needs small businesses and 
+hartford travelers chubb aig have the 
+proprietors need simpler products that are easier understand 
+most exposure sbi estimate each point share gain could 
+and buy mom and pop agents have difficulty filling this demand 
+boost their earnings they have financial technology 
+commissions are too small and the investments too big 
+resources but could constrained channel conflict and inertia 
+insurtech startups are zeroing this opportunity backed 
+smaller insurers and brokers could face the biggest challenges 
+venture capital and even traditional insurers and these startups 
+our broker coverage brown brown most exposed new 
+are leveraging experiences from personal auto and other financial 
+entrants startups traditional insurers could the biggest 
+services including other fintech companies and traditional 
+beneficiaries the digital transformation sbi 
+carriers are already positioning for digital disruption and 
+defending against disintermediation ramping their digital 
+efforts 
+foundation 
+profile roboadvisors 
+giulia aurora miotto magdalena stoklosa betsy graseck 
+exhibit 
+robo advisors address mainly the mass market traditionally underserved segment however brand and network are very important and key 
+lower cost acquisition way forward for start ups partner with established players our view 
+morgan stanley fintech framework 
+robo advisors 
+yes consumers conducting more 
+financial services transactions 
+online online banking online 
+brokerages online credit card 
+yes think robo advisors 
+will most successful 
+they collaborate with 
+established players 
+sharing their technology 
+while benefitting from 
+brand and network 
+the financial infrastructure 
+underdeveloped 
+are amid inflection 
+consumer behavior 
+technology 
+yes 
+financial advisors have been around for long time but 
+they tend focus high net worth customers and 
+rarely serve clients with less than roboadvisors 
+have democratized the service making economical 
+target those customers 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+regulators around the worls are focused 
+lowering the cost for end consumers especially 
+given very low negative rates fca 
+regulatory sandbox dol the 
+yes 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+incumbents are highly 
+concentrated only the 
+hnw uhnw segment mass market quite 
+fragmented 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+yes regulators increasingly 
+open new tools that 
+enable lower cost for 
+end user 
+prior data needed 
+portoflio selected the 
+basis number 
+questions the user asked 
+answer 
+source morgan stanley research 
+what happened far 
+the past years have seen flurry robo advisors betterment wealthfront the nutmeg the are some the 
+most well known total aum remains small though globally dec 
+first the direct consumer fully digital model seemed poised disrupt traditional financial advisors but more recent 
+evidence suggests that the cyborg model the combination robo and human can more successful 
+robo advisory technology allows lower the cost financial advisory and hence democratize the service initially market 
+created start ups was next entered discount brokers schwab and vanguard and only recently established banks 
+wealth managers wholesale brokers have started make move the space 
+what next 
+expect aum managed under robo increase thanks number tailwinds regulation focused 
+lowering the cost for end used generational shift asset increased familiarity with digital applications 
+given value brand and network assume incumbents are the best positioned win market share schwab bank america 
+the standard life ubs and hargreaves europe and amp australia handful start ups survive their own 
+most partner get sold incumbents our view 
+morgan stanley research 
+foundation 
+robo advisers are perceived have democratized the 
+investment process typically uneconomical for financial 
+exhibit 
+pure robos have been growing triple digits since 
+advisors pursue accounts with less than only 
+traditional advisors target clients with less than 
+investable assets according cerulli associates however the 
+average while the average pension pot 
+betterment 
+wealthfront 
+cagr dec though 
+growth slowing with growth 
+yoy 
+similar advice gap exists the where according 
+deloitte million households have financial assets below 
+stating that they would like access financial advice 
+but high costs make uneconomical robo advisors have tackled 
+this underserved part the market with accessible costs 
+about half the cost via traditional channels 
+dec 
+apr 
+aug 
+dec 
+apr 
+aug 
+dec 
+apr 
+aug 
+dec 
+apr 
+aug 
+dec 
+apr 
+aug 
+dec 
+mass market segment traditional financial advisory service 
+aug 
+simplified financial advisory service see scope the 
+apr 
+dec 
+source sec gov foia iareports inva archive htm 
+includes many steps the process typically entails thorough 
+assessment 
+customer 
+assets 
+and 
+liabilities 
+future 
+commitments family employment situation savings and 
+retirement goals and before suggesting suitable asset 
+exhibit 
+but schwab and vanguard had the fastest and highest returns 
+their investments reaching the aum third the time 
+schwab 
+allocation that generally also considers tax optimisation our 
+view the robo advisers currently available the market not 
+vanguard 
+rest 
+provide the full range steps but are limited client onboarding 
+investment allocation and rebalancing for this reason think 
+they are appealing proposition for the entry level the mass 
+affluent less than investable assets market which 
+see around globally assets 
+brand and network have proven very powerful despite the 
+impressive growth robo advice platforms hitting triple digits 
+recent years the case vanguard and schwab has showed that 
+network and brand are key lower cost acquisition and allow 
+for faster expansion 
+source company data sec gov foia iareports inva archive htm 
+foundation 
+our outlook for robo advisors 
+exhibit 
+see more advantages cyborg model the likely winner 
+cyborg model the way forward 
+expect the higher success for those robo 
+platforms that combine the human 
+component with automation continue 
+our conversations with the companies 
+cover venture capital funds and key 
+start ups suggest that new robo advisory 
+companies are more likely partner 
+with incumbents offer more 
+advanced and nimble technology while 
+benefitting 
+from 
+scale 
+regulatory 
+know how and brand 
+threats and opportunities expect 
+the growth robo advisors further 
+push etf growth these platforms try 
+lower the end cost for the consumer 
+lowering the manufacturing cost 
+secondly our analysis start ups and 
+conversations with incumbents suggests 
+that the technology should allow 
+reduce the cost base established 
+wealth manager back 
+office processes such kyc aml 
+onboarding rebalancing along with the 
+least value added and repetitive tasks are 
+automated finally while think the 
+incumbents are best positioned win 
+market share and see the fact that 
+the companies interviewed 
+either just launched are about 
+launch such offering step such 
+direction think the path for gross 
+margins and fees will head lower 
+especially for those players offering 
+commoditized services premium 
+price the upper part the market 
+instead high net worth and ultra high net 
+worth individuals still see scope for 
+margins resilience given the need for 
+more tailored service 
+morgan stanley research 
+source morgan stanley research 
+exhibit 
+think robo advice global aum could reach equivalent projected private 
+financial wealth for households with implied cagr from current aum 
+robo aum bear 
+robo aum bull 
+market share base case rhs 
+robo aum base 
+market share bull case rhs 
+market share bear case rhs 
+usd 
+mse 
+mse 
+source bcg wealth report for and wealth figures equity research estimates elsewhere 
+foundation 
+profile merchant acquirertech 
+james faucette vasundhara govil 
+exhibit 
+square and stripe success grew out market gap micro merchants and app providers were underserved plus consumer tech innovation the 
+smartphone 
+morgan stanley fintech framework 
+merchant acquirertech 
+the financial infrastructure 
+underdeveloped 
+yes smartphone adoption and 
+share shift towards mcommerce 
+yes smb and app oriented merchant 
+acceptance was neglected new area 
+payments 
+yes 
+direct involvement 
+are amid inflection 
+consumer behavior 
+technology 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+only need sign 
+merchants can rely 
+inbound interest and word 
+mouth 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+merchant acquiring 
+relatively fragmented 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+yes card networks 
+modified their operating 
+rules enable the 
+aggregator payment 
+facilitator model that 
+allows companies like 
+square and stripe get off 
+the ground quickly 
+yes social media and 
+online data support 
+fraud prevention and 
+underwriting efforts 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+what happened far 
+took advantage changing technology serve previously underserved market 
+tech proliferation smartphones dongles etc allowed reduce cost signing class merchants that previously 
+had been too expensive reach 
+developing its data analytics allowed reduce pain associated with getting new merchants and running quickly 
+adoption cloud based pos solutions has allowed incumbents the opportunity differentiate 
+incumbents such vntv and gpn have taken advantage trend towards pos adoption among smbs partner with isvs 
+and vars expand distribution 
+integration with software solutions technology tools has allowed acquirers take share away from the traditional 
+commoditized feet street sales model 
+what next 
+merchant acquirer role evolving commerce shifts towards digital channels 
+innovation cater evolving commerce needs will key uber type transactions social commerce etc 
+longer term decision making among smb merchants may shift from acquiring processing relationships software technology 
+relationships and hence being perceived entrenched technology provider will key long term success 
+square and stripe positioned confluence favorable trends square traction among micro merchants and smbs was made possible 
+foundation 
+trust and also made for quicker ramp profitability 
+emergence the next new commerce payment experiences 
+amazon the perfect example where share shift retail spend 
+toward amazon puts its acquirer processor favorable position 
+uber another such example hence adaptability support the 
+next new trend commerce and payments will key the 
+engineering talent and innovation culture stripe positions 
+favorably vis vis the incumbents our view although buy 
+buttons haven taken off big way stripe developed products 
+such relay that goes beyond processing payments but allowed 
+for deep integration with merchant inventory such that stripe 
+could manage payments and inventory information flow for the 
+merchant merchants can provide their product info and skus 
+relay which then enables them launch buy buttons third 
+party apps such twitter pinterest 
+where has the outperformance been square revenue growth 
+our outlook for square and stripe raising price target 
+several drivers financial infrastructure that was least 
+partly undeveloped with micro merchants broadly excluded 
+from the card payment ecosystem the growing use smart 
+phones and continue consumer payment shift toward cards 
+which made more important for micro merchants accept cards 
+while also reducing the front cost and the broad 
+availability small business data which was able 
+leverage limit fraud and underwrite merchants cost effective 
+manner all these were key creating greenfield opportunity 
+scalable way and importantly has done primarily 
+partnering with existing ecosystem players aggregate 
+purchases and chase process transactions which helped foster 
+has consistently exceeded our expectations its differentiated 
+underwriting technology and hardware continues show traction 
+against increasingly larger average client and the result 
+impressive purchase volume growth rate which expected with 
+stable revenue take rate which has been more surprising 
+has become increasingly clear that the combination simplified 
+pricing 
+inexpensive good looking 
+and 
+already certified 
+exhibit 
+steady growth among micro merchants and smbs stems from its 
+insight that recent technological advancements could allow 
+acquire underserved market 
+gross purchase volume 
+yoy growth 
+gpv cagr 
+hardware and integrated software finding traction among larger 
+more sophisticated merchants and this means could viable 
+competitor among the core smb merchant acquiring market 
+positioning for larger tam than thought previously 
+stripe paypal braintree prepared support the next uber 
+app experience new entrants like stripe and braintree have 
+differentiated themselves focusing the developer 
+gross purchase volume 
+yoy change 
+source company data morgan stanley research 
+community and delivering value where incumbents have lacked 
+focus such easier onboarding easier integration into mobile apps 
+and commerce websites enabling social commerce experiences 
+square and stripe were first early movers that took advantage 
+through buy buttons etc while the jury still out how the 
+technology shifts and square now has edge with specific 
+future evolves for these entities see potential for success given 
+merchant base micro merchants and increasingly smbs while 
+stripe has edge with specific product mobile apps expect 
+secular shift towards commerce the lines between 
+both continue building volume both from the greenfield 
+physical and digital commerce start blur the addressable 
+opportunity they have helped create and taking share 
+market for mobile commerce could expand dramatically uber and 
+economics from traditional acquirers space their respective 
+order ahead functionality offered several restaurant apps are 
+areas focus grow importantly both have taken their businesses 
+examples believe braintree and stripe may best positioned 
+scale that doesn seem require further capital markets 
+benefit from this trend given the attractiveness their 
+access key hurdle for fintech startups and this point 
+technology stack the developer community that enables easy 
+incumbent acquirers can push back with solutions their own but 
+integration into innovative new commerce solutions 
+expect and stripe will own mindshare among their 
+respective core customers products 
+emergence new commerce experiences that could gain 
+traction the disruption payments technology less likely 
+driven providers themselves and potentially more the 
+morgan stanley research 
+square positioned for continued disruption and tam 
+creation raise our framework analysis the 
+foundation 
+merchant acquiring industry highlighted the opportunity for 
+valuation gap between and its competitors and see 
+disruptors like and stripe build share quickly enough 
+reduction that gap positive 
+viable disruptors while are hardly making new call sq 
+ability create value that has already been proven out think 
+result update our valuation two ways and raise our price 
+the expanded addressable market software adoption among 
+target from first raise our target ebitda 
+smbs provides tailwinds for all and lack dampening sq 
+multiple from line with pypl 
+momentum has given growing confidence that can maintain 
+trading multiple short see clear reason for discount 
+fairly rapid growth and importantly that can demonstrate 
+pypl given the longer runway growth and our confidence that 
+substantial operating leverage the model along the way 
+sq path growth clear second raise our target steady 
+essence see having solid runway for growth similar 
+state ebitda margins the low end sq 
+pypl with the implication that continued double digit growth 
+medium term guide see stock comp likely continue 
+gpv appears sustainable over the medium term 
+declining percent revenues line with recent management 
+commentary and more importantly see upside sq own 
+medium term guidance given the pace margin expansion 
+demonstrated far remain 
+further are encouraged sq recent positioning regarding 
+stock comp expense specifically that intends transition 
+increasingly towards rsu cash compensation matures 
+note treatment stock comp expense creates significant 
+exhibit 
+clear path see volume growth like pypl 
+pypl quarterly payment volume 
+pypl tpv 
+gpv 
+volumes offset years represents volume 
+source company data morgan stanley research 
+foundation 
+profile marketplace lending china 
+richard 
+exhibit 
+platforms leverage technology provide financing large addressable market underserved banks 
+source morgan stanley research 
+what happened far 
+platforms have seen rapid growth since the beginning with number platforms historical high about 
+nov sector very fragmented and under regulated with single platform having over market share 
+terms loan balance 
+key growth driver the large addressable market underserved banks china platforms serve supplement the 
+banking industry and provide credit smes and individuals which are largely not served underserved banks there 
+cap the interest rate that credit card can charge china banks target lower risk borrowers with npl ratio below 
+this leaves large addressable market for platforms 
+regulatory framework december the cbrc issued the first consultation paper aimed support proper financial 
+innovation and reduce related risks with negative list approach april the state council convened meeting the 
+regulatory scrutiny internet finance including sector august cbrc issued provision measures and were 
+given grace period months for business restructure 
+following the new regulations some unqualified started exit and number platforms declined 
+what next 
+believe platforms that show strong ability credit underwriting and leverage technology reduce borrower 
+acquisition cost will stand out the medium long term 
+sector still early stage with unproven track record uncertainty remains credit cycle and regulatory scrutiny 
+morgan stanley research 
+foundation 
+supplementary the banking system and 
+leveraging data analytics improve credit 
+underwriting yirendai serves information 
+exhibit 
+yirendai the risk management system utilizes over decision making rules and 
+contains blacklist with over fraud detection data points 
+intermediary between borrowers and investors 
+there large addressable market for 
+platforms china china banks have low risk 
+appetite given the interest rate cap credit cards 
+and thus large number borrowers are not served 
+underserved banks not cost efficient for 
+china banks find the potential borrowers with 
+limited information therefore banks will not 
+compete directly with yirendai short term 
+yirendai strives use data analytics improve its 
+credit underwriting capability for example uses 
+fraud detection system appraise the credit profile 
+borrowers also contains watchlist with over 
+fraud 
+detection 
+datapoints 
+leveraging such extensive credit database yirendai 
+can lower its credit risk 
+where the medium long term 
+sector highly fragmented china with over 
+operating platforms end and 
+single platform having over market share 
+terms loan balance there are two kinds 
+business model far one type business model 
+focuses small loan size with short loan duration 
+source company report 
+like revolving credit the other type business 
+model provides borrowers with large loan size and 
+exhibit 
+long loan duration meet their large sum credit 
+following the consultation paper dec number operating platforms 
+demand hard tell which one better given 
+started decline 
+the short and unproven track record the intensified 
+regulations will likely end washing out over 
+platforms china believe platforms 
+that will stand out the medium long term are 
+those that show strong ability credit underwriting 
+and leverage technology reduce borrower 
+acquisition cost 
+source wangdaizhijia 
+foundation 
+exhibit 
+total loan originations reached and yoy growth 
+remianed strong 
+source wangdaizhijia 
+exhibit 
+total loan balance was far yoy 
+source wangdaizhijia 
+morgan stanley research 
+foundation 
+profile digital money remittances 
+danyal hussain james faucette 
+exhibit 
+for money transfer fintech key consideration that governments are pushing increase financial inclusion which pushes towards pace that 
+allows disruptors get scale and succeed 
+morgan stanley fintech framework 
+digital money remittance 
+the financial infrastructure 
+underdeveloped 
+yes mobile phone adoption 
+allowing consumers leapfrog 
+based online money transfer 
+are amid inflection 
+consumer behavior 
+technology 
+yes requires agreements 
+with banks bank 
+networks some countries 
+allow for single relationship 
+access network 
+ach 
+yes 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes cash money transfer its nature 
+primarily serves underbanked consumers 
+financial infrastructure receive markets 
+generally underdeveloped 
+yes there are government mandates 
+several countries increase financial 
+inclusion well push for instant bank 
+funding instant ach world bank pushing for 
+lower money transfer pricing 
+yes 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+money transfer 
+relatively fragmented 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+online money transfer 
+operators subject same 
+rules incumbent 
+operators and banks 
+yes money transfer 
+industry highly regulated 
+for anti money laundering 
+companies must meet 
+know your customer 
+requirements 
+yes funding through bank 
+accounts allows online 
+money transfer providers 
+rely part bank kyc 
+policies easier than dealing 
+cash 
+source morgan stanley research 
+what happened far 
+money transfer pricing for market leader western union has been decline for several years primarily competition brick 
+and mortar channels has intensified 
+but revenue also increasingly levered online money transfer where backed firms like xoom transferwise and 
+worldremit have continued expand 
+what next 
+pressure from fintech providers has not registered yet and global financial inclusion rate determining step outright 
+disruption but intensifying competition seems inevitable over the long haul 
+foundation 
+consumer behavior helps startups but banking access still 
+hurdle for disruption across the industry and even among 
+incumbents slow but steady shift towards online money transfer 
+taking place market leader western union most recently 
+generated its segment revenue from westernunion 
+from only two percent expect this trend continue 
+exhibit 
+online money transfer providers have done meaningful equity raises 
+and gotten unicorn status 
+equity raised money transfer companies 
+consumers increasingly embrace the online version 
+everything and the population skews increasingly towards 
+millennials and gen 
+xoom 
+worldremit 
+transferwise 
+the same time however the core customer base money 
+transfer companies unbanked underbanked either the 
+send side the receive side and that puts the pace money 
+azimo 
+remitly 
+source crunchbase company data morgan stanley research 
+transfer disruption the mercy another trend financial 
+inclusion progress this front the has been unclear the 
+the unbanked underbanked portion the population 
+actually rose from according fdic data see 
+exhibit world bank data meanwhile suggests rosier picture 
+with substantial increase global banked population from 
+increase from the global population 
+exhibit 
+and for incumbents this comes time when pricing has already 
+been under pressure 
+cost send remittance send amount 
+data does not tie fdic data assume the trend the 
+right direction but like other areas finance think the pace 
+change will prove slow 
+mgi 
+ria 
+our outlook for digital money transfer 
+does slow pace change mean think backed online 
+money transfer companies not represent threat 
+note for best sequential comparability calculate average pricing using the corridors where 
+mgi and ria reported pricing all periods 
+incumbents not all longer term think greater portion 
+source the world bank morgan stanley research 
+the global migrant population will conduct money transfers online 
+where pricing will more competitive and although mgi 
+and other incumbents may have time react has embraced 
+exhibit 
+digital and built itself into online leader think this clear 
+the the portion households that are unbanked underbanked 
+case innovator dilemma where moving online the right 
+has not come down consistent manner how this trends globally 
+decision but ultimately dilutive earnings 
+can impact growth online money transfer 
+percent households 
+importantly think that even incumbents prove themselves 
+front footed and assert themselves online early backed money 
+transfer companies will still grow and pressure pricing other 
+profile for backed firms the opportunity could still 
+underbanked 
+unbanked 
+words expect online money transfer evolve into 
+commoditized product with competitive pricing and low margin 
+source fdic morgan stanley research 
+attractive with efficient cost structure and breakeven positive 
+cash flow industry shift towards financial inclusion and online 
+money transfer could drive growth for years come the 
+expense offline providers and bank branches the key here will 
+execution long game 
+morgan stanley research 
+foundation 
+profile earnings opportunities from open apis japan 
+mia nagasaka 
+exhibit 
+the introduction apis among financial institutions japan normalizes data creating opportunity for fintech companies service the industry 
+innovative ways 
+morgan stanley fintech framework 
+open api japan 
+the financial infrastructure 
+underdeveloped 
+yes widening use 
+smartphones and cloud storage 
+are leading growing 
+preferences for high value added 
+digital services 
+are amid inflection 
+consumer behavior 
+technology 
+yes links apis require 
+agreement between fintech 
+companies and individual 
+banks 
+yes 
+yes 
+the government actively 
+jumpstarting 
+infrastructure 
+yes online banking services are available but they are 
+not especially convenient high value added services 
+that combine specific account data with other user 
+information are not offered 
+yes this one the main areas focus for 
+the fsa and the pace regulatory reform 
+keeping with the and europe 
+yes 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+depends application 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+opportunity 
+revolutionize the industry 
+details regulations 
+govern electronic 
+settlement agents 
+revisions the banking 
+act and clearer positioning 
+bank agency operations 
+are still required 
+financial data must 
+secured from financial 
+institutions 
+source morgan stanley research 
+what happened far 
+now the only gateway banking services outside branches has been the online banking functions offered individual 
+banks 
+currently the main means which fintech companies can access financial institutions data screen scraping via online banking 
+which requires that third party application use customer credentials log each institution each time order secure 
+the most recent data during however number banks have made progress toward the introduction innovative 
+application programming interfaces apis that allow apps access data safely and securely 
+despite the massive amounts data that have been stored the past the japanese financial services industry has yet 
+establish formats monetize this data 
+what next 
+march the fsa submitted the diet draft proposed revisions the banking act and changes that would open the 
+door open api innovations enabling fintech companies access banks systems could enacted early april 
+think the establishment legal framework for the use apis financial service provider japan advancing pace that 
+matches similar development the and europe 
+possible that open api innovations will help create new earnings opportunities operational and financial data accumulated 
+through fintech services monitored real time potentially boosting online financing and stimulating latent loan demand 
+the near term transaction volume growth likely outpace profit growth but over the longer term expect the 
+development commission models that will allow banks monetize these activities potentially creating new source 
+earnings that less vulnerable shifts the market environment 
+foundation 
+open apis offer hope for new channels the field finance 
+open apis likely lead earnings opportunities for japanese 
+banks well 
+moves toward opening payment service apis the financial sector 
+are picking banks are establishing frameworks based open 
+expect that open apis japan are likely develop first areas 
+apis make easier for electronic settlement agents fintech 
+such personal asset management account opening and fund 
+companies access account and other information now 
+transfers but over the coming few years think that the most 
+individual banks offered online banking services that customers 
+interesting area will the use data analysis maximize lending 
+could use instead going into physical branch but the future 
+efficiency despite the massive amounts data that have been 
+they will able access financial services via smartphone apps 
+stored the past the japanese financial services industry has yet 
+offered various fintech companies 
+establish formats monetize this data accordingly there are 
+likely cases where corporate groups that have established 
+fintech companies the past have used process known 
+ecosystem non finance business are able approach customers 
+scraping access data which apps extract needed data via the 
+more efficiently and thus secure profit growth financial services 
+online banking websites individual institutions but this requires 
+more successfully than existing financial institutions using open 
+that customer credentials such usernames and passwords 
+apis companies will able monitor and collate sales and 
+registered with venture firms advance this raises issues 
+inventory data and financial information real time potentially 
+particularly from security standpoint open apis provide 
+enabling them undertake low risk loans timely fashion this 
+enhanced security which may lead new sources earnings 
+may also lead the creation new earnings opportunities 
+through the timely stimulation online financing and latent 
+open apis could into use early april fintech 
+lending demand 
+companies are already starting work out contracts with 
+various financial institutions 
+potential business models that could supported the use 
+open apis might include transaction fee model commission 
+march japan financial services agency submitted draft 
+model revenue sharing model and freemium model 
+proposed revisions the banking act debated the diet 
+think may difficult for traditional financial institutions 
+proposals include the establishment registration system for 
+generate substantial revenues through open apis but possible 
+electronic settlement agents fintech companies and the creation 
+that they will find new sources income that are less vulnerable 
+open api platform that will allow registered fintech providers 
+changes the market environment however for the largest 
+access banks systems assuming the proposals are approved 
+financial institutions expect that growth transactions via 
+the diet think there good chance that the registration 
+apis will have larger impact the near term than the expanded 
+system and platform could place early april that 
+scope new fee and commission business 
+point registration electronic settlement agents would begin 
+but companies are already starting work out contracts with 
+various financial institutions before registering 
+morgan stanley research 
+foundation 
+exhibit 
+examples open api efforts megabanks open api link services for corporate online banking personal services expand from 
+bank 
+mizuho 
+principal efforts 
+began api linking service reference type october for money forward freee and online 
+banking service mizuho business web for corporate clients expanded functions march and 
+began providing integrated bank transfer api update type 
+aims around may start providing authentication approval and inquiry menu api for corporate 
+online bank mizuho business site and personal online bank mizuho direct 
+began corporate api connection service from spring teamed with money forward march 
+and launched service using update api collaborates with ntt data for api connection services 
+japan 
+smbc 
+plans start providing api for service allowing individuals check balances and deposit withdrawal 
+details from july working with japan research institute 
+began api connection with money forward march and freee august launched 
+automated deposit service finbee and update type api connection december 
+sbi sumishin 
+net bank 
+began transfer linked function update type using api service for money forward and company 
+services and began handling transaction lending from march began providing transfer linked 
+function using api services with freee april update type 
+source fsa company data morgan stanley research 
+foundation 
+profile digital mortgage origination 
+betsy graseck 
+exhibit 
+large banks have been investing their digital mortgage platform believe this tilts the scale favor the incumbents their digital 
+capabilities improve match fintech players while their broader customer relationships ability utilize balance sheet and lower cost funding 
+enable them take share 
+morgan stanley fintech framework 
+digital mortgage origination 
+the financial infrastructure 
+underdeveloped 
+yes widening use and comfort 
+with smartphone apps and 
+websites conduct personal 
+banking money transfer and 
+lending activities 
+originator can leverage 
+tech investments 
+improve their own 
+processes without buy 
+from other participants 
+yes originate sell 
+model highly dependent 
+capital markets more 
+sensitive for nonconforming mortgages 
+are amid inflection 
+consumer behavior 
+technology 
+yes 
+yes 
+processes range from highly automated and 
+streamlined highly manual but not what 
+consider underdeveloped 
+the government actively 
+jumpstarting 
+infrastructure 
+yes 
+forces that 
+enable disruption 
+forces that 
+limit disruption 
+requires high 
+degree 
+collaboration 
+opportunity for 
+regulatory 
+arbitrage 
+sensitive capital 
+market funding 
+accommodating 
+and well defined 
+regulation 
+incumbents highly 
+concentrated 
+enough financial 
+data available 
+level playing field 
+originations used 
+concentrated among large 
+banks but has become 
+increasingly fragmented 
+disruption 
+challenged 
+partner with incumbents 
+incumbents positioned 
+coopt product tech 
+ripe for 
+disruption 
+disruption possible but 
+slow play out 
+mortgage origination 
+highly regulated and 
+even non bank originators 
+require licensed 
+underwriters 
+yes regulation can 
+combersome but welldefined 
+incumbent originators 
+can significantly streamline 
+application process selfpopulating large 
+percentage acquired 
+data for their bank 
+customers 
+opportunity 
+revolutionize the industry 
+source morgan stanley research 
+what happened far 
+post crisis banks have been subject increasing regulation with higher requirement for documentation due diligence and 
+capital 
+banks have ramped investment mortgage origination platforms highly automate the origination process 
+banks accelerated their investment plans match the benefits fintech products 
+automation has driven four fold benefit reduced the time from application close improved user experience reduced 
+expenses and provided audit trail for compliance and regulatory oversight 
+what next 
+expect large banks with scale such wfc jpm bac usb press their advantage through additional investments and marketing 
+higher rates drive down refi volumes and household formation drives purchase volumes expect mortgage origination 
+share shifts the larger banks 
+large banks with product depth can leverage customer data from other products automatically populate significant portions 
+the application 
+banks should maintain their lead high fico jumbo loans given overlap with their affluent hnw customer set and their ability 
+use balance sheet fintech players unable retain loans are disadvantage given that there almost securitization for 
+non conforming loans 
+significant excess capital large banks coupled with potential for easing regulation under the trump administration should tilt 
+the scale further toward banks 
+competition and need launch digital products quicker could accelerate the partnership model between banks and fintech 
+players wfc partnership with blend labs jpm partnership with roostify 
+morgan stanley research 
+foundation 
+our outlook for digital mortgage origination 
+large banks with scale have been making significant investments 
+provide the same ease use their fintech counterparts 
+while non bank players first introduced digital mortgage products 
+believe this tilts the scale favor the incumbents their digital 
+most notably quicken rocket mortgage product late 
+capabilities improve match fintech players while their broader 
+some larger banks have already followed suit with their own digital 
+customer relationships ability utilize balance sheet and lower 
+offerings bac announced its online mortgage navigator june 
+cost funding enable them take share the purchase market 
+jpm introduced its digital mortgage platform earlier this year 
+improves 
+partnership with roostify and set complete the rollout 
+wells fargo also showcased its digital mortgage platform 
+partnership with blend labs its may investor day 
+exhibit 
+wfc jpm bac and usb are among the top mortgage originators 
+top mortgage originators 
+market share 
+the speed and ease use the new offerings should drive more 
+mortgage applications online features the new digital 
+platforms include 
+refi 
+purchase 
+ability choose between completing the entire application 
+online initiating the application online and then transitioning 
+into advice over the phone person meeting with banker 
+exchanging messages with bank staff and real estate agents 
+speed the time close 
+pre populating information from source data available through 
+other products the customer already holds with the bank 
+coordination with third party aggregators collect additional 
+data 
+facility take pictures documents and submit them the 
+bank 
+ability electronically sign documents 
+source inside mortgage finance copyright insidemortgagefinance 
+foundation 
+appendix lessons learned 
+card payments success decades the making 
+credit and debit cards have been proliferating measured pace for 
+slowly building out ubiquity this key for any payments 
+over years and now comprise global transactions and 
+instrument gaining widespread adoption took and 
+consumer spend this point believe scale and network 
+several decades build the kind ubiquity they enjoy the 
+effect makes virtually impossible provide better price and 
+today but replication not easy and has created barriers entry 
+acceptance than the established networks 
+for new forms electronic payments that have sought disrupt 
+them network effects play key role wider merchant adoption 
+card networks marched slow but steady path building 
+helps increase consumer adoption and increased consumer 
+consumer adoption credit cards were disruptive force not only 
+interest helps drive merchant adoption but the same logic 
+displacing cash and check transactions but providing consumers 
+chicken and egg dilemma the beginning tends issue 
+access revolving line credit that was accepted across variety 
+for new payment form take off 
+stores store credit that many retailers offered their known 
+customers the first bank credit cards were introduced circa 
+now that card networks have become incumbents what next 
+diners club and american express launched its credit card product 
+later that decade both were closed loop cards open loop cards 
+even mature markets still have more runway and some emerging 
+made their debut offered bank america under the 
+markets are likely decades away from mature card cash mix higher 
+bankamericard brand which later came known visa 
+consumer spend growth from less mature markets also extends the 
+mastercard predecessor interbank card association came about 
+runway still fintech that technology driven further 
+the same year well half century later cash still exists but 
+advancements like mobile wallets give opportunity for markets 
+card based payments continue gain share representing all 
+leapfrog traditional hardline card payment infrastructure and global 
+pce the 
+commerce share gain from brick and mortar supports continued 
+shift towards card but this stage growth likely stay 
+think the proliferation card payments benefited from few key 
+measured yet healthy pace and represents aspiration for other 
+drivers 
+fintech innovations 
+market gap global consumer access revolving line credit 
+exhibit 
+card payments grew steady pace underscoring the difficulty 
+hypothetically changing consumer behavior rapidly 
+that turn helped retailers benefit from larger ticket 
+transactions and created buy for card acceptance one can 
+argue that this was the bigger innovation the time simple 
+electronification card based payments 
+market gap existence inefficient cash check based 
+payments ecosystem cash based ecosystems are often 
+accompanied problems such high costs handling cash 
+theft incentive for tax evasion etc while this may not have been 
+the key driver for the innovation belive these factors played 
+important role the secular shift towards card based 
+payments over time 
+total payment volume 
+total pce 
+cagr 
+card payments 
+spend 
+cards 
+all other 
+card based 
+source the nilson report morgan stanley research 
+morgan stanley research 
+foundation 
+challenging road for startups even with interesting ideas 
+who did look develop our framework besides the public 
+most common hurdles were unsustainable cash burn couldn 
+companies and large privates ran through list prominent and 
+get scale fast hoped and regulatory involvement 
+lesser known fintech firms with our take the defining 
+environmental attribute that contributed success failure the 
+firm 
+brief description 
+company edge 
+still going key flaw what happened 
+balanced 
+merchant acquirer 
+aggressive volume based 
+pricing 
+failed cash burn thin margins couldn get 
+scale customers acquired stripe 
+betterment 
+wealth management 
+low cost tech blatform 
+operating 
+bitlendingclub 
+loans bitcoin 
+first mover niche space failed regulated out business 
+bitphone 
+can capital 
+card 
+dealstruck 
+dwolla 
+izettle 
+jumio 
+encrypted calls paid with 
+first mover niche space 
+bitcoin 
+merchant cash smb 
+early mover 
+lender 
+camera technology 
+mobile wallet tech 
+better user experience 
+technology platform 
+smb lending 
+lower rates for smbs 
+money transfer 
+low cost acceptance 
+payment network 
+merchant acquiring 
+square europe 
+camera technology 
+mobile wallet tech 
+better user experience 
+manilla 
+personal financial 
+management 
+monese 
+online banking money 
+transfer for immigrants 
+nutmeg 
+wealth management 
+powa technologies 
+mobile wallet 
+quirky 
+crowdfunding 
+checking money 
+transfer 
+sms based money 
+transfer via bitcoin 
+revolut 
+sms wallet 
+transferwise 
+money transfer 
+trustbuddy 
+lender 
+wealthfront 
+wealth management 
+failed regulated out business 
+halted management turnover internal 
+investigation 
+acquired paypal 
+failed cash burn market turmoil 
+pivoted from consumer app api 
+operating 
+failed cash burn regulatory investigation 
+technology aggregated 
+failed cash burn couldn reach scale 
+and better user experience 
+technology validate 
+identity efficient cost 
+structure low cost 
+provider 
+low cost tech blatform 
+camera technology 
+better user experience 
+first mover 
+technology low cost 
+provider 
+technology low cost 
+provider 
+efficient cost structure 
+low cost provider 
+efficient cost structure 
+low cost provider 
+low cost tech blatform 
+freemium model customers unwilling pay 
+operating 
+failed burned through 
+failed cash burn 
+operating 
+failed lack adoption 
+operating 
+failed misconduct regulatory investigation 
+operating 
+foundation 
+disclosure section 
+the information and opinions morgan stanley research were prepared are disseminated morgan stanley llc and morgan stanley and morgan stanley xico 
+casa bolsa and morgan stanley canada limited and morgan stanley international plc and rmb morgan stanley proprietary limited and morgan stanley mufg 
+securities ltd and morgan stanley capital group japan ltd and morgan stanley asia limited and morgan stanley asia singapore pte registration number 
+and morgan stanley asia singapore securities pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its 
+contents and should contacted with respect any matters arising from connection with morgan stanley research and morgan stanley taiwan limited and morgan stanley 
+international plc seoul branch and morgan stanley australia limited holder australian financial services license which accepts responsibility 
+for its contents and morgan stanley wealth management australia pty ltd holder australian financial services license which accepts responsibility 
+for its contents and morgan stanley india company private limited regulated the securities and exchange board india sebi and holder licenses research analyst sebi 
+registration stock broker bse registration and nse registration inb merchant banker sebi registration 
+and depository participant with national securities depository limited sebi registration nsdl which accepts the responsibility for its contents and should contacted 
+with respect any matters arising from connection with morgan stanley research and morgan stanley sekuritas indonesia and their affiliates collectively morgan stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan stanley research disclosure website 
+morganstanley researchdisclosures contact your investment representative morgan stanley research broadway attention research management new york 
+usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client support team follows canada 
+hong kong latin america london singapore sydney tokyo 
+alternatively you may contact your investment representative morgan stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they have not received and will not 
+receive direct indirect compensation exchange for expressing specific recommendations views this report anil agarwal grace chen james faucette vasundhara govil betsy 
+graseck cfa danyal hussain cfa giulia aurora miotto mia nagasaka kai pan magdalena stoklosa richard cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+the following analyst strategist household member owns securities related derivatives company that she covers recommends morgan stanley research james 
+faucette mastercard inc common preferred stock betsy graseck cfa apple inc common preferred stock 
+april morgan stanley beneficially owned more class common equity securities the following companies covered morgan stanley research apple 
+inc automatic data processing inc bank baroda bank china limited berkshire hathaway inc bharat financial inclusion ltd china minsheng banking corp deutsche boerse discover 
+financial services electronics for imaging inc euronext evertec inc federal bank first data corp fitbit inc goldman sachs group inc hargreaves lansdown hdfc hdfc bank ibm 
+indiabulls housing finance indusind bank morgan chase inc lendingclub corp london stock exchange man group mastercard inc momo inc moneygram international 
+inc new oriental group nex group plc nutanix inc pure storage inc regions financial corp shriram city union finance ltd shriram transport finance ltd sohu inc soufun holdings 
+limited sumitomo mitsui sumitomo mitsui trust holdings synchrony financial tal education group tuniu corporation vipshop holdings visa inc yes bank 
+within the last months morgan stanley managed managed public offering offering securities alibaba group holding allstate corporation amundi apple inc 
+axis capital holdings banca farmafactoring spa bank america bank china limited bank new york mellon corp corporation berkshire hathaway inc capital one financial 
+corporation cdw corporation china cinda asset management china construction bank corp china everbright bank ltd china huarong asset management china merchants bank china 
+merchants securities ltd china online education group ctrip discover financial services flow traders goldman sachs group inc indiabulls housing finance industrial bank 
+ltd morgan chase marsh mclennan cos mastercard inc meitu inc mizuho financial group national general holdings corp nordax group northern trust corp nutanix inc 
+pnb housing finance ltd pnc financial services postal savings bank china ltd punjab national bank rbl bank limited resurs holding state street corporation sumitomo mitsui 
+suntrust synchrony financial bancorp vantiv inc berkley corp wells fargo 
+within the last months morgan stanley has received compensation for investment banking services from agricultural bank china limited alibaba group holding allstate corporation 
+american int grp amundi aon plc apple inc automatic data processing inc axis capital holdings banca farmafactoring spa bank china limited bank new york mellon corp 
+corporation berkshire hathaway inc capital one financial corporation cdw corporation china cinda asset management china construction bank corp china everbright bank 
+ltd china huarong asset management china merchants bank china online education group ctrip deutsche boerse goldman sachs group inc inc industrial and commercial bank 
+china industrial bank ltd morgan chase marsh mclennan cos mastercard inc meitu inc momo inc national general holdings corp netease inc northern trust corp 
+nutanix inc pnb housing finance ltd pnc financial services postal savings bank china ltd punjab national bank rbl bank limited regions financial corp resona holdings resurs 
+holding state street corporation suntrust synchrony financial the travelers companies inc bancorp vantiv inc berkley corp wells fargo 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from aberdeen asset management agricultural bank 
+china limited alibaba group holding allstate corporation ally financial inc american express company american int grp amundi aon plc apple inc arch capital group ltd 
+arthur gallagher ashmore group plc automatic data processing inc axis bank axis capital holdings baidu inc banca farmafactoring spa bank america bank china limited bank 
+chongqing bank communications bank india bank new york mellon corp baozun inc corporation berkshire hathaway inc bitauto holdings limited bolsas mercados 
+morgan stanley research 
+foundation 
+espanoles brown brown inc capital one financial corporation cdw corporation cheetah mobile inc china cinda asset management china citic bank corporation limited china 
+construction bank corp china everbright bank ltd china huarong asset management china merchants bank china merchants securities ltd china minsheng banking corp chongqing 
+rural commercial bank chubb ltd citic securities citigroup inc cmc markets plc ctrip deutsche boerse discover financial services electronics for imaging inc euronext 
+everest group ltd evertec inc federal bank first data corp fitbit inc fleetcor technologies inc flow traders galaxy securities garmin ltd securities global payments inc 
+goldman sachs group inc gopro inc green dot corp haitong securities hdfc hdfc bank henderson group hewlett packard enterprise hoist finance publ inc htsc hua xia bank 
+huishang bank corporation limited ibm icici bank icici prudential life insurance indusind bank industrial and commercial bank china industrial bank ltd intact financial corp 
+morgan chase japan post bank inc kotak mahindra bank lendingclub corp lic housing finance ltd london stock exchange mahindra and mahindra financial services 
+man group marsh mclennan cos mastercard inc meitu inc mizuho financial group momo inc moneygram international inc moscow exchange multi commodity exchange india ltd 
+national general holdings corp netapp inc new oriental group nordax group northern trust corp nutanix inc deck capital inc partners group paychex inc paypal holdings inc 
+ping bank pnb housing finance ltd pnc financial services postal savings bank china ltd poste italiane spa punjab national bank pure storage inc rbl bank limited regions 
+financial corp renaissancere resona holdings resurs holding santander consumer usa holdings inc schroders seagate technology shanghai pudong development bank shriram city 
+union finance ltd shriram transport finance ltd square inc state bank india state street corporation sumitomo mitsui sumitomo mitsui trust holdings suntrust synchrony 
+financial tal education group tencent holdings ltd teradata the travelers companies inc third point reinsurance ltd total system services inc icap plc trinet group inc tuniu 
+corporation bancorp vantiv inc vipshop holdings visa inc berkley corp weibo corp wells fargo western union willis towers watson plc xerox corp group plc 
+yes bank yirendai inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from aberdeen asset management agricultural bank 
+china limited alibaba group holding allstate corporation ally financial inc american express company american int grp amundi aon plc arch capital group ltd arthur 
+gallagher ashmore group plc automatic data processing inc axis bank baidu inc banca farmafactoring spa bank america bank baroda bank china limited bank communications 
+bank india bank new york mellon corp corporation berkshire hathaway inc capital one financial corporation cdw corporation cheetah mobile inc china cinda asset 
+management china citic bank corporation limited china construction bank corp china everbright bank ltd china huarong asset management china merchants bank china merchants 
+securities ltd china minsheng banking corp chubb ltd citic securities citigroup inc cmc markets plc ctrip deutsche boerse discover financial services electronics for 
+imaging inc euronext first data corp fitbit inc fleetcor technologies inc flow traders garmin ltd securities goldman sachs group inc haitong securities hargreaves lansdown 
+hdfc hdfc bank henderson group hewlett packard enterprise inc htsc ibm icici bank icici prudential life insurance idfc bank indiabulls housing finance industrial and commercial 
+bank china industrial bank ltd intact financial corp morgan chase japan post bank kotak mahindra bank london stock exchange man group marsh mclennan cos 
+mastercard inc mizuho financial group ncr corp netapp inc netease inc new oriental group nex group plc northern trust corp partners group paychex inc ping bank pnc financial 
+services postal savings bank china ltd poste italiane spa progressive corp regions financial corp renaissancere resona holdings schroders seagate technology shanghai pudong 
+development bank state bank india state street corporation sumitomo mitsui sumitomo mitsui trust holdings suntrust synchrony financial tal education group tencent holdings 
+ltd the travelers companies inc icap plc bancorp verifone systems inc berkley corp wells fargo western union wex inc willis towers watson plc xerox 
+corp group plc yes bank inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with the following company 
+aberdeen asset management agricultural bank china limited alibaba group holding allstate corporation ally financial inc american express company american int grp amundi 
+aon plc apple inc arch capital group ltd arthur gallagher ashmore group plc automatic data processing inc axis bank axis capital holdings baidu inc banca farmafactoring spa 
+bank america bank china limited bank chongqing bank communications bank india bank new york mellon corp baozun inc corporation berkshire hathaway inc 
+bitauto holdings limited bolsas mercados espanoles brown brown inc capital one financial corporation cdw corporation cheetah mobile inc china cinda asset management china 
+citic bank corporation limited china construction bank corp china everbright bank ltd china huarong asset management china merchants bank china merchants securities ltd 
+china minsheng banking corp china online education group chongqing rural commercial bank chubb ltd citic securities citigroup inc cmc markets plc ctrip deutsche boerse 
+discover financial services electronics for imaging inc euronext everest group ltd evertec inc federal bank first data corp fitbit inc fleetcor technologies inc flow traders 
+galaxy securities garmin ltd securities global payments inc goldman sachs group inc gopro inc green dot corp haitong securities hdfc hdfc bank henderson group hewlett 
+packard enterprise hoist finance publ inc htsc hua xia bank huishang bank corporation limited ibm icici bank icici prudential life insurance indiabulls housing finance indusind 
+bank industrial and commercial bank china industrial bank ltd intact financial corp morgan chase japan post bank inc kotak mahindra bank lendingclub corp 
+lic housing finance ltd london stock exchange mahindra and mahindra financial services man group marsh mclennan cos mastercard inc meitu inc mizuho financial group momo 
+inc moneygram international inc moscow exchange multi commodity exchange india ltd national general holdings corp netapp inc netease inc new oriental group nordax group 
+northern trust corp nutanix inc deck capital inc partners group paychex inc paypal holdings inc ping bank pnb housing finance ltd pnc financial services postal savings 
+bank china ltd poste italiane spa punjab national bank pure storage inc rbl bank limited regions financial corp renaissancere resona holdings resurs holding santander 
+consumer usa holdings inc schroders seagate technology shanghai pudong development bank shriram city union finance ltd shriram transport finance ltd square inc state bank 
+india state street corporation sumitomo mitsui sumitomo mitsui trust holdings suntrust synchrony financial tal education group tencent holdings ltd teradata the travelers 
+companies inc third point reinsurance ltd total system services inc icap plc trinet group inc tuniu corporation bancorp vantiv inc vipshop holdings visa inc berkley 
+corp weibo corp wells fargo western union willis towers watson plc xerox corp group plc yes bank yirendai inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has entered into agreement provide 
+services has client relationship with the following company aberdeen asset management agricultural bank china limited alibaba group holding allstate corporation 
+ally financial inc american express company american int grp amundi aon plc apple inc arch capital group ltd arthur gallagher ashmore group plc automatic data processing 
+inc axis bank axis capital holdings baidu inc banca farmafactoring spa bank america bank baroda bank china limited bank chongqing bank communications bank india 
+bank new york mellon corp corporation berkshire hathaway inc bolsas mercados espanoles canara bank capital one financial corporation cdw corporation cheetah mobile 
+inc china cinda asset management china citic bank corporation limited china construction bank corp china everbright bank ltd china huarong asset management china merchants 
+bank china merchants securities ltd china minsheng banking corp chubb ltd citic securities citigroup inc cmc markets plc ctrip deutsche boerse discover financial 
+services electronics for imaging inc euronext first data corp fitbit inc fleetcor technologies inc flow traders galaxy securities garmin ltd securities goldman sachs group 
+inc gopro inc haitong securities hargreaves lansdown hdfc hdfc bank henderson group hewlett packard enterprise inc htsc hua xia bank huishang bank corporation limited 
+ibm icici bank icici prudential life insurance idfc bank indiabulls housing finance indusind bank industrial and commercial bank china industrial bank ltd intact financial corp 
+morgan chase japan post bank kotak mahindra bank lendingclub corp london stock exchange man group marsh mclennan cos mastercard inc mizuho financial group 
+foundation 
+moneygram international inc moscow exchange ncr corp netapp inc netease inc new oriental group nex group plc northern trust corp partners group paychex inc paypal holdings 
+inc ping bank pnc financial services postal savings bank china ltd poste italiane spa progressive corp punjab national bank regions financial corp renaissancere resona 
+holdings schroders seagate technology shanghai pudong development bank state bank india state street corporation sumitomo mitsui sumitomo mitsui trust holdings suntrust 
+synchrony financial tal education group tencent holdings ltd the travelers companies inc icap plc trinet group inc bancorp verifone systems inc vipshop holdings visa 
+inc berkley corp wells fargo western union wex inc willis towers watson plc xerox corp group plc yes bank inc 
+employee director consultant morgan stanley director allstate corporation ibm lendingclub corp deck capital inc verifone systems inc this person not research 
+analyst member research analyst household 
+morgan stanley llc makes market the securities alibaba group holding allstate corporation ally financial inc american express company american int grp aon plc 
+apple inc arch capital group ltd arthur gallagher autohome inc automatic data processing inc axis capital holdings baidu inc bank america bank new york mellon corp baozun 
+inc corporation berkshire hathaway inc bitauto holdings limited brown brown inc capital one financial corporation cdw corporation changyou cheetah mobile inc chubb 
+ltd citigroup inc ctrip discover financial services electronics for imaging inc everest group ltd evertec inc fitbit inc fleetcor technologies inc garmin ltd global payments inc 
+goldman sachs group inc gopro inc green dot corp hdfc bank hewlett packard enterprise inc ibm icici bank morgan chase inc lendingclub corp marsh mclennan 
+cos mastercard inc momo inc national general holdings corp ncr corp netapp inc netease inc new oriental group northern trust corp deck capital inc paychex inc paypal 
+holdings inc pnc financial services progressive corp pure storage inc regions financial corp renaissancere santander consumer usa holdings inc seagate technology sohu inc 
+soufun holdings limited square inc state street corporation sumitomo mitsui suntrust synchrony financial tal education group teradata the travelers companies inc third point 
+reinsurance ltd total system services inc trinet group inc tuniu corporation vantiv inc verifone systems inc vipshop holdings visa inc berkley corp weibo corp wells fargo 
+western digital western union wex inc willis towers watson plc xerox corp group plc yirendai inc 
+morgan stanley international plc corporate broker ashmore group plc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality 
+research investor client feedback stock picking competitive factors firm revenues and overall investment banking revenues equity research analysts strategists compensation not 
+linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing liquidity fund management 
+commercial banking extension credit investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered 
+morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed this report morgan stanley trades may trade 
+principal the debt securities related derivatives that are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan stanley does not assign ratings buy 
+hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell investors should carefully read the definitions all 
+ratings used morgan stanley research addition since morgan stanley research contains more complete information concerning the analyst views investors should carefully read morgan 
+stanley research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+april 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our ratings overweight equal weight 
+not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell but represent recommended relative weightings see definitions below satisfy regulatory requirements correspond overweight our most positive stock rating 
+with buy recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+other material investment services clients 
+investment banking clients ibc 
+misc 
+count 
+total 
+count 
+total ibc 
+rating category 
+count 
+total other misc 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment banking compensation the 
+morgan stanley research 
+foundation 
+last months 
+analyst stock ratings 
+overweight over the stock total return expected exceed the total return the relevant country msci index the average total return the analyst industry industry 
+team coverage universe risk adjusted basis over the next months 
+equal weight equal the stock total return expected line with the total return the relevant country msci index the average total return the analyst industry 
+industry team coverage universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the relevant country msci index the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight under the stock total return expected below the total return the relevant country msci index the average total return the analyst industry industry 
+team coverage universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad market benchmark indicated 
+below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc morgan stanley any 
+their affiliates are available the morgan stanley wealth management disclosure website morganstanley online researchdisclosures for morgan stanley specific disclosures 
+you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the same person who reviews 
+the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities aberdeen asset management alibaba group holding allstate corporation 
+ally financial inc american express company american int grp apple inc automatic data processing inc axis capital holdings baidu inc banca farmafactoring spa bank america bank 
+china limited bank communications bank india bank new york mellon corp berkshire hathaway inc canara bank capital one financial corporation china construction bank 
+corp china everbright bank ltd chubb ltd citigroup inc ctrip deutsche boerse discover financial services evertec inc first data corp fitbit inc goldman sachs group inc gopro 
+inc hewlett packard enterprise inc ibm icici bank industrial and commercial bank china morgan chase lendingclub corp marsh mclennan cos mastercard inc mizuho 
+financial group national general holdings corp ncr corp netapp inc paypal holdings inc progressive corp renaissancere shanghai pudong development bank square inc state bank 
+india state street corporation sumitomo mitsui sumitomo mitsui trust holdings suntrust tencent holdings ltd the travelers companies inc bancorp visa inc wells fargo 
+western digital western union wex inc xerox corp group plc 
+may state street corporation beneficially owned more class common equity securities morgan stanley 
+member research who had could have had access the research prior completion owns securities related derivatives the state bank india this person not research 
+analyst member research analyst household 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based developments with the issuer the 
+sector the market that may have material impact the research views opinions stated therein addition certain research publications are intended updated regular periodic 
+basis weekly monthly quarterly annual and will ordinarily updated with that frequency unless the research analyst and research management determine that different publication 
+schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning section the 
+dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the recommendations views expressed 
+research the same stock this may the result differing time horizons methodologies market events other factors for all research available particular stock please contact 
+your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients certain but not all morgan 
+stanley research products are also made available clients through third party vendors redistributed clients through alternate electronic means convenience for access all 
+foundation 
+available morgan stanley research please contact your sales representative matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and using morgan stanley 
+research you are indicating that you have read and agree bound our terms use http morganstanley terms addition you consent morgan stanley processing 
+your personal data and using cookies accordance with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes 
+setting your preferences and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan stanley 
+processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances and objectives those 
+who receive morgan stanley recommends that investors independently evaluate particular investments and strategies and encourages investors seek the advice financial adviser 
+the appropriateness investment strategy will depend investor circumstances and objectives the securities instruments strategies discussed morgan stanley research 
+may not suitable for all investors and certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary because changes 
+interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational financial conditions companies other factors there 
+may time limitations the exercise options other rights securities instruments transactions past performance not necessarily guide future performance estimates future 
+performance are based assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject 
+company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based upon various factors 
+including quality accuracy and value research firm profitability revenues which include fixed income trading and capital markets profitability revenues client feedback and competitive 
+factors fixed income research analysts strategists economists compensation not linked investment banking capital markets transactions performed morgan stanley the 
+profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns more class 
+common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley may have investment less than securities instruments 
+derivatives securities instruments companies and may trade them ways different from those discussed morgan stanley research employees morgan stanley not involved 
+the preparation morgan stanley research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable comprehensive 
+information but make representation that accurate complete have obligation tell you when opinions information morgan stanley research change apart from 
+when intend discontinue equity research coverage subject company facts and views presented morgan stanley research have not been reviewed and may not reflect information 
+known professionals other morgan stanley business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company associated expenses unless 
+pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl 
+such information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research 
+may not distributed the public media quoted used the public media without the express written consent morgan stanley any non customer reader within the scope article 
+the taiwan stock exchange recommendation regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party 
+including but not limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create give the 
+appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments 
+certain information morgan stanley research was sourced employees the shanghai representative office morgan stanley asia limited for the use morgan stanley asia limited 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not constitute offer sell 
+the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest such securities and shall responsible for obtaining all relevant 
+approvals licenses verifications and registrations from the relevant governmental authorities themselves neither this report nor any part intended shall constitute provision 
+any consultancy advisory service securities investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa which regulated comision nacional 
+bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico city japan morgan stanley mufg securities ltd and for commodities 
+related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley 
+asia international limited hong kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte 
+ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should contacted with respect any 
+matters arising from connection with morgan stanley research and morgan stanley asia international limited singapore branch registration number australia 
+wholesale clients within the meaning the australian corporations act morgan stanley australia limited holder australian financial services license 
+which accepts responsibility for its contents australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management 
+australia pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan stanley international 
+morgan stanley research 
+foundation 
+plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas indonesia canada morgan stanley canada limited which has 
+approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth management limited 
+niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised 
+the spanish securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct applicable financial 
+research established under spanish regulations the morgan stanley llc which accepts responsibility for its contents morgan stanley international plc authorized 
+the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory authority disseminates the research that has prepared and approves 
+solely for the purposes section the financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited 
+member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan stanley 
+international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan stanley research being disseminated 
+morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and directed sophisticated investors only 
+morgan stanley hong kong securities limited the liquidity provider market maker for securities agricultural bank china limited bank china limited bank communications china 
+citic bank corporation limited china construction bank corp china merchants bank china minsheng banking corp haitong securities industrial and commercial bank china tencent 
+holdings ltd listed the stock exchange hong kong limited updated list can found hkex website http hkex 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services authority the dfsa 
+and directed professional clients only defined the dfsa the financial products financial services which this research relates will only made available customer who 
+are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre regulatory authority 
+the qfcra and directed business customers and market counterparties only and not intended for retail customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment advisory activity investment 
+advisory service provided exclusively persons based their risk and income preferences the authorized firms comments and recommendations stated here are general nature these 
+opinions may not fit your financial status risk and return preferences for this reason make investment decision relying solely this information stated here may not bring about 
+outcomes that fit your expectations 
+the following companies business countries which are generally subject comprehensive sanctions programs administered enforced the department the treasury office 
+foreign assets control ofac and other countries and multi national bodies mastercard inc 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties representations relating 
+the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating such data the global industry classification standard gics was 
+developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage payments and processing 
+company ticker 
+rating 
+price 
+danyal hussain cfa 
+automatic data processing inc adp 
+fleetcor technologies inc flt 
+moneygram international inc mgi 
+paychex inc payx 
+trinet group inc tnet 
+western union 
+wex inc wex 
+james faucette 
+foundation 
+first data corp fdc 
+lendingclub corp 
+mastercard inc 
+deck capital inc ondk 
+paypal holdings inc pypl 
+square inc 
+verifone systems inc pay 
+visa inc 
+evertec inc evtc 
+global payments inc gpn 
+green dot corp gdot 
+total system services inc tss 
+vantiv inc vntv 
+rating 
+price 
+ally financial inc ally 
+american express company axp 
+bank america bac 
+bank new york mellon corp 
+corporation bbt 
+capital one financial corporation cof 
+citigroup inc 
+discover financial services dfs 
+goldman sachs group inc 
+morgan chase jpm 
+northern trust corp ntrs 
+pnc financial services pnc 
+regions financial corp 
+santander consumer usa holdings inc 
+state street corporation stt 
+suntrust sti 
+synchrony financial syf 
+bancorp usb 
+wells fargo wfc 
+rating 
+price 
+wuba 
+autohome inc athm 
+bitauto holdings limited bita 
+china online education group coe 
+ctrip ctrp 
+meitu inc 
+momo inc momo 
+new oriental group edu 
+soufun holdings limited sfun 
+tal education group tal 
+tuniu corporation tour 
+morgan stanley research 
+vasundhara govil 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage banking large cap banks 
+company ticker 
+betsy graseck cfa 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage china internet and other services 
+company ticker 
+amanda chen 
+foundation 
+weibo corp 
+inc 
+changyou cyou 
+cheetah mobile inc cmcm 
+netease inc ntes 
+sohu inc sohu 
+alibaba group holding baba 
+baidu inc bidu 
+baozun inc bzun 
+inc 
+tencent holdings ltd 
+vipshop holdings vips 
+rating 
+price 
+iii 
+cmc markets plc cmcx 
+david sun 
+grace chen 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage diversified financials 
+company ticker 
+adedapo oguntade cfa 
+alvaro serrano 
+banca farmafactoring spa bff 
+anil sharma cfa 
+aberdeen asset management adn 
+amundi amun 
+ashmore group plc ashm 
+bolsas mercados espanoles bme 
+deutsche boerse 
+euronext enx 
+flow traders flow 
+hargreaves lansdown hrgv 
+henderson group hggh 
+hoist finance publ hofi 
+skr 
+london stock exchange lse 
+man group emg 
+moscow exchange moex 
+rub 
+nex group plc nxgn 
+nordax group ndx 
+skr 
+partners group pghn 
+sfr 
+resurs holding resurs 
+skr 
+schroders sdr 
+icap plc tcapi 
+rating 
+price 
+antonio reale 
+poste italiane spa pst 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage insurance property casualty 
+company ticker 
+kai pan 
+allstate corporation all 
+american int grp aig 
+foundation 
+aon plc aon 
+arch capital group ltd acgl 
+arthur gallagher ajg 
+axis capital holdings axs 
+berkshire hathaway inc brkb 
+berkshire hathaway inc brka 
+brown brown inc bro 
+chubb ltd 
+everest group ltd 
+intact financial corp ifc 
+marsh mclennan cos mmc 
+national general holdings corp nghc 
+progressive corp pgr 
+renaissancere rnr 
+the travelers companies inc trv 
+third point reinsurance ltd tpre 
+berkley corp wrb 
+willis towers watson plc wltw 
+group plc 
+rating 
+price 
+axis bank axbk 
+hdfc bank hdb 
+hdfc bank hdbk 
+icici bank icbk 
+state bank india sbi 
+bajaj finance limited bjfn 
+bharat financial inclusion ltd bhaf 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage india financials 
+company ticker 
+anil agarwal 
+subramanian iyer 
+hdfc hdfc 
+idfc bank idfb 
+indiabulls housing finance inbf 
+morgan stanley research 
+foundation 
+lic housing finance ltd lich 
+mahindra and mahindra financial services mmfs 
+multi commodity exchange india ltd mcei 
+pnb housing finance ltd pnbh 
+shriram city union finance ltd shcu 
+shriram transport finance ltd srtr 
+bank baroda bob 
+bank india boi 
+canara bank cnbk 
+federal bank fed 
+icici prudential life insurance icir 
+indusind bank inbk 
+kotak mahindra bank ktkm 
+punjab national bank pnbk 
+rbl bank limited ratb 
+yes bank yesb 
+rating 
+price 
+apple inc aapl 
+cdw corporation cdw 
+electronics for imaging inc efii 
+fitbit inc fit 
+hewlett packard enterprise hpe 
+inc hpq 
+ibm ibm 
+ncr corp ncr 
+netapp inc ntap 
+nutanix inc ntnx 
+pure storage inc pstg 
+seagate technology stx 
+teradata tdc 
+western digital wdc 
+xerox corp xrx 
+garmin ltd grmn 
+gopro inc gpro 
+rating 
+price 
+japan post bank 
+mizuho financial group 
+resona holdings 
+sumitomo mitsui 
+sumitomo mitsui trust holdings 
+sumeet kariwala 
+max financial services maxi 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage hardware 
+company ticker 
+katy huberty cfa 
+yuuji anderson 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+industry coverage banks 
+company ticker 
+mia nagasaka 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

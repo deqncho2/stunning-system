@@ -1,0 +1,727 @@
+october gmt 
+software 
+var survey security spend 
+benefit from cloud adoption 
+security vars note stable security demand environment 
+skewing the upside similar last survey cloud adoption 
+looks near term tailwind for security spend panw 
+results shine best positioned for the top secular trends 
+security and strong var company specific expectations 
+morgan stanley llc 
+keith weiss cfa 
+equity analyst 
+keith weiss morganstanley 
+melissa franchi 
+equity analyst 
+melissa franchi morganstanley 
+james faucette 
+equity analyst 
+james faucette morganstanley 
+anjelo austria 
+research associate 
+anjelo austria morganstanley 
+hamza fodderwala 
+research associate 
+hamza fodderwala morganstanley 
+software 
+north america 
+industryview 
+attractive 
+software security value added resellers vars note stable security demand 
+environment with cloud adoption tailwind for security spend note 
+three key takeaways from our security var survey demand for security 
+products and services appears stable with advanced malware protection 
+security analytics and cloud access security brokerage the top priorities 
+cloud adoption expected drive incremental security spending near term and 
+panw csco and splk appear positioned well benefit from broader 
+security software secular trends 
+key vendor highlights 
+positive panw vars expect their palo alto networks business grow 
+the fastest amongst peers accelerating yoy last 
+year survey data indicated improving demand expectations across most 
+the product suite most notably the traps endpoint security solution 
+survey data indicates the company should benefit from top security 
+priority advanced malware protection with its wildfire product 
+positioned well for cloud migration vars expect cloud adoption 
+positively benefit virtual network firewall spend and gaining the 
+most share next gen endpoint market however while palo alto 
+networks still seen share gainer var data indicates the competitive 
+landscape heating from traditional network vendors cisco juniper 
+line with our expectations 
+mixed symc symantec data points were mixed with vars noting that 
+enterprises are increasingly willing consolidate vendors which should 
+benefit symantec and noting cloud access security brokerage 
+technologies top priority however vars only expect their symantec 
+business grow while improvement this 
+still the slowest amongst its peers from product perspective vars 
+indicated deteriorating demand within web security blue coat and 
+symantec endpoint sep which raises risk for the acceleration 
+enterprise revenue implied guidance consensus competitively 
+vars note that symantec losing share noting that symantec 
+gaining share 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+cloud adoption positive catalyst for security spending key investor debate 
+for security remains the impact security spend from the migration the 
+public cloud however resellers continue expect cloud adoption drive 
+additional security spending with vars this survey indicating that the 
+cloud drives the need for greater security spend security analytics identity 
+management and virtual network firewalls are expected see increased spend 
+due cloud migration drivers that help explain this dynamic include 
+expanding attack surface area with the cloud and increasing network traffic 
+more apps move the web splunk should benefit security analytics becomes 
+increasingly important hybrid environments while palo alto networks should 
+benefit through its portfolio virtual firewalls which can deployed 
+aws azure and its web app visibility proofpoint the purest play cloud 
+security through its cloud based email and data protection platform with the 
+move office catalyst 
+outperformance ytd drives more selective view the average security stock 
+ytd the back positive earnings revisions and multiple expansion 
+average fcf fcf the beginning the 
+performance ytd within the sector drives our more selective view the 
+universe towards the laggards despite generally favorable fundamentals across 
+the broader group the valuation fundamentals disparity particularly acute 
+with panw trading fcf fcf growth cagr 
+valuation gap which expect narrow against significantly lowered 
+expectations highlight our recent upgrade palo alto networks inc 
+beyond the box upgrading oct 
+security software takeaways 
+our var views survey solicits feedback from resellers some the key investor 
+questions around security vendors highlight three key takeaways 
+the demand for security products and services appears stable survey data suggest 
+security demand more stable than year ago with security vars seeing 
+improving demand for security products and services down from vars 
+october about quarter vars see stable environment from last 
+year think this skews positively for overall demand security var saw 
+any signs weakening security demand the past months similar last 
+survey 
+advanced malware protection was highlighted the top security priority over the 
+next months vars but its lead has tightened last year security 
+analytics cloud access security brokerage capabilities next generation endpoint 
+and identity management rounded out the top five security priorities feye 
+positioned well the best breed solution advanced malware protection 
+think enterprises will increasingly prefer consolidate this functionality favoring 
+additional vendors like panw and symc stane alone stateful firewalls email 
+security and virtual private network products were listed low priorities for var 
+respondents 
+vars continue believe cloud adoption will tailwind for security spending 
+similar last survey vars this survey indicated that the move the 
+cloud drives the need for additional security spend var this survey indicated 
+that the move the cloud has negative impact security spending security 
+analytics identity management virtual network firewalls and endpoint security 
+technologies are expected see increased spend due cloud migration this 
+screens positively for splk panw and symc 
+stock specific takeaways 
+positives 
+palo alto networks panw vars expect their palo alto networks businesses 
+grow last year the fastest amongst peers our survey showed 
+improving demand expectations across most the product suite most notably 
+traps endpoint security additionally survey data indicates that palo alto 
+networks should benefit from var top security priority advanced malware 
+protection with its wildfire product positioned well for cloud migration 
+vars expect cloud adoption positively benefit virtual network firewall spend 
+one the most effective vendors channel distribution and gaining the most 
+share the next gen endpoint market 
+cisco csco survey data suggest that cisco gaining share from its chief 
+competitors within the traditional network and firewall vendor markets although 
+losing share from next gen firewalls additionally customer improving preference 
+for consolidated solutions should benefit cisco given its unified network platform 
+within the next gen endpoint vars see cisco gaining share amongst its legacy 
+security peers 
+fortinet ftnt survey responses indicate that fortinet business will accelerate 
+yoy last year fortinet position amongst competitors has also 
+greatly improved with vars characterize fortinet gaining share 
+sustaining share the past six months only last survey 
+check point chkp vars expect their check point business accelerate 
+yoy from last year the largest yoy increase vendors surveyed 
+vars noted check point channel effectiveness has improved since last survey 
+addition customer improving preference for consolidated solutions should benefit 
+check point var respondents indicated that check point gaining share from 
+traditional network vendors significant improvement from year ago blade 
+adoption trends improved since last survey with vars characterizing 
+adoption improving net basis october 
+mixed 
+symantec symc symantec expectations came mixed throughout the survey 
+the positive side the company should well positioned the increasing demand 
+for cloud access security brokerage technologies and vars expect cloud adoption 
+positively impact endpoint security vars see customers increasingly willing 
+consolidate security vendors which should benefit platform players like symantec 
+however var business with symantec expected grow 
+the slowest amongst its peers from product perspective vars indicated 
+deteriorating demand within web security blue coat and symantec endpoint 
+sep which may raise risk for enterprise revenue acceleration that 
+embedded guidance competitively vars note that symantec losing 
+share noting that symantec gaining share 
+sophos soph while sophos still ranks one the most preferred smb 
+vendors its dominant position has declined from last survey net basis var 
+survey data indicates that sophos less effective channel distribution than 
+october 
+negative 
+fireeye feye advanced malware protection came the top security priority 
+which should benefit feye core offering vars indicate that fireeye losing 
+momentum advanced malware solutions althought this was stable relative 
+our prior survey from product perspective fireeye vars report below 
+expectation sales for fireeye security solutions and cloud mvx however 
+vars reported endpoint security sales above expectations which may 
+reflect some increased traction with the recently updated solution 
+var responses suggest stabilization the security demand 
+environment 
+how would you describe the security demand environment the past months 
+exhibit var responses indicate more stable spending environment compared our october 
+survey 
+source alphawise morgan stanley var survey 
+survey data suggests security demand more stable than year ago with 
+security vars seeing improving demand for security products and services down 
+from vars october about quarter cios see stable 
+environment from last year 
+similar last survey security var saw any signs weakening security 
+demand the past months 
+what are the top priorities for enterprise spending security the next months please 
+select three 
+exhibit top security priorities 
+source alphawise morgan stanley var survey 
+similar last survey var responses indicate that advanced malware protection 
+the top security protect for the next twelve months positive for fireeye palo alto 
+networks wildfire cisco amp and proofpoint tap 
+security analytics positive for splunk and cisco cognitive threat analytics 
+cta cloud access security brokerage positive for symantec and next 
+generation endpoint are top security priorities the next months 
+how does the move the cloud impact security spending 
+exhibit vars continue see increased cloud adoption driving the need for incremental 
+security spend 
+source alphawise morgan stanley var survey 
+var responses indicate that cloud migration would have incremental need for 
+additional security spend similar our prior survey 
+line with october vars this survey expect cloud migration have 
+negative effect security spend 
+answered the move the cloud drives the need for incremental security spending 
+what security technologies would you expect see increased spend the shift the cloud 
+drives incremental security spending what security technology would you expect see with 
+decreased spend the shift the cloud negatively impacts security spending 
+exhibit security technologies that benefit from the shift cloud 
+source alphawise morgan stanley var survey 
+var responses suggest security technologies benefit from cloud are largely 
+line with our prior survey security analytics positive for splunk and cisco 
+cta identity management positive for okta virtual network firewalls positive 
+for palo alto networks and endpoint security positive for symantec 
+the least amount vars see email security beneficiary incremental spend 
+from cloud migration continuing the trend saw last year 
+the past months which vendor has been most effective terms channel 
+distribution and result seeing the most positive impact its customer spend and 
+the past months which has been least effective terms channel distribution and 
+result seeing the most negative impact its customer spend 
+exhibit vendor effectiveness from the channel 
+source alphawise morgan stanley var survey note vendors are ranked based percentage vars indicating the vendor 
+most effective channel distribution adjusted for the percentage vars indicating the vendor least effective channel distribution 
+var responses indicate that the most effective vendors terms channel 
+distribution are cisco vars palo alto networks and check point 
+vars which lead positively benefitting customer spend 
+barracuda networks and ibm are the least effective terms channel 
+distribution noted var respondents 
+how would you describe customers willingness consolidate the number deployed 
+security product vendors within the past months 
+exhibit customers preferences are largely favor vendor consolidation 
+source alphawise morgan stanley var survey 
+two thirds vars indicated that customers are more willing consolidate 
+security vendors with vars indicating they are willing increase the number 
+security vendors 
+think security pure plays such palo alto networks cisco symantec and 
+sophos are best positioned for consolidation cisco has already been significant 
+consolidator the past few years 
+which security software vendor the easiest set configure manage 
+exhibit palo alto networks viewed the easiest security solution set 
+source alphawise morgan stanley var survey 
+var respondents continue view palo alto networks barracuda networks and 
+fortinet asthe easiest software vendors easily set configure manage 
+similar our prior survey 
+which security software vendor best suited for smbs small and medium sized 
+businesses please select one 
+exhibit barracuda networks sophos and symantec are seen the best suited software 
+security vendor for small and medium sized businesses 
+source alphawise morgan stanley var survey 
+barracuda network sophos and symantec are seen the best suited software 
+security vendor geared for smbs 
+which legacy security software vendor gaining the most share the next generation 
+endpoint market please select one 
+exhibit legacy software vendors gaining most share within next gen endpoint 
+source alphawise morgan stanley var survey 
+var responses suggest palo alto networks dominant leader gaining share 
+the next generation endpoint market while cisco and symantec are also gaining 
+share 
+survey data suggests sophos intel mcafee and trend micro are losing 
+momentum the next gen endpoint market 
+for each the following vendors how did your reseller business perform 
+how you expect your reseller business perform 
+exhibit weighted average vendor business performance 
+vendor business performance 
+weighted average 
+yoy growth 
+palo alto 
+check point 
+fortinet 
+fireeye 
+sophos 
+symantec 
+source alphawise morgan stanley var survey 
+overall var responses suggest that security spend with surveyed vendors will 
+accelerate yoy from yoy 
+check point 
+check point the past months has any change the competitive landscape impacted 
+your recent check point sales please select one 
+exhibit competitive impacts check point sales 
+source alphawise morgan stanley var survey 
+var respondents indicated that check point gaining share from 
+traditional network vendors significant improvement from year ago 
+check point how would you characterize adoption check point software blades 
+please select one 
+exhibit check point software blade adoption trends 
+source alphawise morgan stanley var survey 
+our var survey suggests that check point blade adoption improving since last 
+survey with vars characterizing adoption improving net basis 
+october 
+cisco 
+cisco the past months has any change the competitive landscape impacted your 
+recent cisco sales please select one 
+exhibit competitive impacts cisco sales 
+source alphawise morgan stanley var survey 
+generally our var survey suggests that cisco gaining share from traditional 
+network and firewall competitors 
+cisco vars indicated that cisco has gained share from traditional network 
+vendors and cisco vars net have gained share from traditional firewall 
+vendors the past six months 
+however cisco vars have noted that cisco losing share from other next 
+gen firewall vendors 
+this serves further backup for our current view cisco view their 
+refreshed security portfolio and positioning helping grow their recurring 
+software base but also pull through additional networking purchases 
+fireeye 
+fireeye the past months has any change the competitive landscape impacted your 
+recent fireeye sales 
+exhibit competitive impacts fireeye sales 
+source alphawise morgan stanley var survey note attracting dollars from net new spending was not option 
+survey 
+our var survey suggests that fireeye continues lose momentum advanced 
+malware solutions relative network security vendors with fireeye vars 
+characterizing the competitive landscape that way last survey 
+fireeye vars note that fireeye attracting dollars from existing 
+network endpoint spend while vars note that fireeye attracting net new 
+dollars perhaps reflecting some adoption its new helix solution 
+fireeye how would you characterize expected demand trend product for fireeye over 
+the next twelve months 
+exhibit fireeye product demand trends 
+source alphawise morgan stanley var survey 
+fireeye vars report below expectation sales for fireeye forensics threat 
+intelligence cloud mvx and web email security solutions 
+our var survey suggests endpoint security should outperform expectations with 
+vars indicating demand above expectations the next twelve months 
+indicating below expectations this also improvement from our october 
+survey which had vars above expectations for endpoint 
+fortinet 
+fortinet the past months has any change the competitive landscape impacted your 
+recent fortinet sales please select one 
+exhibit competitive impacts fortinet sales 
+source alphawise morgan stanley var survey 
+our var survey suggests that fortinet position amongst its competitors has 
+improved the past six months with vars characterizing fortinet 
+gaining share sustaining share the past six months last survey 
+responses indicate more stable competitive environment with fortinet 
+vars note there has been change the last six months vars year ago 
+fortinet vars indicate that fortinet gaining share from traditional firewall 
+vendors with vars noting share losses from traditional firewall vendors 
+fortinet over the next months what you expect terms fortinet market 
+momentum please select one 
+exhibit fortinet improving momentum within enterprise and mid market 
+source alphawise morgan stanley var survey 
+the next twelve months fortinet vars expect modestly improving momentum 
+with mid market and enterprise customers 
+net fortinet vars expect improving fortinet market momentum within the 
+mid market versus net fortinet vars expect improving market momentum 
+with larger enterprise customers 
+palo alto networks 
+palo alto networks the past months has any change the competitive landscape 
+impacted your recent palo alto networks sales please select the most applicable 
+exhibit competitive impacts palo alto networks sales 
+source alphawise morgan stanley var survey 
+palo alto networks vars have indicated that palo alto networks has 
+gained share from traditional network vendors cisco juniper down from 
+year ago 
+however net basis palo alto networks vars noted that palo alto 
+networks has lost share from traditional firewall vendors check point 
+palo alto networks how would you characterize expected demand trend product for 
+palo alto over the next twelve months 
+exhibit palo alto networks product demand trends 
+source alphawise morgan stanley var survey 
+palo alto networks vars indicated improving demand expectations across the 
+product suite for the next twelve months for traps endpoint security 
+series autofocus threat intelligence series and aperture saas security 
+net basis 
+resellers report improving results for its traps endpoint solution with 
+resellers noting improving demand net basis year ago 
+symantec 
+symantec the past months has any change the competitive landscape impacted 
+your recent symantec endpoint protection including next generation endpoint sales 
+please select one 
+exhibit competitive impacts symantec sales 
+source alphawise morgan stanley var survey 
+while improving from our prior survey our var survey suggests that symantec 
+losing share from competitors with vars noting that symantec losing 
+share noting that symantec gaining share 
+within traditional endpoint vendors symantec vars have indicated that 
+symantec gaining share net this might point share gains from kaspersky 
+which the government has banned from use within federal agencies which 
+likely impacted enterprise demand well 
+symantec how would you characterize expected demand trend product for symantec 
+over the next twelve months 
+exhibit symantec product demand trends 
+source alphawise morgan stanley var survey note this the first time web security blue coat was surveyed 
+symantec expectations for advanced threat protection and endpoint protection 
+have worsened compared our last survey also saw material deterioration 
+expectations for data protection with vars below expectations for 
+symantec vontu business versus our prior survey 
+vars this survey noted improving demand trends within web security blue 
+coat and symantec endpoint sep trends declined from last survey indicating 
+deteriorating demand for both products inflection blue coat and sep growth 
+are key symantec enterprise revenue acceleration into this data 
+highlights potential downside risk numbers 
+symantec how would you characterize the impact symantec recent acquisition 
+blue coat expected spend please select one 
+exhibit vars indicate mixed reaction blue coat acquisition 
+source alphawise morgan stanley var survey 
+october data indicate much more mixed reaction symantec acquisition 
+blue coat symantec vars net basis expect the acquisition blue 
+coat will increase expected net spend decline from year ago 
+morgan stanley var survey 
+methodology 
+this report contains the results our var survey during august and september 
+conducted telephone and online interviews with value added resellers vars 
+representing companies all from the with decision making responsibility for 
+purchasing integrating and maintaining security based technology strategies their 
+responses represent enterprise customer adoption and purchasing behaviors for 
+more alphawise 
+alphawise reports interactives 
+alphawise 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan 
+stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley includes morgan 
+stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and their affiliates 
+necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report anjelo 
+austria james faucette hamza fodderwala melissa franchi keith weiss cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+september morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research appian corp cdk global inc coupa software inc ellie mae inc fireeye inc hubspot inc intuit microsoft palo alto networks 
+inc sabre corp salesforce servicenow inc splunk inc veeva systems inc workday inc 
+within the last months morgan stanley managed managed public offering offering securities appian corp autodesk cdk global 
+inc cloudera inc coupa software inc godaddy inc hubspot inc microsoft nuance communications inc servicenow inc shopify inc vmware inc 
+workday inc yext inc 
+within the last months morgan stanley has received compensation for investment banking services from adobe systems akamai technologies inc 
+appian corp autodesk box inc cdk global inc cisco systems inc cloudera inc coupa software inc endurance international group holdings inc 
+godaddy inc hubspot inc microsoft nuance communications inc sabre corp servicenow inc shopify inc technologies holdings inc travelport 
+worldwide limited vmware inc workday inc yext inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from inc adobe systems 
+akamai technologies inc appfolio inc appian corp atlassian corporation plc autodesk barracuda networks inc bazaarvoice inc box inc cdk global 
+inc check point software technologies ltd cisco systems inc citrix systems inc cloudera inc coupa software inc cyberark software ltd descartes 
+systems group inc ellie mae inc endurance international group holdings inc fireeye inc inc fortinet inc godaddy inc hubspot inc imperva 
+inc instructure inc intuit microsoft mindbody inc new relic inc nuance communications inc oracle corporation palo alto networks inc proofpoint 
+inc qualys inc inc red hat inc ringcentral inc sabre corp salesforce servicenow inc shopify inc sophos group plc splunk inc 
+technologies holdings inc symantec tableau software travelport worldwide limited varonis systems inc veeva systems inc vmware inc workday 
+inc workiva inc yext inc zendesk inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from adobe 
+systems akamai technologies inc autodesk check point software technologies ltd cisco systems inc fortinet inc intuit microsoft nuance 
+communications inc oracle corporation red hat inc sabre corp salesforce sophos group plc technologies holdings inc symantec 
+tableau software travelport worldwide limited vmware inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company inc adobe systems akamai technologies inc appfolio inc appian corp atlassian corporation plc autodesk barracuda 
+networks inc bazaarvoice inc box inc cdk global inc check point software technologies ltd cisco systems inc citrix systems inc cloudera inc 
+coupa software inc cyberark software ltd descartes systems group inc ellie mae inc endurance international group holdings inc fireeye inc 
+inc fortinet inc godaddy inc hubspot inc imperva inc instructure inc intuit microsoft mindbody inc new relic inc nuance communications inc 
+oracle corporation palo alto networks inc proofpoint inc qualys inc inc red hat inc ringcentral inc sabre corp salesforce servicenow 
+inc shopify inc sophos group plc splunk inc technologies holdings inc symantec tableau software travelport worldwide limited varonis 
+systems inc veeva systems inc vmware inc workday inc workiva inc yext inc zendesk inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company adobe systems akamai technologies inc autodesk 
+cdk global inc check point software technologies ltd cisco systems inc citrix systems inc fireeye inc fortinet inc godaddy inc hubspot inc 
+intuit microsoft nuance communications inc oracle corporation red hat inc sabre corp salesforce servicenow inc sophos group plc 
+technologies holdings inc symantec tableau software travelport worldwide limited vmware inc workday inc 
+employee director consultant morgan stanley director workiva inc this person not research analyst member research analyst 
+household 
+morgan stanley llc makes market the securities inc adobe systems akamai technologies inc appian corp atlassian corporation 
+plc autodesk barracuda networks inc bazaarvoice inc box inc cdk global inc check point software technologies ltd cisco systems inc citrix 
+systems inc cyberark software ltd ellie mae inc endurance international group holdings inc fireeye inc inc fortinet inc godaddy inc 
+hubspot inc instructure inc intuit microsoft mindbody inc new relic inc nuance communications inc oracle corporation palo alto networks inc 
+proofpoint inc holdings inc qualys inc inc red hat inc ringcentral inc sabre corp salesforce servicenow inc shopify inc splunk inc 
+technologies holdings inc symantec tableau software travelport worldwide limited varonis systems inc veeva systems inc vmware inc 
+workday inc zendesk inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+september 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months due rounding off decimals the percentages provided the total column may not add exactly 
+percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems autodesk bazaarvoice 
+inc cdk global inc cisco systems inc citrix systems inc hubspot inc microsoft nuance communications inc oracle corporation palo alto networks 
+inc servicenow inc symantec vmware inc workday inc 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage software 
+company ticker 
+rating 
+price 
+brian essex cfa 
+appfolio inc appf 
+cdk global inc cdk 
+descartes systems group inc dsgx 
+ellie mae inc elli 
+endurance international group holdings inc eigi 
+godaddy inc gddy 
+instructure inc inst 
+mindbody inc 
+holdings inc qtwo 
+sabre corp sabr 
+shopify inc shop 
+technologies holdings inc ssnc 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+symantec symc 
+vmware inc vmw 
+workday inc wday 
+melissa franchi 
+barracuda networks inc cuda 
+box inc box 
+cyberark software ltd cybr 
+fireeye inc feye 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+qualys inc qlys 
+inc rpd 
+secureworks corp scwx 
+splunk inc splk 
+varonis systems inc vrns 
+meta marshall 
+inc eght 
+inc fivn 
+ringcentral inc rng 
+sanjit singh 
+appian corp appn 
+atlassian corporation plc team 
+cloudera inc cldr 
+new relic inc newr 
+nuance communications inc nuan 
+tableau software data 
+stan zlotsky cfa 
+bazaarvoice inc 
+coupa software inc coup 
+hubspot inc hubs 
+veeva systems inc veev 
+workiva inc 
+yext inc yext 
+zendesk inc zen 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

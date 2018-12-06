@@ -1,0 +1,981 @@
+august gmt 
+technology payments 
+holding the networks 
+account 
+despite fears widespread disintermediation believe high 
+barriers entry lack motivation and difficulty driving 
+adoption means unlikely disrupt the current card 
+system however account account does gain traction see 
+networks and the the most exposed players market 
+pisps will struggle gain traction disintermediating the current card 
+infrastructure with direct transfers would require not only new payments 
+platform but also mass consumer and merchant adoption believe limited 
+cost savings for large merchants and consumers perceiving the current card 
+infrastructure free frictionless present significant barriers broad 
+adoption overall expect these issues are insurmountable for new entrant 
+but may achievable via cooperation between existing players 
+our analysis suggests regional differences across europe will key 
+believe the the most exposed market given its high card use high 
+levels ecommerce consolidated banking sector and real time payments 
+infrastructure contrast see less significant for countries such 
+germany due limited card use existing direct transfer options sofort 
+giropay and more dispersed banking sector 
+acquirers still look well placed see merchant relationships one the 
+key elements left unresolved the new regulation therefore 
+believe the scale acquirers are the best position out the incumbents 
+quickly transition into the role pisp and facilitate direct transfer payments 
+similarly see banks customer relationships also making them natural 
+candidates become pisps 
+visa mastercard hard underprice key objective any pisp system 
+would disintermediate the role card network view this disruption 
+unlikely given that marginal costs are asymptotically approaching zero 
+and hard underprice zero especially with fraud rates that are 
+nevertheless visa and mastercard are making investments mitigate this 
+potential risk mastercard acquisition vocalink the 
+bank fees will risk too but have balance sheet scale and consumer 
+ownership their favour defend against the disruptors banks now face 
+choice disrupt disrupted while fee income could risk think recent 
+interchange caps lessen the potential effects moreover believe that balance 
+sheet scale and client ownership will key defence mechanisms for the banks 
+that actively engage with think that collaboration with other 
+banks fintechs offers opportunities broaden revenue streams and offset 
+payment fee erosion the longer term 
+morgan stanley international plc 
+adam wood 
+equity analyst 
+adam wood morganstanley 
+morgan stanley llc 
+james faucette 
+equity analyst 
+james faucette morganstanley 
+morgan stanley international plc 
+joshua harris 
+equity analyst 
+josh harris morganstanley 
+andrew humphrey 
+equity analyst 
+andrew humphrey morganstanley 
+alice timperley cfa 
+equity analyst 
+alice timperley morganstanley 
+victoria irving 
+equity strategist 
+victoria irving morganstanley 
+morgan stanley llc 
+vasundhara govil 
+equity analyst 
+vasundhara govil morganstanley 
+danyal hussain cfa 
+equity analyst 
+danyal hussain morganstanley 
+morgan stanley international plc 
+george webb 
+research associate 
+george webb morganstanley 
+technology payments 
+europe 
+industryview 
+attractive 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+the card payment infrastructure 
+nutshell 
+new directive that amongst many other changes forces banks share 
+account data with authorised parties opening bank data 
+facilitates two new services payments via direct transfer from the customer 
+bank account the merchant parties providing account information and 
+aggregation services account holders see small chance these new services 
+could disrupt the established card based system and issuing banks particularly for 
+online transactions 
+starting point the four party payments model 
+the traditional four party payments model for card transactions consists the 
+merchant the acquirer bank payments company the cardholder and the issuer 
+normally bank working association with card scheme such visa mastercard 
+this payment model the issuing bank card network and acquirer are paid out the 
+merchant discount rate mdr the difference between what the merchant charges 
+for goods services paid for with card and the proceeds the merchant ultimately 
+receives put simply the merchant that funds all the participants the payments 
+landscape merchant acquirer processor card scheme and issuing bank processor 
+stages card transaction 
+merchant rings transaction for 
+acquirer captures details the transaction merchant details card details transaction 
+value and runs fraud checks 
+acquirer requests the transaction amount from the issuing bank via the card network 
+issuer debits consumer account the value the goods and remits the value less 
+interchange and network fees the acquirer 
+acquirer remits the net amount the merchant less the acquirer fee the 
+merchant 
+exhibit 
+source company data morgan stanley research 
+breaking down the value chain 
+within the roles illustrated the classical four party model there are number 
+distinct payment services with different characteristics makes sense separate out 
+these functional roles into payments value chain because the simplicity the four 
+party model belies the fact that the card payments system can take large variety 
+forms and players can take number the following functional roles 
+consumer risk issuing banks payments companies provide the consumer with 
+payment method your bank sending you credit card paypal providing you with 
+online wallet these players hold the customer relationship provide protection 
+against fraud provide loyalty schemes and some cases will provide credit the case 
+cards this piece the value chain will usually represent the largest part the fees 
+data capture transmission this the first step any payment where terminal 
+offline gateway online provider will install and run either point sale pos 
+terminal offline secure payment webpage gateway online for merchants the role 
+simply about securely capturing and relaying the card transaction information the 
+other players the four party model these parts the value chain are one the 
+most commoditised particularly offline 
+processing and authorisation the heavy workload running payments 
+infrastructure providing processing and authorisation services this involves running 
+platform that operates checking card details relaying information and 
+clearing settlement you find different forms these services across all the major roles 
+the four party model with acquirers issuing banks and the networks all running large 
+processing platforms other than the inherent economies scale this part the value 
+chain also largely commoditised 
+merchant risk acquiring all merchants accepting visa mastercard card transactions 
+must have acquirer who essentially provides insurance that the merchant goes 
+bust and customers seek return goods the acquirer will pick the bill acquiring has 
+historically been lucrative business the risk bankruptcy has generally been 
+overstated and smes pay little attention the fees they are being charged addition 
+given the liability they have take the acquirer will often own the merchant 
+relationship providing channel through which acquirers can sell value added 
+services and other parts the payments value chain 
+card payment network infrastructure the card networks are the web linking 
+together the merchant acquirer side and the customer issuing bank side the 
+payments network the huge barriers trying recreate these networks and limited 
+functional role makes this part the value chain highly profitable and well protected 
+value added services value added services catch all name for wide range 
+add ons payments companies will try sell into merchants this includes software 
+terminals for viewing and managing card transactions cash flow financing mobile pos 
+terminals omni channel solutions management etc this cross sell the primary 
+way payments companies seek offset the commoditisation other parts their 
+business 
+exhibit 
+source morgan stanley research 
+how will change the four party model 
+opening bank data parties leads enable new type payment 
+provider called payment initiation service providers pisp pisps are institutions that 
+initiate payments the instruction the account holder via direct transfer from the 
+account holder bank account the merchant payee what differentiates pisps from 
+normal bank transfers that these institutions not ever hold the funds they simply 
+provide the software link between customer bank account and the merchant 
+illustrated below this new method payment attempts disintermediate the card 
+networks from the four party model payments will now done via direct transfer 
+ordinated the pisp rather than card addition the roles acquirer and issuing 
+bank are likely changed pisps move owning the customer relationship and 
+processing risk protection adapts direct transfers 
+direct transfer payments pisps are initially only likely used for online 
+payments authentication and adoption likely prove much harder the offline 
+space 
+exhibit current payments model 
+exhibit pisp model 
+source morgan stanley research 
+source morgan stanley research 
+our view 
+new pisps will struggle gain traction 
+disintermediating the current card infrastructure with direct transfers would require not 
+only new payments platform but also mass consumer and merchant adoption the 
+merchant side smes are likely willing adopt given the potentially significant 
+savings over card payment however large merchants will prove harder convince 
+cost savings will more limited the consumer side with cards perceived free 
+getting adoption will difficult and likely require incentives encourage 
+switching further eroding merchant cost savings consumers must also trust the new 
+pisps and willing accept lower levels financial protection 
+addition also note that under the new general data protection 
+regulation gdpr consumers will required give specific consent for their 
+personal data shared new rules for companies report data breaches within 
+hours and the introduction fines global revenues for non compliance 
+likely make consumers more aware which companies they share their data with 
+and raise barriers new entrants 
+overall expect these issues are insurmountable for new entrant but may 
+achievable via cooperation between existing players however believe the incentive 
+for the existing players limited 
+regional differences across europe will key with the 
+likely the most exposed market 
+there are significant variations across europe the importance cards the value 
+ecommerce and the existing banking payments infrastructure these three factors will 
+determine both the potential impact for existing players and how likely 
+adopted using data from across countries conclude the the most 
+exposed market given its high card use high levels ecommerce consolidated banking 
+sector and real time payments infrastructure contrast see less significant 
+for germany due limited card use existing direct transfer options sofort and more 
+dispersed banking sector theory should facilitate cross border solutions but 
+differences regional implementation are likely pose barriers entry 
+played right think acquirers could benefit from the transition 
+our view only truly changes half the payments network opens 
+bank data any authorised party and doing largely removes the network barriers 
+entry created having convince issuing banks allow you connect with them 
+what does not make easier sign thousands merchants accept 
+particular player direct transfer payment method which view the bigger task 
+the one exception this the scale acquirers who currently hold these merchant 
+relationships and can decide which payment types integrate believe these 
+merchant relationships put acquirers the best position out the incumbents 
+quickly transition into the role pisp 
+network risk from direct transfer mitigated low costs and 
+robust fraud prevention 
+the core and most profitable businesses the card payments system networks 
+potentially have the most lose from shift direct transfers pisp world there 
+need for network the traditional sense because the pisp directly transfers 
+money between the bank account the customer and the merchant pisps are 
+reality the networks the direct transfer world however even direct transfer 
+services were offer reduced fees card networks they are unlikely ever have 
+lower cost transaction and the card networks can always underprice the challengers 
+moreover the networks can with better acceptance and likely lower levels 
+fraud nevertheless expect the existing card networks will build their own pisp 
+services hedge 
+see some tail risk pisps moving into offline payments 
+theory see reason why direct transfer pisp model could not combined 
+with mobile payment technology such apple pay this scenario customers would 
+effectively store their account details the form pisp account their apple pay 
+rather than virtualised version their cards this could extend network direct 
+transfer payments into the offline world therefore the long term direct transfers 
+could start compete with cards virtualised cards offline 
+three reasons pisps are unlikely gain traction 
+new entrants will find exceptionally hard recreate all the 
+elements payments network 
+exhibit any new payments network faces the chicken and egg issue merchant and consumer adoption 
+source morgan stanley research 
+not clear any player has both the means and motivation 
+drive adoption 
+exhibit large tech companies seem the closest having both the means and motivation 
+source morgan stanley research 
+even they getting consumer adoption will still hard 
+exhibit only banks are trusted the majority consumers facilitate payments 
+source tsys consumer mobile payment study sample details residents age age age age age and age 
+what where and who would affected disruption 
+what low risk ecommerce would the natural market while 
+large offline merchants will have little incentive 
+exhibit breaking down the potential impact pisps type transaction 
+source morgan stanley research 
+where our analysis suggests the would the market 
+where pisps would most disruptive supports existing 
+solutions sofort and giropay germany and ideal the 
+netherlands 
+exhibit breaking down the potential impact pisps region 
+mapping the impact from major markets 
+ease disruption from payment option 
+sweden 
+denmark 
+italy 
+netherlands 
+spain 
+bubble size 
+total 
+ecommerce 
+france 
+germany 
+card based ecommerce gdp 
+source morgan stanley research worldpay alternative payments report bis fast payments enhancing the speed and availability retail payments bis cpmi worldpay 
+analysing country exposure 
+illustrated the chart above believe two main factors will determine 
+country exposure 
+prevalence online commerce axis the level card use will crucial for 
+how disruptive any particular market markets where cash direct 
+transfers are the dominant forms payment likely create limited 
+issues for the existing payment service providers there only small pool 
+card payments diverted pisp option see largely affecting 
+the online space think the gdp that card based ecommerce the best 
+proxy for potential disruption given market 
+conditions for gain traction axis setting system would 
+rely pisp set connections into the major domestic banks create 
+processing platform and convince consumers adopt this new payment option 
+therefore believe countries with consolidated banking sectors fewer 
+connections needed faster payments infrastructure easier set real time 
+platform and that currently use payment options that not share features 
+pisp system more compelling offer consumers are more likely see pisps 
+gain traction using score for each these three measures score each 
+country how conducive the environment pisps 
+using these measures the clearly stands out both the largest ecommerce 
+market and the one with the conditions that would enable disruptive pisp 
+adoption consolidated banking sector faster payments infrastructure and limited 
+direct transfer use contrast see lower risk disruption countries such 
+germany and the netherlands that have relatively low card use online 
+payment options that are similar sofort and ideal and are yet fully 
+adopt faster payments infrastructure 
+who traditional card networks are most likely lose out 
+they not adapt 
+exhibit breaking down the potential impact pisps payment function 
+source morgan stanley research 
+gauging the disruption risk from the fintech 
+framework lens 
+clearly tilts probability success towards disruptors but need for collaboration 
+still major obstacle 
+exhibit morgan stanley fintech framework 
+source morgan stanley research 
+how are the payments players positioned 
+acquirers 
+likely give large acquirers the opportunity spread themselves further along 
+the value chain taking the role the bank network however this upside tempered 
+the potential for direct transfers hit acquirers traditional card acquiring and 
+processing business 
+our view acquirers successfully put themselves the centre the pisp world 
+would give them dominant position within the value chain which would more than 
+offset any reduction card acquiring revenues 
+networks visa mastercard 
+visa and mastercard could have substantial exposure the extent viable 
+direct transfer product takes share from card transactions but the risk low our 
+view given the lack consumer incentive switch and the low cost card acceptance 
+for large merchants meanwhile both visa and mastercard are making investments 
+turn this potential risk into opportunity visa and mastercard are potentially best 
+suited offer risk mitigation and authentication tools clients help navigate the 
+change mastercard though its acquisition vocalink has positioned itself 
+potential leader direct bank ach payments which should allow participate any 
+new types payment flows would expect visa also explore potential expansion 
+capability set 
+non eurozone full service payments providers nets 
+nets fairly unique due its leading position both card networks and acquiring 
+the nordic markets therefore parties were enter the market and gain adoption 
+nets could see risks its merchant services and financial and network services 
+businesses however the fact nets already runs the end end payments infrastructure 
+norway and denmark means exceptionally well placed lead facilitate any shift 
+direct transfers addition the debit schemes nets runs particularly denmark are 
+already cheaper than international card schemes and share many features pisp 
+system therefore believe nets should find relatively easy adapt 
+world and nets could also benefit from incremental revenues its outsourced bank 
+processing operations and delivering infrastructure such real time 
+payments 
+eurozone full service payments providers worldline 
+think worldline business mix will make one the least exposed see 
+the potential pisp opportunity limited worldline relatively small quantity 
+customer and merchant facing payments revenue however this also means less 
+potential for disruption the area where think worldline may see upside 
+providing services infrastructure related see worldline well placed 
+provide white label pisp platform merchants and partnering with banks deal 
+with the driven changes banks back end processing and data management 
+systems for example handle apis 
+terminals processing providers ingenico 
+think the impact ingenico pos terminal business likely minimal 
+first expect new payment methods arising post impact online 
+transactions primarily there could even modest increase refresh rates the 
+event that new payment methods move offline retailers upgrade newer terminals 
+capable integrating these methods have seen limited degree with paypal 
+and alipay 
+there may impact ingenico gateway business which around 
+revenues the event decline card payment volumes though our base case 
+that most merchants will still need technology providers build and maintain online 
+payment gateways the case today with number alternative online payment 
+formats 
+pure online wirecard 
+wirecard typical online customer small business with limited scale wirecard would 
+somewhat exposed the event decline acquiring volumes resulting 
+from new technology adoption however believe most wirecard customers are 
+small merchants reliant their psp while they could migrate aggregator over 
+time many these merchants experience higher volumes result the 
+trust confidence consumers place traditional payment types think the impact 
+would small initially least 
+banks how real the threat retail banking models 
+alice timperley european banks 
+banks have simple choice join the disruption disrupted regardless the fact 
+that the final regulatory technical standards rts for are still not set out 
+european banks still need demonstrate their compliance with having open 
+available apis january progress this front appears somewhat 
+heterogeneous with some seeking purely compliant while others seeking map 
+out broader operational strategy post world taking the former approach 
+think will lead cluster banks morphing into utility data provider and thus 
+see their business models highly disrupted while the latter offers the opportunity 
+engage with the disruption enabling broader business models and course cultivating 
+new revenue opportunities 
+the stakes are high client data open real time world very valuable 
+commodity its understandable that banks are keeping cards close their chest 
+this stage with the january deadline fast approaching banks need plan yet far 
+many the banks have yet formally set out their vision the market for fear 
+giving too much away other market players that said many recognise that the crux 
+this new wave regulation takes aim the very heart their franchise client data 
+ownership for the banks the sharper end the development spectrum such the 
+nordics large spanish benelux banks are seeing step change managements 
+strategic thinking with platform investment and fintech partnerships becoming 
+greater focus 
+many banks view opportunity rather than threat client ownership 
+balance sheet muscle and rich understanding regulation are key positives you 
+would expect the banks are spinning this structural industry change opportunity 
+rather than threat from the perspective the fintechs they don see them 
+meaningful threats given the balance sheet scale and client ownership that they already 
+have however they concede that they need operate much possible with the 
+fintechs and embrace new customer solutions 
+the spectre prompting wave collaborations with fintechs many the 
+banks have spoken recognise that leverage their own attributes balance 
+sheet scale client ownership and regulatory knowledge that they are going need 
+sharpen their front end understanding via partnerships with fintechs already there are 
+many partnerships place see exhibit and banks are opening their apis 
+developers and seeking join accelerators order capture spectrum potential 
+solutions and products 
+exhibit key investments european banks fintech 
+source insights morgan stanley research 
+payment chains and nordics stand out european 
+context ripe for disruption but the banks are fighting back 
+high ecommerce activity and higher degree card usage mean and nordic 
+markets look most risk disruption the clearly stands out both the 
+largest ecommerce market and the one with the conditions that would enable 
+disruptive pisp adoption consolidated banking sector faster payments infrastructure 
+and limited direct transfer use the nordic market too shares similar attributes though 
+smaller scale contrast see lower risk disruption countries such 
+germany and the netherlands that have relatively low card use online payment options 
+that are similar sofort and ideal and are yet fully adopt faster payments 
+infrastructure 
+bank fee income could risk from erosion though somewhat contained the 
+recent implementation interchange fee caps the implementation fee caps back 
+late has already dampened banks fee income especially from credit card fees 
+which are now capped while the banks don specifically disclose levels 
+interchange fees their accounts many the names indicated that fee income fell 
+primarily because the new cap interchange the accounts for rbs 
+for instance interchange fees fell pbb given this structural shift 
+fees the sector already believe that while there are certainly risks further 
+erosion they will contained broader group context this supposes course that 
+the banks nothing inhibit the growth pisps 
+banks have launched their own payment solutions such pingit plus they are 
+collaborating with paym bid the front foot barclays launched its own 
+payment solution pingit our recent meeting with barclays cfo tushar morzaria 
+highlighted its determination invest the business especially the payments 
+area where believes has competitive advantage one third all payments are 
+processed barclays with very little upfront investment pingit handled over 
+payments the last year and rising paym similar solution which initiative 
+the payments council and operated vocalink which was until last year jointly 
+owned banks but then sold mastercard 
+sweden the banks have collaborated create swish mobile payment platform 
+that rapidly expanding into ecommerce payments the swedish banks and danske 
+created their own mobile payments platform some time ago called swish which enables 
+users make real time mobile payments one another data showed that 
+there were million users swish which half the swedish population swish 
+means payment has had meteoric rise over the last years with latest riksbank 
+survey data showing that payments are made using this method compared 
+according company figures almost trillion has been exchanged since 
+the platform inception the widespread use mobile and its easy use 
+functionality are key reasons for its rising importance the swedish payments 
+ecosystem all you need phone your bank login details and the recipient 
+telephone number and payments are free 
+exhibit swish usage rising significantly owing ease and 
+established relationship with the bank 
+has access 
+used the last month 
+exhibit half the swedish population now have downloaded 
+swish impressive feat given was set 
+has access 
+used last month 
+debit card 
+cash 
+online banking direct debit 
+swish 
+credit card 
+paper based 
+direct debit 
+source riksbank morgan stanley research 
+source company data morgan stanley research 
+what can the banks learn from pingit swish ahead 
+the next months will critical for banks strategies but they can take heart 
+from the successes apps such pingit paym and swish commonalities between 
+some the apps far nordics offers lessons for the future and how the banks 
+meet the challenge disruption collaboration will key for instance whether with 
+other banks the case swish and paym with fintech the case pingit given 
+the high degree client ownership banks are able influence their behaviour 
+well put together connected product will continue serve well without the need 
+explore other options top worth highlighting that world where cyber 
+security remains under constant threat the notion sharing information with untried 
+untested third party providers still somewhat taboo the banks need capitalise 
+this and utilise their balance sheet scale along with input from fintech develop 
+truly transformational banking product they are able achieve this they open the 
+door many other opportunities support and grow their revenue streams 
+but don expect significant change banking landscape january 
+without clarity the final rts don expect see step change offerings come 
+january whilst the apis will available with all regulation think the 
+devil the detail and such think that pisps and banks alike will wait for the 
+final standards plus course observe what others are doing the changes proposed 
+certainly signify transformational change ahead though the current detail proposed 
+presents some roadblocks being real force for change banking which for 
+now errs the favour the banks least the near term 
+key details 
+implementation underway but likely delayed 
+the european union payments services directive will have potentially 
+significant implications for acquirers processors banks card networks and merchants 
+operating the the final text was agreed the end but the legislation still 
+needs written into national law january however the history previous 
+payments regulations suggests the time from the agreement full implementation 
+likely greater than the official time table addition the technical and regulatory 
+standards are currently being finalised the european banking authority eba 
+exhibit timeline 
+source deloitte 
+open access for authorised parties bank data 
+will force banks release customer account data any party that 
+authorised the relevant regulatory authority and has permission the account 
+holder this data expected released via apis application programming 
+interfaces created the banks and which parties can connect apis are software 
+interfaces that provide standardised link portal into information contained back end 
+databases and systems banks will not allowed discriminate between authorised 
+parties they will also prevented from requiring contractual relationship with 
+the parties the aim create level playing field data access for both 
+incumbent and new potential payment service providers psps 
+also note that the european general data protection regulation gdpr will come 
+into force may giving consumers new rights over their data and introducing 
+significant fines this could some extent limit the benefits one the key 
+changes that consumers will have provide clear consent for sharing their data with 
+third parties and have the right withdraw consent believe this will mean 
+consumers will more focused which companies they share their data with and 
+highlight exhibit only banks are trusted the majority consumers 
+facilitate payments 
+new type regulated psp 
+opening bank data parties leads expand the types firms that will 
+regulated under the directive include payment initiation service providers pisp 
+pisps are institutions that initiate payments the instruction the account holder via 
+direct transfer from the account holder bank account the merchant payee what 
+differentiates pisps from normal bank transfers that these institutions not ever 
+hold the funds they simply provide the software link between customer bank 
+account and the merchant therefore pisps will share many similarities with current 
+direct transfer methods such sofort germany and ideal the netherlands the 
+exception here will that new pisps will not employ screen scrapping techniques 
+where the provider given unrestricted access bank account the user 
+contrast pisps will given limited access the details the bank account via api 
+the discretion the customer order facilitate the initiation payments 
+what would direct transfer payments system look like 
+the major change from card transaction pisp transfer that the roles the card 
+networks and acquirers would removed the traditional sense addition there will 
+number other changes where liability sits how authorisation occurs and the 
+roles the participants currently can only speculate the final details how 
+pisps will operate but given the current state the regulations think the most 
+likely scenario 
+liability issuing banks the bank that the customer holds account with will 
+continue take the liability for fraud responsibility for incorrect miss processed 
+transactions will then split between the issuing bank and the pisp depending who 
+committed the error the key unresolved issue who anyone will take the 
+acquiring risk the risk customers will demand money back from bankrupt merchants 
+may end that some pisps charge higher fees and cover acquiring risk and others are 
+cheaper but with less protection pisps will take liability for errors they will 
+required hold indemintiy insurance against such losses however the structure 
+these insurance contracts and their cost still largely unknown but likely play 
+important role the profitability these companies 
+roles who actually performs the functions pisp transaction very uncertain all 
+the major current payment service providers acquirers networks issuing banks 
+have characteristics that would make them good pisps banks currently own the 
+customer relationships acquirers own the merchant relationship and networks are 
+trusted and experts managing complex networks connections all these would 
+needed make pisp finally fintech companies are likely enter this space 
+seeking disintermediate the existing players therefore could see world which 
+issuing banks are reduced simply balance sheet they could expand into providing 
+end end payments ever payments building the network will the key for any 
+player 
+authentication the text states that the case fraud the payee the 
+merchant accepting the payment will liable does not accept strong 
+authentication equally the consumer will not liable for any losses their payment 
+service provider does not facilitate strong authentication depending the 
+interpretation this rule could imply all transactions will require higher level 
+authentication than currently the case the directive defines strong authentication 
+follow 
+strong customer authentication means authentication based the use two 
+more elements categorised knowledge something only the user knows possession 
+something only the user possesses and inherence something the user that are 
+independent that the breach one does not compromise the reliability the others 
+and designed such way protect the confidentiality the authentication 
+data article directive 
+particularly the online world simple authentication crucial for achieving the balance 
+between low fraud and high transaction completions direct transfers from someone 
+bank account end requiring substantially higher authentication than normal card 
+transactions this could represent meaningful barrier adoption however see 
+little reason why the new pisps only have restricted access there would necessarily 
+need this distinction would expect see set different transaction 
+thresholds each requiring different levels authentication have with contactless 
+cards today 
+what can learn from ideal and sofort 
+exhibit 
+source ideal 
+exhibit 
+source adyen 
+sofort and ideal highlight both the potential and issues with pisp system 
+clearly ideal and sofort giropay have seen success their domestic markets and 
+doing demonstrate the viability account account payment mechanisms these 
+pre cursors wide pisp system can also instructive number other 
+issues 
+liability ideal and sofort giropay are largely irreversible from when the transaction 
+authorised and not allow chargebacks providing consumers with much more limited 
+consumer protection than credit card this also true new pisp payments 
+believe could represent meaningful barrier adoption for consumers who are used 
+credit debit protections and chargebacks 
+commerce but not offline both sofort giropay and ideal are predominantly used 
+for online transactions believe this reflection the technological difficulty 
+account account systems would face tried move into the offline world 
+importance culture the netherlands and germany have historically seen much 
+more limited adoption cards than the nordic countries this made them fertile 
+ground for account account transfers for online payments think pisp success 
+likely rely heavily the markets they try enter and would caution that the 
+success sofort and ideal may well not accurate guide for heavily card 
+penetrated markets such the 
+addition surcharging visa and mastercard was also more prevalent germany 
+and the netherlands which helped drive adoption account account will ban 
+surcharging visa mastercard and doing may remove barrier card use and 
+lower demand for account account payments 
+four potential pisp worlds 
+acquirer driven 
+the major acquirers are currently the only players the payments networks have 
+close working relationships with large numbers merchants once bank connections 
+are open anyone think these merchant relationships that will become the 
+major source competitive advantage therefore see acquirers well placed 
+set the rails which pisp payment system would run illustrated exhibit 
+foresee acquirers adding the role aggregating bank connections currently done 
+the card networks acquirers traditional roles processor gateway terminal 
+provider and acquirer 
+this world would then expect variety new pisps including banks fintech etc 
+hook the new pisp infrastructure set the acquirer which would allow 
+them provide customers with direct transfer payment options once established 
+would very hard displace these acquirers just with the card networks today 
+exhibit split functions acquirer driven pisp world 
+source morgan stanley research 
+bank driven 
+banks currently hold the customer relationship issuing cards and holding customer 
+bank accounts importantly they are also already trusted hold customer details and 
+transaction data this means banks are well placed gain rapid consumer adoption 
+their pisp payment options however for bank succeed pisp world banks 
+would need build merchant relationships which likely prove difficult unless they 
+already have large acquiring business question also hangs over whether other 
+banks would willing use rival merchant network for their pisp option hindering 
+the development network 
+exhibit split functions bank driven pisp world 
+source morgan stanley research 
+fintech driven 
+tech companies take advantage open bank connections enter the payments space 
+fintech firms are faster adopters and provide superior customer experience which 
+helps them sign both merchants and customers take direct transfer payments 
+without the need protect their card based fees margins new entrants are willing 
+undercut the traditional players doing they disintermediate all the current 
+incumbents with the exception the customer banks who still maintain the accounts 
+exhibit split functions fintech driven pisp world 
+source morgan stanley research 
+network driven 
+networks currently hold dominant position the payments value chain thanks 
+their network issuing banks and acquirers with opening bank connections 
+think networks will need shift dealing directly with merchants and 
+customers they want keep their central position this would involve the card 
+networks essentially setting cardnetworkpay direct transfer options encouraging 
+merchants accept and customers adopt would expect the rest the card 
+infrastructure carried out parties the case today 
+however even successful there significant risk networks may end cannibalising 
+their existing high value card business with lower value direct payments 
+exhibit split functions network driven pisp world 
+source morgan stanley research 
+market overviews 
+france 
+terms card use banking concentration and ecommerce france around the middle 
+the major markets however one unique feature the french market the 
+existence the carte bancaire domestic card scheme which usually branded with 
+visa mastercard total branded cards account for ecommerce 
+transactions with member payment institutions the carte bancaire system could 
+make bank driven pisp system easier adopt than the initial statistics would suggest 
+exhibit banking concentration 
+exhibit card importance 
+france banking concentration 
+france card importance 
+top assets total assets 
+cards gdp 
+source morgan stanley research 
+source bank for international settlements 
+exhibit ecommerce importance 
+exhibit ecommerce spending payment method 
+france ecommerce importance 
+visa 
+paypal 
+amercian express 
+mastercard 
+carte bancaire cards 
+source adyen 
+ecommerce gdp 
+source worldpay 
+the has one the most consolidated banking markets europe the largest 
+ecommerce market and has the highest card use gdp believe this makes 
+the particularly exposed shift direct transfer payments occurs and will make 
+the shift relatively easy compared other more fragmented markets this 
+concern opportunity was likely one the reasons behind mastercard recent 
+acquisition vocalink the company running the real time account account payment 
+infrastructure the 
+exhibit banking concentration 
+exhibit card importance 
+banking concentration 
+card importance 
+top assets total assets 
+cards gdp 
+source morgan stanley research 
+source bank for international settlements 
+exhibit ecommerce importance 
+exhibit ecommerce spending payment method 
+ecommerce importance 
+visa 
+mastercard 
+paypal 
+american express 
+source adyen 
+ecommerce gdp 
+source worldpay 
+germany 
+contrast the and france the german ecommerce market not dominated 
+cards direct transfer based options such sepa direct debits giropay and sofort 
+already form large part the mix these popular options are already comparable 
+how pisp system would operate under there should not same threat 
+the card payment service providers other countries however for those seeking 
+implement pisp option germany likely relatively easy market gain 
+consumer traction 
+exhibit banking concentration 
+exhibit card importance 
+germany banking concentration 
+germany card importance 
+top assets total assets 
+source morgan stanley research 
+cards gdp 
+source bank for international settlements 
+exhibit ecommerce importance 
+exhibit ecommerce spending payment method 
+germany ecommerce importance 
+sepa direct debit 
+visa 
+american express 
+sofort giropay 
+paypal 
+open invoice 
+mastercard 
+source adyen 
+ecommerce gdp 
+source worldpay 
+morgan stanley acting financial advisor vantiv inc relation the proposed 
+acquisition worldpay group plc announced july morgan stanley may 
+receive fees for its financial services please refer the notes the end the report 
+morgan stanley international plc morgan stanley acting financial advisor 
+bidco limited jointly owned consortium funds managed blackstone and 
+funds managed and advised cvc relation the proposed acquisition paysafe 
+group plc bidco limited announced august morgan stanley may 
+receive fees for its financial services please refer the notes the end the report 
+disclosure section 
+morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the prudential 
+regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial services and 
+markets act research which has been prepared any its affiliates used this disclosure section morgan stanley includes rmb morgan 
+stanley proprietary limited morgan stanley international plc and its affiliates 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report james 
+faucette vasundhara govil joshua harris andrew humphrey danyal hussain cfa victoria irving alice timperley cfa adam wood 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+july morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research paysafe group plc worldpay group plc 
+within the last months morgan stanley managed managed public offering offering securities nets worldpay group plc 
+within the last months morgan stanley has received compensation for investment banking services from nets 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from ingenico nets 
+paysafe group plc wirecard worldline worldpay group plc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from nets wirecard 
+worldpay group plc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company ingenico nets paysafe group plc wirecard worldline worldpay group plc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company nets wirecard worldpay group plc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+july 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities ingenico nets 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage technology payments 
+company ticker 
+rating 
+price 
+dkr 
+adam wood 
+nets nets 
+worldline wln 
+worldpay group plc wpg 
+andrew humphrey 
+ingenico ingc 
+wirecard wdig 
+joshua harris 
+paysafe group plc pays 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

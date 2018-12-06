@@ -1,0 +1,1904 @@
+foundation 
+april gmt 
+asia primer 
+australia utilities clean energy 
+the australian utility industry global test case for disruption new 
+entrants new technologies and fluid market design this primer provides 
+overview the australian clean energy industry and our valuation framework 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions 
+communications with subject company public appearances and trading securities held research analyst account 
+foundation 
+asia primer 
+australia utilities clean energy 
+industry view 
+the australian utility industry global test case for 
+cautious 
+disruption new entrants new technologies and fluid 
+market design this primer provides overview the australian clean energy 
+industry and our valuation framework 
+wide range opportunities but investor focus highlycontracted large scale generation define clean energy 
+australian demand for electricity including updated last load 
+electric vehicle estimate 
+broadly including energy efficiency and enabling technologies 
+the plethora established and emerging electricity supply solu 
+storage metering and orchestration but note that the listed 
+tions and business models including storage hydrogen and 
+market currently focuses large scale generation where prefer 
+orchestrated distributed energy resources also update our 
+traditional dcf valuation estimates cross checked against 
+proprietary firming market analysis the potential extra invest 
+ebitda multiples allowing for different capital structures within 
+ment required firm intermittent renewable production 
+the industry and megawatt multiples replacement costs follow 
+energy policies noting that australia currently has agreed 
+global trends and there limited trade sale data for independent 
+target succeed the renewable energy target only 
+power producers ipps think investors will retain their tradi 
+economy wide emissions reduction target under australia paris 
+tional and somewhat binary appetite for merchant risk exposure 
+exposure volatile wholesale energy prices within the wider 
+infrastructure investment universe 
+convention commitment and 
+our valuation framework for contracted large scale generation 
+including solar farm case study 
+addressable long term market revenue pool 
+today prices catalysed incumbent retirements 
+throughout this report provide contrast between traditional 
+new entrant economics new technologies and carbonisation 
+industry perspectives and how think investors need adapt for 
+this primer seeks help investors size the market and gauge the 
+changing conditions 
+opportunities providing overview 
+contributors 
+foundation 
+morgan stanley australia limited 
+morgan stanley australia limited 
+rob koh 
+annika 
+equity analyst 
+equity analyst 
+rob koh morganstanley 
+annika morganstanley 
+contents 
+foundation 
+the story charts 
+executive summary 
+foggy demand for electricity 
+sticky supply electricity 
+fluid policies for energy 
+our valuation framework 
+appendix the national electricity market 
+nem 
+appendix estimated nem merit orders 
+appendix western australian grids 
+appendix comparables 
+appendix acronyms 
+appendix related research 
+foundation 
+the story charts 
+exhibit 
+exhibit 
+the last load could eventually add otherwise gradually decaying 
+onshore wind and solar construction costs continue decline 
+demand for electricity 
+line with global learning curves 
+sources australian energy market operator aemo world aluminium morgan stanley research 
+demand twh 
+sources government and company press releases energy change institute september origin 
+energy agl energy contract prices mwh 
+exhibit 
+exhibit 
+plant retirements and decarbonisation will the primary near term 
+further increasing demand for firming dispatchable solutions 
+catalysts for new renewables investment 
+balance variable demand with intermittent supply 
+sources aemo climate energy college morgan stanley research green wind orange large scale 
+solar minute dispatch from wind and solar 
+source aemo climate energy college morgan stanley research operational demand and dispatchable demand levels operational demand less intermittent generation for and ranked 
+from highest lowest 
+exhibit 
+exhibit 
+australia provides number support schemes for clean energy 
+prefer dcf valuations for projects with merchant tail assumptions 
+stemming from its paris convention commitment 
+remaining key investment thesis swing factor 
+sources acer morgan stanley research the renewable energy target ret twh amended since 
+source morgan stanley research example project cashflows 
+morgan stanley research 
+foundation 
+executive summary 
+disruption australia energy utility markets are 
+the forefront global industry trends 
+incumbents impacts 
+australian grids remain dominated large vertically integrated 
+australia wholesale energy prices and end user tariffs have doubled 
+players the top five providers the national electricity market 
+over the last decade due infrastructure costs network charges 
+nem service mass market customers and load 
+fuel costs price linkage regional energy markets and coal fired 
+served 
+power station retirements since the fleet 
+all incumbents are participating the transition various degrees 
+the combination high prices and multiple clean energy policies 
+through announced retirements exhibit and modest invest 
+saw over investment over that same period compared 
+ment future energy the two large vertically integrated utilities 
+for the and for the source bloomberg 
+cover agl and org source generation from thermal 
+new energy finance all which went into new forms generation 
+sources and from coal respectively only agl discloses 
+predominantly rooftop and large scale solar and onshore wind aus 
+small separate clean energy earnings segment associated with 
+tralian renewables penetration nationally and high 
+renewable energy target compliance 
+some grid regions hydro and fleet capacity utilisation 
+still falling while demand decays 
+generation valuation methodologies 
+the transition happening rapidly that some parts australia 
+while define clean energy broadly believe most the near 
+are over supply requiring curtailment and australia island 
+term listed market opportunity will full partially contracted 
+status can connect our neighbours means that australia 
+large scale generation where prefer dcf valuation view 
+current policy focus system reliability and security new 
+long term cashflows investors have historically put premium 
+investor debate around the demand for firming australia home 
+highly contracted revenue infrastructure style investments 
+the world largest grid connected chemical battery and there are 
+household battery products offer 
+with all independent power producer ipp valuations key swing 
+factor for investors will the proportion valuation resulting from 
+see other market globally with this combination prices 
+merchant prices forecasts future electricity pool prices which 
+transition and policy development 
+are notoriously volatile and subject disruption from new entrant 
+technologies especially the falling cost new renewables our 
+opportunity australia electricity market 
+will keep transforming 
+long term pool price forecasts are blend estimated short run 
+marginal cost srmc and long run marginal cost lrmc disruption tends occur where new entrant lrmc lower than incum 
+australia clean energy markets are dynamic and providers remain 
+bent srmc 
+fragmented with new entrant energy retailers source australian energy regulator community power projects source 
+other valuation factors include resource quality wind and sunlight 
+community power agency accredited solar installers 
+regimes technology australia typically importer estab 
+source clean energy council and estimate large scale 
+lished technologies counterparty quality ideally investment 
+producers and developers see exhibit for overview 
+grade utility and capital structure and settings use cashflow 
+support debt new project investment and distributions 
+foundation 
+foggy demand for electricity 
+the electricity demand outlook difficult predict with efficiency gains currently offsetting underlying growth 
+the sole source structural demand growth the electrification transport the last load 
+the changing shape demand drives demand for clean energy enabling technologies 
+traditional demand drivers 
+exhibit 
+nem demand state twh 
+like all developed economies australia electricity demand has historically been function economic growth notably for aluminium smelting and population growth offset energy 
+efficiency gains 
+currently gradual decay demand outweighs underlying growth 
+population over and gdp source abs 
+energy productivity growth running greater than 
+the last load evs 
+think that the electrification transport likely the only source 
+future structural growth electricity demand within the 
+industry demand for known the last load for this reason 
+using today distances travelled and energy requirements 
+estimate that were convert every australian internal combustion engine ice vehicle electric the incremental load would 
+the order current total demand 
+source aemo 
+exhibit 
+nem demand user segment twh 
+the australian energy market operator aemo currently uses last 
+load forecast based take rate 
+the take rate could rapid should there policy incentives 
+and business model shift fleets autonomous electric vehicles slow current new vehicle sales are current fleet source abs even new vehicle 
+sales were evs the fleet would take years replace 
+sources aemo world aluminium morgan stanley research 
+morgan stanley research 
+foundation 
+exhibit 
+nem relative daily operational demand 
+whose demand 
+grid off grid islanded most electricity supplied 
+end users delivered through transmission and 
+distribution networks grid sometimes simply poles 
+and wires 
+transmission networks transport the electricity high 
+voltages from generators large industrial users and 
+local distribution networks distribution networks 
+transport electricity lower voltages from points along 
+the transmission network most other end users 
+australian residential voltage 
+australia has four main grid systems the largest which 
+the national electricity market nem 
+off grid plants are said isolated islanded from 
+the grids often servicing remote facilities mines 
+communities and supplying australia total 
+electricity consumption 
+this report focuses primarily the nem 
+native operational demand native demand the 
+actual electricity used end user for gridconnected end user the electricity can supplied from 
+either traditional large scale generation via the grid 
+from located distributed energy resources der also 
+known behind the meter btm solutions non wires 
+alternatives nwa including rooftop solar 
+cogeneration the part the electricity supplied via the 
+grid called operational demand aemo and includes 
+grid line losses convention btm supplied energy 
+usually counted negative operational demand 
+all the demand charts this report show operational 
+demand 
+what looking the adjacent chart exhibit 
+helps analyse both seasonal and structural trends each 
+bar year and the top and bottom rows each bar 
+are sundays and saturdays allowing analysis workday 
+effects electricity demand lower weekends and 
+consecutive day effects household demand will 
+generally rise sharply after days hot cold 
+weather 
+sources aemo morgan stanley research green higher white lower 
+the shape demand 
+foundation 
+exhibit 
+summer and winter peak demand 
+nem electricity flows are managed instantaneous basis with 
+aemo balancing demand and supply within minute intervals this 
+market design function technology with meaningful economic way store electrons generated until recently 
+traditionally therefore total annual peak demand determines the 
+total grid and generation fleet capacity requirement because 
+demand can met there will blackouts and load shedding 
+which aemo calls unserved energy use 
+demand analysis also needs consider the shape electricity 
+demand finer time scales because the instantaneous requirement 
+for high reliability supply drives the order which aemo dispatches 
+source australian energy regulator aer 
+plants and this merit order determines the wholesale price electricity the pool price 
+exhibit 
+intra day demand the south australian duck curve 
+simple terms constant flat load can met cheap continuous supply process coal fired generation and variations 
+the flat load can met dispatchable supply processes gasfired generators 
+going more granular still the generation market also needs consider both demand variability the rate change demand and 
+demand predictability the most efficient system solution given 
+demand profile will function number factors including 
+relative fuel costs and response times ramp rates see box below 
+accordingly consider australian demand patterns across 
+number time scales including seasonal exhibit which 
+drives annual peak demand and also annual maintenance fuel and 
+sources aemo morgan stanley research 
+storage budgeting weekday workday and consecutive day 
+weather exhibit because coincident industrial demand and sus 
+video what duck curve anyway sep 
+tained extreme temperatures usually cause peak demand events 
+and iii intra day exhibit where negative demand from rooftop 
+solar reducing midday demand and increasing the rate evening 
+ramp 
+morgan stanley research 
+foundation 
+exhibit 
+peak shoulder demand 
+nsw load duration curve 
+peak demand reference the instant which 
+demand highest and measured megawatts 
+australia annual peak demand usually february 
+when cooling demand and industrial demand can coincide 
+daily peak demand typically between when 
+many workers return home disambiguation peak 
+regional reference pricing for asx energy futures 
+contracts refers est weekdays 
+reflecting approximate intra day peak period 
+shoulder periods are the intermediate periods between 
+minimum sometimes called baseload and peak demand 
+traditionally gross shoulder and peak demand 
+estimated using load duration curve exhibit 
+sources aemo morgan stanley research half hourly demand over ranked from highest lowest 
+exhibit 
+nsw quarterly mwh cap prices year forward 
+mwh 
+the system optimal response meeting peak and 
+shoulder demand needs take account number 
+technical and commercial factors within the generation 
+fleet especially ramp rates 
+coal fired generators have modest ability increase 
+and reduce production around optimal base level 
+production hour total 
+whereas gas turbines ocgt reciprocating can 
+typically fire nameplate capacity intra hour 
+basis hydro plants can typically respond intra minute 
+and modern chemical batteries can respond intra second 
+mwh caps rather than centrally plan the 
+optimal solution balance demand australia currently 
+uses financial market mechanism the cost meeting 
+peak demand can therefore inferred from cap futures 
+contract prices exhibit cap contracts provide the 
+buyer with cash settled call option struck 
+mwh fixed volume electricity over the contract 
+duration the mwh strike price historical 
+convention based the srmc diesel generation 
+over time cap prices should equate the capital cost 
+plants required meet demand variability historically 
+modelled off new ocgt plant 
+sources bloomberg asx energy morgan stanley research note the summer price seasonality 
+foundation 
+sticky supply electricity 
+think plant retirement and new greenhouse gas policy will the primary near term catalysts for new investment renewables 
+emerging investor debate around the requirement for firming accompany the new intermittent renewables 
+while large scale plant will remain the key opportunity der also likely increase over time our view 
+replacing the retiring plants 
+exhibit 
+nem generation fuel sources twh 
+traditionally australian electricity generation has been large scale 
+enterprise split into thermal burning coal gas liquid fuels 
+drive steam turbines and renewable using onshore wind biofuel 
+and waste drive turbines and solar panels harvest the photoelectric effect australia has river and dam hydro stations 
+but currently offshore wind nuclear geothermal installations 
+and only few pilot tidal projects 
+believe the primary driver for new generation capacity the transition away from thermal generation much which approaching 
+beyond original design life exhibit 
+until the nem was generally over supplied and operated 
+missing money footing pricing was driven down srmc with 
+sources aemo office the chief economist department industry innovation and science australian 
+energy statistics 
+allowance for capital recovery key risk for new entrant plants 
+that planned retirements not eventuate sticky supply leading 
+exhibit 
+return missing money pricing 
+nem planned coal fired generator retirements 
+one potential barrier exit for incumbent plants the financial cost 
+retirement often involving disposal asbestos and site rehabilitation including some open cut coal mines providing incentive 
+operate fully depreciated plants cashflow neutral settings for 
+long possible defer end life costs 
+policy intervention further exit risk the australian government has asked agl consider life extension sale its liddell 
+power station avoid potential energy shortfalls after the 
+planned closure 
+sources australian energy council company announcements morgan stanley research 
+morgan stanley research 
+foundation 
+mega what 
+and 
+capacity energy watt measure power 
+probability exceedance scenarios where large 
+joule per second volt ampere the 
+number input factors drive output variable analysts 
+capacity generate energy whereas watt hour 
+often consider probabilistic scenarios values for 
+measure energy generated used 
+power station the input factors include plant availability 
+hour typically work millions watts and 
+resource variability solar irradiance wind speeds 
+watt hours and mwh see exhibit 
+scheduled outages and grid constraints the output 
+for example average australian household might 
+variable the amount generation 
+consume energy each year and very small 
+for example estimate means that for 
+windfarm might have capacity turbines 
+the coming year estimate that the plant will generate 
+each operating the time 
+least all scenarios assuming 
+capacity factor 
+symmetrical distribution outcomes which typical 
+over the course year the wind farm can therefore 
+power generation can then use the production 
+expected generate hours 
+estimate within our base case 
+enough power homes reality 
+similarly and scenarios are common downside 
+the wind farm generation and household demand are 
+scenarios for example the same plant above might have 
+unlikely wholly coincident therefore prefer 
+estimate and meaning 
+not use homes powered measure energy 
+that output should exceed out years 
+output 
+and out years the distribution 
+mwac mwdc and mwp the nameplate maximum 
+values will ideally narrow the dataset increases 
+rated capacity generator typically given 
+plants with long operating histories with long 
+alternating current because most grids operate 
+resource history data least year wind data 
+basis however most renewable plants actually 
+the correct hub height will generally have tighter 
+produce direct current output which converted 
+distribution generation outcomes 
+into via inverter the capacity mwdc will 
+relevant project developers because mwdc goes 
+physical project sizing and construction cost whereas the 
+capacity mwac more interest investors 
+because mwac determines the revenue this report 
+you can assume means mwac unless otherwise 
+stated the ratio mwac mwdc output the 
+kilo mega giga terra peta 
+performance ratio sometimes quality factor for 
+prefix 
+solar plants typically depending equipment 
+kilo 
+mega 
+giga 
+terra 
+peta 
+used and site configuration 
+the capacity solar photovoltaic installations 
+often quoted megawatt peak mwp reflecting mwdc 
+under ideal conditions irradiance angle 
+actual output will likely lower 
+exhibit 
+source syst international unit 
+number 
+picking winners 
+foundation 
+exhibit 
+aemo required revenue estimates 
+the traditional approach evaluating new entrant power plant 
+economic viability compare the plant required revenue per 
+mwh output against forecast average selling prices using this 
+levelised cost energy lcoe see exhibit investors can broadly 
+generator 
+shoulder peak and intermittent plants 
+the lcoe approach most useful when evaluating fully con 
+renewable 
+tracted plant where creditworthy counterparty provides price 
+certainty for the plant under long term power purchase agreement 
+ppa see exhibit contract for difference cfd provided that 
+the ppa price exceeds the plant lcoe the plant likely 
+economic proposition 
+however plant design life say years for onshore wind and solar 
+farms typically exceeds ppa tenor short years the uncontracted portion the plant life known the merchant tail 
+emissions 
+intensity 
+lcoe 
+thermal 
+coal sub critical 
+coal hele 
+gas ccgt 
+gas ocgt 
+compare plants with different production profiles baseload 
+dispatchable 
+pumped hydro 
+onshore wind 
+solar 
+solar thermal 
+source aemo south australian fuel technology report march emissions intensity 
+mwh and lcoe mwh 
+exhibit 
+ppa price trends mwh 
+because the plant bears wholesale price merchant risk during 
+the uncontracted tail period the plant life 
+fully merchant plants off take are rarer australia view 
+the combined variability production and prices however some 
+developers adopt intermediate strategies including obtaining retail 
+licences become vertically integrated gentailer oversizing plants 
+contracts and partial and short term contracting with smaller 
+retailers and corporates 
+examine the relative economic merits contracted merchant 
+plants the valuation section below 
+sources government and company press releases energy change institute september origin 
+energy agl energy 
+morgan stanley research 
+foundation 
+wind farm onshore and offshore 
+solar farm and thermal 
+wind farm usually comprises set wind turbines 
+solar farms usually fall into two broad types solar 
+rotor nacelle tower footings and some additional back 
+plants which use the photoelectric effect generate 
+generation for reactive power control with 
+current and solar thermal plants which concentrate 
+monitoring equipment scada and grid 
+sunlight into heat 
+connection substation and cabling equipment other 
+solar panels currently employ monocrystalline 
+than the turbines referred balance plant bop 
+polycrystalline thin film technologies with different 
+onshore wind turbines are now typically sized 
+costs performance and degradation rates under different 
+each with towers blade diameters 
+solar irradiance regimes and temperature ranges 
+and able generate wind speeds 
+polycrystalline panels are typically configured 
+onshore wind turbines continue grow size and 
+cells panels measuring 
+productivity generation capacity function rotor 
+solar farm usually comprises array panels 
+sweep area with current capacity factors 
+either fixed mount automated tracking systems 
+and design lives years availability 
+follow the sun single axis tracking inverters and 
+australia currently has offshore wind farms which are 
+standard bop most solar farms australia are single 
+typically marine situated take advantage faster and 
+axis polycrystalline solar installations 
+more predictable wind regimes latest generation 
+australia currently has solar thermal plants but few 
+offshore turbines are proposed large 
+are development solar thermal technologies include 
+tall with rotor diameters and capacity 
+arrays mirrors parabolic troughs linear fresnel 
+tower and can potentially paired with thermal 
+storage molten salt 
+exhibit 
+exhibit 
+australia wind resource wind speeds above ground 
+australia solar resource direct normal irradiance 
+source australian government 
+source arena mapping infrastructure 
+foundation 
+exhibit 
+proposed renewable energy zones 
+source aemo integrated system plan consultation 
+morgan stanley research 
+foundation 
+exhibit 
+australia new entrant project pipeline 
+sources company and government announcements nodexl morgan stanley research circles announced projects and discs contracted and committed merchant projects green wind orange solar blue 
+storage purple other numbers are plant capacity black rectangles total new entrant build for each state territory 
+the demand for firming new debate 
+foundation 
+exhibit 
+load duration curves total demand dispatchable demand 
+wind and solar generation typically not dispatchable 
+demand being the mercy the intermittent resource see 
+exhibit and exhibit overleaf and given the magnitude 
+the new entrant pipeline exhibit the australian power 
+industry currently grappling with new question how much dispatchable generation also known firming capacity need 
+maintain reliability 
+the pace new entrant renewables will depend the incremental 
+demand for firming capacity 
+seeking answer this question first adapt traditional load 
+duration curve analysis subtracting intermittent generation from 
+operational demand arrive dispatchable demand shape estimate exhibit 
+also monitor intermittent generation penetration rates with 
+industry estimates suggesting that reliability issues may emerge 
+penetration rates more intermittent generation supplies 
+combined demand for victoria south australia and tasmania 
+traditionally new supply dispatchable power was seen gas turbines perhaps even coal fired plant should there sufficient 
+minimum gross demand 
+however now consider the merit order dispatchable power 
+solutions combination demand response especially 
+where demand curtailment comes low opportunity cost the 
+user supply portfolio optimisation noting that wind and solar 
+production has very low correlation see exhibit increased 
+interconnection between regions extension portfolio optimi 
+sources aemo climate energy college morgan stanley research dispatchable demand operational 
+demand less intermittent generation 
+sation new dispatchable plants gas fired ocgt reciprocating engines and storage solutions pumped hydro 
+chemical batteries and hydrogen 
+while can rank these firming solutions srmc and lrmc 
+lack the computational resource take account differing ramp 
+rates fuel source optimisation dispatching coal gas and 
+storage plants depending fuel cost differentials spark 
+spreads and value stacks chemical batteries may cover capital 
+costs ancillary service markets discussed the next section 
+morgan stanley research 
+exhibit 
+nem intermittent renewable generation minute dispatch 
+sources aemo climate energy college morgan stanley research green wind orange large scale solar 
+foundation 
+foundation 
+exhibit 
+nem intermittent renewable generation minute dispatch 
+sources aemo climate energy college morgan stanley research green wind orange large scale solar 
+morgan stanley research 
+exhibit 
+minute demand large solar and wind production correlation matrix 
+source aemo climate energy college morgan stanley research 
+exhibit 
+minute demand large solar and wind production correlation matrix 
+source aemo climate energy college morgan stanley research 
+foundation 
+alternative value streams ancillary services 
+foundation 
+exhibit 
+total fcas market revenues 
+while clean energy revenue models are predominantly linked generation energy the nem also features some ancillary service markets related system reliability and security see box below 
+most ancillary services are provided under rolling capacity contract 
+arrangements with the exception frequency control ancillary 
+services fcas exhibit which conjoined market the 
+nem the total fcas market worth and opportunities are often localised linked specific grid constraint 
+arbitrage the ouroboros problem 
+price arbitrage also potential revenue model for large scale 
+storage charging the battery when prices are low and dis 
+source aemo insights quarterly energy dynamics 
+charging when prices are high 
+exhibit 
+our current estimates suggest that such plant using only price arbi 
+daily pool price spreads mwh 
+trage would require daily pool price spread mwh generate sufficient investment return 
+with all arbitrage business models and noting the relatively small 
+size the nem also believe that such business model would 
+subject the ouroboros problem the act arbitraging price 
+spreads may cause the price spreads narrow and disappear 
+region 
+qld 
+nsw 
+vic 
+low 
+hours 
+high 
+hours 
+days 
+sources aemo morgan stanley research 
+however arbitrage and price impacts may nevertheless occur where 
+used part storage plant value stack put simply the battery 
+can earn adequate return ancillary services may opportunistically arbitrage prices regardless ouroboros 
+morgan stanley research 
+foundation 
+reliability 
+security 
+system reliability refers ensuring that there 
+system security refers ensuring that the power system 
+sufficient supply generation and demand response 
+operates within its technical parameters including 
+meet operational demand all times avoiding 
+alternating current frequency and voltage outside the 
+unserved energy use events many grids the excess 
+technical bounds and the system shuts down protect 
+supply over peak demand known the reserve 
+equipment but disrupting supply 
+capacity margin developers view low reserve capacity 
+frequency and inertia the nem frequency standard 
+margins signal invest new plant aemo prefers 
+within band the nem procures 
+focus use target incorporating 
+frequency regulation services via the frequency control 
+probabilistic estimate intermittent supply and other 
+ancillary services market exhibit where registered 
+factors 
+aemo participants bid provide energy raise lower 
+back aemo contracts annual back 
+the instantaneous system frequency fcas costs may 
+dispatchable providers generators and demand 
+billed causers risk for some renewable generators 
+response under the reliability and emergency reserve 
+furthermore the proportion the fleet providing 
+trader rert scheme aemo can call upon rert 
+synchronous generation declines wind and solar 
+providers times low reserve margin and the costs 
+generation typically asynchronous generating 
+the scheme are socialised across all energy users 
+current variable frequencies the rate change 
+proportionate usage aemo activated the rert 
+frequency inertia also changing meaning that the 
+november and january but had not previously 
+system requires additional services maintain security 
+used the scheme aemo has sought augment the rert 
+currently the aemc proposing that transmission 
+into flexible and readily available strategic reserve 
+network providers are best placed procure inertia 
+dispatchable providers 
+services synchronous condensers and socialise the 
+restart the event blackout system black 
+costs over all energy users 
+event aemo also calls upon designated black start 
+voltage and strength electric current requires voltage 
+generators generally thermal generators with onsite fuel 
+gradient flow and aemo currently manages nem 
+provide electricity restart the system these 
+voltage via reactive power reserves for day day 
+generators earn system restart ancillary services sras 
+imbalances slow response voltage control and network 
+payments for this capacity 
+service providers for larger disturbances fast response 
+voltage control the degree voltage stability despite 
+disturbances called system strength 
+the wider range solutions negawatts and enablers 
+foundation 
+exhibit 
+clean energy spectrum 
+while our analysis focuses primarily large scale generation the 
+clean energy industry covers wide range solutions and business 
+models exhibit that broadly group into negawatts which 
+reduce energy consumption efficiency and demand side management dsm and enablers which produce energy themselves but 
+facilitate clean energy take system efficiency storage 
+metering and orchestration 
+source morgan stanley research 
+efficiency reduction demand particularly peak demand conceptually equivalent cheap generation where users benefit 
+from cost savings using less energy solutions include stopping 
+unnecessary processes identified through audits building insulation heat pumps thermostat settings appliance and lighting 
+upgrades power factor correction devices and voltage control 
+number states and territories have energy efficiency schemes 
+notably the victorian energy efficiency target veet and the nse 
+energy savings scheme ess which are certificate based energy 
+retailer compliance schemes 
+demand side management where energy demand reductions are 
+controllable and sufficient magnitude turning off aluminium potline aggregating loads the solution conceptually equivalent dispatchable generator aemo market 
+participant categories now allow for aggregated generators and 
+loads aemo and arena are trailling demand response 
+pilot project the nem 
+morgan stanley research 
+foundation 
+storage storage solutions pumped hydro plants chemical 
+exhibit 
+batteries and hydrogen can viewed clean energy enabler 
+residential solar and battery payback period estimates years 
+smoothing intermittent renewable generation optimise 
+average selling prices and providing ancillary services required 
+due reduced synchronous generation number states are supporting installations chemical batteries see exhibit and 
+south australia early pilot stage trials for hydrogen production 
+for both fuel cell and gas grid injection 
+metering australia electricity distribution network remains predominantly metered accumulation meters quarterly read 
+cycles the exceptions are victoria which conducted mandatory 
+roll out digital meters during and many the 
+rooftop solar installations also have some digital ability meter 
+electricity flows for calculation fit payments digital metering 
+data available end users can used help reduce peak and 
+overall demand either behaviourally turning lights off structurally 
+timers systematically home energy management systems 
+hems digital meters also help reduce the cost connection and 
+disconnection improve the accuracy reads and billing and enabled may facilitate orchestration 
+orchestration once grid connected community embedded 
+network reaches critical mass der may possible orchestrate the der into virtual large scale facility sometimes called 
+virtual power plant vpp for example households with 
+rooftop solar installations can conceptually considered 
+generating unit large enough incorporate wholesale utility 
+trading portfolio provided that each installation can ordinated export the grid the same time those same households each have battery installations then the same 
+households can conceptually act battery large enough 
+for voltage control applications and reduce peak demand within 
+those households there will likely power importers and 
+exporters different times and software optimize flows 
+across the community will likely able reduce and smooth the 
+overall system load blockchain may efficient way register 
+the trades between households that portfolio 
+sources aemo energy made easy morgan stanley research models discounted flat block tariffs 
+against simple solar self consumption use case 
+foundation 
+exhibit 
+overview select australia clean energy participants 
+company 
+market cap 
+business model 
+maturity 
+installed capacity 
+development pipeline 
+ifn 
+pure play renewables developer australia 
+most recently moving into gentail 
+operational 
+new 
+investment fund with portfolio fully contracted solar plants the 
+operational 
+wnd 
+uses windscape technology identify and 
+develop sites 
+operational 
+cce 
+commercialisation ceto wave energy technology and energy made clean microgrid 
+developer 
+development 
+gnx 
+renewable generation and storage developer 
+pioneering new pumped hydro facilities 
+queensland 
+early stage operations 
+pow 
+commercialising wave solar and energy management services island users 
+development 
+hornsdale power reserve 
+unlisted 
+large scale lithium ion battery bank south 
+australia 
+operational 
+dow 
+engineering and construction firm providing 
+epc and services the renewables 
+industry 
+operational 
+power ledger 
+unlisted 
+commercialising blockchain energy trading development 
+application 
+redback 
+unlisted 
+commercialising der storage and orchestration software solution 
+reposit 
+unlisted 
+commercialising der btm orchestration soft early stage operaware solution 
+tions 
+greensync 
+unlisted 
+establishing demand side management 
+early stage operaexchange dex and providing demand manage tions 
+ment based network services 
+wattwatchers 
+unlisted 
+developed energy data hub using cloudearly stage operabased technology with data from wattwatchers tions 
+products 
+energymakeovers 
+unlisted 
+provides energy efficiency solutions 
+switching led light bulbs insulation solar 
+development 
+operational 
+sources thomson reuters company websites proportionate basis market capitalisations april 
+morgan stanley research 
+foundation 
+fluid policies for energy 
+australia policy for clean energy primarily stems from its paris convention commitment 
+the current policy proposal the national energy guarantee neg 
+historically australia has used wide range policy mechanisms support clean energy 
+range schemes solve the trilemma 
+australia greenhouse gas emissions 
+like most developed economies australia power system grapples 
+with trilemma variables security and reliability cost including 
+equity and environmental sustainability primarily emissions reduction with system security and costs dominating policy concerns 
+since australia currently debating the implementation the neg 
+energy security issues came the fore after south australian 
+black system event blackout september caused 
+australia ratified the kyoto protocol and has 
+pledged reduce emissions levels 
+including from electricity 
+measured under 
+australia greenhouse emissions information system 
+ageis with individual facility reporting under the 
+national greenhouse energy reporting scheme 
+ngers 
+combination reduced supply particularly synchronous supply 
+australia electricity sector currently emits 
+extreme storm damage transmission infrastructure unan 
+current total emissions 
+ticipated trips various power stations caused software fault 
+given the relative cost abatement exhibit the 
+that has since been patched interconnector trip and the 
+energy sector may need bear higher proportion 
+failure back plant due transmission trips 
+total abatement particularly transport abatement 
+achieved through electrification 
+energy affordability perennial australian concern with consumers seeing real price increases across australia since 
+exhibit owing rapid increases infrastructure costs par 
+exhibit 
+ticularly during energy costs particularly from 
+australia emissions sector 
+thermal retirements started and compliance scheme costs 
+the ret albeit the latter only small contributor the increases 
+being only the end user bill 
+the most recent price increases coincided with regulation retail 
+prices some major markets nsw queensland 
+the industry structure has also evolved over this period with additional privatisation particularly nsw and vertical integration 
+the accc currently undertaking inquiry into prices and supply 
+source ageis 
+electricity and gas 
+exhibit 
+australia marginal abatement cost curve macc 
+source energetics may 
+foundation 
+exhibit 
+retail energy price indices inflation adjusted 
+sources aer abs 
+morgan stanley research 
+foundation 
+provide summary current and historical australian schemes 
+supporting clean energy 
+grants established the main grant body for early stage projects and technology commercialisation the australian renewable 
+energy agency arena with funding the current 
+federal budget date arena has provided funding 
+projects arena grants are not mutually exclusive with other sup 
+australia renewable energy target 
+established australia federally mandated 
+renewable energy target ret requires that notional 
+electricity supplied australia comes from 
+accredited renewable sources previously 
+target 
+port mechanisms and often come with obligations for information 
+practice the target split with the small scale 
+sharing most states also have allocated funding support state 
+renewable energy scheme sres governing small scale 
+projects victoria renewable energy action plan 
+installations and the large scale renewable 
+south australia renewable technology fund and 
+energy target lret governing utility scale plants the 
+queensland powering north queensland plan 
+lret specified fixed gwh amount which increases 
+each year until after which the target remains flat 
+concessional finance established the clean energy 
+until when the scheme expires exhibit 
+finance corporation cefc has funding for concessional 
+the lret compliance scheme with liable entities 
+investment and lending low carbon and clean energy projects 
+energy retailers and select large users evidencing 
+the cefc target return over the year australia 
+compliance procuring number large scale 
+government bond rate and over for the clean 
+generation certificates lgcs based their energy 
+energy innovation fund date the cefc has provided 
+supplied and the annual renewable power percentage 
+funding for projects cefc funding not mutually exclusive with 
+rpp and then submitting those certificates the clean 
+other support mechanisms the cefc often works together with 
+energy regulator cer february each year 
+arena and generally has the aim filling market gaps catalyse 
+private capital market involvement longer tenor debt first 
+application proven technology australia local adaptation risk 
+the supply lgc meet liable entity demand comes 
+from accredited renewable plants the proportion 
+one lgc per mwh generated the market therefore 
+determines the price lgc exhibit 
+feed tariffs fit australia rooftop solar market has traditionally been catalysed state based fit schemes fit rates are now set 
+regulators victoria kwh via market competition 
+and nsw kwh and are paid households for exports 
+the grid net feed tariffs utilities pass fit scheme costs 
+exhibit 
+australia lret twhpa 
+the extent permitted market forces 
+combined with falling equipment costs and upfront subsidy under 
+the sres component the ret upfront certificates for the installation estimated lifetime production and previously benefitting from 
+solar multiplier australian rooftop solar remains significant 
+capacity across total installations and growing 
+exhibit 
+sources acer morgan stanley research 
+foundation 
+exhibit 
+australia rooftop solar installations 
+sources acer australia post google maps morgan stanley research 
+morgan stanley research 
+foundation 
+emissions trading scheme currently there price emis 
+compliance scheme far the most enduring and significant aus 
+sions but australia applied fixed price with 
+tralian policy supporting clean energy the ret see box above 
+view transitioning trading price with some fungibility with 
+originally enacted and most recently amended the 
+international carbon markets the clean energy future package was 
+ret induced the majority renewable installations australia 
+repealed after change government 
+date 
+reverse auction australia current carbon abatement primarily 
+the ret centralised registry for lgcs previously renewable 
+procured under the emissions reduction fund erf part the 
+energy certificates recs also acts the registry for number 
+direct action plan with the cer holding auctions date with 
+other renewables schemes notably voluntary state based renew 
+total funding requirement the erf awards year con 
+able powering desalination plants and the state based reverse 
+tracts successful bidders who employ approved abatement meth 
+auctions these non ret schemes are typically supplementary 
+odologies reduce emissions carbon capture storage ccs 
+additional the ret but may include some elements comple 
+landfill gas biogas energy efficiency and reforestation projects 
+mentarity project may able designate which scheme its 
+revealed abatement prices are 
+output goes 
+another part the direct action plan the safeguard mechanism 
+three notable structural features the ret are 
+which applies electricity sectoral baseline for aggregate emissions from generation facilities emitting 
+the ret registry mechanism allows for unlimited banking cer 
+exceeded facilities subject the safeguard mechanism revert 
+tificates vintage creation irrelevant year surrender 
+individual baselines with administrative penalties for non compli 
+limited borrow liable entity must pay non deductible lgc 
+ance 
+penalty cost for any surrender shortfall which can redeemed 
+within year make good period and fungibility with other 
+number australian states territories have also conducted 
+schemes the now abolished carbon price would have allowed 
+reverse auction schemes for renewables most notably the acts 
+compliance from international carbon schemes 
+feed tariff scheme for wind and solar generation the 
+revenue mechanism for successful projects cfd between the act 
+originally intended provide renewables falling 
+electricity distributor and the project providing the project with 
+demand from led projected percentage overshoot the 
+fixed nominal revenue stream for years the similar victorian 
+gwh target was reduced ret based investment practically ceased 
+renewable energy auction scheme vreas the early stages 
+over amidst the debate reduce even abolish the ret 
+procuring new wind and solar generation victoria 
+which has contributed the current acceleration renewables 
+activity exhibit 
+exhibit 
+structured retailer procurement obligation most liable enti 
+state renewable energy targets 
+state 
+victoria 
+new south wales 
+queensland 
+south australia 
+tasmania 
+australian capital territory 
+source government websites 
+target 
+date 
+ties may need accept degree tenor mismatch between ppas 
+typically years residential loads consumers are free 
+switch retailer any time and commercial and industrial loads 
+businesses typically contract for year periods most large liable 
+entities have chosen contract all residential load but not all 
+load potentially leaving the ret structural shortfall position 
+given the low investor appetite accept merchant generation risk 
+foundation 
+the national energy guarantee neg 
+other policy issues 
+the current policy proposal succeed the ret the neg retailer 
+grids currently the renewable project must negotiate grid con 
+compliance scheme for both reliability and emissions proposed 
+nection usually with incumbent regulated utility monopoly and 
+the newly formed energy security board esb the proposal cur 
+cover the capital costs the connection from power and lgc reve 
+rently consultation and evaluation 
+nues current policy proposals contemplate the creation transmission connections renewable energy zones rez exhibit 
+the key elements the policy are 
+open favourable resource areas 
+the reliability guarantee starting requiring retailers 
+areas high intermittent generation aemo may also need cur 
+contract sufficient generation meet peak load supplied most 
+tail some generators maintain system strength south aus 
+likely post basis actual loads avoid gaming fore 
+tralia aemo may curtail wind generation above should 
+casts over build due forecast conservatism but allowing for 
+there insufficient gas fired generation units available 
+reasonable margin error mitigate compliance costs smaller 
+retailers and 
+marginal loss factors mlf currently the nem attempts 
+encourage efficient locational investment generation applying 
+the emissions guarantee starting requiring retailers 
+loss factors sent out generation depending grid conges 
+demonstrate overall emissions intensity for electricity supplied 
+tion the connection points either transmission distribution 
+consistent with national emissions reduction pathway and target 
+level new generator connecting unconstrained part 
+budget which yet agreed 
+the transmission network may see its output multiplied transmission loss factor tlf whereas new generator joining 
+exhibit 
+crowded area distribution network may suffer from distribu 
+carbon intensity generation 
+tion loss factor dlf aemo reviews mlfs annually 
+generation type 
+brown coal sub critical 
+black coal sub critical 
+brown coal ultra super critical 
+black coal ultra super critical 
+gas ccgt 
+gas ocgt 
+gas reciprocating 
+diesel 
+mwh 
+planning and environmental approvals construction any infrastructure australia needs comply with strict local state and 
+federal planning laws including the environment protection and biodiversity conservation act epbc act which requires measurement biodiversity baselines and potentially creation 
+biodiversity offsets for losses during construction and operation 
+turbine blades may impact winged fauna other state based 
+acts place specific requirements wind farms including height set 
+sources aemo acil allen 
+back minimum zones and acoustic restrictions best 
+practice for extensive community engagement and payments 
+impacted and adjacent land owners many states have appointed 
+renewable energy advocates encourage best practice and assist 
+project sponsors through the various approval processes 
+morgan stanley research 
+foundation 
+our valuation framework 
+prefer dcf for large scale contracted generation cross checked against ebitda and multiples and relative yields 
+believe investor appetite will remain somewhat binary between contracted and merchant revenue profiles 
+think appetite for new technology plays remains niche 
+infrastructure 
+exhibit 
+modelling renewable plant cashflow waterfall 
+dcf our preferred valuation methodology for large scale genera 
+item 
+tion assets with long term contracted output view the relative 
+predictability future cashflows and comparability across regu 
+drivers 
+comment 
+production gwh 
+consider base case 
+including adjustments for 
+loss factors required 
+ppa price may cover energy 
+revenue 
+lated utility and infrastructure stocks comparison irrs and 
+relative yields 
+average selling price 
+mwh 
+after constructing simple cashflow model exhibit would 
+also consider sensitivities and scenarios around 
+bull and bear production estimates 
+opex 
+key prices average realised pool certificate prices sometimes referred the black and green revenues respectively particularly for the merchant tail assumptions 
+tax 
+tax rates and for maintenance capex items 
+debt levels and interest rates see debt sizing analysis below 
+discount rates discounting the fcfe estimates using standard capm estimate for for highly contracted project might 
+consider using risk free rate estimates match the asset duration 
+and year bond yields for year asset 
+capex 
+maintenance contracts 
+payments landowners 
+tax depreciation lives 
+are typically 
+years plant lives 
+years 
+key part replacement 
+and site rehabilitation 
+and certificate revenue 
+streams may escalate with 
+cpi and then followed 
+merchant tail assumptions 
+typically fixed nature with 
+cpi escalation 
+the assets holding entity 
+may employ stapled trust 
+structures 
+usually function site area 
+and plant capacity 
+cash flow available for debt service cfads 
+finance 
+costs 
+interest and principal 
+see debt sizing analysis 
+below 
+cash flow available equity cfae fcfe 
+would generally also consider these metrics help gauge potential equity outcomes 
+simple project payback ideally within the ppa tenor 
+break even merchant tail prices and the percentage the dcf cov 
+source morgan stanley research 
+exhibit 
+generic solar plant cashflows 
+ered contract revenues 
+cross check against comparable relative yields ebitda multiples and multiples replacement costs follow global trends 
+and are currently for wind and 
+for solar 
+source morgan stanley research 
+what should assume for the merchant tail 
+foundation 
+exhibit 
+thermal srmc estimation methodology 
+perhaps the most asked and worst answered question utility 
+investing what investors should assume for long term pool prices 
+generator 
+the near term years tend rely publicly observable 
+forward markets asx energy futures contracts but for the long 
+the nem energy only market payments for capacity with 
+coal 
+gas ccgt 
+gas ocgt 
+diesel cap 
+prices set minute supply and demand nominations the nem 
+low scenario 
+term need consider market design and technological changes 
+fuel 
+cost 
+heat 
+rate 
+srmc 
+price 
+setting 
+mwh 
+mwh 
+mwh 
+mwh 
+was designed using classical economic short run and long run time 
+frames mind assuming competitive market where supply 
+capacity sufficient meet demand generators should compete 
+the pool price down srmc predominantly set coal and gas generators depending the load shape but when there reserve 
+margin shortfall competition reduces the price should rise 
+coal 
+gas ccgt 
+gas ocgt 
+diesel cap 
+medium scenario 
+mwh 
+the lrmc the cheapest new entrant known the revealed new 
+entrant price theoretically therefore long term merchant tail price 
+scenarios should fall within srmc and lrmc estimates 
+traditionally our simplified approach estimating srmc con 
+coal 
+gas ccgt 
+gas ocgt 
+diesel cap 
+high scenario 
+mwh 
+sider price setting fuels heat rates and price setting dispatch 
+weightings exhibit which attributes most pool price variability 
+source morgan stanley research note dispatch weighted price setting methodologies assume there 
+meaningful storage the system 
+switching between coal and gas fired price setting plants 
+coal gas shift would currently increase prices 
+estimating lrmc considerably more challenging and subjective 
+but proxy data points include observed ppa prices exhibit and 
+adjustment for time day 
+production 
+industry lcoe estimates exhibit 
+having arrived plausible merchant pricing assumptions 
+traditionally the cheapest new entrant plant would have been 
+investors may wish further modify their average selling 
+ultra supercritical coal fired plant however given the possibility 
+price path for the times day which the plants 
+future carbonisation policies the next best new entrant might 
+produce more average 
+gas fired ccgt plant 
+because both rooftop and large scale solar installations 
+all generate power the same time anticipate that 
+the context globally falling costs for renewables the nem new 
+average sunlight hour prices may depressed relative 
+entrant plant could now considered portfolio wind 
+average prices regions high solar penetration 
+solar and firming plant and extrapolating the lowest oecd 
+exhibit exhibit show this emerging trend over 
+observed prices subsidies suggests range mwh 
+time 
+wind farm production often coincident particularly 
+south eastern australia but typically lowly correlated 
+with solar exhibit might therefore expect 
+average wind farm selling prices regions with high wind 
+penetration also depressed relative the average 
+morgan stanley research 
+exhibit 
+nem pool prices mwh 
+sources aemo morgan stanley research trended prices with carbon price impact removed the fixed carbon price during and during 
+exhibit 
+lgc prices mwh 
+sources mercari bloomberg tfs anz 
+foundation 
+foundation 
+exhibit 
+exhibit 
+qld pool prices time day mwh 
+nsw pool prices time day mwh 
+sources aemo morgan stanley research 
+sources aemo morgan stanley research 
+exhibit 
+exhibit 
+vic pool prices time day mwh 
+pool prices time day mwh 
+sources aemo morgan stanley research 
+sources aemo morgan stanley research 
+morgan stanley research 
+foundation 
+what justifies premium discount 
+debt sizing and capital structure 
+broad terms energy infrastructure companies ratebase utilities regulated poles and wires businesses with transparent 
+allowance mechanism generate returns have historically traded 
+average ebitda multiple and ipps have traded 
+discount view merchant risk and within wide rate 
+view the larger number business model variables 
+fully contracted renewable plants can typically support 
+large proportions debt financing much for 
+government off take projects equity investors may also 
+value the presence material debt facilities taking 
+comfort from financier due diligence disciplines 
+standard project financing metrics for australian 
+many specialist infrastructure investor mandates also incorporate 
+contracted renewables typically allow gearing 
+merchant risk preliminary screening metric and anticipate 
+output 
+material drop investor appetite where more revenue 
+minimum debt service coverage ratios dscr for 
+valuation comes from merchant revenues for many investors 
+and contracted and merchant scenarios 
+merchant tail risk binary issue 
+during the off take period the project may support 
+dscr and and during the merchant 
+other valuation factors that may look incorporate include 
+tail the project may require dscr and 
+based professional forecaster model 
+resource quality australia has excellent wind exhibit and 
+solar exhibit resources and project sponsors will typically 
+have prepared and forecasts which will narrow over 
+time with more data 
+technology australia typically importer established technology technology risk typically low some adaptation risk for 
+local conditions however novel configurations pumped hydro 
+may attract risk premium until proven 
+contract counterparty off take arrangements take many forms 
+ranging from full long term contracting with highly rated government entity year cfd under act wind auctions partial 
+medium term contracts with smaller energy retailers corporates 
+and 
+capital structure settings believe investors will value prudent 
+use debt see adjacent box and high pay out ratios provided distributions are covered operating cashflows similar the infrastructure stocks our coverage 
+would typically look incorporate these factors our discount 
+rate and the multiples apply relative relevant comparative 
+and trade sale data 
+notional amortisation debt within reasonable 
+period years for year design life while many 
+projects access long tenor financing from export credit 
+agencies eca the cefc australia mini perm debt 
+capital market does not typically provide full year debt 
+financing seen many markets accordingly lenders 
+and investors need consider refinancing scenario 
+assumptions beyond years for bank loan facilities 
+where project partially contracted and the offtake unusual lower credit quality shorter tenor 
+step down optionality then the supportable gearing will 
+also lower 
+how value vertically the incumbent integrated 
+utilities 
+foundation 
+exhibit 
+agl ebitda trading history 
+vertically integrated utilities sometimes called gentailers contraction generator and retailer can adopt number configurations resulting long short position electricity and gas 
+for example agl generates from its owned 
+and contracted plants and supplies customers retails with 
+under long term off takes agl said 
+net long which agl sells the pool agl earnings are 
+strongly linked average wholesale pool prices 
+org owns interest australia pacific lng aplng train 
+export lng facility queensland under long term contract sin 
+sources factset ibes consensus estimates company announcements morgan stanley research 
+opec and kansai electric the aplng project produces basis selling under export and domestic 
+contracts and selling the remainder into shorter term markets org 
+exhibit 
+org ebitda trading history 
+gas division earnings are strongly linked brent oil prices which 
+drive regional gas prices 
+for both companies analyse retail earnings using conventional 
+approach based customer numbers customer volumes average 
+selling prices and cost serve 
+value each visible part the companies using combination 
+techniques reflect the configurations use dcf where 
+long term contracts provide cashflow visibility and use industry 
+multiples for merchant earnings then combine into sum ofthe parts sotp 
+cross check our sotp valuations against standard valuation met 
+sources factset ibes consensus estimates company announcements morgan stanley research 
+rics peg ratio ebit and ebitda stay business 
+capex and industry yardsticks customer and 
+morgan stanley research 
+what about new entrant business models and technologies 
+foundation 
+exhibit 
+new product adoption curves 
+the clean energy industry encompasses wide range technologies 
+and business models exhibit and this report hopefully provides some starting points for estimating addressable markets key 
+moving parts and key debates 
+when assessing new entrant clean energy earnings and cashflows 
+look for standard market disruption markers including low 
+incumbent capacity utilisation grids and incumbent peak power 
+plants established new technology learnings curves particularly 
+storage cost reductions new monetisation channels flexible 
+electrolysers virtuous circles death spirals where users 
+leave the grid the cost socialisation mechanism increases costs for 
+those still the grid raising the incentive for them leave and 
+customer search and transfer costs incumbent vertical integrated utility companies still rely heavily customer inertia 
+when valuing new entrant clean energy businesses anticipate 
+using valuation techniques borrowed from the technology and small 
+cap sectors including sales and fcf taking account 
+accounting treatment outgoings well standard 
+multiples and peg ratios comparable stocks exist 
+source the pace technology adoption speeding mcgrath november harvard 
+business review 
+foundation 
+appendix the national electricity market 
+nem 
+the longest interconnected electricity system the world the nem 
+nem generators must registered with aemo and retailers must 
+provides residential and business electricity 
+licensed the aer but markets are contestable and competitive 
+users south australia victoria vic tasmania tas new 
+wholesale prices are set the market and customers are free 
+south wales nsw the australian capital territory act and 
+change retailer retail prices are regulated most nem states 
+southeast queensland qld via transmission lines 
+this time but there are requirements publish generally available 
+standing offers and notify customers expiring discounts 
+exhibit 
+demand and prices across nem 
+market participants are combination government owned privately owned and listed companies the trend towards privatisation 
+and regulation started the mid victoria and south australia 
+there are separate grids the south west region western 
+australia the northern territory and numerous islanded grids 
+around the country 
+renewable energy across all these grids incentivised via marketbased renewable energy target ret which currently targets 
+from large scale wind farms solar farms and notional 
+from small scale sources rooftop solar 
+source aemo 
+there are also renewables and energy efficiency incentive schemes 
+most states most notably the victorian renewable energy auctotal nem generation capacity and generation 
+tion scheme and the queensland renewables pro 
+from coal fired power gas hydro wind and the 
+gramme renewables with storage 
+remainder from biofuels and rooftop solar wholesale electricity 
+prices are set via competitive half hourly energy only bidding 
+market known the pool operated aemo with regulated minimum price mwh and maximum price mwh 
+from july supplemented futures and over the counter 
+contract markets market participants are increasingly using forward 
+prices anchor retail supply costs 
+morgan stanley research 
+foundation 
+appendix estimated nem merit orders 
+the merit order ranking each plant srmc region supply curve show normalised operations and maintenance costs 
+blue and fuel costs current coal and gas prices yellow then plot average demand levels green indicate the average 
+price setting plant where supply meets average demand and the absence meaningful energy storage plot peak demand 
+levels pink indicate the peak price setting plant efficient market the approximate average clearing price the weighted 
+average the price setting plant srmcs 
+exhibit 
+exhibit 
+queensland 
+new south wales 
+sources acil allen aemo morgan stanley research 
+sources acil allen aemo morgan stanley research 
+exhibit 
+exhibit 
+south australia 
+victoria 
+sources acil allen aemo morgan stanley research 
+sources acil allen aemo morgan stanley research 
+foundation 
+appendix western australian grids 
+the south west interconnected system swis the major inter 
+total wem capacity and generation from coal fired 
+connected electricity system western australia the whole 
+power gas wind with the remainder from biofuels and 
+sale electricity market wem supplies the swis 
+solar wholesale prices for non contracted volumes are set the 
+residential and small business commercial industrial 
+short term energy market stem half hourly basis and gen 
+and large load users the swis 
+erators also receive capacity payments under the reserve capacity 
+extends from albany the south kalbarri the north and kal 
+price rcp mechanism administered aemo 
+goorlie the east via transmission lines 
+wem generators must registered and swis retailers 
+the north west interconnected system nwis the electricity 
+must licensed with aemo all swis retail markets are contest 
+system for the pilbara iron ore mining region supplying resi 
+able except for residential retail electricity which supplied gov 
+dential small business and large load customers also has 
+ernment owned synergy synergy not permitted compete for 
+numerous islanded and regional power systems the nwis and other 
+residential gas supply under the gas market morato 
+regional power systems are predominantly managed state owed 
+rium 
+vertically integrated horizon power but the market open new 
+entrants 
+retail price increases above cpi require state energy minister 
+approval the government uses swis retail revenues collected 
+exhibit 
+state owned integrated utility synergy collect subsidy for 
+western australian market 
+horizon power the tariff equalisation contribution tec and synergy receives annual subsidy the tariff adjustment payment 
+tap from general revenue subsidise retail electricity prices 
+the tap was and the government budget forward estimates allow for residential price increases until 
+part reduce the tap going into frc scheduled for july 
+the government currently the process implementing 
+series electricity market reforms including converting the 
+wem into constrained access nem like market july 
+opening gas and electricity full retail contestability frc 
+july but likely deferred and converting the brcp price 
+source economic regulation authority 
+morgan stanley research 
+setting process into auction based system july 
+appendix comparables 
+exhibit 
+comparable global ipp multiples 
+sources thomson reuters morgan stanley research grey text denotes stocks not covered morgan stanley prices april 
+foundation 
+foundation 
+exhibit 
+australia renewables trade sale data 
+sources company reports media releases morgan stanley research estimates 
+morgan stanley research 
+foundation 
+appendix acronyms 
+abs 
+accc 
+aemc 
+aemo 
+aer 
+ageis 
+aplng 
+aremi 
+arena 
+asx 
+bop 
+proven and probable reserves 
+australian bureau statistics 
+alternating current 
+australian competition consumer commission 
+australian energy market commission 
+australian energy market operator 
+australian energy regulator 
+australian greenhouse emissions information system 
+australia pacific lng 
+australian renewable energy mapping infrastructure 
+australian renewable energy agency 
+australian securities exchange 
+balance plant 
+lgc 
+lng 
+lret 
+lrmc 
+mlf 
+mwac 
+mwdc 
+mwh 
+mwp 
+neg 
+nem 
+large scale generation certificate 
+liquified natural gas 
+large scale renewable energy target 
+long run marginal cost 
+megajoule 
+marginal loss factor 
+megawatt 
+megawatt alternating current 
+megawatt direct current 
+megawatt hour 
+megawatt peak 
+national energy guarantee 
+national electricity market 
+btm 
+ccgt 
+ccs 
+cefc 
+cer 
+cfd 
+coag 
+der 
+dlf 
+dscr 
+dsm 
+eca 
+epbc 
+erf 
+esb 
+esc 
+ess 
+fcas 
+fit 
+gwh 
+hele 
+hems 
+ice 
+ipp 
+isp 
+kwh 
+lceo 
+behind the meter 
+combined cycle gas turbine 
+carbon capture storage 
+clean energy finance corporation 
+clean energy regulator 
+contract for difference 
+council australian governments 
+direct current 
+distributed energy resources 
+distribution loss factor 
+debt service coverage ratio 
+demand side management 
+export credit agency 
+environment protection biodiversity act 
+emissions reduction fund 
+energy security board 
+energy saving certificate 
+energy savings scheme 
+electric vehicle 
+frequency control ancillary services 
+feed tariff 
+gigawatt 
+gigawatt hour 
+high efficiency low emissions 
+home energy management system 
+hertz 
+internal combustion engine 
+independent power producer 
+integrated system plan 
+kilowatt 
+kilowatt hour 
+levelised cost energy 
+ngers 
+nwa 
+nwis 
+ocgt 
+ppa 
+rec 
+rert 
+ret 
+rez 
+rpp 
+scada 
+sotp 
+sras 
+sres 
+srmc 
+stc 
+stp 
+swis 
+tlf 
+twh 
+use 
+vreas 
+veec 
+veet 
+wem 
+national greenhouse energy reporting scheme 
+non wires alternatives 
+north west interconnected system 
+open cycle gas turbine 
+probability exceedance 
+probability exceedance 
+probability exceedance 
+power purchase agreement 
+petajoule 
+photovoltaic 
+renewable energy certificate 
+reliability emergency reserve trader 
+renewable energy target 
+renewable energy zones 
+renewable power percentage 
+supervisory control and data acquisition 
+sum the parts 
+system restart ancillary services 
+small scale renewable energy scheme 
+short run marginal cost 
+small scale technology certificate 
+small scale technology percentage 
+south west interconnected system 
+metric tonne carbon dioxide equivalent 
+transmission loss factor 
+terawatt hour 
+unserved energy 
+volts 
+victorian renewable energy auction scheme 
+victorian energy efficiency certificate 
+victorian energy efficiency target 
+wholesale electricity market 
+foundation 
+appendix related research 
+reports 
+videos 
+australia integrated utilities 
+australia integrated utilities 
+the potential difference mar 
+org taking nothing for granted feb 
+agl consider the alternatives feb 
+this how rolr oct 
+csg gsg for gpg not lng under the adgsm sep 
+nem sep 
+rert but not alarmed sep 
+shocked the power bill jul 
+retail the detail mar 
+eight things ponder dec 
+don too negative nov 
+what matters most investors jun 
+one household energy consumption may 
+into the pool apr 
+solar batteries jun 
+our electricity demand chart feb 
+renewables batteries jun 
+iconic expansion mar 
+making great again mar 
+hele good bad for stocks feb 
+solar batteries jun 
+household solar batteries may 
+australia clean energy jul 
+household solar batteries jun 
+deeper dive into the pool victoria mar 
+more detail pool price forecasts dec 
+global utilities 
+what cheap clean energy means for global utilities jul 
+energy storage underappreciated disruptor feb 
+global solar navigating oversupplied market aug 
+morgan stanley research 
+foundation 
+disclosure section 
+the information and opinions morgan stanley research were prepared are disseminated morgan stanley asia limited which accepts the responsibility for its contents and morgan 
+stanley asia singapore pte registration number and morgan stanley asia singapore securities pte ltd registration number regulated the monetary 
+authority singapore which accepts legal responsibility for its contents and should contacted with respect any matters arising from connection with morgan stanley research 
+and morgan stanley taiwan limited and morgan stanley international plc seoul branch and morgan stanley australia limited holder australian financial 
+services license which accepts responsibility for its contents and morgan stanley wealth management australia pty ltd holder australian financial 
+services license which accepts responsibility for its contents and morgan stanley india company private limited regulated the securities and exchange board india sebi 
+and holder licenses research analyst sebi registration stock broker bse registration and nse registration inb merchant 
+banker sebi registration and depository participant with national securities depository limited sebi registration nsdl which accepts the responsibility for its contents and should contacted with respect any matters arising from connection with morgan stanley research and morgan stanley sekuritas indonesia and 
+their affiliates collectively morgan stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan stanley research disclosure website 
+morganstanley researchdisclosures contact your investment representative morgan stanley research broadway attention research management new york 
+usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client support team follows canada 
+hong kong latin america london singapore sydney tokyo 
+alternatively you may contact your investment representative morgan stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they have not received and will not 
+receive direct indirect compensation exchange for expressing specific recommendations views this report rob koh annika 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+march morgan stanley beneficially owned more class common equity securities the following companies covered morgan stanley research macquarie atlas 
+roads origin energy ltd spark infrastructure 
+within the last months morgan stanley managed managed public offering offering securities ausnet services new energy solar ltd transurban group 
+within the last months morgan stanley has received compensation for investment banking services from ausnet services new energy solar ltd transurban group 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from agl energy ltd apa group auckland international airport 
+ltd aurizon holdings ausnet services origin energy ltd qube holdings spark infrastructure sydney airport transurban group 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from agl energy ltd ausnet services origin energy 
+ltd transurban group 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with the following company agl energy 
+ltd apa group auckland international airport ltd aurizon holdings ausnet services new energy solar ltd origin energy ltd qube holdings spark infrastructure sydney airport transurban group 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has entered into agreement provide 
+services has client relationship with the following company agl energy ltd apa group ausnet services origin energy ltd transurban group 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality 
+research investor client feedback stock picking competitive factors firm revenues and overall investment banking revenues equity research analysts strategists compensation not 
+linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing liquidity fund management 
+commercial banking extension credit investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered 
+morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed this report morgan stanley trades may trade 
+principal the debt securities related derivatives that are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan stanley does not assign ratings buy 
+hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell investors should carefully read the definitions all 
+foundation 
+ratings used morgan stanley research addition since morgan stanley research contains more complete information concerning the analyst views investors should carefully read morgan 
+stanley research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+march 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our ratings overweight equal weight 
+not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell but represent recommended relative weightings see definitions below satisfy regulatory requirements correspond overweight our most positive stock rating 
+with buy recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating category 
+other material investment services clients 
+investment banking clients ibc 
+misc 
+count 
+total 
+count 
+total ibc 
+rating category 
+count 
+total other misc 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment banking compensation the 
+last months due rounding off decimals the percentages provided the total column may not add exactly percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe risk adjusted basis over the next 
+months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe risk adjusted basis over 
+the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe risk adjusted basis over the next 
+months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad market benchmark indicated 
+below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc morgan stanley any 
+their affiliates are available the morgan stanley wealth management disclosure website morganstanley online researchdisclosures for morgan stanley specific disclosures 
+you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the same person who reviews 
+the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based developments with the issuer the 
+sector the market that may have material impact the research views opinions stated therein addition certain research publications are intended updated regular periodic 
+morgan stanley research 
+foundation 
+basis weekly monthly quarterly annual and will ordinarily updated with that frequency unless the research analyst and research management determine that different publication 
+schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning section the 
+dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the recommendations views expressed 
+research the same stock this may the result differing time horizons methodologies market events other factors for all research available particular stock please contact 
+your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients certain but not all morgan 
+stanley research products are also made available clients through third party vendors redistributed clients through alternate electronic means convenience for access all 
+available morgan stanley research please contact your sales representative matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and using morgan stanley 
+research you are indicating that you have read and agree bound our terms use http morganstanley terms addition you consent morgan stanley processing 
+your personal data and using cookies accordance with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes 
+setting your preferences and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan stanley 
+processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances and objectives those 
+who receive morgan stanley recommends that investors independently evaluate particular investments and strategies and encourages investors seek the advice financial adviser 
+the appropriateness investment strategy will depend investor circumstances and objectives the securities instruments strategies discussed morgan stanley research 
+may not suitable for all investors and certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary because changes 
+interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational financial conditions companies other factors there 
+may time limitations the exercise options other rights securities instruments transactions past performance not necessarily guide future performance estimates future 
+performance are based assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject 
+company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based upon various factors 
+including quality accuracy and value research firm profitability revenues which include fixed income trading and capital markets profitability revenues client feedback and competitive 
+factors fixed income research analysts strategists economists compensation not linked investment banking capital markets transactions performed morgan stanley the 
+profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns more class 
+common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley may have investment less than securities instruments 
+derivatives securities instruments companies and may trade them ways different from those discussed morgan stanley research employees morgan stanley not involved 
+the preparation morgan stanley research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable comprehensive 
+information but make representation that accurate complete have obligation tell you when opinions information morgan stanley research change apart from 
+when intend discontinue equity research coverage subject company facts and views presented morgan stanley research have not been reviewed and may not reflect information 
+known professionals other morgan stanley business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company associated expenses unless 
+pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl 
+such information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research 
+may not distributed the public media quoted used the public media without the express written consent morgan stanley any non customer reader within the scope article 
+the taiwan stock exchange recommendation regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party 
+including but not limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create give the 
+appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments 
+certain information morgan stanley research was sourced employees the shanghai representative office morgan stanley asia limited for the use morgan stanley asia limited 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not constitute offer sell 
+the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest such securities and shall responsible for obtaining all relevant 
+approvals licenses verifications and registrations from the relevant governmental authorities themselves neither this report nor any part intended shall constitute provision 
+foundation 
+any consultancy advisory service securities investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa which regulated comision nacional 
+bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico city japan morgan stanley mufg securities ltd and for commodities 
+related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley 
+asia international limited hong kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte 
+ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should contacted with respect any 
+matters arising from connection with morgan stanley research and morgan stanley asia international limited singapore branch registration number australia 
+wholesale clients within the meaning the australian corporations act morgan stanley australia limited holder australian financial services license 
+which accepts responsibility for its contents australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management 
+australia pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan stanley international 
+plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas indonesia canada morgan stanley canada limited which has 
+approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the 
+spanish securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct applicable financial 
+research established under spanish regulations the morgan stanley llc which accepts responsibility for its contents morgan stanley international plc authorized 
+the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory authority disseminates the research that has prepared and approves 
+solely for the purposes section the financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited 
+member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan stanley research being disseminated 
+morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services authority the dfsa 
+and directed professional clients only defined the dfsa the financial products financial services which this research relates will only made available customer who 
+are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre regulatory authority 
+the qfcra and directed business customers and market counterparties only and not intended for retail customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment advisory activity investment 
+advisory service provided exclusively persons based their risk and income preferences the authorized firms comments and recommendations stated here are general nature these 
+opinions may not fit your financial status risk and return preferences for this reason make investment decision relying solely this information stated here may not bring about 
+outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties representations relating 
+the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating such data the global industry classification standard gics was 
+developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage australia utilities infrastructure 
+company ticker 
+rating 
+price 
+agl energy ltd agl 
+apa group apa 
+auckland international airport ltd aia 
+aurizon holdings azj 
+ausnet services ast 
+macquarie atlas roads mqa 
+origin energy ltd org 
+qube holdings qub 
+spark infrastructure ski 
+sydney airport syd 
+transurban group tcl 
+annika 
+new energy solar ltd new 
+rob koh 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+morgan stanley research 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

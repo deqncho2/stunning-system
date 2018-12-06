@@ -1,0 +1,2161 @@
+january gmt 
+accounting and valuation quantitative equity research 
+time fund new pension 
+dimensions post tax reform 
+collaborative deep dive find that pension underfunding hurts stock 
+price performance more than believed tax reform creates near term 
+opportunity boost funding and drive meaningful eps accretion assess 
+potential market impacts and identify stocks that may benefit 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions 
+communications with subject company public appearances and trading securities held research analyst account 
+contributors 
+morgan stanley llc 
+morgan stanley llc 
+snehaja mogre 
+brian hayes 
+equity strategist 
+quantitative analyst 
+snehaja mogre morganstanley 
+brian hayes morganstanley 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley llc 
+adam virgadamo cfa 
+todd castagno cfa cpa 
+adam richmond 
+equity strategist 
+equity strategist 
+strategist 
+adam virgadamo morganstanley 
+todd castagno morganstanley 
+adam richmond morganstanley 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley llc 
+vishwas patkar 
+elizabeth harrow 
+michelle weaver 
+strategist 
+quantitative analyst 
+equity strategist 
+vishwas patkar morganstanley 
+elizabeth harrow morganstanley 
+michelle weaver morganstanley 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley llc 
+evan silverberg 
+michael wilson 
+andrew pauker 
+equity strategist 
+equity strategist 
+equity strategist 
+evan silverberg morganstanley 
+wilson morganstanley 
+andrew pauker morganstanley 
+contents 
+key findings from our collaborative deep dive 
+what new attention pension tension 
+why care does pension underfunding matter 
+what next opportunity lower pension 
+deficits 
+accelerating pension funding can develop 
+into theme 
+why engaging borrow fund pension 
+deficits strategy makes sense 
+potential self help winners 
+incremental benefits reasons for pre funding 
+the plans 
+what does pre funding pension plans mean for 
+credit and equity markets 
+potential asset flow implications 
+for equities one more potential impact 
+earnings accretion 
+appendix quant methodology and detailed 
+results 
+what companies with underfunded 
+pensions look like 
+performance pension heavy companies 
+understanding the relationship between 
+debt and pension underfunding 
+interest rate sensitivity pension heavy 
+companies 
+characteristics different cohorts 
+accounting and valuation quantitative equity research 
+time fund new pension 
+dimensions post tax reform 
+collaborative deep dive find that pension underfunding hurts stock 
+price performance more than believed tax reform creates near term 
+opportunity boost funding and drive meaningful eps accretion assess 
+potential market impacts and identify stocks that may benefit 
+pension underfunding matters more stock performance than 
+credit higher pension deficits under the new tax regime could 
+recognized find that companies with pensions underfunded 
+fundamental headwind for credit quality the long run 
+market cap the street threshold significantly 
+especially for the lower quality and highly levered cohorts with high 
+underperform the broader equity universe and sector peers they 
+pension gaps companies issue more debt plug pension gaps 
+have higher betas and lower risk adjusted returns companies for 
+increased corporate bond supply could offset more favorable out 
+ward equity betas show high sensitivity pension underfunding 
+comes from the tax plan the demand side pension funding could 
+five times the sensitivity corporate debt 
+drive higher allocation long duration corporate bonds 
+companies have one off near term opportunity benefit 
+equities expect this theme more relevant for single 
+from lower pension deficits which think not well understood 
+securities than the index level identify potential self 
+market participants lower tax world the level after tax 
+help winners with pension underfunding market cap and the 
+pension deficits rises while deductions for cash contributions 
+ability fund borrowing fund they could potentially break 
+pension plans are worth less many investors believe companies 
+out the lower performing cohort 
+have missed the chance pre fund plans and lower their deficits 
+but they can contribute pension plans september 
+and still claim the deduction for 
+borrowing plug pension gaps can reduce risk and increase 
+eps swapping pension debt for corporate debt can lower beta for 
+companies with the ability fund see meaningful eps accretion 
+for this group around weighted average basis thanks 
+two factors the gap between expected returns incremental funds assets and interest new debt mitigation rising 
+mandatory payments the pension benefit guaranty corp that are 
+partly based pension under funding 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+key findings from our collaborative deep 
+dive 
+remarks this report credit markets and ratings are the views vishwas patkar and adam richmond who are credit 
+strategists and are not opining equity securities 
+our quant accounting valuation and 
+debt equity strategy teams take comprehensive look pension underfunding 
+exhibit 
+risk increases with pension underfunding while average returns also decline more extreme 
+underfunding levels 
+equal weight return pension funding cohort 
+january september 
+including quantitative analysis how pension underfunding impacts share price performance identifying companies that can 
+benefit from pre funding pension obligations 
+and the potential earnings uplift and anal 
+average 
+model universe 
+some obligation 
+underfunded 
+any amount 
+underfunded 
+least 
+underfunded 
+least 
+underfunded 
+least 
+std dev 
+ave dev 
+ysis the impact pre funding credit and 
+equity markets 
+pension underfuding increases does risk see standard deviation 
+source clarifi morgan stanley research 
+stocks companies with underfunded pensions underperform and are more risky found that risk increases for stocks 
+with more than underfunding relative market cap lower 
+threshold than the and the street have used the past 
+exhibit 
+companies with pensions underfunded more have 
+more systematic risk then their sector peers and underperform them 
+per month 
+regression each pension cohort its sector matched benchmark 
+determined that increased risk from underfunding company specific and not attributable the sector this greater risk appears 
+result from higher exposure traditional equity risk factors like 
+equity market beta value bias low quality bias and small size exposure not specific pension underfunding risk factor 
+type statistics 
+model universe 
+some obligation 
+underfunded any amount 
+underfunded least 
+underfunded least 
+underfunded least 
+alpha 
+beta 
+squared 
+red bold statistically significant 
+companies with underfunded pensions significantly underperformed their sector matched benchmarks these companies have 
+source clarifi morgan stanley research red shading indicates those groups statistically significantly 
+underperformed their sector matched benchmarks 
+elevated betas relative their sectors and have underperformed 
+sector peers per month beta adjusted basis 
+exhibit 
+sensitivities year ahead equity beta various types debt 
+coeffiecient results single factor regression stock forward 
+day beta 
+backtesting for year ahead impact equity beta find that pension underfunding has almost five times the impact debt 
+after tax pension deficits increases for example before the recent 
+tax law changes company with pension underfunding and 
+tax rate could effectively fund the plan with assuming 
+new tax rate the company will need fund the fur 
+combined debt 
+tributions pension plans are worth less while the perceived value 
+long term debt 
+market cap 
+tax deductions lower tax world tax deductions for cash con 
+underfunded 
+status 
+ating funding can develop into theme protect the value 
+combined debt 
+pension deficits and there more time than many think acceler 
+underfunded 
+status binary 
+net debt 
+market cap 
+companies have one off opportunity benefit from lower 
+source clarifi morgan stanley research combined debt net debt market cap underfunded 
+status combined debt long term debt market cap underfunded status 
+ther because rating agencies treat pension liabilities several secmorgan stanley research 
+tors tax adjusted basis lower tax rate could pressure credit 
+reducing pbgc premiums can also benefit earnings all corporate 
+quality and ratings lower with lower tax rates taking effect 
+defined benefit plans are required pay annual premiums the 
+many investors believe companies have missed the chance pre 
+pension benefit guaranty corporation pbgc the premiums 
+fund plans and lower their deficits but companies can contribute 
+include flat rate premium based the number employees cov 
+pension plans september and still claim the deduc 
+ered and variable rate premium based the plan underfunding 
+tion for the previous tax year 
+the bipartisan budget act raised premiums from underfunding above 
+key benefits 
+exhibit 
+risk reduction swapping pension debt for corporate debt may 
+pbgc premiums are rising 
+help companies with strong credit reduce overall risk given betas are 
+more sensitive pension underfunding than long term debt 
+shown above 
+eps accretion gaap permits companies use their 
+expected return plan assets compute the eroa component 
+the pension cost the income statement with current spreads 
+between long term expected return assets and corporate debt yields the borrow fund strategy could drive notable 
+eps accretion for some companies found that most companies 
+not think debt and pension underfunding substitutes correlations between the two tend positive rather than negative 
+source pension benefit guaranty corporation morgan stanley research 
+borrowing fund pensions may not something that companies 
+naturally consider 
+large shift pre funding pensions would have more 
+impact individual stocks than the aggregate equity markets 
+the table below includes companies with pension underfunding 
+modeled three asset allocation scenarios for pension pre 
+market cap and the ability fund reduce overall risk 
+funding showing the sensitivity flows different percentages 
+and break out the lower performing cohort 
+the underfunding gap the that closed 
+expect this theme play out largely idiosyncratic basis and 
+exhibit 
+potential self help winners 
+doubt flows will sufficient dictate market direction though 
+they could source marginal buying pressure all 
+companies with underfunded pensions pre fund their liabilities 
+earnings that index would increase relative consensus 
+expectations but this not our base case 
+within credit higher pension deficits under the new tax regime 
+could fundamental headwind for credit quality and spreads 
+especially for the lower quality and highly levered cohorts with high 
+pension deficits further companies issue more debt plug pension gaps from corporate bond supply perspective this could 
+offset the more favorable outcomes from the tax plan repatriation driving lower supply however from demand perspective 
+companies increasing contributions near term fund pension gaps 
+source thomson reuters morgan stanley research underfunded status based last reported numbers txt announced voluntary contributions however still above threshold that 
+use for the screen indicating further opportunities screen based companies where 
+market cap utilities regulated utilities have various approaches seeking recovery pension related costs from customers 
+could drive higher allocation toward long duration corporates this 
+supports our view overweight the long end the market relative the front end found that the debt companies with 
+greater pension underfunding more sensitive baa credit spreads 
+what new attention pension tension 
+lower tax rate will increase the perceived value pension 
+exhibit 
+underfunding the tax reform and lower tax rate have renewed 
+companies that are most risk from worsening credit metrics 
+attention pension underfunding and its implications why companies get tax deductions when they contribute pension plans 
+lower tax rate will reduce the value these deductions and increase 
+the perceived value pension underfunding after tax pension 
+deficits for example before the recent tax law changes company 
+with pension underfunding could effectively fund the plan 
+with with tax rate however with the new lower tax rate 
+companies will required generate additional funds fund the 
+same amount underfunding with new tax rate 
+what does mean from credit rating perspective given credit 
+rating agencies typically treat after tax underfunded status 
+debt like liability when reviewing credit worthiness company 
+lower tax rate could pressure credit quality and ratings coupled with 
+already high leverage levels and late cycle backdrop this could 
+source thomson reuters morgan stanley research screen based companies where market 
+cap utilities 
+regulated utilities have various approaches seeking recovery pension related costs from customers 
+fundamental headwind especially for the highly levered cohorts 
+and with high pension deficits overall this supports our quality 
+bias credit though recommend investors selective 
+exhibit below show list companies with low investment grade ratings and with pension underfunding 
+market cap 
+morgan stanley research 
+why care does pension underfunding 
+matter 
+does worked with our quant team analyze the performance companies with underfunded pensions 
+summarize our approach observations and conclusions 
+below 
+exhibit 
+stocks with least underfunding have combined trillion 
+market cap 
+analyze how stocks with underfunded pensions are different from 
+other stocks split our universe into six buckets the groups are 
+the model universe top russell stocks with some 
+total market cap over time companies with underfunded pensions 
+dec aug 
+least 
+least 
+least 
+pension obligation stocks with pensions that are underfunded 
+any amount stocks whose pensions are least underfunded 
+compared with their market cap stocks whose pensions are 
+least underfunded and stocks whose pensions are least 
+underfunded 
+source clarifi morgan stanley research 
+currently companies with least underfunding have combined 
+market cap with about market cap companies 
+with larger pension underfunding and another 
+companies with underfunding exhibit 
+exhibit 
+companies with pensions underfunded more market cap 
+tend the industrials materials and discretionary sectors 
+sector composition pension funding cohort 
+average from 
+next classified stocks the different pension funding buckets 
+reit 
+sector quality size and style average industrials and materials 
+companies make disproportionate share the companies with 
+util 
+tele 
+pensions underfunded more exhibit companies with 
+pensions underfunded more have strong low quality 
+tech 
+finc 
+hlth 
+stap 
+disc 
+nies with underfunded pensions also have small and mid cap 
+indl 
+bias style companies with pensions underfunded 
+bias this bias increases pension underfunding increases compa 
+more have strong value bias these characteristics tend 
+matl 
+model univ 
+some 
+pension 
+underfund 
+least least least 
+enrg 
+source clarifi morgan stanley research 
+increase the risk stocks with underfunded pensions 
+merely having pension slightly 
+underfunded pension does not negatively affect performance versus the 
+exhibit 
+risk increases with pension underfunding while average returns also decline more extreme 
+underfunding levels 
+equal weight return pension funding cohort 
+january september 
+market exhibit pensions become 
+more underfunded from underfunded 
+risk increases second row the 
+magnitude pension underfunding 
+rather than simply being underfunded 
+model universe 
+some obligation 
+underfunded 
+any amount 
+underfunded 
+least 
+underfunded 
+least 
+underfunded 
+least 
+average 
+std dev 
+ave dev 
+not that key constructed sectormatched benchmarks for the underfunded 
+pension cohorts and compared the performance these benchmarks with the overall 
+pension underfuding increases does risk see standard deviation 
+source clarifi morgan stanley research 
+universe the result was that the sector tilted benchmarks not 
+underperform the overall universe increased riskiness companies with underfunded pensions not due sector mix 
+exhibit 
+companies with pensions underfunded more have 
+more systematic risk then their sector peers and underperform them 
+per month 
+regression each pension cohort its sector matched benchmark 
+companies with underfunded pensions significantly underperformed their sector matched benchmarks exhibit the 
+column the table show the beta the underfunded cohorts 
+their sector matched benchmarks values greater than one the 
+bottom rows indicate that these companies have higher 
+systematic risk than their sector peers addition these companies 
+have underperformed their sector peers per month 
+beta adjusted basis 
+type statistics 
+model universe 
+some obligation 
+underfunded any amount 
+underfunded least 
+underfunded least 
+underfunded least 
+alpha 
+beta 
+squared 
+red bold statistically significant 
+source clarifi morgan stanley research red shading indicates those groups statistically significantly 
+underperformed their sector matched benchmarks 
+there does not appear unique risk 
+exhibit 
+factor that comes from having under 
+regression results jan sept 
+factor model regression results jan sept 
+funded pension exhibit however 
+beta 
+large mega 
+mid large 
+model universe 
+skewed more toward other risk factors 
+some obligation 
+more than the market companies with 
+underfunded any amount 
+underfunded least 
+companies with underfunded pensions are 
+universe 
+value growth price momentum quality junk squared 
+underfunded pensions have higher 
+underfunded least 
+betas mid cap bias value bias nega 
+underfunded least 
+higher beta 
+bias 
+mid cap bias 
+value bias 
+negative momentum 
+junk bias 
+tive momentum bias and junk low 
+quality bias that the usual suspects 
+bias underfunding increases 
+source clarifi morgan stanley research bold values statistically significant 
+equity risk are behind pension heavy risk 
+even during the financial crisis unique pension underfunding spe 
+exhibit 
+cific risk factor emerged traditional risk factors explained almost 
+count companies with long term debt underfunded pensions 
+all the risk underfunded cohorts 
+the amount traditional debt far outweighs the amount pension 
+underfunding however substantial number companies have 
+underfunded pensions exhibit 
+companies are not substituting pension underfunding for con 
+ventional debt exhibit when tracked individual compa 
+nies over time found that the vast majority tended have higher 
+leverage along with greater underfunding and lower leverage with 
+less underfunding these two sources debt tended move 
+count companies with pension underfunding long tem debt 
+dec dec 
+pension underfunding 
+long term debt 
+source clarifi morgan stanley research 
+tandem less than companies have negative correlations 
+between pension underfunding and leverage for these companies 
+pension underfunding and financial leverage can viewed substitutes for most these companies therefore pre funding pension obligations issuing debt would not consistent with 
+past behavior 
+morgan stanley research 
+underfunding status has the greatest impact forward 
+exhibit 
+day beta while net debt market cap underfunded status 
+there positive correlation between pension underfunding and 
+has the smallest impact the debt related variables this high 
+long term debt market cap for most companies 
+sensitivity beta percent underfunding statistically significant 
+the combined debt factors aggregate pension underfunding and 
+debt into single factor using both net debt and long term debt for 
+financial leverage 
+correlation 
+used stepwise regression combine variety factors 
+move tandem 
+correlated 
+including debt related variable and sector membership into single 
+model both debt related factors tested pension underfunding 
+and the combination long term debt market cap and pension 
+move oppositely 
+substitutes 
+underfunding combined debt below entered the model exhibit 
+even including number other explanatory factors 
+correlation stocks with least samples long term debt market cap 
+pension underfunding 
+dec dec 
+source clarifi morgan stanley research 
+underfunded status still entered the model and was stronger 
+than combined debt financial leverage itself did not enter 
+exhibit 
+the stepwise regression model 
+sensitivities year ahead equity beta various types debt 
+also ran regression analyses determine how sensitive pension 
+coeffiecient results single factor regression stock forward 
+day beta 
+sion underfunding status have significant sensitivity the 
+level the yield curve and baa credit spreads 
+combined debt 
+underfunded 
+status binary 
+found that all the groups examined regardless pen 
+net debt 
+market cap 
+heavy companies are changes interest rates and credit spreads 
+stepwise regressions see which variables matter most for predicting returns also included market beta variable the 
+regressions for all pension funding cohorts except companies 
+with pensions underfunded least the variables market 
+beta and change baa spread make into the final models for 
+those companies with very underfunded pensions market beta the 
+only variable the final model the yield curve level did not make 
+into any the final models meaning adding the variable the 
+model would not improve the model 
+pension underfunding increases does sensitivity credit 
+spreads exhibit 
+combined debt 
+returns and the variables yield curve level and baa spread ran 
+long term debt 
+market cap 
+after determining that there significant relationship between 
+underfunded 
+status 
+source clarifi morgan stanley research combined debt net debt market cap underfunded 
+status combined debt long term debt market cap underfunded status 
+the three tables below exhibit exhibit exhibit list companies where underfunding least market cap 
+exhibit 
+exhibit 
+single model estimate year ahead beta 
+companies with greater pension underfunding are more sensitive 
+coefficients forward regression day forward beta factors 
+excluding disc binary 
+baa credit spread coefficients 
+positive sensitivity 
+baa credit spreads 
+negative sensitivity 
+variable 
+not final 
+model for 
+util binary 
+tele binary 
+stap binary 
+reit binary 
+hlth binary 
+dividend yield 
+binary 
+log scaled market 
+cap rank 
+indl binary 
+finc binary 
+matl binary 
+combined debt 
+tech binary 
+enrg binary 
+undefunded status 
+ntm eps estimate 
+binary 
+estimate dispersion 
+source clarifi morgan stanley research combined debt long term debt market cap underfunded status 
+model univ 
+some 
+obligation 
+underfunded underfunded underfunded underfunded 
+any 
+least 
+least 
+least 
+amount 
+source clarifi morgan stanley research 
+exhibit 
+companies where underfunded status least market cap 
+exhibit 
+companies where underfunded status least market cap but 
+less than 
+source thomson reuters morgan stanley research underfunded status based last reported numbers 
+source thomson reuters morgan stanley research underfunded status based last reported numbers 
+morgan stanley research 
+exhibit 
+companies where underfunded status least market cap but 
+less than 
+exhibit 
+top companies where ebitda multiples look most different 
+after adjusting for after tax underfunded status 
+source thomson reuters morgan stanley research underfunded status based last reported numbers 
+source thomson reuters morgan stanley research underfunded status based last reported numbers 
+further also adjusted valuation multiples ebitda these 
+companies include the impact pension underfunding before and 
+after the tax law changes adjusted include after tax pension deficit debt like liability exhibit below lists top companies where ebitda multiples look most different 
+what next opportunity lower pension 
+deficits 
+accelerating pension funding can develop 
+into theme 
+exhibit 
+betas are more sensitive pension underfunding than long term debt 
+factor about 
+coeffiecient results single factor regression stock forward 
+day beta 
+visions irc allow companies contribute pension plans 
+september next year and yet claim the deduction for the previous tax year 
+why engaging borrow fund 
+pension deficits strategy makes sense 
+underfunded 
+status 
+nity pre funding the plans and lowering the deficits however pro 
+combined debt 
+many investors think that companies have missed the opportu 
+underfunded 
+status binary 
+net debt 
+market cap 
+underfunding with lower dollars with tax rate cut going into effect 
+combined debt 
+protect the value tax deductions and reduce pension 
+long term debt 
+market cap 
+believe companies are likely increase pension contributions 
+source clarifi morgan stanley research combined debt net debt market cap underfunded 
+status combined debt long term debt market cap underfunded status 
+eps accretion the gaap permits the use managements 
+companies may fund their pension plan contributions using existing 
+expected return plan assets compute the eroa component 
+excess cash likewise borrowing fund may also viable option 
+the pension cost the income statement given the current spreads 
+why 
+between long term expected return assets and corporate debt 
+yields are the borrow fund strategy could drive notable 
+betas are more sensitive pension underfunding than long 
+eps accretion for some companies exhibit 
+term debt factor about the past have heard arguments from investors that raising debt fund the pension plans 
+exhibit 
+not efficient and many saw swapping one form debt for 
+example potential accretion from funding and pre funding the plans 
+another however our work with the quant team demonstrates that 
+while both higher debt and greater underfunding contribute 
+higher equity betas the coming year the magnitude the 
+impact pension underfunding almost five times that debt 
+said differently reducing underfunding decreases beta more 
+than similar debt reduction 
+this suggests particularly for companies with good credit that the 
+shift traditional debt makes sense from the overall risk reduction 
+standpoint even when other explanatory variables for beta such 
+sector membership dividend yield and estimate dispersion are 
+included the beta forecasting model percent underfunding 
+remained the model whereas debt did not make into the model 
+source morgan stanley research data are hypothetical and not represent actual company 
+morgan stanley research 
+exhibit lists top companies that could see highest increase 
+net income funding and pre funding the plans 
+exhibit 
+the borrow fund strategy could drive notable eps accretion for certain companies 
+exhibit 
+companies with underfunded pensions significantly underperformed 
+their sector matched benchmarks 
+regression each pension cohort its sector matched benchmark 
+type statistics 
+model universe 
+some obligation 
+underfunded any amount 
+underfunded least 
+underfunded least 
+underfunded least 
+alpha 
+beta 
+squared 
+red bold statistically significant 
+source clarifi morgan stanley research red shading indicates those groups statistically significantly 
+underperformed their sector matched benchmarks 
+exhibit 
+potential self help winners 
+source thomson reuters morgan stanley research screen based companies where market 
+cap utilities 
+underfunded status based last reported numbers regulated utilities have various approaches 
+seeking recovery pension related costs from customers increase based consensus numbers change considers differential between eroa and new tax rate and potential savings pbgc premiums 
+source thomson reuters morgan stanley research underfunded status based last reported numbers txt announced voluntary contributions however still above threshold that 
+use for the screen indicating further opportunities screen based companies where 
+market cap utilities regulated utilities have various approaches seeking recovery pension related costs from customers 
+potential self help winners 
+based our analysis above believe presents great opportunity for companies with pension underfunding market 
+cap and the ability fund reduce overall risk and break out 
+the lower performing cohort more risk and lower risk adjusted 
+returns identify companies that meet this criteria exhibit 
+below 
+exhibit 
+performance pension funding cohort 
+equal weight return pension funding cohort 
+january september 
+model universe 
+some obligation 
+underfunded 
+any amount 
+underfunded 
+least 
+underfunded 
+least 
+underfunded 
+least 
+average 
+std dev 
+ave dev 
+pension underfuding increases does risk see standard deviation 
+source clarifi morgan stanley research 
+incremental benefits reasons for prefunding the plans 
+funding credits build when companies make voluntary contributions pension plans they build funding balances for erisa purposes that they can use credits offset otherwise required 
+contributions the future for instance when required contribu 
+although the corporate tax reform will trigger accelerate 
+tions after the effect pension funding relief fades away 
+pension contributions this year identify other supplemental 
+contributions are likely companies will able 
+reasons and benefits that companies might take into considera 
+utilize these credits offset the increased required contributions 
+tion when pre funding the pension plans 
+higher fcf utilization the year increase with lower tax deductions 
+rising pbgc premiums all corporate defined benefit plans are 
+required pay annual premiums the pension benefit guaranty 
+ldi liability driven investments opportunity posture pen 
+corporation pbgc the government agency that insures pen 
+sions legacy companies fully fund the plans with accelerated 
+sion plans case the plan terminates without sufficient money 
+contributions then presents great opportunity for companies 
+pay all benefits the premiums include flat rate premium which 
+also adopt ldi match funding strategy matching cash inflows 
+based the number employees covered the plans and 
+from fixed income investments cash outflows for pension benefit 
+variable rate premium which based the plan underfunding 
+payments company immunizes itself from volatility from changes 
+assets prices that are uncorrelated changes the present value 
+the bipartisan budget act included provisions that increase 
+liabilities with match funding changes asset values offset 
+pbgc premiums both flat and variable rate the premiums jump 
+changes liabilities leaving the funded status mostly unchanged 
+from underfunding above last five years 
+exhibit thus companies reducing their pension underfunding 
+will able lower overall pbgc premiums and generate higher 
+income 
+exhibit 
+pbgc premiums are rising 
+source pension benefit guaranty corporation morgan stanley research 
+the pension funding relief was aimed reduce the minimum mandatory contribu 
+tion requirements companies abnormally low interest rate environment was 
+initially enacted the map legislation subsequently extended within the 
+highway and transportation funding act htfa and extended again the 
+bipartisan budget act under the legislation companies may use higher 
+year average rate subject certain thresholds higher discount rate lowers the 
+present value underfunded status and thus the mandated cash contributions from 
+companies 
+morgan stanley research 
+what does pre funding pension plans mean 
+for credit and equity markets 
+scenario higher fixed income allocates higher percent 
+potential asset flow implications 
+about half new funds fixed income and reduces equity 
+other exposure proportionately considers that companies 
+with approximately underfunded pension liabilities 
+may more likely duration match using fixed income 
+the the potential flow effects large shift pre 
+assets they close pension gaps 
+funding pensions could sizable for credit and equities though 
+think the more important effects will occur the individual 
+company level rather than the market aggregate level exhibit 
+shows the results scenario analysis size these potential 
+flows 
+scenario duration matched assumes that companies 
+fully adopt match funding strategy and allocates 
+both new flows and existing assets fixed income products 
+dividing these funds roughly the same proportion among 
+fixed income products the current asset mix 
+exhibit provides three scenarios for allocation assets and 
+the flows above are meant illustrative potential scenarios 
+within each scenario shows sensitivity flows based the percent 
+that could play out and are not meant serve forecast 
+the underfunding gap the that closed the 
+expect that this theme will play out largely idiosyncratic basis 
+scenarios are constructed follows 
+and will therefore more relevant for single securities than the 
+index level thus think the incremental flows may not enough 
+scenario current mix allocates assets under their cur 
+rent mix based data from the federal reserve about half 
+dictate market direction their own but are potential source 
+marginal buying pressure aware 
+equities and one third fixed income 
+exhibit 
+closing the pension gap potential flows asset class 
+aggregate underfunded amount 
+aggregate value existing plan assets 
+potential asset class flows 
+asset allocation mix 
+current mix 
+higher fixed income 
+duration matched 
+equities 
+corp foreign bonds 
+tsys 
+other 
+other 
+equities 
+corp foreign bonds 
+tsys 
+other 
+other 
+equities 
+corp foreign bonds 
+tsys 
+other 
+other 
+percent gap funded 
+equity mix includes and international equities due insufficient data parse current allocations 
+duration matched scenario assumes that companies representing some pension assets obligations fully fund pensions 
+and duration match all assets and liabilities with fixed income portfolio and that funding gap closed commensurate 
+with existing pension assets shifted fixed income assets for duration matching 
+source thomson reuters federal reserve financial accounts the united states morgan stanley research 
+importantly the asset allocations the first two scenarios seem 
+more reasonable outcomes for any pre funding the near 
+term that does occur result the tax law change while the third 
+scenario illustrative what multi year reallocation duration 
+matched strategies could mean for flow funds the duration 
+matched scenario due the rebalancing existing assets equities 
+see large outflows that move fixed income again emphasize 
+that this not base case not think realistic assume 
+large scale reallocation plan assets but include the analysis for 
+those seeking sense the maximum potential impact over 
+number years 
+for equities one more potential impact 
+earnings accretion 
+beyond the implications for equity flows directly above and the 
+important implications for individual equity betas noted the 
+earlier part this publication also note the potential for 
+earnings accretion that follows from pre funding pensions 
+gaap permits the use managements expected return plan 
+assets compute the expected return plan assets component 
+the pension cost the income statement given the current spreads 
+between long term expected return assets and corporate debt 
+yields are the borrow fund strategy could drive notable 
+eps accretion for some companies adoption this strategy all 
+companies with underfunded pensions the could 
+potentially increase earnings that index relative 
+consensus expectations pre funding that scale though not our 
+base case expect the impact more modest the index 
+level but meaningful for specific companies for list stocks where 
+this could most important see exhibit well work done 
+our airlines aerospace defense analyst rajeev lalwani aerospace defense tax reform here now what pension for lmt 
+rtn jan 
+morgan stanley research 
+appendix quant methodology and detailed 
+results 
+divide our equity universe into six groups based pension funding status and conduct several analyses first 
+looking the size each group number stocks and 
+cap then turning characteristics the groups sector 
+size style and quality composition and finally analyzing 
+performance for our performance analysis the two main 
+reference points are dynamic sector matched benchmarks 
+and our six factor risk model 
+stock dropped out acquired bankruptcy etc during the year 
+replaced with its sector return for the remainder the year 
+retained these augmented returns for the cohorts for the monthly 
+analysis well 
+characteristics the pension funding groups 
+the number companies with pensions declined slightly between 
+and exhibit the number companies with under 
+for the quantitative analysis started with our model universe 
+funded pensions rose sharply after analyzed companies 
+which contains stocks either the russell the largest 
+from september account for this almost all 
+and constructed pension heavy cohorts imposing successively 
+panies with pension obligations have some degree under 
+more restrictive thresholds for pension funding status 
+funding dark blue curve nearly light blue curve since 
+but will see underfunding and itself not serious 
+all stocks the model universe 
+rather the degree underfunding that matters 
+stocks from model universe with some pension obligation 
+exhibit 
+funding status consideration 
+most companies with some pension obligation are currently least 
+somewhat underfunded 
+stocks whose pensions are underfunded any amount however 
+slight 
+stocks whose pensions are least underfunded 
+number companies the different groups analyzed 
+dec aug 
+stocks whose pensions are least underfunded 
+stocks whose pensions are least underfunded 
+thus group contains group which contains group etc 
+more severe pension underfunding thresholds were not practical 
+model universe 
+some pension 
+obligation 
+underfunded 
+any amount 
+source clarifi morgan stanley research 
+test due the small numbers qualifying companies and gaps 
+returns when there were candidates all cohorts were rebalanced 
+what constitutes material underfunding relatively small frac 
+december each year 
+tion companies have more underfunding and this number 
+decreases further through and underfunding the number 
+compute pension underfunding percentage the difference 
+companies with more underfunding sufficiently small 
+between pension benefit obligation pbo and pension plan assets 
+that more severe cutoffs result highly idiosyncratic performance 
+divided market capitalization all data obtained from clarifi 
+even gaps performance history 
+due the small sizes the most severely underfunded groups and 
+the annual rebalancing frequency attempted retain many 
+stocks possible for annual performance consequently whenever 
+underfunding cyclical and structurally rose starting 
+exhibit 
+stocks with least underfunding have combined trillion 
+market cap 
+exhibit 
+few companies have underfunding more their pensions 
+total market cap over time companies with underfunded pensions 
+dec aug 
+number companies analyzed pension underfunding 
+dec aug 
+least 
+underfunded 
+least 
+underfunded 
+least 
+underfunded 
+least 
+least 
+least 
+source clarifi morgan stanley research 
+source clarifi morgan stanley research 
+large fraction overall market cap companies with some pension obligation and hence some degree underfunding material 
+what companies with underfunded 
+pensions look like 
+underfunding present small but tangible portion model universe market cap 
+companies with underfunded pensions vary from the model universe sector size quality and style composition most these 
+exhibit 
+large fraction market cap companies with pension obligations and some degree underfunding material underfunding only 
+present small fraction market cap 
+billions 
+total market cap over time 
+biases increase pension underfunding increases 
+sector average industrials and materials companies make 
+disproportionate share the companies with pensions underfunded 
+more exhibit industrials make the cohort 
+with pensions underfunded least average industrials 
+only make the model universe and the companies 
+with some pension obligation 
+discretionary and materials also claim large portion the under 
+funded cohorts meanwhile technology health care and financials all 
+model univ 
+some obli 
+underfunded 
+have small presence these groups 
+source clarifi morgan stanley research 
+sector weights are dynamic however and show them year for 
+each cohort the appendix for example the underfunded 
+about market cap currently companies with 
+cohort constituents were almost entirely from the industrials sector 
+larger pension underfunding another companies with 
+the but only were from industrials and 
+underfunding and further underfunding 
+each were from technology utilities and discretionary exhibit 
+utilize the time varying sector weights construct sectormatched benchmarks for each the six pension cohorts 
+morgan stanley research 
+exhibit 
+industrials and materials make disproportionate share companies with pensions underfunded more 
+sector composition pension funding cohort 
+average from 
+exhibit 
+bias toward junk increases pension underfunding increases 
+quality composition pension funding cohort 
+average from 
+reit 
+util 
+tele 
+junk 
+tech 
+low 
+finc 
+medium 
+hlth 
+high 
+stap 
+disc 
+indl 
+matl 
+model univ 
+model univ 
+some 
+pension 
+underfund 
+least least least 
+enrg 
+some 
+pension 
+underfund least least least 
+source clarifi morgan stanley research 
+source clarifi morgan stanley research 
+style companies with pensions underfunded more have 
+size companies with underfunded pensions have small and mid 
+strong value bias exhibit this bias decreases slightly under 
+cap bias exhibit companies with pensions underfunded 
+funding increases value companies make companies with 
+least are mid caps while only the companies with 
+pensions underfunded least they make compa 
+some pension obligation fall into this size cohort very few mega cap 
+nies with pensions underfunded least they are only 
+companies have pensions underfunded more 
+the model universe 
+exhibit 
+companies with underfunded pensions have small and mid cap 
+bias 
+exhibit 
+there strong value bias among companies with pensions underfunded more 
+size composition pension funding cohort 
+average from 
+style composition pension funding cohort 
+average from 
+micro 
+small 
+mid 
+neither 
+large 
+mega 
+growth 
+model univ 
+some 
+pension 
+underfund 
+least least least 
+source clarifi morgan stanley research 
+quality interestingly there are more junk stocks the model universe than there are junk stocks with some pension obligation 
+exhibit however companies with pensions underfunded more have strong junk bias this bias increases 
+pension underfunding increases junk stocks made companies with pensions underfunded least very few high quality 
+companies have pensions underfunded more 
+value 
+model univ 
+some 
+pension 
+underfund least least least 
+source clarifi morgan stanley research 
+performance pension heavy companies 
+note performance methodology 
+calculate performance computed year ahead monthly adjusted returns each december stock had returns for every 
+month the following year just used that stock returns however stock return series terminated during the year 
+substituted returns for the stock sector remaining months then compounded the stock sector monthly 
+returns get annual returns the motivation for constructing these hybrid return series include many companies 
+possible the highly underfunded cohorts where stock counts are often low next equal weighted these stocks 
+calculate each group performance 
+order compare performance between pension funding cohorts without sector biases constructed sector matched 
+benchmarks for each cohort used the sector weights based the numbers stocks per sector the cohorts the 
+end each year and equal weighted sector returns month the sector weights change yearly and vary pension funding 
+cohort with these benchmarks can compare the performance underfunded cohorts with typical stocks with the same 
+sector composition and see what extent the performance underfunded cohorts was driven sector allocations and what 
+was due performance relative the sector 
+merely having pension having slightly underfunded pen 
+underfunded from underfunded standard deviation return 
+sion does not negatively affect performance the market 
+rises and the information ratio falls average return standard devia 
+equal weight exhibit the average return companies our 
+tion 
+model universe was companies with any pension obligation 
+and those with underfunded pensions both had average returns 
+the magnitude pension underfunding rather than simply 
+the risks begin underfunding pensions become more 
+being underfunded not that matters for performance 
+exhibit 
+performance pension funding cohort 
+equal weight return pension funding cohort 
+january september 
+model universe 
+some obligation 
+underfunded 
+any amount 
+underfunded 
+least 
+underfunded 
+least 
+underfunded 
+least 
+average 
+std dev 
+ave dev 
+pension underfuding increases does risk see standard deviation 
+source clarifi morgan stanley research 
+morgan stanley research 
+exhibit 
+performance pension funding cohort sector matched benchmark 
+sector matched benchmark return pension funding cohort 
+january september 
+model universe 
+some obligation 
+underfunded 
+any amount 
+underfunded 
+least 
+underfunded 
+least 
+underfunded 
+least 
+average 
+std dev 
+ave std dev 
+pension underfuding increases does risk see standard deviation 
+source clarifi morgan stanley research 
+also looked returns versus sector matched benchmarks 
+companies with underfunded pensions significantly underper 
+determine the differences risk and performance pension 
+formed their sector matched benchmarks exhibit compa 
+funding group were due sector tilts exhibit increased riski 
+nies with pensions underfunded more also have higher 
+ness companies with underfunded pensions not due 
+betas they are risker yet have lower returns 
+sector mix 
+not surprising that squared declines for underfunded cohorts 
+average returns slightly higher for most underfunded groups while 
+they become more concentrated however the correlation still 
+risk doesn rise until reach the threshold even here the 
+nearly for the underfunded group 
+information ratio similar across groups 
+while they are correlated with their sector benchmarks they have 
+these are dynamic sector weightings adjusted each year based 
+more systematic risk with betas for underfunding 
+the count weighted sector memberships the six cohorts also 
+consistent with the equal weight cohort returns use equal 
+weight sector returns the benchmarks 
+exhibit 
+companies with pensions underfunded more underperformed significantly 
+regression each pension cohort its sector matched benchmark 
+type statistics 
+model universe 
+some obligation 
+underfunded any amount 
+underfunded least 
+underfunded least 
+underfunded least 
+alpha 
+beta 
+red bold statistically significant 
+source clarifi morgan stanley research red shading indicates those groups statistically significantly underperformed their sector matched benchmarks 
+squared 
+exhibit 
+regression results jan sept 
+factor model regression results jan sept 
+universe 
+model universe 
+some obligation 
+underfunded any amount 
+underfunded least 
+underfunded least 
+underfunded least 
+bias underfunding increases 
+beta 
+large mega 
+mid large 
+value growth 
+price momentum 
+quality junk 
+higher beta 
+bias 
+mid cap bias 
+value bias 
+negative momentum 
+junk bias 
+squared 
+source clarifi morgan stanley research bold values statistically significant 
+there does not appear unique risk factor that comes from 
+even during the financial crisis november february 
+having underfunded pension exhibit however compa 
+our six factor risk model explained most the variation returns 
+nies with underfunded pensions are skewed toward other risk factors 
+the various pension funding cohorts exhibit once again 
+more than the market companies with underfunded pensions 
+unique pension underfunding risk factor emerged however sev 
+have higher betas mid cap bias value bias negative momentum 
+eral the biases changed during the crisis companies with under 
+bias and junk bias that the usual suspects are behind pension 
+funded pensions did not have higher betas unlike the broader period 
+heavy risk 
+from the present during the crisis they also had antimega cap bias and large cap bias they continued have value 
+our six factor risk model explains most the variation returns for 
+bias negative momentum bias and junk bias 
+the different pension funding cohorts squared values were high 
+across the board even just the companies the group underfunded least had squared 
+exhibit 
+regression results financial crisis nov feb 
+factor model regression results crisis period nov feb 
+universe 
+beta 
+large mega 
+mid large 
+value growth 
+price momentum 
+quality junk 
+model universe 
+some obligation 
+underfunded any amount 
+underfunded least 
+underfunded least 
+underfunded least 
+bias underfunding increases 
+minimal bias 
+anti mega cap 
+large cap bias 
+value bias 
+negative momentum 
+junk bias 
+squared 
+source clarifi morgan stanley research bold values statistically significant 
+morgan stanley research 
+during the crisis worse returns from heavily underfunded groups 
+long term debt more prevalent than pension underfunding and 
+were attributable both negative alpha and disadvantageous factor 
+has much larger magnitude for the equity market exhibit 
+exposures 
+exhibit 
+exhibit 
+return decomposition contribution from factors and alpha 
+sions and the magnitude the debt larger 
+average contributions from factor residuals 
+nov feb 
+median debt market cap median pension underfunded status 
+dec dec 
+average return 
+more companies have long term debt than have underfunded pen 
+quality junk 
+price momentum 
+value growth 
+mid large 
+large mega 
+beta 
+least 
+alpha 
+median long term debt 
+market cap 
+median underfunded 
+status 
+least 
+least 
+underfunded 
+any amount 
+model univ 
+some obligation 
+source clarifi morgan stanley research 
+source clarifi morgan stanley research debt market cap capped pension underfunded status 
+capped 
+understanding the relationship between 
+debt and pension underfunding 
+companies are not substituting pension underfunding for conventional debt exhibit shows that for most companies there 
+exhibit 
+the amount traditional debt far outweighs the amount pension 
+underfunding 
+modelling universe pension underfunding long term debt 
+dec dec 
+positive correlation between long term debt market cap and pension underfunding companies are taking these types debt 
+tandem they are not leaving pensions more underfunding way 
+avoid taking incremental traditional leverage did not find 
+any major differences sector 
+exhibit 
+there positive correlation between pension underfunding and 
+long term debt market cap for most companies 
+pension underfunding 
+long term debt 
+correlation stocks with least samples long term debt market cap 
+pension underfunding 
+dec dec 
+source clarifi morgan stanley research 
+exhibit 
+large number companies have pensions that are underfunded 
+some degree 
+complements 
+substitutes 
+count companies with pension underfunding long tem debt 
+dec dec 
+correlation 
+source clarifi morgan stanley research 
+companies with higher traditional leverage than their peers also 
+tend have more pension underfunding exhibit this relationship statistically significant and positive but not very strong 
+pension underfunding 
+long term debt 
+source clarifi morgan stanley research 
+the squared low 
+exhibit 
+exhibit 
+there weak positive relationship between traditional leverage 
+beta has the highest sensitivity pension underfunding status 
+single factor regression stock forward day beta below factors 
+and pension underfunding 
+independent variable 
+beta intercept 
+coeffiecient 
+squared 
+combined debt 
+long term debt market cap 
+underfunded status 
+net debt market cap 
+combined debt 
+underfunded status binary 
+higher explanatory power 
+median pension underfunding 
+median long term debt market cap 
+dec dec 
+source clarifi morgan stanley research combined debt net debt market cap underfunded 
+status combined debt long term debt market cap underfunded status 
+source clarifi morgan stanley research 
+underfunding status has the greatest impact forward 
+day beta while net debt market cap underfunded status 
+has the smallest impact the debt related variables 
+looked how year ahead forward day equity beta 
+exhibit 
+panies was related pension underfunding and long term debt and 
+regression coefficients 
+coeffiecient results single factor regression stock forward 
+day beta 
+included number control variables such sector affiliation dividend yield estimate dispersion and whether not consensus earnings were positive negative 
+stock that has pension underfunded has beta that 
+higher than stock whose pension fully funded 
+underfunded 
+status binary 
+combined debt 
+greatest sensitivity pension underfunding status exhibit 
+net debt 
+market cap 
+the debt related factors tested year ahead beta has the 
+combined debt 
+nies with higher debt have higher beta 
+long term debt 
+market cap 
+factors tested the market views higher debt risk and compa 
+underfunded 
+status 
+year ahead beta had positive sensitivity all the debt related 
+source clarifi morgan stanley research combined debt net debt market cap underfunded 
+status combined debt long term debt market cap underfunded status 
+the variables long term debt market cap and long term debt 
+then combined all these factors into single model using 
+market cap combined with underfunding status combined debt 
+stepwise regression see which factors matter most for estimating 
+the table below are more statistically significant than underfunding 
+forward day beta exhibit the variables pension under 
+status alone but have lower impact beta for long term debt 
+funding status and the combination long term debt market 
+market cap cause the same increase beta would have 
+cap and pension underfunding status both entered the model 
+rise about 
+when combined these factors the sensitivity pension undercorrelations between most factors are low magnitude typically 
+funding status declines about about the impact pen 
+less than exceptions where there are high correlations are 
+sion underfunding subsumed yield earnings volatility sector 
+between net debt and long term debt correlation and 
+etc and intrinsic underfunding itself 
+between combined measures debt and underfunding there was 
+low positive correlation between underfunding and debt market 
+cap 
+coefficient underfunding status higher beta 
+morgan stanley research 
+exhibit 
+interest rate sensitivity pension heavy 
+companies 
+single model estimate year ahead beta 
+coefficients forward regression day forward beta factors 
+excluding disc binary 
+positive sensitivity 
+negative sensitivity 
+the fed continues raise short term interest rates there 
+interest looking the sensitivities underfunded stocks yield 
+curve moves ran regressions determine how sensitive pension 
+util binary 
+tele binary 
+stap binary 
+reit binary 
+hlth binary 
+dividend yield 
+binary 
+log scaled market 
+cap rank 
+finc binary 
+indl binary 
+matl binary 
+combined debt 
+tech binary 
+enrg binary 
+undefunded status 
+ntm eps estimate 
+binary 
+estimate dispersion 
+heavy companies are changes interest rates and credit spreads 
+first step did single factor regressions using changes the 
+slope and level the yield curve well baa credit spread 
+changes find pension underfunding cohort exposures rates the 
+yield curve changes and credit spread moves are contemporaneous 
+source clarifi morgan stanley research combined debt long term debt market cap underfunded status 
+with the equity cohort returns use data for the same months 
+estimate the regressions define the slope the yield curve 
+the difference between the yield and the yield while the 
+constructed second model excluding net debt market cap 
+level defined the average the two 
+and estimate dispersion test sample with broader coverage 
+exhibit once again the variables pension underfunding status 
+since our pension cohort data goes back the end our 
+and the combination long term debt market cap and pension 
+long run analysis based year period from ytd 
+underfunding combined debt status both entered the model how 
+this much shorter period than prior long run analysis did for 
+ever this broader group the sensitivity beta under 
+sectors and cohorts which went back see rates dollar and 
+funded status fell modestly while the sensitivity beta 
+oil what the playbook oct some the findings may 
+combined debt rose modestly 
+therefore different 
+exhibit 
+even when other explanatory variables such sector membership 
+dividend yield and estimate dispersion are included underfunded 
+status remained the beta forecasting model 
+our single factor regression results are summarized here and the 
+coefficients forward regression day forward beta factors 
+excluding disc binary net debt market cap and estimate dispersion 
+positive sensitivity 
+exhibits reference can found the appendix 
+found that all companies our universe regardless pension 
+funding status are statistically significantly sensitive changes 
+negative sensitivity 
+the level the yield curve exhibit returns for each cohort 
+increase the level the yield curve increases that part the 
+yield curve move translate upward this portion the yield 
+source clarifi morgan stanley research combined debt long term debt market cap underfunded status 
+util binary 
+stap binary 
+tele binary 
+reit binary 
+hlth binary 
+dividend yield 
+binary 
+log scaled market 
+cap rank 
+finc binary 
+indl binary 
+matl binary 
+combined debt 
+tech binary 
+undefunded status 
+enrg binary 
+ntm eps estimate 
+binary 
+curve move positive for expected returns each cohort 
+also found that none the six cohorts has significant correlation with changes the slope the yield curve exhibit going 
+back did find significant negative correlation between 
+the market and the yield curve slope but this has not been evident 
+since 
+finally the model universe and all the different pension funding 
+cohorts have statistically significant negative relationship with 
+credit spreads exhibit expected returns for each pension 
+cohort fall credit spreads widen the magnitude the sensitivity 
+decreases with underfunding however with the most underfunded 
+cohort having less sensitivity than less underfunded cohorts 
+even the market nevertheless the negative credit spread exposure significant all cases 
+for the multi factor analysis took cap weighted market returns 
+all the beta coefficients are statistically significant 
+changes yield curve levels and changes credit spreads possible 
+factors and ran stepwise regressions this approach necessary 
+exhibit 
+because credit spreads and yield curve levels both contain 
+companies with greater pension underfunding are more sensitive 
+yields though with opposite signs and there can multi collin 
+beta 
+beta coefficients 
+earity with limited monthly data 
+for all pension funding cohorts except companies with pensions 
+underfunded least the variables market beta and 
+change baa spread make into the final models for those 
+panies with very underfunded pensions market beta the only vari 
+able the final model however this group more idiosyncratic and 
+only has about members 
+model univ 
+some 
+obligation 
+the exhibits below break down the final models into their inter 
+underfunded underfunded underfunded underfunded 
+any 
+least 
+least 
+least 
+amount 
+cepts exhibit and coefficients exhibit and exhibit 
+source clarifi morgan stanley research 
+intercepts alpha decline pension underfunding increases even 
+pension underfunding increases does sensitivity credit 
+with the negative credit spread sensitivity exhibit however 
+spreads exhibit credit spreads widen cohorts with greater 
+alpha not significantly positive negative for any cohort 
+underfunding underperform even beyond all the credit spread 
+coefficients are statistically significant and negative this variable did 
+not make into the final model for companies with pensions under 
+exhibit 
+alpha declines pension underfunding increases 
+funded least 
+monthly intercepts 
+exhibit 
+companies with greater pension underfunding are more sensitive 
+baa credit spreads 
+baa credit spread coefficients 
+variable 
+not final 
+model for 
+model univ 
+some 
+obligation 
+underfunded underfunded underfunded underfunded 
+any 
+least least least 
+amount 
+source clarifi morgan stanley research 
+pension underfunding increases does sensitivity market beta 
+model univ 
+some 
+obligation 
+exhibit companies with pensions underfunded least 
+are quite sensitive changes market beta for increase beta 
+underfunded underfunded underfunded underfunded 
+any 
+least 
+least 
+least 
+amount 
+source clarifi morgan stanley research 
+return for this cohort would increase all else being equal 
+morgan stanley research 
+characteristics different cohorts 
+model universe 
+exhibit 
+exhibit 
+model universe sector composition 
+model universe size composition 
+size composition model universe 
+dec aug 
+sector composition model universe 
+dec aug 
+reit 
+util 
+tele 
+tech 
+finc 
+hlth 
+stap 
+disc 
+indl 
+matl 
+enrg 
+micro 
+small 
+mid 
+large 
+mega 
+source clarifi morgan stanley research 
+source clarifi morgan stanley research 
+exhibit 
+exhibit 
+model universe quality composition 
+model universe style composition 
+quality composition model universe 
+dec aug 
+style composition model universe 
+dec aug 
+junk 
+low 
+medium 
+high 
+value 
+growth 
+source clarifi morgan stanley research 
+neither 
+source clarifi morgan stanley research 
+stocks the model universe with some pension obligation 
+exhibit 
+exhibit 
+some pension obligation sector composition 
+some pension obligation size composition 
+sector composition stocks with some pension obligation 
+dec aug 
+size composition stocks with some pension obligation 
+dec aug 
+reit 
+util 
+tele 
+tech 
+finc 
+hlth 
+stap 
+disc 
+indl 
+matl 
+enrg 
+micro 
+small 
+mid 
+large 
+mega 
+source clarifi morgan stanley research 
+source clarifi morgan stanley research 
+exhibit 
+exhibit 
+some pension obligation quality composition 
+some pension obligation style composition 
+style composition stocks with some pension obligation 
+dec aug 
+quality composition stocks with some pension obligation 
+dec aug 
+junk 
+low 
+medium 
+high 
+neither 
+value 
+growth 
+source clarifi morgan stanley research 
+morgan stanley research 
+source clarifi morgan stanley research 
+stocks with underfunded pensions underfunded any amount 
+exhibit 
+exhibit 
+stocks with underfunded pensions sector composition 
+stocks with underfunded pensions size composition 
+sector composition stocks with underfunded pensions 
+dec aug 
+size composition for stocks with underfunded pensions 
+dec aug 
+reit 
+util 
+tele 
+tech 
+finc 
+hlth 
+stap 
+disc 
+indl 
+matl 
+enrg 
+micro 
+small 
+mid 
+large 
+mega 
+source clarifi morgan stanley research 
+source clarifi morgan stanley research 
+exhibit 
+exhibit 
+stocks with underfunded pensions quality composition 
+stocks with underfunded pensions style composition 
+quality composition stocks with underfunded pensions 
+dec aug 
+style composition stocks with underfunded pensions 
+dec aug 
+junk 
+low 
+medium 
+high 
+value 
+growth 
+source clarifi morgan stanley research 
+neither 
+source clarifi morgan stanley research 
+stocks with pensions underfunded least 
+exhibit 
+exhibit 
+underfunded least sector composition 
+underfunded least size composition 
+size composition stocks with pensions underfunded least 
+dec aug 
+sector composition stocks with pensions underfunded least 
+dec aug 
+reit 
+util 
+tele 
+tech 
+finc 
+hlth 
+stap 
+disc 
+indl 
+matl 
+enrg 
+micro 
+small 
+mid 
+large 
+mega 
+source clarifi morgan stanley research 
+source clarifi morgan stanley research 
+exhibit 
+exhibit 
+underfunded least quality composition 
+underfunded least style composition 
+quality composition stocks with pensions underfunded least 
+dec aug 
+style composition stocks with pensions underfunded least 
+dec aug 
+junk 
+low 
+medium 
+high 
+neither 
+value 
+growth 
+source clarifi morgan stanley research 
+morgan stanley research 
+source clarifi morgan stanley research 
+stocks with pensions underfunded least 
+exhibit 
+exhibit 
+underfunded least sector composition 
+underfunded least size composition 
+size composition stocks with pensions underfunded least 
+dec aug 
+sector composition stocks with pensions underfunded least 
+dec aug 
+reit 
+util 
+tele 
+tech 
+finc 
+hlth 
+stap 
+disc 
+indl 
+matl 
+enrg 
+micro 
+small 
+mid 
+large 
+mega 
+source clarifi morgan stanley research 
+source clarifi morgan stanley research 
+exhibit 
+exhibit 
+underfunded least quality composition 
+underfunded least style composition 
+style composition stocks with pensions underfunded least 
+dec aug 
+quality composition stocks with pensions underfunded least 
+jan aug 
+junk 
+low 
+medium 
+high 
+value 
+growth 
+source clarifi morgan stanley research 
+neither 
+source clarifi morgan stanley research 
+stocks with pensions underfunded least 
+exhibit 
+exhibit 
+underfunded least sector composition 
+underfunded least size composition 
+sector composition stocks with pensions underfunded least 
+dec aug 
+size composition stocks with pensions underfunded least 
+dec aug 
+reit 
+util 
+tele 
+tech 
+finc 
+hlth 
+stap 
+disc 
+indl 
+matl 
+enrg 
+micro 
+small 
+mid 
+large 
+mega 
+source clarifi morgan stanley research 
+source clarifi morgan stanley research 
+exhibit 
+exhibit 
+underfunded least quality composition 
+underfunded least style composition 
+quality composition stocks with pensions underfunded least 
+dec aug 
+style composition stocks with pensions underfunded least 
+dec aug 
+junk 
+low 
+medium 
+high 
+neither 
+value 
+growth 
+source clarifi morgan stanley research 
+morgan stanley research 
+source clarifi morgan stanley research 
+exhibit 
+correlation matrix independent variables 
+correlation matrix independent variables 
+variable 
+ntm eps 
+estimate 
+binary 
+long term 
+debt 
+market cap 
+ntm eps estimate binary 
+combined 
+debt 
+combined 
+debt 
+log scaled 
+market cap 
+rank 
+dividend yield 
+binary 
+net debt 
+market cap 
+estimate 
+dispersion 
+undefunded 
+status 
+enrg 
+matl 
+indl 
+disc 
+stap 
+hlth 
+finc 
+tech 
+tele 
+util 
+reit 
+binary binary binary binary binary binary binary binary binary binary binary 
+long term debt market cap 
+dividend yield binary 
+net debt market cap 
+estimate dispersion 
+undefunded status 
+enrg binary 
+matl binary 
+indl binary 
+disc binary 
+stap binary 
+hlth binary 
+finc binary 
+tech binary 
+tele binary 
+util binary 
+reit binary 
+combined debt 
+combined debt 
+log scaled market cap rank 
+source clarifi morgan stanley research combined debt net debt market cap underfunded status combined debt long term debt market cap underfunded status 
+regression results 
+exhibit 
+regression results forward beta select factors 
+single factor regression stock forward day beta below factors 
+independent variable 
+dividend yield binary 
+log scaled market cap rank 
+enrg binary 
+matl binary 
+indl binary 
+disc binary 
+stap binary 
+hlth binary 
+finc binary 
+tech binary 
+tele binary 
+util binary 
+reit binary 
+ntm eps estimate binary 
+estimate dispersion 
+undefunded status 
+net debt market cap 
+combined debt 
+long term debt market cap 
+combined debt 
+underfunded status binary 
+type 
+statistic 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+parms 
+intercept 
+coeffiecient 
+squared 
+exhibit 
+there significant positive relationship between return and 
+changes yield curve level 
+stats month over month change yield curve level 
+all statistically significant values 
+model univ 
+some 
+obligation 
+underfunded underfunded underfunded underfunded 
+least 
+least 
+least 
+source clarifi morgan stanley research 
+exhibit 
+there significant relationship between return and changes 
+the yield curve slope 
+stats month over month change yield curve slope 
+none are statistically significant values 
+source clarifi morgan stanley research combined debt net debt market cap underfunded 
+status combined debt long term debt market cap underfunded status 
+model univ 
+some 
+obligation 
+underfunded underfunded underfunded underfunded 
+least 
+least 
+least 
+source clarifi morgan stanley research 
+exhibit 
+there significant negative relationship between return and 
+changes baa credit spreads 
+stats month over month change baa credit spread 
+all statistically significant values 
+model univ 
+some 
+obligation 
+underfunded underfunded underfunded underfunded 
+least 
+least 
+least 
+source clarifi morgan stanley research 
+morgan stanley research 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan stanley mexico casa bolsa 
+and morgan stanley canada limited used this disclosure section morgan stanley includes morgan stanley llc morgan stanley morgan stanley mexico 
+casa bolsa morgan stanley canada limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan stanley research disclosure website 
+morganstanley researchdisclosures contact your investment representative morgan stanley research broadway attention research management new york 
+usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client support team follows canada 
+hong kong latin america london singapore sydney tokyo 
+alternatively you may contact your investment representative morgan stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they have not received and will not 
+receive direct indirect compensation exchange for expressing specific recommendations views this report todd castagno cfa cpa elizabeth harrow brian hayes snehaja 
+mogre vishwas patkar andrew pauker adam richmond evan silverberg adam virgadamo cfa michelle weaver michael wilson 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+the following analyst strategist household member owns securities related derivatives company that she covers recommends morgan stanley research evan 
+silverberg boeing common preferred stock caterpillar inc common preferred stock 
+december morgan stanley beneficially owned more class common equity securities the following companies covered morgan stanley research inc 
+boeing ford motor company ibm lockheed martin corp raytheon 
+within the last months morgan stanley managed managed public offering offering securities inc boeing caterpillar inc ford motor company general 
+electric parker hannifin corp ryder system inc textron inc united parcel service 
+within the last months morgan stanley has received compensation for investment banking services from inc boeing ford motor company general electric parker hannifin 
+corp ryder system inc textron inc united parcel service 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from inc avery dennison corp boeing caterpillar inc 
+fedex corporation ford motor company general dynamics corp general electric inc ibm lockheed martin corp northrop grumman corp parker hannifin corp raytheon 
+ryder system inc textron inc united parcel service whirlpool corporation 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from inc avery dennison corp boeing 
+caterpillar inc ford motor company general electric inc ibm international paper lockheed martin corp northrop grumman corp parker hannifin corp raytheon textron inc 
+united parcel service whirlpool corporation 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with the following company 
+inc avery dennison corp boeing caterpillar inc fedex corporation ford motor company general dynamics corp general electric inc ibm lockheed martin corp northrop 
+grumman corp parker hannifin corp raytheon ryder system inc textron inc united parcel service whirlpool corporation 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has entered into agreement provide 
+services has client relationship with the following company inc avery dennison corp boeing caterpillar inc fedex corporation ford motor company general electric 
+inc ibm international paper lockheed martin corp northrop grumman corp parker hannifin corp raytheon ryder system inc textron inc united parcel service whirlpool corporation 
+employee director consultant morgan stanley director caterpillar inc ibm this person not research analyst member research analyst household 
+morgan stanley llc makes market the securities inc avery dennison corp boeing caterpillar inc fedex corporation ford motor company general dynamics corp 
+general electric inc ibm international paper lockheed martin corp northrop grumman corp parker hannifin corp raytheon ryder system inc textron inc united parcel service 
+whirlpool corporation 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality 
+research investor client feedback stock picking competitive factors firm revenues and overall investment banking revenues equity research analysts strategists compensation not 
+linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing liquidity fund management 
+commercial banking extension credit investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered 
+morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed this report morgan stanley trades may trade 
+principal the debt securities related derivatives that are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan stanley does not assign ratings buy 
+hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell investors should carefully read the definitions all 
+ratings used morgan stanley research addition since morgan stanley research contains more complete information concerning the analyst views investors should carefully read morgan 
+stanley research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+december 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our ratings overweight equal weight 
+not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell but represent recommended relative weightings see definitions below satisfy regulatory requirements correspond overweight our most positive stock rating 
+with buy recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating category 
+other material investment services clients 
+investment banking clients ibc 
+misc 
+count 
+total 
+count 
+total ibc 
+rating category 
+count 
+total other misc 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment banking compensation the 
+last months due rounding off decimals the percentages provided the total column may not add exactly percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe risk adjusted basis over the next 
+months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe risk adjusted basis over 
+the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe risk adjusted basis over the next 
+months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad market benchmark indicated 
+below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+morgan stanley research 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc morgan stanley any 
+their affiliates are available the morgan stanley wealth management disclosure website morganstanley online researchdisclosures for morgan stanley specific disclosures 
+you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the same person who reviews 
+the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities inc boeing caterpillar inc fedex corporation ford motor company 
+general dynamics corp general electric inc ibm lockheed martin corp northrop grumman corp parker hannifin corp raytheon ryder system inc textron inc united parcel 
+service whirlpool corporation 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based developments with the issuer the 
+sector the market that may have material impact the research views opinions stated therein addition certain research publications are intended updated regular periodic 
+basis weekly monthly quarterly annual and will ordinarily updated with that frequency unless the research analyst and research management determine that different publication 
+schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning section the 
+dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the recommendations views expressed 
+research the same stock this may the result differing time horizons methodologies market events other factors for all research available particular stock please contact 
+your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients certain but not all morgan 
+stanley research products are also made available clients through third party vendors redistributed clients through alternate electronic means convenience for access all 
+available morgan stanley research please contact your sales representative matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and using morgan stanley 
+research you are indicating that you have read and agree bound our terms use http morganstanley terms addition you consent morgan stanley processing 
+your personal data and using cookies accordance with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes 
+setting your preferences and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan stanley 
+processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances and objectives those 
+who receive morgan stanley recommends that investors independently evaluate particular investments and strategies and encourages investors seek the advice financial adviser 
+the appropriateness investment strategy will depend investor circumstances and objectives the securities instruments strategies discussed morgan stanley research 
+may not suitable for all investors and certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary because changes 
+interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational financial conditions companies other factors there 
+may time limitations the exercise options other rights securities instruments transactions past performance not necessarily guide future performance estimates future 
+performance are based assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject 
+company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based upon various factors 
+including quality accuracy and value research firm profitability revenues which include fixed income trading and capital markets profitability revenues client feedback and competitive 
+factors fixed income research analysts strategists economists compensation not linked investment banking capital markets transactions performed morgan stanley the 
+profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns more class 
+common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley may have investment less than securities instruments 
+derivatives securities instruments companies and may trade them ways different from those discussed morgan stanley research employees morgan stanley not involved 
+the preparation morgan stanley research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable comprehensive 
+information but make representation that accurate complete have obligation tell you when opinions information morgan stanley research change apart from 
+when intend discontinue equity research coverage subject company facts and views presented morgan stanley research have not been reviewed and may not reflect information 
+known professionals other morgan stanley business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company associated expenses unless 
+pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl 
+such information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research 
+may not distributed the public media quoted used the public media without the express written consent morgan stanley any non customer reader within the scope article 
+the taiwan stock exchange recommendation regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party 
+including but not limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create give the 
+appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not constitute offer sell 
+the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest such securities and shall responsible for obtaining all relevant 
+approvals licenses verifications and registrations from the relevant governmental authorities themselves neither this report nor any part intended shall constitute provision 
+any consultancy advisory service securities investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa which regulated comision nacional 
+bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico city japan morgan stanley mufg securities ltd and for commodities 
+related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley 
+asia international limited hong kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte 
+ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should contacted with respect any 
+matters arising from connection with morgan stanley research and morgan stanley asia international limited singapore branch registration number australia 
+wholesale clients within the meaning the australian corporations act morgan stanley australia limited holder australian financial services license 
+which accepts responsibility for its contents australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management 
+australia pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan stanley international 
+plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas indonesia canada morgan stanley canada limited which has 
+approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the 
+spanish securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct applicable financial 
+research established under spanish regulations the morgan stanley llc which accepts responsibility for its contents morgan stanley international plc authorized 
+the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory authority disseminates the research that has prepared and approves 
+solely for the purposes section the financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited 
+member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan stanley research being disseminated 
+morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services authority the dfsa 
+and directed professional clients only defined the dfsa the financial products financial services which this research relates will only made available customer who 
+are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre regulatory authority 
+the qfcra and directed business customers and market counterparties only and not intended for retail customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment advisory activity investment 
+advisory service provided exclusively persons based their risk and income preferences the authorized firms comments and recommendations stated here are general nature these 
+opinions may not fit your financial status risk and return preferences for this reason make investment decision relying solely this information stated here may not bring about 
+outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties representations relating 
+the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating such data the global industry classification standard gics was 
+developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley research 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

@@ -1,0 +1,584 @@
+february gmt 
+software 
+filtering through the 
+marketing noise rsa 
+conference 
+security top priority reverberated through the rsa 
+conference with still complex vendor ecosystem contrasting 
+with enterprises looking garner more value out existing 
+vendors think this ultimately favors the large vendors 
+panw with consolidation the inevitable path 
+good enough now good enough attended the rsa security 
+conference where noted healthy security demand environment with some 
+enthusiasm amongst security vendors that should shape better 
+year for growth versus the digestion year while previous rsa 
+conferences have generally focused one two new technologies positioned 
+the silver bullet for cyber challenges such next gen malware protection 
+security analytics next gen firewalls this year sensed higher level best 
+breed fatigue the reality that prevention technologies will never wholy 
+effective and budgets need split more fully cover prevention detection 
+and remediation efforts the mantra moves from more security towards more 
+efficient and effective security specifically seems enterprises are looking 
+get more functionality out existing vendors security vendors themselves are 
+following suit and marketing broader capabilities they build out their 
+portfolio solutions address multiple buckets security spending notable 
+takeaways from this trend more dollars will accrue the largest security 
+vendors driving our positive view panw and symc and consolidation 
+within security inevitable with valuations security below historical levels 
+iot security approaching inflection point but still early days enterprises 
+are increasingly acknowledging the need secure expanding digital surface 
+area including cloud mobile and increasingly containers and iot light the 
+dyn breach there are number challenges with securing iot devices such 
+the heterogeneity hardware software and limited compute capacity handle 
+agent based prevention software traditional endpoint security however 
+see two broad themes emerging secure growing surface area including 
+visibility you can secure what you don know security analytics remains 
+key theme but has crossed the chasm from marketing lingo enterprise 
+budgeting number vendors are addressing the key requirements 
+enabling better visibility into all assets workloads and vulnerabilities 
+across variety different technologies which expect will start 
+merge these technologies include endpoint management tanium 
+vulnerability management and security incident and event 
+morgan stanley llc 
+melissa gorham 
+equity analyst 
+melissa gorham morganstanley 
+keith weiss cfa 
+equity analyst 
+keith weiss morganstanley 
+anjelo austria 
+research associate 
+anjelo austria morganstanley 
+software 
+north america 
+industryview 
+attractive 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+management tech splunk 
+control putting more control through granular security policy with 
+enterprises now acknowledging that not all network connected assets can 
+protected hear enterprises applying segmentation 
+approaches define and control the most sensitive 
+assets workloads data applying segmentation techniques allows for more 
+granularity but also flexibility around security policies enabling some 
+processes prohibiting others high level enterprises are leveraging 
+microsegmentation technologies illumio and virtual firewalls 
+granularly secure network flows palo alto networks fortinet network 
+access control technologies also emerging means control the 
+connection assets the network 
+are security ops and ops ready come together with human capital being 
+key constraint security effectiveness there growing push further 
+automate and orchestrate the actions needed identify assess and remediate 
+malicious behavior however often times remediation entails actions typically 
+under the control ops patching thus there growing recognition 
+that operations and security will increasingly blur however still early days 
+with security and ops still siloed representing impediment implementing 
+full orchestration automation security policies security vendors look push 
+out their capabilities into the ops realm while vendors like splunk and more 
+recently servicenow are pushing into security from the ops side the fence 
+the year the endpoint seeing renaissance endpoint 
+security with recognition that traditional anti virus solutions are 
+ineffective and the move the cloud based apps shifting control points 
+security identities and endpoints this corroborated our january 
+cio survey with cios identifying endpoint security top beneficiary 
+security spending next gen capabilities address the deficiencies traditional 
+through machine learning and heuristic technologies catch the most stealthy 
+malware with fairly long list private vendors leading the charge and 
+momentum while this leads investors assume the death traditional 
+endpoint vendors such symc are less bearish still don hear 
+enterprises ripping out traditional most next gen vendors can replace 
+and continue hear about consolidation around endpoint protection 
+platforms favoring incumbent vendors who can offer multiple functionality 
+within one software agent 
+stock takeaways 
+feye still lots moving pieces attended fireeye investor meeting with 
+ceo kevin mandia and new cfo frank verdecanna several takeaways 
+simplifying the portfolio fireeye digesting its product sprawl over the past few 
+years moving the appliance skus from helix new solution expected 
+represents step the right direction integrating its network 
+endpoint and threat intelligence solutions one subscription lower 
+than stand alone pricing banking new products for acceleration 
+management acknowledges good enough competition its core appliance 
+market however they expect return growth new solutions ramp and 
+the new head sales bill robbins improves sales productivity however 
+these new solutions are not yet the market are very nascent driving our 
+limited visibility confidence this back half acceleration and still focused 
+leverage despite the moving pieces management reiterated its goal for positive 
+operating cash flow evolving product portfolio amid new head 
+sales which could drive disruption and investment the sales force reduces 
+our confidence significant margin leverage 
+ftnt wasn just budget flush hosted meetings with cfo drew del 
+matto and new head kelly blough management addressed some the 
+key debates post including strength billings billings grew yoy 
+improvement from last the biggest debate the extent which this 
+strength was due one time budget flush more sustainable drivers del 
+matto noted the key drivers strength include stable demand environment 
+positive customer feedback its security fabric architecture and improved sales 
+productivity particularly with changes made august streamline the sales 
+org and continued leverage management continued note focus 
+improving margins through better sales productivity and more subscription 
+content reiterating its goal margins 
+however capex will remain elevated due real estate investments 
+which may continue into muting near term fcf growth 
+pfpt competitive environment still favorable hosted meetings with ceo 
+gary steele and cfo paul auvil management addressed some the key 
+debates post including magnitude beat while pfpt posted yoy 
+billings growth investor feedback noted more moderate level billings 
+beat and exposure large deals the mgmt reiterated very healthy with 
+normal linearity and magnitude beats line with historical levels absent the 
+anomalies microsoft competition microsoft has been more 
+noisy the security space the past year recently announcing new security 
+score for and updates its advanced malware protection solutions 
+for management continued note limited competition from microsoft 
+with proofpoint price performance equation compelling for large enterprises 
+despite microsoft ability more price aggressive with proofpoint core 
+protection suite user year the spend for greater functionality remains 
+minimal relative pricing and other areas security spend management 
+commentary aligns with commentary from the channel customers but 
+paying close attention see there are any changes 
+rpd working bring ops together with security held several meetings 
+with management including ceo corey thomas and new cfo jeff 
+kalowski would note number takeaways leveraging its data beyond 
+vulnerability management has extended its reach beyond onpremise include cloud based detection and response platform 
+addressing other areas security such siem and operations while still 
+early days the insights platform has already ramped billings within 
+year highlighting good amount momentum and still work the 
+enterprise space while billings growth was improvement from 
+mgmt notes that traction within the enterprise space remains soft with more 
+work done new americas sales eric erston could help but likely 
+not for few our view 
+valuation methodology and risks 
+cuda discount base case fcf adj for sbc 
+fcf margins improve through and leverage and growing 
+recurring rev base cuda trades fcf adj for stock based comp yielding 
+share price assuming discount rate 
+risks include 
+upside risks less headwind and greater customer lifetime value from the cloud 
+transition more significant leverage from greater rationalization 
+underperforming businesses improving demand storage 
+downside risks increased competition from larger vendors limited margin 
+expansion from increased investments for growth complex financial model creates 
+volatility reported revenues 
+chkp based off fcf share eps and 
+fcf grows cagr from chkp trades fcf 
+relatively line with low growth software peers 
+upside risks include 
+firewall refreshes could sustain longer and stronger than our base case 
+assumptions driving better top line growth for check point 
+increased and spend could drive better than expected new customer 
+acquisition 
+with cash the balance sheet additional acquisitions accelerate 
+growth are risk 
+feye based off discount base case fcf 
+expansion among existing customers and sustained new customer adoption drives 
+feye customer base grow cagr reach total rev reaches 
+fcf margins improve through and leverage and 
+growing recurring rev base feye growth rate remains robust and feye trades 
+fcf which line with slower growth large cap software yielding share 
+discounted rate 
+risks include 
+upside risks increased investment sales capacity channel relationships and 
+strategic partnerships could drive new customer growth ahead expectations 
+while expanded product portfolio could drive higher contract values and greater 
+billings growth better leverage could scale fcf profitability sooner than 
+expected 
+downside risks increased competition and limited traction with new products could 
+drive substantially lower growth while lack progress towards reaching 
+profitability could lead weaker stock price performance 
+ftnt based off discount fcf with focus 
+better productivity and against slowing growth operating margins 
+growing steadily from ftnt continues steadily grow fcf 
+yielding when applying fcf multiple and discounted 
+rate 
+downside risks include 
+slowing firewall refreshes and increased competition could drive substantially 
+lower growth 
+increased investment and could lead lower margins 
+impv based off discount fcf impv 
+execution its core markets drives customer base growth cagr reach 
+cumulative revenue per customer grows single digits and total revenue reaches 
+our base case assumes fcf rev impv decelerating 
+fcf growth rate drives multiple fcf yielding share price 
+assuming discount rate fcf modest discount impv comp 
+group reflecting impv relatively smaller market opportunity and undersized margin 
+profile 
+upside risks consolidation strategic action could drive stock appreciation improved 
+sales productivity and new products such incapsula skyfence and 
+counterbreach garnering greater market awareness and traction 
+panw based off fcf per share multiple 
+relatively line with fcf growth discount rate margins improve 
+through and leverage and growing recurring rev base are 
+assuming fcf rev 
+downside risks include 
+slowing firewall refreshes could drive greater than expected impact palo alto 
+top line growth 
+palo alto may see limited traction new product areas such traps and wildfire 
+increasingly competitive environment could necessitate additional spending 
+limiting margin leverage 
+pfpt based off base case fcf proofpoint 
+continues take share its core email protection market while relatively new 
+solutions are adding incremental growth billings growth sustains for the next few 
+years reach billings revs greater scale and better 
+sales productivity drives margins from with fcf 
+revenue pfpt trades fcf multiple line with historical 
+large cap growth software this yields share assuming discount rate 
+downside risks include 
+increased competition from larger competitors including microsoft and symantec 
+new solutions are slower gain traction 
+adoption cloud based solutions could slow due data privacy and security 
+concerns 
+scwx based off discount base case fcf 
+our base case assumes fcf revenue scwx trades 
+fcf yielding share price assuming discount rate 
+fcf supported our year dcf and represents discount the broader 
+security comp group which think appropriate given its lower gross margin profile 
+and mixed execution which relatively offset scwx attractive broad industry 
+exposure 
+downside risks include 
+increased competition from larger competitors managed security services could 
+limit the sustainability growth 
+lack progress towards reaching fcf and operating margin break even could lead 
+weaker stock price performance 
+splk based off fcf assuming fcf 
+rev and discount rate margins improve 
+through and leverage and growing recurring rev fcf growth supports 
+splk multiple fcf yielding share price entering 
+downside risks include 
+increased competition from large and established tech vendors 
+multiple licensing models perpetual term and subscription could lead 
+increased income statement volatility 
+symc based off eps the addition blue 
+coat bolsters symantec enterprise security business and consumer security less 
+drag margins improve the company grows cagr from more 
+focused strategy and improved execution helps drive margin improvement forecast 
+revenues growing operating margins improve from 
+symantec trades eps relatively line with its long 
+term average ntm 
+downside risks include 
+symantec security may not reach operating margin and revenue growth targets 
+losing market share endpoint security from next generation malware protection 
+vendors 
+additional large acquisitions 
+vrns based off discount base case fcf 
+strong fcf growth rate and margin expansion potential sustain vrns multiple 
+fcf yielding share price assuming discount rate this 
+equates sales relatively line with the slower growth names within 
+its comp group 
+upside risks include 
+new customer wins driven recent sales investments well increased 
+penetration existing customers through adoption new products could drive 
+better than expected growth 
+leverage and greater scale could drive margin leverage better than 
+expected 
+varonis offers strategic technology therefore consolidation within the security 
+software space could drive vrns multiple higher 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan 
+stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley includes morgan 
+stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and their affiliates 
+necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report melissa 
+gorham keith weiss cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+january morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research atlassian corporation plc box inc coupa software inc ellie mae inc fireeye inc hubspot inc palo alto networks inc 
+salesforce servicenow inc splunk inc veeva systems inc workday workiva inc zendesk inc 
+within the last months morgan stanley managed managed public offering offering securities coupa software inc ellie mae inc 
+godaddy inc microsoft nuance communications inc shopify inc travelport worldwide limited 
+within the last months morgan stanley has received compensation for investment banking services from appfolio inc avg technologies cdk global 
+inc coupa software inc ellie mae inc godaddy inc instructure inc microsoft nuance communications inc secureworks corp shopify inc travelport 
+worldwide limited workiva inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from adobe systems akamai 
+technologies inc appfolio inc atlassian corporation plc autodesk avg technologies barracuda networks inc bazaarvoice inc box inc cdk global 
+inc check point software technologies ltd citrix systems inc coupa software inc descartes systems group inc ellie mae inc endurance international 
+group holdings inc fireeye inc fortinet inc godaddy inc hubspot inc imperva inc instructure inc intuit jive software inc microsoft mindbody inc 
+new relic inc nuance communications inc oracle corporation palo alto networks inc proofpoint inc inc red hat inc sabre corp 
+salesforce servicenow inc shopify inc splunk inc technologies holdings inc symantec tableau software travelport worldwide limited 
+varonis systems inc veeva systems inc vmware inc workday workiva inc zendesk inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from adobe 
+systems akamai technologies inc autodesk check point software technologies ltd fortinet inc intuit microsoft nuance communications inc oracle 
+corporation red hat inc sabre corp salesforce technologies holdings inc symantec tableau software travelport worldwide limited 
+vmware inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company adobe systems akamai technologies inc appfolio inc atlassian corporation plc autodesk avg technologies barracuda 
+networks inc bazaarvoice inc box inc cdk global inc check point software technologies ltd citrix systems inc coupa software inc descartes 
+systems group inc ellie mae inc endurance international group holdings inc fireeye inc fortinet inc godaddy inc hubspot inc imperva inc 
+instructure inc intuit jive software inc microsoft mindbody inc new relic inc nuance communications inc oracle corporation palo alto networks inc 
+proofpoint inc inc red hat inc sabre corp salesforce servicenow inc shopify inc splunk inc technologies holdings inc 
+symantec tableau software travelport worldwide limited varonis systems inc veeva systems inc vmware inc workday workiva inc zendesk inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company adobe systems akamai technologies inc autodesk 
+cdk global inc check point software technologies ltd citrix systems inc fireeye inc fortinet inc godaddy inc intuit microsoft nuance 
+communications inc oracle corporation red hat inc sabre corp salesforce servicenow inc technologies holdings inc symantec 
+tableau software travelport worldwide limited vmware inc workday 
+employee director consultant morgan stanley director workiva inc this person not research analyst member research analyst 
+household 
+morgan stanley llc makes market the securities adobe systems akamai technologies inc atlassian corporation plc autodesk barracuda 
+networks inc bazaarvoice inc box inc cdk global inc check point software technologies ltd citrix systems inc ellie mae inc endurance international 
+group holdings inc fireeye inc fortinet inc godaddy inc hubspot inc instructure inc intuit microsoft mindbody inc new relic inc nuance 
+communications inc oracle corporation palo alto networks inc proofpoint inc holdings inc inc red hat inc sabre corp salesforce 
+servicenow inc shopify inc splunk inc technologies holdings inc symantec tableau software travelport worldwide limited varonis systems 
+inc veeva systems inc vmware inc workday zendesk inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+january 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems autodesk bazaarvoice 
+inc cdk global inc intuit microsoft nuance communications inc oracle corporation palo alto networks inc symantec workday 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers hong 
+kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities hong 
+kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia indonesia 
+canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley 
+bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage software 
+company ticker 
+rating 
+price 
+brian essex cfa 
+appfolio inc appf 
+cdk global inc cdk 
+descartes systems group inc dsgx 
+ellie mae inc elli 
+endurance international group holdings inc eigi 
+godaddy inc gddy 
+instructure inc inst 
+mindbody inc 
+holdings inc qtwo 
+sabre corp sabr 
+shopify inc shop 
+technologies holdings inc ssnc 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+symantec symc 
+vmware inc vmw 
+workday wday 
+melissa gorham 
+avg technologies avgtf 
+barracuda networks inc cuda 
+box inc box 
+fireeye inc feye 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+inc rpd 
+secureworks corp scwx 
+splunk inc splk 
+varonis systems inc vrns 
+sanjit singh 
+atlassian corporation plc team 
+new relic inc newr 
+nuance communications inc nuan 
+tableau software data 
+stan zlotsky cfa 
+bazaarvoice inc 
+coupa software inc coup 
+hubspot inc hubs 
+jive software inc jive 
+veeva systems inc veev 
+workiva inc 
+zendesk inc zen 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

@@ -1,0 +1,2395 @@
+table contents 
+united states 
+securities and exchange commission 
+washington 
+___________________________________________________________________________________________________ 
+form 
+__________________________________________________________________________________________________ 
+quarterly report pursuant section the securities exchange act 
+for the quarterly period ended march 
+transition report pursuant section the securities exchange act 
+for the transition period from 
+commission file number 
+______________________________________________________________________________________ 
+delphi technologies plc 
+exact name registrant specified its charter 
+____________________________________________________________________________________________________ 
+jersey 
+state other jurisdiction 
+incorporation organization 
+employer 
+identification 
+one angel court 
+floor 
+london 
+united kingdom 
+address principal executive offices 
+registrant telephone number including area code 
+former name former address and former fiscal year changed since last report 
+__________________________________________________________________________ 
+indicate check mark whether the registrant has filed all reports required filed section the securities exchange act 
+during the preceding months for such shorter period that the registrant was required file such reports and has been subject such filing requirements 
+for the past days yes 
+indicate check mark whether the registrant has submitted electronically and posted its corporate website any every interactive data file required 
+submitted and posted pursuant rule regulation during the preceding months for such shorter period that the registrant was required 
+submit and post such files yes 
+indicate check mark whether the registrant large accelerated filer accelerated filer non accelerated filer smaller reporting company 
+emerging growth company see the definitions large accelerated filer accelerated filer smaller reporting company and emerging growth company 
+rule the exchange act 
+large accelerated filer 
+non accelerated filer 
+not check smaller reporting company 
+accelerated filer 
+smaller reporting company 
+emerging growth company 
+emerging growth company indicate check mark the registrant has elected not use the extended transition period for complying with any new 
+revised financial accounting standards provided pursuant section the exchange act 
+indicate check mark whether the registrant shell company defined rule the exchange act yes 
+the number the registrant ordinary shares outstanding par value per share may was 
+table contents 
+delphi technologies plc 
+index 
+page 
+part financial information 
+item 
+financial statements 
+consolidated statements operations for the three months ended march and unaudited 
+consolidated statements comprehensive income for the three months ended march and unaudited 
+consolidated balance sheets march unaudited and december 
+consolidated statements cash flows for the three months ended march and unaudited 
+consolidated statement shareholders equity for the three months ended march unaudited 
+notes consolidated financial statements unaudited 
+cautionary statement regarding forward looking information 
+item 
+management discussion and analysis financial condition and results operations 
+item 
+quantitative and qualitative disclosures about market risk 
+item 
+controls and procedures 
+item 
+legal proceedings 
+item 
+risk factors 
+item 
+exhibits 
+part other information 
+signatures 
+exhibits 
+table contents 
+part financial information 
+item financial statements 
+delphi technologies plc 
+consolidated statements operations 
+unaudited 
+three months ended march 
+millions except per share amounts 
+net sales 
+operating expenses 
+cost sales 
+selling general and administrative 
+amortization 
+restructuring note 
+total operating expenses 
+operating income 
+interest expense 
+other income expense net note 
+income before income taxes and equity income 
+income tax expense 
+income before equity income 
+equity income net tax 
+net income 
+net income attributable noncontrolling interest 
+basic 
+diluted 
+net income attributable delphi technologies 
+net income per share attributable delphi technologies 
+weighted average ordinary shares outstanding 
+basic 
+diluted 
+cash dividends declared per share 
+see notes consolidated financial statements 
+table contents 
+delphi technologies plc 
+consolidated statements comprehensive income 
+unaudited 
+three months ended march 
+millions 
+net income 
+other comprehensive income 
+currency translation adjustments 
+net change unrecognized gain loss derivative instruments net tax note 
+employee benefit plans adjustment net tax 
+other comprehensive income 
+comprehensive income 
+comprehensive income attributable noncontrolling interests 
+comprehensive income attributable delphi technologies 
+see notes consolidated financial statements 
+table contents 
+delphi technologies plc 
+consolidated balance sheets 
+march 
+december 
+unaudited 
+millions 
+assets 
+current assets 
+cash and cash equivalents 
+restricted cash 
+accounts receivable net 
+inventories net note 
+other current assets note 
+investments affiliates 
+intangible assets and goodwill net note 
+total current assets 
+long term assets 
+property net 
+deferred income taxes note 
+other long term assets note 
+total long term assets 
+total assets 
+liabilities and shareholders equity 
+current liabilities 
+short term debt note 
+accounts payable 
+accrued liabilities note 
+total current liabilities 
+long term liabilities 
+long term debt note 
+pension and other postretirement benefit obligations note 
+other long term liabilities note 
+total long term liabilities 
+total liabilities 
+commitments and contingencies note 
+shareholders equity 
+preferred shares par value per share shares authorized none issued and outstanding 
+ordinary shares par value per share shares authorized and issued and 
+outstanding march and december respectively 
+additional paid capital 
+retained earnings 
+accumulated other comprehensive loss note 
+total delphi technologies shareholders equity 
+noncontrolling interest 
+total shareholders equity 
+total liabilities and shareholders equity 
+see notes consolidated financial statements 
+table contents 
+delphi technologies plc 
+consolidated statements cash flows 
+unaudited 
+three months ended march 
+millions 
+cash flows from operating activities 
+net income 
+adjustments reconcile net income net cash provided operating activities 
+depreciation 
+amortization 
+amortization deferred issuance costs 
+restructuring expense net cash paid 
+pension and other postretirement benefit expenses 
+income from equity method investments net dividends received 
+inventories 
+other assets 
+deferred income taxes 
+share based compensation 
+changes operating assets and liabilities 
+accounts receivable net 
+accounts payable 
+accrued and other long term liabilities 
+other net 
+pension contributions 
+net cash provided operating activities 
+cash flows from investing activities 
+capital expenditures 
+proceeds from sale property 
+cost technology investments 
+net cash used investing activities 
+cash flows from financing activities 
+net repayments under short term debt agreements 
+repayments under long term debt agreements 
+dividend payments consolidated affiliates minority shareholders 
+distribution cash dividends 
+taxes withheld and paid employees restricted share awards 
+other net transfers from former parent 
+net cash used financing activities 
+effect exchange rate fluctuations cash cash equivalents and restricted cash 
+decrease cash cash equivalents and restricted cash 
+cash cash equivalents and restricted cash beginning the period 
+cash cash equivalents and restricted cash end the period 
+see notes consolidated financial statements 
+table contents 
+delphi technologies plc 
+consolidated statement shareholders equity 
+unaudited 
+ordinary shares 
+number 
+shares 
+additional 
+paid 
+capital 
+amount 
+retained 
+earnings 
+accumulated other 
+comprehensive loss 
+total delphi 
+technologies 
+shareholders equity 
+noncontrolling 
+interest 
+total shareholders 
+equity 
+millions 
+balance january 
+net income 
+other comprehensive income 
+dividends ordinary shares 
+separation related adjustments 
+share based compensation 
+taxes withheld employees restricted share award 
+vestings 
+balance march 
+see notes consolidated financial statements 
+table contents 
+delphi technologies plc 
+notes consolidated financial statements unaudited 
+general 
+december delphi technologies plc became independent publicly traded company formed under the laws jersey result the separation 
+the powertrain systems segment which included the aftermarket operations from delphi automotive plc the former parent the separation was 
+completed the form pro rata distribution delphi automotive plc shareholders record november the outstanding ordinary 
+shares delphi technologies plc held delphi automotive plc the separation following the separation delphi automotive plc changed its name 
+aptiv plc aptiv delphi technologies ordinary shares began regular way trading the new york stock exchange under the ticker symbol dlph 
+december references hereinafter delphi technologies our the company refer delphi technologies plc and include the results 
+the former parent powertrain systems segment 
+nature operations 
+delphi technologies leader the development design and manufacture integrated powertrain technologies that optimize engine performance increase 
+vehicle efficiency reduce emissions improve driving performance and support increasing electrification vehicles the company global supplier original 
+equipment manufacturers oems seeking manufacture vehicles that meet and exceed increasingly stringent global regulatory requirements and satisfy 
+consumer demands for enhanced user experience provide advanced fuel injection systems fis actuators valvetrain products sensors electronic control 
+modules and power electronics technologies additionally the company offers full spectrum aftermarket products serving global customer base 
+our comprehensive portfolio advanced technologies and solutions for all propulsion systems are sold global oems both light vehicles passenger cars 
+trucks and vans and sport utility vehicles and commercial vehicles light duty medium duty and heavy duty trucks commercial vans buses and off highway 
+vehicles the delphi technologies aftermarket segment also remanufactures and sells our technologies leading aftermarket companies including independent 
+retailers and wholesale distributors supply wide range aftermarket products and services covering the fuel injection electronics and engine management 
+maintenance and test equipment and vehicle diagnostics categories also add aftermarket know how category management logistics training marketing and 
+other dedicated services provide full range aftermarket solutions throughout vehicles lives 
+basis presentation 
+prior the separation december the historical financial statements delphi technologies were prepared stand alone combined basis and were 
+derived from delphi automotive plc consolidated financial statements and accounting records the powertrain systems segment which historically 
+included delphi technologies aftermarket the former parent had been part delphi technologies for all periods presented accordingly for periods prior 
+december our financial statements are presented combined basis and for the periods subsequent december are presented consolidated 
+basis all periods hereinafter are referred consolidated financial statements 
+the time the separation used available information develop our best estimates for certain assets and liabilities related the separation certain 
+instances final determination the separation related balances will made subsequent periods and any adjustments necessary are recorded 
+shareholders equity when determined 
+the unaudited consolidated financial statements included herein have been prepared accordance with accounting principles generally accepted the united 
+states america gaap for interim financial information and with the instructions form and article regulation accordingly they 
+not include all the information and footnotes required gaap for complete annual financial statements all adjustments consisting normal recurring 
+items which are necessary for fair presentation have been included the consolidated financial statements and notes thereto included this report should 
+read conjunction with delphi technologies annual report form 
+significant accounting policies 
+principles consolidation the consolidated financial statements include the accounts delphi technologies united states and non 
+subsidiaries which the company holds controlling financial management interest and variable interest entities which delphi technologies has determined 
+that the primary beneficiary all significant intercompany transactions and balances between consolidated delphi technologies businesses have been 
+eliminated for periods prior december transactions between the company and the former parent have been included the financial statements within 
+former parent net investment prior december expenses related corporate allocations 
+table contents 
+from the former parent the company were considered effectively settled for cash the financial statements the time the transaction was recorded prior 
+the separation transactions between the company and the former parent other subsidiaries were classified related party rather than intercompany 
+transactions within the consolidated financial statements 
+delphi technologies share the earnings losses delphi tvs diesel systems ltd which delphi technologies owns approximately noncontrolled affiliate located india over which the company exercises significant influence included the consolidated operating results delphi 
+technologies using the equity method accounting 
+during the year ended december delphi technologies made million investment tula technology inc tula engine control software 
+company over which the company does not exert significant influence during the year ended december delphi technologies made additional 
+million investment tula 
+during the three months ended march delphi technologies made million investment polycharge america inc polycharge start 
+established commercialize new capacitor technology over which the company does not exert significant influence 
+tula and polycharge are privately held companies that not have readily determinable fair values and therefore are measured cost less impairments adjusted 
+for observable price changes orderly transactions for the identical similar investment the same issuer there were impairments upward adjustments 
+recorded during the three months ended march these investments are classified within other long term assets the consolidated balance sheets 
+the company monitors its equity investments including those measured fair value and those that not have readily determinable fair values for indicators 
+impairments upward adjustments ongoing basis the company determines that such indicator present adjustment recorded which 
+measured the difference between carrying value and estimated fair value estimated fair value generally determined using income approach based 
+discounted cash flows negotiated transaction values 
+use estimates preparation consolidated financial statements conformity with gaap requires the use estimates and assumptions that affect 
+amounts reported therein generally matters subject estimation and judgment include amounts related accounts receivable realization inventory 
+obsolescence asset impairments useful lives intangible and fixed assets deferred tax asset valuation allowances income taxes pension benefit plan 
+assumptions accruals related litigation warranty costs environmental remediation costs worker compensation accruals and healthcare accruals due the 
+inherent uncertainty involved making estimates actual results reported future periods may based upon amounts that differ from those estimates 
+revenue recognition recognize revenue accordance with financial accounting standards board fasb accounting standards codification asc 
+topic revenue from contracts with customers asc revenue recognized when obligations under the terms contract with our customer are 
+satisfied generally this occurs with the transfer control our production parts aftermarket parts revenue measured the amount consideration 
+expect receive exchange for transferring goods sales incentives and allowances including returns are recognized reduction revenue the time the 
+related sale estimate the allowances based analysis historical experience taxes assessed governmental authority that collect concurrent with 
+specific revenue producing transaction are excluded from net sales shipping and handling fees billed customers are included net sales while costs 
+shipping and handling are included cost sales 
+delphi technologies aftermarket provides certain customers with right return recognize estimated return asset and adjust for cost sales for the 
+right recover the products returned the customer asc requires that return assets presented separately from inventory march had 
+return assets million included other current assets 
+refer note revenue and note assets for additional information 
+net income per share basic net income per share computed dividing net income attributable delphi technologies the weighted average number 
+ordinary shares outstanding during the period diluted net income per share reflects the weighted average dilutive impact all potentially dilutive securities from 
+the date issuance and computed using the treasury stock method dividing net income attributable delphi technologies the diluted weighted average 
+number ordinary shares outstanding for periods prior the separation the denominator for basic and diluted net income per share was calculated using the 
+million delphi technologies ordinary shares outstanding immediately following the separation the same number shares was used calculate basic and 
+diluted earnings per share those periods since delphi technologies equity awards were outstanding prior the separation refer note shareholders 
+equity and net income per share for additional information including the calculation basic and diluted net income per share 
+rebates the company accrues for rebates pursuant specific arrangements primarily with certain aftermarket customers rebates generally provide for price 
+reductions based upon purchase volumes and are recorded reduction sales earned such customers 
+table contents 
+cash and cash equivalents cash and cash equivalents are defined short term highly liquid investments with original maturities three months less 
+accounts receivable accounts receivable are recorded the invoiced amount and not bear interest the company generally does not require collateral for its 
+trade receivables 
+sales receivables are accounted for accordance with the fasb asc topic transfers and servicing asc agreements which result true sales 
+the transferred receivables defined asc which occur when receivables are transferred third party without recourse the company are excluded 
+from amounts reported the consolidated balance sheets cash proceeds received from such sales are included operating cash flows the expenses associated 
+with receivables factoring are recorded the consolidated statements operations within interest expense 
+intangible assets intangible assets were million and million march and december respectively the company has definitelived intangible assets related patents and developed technology customer relationships and trade names the company amortizes definite lived intangible 
+assets over their estimated useful lives the company also has intangible assets related acquired trade names that are classified indefinite lived when there are 
+foreseeable limits the periods time over which they are expected contribute cash flows these indefinite lived trade name assets are tested for 
+impairment annually more frequently when indicators potential impairment exist costs renew extend the term acquired intangible assets are 
+recognized expense incurred amortization expense was million and million for the three months ended march and respectively 
+goodwill goodwill the excess the purchase price over the estimated fair value identifiable net assets acquired business combinations the company 
+tests goodwill for impairment annually the fourth quarter more frequently when indications potential impairment exist the company monitors the 
+existence potential impairment indicators throughout the fiscal year the company tests for goodwill impairment the reporting unit level our reporting units 
+are the components operating segments which constitute businesses for which discrete financial information available and regularly reviewed segment 
+management 
+there were indicators potential goodwill impairment during the three months ended march goodwill was million and million 
+march and december respectively 
+warranty and product recalls expected warranty costs for products sold are recognized the time sale the product based estimate the amount 
+that eventually will required settle such obligations these accruals are based factors such past experience production changes industry developments 
+and various other considerations costs product recalls which may include the cost the product being replaced well the customer cost the recall 
+including labor remove and replace the recalled part are accrued part our warranty accrual the time obligation becomes probable and can 
+reasonably estimated these estimates are adjusted from time time based facts and circumstances that impact the status existing claims refer note 
+warranty obligations for additional information 
+income taxes deferred tax assets and liabilities reflect temporary differences between the amount assets and liabilities for financial and tax reporting 
+purposes such amounts are adjusted appropriate reflect changes tax rates expected effect when the temporary differences reverse the effect 
+deferred tax assets and liabilities change tax rates recognized earnings the period that includes the enactment date valuation allowance recorded 
+reduce deferred tax assets the amount that more likely than not realized the event the company determines more likely than not that the 
+deferred tax assets will not realized the future the valuation allowance adjustment the deferred tax assets will charged earnings the period which 
+the company makes such determination determining the provision for income taxes for financial statement purposes the company makes certain estimates 
+and judgments which affect its evaluation the carrying value its deferred tax assets well its calculation certain tax liabilities refer note income 
+taxes for additional information 
+restructuring delphi technologies continually evaluates alternatives align the business with the changing needs its customers and lower operating 
+costs this includes the realignment its existing manufacturing capacity facility closures similar actions either the normal course business pursuant 
+significant restructuring programs these actions may result employees receiving voluntary involuntary employee termination benefits which are mainly 
+pursuant union other contractual agreements voluntary termination benefits are accrued when employee accepts the related offer involuntary termination 
+benefits are accrued upon the commitment termination plan and when the benefit arrangement communicated affected employees when liabilities are 
+determined probable and estimable depending the existence substantive plan for severance termination contract termination costs are recorded 
+when contracts are terminated when delphi technologies longer derives economic benefit from contract ceases use leased facility all other exit 
+costs are expensed incurred refer note restructuring for additional information 
+table contents 
+derivative financial instruments all derivative instruments are required reported the balance sheet fair value unless the transactions qualify and are 
+designated normal purchases sales changes fair value are reported currently through earnings unless they meet hedge accounting criteria 
+exposure fluctuations currency exchange rates are managed entering into variety forward contracts and swaps with various counterparties such 
+financial exposures are managed accordance with the policies and procedures delphi technologies not enter into derivative transactions for 
+speculative trading purposes part the hedging program approval process identify the specific financial risk which the derivative transaction will 
+minimize the appropriate hedging instrument used reduce the risk and the correlation between the financial risk and the hedging instrument purchase 
+orders sales contracts letters intent capital planning forecasts and historical data are used the basis for determining the anticipated values the transactions 
+hedged not enter into derivative transactions that not have high correlation with the underlying financial risk hedge positions well the 
+correlation between the transaction risks and the hedging instruments are reviewed ongoing basis 
+foreign exchange forward contracts are accounted for hedges firm forecasted foreign currency commitments the extent they are designated and assessed 
+highly effective all foreign exchange contracts are marked market current basis refer note derivatives and hedging activities and note fair 
+value financial instruments for additional information 
+customer concentrations there were customers with greater than our net sales for the three months ended march and march 
+recently adopted accounting pronouncements delphi technologies adopted accounting standards update asu revenue from contracts with 
+customers topic the first quarter using the modified retrospective method this asu supersedes most the existing guidance revenue 
+recognition asc topic revenue recognition and establishes broad principle that requires entity recognize revenue depict the transfer promised 
+goods services customers amount that reflects the consideration which the entity expects entitled exchange for those goods services the 
+adoption this guidance did not have significant impact the company consolidated financial statements topic was applied contracts with customers 
+which were not completed january the comparative information has not been restated and continues reported under the accounting standards 
+effect for those periods refer note revenue for additional information 
+delphi technologies adopted asu financial instruments overall subtopic recognition and measurement financial assets and financial 
+liabilities the first quarter this guidance makes targeted improvements existing gaap for financial instruments including requiring equity 
+investments except those accounted for under the equity method accounting those that result consolidation the investee measured fair value 
+with changes fair value recognized net income opposed other comprehensive income entities with equity investments that not have readily 
+determinable fair value and not qualify for the practical expedient asc estimate fair value using the net asset value per share may elect measure 
+these investments cost less any impairment plus minus changes resulting from observable price changes orderly transactions for identical similar 
+investment the same issuer the adoption this guidance did not have significant impact the company consolidated financial statements 
+delphi technologies adopted asu statement cash flows topic classification certain cash receipts and cash payments the first quarter 
+this guidance clarifies the presentation requirements eight specific issues within the statement cash flows the adoption this guidance did not 
+have significant impact the company consolidated financial statements company treatment the relevant affected items within its consolidated 
+statement cash flows generally consistent with the requirements this guidance 
+delphi technologies adopted asu accounting for income taxes intra entity asset transfers assets other than inventory the first quarter 
+this guidance requires that the tax effects all intra entity sales assets other than inventory recognized the period which the transaction occurs the 
+guidance was applied modified retrospective basis through cumulative effect adjustment retained earnings the beginning the period adoption 
+the adoption this guidance did not have significant impact the company consolidated financial statements 
+delphi technologies adopted asu statement cash flows topic restricted cash the first quarter this guidance requires that 
+statement cash flows explain the change during the period the total cash cash equivalents and restricted cash result restricted cash included with 
+cash and cash equivalents when reconciling the beginning period and end period total amounts shown the statement cash flows the adoption this 
+guidance did not have significant impact company consolidated financial statements other than the classification restricted cash within the beginning ofperiod and end period totals the consolidated statement cash flows opposed being excluded from these totals 
+table contents 
+delphi technologies elected early adopt asu derivatives and hedging targeted improvements accounting for hedging activities the first 
+quarter this guidance expands and refines the application hedge accounting for both non financial and financial risk components and aligns the 
+recognition and presentation the effects the hedging instrument and the hedged item the financial statements the adoption this guidance did not have 
+significant impact the company consolidated financial statements other than modifications the disclosures refer note derivatives and hedging 
+activities for additional details 
+recently issued accounting pronouncements not yet adopted february the fasb issued asu leases topic under this guidance 
+lessees will required recognize the balance sheet lease liability and right use asset for all leases with the exception short term leases the lease 
+liability represents the lessee obligation make lease payments arising from lease and will measured the present value the lease payments the rightof use asset represents the lessee right use specified asset for the lease term and will measured the lease liability amount adjusted for lease prepayment 
+lease incentives received and the lessee initial direct costs the standard also requires lessee recognize single lease cost allocated over the lease term 
+generally straight line basis the new guidance effective for fiscal years beginning after december asu required applied using 
+the modified retrospective approach for all leases existing the effective date and provides for certain practical expedients early adoption permitted the 
+company currently evaluating the effects that the adoption asu will have the company consolidated financial statements and anticipates the 
+new guidance will significantly impact its consolidated financial statements the company has significant number operating leases further described 
+our annual report form december the company had minimum lease commitments under non cancellable operating leases totaling 
+million 
+june the fasb issued asu financial instruments credit losses topic measurement credit losses financial instruments this 
+guidance requires the measurement all expected credit losses for financial assets held the reporting date based historical experience current conditions and 
+reasonable and supportable forecasts this guidance also requires enhanced disclosures regarding significant estimates and judgments used estimating credit 
+losses the new guidance effective for fiscal years beginning after december early adoption permitted for fiscal years and interim periods within 
+those fiscal years beginning after december the company currently evaluating the impact that the adoption this guidance will have its 
+consolidated financial statements 
+january the fasb issued asu intangibles goodwill and other topic simplifying the test for goodwill impairment this guidance 
+simplifies how entity required test goodwill for impairment eliminating step two from the goodwill impairment test which measures goodwill 
+impairment loss comparing the implied fair value reporting unit goodwill with the carrying amount under the new guidance reporting unit carrying 
+amount exceeds its fair value entity will record impairment charge based that difference the impairment charge will limited the amount goodwill 
+allocated that reporting unit the standard will applied prospectively and effective for annual and interim impairment tests performed periods beginning 
+after december early adoption permitted the company currently evaluating the impact adopting this standard its financial statements but 
+does not anticipate material impact this standard prospective nature the impact the company consolidated financial statements not performing 
+step two order measure the amount any potential goodwill impairment will depend various factors associated with the company assessment 
+goodwill for impairment those future periods 
+february the fasb issued asu technical corrections and improvements financial instruments overall subtopic recognition 
+and measurement financial assets and financial liabilities this update was issued clarify certain guidance within asu this includes 
+amendment clarify that entity measuring equity investment using the measurement alternative may change its measurement approach fair value 
+method accordance with asc through irrevocable election that would apply that investment and all identical similar investments the update 
+effective for fiscal years beginning after december and interim periods within those fiscal years beginning after june early adoption 
+permitted long the entity has adopted asu the company currently evaluating the impact that the adoption this guidance will have its 
+consolidated financial statements 
+table contents 
+related party transactions 
+prior the separation our transactions with the former parent were considered related party transactions connection with the separation entered into 
+number agreements with the former parent govern the separation and provide framework for the relationship between the parties going forward including 
+transition services agreement contract manufacturing services agreements tax matters agreement and employee matters agreement 
+related party sales and purchases the ordinary course business 
+prior the separation the ordinary course business the company entered into transactions with the former parent and certain its subsidiaries for the sale 
+purchase goods well other arrangements such providing engineering services for other subsidiaries the former parent subsequent the 
+separation transactions with the former parent and its affiliates represent third party transactions 
+prior the separation total purchases from other affiliates the former parent totaled million for the three months ended march 
+allocation expenses prior the separation 
+prior the separation certain services and functions including but not limited senior management legal human resources finance and accounting treasury 
+information technology services and support cash management payroll processing pension and benefit administration and other shared services were provided 
+the former parent these costs were allocated using methodologies that management believes were reasonable for the item being allocated allocation 
+methodologies included direct usage when identifiable well the company relative share revenues headcount functional spend percentage the 
+total however the expenses reflected are not indicative the actual expenses that would have been incurred during the periods presented the company had 
+operated stand alone publicly traded company addition the expenses reflected the financial statements may not indicative expenses the company 
+will incur the future 
+the total costs for services and functions allocated the company from the former parent for periods prior the separation were follows 
+three months ended march 
+expense allocated 
+millions 
+cost sales 
+selling general and administrative 
+total allocated cost from former parent 
+additionally prior the separation the company participated global cash pooling arrangement operated the former parent under which arrangement the 
+working capital needs the company were managed the majority the company cash during these periods was transferred the former parent and the 
+former parent funded the company operating and investing activities necessary the cumulative net transfers related these transactions are recorded 
+former parent net investment the consolidated financial statements 
+inventories net 
+inventories net are stated the lower cost determined first first out basis net realizable value including direct material costs and direct and indirect 
+manufacturing costs summary inventories shown below 
+march 
+december 
+millions 
+productive material 
+work process 
+finished goods 
+total 
+table contents 
+assets 
+other current assets consisted the following 
+march 
+december 
+millions 
+value added tax receivable 
+prepaid insurance and other expenses 
+reimbursable engineering costs 
+notes receivable 
+income and other taxes receivable 
+deposits vendors 
+return assets note 
+total 
+other long term assets consisted the following 
+march 
+december 
+millions 
+debt issuance costs 
+income and other taxes receivable 
+reimbursable engineering costs 
+value added tax receivable 
+investment tula note 
+investment polycharge note 
+other 
+total 
+table contents 
+liabilities 
+accrued liabilities consisted the following 
+march 
+december 
+millions 
+payroll related obligations 
+employee benefits 
+income and other taxes payable 
+warranty obligations note 
+restructuring note 
+customer deposits 
+freight 
+outside services 
+derivative financial instruments note 
+accrued interest 
+deferred cost reimbursement 
+accrued rebates 
+deferred reimbursable engineering 
+other 
+total 
+other long term liabilities consisted the following 
+march 
+december 
+millions 
+environmental note 
+warranty obligations note 
+restructuring note 
+accrued income taxes 
+deferred income taxes net note 
+other 
+total 
+warranty obligations 
+expected warranty costs for products sold are recognized principally the time sale the product based estimate the amount that eventually will 
+required settle such obligations these accruals are based factors such past experience production changes industry developments and various other 
+considerations the estimated costs related product recalls based formal campaign soliciting return that product are accrued the time obligation 
+becomes probable and can reasonably estimated these estimates are adjusted from time time based facts and circumstances that impact the status 
+existing claims delphi technologies has recognized its best estimate for its total aggregate warranty reserves including product recall costs across its operating 
+segments march the company estimates the reasonably possible amount ultimately resolve all matters excess the recorded reserves 
+march million million 
+table contents 
+the table below summarizes the activity the product warranty liability for the three months ended march 
+warranty obligations 
+millions 
+accrual balance beginning period 
+provision for estimated warranties incurred during the period 
+changes estimate for pre existing warranties 
+settlements made during the period cash kind 
+foreign currency translation and other 
+accrual balance end period 
+restructuring 
+the company restructuring activities are undertaken necessary implement management strategy streamline operations take advantage available 
+capacity and resources and ultimately achieve net cost reductions these activities generally relate the realignment existing manufacturing capacity and 
+closure facilities and other exit disposal activities either the normal course business pursuant significant restructuring programs 
+part delphi technologies continued efforts optimize its cost structure has undertaken several restructuring programs which include workforce 
+reductions well plant closures these programs are primarily focused the continued rotation our manufacturing footprint best cost locations europe 
+and reducing global overhead costs the company recorded employee related and other restructuring charges related these programs totaling approximately 
+million during the three months ended march which million was recognized for programs focused the continued rotation our 
+manufacturing footprint best cost locations europe and million was recognized for programs implemented reduce global overhead costs the company 
+recorded employee related and other restructuring charges related these programs totaling approximately million during the three months ended march 
+restructuring charges for employee separation and termination benefits are paid either over the severance period lump sum accordance with either 
+statutory requirements individual agreements delphi technologies incurred cash expenditures related its restructuring programs approximately million 
+and million the three months ended march and respectively 
+the following table summarizes the restructuring charges recorded for the three months ended march and operating segment 
+three months ended march 
+millions 
+powertrain systems 
+delphi technologies aftermarket 
+total 
+the table below summarizes the activity the restructuring liability for the three months ended march 
+employee termination 
+benefits liability 
+other exit costs liability 
+total 
+millions 
+accrual balance january 
+provision for estimated expenses incurred during the period 
+payments made during the period 
+foreign currency and other 
+accrual balance march 
+table contents 
+debt 
+the following summary debt outstanding net unamortized issuance costs and discounts march and december respectively 
+december 
+march 
+millions 
+million term loan facility due net and unamortized issuance costs 
+million senior notes due net and unamortized issuance costs and and discount 
+respectively 
+other 
+total debt 
+less current portion 
+long term debt 
+credit agreement 
+september delphi technologies and its wholly owned subsidiary delphi powertrain corporation entered into credit agreement the credit 
+agreement with jpmorgan chase bank administrative agent the administrative agent with respect billion senior secured credit 
+facilities the credit agreement consists senior secured five year million term loan facility the term loan facility and million five year 
+senior secured revolving credit facility the revolving credit facility collectively the credit facilities with the lenders party thereto and jpmorgan chase 
+bank incurred approximately million issuance costs connection with the credit agreement march there were amounts 
+drawn the revolving credit facility 
+the credit facilities are subject interest rate our option either the administrative agent alternate base rate abr defined the credit 
+agreement the london interbank offered rate the adjusted libor rate defined the credit agreement libor each case plus 
+applicable margin that based our corporate credit ratings more particularly described below the applicable rate addition the credit agreement 
+requires payment additional interest certain overdue obligations terms and conditions customary for financings this type the interest rate period with 
+respect libor interest rate options can set one two three six months selected accordance with the terms the credit agreement 
+other period may agreed the applicable lenders but payable less than quarterly may elect change the selected interest rate over the term the 
+credit facilities accordance with the provisions the credit agreement the applicable rates under the credit agreement the specified date are set forth 
+below 
+march 
+libor plus 
+december 
+abr plus 
+libor plus 
+abr plus 
+revolving credit facility 
+term loan facility 
+the applicable interest rate margins for the term loan facility will increase decrease from time time between and per annum for libor 
+loans and between and per annum for abr loans each case based upon changes our corporate credit ratings the applicable interest rate 
+margins for the revolving credit facility will increase decrease from time time between and per annum for libor loans and between 
+and per annum for abr loans each case based upon changes our corporate credit ratings accordingly the applicable rates for the credit facilities 
+will fluctuate during the term the credit agreement based changes the abr libor future changes our corporate credit ratings the credit 
+agreement also requires that pay certain facility fees the aggregate commitments under the revolving credit facility and certain letter credit issuance and 
+fronting fees amounts outstanding and the rate effective march are detailed below 
+borrowings 
+march 
+applicable rate 
+term loan facility 
+libor plus 
+rate effective 
+millions 
+march 
+table contents 
+letters credit are available for issuance under the credit agreement terms and conditions customary for financings this type which issuances reduce 
+availability under the revolving credit facility such letters credit were outstanding march 
+are obligated make quarterly principal payments throughout the term the term loan facility according the amortization provisions the credit 
+agreement such payments may reduced from time time accordance with the terms the credit agreement result the application loan 
+prepayments made any prior the scheduled date payment thereof 
+borrowings under the credit agreement are prepayable our option without premium penalty may request that all portion the credit facilities 
+converted extend the scheduled maturity date with respect all portion any principal amount such credit facilities under certain conditions 
+customary for financings this type the credit agreement also contains certain mandatory prepayment provisions the event that receive net cash proceeds 
+from certain non ordinary course asset sales casualty events and debt offerings each case subject terms and conditions customary for financings this type 
+the credit agreement contains certain affirmative and negative covenants customary for financings this type that among other things limit our and our 
+subsidiaries ability incur additional indebtedness liens dispose assets make certain fundamental changes designate subsidiaries unrestricted 
+make certain investments prepay certain indebtedness and pay dividends make other distributions redemptions repurchases with respect our and 
+our subsidiaries equity interests addition the credit agreement requires that maintain consolidated net leverage ratio the ratio consolidated total 
+indebtedness consolidated adjusted ebitda each defined the credit agreement not greater than the credit agreement also contains 
+events default customary for financings this type including certain customary change control events the company was compliance with the credit 
+agreement covenants march 
+the borrowers under the credit agreement comprise delphi technologies and its wholly owned delaware organized subsidiary delphi powertrain corporation 
+additional subsidiaries delphi technologies may added borrowers guarantors under the credit agreement from time time the terms and 
+conditions set forth the credit agreement the obligations each borrower under the credit agreement will jointly and severally guaranteed each other 
+borrower and certain our existing and future direct and indirect subsidiaries subject certain exceptions customary for financings this type all 
+obligations the borrowers and the guarantors are secured certain assets such borrowers and guarantors including perfected first priority pledge all 
+the capital stock delphi powertrain corporation 
+addition the credit agreement contains provisions pursuant which based upon our achievement certain corporate credit ratings certain covenants and 
+our obligation provide collateral secure the credit facilities will suspended 
+senior notes 
+september delphi technologies plc issued million aggregate principal amount senior unsecured notes due transaction 
+exempt from registration under the securities act the senior notes the senior notes were priced par resulting yield maturity 
+incurred approximately million issuance costs connection with the senior notes offering interest payable semi annually april and october 
+each year holders record the close business march september immediately preceding the interest payment date the proceeds received 
+from the senior notes offering were deposited into escrow and subsequently released delphi technologies plc upon satisfaction certain conditions 
+including completion the separation december from the date the satisfaction the escrow conditions the notes are guaranteed jointly and 
+severally unsecured basis each our current and future domestic subsidiaries that guarantee our credit facilities described above the proceeds from 
+the senior notes together with the proceeds from the borrowings under the credit agreement were used fund dividend the former parent fund operating 
+cash and pay taxes and related fees and expenses 
+the senior notes indenture contains certain restrictive covenants including with respect delphi technologies and subsidiaries ability incur liens enter into 
+sale and leaseback transactions and merge with into other entities the company was compliance with the senior notes covenants march 
+other financing 
+receivable factoring the company entered into arrangements with various financial institutions sell eligible trade receivables from certain aftermarket 
+customers north america these arrangements can terminated any time subject prior written notice the receivables under these arrangements are sold 
+third party without recourse the company and are therefore accounted for true sales during the periods ended march and december 
+million and million receivables were sold under these arrangements and expenses million and million respectively were recognized within 
+interest expense 
+table contents 
+capital leases march and december approximately million and million respectively capital lease obligations was 
+outstanding 
+interest cash paid for interest related debt outstanding totaled million and less than million for the three months ended march and 
+respectively 
+pension benefits 
+the company sponsors defined benefit pension plans for certain employees and retirees outside the using appropriate actuarial methods and assumptions 
+the company defined benefit pension plans are accounted for accordance with fasb asc topic compensation retirement benefits the company 
+primary non plans are located the united kingdom france and mexico the and certain mexican plans are funded addition the 
+company has defined benefit plans south korea turkey and italy for which amounts are payable employees immediately upon separation the obligations 
+for these plans are recorded over the requisite service period delphi technologies does not have any pension assets liabilities 
+the amounts shown below reflect the non plans defined benefit pension expense for the three months ended march and 
+three months ended march 
+millions 
+service cost 
+interest cost 
+expected return plan assets 
+amortization actuarial losses 
+net periodic benefit cost 
+other postretirement benefit obligations were less than million and million march and december respectively 
+commitments and contingencies 
+ordinary business litigation 
+delphi technologies from time time subject various legal actions and claims incidental its business including those arising out alleged defects alleged 
+breaches contracts product warranties intellectual property matters and employment related matters the opinion delphi technologies that the outcome 
+such matters will not have material adverse impact the consolidated financial position results operations cash flows delphi technologies with 
+respect warranty matters although delphi technologies cannot ensure that the future costs warranty claims customers will not material delphi 
+technologies believes its established reserves are adequate cover potential warranty settlements 
+brazil matters 
+delphi technologies conducts business operations brazil that are subject the brazilian federal labor social security environmental tax and customs laws 
+well variety state and local laws while delphi technologies believes complies with such laws they are complex subject varying interpretations and 
+the company often engaged litigation regarding the application these laws particular circumstances march the majority claims 
+asserted against delphi technologies brazil relate such litigation the remaining claims brazil relate commercial and labor litigation with private parties 
+march claims totaling approximately million using march foreign currency rates have been asserted against delphi technologies 
+brazil march the company maintains accruals for these asserted claims million using march foreign currency rates the amounts 
+accrued represent claims that are deemed probable loss and are reasonably estimable based the company analyses and assessment the asserted claims 
+and prior experience with similar matters while the company believes its accruals are adequate the final amounts required resolve these matters could differ 
+materially from the company recorded estimates and delphi technologies results operations could materially affected the company estimates the 
+reasonably possible loss excess the amounts accrued related these claims zero million 
+table contents 
+environmental matters 
+delphi technologies subject the requirements federal state local and non environmental and safety and health laws and regulations 
+march and december the undiscounted reserve for environmental investigation and remediation was approximately million which 
+million was recorded accrued liabilities and million was recorded other long term liabilities and million which million was recorded accrued 
+liabilities and million was recorded other long term liabilities respectively delphi technologies cannot assure that environmental requirements will not 
+change become more stringent over time that its eventual environmental remediation costs and liabilities will not exceed the amount its current reserves 
+the event that such liabilities were significantly exceed the amounts recorded delphi technologies results operations could materially affected 
+march the difference between the recorded liabilities and the reasonably possible range potential loss was not material 
+revenue 
+january adopted asc topic revenue from contracts with customers using the modified retrospective method the standard requires 
+recognition revenue depict the transfer promised goods services customers amount that reflects the consideration which expect 
+entitled exchange for those goods services the company generally recognizes revenue when satisfies performance obligation transferring control over 
+product customer from time time enter into pricing agreements with our customers that provide for price reductions some which are conditional 
+upon achieving certain criteria these instances revenue recognized based the agreed upon price the time shipment 
+nature goods 
+the majority our revenue recorded point time defined asc the customers obtain control the product upon title transfer and not the 
+product manufactured developed for certain customers based specific terms and conditions pertaining termination for convenience delphi 
+technologies concluded that had enforceable right payment for performance completed date and the products have alternative use the company 
+which requires the recognition revenue over time defined asc the impact both revenue and operating income from recognizing revenue over time 
+instead point time not significant 
+the major product groups within the powertrain systems operating segment include internal combustion engine products and electronics electrification products 
+the major product groups within the delphi technologies aftermarket operating segment include aftermarket products sold independent aftermarket customers 
+and original equipment service customers the amount revenue recognized for these products based the purchase order price and adjusted for revenue 
+allocated variable consideration estimated rebates and price discounts applicable our payment terms are based customary business practices and 
+vary customer type and products offered the term between invoicing and when payment due not significant 
+disaggregation revenue 
+the following table net sales outside customers based the manufacturing location disaggregated primary geographical market 
+three months ended march 
+millions 
+north america 
+europe 
+asia pacific 
+south america 
+total 
+table contents 
+the following table net sales disaggregated major product group within each operating segment 
+powertrain systems 
+delphi technologies 
+aftermarket 
+eliminations and 
+other 
+total 
+millions 
+for the three months ended march 
+internal combustion engine products 
+electronics electrification 
+independent aftermarket 
+original equipment service 
+total 
+for the three months ended march 
+internal combustion engine products 
+electronics electrification 
+independent aftermarket 
+original equipment service 
+total 
+eliminations and other includes the elimination inter segment transactions 
+contract balances 
+discussed above certain customers have contracts with specific terms and conditions which require recognition revenue over time defined asc 
+march the recognition revenue over time resulted approximately million unbilled accounts receivable which included accounts 
+receivable net there were other contract assets liabilities march defined asc 
+practical expedients and exemptions 
+for our powertrain systems segment define the contract with the customer the combination current purchase order and current production schedule 
+issued the customer for our delphi technologies aftermarket segment define the contract with the customer the combination current purchase order 
+and master agreement with the customer although there are instances where the master agreements may extend beyond one year there are generally purchase 
+orders with expected duration beyond year 
+there are generally performance obligations outstanding beyond year generally not enter into fixed long term supply agreements apply the 
+exemption asc and not disclose information about remaining performance obligations that have original expected durations one year less 
+addition apply the practical expedient asc and immediately expense contract acquisition costs when incurred including sales commissions because 
+the amortization period would one year less 
+income taxes 
+the end each interim period the company makes its best estimate the annual expected effective income tax rate and applies that rate its ordinary year todate earnings loss the income tax provision benefit related unusual infrequent items applicable that will separately reported reported net 
+their related tax effects are individually computed and recognized the interim period which those items occur addition the effect changes enacted tax 
+laws rates tax status judgment the realizability beginning the year deferred tax asset future years income tax contingencies recognized the 
+interim period which the change occurs 
+the computation the annual expected effective income tax rate each interim period requires certain estimates and assumptions including but not limited 
+the expected pre tax income loss for the year projections the proportion income and loss earned and taxed respective jurisdictions permanent and 
+temporary differences and the likelihood the realizability deferred tax assets generated the current year jurisdictions with projected loss for the year 
+year date loss for which tax benefit expense can recognized due valuation allowance are excluded from the estimated annual effective tax rate the 
+impact such exclusion could result higher lower effective tax rate during particular quarter based upon the composition and timing actual earnings 
+compared annual projections the estimates used 
+table contents 
+compute the provision benefit for income taxes may change new events occur additional information obtained our tax environment changes the 
+extent that the expected annual effective income tax rate changes the effect the change prior interim periods included the income tax provision the 
+period which the change estimate occurs 
+the company income tax expense and effective tax rate for the three months ended march and were follows 
+three months ended march 
+dollars millions 
+income tax expense 
+effective tax rate 
+the company tax rate affected the fact that delphi technologies plc its parent entity resident taxpayer the tax rates the other jurisdictions 
+which the company operates the relative amount income earned jurisdiction and the relative amount losses income for which tax benefit expense 
+was recognized due valuation allowance 
+the company effective tax rate for the three months ended march was impacted favorable changes geographic income mix compared 
+this was primarily due changes the underlying business operations and the receipt certain tax incentives and holidays that reduced the effective tax 
+rate for certain subsidiaries below the statutory rate the effective tax rate for the three months ended march was impacted losses for which benefit 
+was recognized due valuation allowance and net discrete tax expense million 
+additionally the company tax rate was impacted the enactment the tax cuts and jobs act the act the united states december which 
+provided for reduction the corporate income tax rate from effective january consider our effective tax rate calculation the 
+extent related the effects the act provisional pursuant the guidance sec staff accounting bulletin primarily due lack clarity the 
+balance sheet date related the state tax impacts federal tax reform which resulted our use estimates compute our future blended tax rate well 
+the lack clarity regarding the tax treatment certain our intercompany transactions are required change the taxes have provided related our 
+business based further analysis and regulatory guidance the federal and state level issued subsequent the issuance these statements will record 
+such adjustments income tax expense the period that the amounts are determined the company was not affected the transition tax provisions the act 
+which impose tax upon unremitted earnings non subsidiaries which would have been subject tax when remitted under the law effect prior 
+the act the company subsidiary does not hold any investments non operations 
+delphi technologies plc resident taxpayer and such generally not subject tax remitted foreign earnings 
+cash paid withheld for income taxes was million and million for the three months ended march and respectively 
+shareholders equity and net income per share 
+net income per share 
+basic net income per share computed dividing net income attributable delphi technologies the weighted average number ordinary shares outstanding 
+during the period diluted net income per share reflects the weighted average dilutive impact all potentially dilutive securities from the date issuance and 
+computed using the treasury stock method dividing net income attributable delphi technologies the diluted weighted average number ordinary shares 
+outstanding for periods prior the separation the denominator for basic and diluted net income per share was calculated using the million delphi 
+technologies ordinary shares outstanding immediately following the separation the same number shares was used calculate basic and diluted earnings per 
+share those periods since delphi technologies equity awards were outstanding prior the separation for periods subsequent the separation the 
+calculation net income per share contemplates the dilutive impacts any the company share based compensation plans refer note share based 
+compensation for additional information 
+table contents 
+weighted average shares 
+the following table illustrates net income per share attributable delphi technologies and the weighted average shares outstanding used calculating basic and 
+diluted income per share 
+three months ended march 
+millions except per share data 
+numerator 
+net income attributable delphi technologies 
+denominator 
+weighted average ordinary shares outstanding basic 
+dilutive shares related restricted stock units rsus 
+weighted average ordinary shares outstanding including dilutive shares 
+net income per share attributable delphi technologies 
+basic 
+diluted 
+anti dilutive securities share impact 
+dividends 
+the company has declared and paid cash dividends per ordinary share during the periods presented follows 
+dividend 
+amount 
+per share 
+millions 
+first quarter 
+total 
+addition april the board directors declared regular quarterly cash dividend per ordinary share payable may shareholders 
+record the close business may 
+table contents 
+changes accumulated other comprehensive income loss 
+the changes accumulated other comprehensive income loss attributable delphi technologies net tax for the three months ended march and 
+are shown below 
+three months ended march 
+millions 
+foreign currency translation adjustments 
+balance beginning period 
+aggregate adjustment for the period 
+other comprehensive income before reclassifications net tax effect and 
+reclassification income net tax effect and 
+balance end period 
+balance end period 
+gains losses derivatives 
+balance beginning period 
+pension and postretirement plans 
+balance beginning period 
+other comprehensive income before reclassifications net tax effect and 
+reclassification income net tax effect and 
+balance end period 
+accumulated other comprehensive loss end period 
+includes losses less than million for the three months ended march related non derivative net investment hedges refer note derivatives and hedging activities for 
+further description these hedges 
+table contents 
+reclassifications from accumulated other comprehensive income loss income for the three months ended march and were follows 
+reclassification out accumulated other comprehensive income loss 
+three months ended march 
+details about accumulated other comprehensive 
+income components 
+affected line item the statement operations 
+millions 
+pension and postretirement plans 
+actuarial losses 
+total reclassifications for the period 
+other expense 
+income before income taxes 
+income tax expense 
+net income 
+net income attributable noncontrolling interest 
+net income attributable delphi technologies 
+these accumulated other comprehensive loss components are included the computation net periodic pension cost see note pension benefits for additional details 
+derivatives and hedging activities 
+cash flow hedges 
+delphi technologies exposed market risk such fluctuations foreign currency exchange rates commodity prices and changes interest rates which may 
+result cash flow risks manage the volatility relating these exposures delphi technologies aggregates the exposures consolidated basis take 
+advantage natural offsets for exposures that are not offset within its operations delphi technologies enters into various derivative transactions pursuant its 
+risk management policies which prohibit holding issuing derivative financial instruments for speculative purposes and designation derivative instruments 
+performed transaction basis support hedge accounting the changes fair value these hedging instruments are offset part whole 
+corresponding changes the fair value cash flows the underlying exposures being hedged delphi technologies assesses the initial and ongoing effectiveness 
+its hedging relationships accordance with its documented policy 
+march the company had the following outstanding notional amounts related foreign currency forward contracts designated cash flow hedges 
+that were entered into hedge forecasted exposures 
+quantity 
+hedged 
+foreign currency 
+unit 
+measure 
+notional amount 
+usd equivalent 
+millions 
+chinese yuan renminbi 
+rmb 
+mexican peso 
+mxn 
+euro 
+eur 
+singapore dollar 
+sgd 
+the company had additional foreign currency forward contracts designated cash flow hedges with notional amounts that individually amounted less than 
+million march delphi technologies has entered into derivative instruments hedge cash flows extending out march 
+gains and losses derivatives qualifying cash flow hedges are recorded accumulated other comprehensive income oci the extent that hedges are 
+effective until the underlying transactions are recognized earnings unrealized amounts accumulated oci will fluctuate based changes the fair value 
+hedge derivative contracts each reporting period net losses cash flow hedges included accumulated oci march were approximately 
+million approximately million net tax this total approximately less than million gains losses are expected included cost sales within 
+the next months and million gains losses are expected included cost sales subsequent periods cash flow hedges are discontinued when 
+delphi technologies determines longer probable that the 
+table contents 
+originally forecasted transactions will occur cash flows from derivatives used manage foreign exchange risks are classified operating activities within the 
+consolidated statement cash flows 
+net investment hedges 
+the company also exposed the risk that adverse changes foreign currency exchange rates could impact its net investment non subsidiaries 
+manage this risk the company designated qualifying non derivative instrument foreign currency denominated debt net investment hedge certain nonu subsidiaries the gains losses instruments designated net investment hedges are recognized within oci offset changes the value the net 
+investment these foreign currency denominated operations gains and losses reported accumulated other comprehensive income loss are reclassified 
+earnings only when the related currency translation adjustments are required reclassified usually upon sale liquidation the investment 
+derivatives not designated hedges 
+certain occasions the company enters into certain foreign currency contracts that are not designated hedges when hedge accounting not applied 
+derivative contracts gains and losses are recorded other income expense net and cost sales the consolidated statement operations 
+fair value derivative instruments the balance sheet 
+the following table includes the fair value foreign currency derivatives recorded the consolidated balance sheets march there were 
+derivative financial instruments outstanding december 
+asset derivatives 
+net amounts 
+assets and 
+liabilities 
+presented the 
+balance sheet 
+liability derivatives 
+march 
+balance sheet location 
+march 
+balance sheet location 
+march 
+millions 
+designated cash flow hedges 
+accrued liabilities 
+other long term liabilities 
+total designated hedges 
+accrued liabilities 
+other long term liabilities 
+derivatives not designated hedges 
+accrued liabilities 
+total not designated hedges 
+accrued liabilities 
+derivative instruments are subject master netting arrangements and are presented net basis the consolidated balance sheets accordance with accounting guidance related the 
+offsetting amounts related certain contracts 
+the fair value delphi technologies derivative financial instruments was net liability position march 
+table contents 
+effect derivatives the statement operations and statement comprehensive income 
+the pre tax effect the foreign currency derivatives the consolidated statement operations and consolidated statement comprehensive income for the three 
+months ended march follows 
+three months ended march 
+gain loss reclassified from 
+oci into income 
+gain loss recognized oci 
+millions 
+derivatives designated cash flow hedges 
+total 
+loss recognized income 
+millions 
+derivatives not designated 
+total 
+the gain loss reclassified from oci into income designated and not designated derivative instruments were recorded other income net and cost sales 
+the consolidated statements operations for the three months ended march were immaterial 
+fair value financial instruments 
+fair value measurements recurring basis 
+derivative instruments all derivative instruments are required reported the balance sheet fair value unless the transactions qualify and are designated 
+normal purchases sales changes fair value are reported currently through earnings unless they meet hedge accounting criteria delphi technologies 
+derivative exposures are with counterparties with long term investment grade credit ratings delphi technologies estimates the fair value its derivative contracts 
+using income approach based valuation techniques convert future amounts single discounted amount estimates the fair value foreign currency 
+derivative instruments are determined using exchange traded prices and rates delphi technologies also considers the risk non performance the estimation 
+fair value and includes adjustment for non performance risk the measure fair value derivative instruments the non performance risk adjustment 
+reflects the credit default spread cds applied the foreign currency exposures counterparty when delphi technologies net derivative asset 
+position the counterparty cds rates are applied the net derivative asset position when delphi technologies net derivative liability position estimates 
+peer companies cds rates are applied the net derivative liability position 
+certain instances where market data not available delphi technologies uses management judgment develop assumptions that are used determine fair 
+value this could include situations market illiquidity for particular currency commodity where observable market data may limited those 
+situations delphi technologies generally surveys investment banks and brokers and utilizes the surveyed prices and rates estimating fair value 
+march delphi technologies was net derivative liability position million and significant adjustments were recorded for 
+nonperformance risk based the application peer companies cds rates evaluation our own nonperformance risk and because delphi technologies 
+exposures were counterparties with investment grade credit ratings refer note derivatives and hedging activities for further information regarding 
+derivatives 
+march delphi technologies had the following liabilities measured fair value recurring basis 
+quoted prices active 
+markets 
+level 
+total 
+significant other observable 
+inputs 
+level 
+significant unobservable 
+inputs 
+level 
+millions 
+march 
+foreign currency derivatives 
+total 
+table contents 
+non derivative financial instruments delphi technologies non derivative financial instruments include cash and cash equivalents accounts and notes 
+receivable accounts payable well debt which consists capital leases the senior notes the term loan facility and other debt issued delphi 
+technologies non subsidiaries the fair value debt based quoted market prices for instruments with public market data significant other observable 
+inputs for instruments without quoted public market price level march and december total debt was recorded million 
+and million respectively and had estimated fair values million and million respectively for all other financial instruments recorded 
+march and december fair value approximates book value 
+fair value measurements nonrecurring basis 
+addition items that are measured fair value recurring basis delphi technologies also has items its balance sheet that are measured fair value 
+nonrecurring basis these items are not measured fair value recurring basis they are not included the tables above nonfinancial assets and liabilities 
+that are measured fair value nonrecurring basis include certain long lived assets equity and cost method investments intangible assets asset retirement 
+obligations share based compensation and liabilities for exit disposal activities measured fair value upon initial recognition during the three months ended 
+march delphi technologies recorded non cash asset impairment charges totaling less than million within cost sales related declines the fair 
+values certain fixed assets during the three months ended march delphi technologies recorded non cash asset impairment charges totaling 
+million within cost sales related declines the fair values certain fixed assets fair value long lived assets determined primarily using the anticipated 
+cash flows discounted rate commensurate with the risk involved and review appraisals such delphi technologies has determined that the fair value 
+measurements long lived assets fall level the fair value hierarchy 
+other income net 
+other income expense net included 
+three months ended march 
+millions 
+interest income 
+components net periodic benefit cost other than service cost note 
+other net 
+other income expense net 
+share based compensation 
+the delphi technologies plc long term incentive plan the plc ltip allows for the grant share based awards ordinary shares for longterm compensation the employees directors consultants and advisors the company the company had share based compensation plans prior the 
+separation however certain our employees participated the former parent share based compensation arrangement the delphi automotive plc long term 
+incentive plan amended and restated effective april the former parent plan grants restricted stock units rsus executives and nonemployee directors were made under the former parent plan each year from discussed further below outstanding awards under the former 
+parent plan were adjusted and converted into delphi technologies equity awards 
+share based compensation expense within the consolidated financial statements for periods prior the separation was allocated delphi technologies based 
+the awards and terms previously granted delphi technologies employees while part the former parent and includes the cost delphi technologies 
+employees who participated the former parent plan well allocated portion the cost the former parent corporate employee awards 
+connection with the separation outstanding equity awards executives and non employee directors under the former parent plan were adjusted and converted 
+into delphi technologies equity awards using formula designed maintain the economic value the awards immediately before and after the separation 
+accordingly the number rsus underlying each unvested award outstanding the date the separation was multiplied factor which resulted 
+increase the intrinsic value awards outstanding the rsus continue vest accordance with their original vesting period these adjustments the 
+company share based compensation awards did not result additional compensation expense 
+table contents 
+board director awards 
+december delphi technologies granted rsus the non employee members the board directors who were not members the former 
+parent board directors grant date fair value approximately million the grant date fair value was determined based the closing price the 
+company ordinary shares december the awards are time based vesting rsus the rsus vested april and ordinary shares 
+which included shares issued connection with dividend equivalents were issued members the board directors fair value approximately million 
+addition ordinary shares were withheld cover the minimum withholding taxes 
+april delphi technologies granted rsus the board directors grant date fair value approximately million the grant date fair 
+value was determined based the closing price the company ordinary shares april the rsus will vest april the day before the 
+annual meeting shareholders 
+addition december delphi technologies granted rsus the employee and non employee members the board directors grant 
+date fair value approximately million the awards include time based rsus and performance based rsus the time based rsus vest various points 
+through february the performance based rsus will measured based relative total shareholder return described further below and vest 
+december the grant date fair value was determined based the closing price the company ordinary shares december and 
+contemporaneous valuation performed independent valuation specialist with respect the relative total shareholder return awards 
+executive awards 
+the executive awards include time based vesting portion and performance based vesting portion well continuity awards certain years the time based 
+rsus which make the awards for the company officers and for other executives vest ratably over three years beginning the first anniversary 
+the grant date the performance based rsus which make the awards for the company officers and for other executives vest the 
+completion three year performance period certain targets are met each executive will receive between and his her target performance based 
+award based the company performance against established company wide performance metrics which are 
+grant 
+former parent 
+grants 
+average return net assets 
+cumulative net income 
+cumulative earnings per share 
+relative total shareholder return 
+metric 
+former parent 
+grants 
+average return net assets measured the company tax affected operating income divided average net working capital plus average net property plant and equipment for each 
+calendar year during the respective performance period 
+cumulative earnings per share measured net income attributable delphi technologies divided the weighted average number diluted shares outstanding for the respective 
+three year performance period 
+relative total shareholder return measured comparing the average closing price per share the company ordinary shares for the defined period the end the performance period 
+the average closing price per share the company ordinary shares for the defined period the beginning the performance period including dividends and assessed against 
+comparable measure competitor and peer group companies 
+the details the executive grant are follows 
+grant date 
+rsus granted 
+grant date fair 
+value 
+time based award vesting dates 
+performance based award 
+vesting date 
+millions 
+february 
+annually the anniversary grant date 
+december 
+any new executives hired after the annual executive rsu grant date may eligible participate the plc ltip any off cycle grants made for new hires are 
+valued their grant date fair value based the closing price the company ordinary shares the date such grant the company has competitive and 
+market appropriate ownership requirements all the rsus granted under the plc ltip are eligible receive dividend equivalents for any dividend paid from 
+the grant date through the vesting date 
+table contents 
+the grant date fair value the rsus determined based the target number awards issued the closing price the company ordinary shares the date 
+the grant the award including estimate for forfeitures and contemporaneous valuation performed independent valuation specialist with respect the 
+relative total shareholder return awards 
+summary activity including award grants vesting and forfeitures for delphi technologies employees provided below all prior period award amounts 
+disclosed within the following table were converted accordance with the factor related the conversion the awards following the separation described 
+above 
+weighted average grant 
+date fair value 
+rsus 
+thousands 
+nonvested january 
+granted 
+vested 
+forfeited 
+nonvested march 
+share based compensation expense recorded within the consolidated statement operations which for periods prior the separation includes the cost delphi 
+technologies employees who participated the former parent plan well allocated portion the cost the former parent senior management awards 
+was million million net tax and million million net tax based the company best estimate ultimate performance against the 
+respective targets during the three months ended march and respectively 
+the company will continue recognize compensation expense based the grant date fair value the awards applied the company best estimate 
+ultimate performance against the respective targets over the requisite vesting periods the awards based the grant date fair value the awards and the 
+company best estimate ultimate performance against the respective targets march unrecognized compensation expense pretax basis 
+approximately million anticipated recognized over weighted average period approximately years 
+segment reporting 
+delphi technologies operates its core business along the following operating segments which are grouped the basis similar product market and operating 
+factors 
+powertrain systems which manufactures fuel injection systems well various other powertrain products including valvetrain fuel delivery modules 
+ignition coils canisters sensors valves and actuators this segment also offers electronic control modules and corresponding software algorithms and 
+calibration that provide centralized and reliable management various powertrain components additionally provide power electronics solutions that 
+include supervisory controllers and software along with converters and inverters and board chargers that convert electricity enable hybrid and 
+electric vehicle propulsion systems 
+delphi technologies aftermarket which sells aftermarket products independent aftermarket and original equipment service customers this segment also 
+supplies wide range aftermarket products and services covering the fuel injection electronics and engine management maintenance and test equipment 
+and vehicle diagnostics categories 
+eliminations and other which includes the elimination inter segment transactions 
+the accounting policies the segments are the same those described note significant accounting policies except that the disaggregated financial results 
+for the segments have been prepared using management approach which consistent with the basis and manner which management internally disaggregates 
+financial information for which delphi technologies chief operating decision maker regularly reviews financial results assess performance and make 
+internal operating decisions about allocating resources the segments 
+generally delphi technologies evaluates segment performance based stand alone segment net income before interest expense other income expense net 
+income tax expense equity income loss net tax restructuring costs related the separation other acquisition and portfolio project costs which includes 
+costs incurred integrate acquired businesses and plan and execute product portfolio transformation actions including business and product acquisitions and 
+divestitures and asset impairments adjusted operating income and accounts for inter segment sales and transfers the sales transfers were third 
+parties current market prices delphi technologies management utilizes adjusted operating income the key performance measure segment income loss 
+evaluate segment performance and for planning and forecasting purposes allocate resources the segments management believes this measure most 
+reflective the operational profitability 
+table contents 
+loss delphi technologies operating segments segment adjusted operating income should not considered substitute for results prepared accordance 
+with gaap and should not considered alternative net income attributable delphi technologies which the most directly comparable financial 
+measure adjusted operating income that prepared accordance with gaap segment adjusted operating income determined and measured 
+delphi technologies should also not compared similarly titled measures reported other companies 
+included below are sales and operating data for delphi technologies segments for the three months ended march and 
+powertrain systems 
+delphi technologies 
+aftermarket 
+eliminations 
+and other 
+total 
+millions 
+for the three months ended march 
+net sales 
+depreciation amortization 
+adjusted operating income 
+operating income 
+equity income net tax 
+net income attributable noncontrolling interest 
+powertrain systems 
+delphi technologies 
+aftermarket 
+eliminations 
+and other 
+total 
+millions 
+for the three months ended march 
+net sales 
+depreciation amortization 
+adjusted operating income 
+operating income 
+equity income net tax 
+net income attributable noncontrolling interest 
+eliminations and other includes the elimination inter segment transactions 
+table contents 
+the reconciliation adjusted operating income operating income includes applicable restructuring separation costs other acquisition and portfolio 
+project costs which includes costs incurred integrate acquired businesses and plan and execute product portfolio transformation actions including business 
+and product acquisitions and divestitures asset impairments and gains losses business divestitures the reconciliation adjusted operating income net 
+income attributable delphi technologies for the three months ended march and are follows 
+delphi technologies 
+aftermarket 
+powertrain systems 
+eliminations 
+and other 
+total 
+millions 
+for the three months ended march 
+adjusted operating income 
+restructuring 
+separation costs 
+operating income 
+interest expense 
+other income net 
+income before income taxes and equity income 
+income tax expense 
+equity income net tax 
+net income 
+net income attributable noncontrolling interest 
+net income attributable delphi technologies 
+separation costs include incremental expenses associated with becoming stand alone publicly traded company 
+delphi technologies 
+aftermarket 
+powertrain systems 
+eliminations 
+and other 
+total 
+millions 
+for the three months ended march 
+adjusted operating income 
+restructuring 
+asset impairments 
+operating income 
+interest expense 
+other expense net 
+income before income taxes and equity income 
+income tax expense 
+equity income net tax 
+net income 
+net income attributable noncontrolling interest 
+net income attributable delphi technologies 
+cautionary statement regarding forward looking information 
+this quarterly report form including the exhibits being filed part this report well other statements made the company contain forwardlooking statements that reflect when made the company current views with respect future events and financial performance such forward looking statements 
+are subject many risks uncertainties and factors relating the company operations and business environment which may cause the actual results the 
+company materially different from any future results express implied such forward looking statements all statements that address future operating 
+financial business performance the company strategies expectations are forward looking statements some cases you can identify these statements 
+forward looking words such may will should expects anticipates believes estimates potential continue the negatives thereof and 
+other comparable terminology factors that could cause actual results differ materially from these forward looking statements include but are not limited the 
+following 
+global and regional economic conditions including conditions affecting the credit market and those resulting from the united kingdom referendum held 
+june which voters approved exit from the european union commonly referred brexit 
+risks inherent operating global company such fluctuations interest rates and foreign currency exchange rates and economic political and 
+trade conditions around the world 
+the cyclical nature automotive sales and production 
+the potential disruptions the supply and changes the competitive environment for raw material integral the company products 
+the company ability maintain contracts that are critical its operations 
+potential changes beneficial free trade laws and regulations such the north american free trade agreement 
+the ability the company achieve the intended benefits from its separation from its former parent from acquisitions the company may make 
+the ability the company attract motivate and retain key executives 
+the ability the company avoid continue operate during strike partial work stoppage slow down any its unionized employees 
+those its principal customers suppliers 
+the ability the company attract and retain customers 
+new technologies that displace demand for our products and our ability develop and commercialize new products meet our customers needs 
+changes customer preferences and requirements including any resultant inability realize the sales represented our bookings 
+changes the costs raw materials 
+the company indebtedness including the amount thereof and capital availability and cost 
+the cost and outcome any claims legal proceedings investigations 
+the failure breach information technology systems 
+severe weather conditions and natural disasters and any resultant disruptions the supply production goods services customer demands 
+acts war and terrorism well the impact actions taken governments result further acts threats terrorism and 
+the timing and occurrence non occurrence other events circumstances that may beyond our control 
+additional factors are discussed under the captions risk factors and management discussion and analysis financial condition and results operations 
+the company filings with the securities and exchange commission including those set forth the company annual report form for the fiscal 
+year ended december new risks and uncertainties arise from time time and impossible for predict these events how they may affect the 
+company should remembered that the price the ordinary shares and any income from them can down well delphi technologies disclaims any 
+intention obligation update revise any forward looking statements whether result new information future events and otherwise except may 
+required law 
+item management discussion and analysis financial condition and results operations 
+the following management discussion and analysis financial condition and results operations intended help you understand the business 
+operations and financial condition the company for the three months ended march this discussion should read conjunction with item 
+financial statements our presented eight sections 
+separation from delphi automotive plc 
+executive overview 
+consolidated results operations 
+results operations segment 
+liquidity and capital resources 
+off balance sheet arrangements 
+contingencies and environmental matters 
+recently issued accounting pronouncements 
+critical accounting estimates 
+within this delphi technologies the company us and our refer delphi technologies plc and its subsidiaries and for periods prior 
+the separation includes the results the former parent powertrain systems segment 
+separation from delphi automotive plc 
+december delphi technologies became independent publicly traded company result the distribution delphi automotive plc the 
+former parent the ordinary shares delphi technologies plc delphi automotive plc shareholders the separation following the 
+separation delphi automotive plc changed its name aptiv plc aptiv the company previously operated substantially the former parent powertrain 
+systems segment 
+part the separation entered into number agreements with the former parent govern the separation and our relationship with the former parent 
+following the separation these agreements provided for the allocation between delphi technologies and aptiv the former parent assets employees 
+liabilities and obligations including its investments property and employee benefits and tax related assets and liabilities attributable periods prior and 
+after the separation and govern certain relationships between delphi technologies and aptiv after the separation refer the company annual report form 
+for the fiscal year ended december for descriptions the material terms the separation and distribution agreement transition services 
+agreement contract manufacturing services agreements tax matters agreement and employee matters agreement that were entered into connection with the 
+separation during the three months ended march delphi technologies paid the former parent million and million related the transition 
+services agreement and contract manufacturing services agreements respectively 
+for details the basis presentation see note general the unaudited consolidated financial statements included herein 
+executive overview 
+our business 
+delphi technologies leader the development design and manufacture integrated powertrain technologies that optimize engine performance increase 
+vehicle efficiency reduce emissions improve driving performance and support increasing electrification vehicles are global supplier original 
+equipment manufacturers oems seeking manufacture vehicles that meet and exceed increasingly stringent global regulatory requirements and satisfy 
+consumer demands for enhanced user experience additionally offer wide range aftermarket products serving global customer base 
+our product offerings include advanced gas and diesel fuel injection systems fis actuators valvetrain products sensors electronic control modules and power 
+electronics technologies believe our ability meet regulatory requirements for reduced emissions and increased fuel economy well provide additional 
+power support consumer driven demand for more vehicle electronics will allow realize revenue growth excess vehicle production growth 
+our comprehensive portfolio advanced technologies and solutions for all propulsion systems are sold global oems both light vehicles passenger cars 
+trucks and vans and sport utility vehicles and commercial vehicles light duty medium duty and heavy duty trucks commercial vans buses and off highway 
+vehicles the company delphi technologies aftermarket segment also remanufactures and sells our technologies leading aftermarket companies including 
+independent retailers and wholesale distributors supply wide range aftermarket products and services covering the fuel injection 
+table contents 
+electronics and engine management maintenance and test equipment and vehicle diagnostics categories also add aftermarket know how category 
+management logistics training marketing and other dedicated services provide full range aftermarket solutions throughout vehicles lives 
+our total net sales during the three months ended march were billion increase compared the same period the increase our 
+total net sales primarily attributable continued increased volumes all regions our overall lean cost structure along with above market sales growth enabled 
+maintain strong gross margins the three months ended march generally consistent with the prior year period 
+business strategy 
+believe the company well positioned benefit from increasing global vehicle production and has established product portfolio sold diverse base 
+oem and aftermarket customers 
+our strategy continue accelerate the development market relevant technologies that solve our customers increasingly complex challenges and leverage 
+our lean flexible cost structure deliver strong revenue and margin expansion and earnings and cash flow growth seek grow our business through the 
+execution the following strategies among others 
+expand leadership technologies that solve our customers most complex challenges are focused providing technologies and solutions that 
+solve some our customers biggest propulsion related challenges leveraging the breadth and depth our engineering capabilities believe 
+have strong positions fuel injectors fuel pumps variable valve timing and variable valve actuation additionally provide leading technology 
+solutions the areas electronics and electrification including engine control modules and power electronics where see above market growth 
+driven increasing levels electrification our power electronics technologies include products such high voltage inverters converters 
+and board chargers that convert electricity enable hybrid and electric vehicle propulsion systems our comprehensive portfolio powertrain 
+products helps customers meet increasingly stringent global regulatory requirements while also enhancing vehicle performance 
+focused regional strategies best serve our customers needs the combination our global operating capabilities and our portfolio advanced 
+technologies help serve our global customers local needs have presence all major global regions and have positioned ourselves leading 
+supplier advanced vehicle propulsion technologies including electrification that are tailored satisfy our customers needs each region 
+believe our focus providing customer solutions meet increasingly stringent emissions and fuel efficiency regulations will collectively drive greater 
+demand for our products and enable experience above market growth 
+continue enhance aftermarket position globally plan gain scale focusing higher value faster growing product lines such electronics 
+and services which include diagnostics and remanufacturing also seek accelerate growth leveraging our regional product program strengths 
+expand our portfolio across regions addition expect benefit from aftermarket growth key markets around the world including china 
+leverage our lean and flexible cost structure deliver strong earnings and cash flow growth recognize the importance maintaining 
+lean and flexible business model order deliver earnings and cash flow growth intend improve our cost competitiveness leveraging our 
+enterprise operating system continuously increasing operational efficiency maximizing manufacturing output and rotating our facilities best cost 
+countries have ongoing processes and resources dedicated further improvement our operations and expect use our cash flow reinvest 
+our business drive growth 
+trends uncertainties and opportunities 
+economic conditions our business directly related automotive sales and automotive light and commercial vehicle production our customers automotive 
+sales depend number factors including global and regional economic conditions although global automotive vehicle production including light and 
+commercial vehicles increased from economic conditions and the resultant levels automotive vehicle production were uneven from 
+regional perspective compared vehicle production increased europe china and south america following several years 
+increases consumer demand for vehicles north america receded resulting decrease year over year north american production overall 
+global vehicle production remained flat for the three months ended march and expected increase compared vehicle 
+production expected remain flat china increase europe south america and north america 
+table contents 
+economic volatility weakness north america europe china continued weakness south america could result significant reduction automotive 
+sales and production our customers which would have adverse effect our business results operations and financial condition there also potential 
+that geopolitical factors could adversely impact the and other economies and specifically the automotive sector particular changes international trade 
+agreements such the north american free trade agreement other political pressures could affect the operations our oem customers resulting reduced 
+automotive production certain regions shifts the mix production higher cost regions increases interest rates could also negatively impact 
+automotive production result increased consumer borrowing costs reduced credit availability additionally economic weakness may result shifts the 
+mix future automotive sales from vehicles with more content such luxury vehicles trucks and sport utility vehicles toward smaller passenger cars 
+reductions industrial production and the corresponding level freight tonnage being transported while our diversified customer and geographic revenue base 
+along with our flexible cost structure have well positioned withstand the impact industry downturns and benefit from industry upturns shifts the mix 
+global automotive production higher cost regions vehicles with less content could adversely impact our profitability 
+there have also been periods increased market volatility and currency exchange rate fluctuations both globally and most specifically within the united 
+kingdom and europe result the referendum held june which voters approved exit from the european union 
+commonly referred brexit result the referendum the british government formally initiated the process for withdrawal march the terms 
+any withdrawal are subject negotiation period that could last least two years from the initiation date nevertheless the proposed withdrawal has created 
+significant uncertainty about the future relationship between the and the these developments the perception that any them could occur may 
+adversely affect european and worldwide economic and market conditions significantly reduce global market liquidity and restrict the ability key market 
+participants operate certain financial markets and could contribute instability global financial and foreign exchange markets including increased 
+volatility interest rates and foreign exchange rates although are actively monitoring the ongoing potential impacts brexit and will seek minimize its 
+impact our business any these effects brexit among others could adversely affect our business business opportunities results operations financial 
+condition and cash flows approximately our annual net sales were generated the and approximately were denominated british 
+pounds 
+key growth markets there have been periods increased market volatility and moderations the level economic growth china which resulted periods 
+lower automotive production growth rates china than those previously experienced despite these recent moderations the level economic growth 
+china rising income levels china and other key growth markets have resulted and are expected result stronger growth rates these markets over the longterm believe our strong global presence and presence these markets has positioned experience above market growth rates over the long term 
+continue expand our established presence key growth markets positioning benefit from the expected long term growth opportunities these regions 
+believe that increasing regulation these markets related emissions control and fuel efficiency will enable experience above market growth result 
+increased demand for our products focused meeting these regulations are capitalizing our long standing relationships with the global oems and 
+further enhancing our positions with the key growth market oems continue increasing our presence these markets believe that our presence best cost 
+countries positions realize incremental margin improvements the global balance automotive production shifts towards the key growth markets 
+have strong local presence china including major manufacturing base and well established customer relationships which believe has positioned 
+continue being leading supplier advanced engine technologies this market our business china sensitive economic and market conditions that impact 
+automotive sales volumes and growth china and may affected the pace growth slows the chinese market matures there are reductions vehicle 
+demand china however continue believe there long term growth potential this market based increasing long term automotive and vehicle content 
+demand 
+technologically advanced product portfolio our product offerings satisfy the oems needs meet increasingly stringent government regulations related fuel 
+efficiency and emissions control global basis and provide additional power support consumer driven demand for more vehicle electronics leveraging 
+the breadth and depth our engineering capabilities have strong positions fis technologies our injector portfolio maximizes engine uptime and reliability 
+which especially important for large long life commercial vehicle applications additionally expect continued growth key technologies such gdi 
+variable valve timing variable valve actuation and power electronics meet increasing consumer demand for greater performance and power needs are 
+focused providing technologies and solutions which believe will result growth rates excess vehicle production growth 
+global capabilities with focused regional strategies many oems are continuing adopt global vehicle platforms increase standardization reduce per unit cost 
+and increase capital efficiency and profitability result oems are selecting suppliers that have the capability manufacture products worldwide basis 
+well the flexibility adapt regional variations suppliers with global scale and strong design engineering and manufacturing capabilities are best positioned 
+benefit from 
+table contents 
+this trend our global manufacturing footprint enables serve our customers worldwide basis with regional engineering teams that allow stay 
+connected local market requirements this regional model principally services the north american market out mexico the south american market out 
+brazil the european market out eastern europe and the asia pacific market out china and have continued rotate our manufacturing footprint bestcost locations within these regions 
+our global operations are subject certain risks inherent doing business abroad including unexpected changes laws regulations trade monetary tax 
+fiscal policy including tariffs quotas customs and other import export restrictions and other trade barriers existing free trade laws and regulations such the 
+north american free trade agreement provide certain beneficial duties and tariffs for qualifying imports and exports subject compliance with the applicable 
+classification and other requirements changes laws policies governing the terms foreign trade and particular increased trade restrictions tariffs taxes 
+imports from countries where manufacture products such china and mexico could have material adverse effect our business and financial results 
+product development the automotive component supply industry highly competitive both domestically and internationally and characterized rapidly 
+changing technology evolving industry standards and demand for improved vehicle performance and additional power needs our ability anticipate changes 
+technology regulatory standards and successfully develop and introduce new and enhanced products timely and cost competitive basis will significant 
+factor our ability remain competitive compete effectively the automotive supply industry must able develop new products that meet our 
+customers demands timely manner our advanced technologies and robust global engineering and development capabilities have well positioned meet 
+increasingly stringent vehicle manufacturer demands 
+oems are increasingly looking their suppliers simplify vehicle design and assembly processes reduce costs result suppliers that sell vehicle 
+components directly manufacturers tier suppliers have assumed many the design engineering research and development and assembly functions 
+traditionally performed vehicle manufacturers suppliers that can provide fully engineered solutions systems and pre assembled combinations component 
+parts are positioned leverage the trend toward system sourcing 
+engineering design development our history and culture innovation have enabled develop significant intellectual property and design and development 
+expertise provide high quality technologically advanced products that meet and exceed our customers demands for safety durability and performance have 
+team approximately scientists engineers and technicians across major technical centers globally focused innovating and developing marketrelevant product solutions invested approximately million which includes approximately million investment customers and 
+government agencies research and development including engineering maintain our portfolio innovative products and solutions have strong track 
+record developing technologies focused addressing consumer demands and industry trends including gdi powertrain domain controllers two step variable 
+valve actuation and engine control algorithms benefit from the ability provide the latest commercially available technologies increase fuel economy 
+reduce emissions and improve engine performance also leverage our oem product engineering capabilities across our aftermarket product lines capture 
+value over the lifetime vehicle 
+the past suppliers often incurred the initial cost engineering designing and developing automotive component parts and recovered their investments over 
+time including cost recovery component the price each part based expected volumes recently and many other suppliers have negotiated for cost 
+recovery payments independent volumes this trend reduces our economic risk 
+pricing cost cutting initiatives adopted our customers result increased downward pressure pricing our customer supply agreements generally require 
+step downs component pricing over the periods production and oems have historically possessed significant leverage over their outside suppliers because the 
+automotive component supply industry fragmented and serves limited number automotive oems our profitability depends part our ability generate 
+sufficient cost savings the future offset price reductions 
+maintain low fixed cost structure which provides with the flexibility invest new growth opportunities and remain profitable all points the 
+traditional vehicle industry production cycle result approximately our hourly workforce located best cost countries furthermore have 
+operational flexibility leveraging workforce contract workers which represented approximately the hourly workforce march 
+however will continue adjust our cost structure and optimize our manufacturing footprint response changes the global and regional automotive 
+markets and order increase investment advanced technologies and engineering evidenced our going restructuring programs focused the 
+continued rotation our manufacturing footprint best cost locations continue operate cyclical industry that impacted movements the 
+global and regional economies continually evaluate opportunities further refine our cost structure 
+oem product recalls the number vehicles recalled globally oems has increased above historical levels these recalls can either initiated the oems 
+influenced regulatory agencies although there are differing rules and regulations 
+table contents 
+across countries governing recalls for safety issues the overall transition towards global vehicle platforms may also contribute increased recalls outside the 
+automotive components are increasingly standardized across regions given the sensitivity safety issues the automotive industry including increased 
+focus from regulators and consumers anticipate the number automotive recalls may remain above historical levels the near future although engage 
+extensive product quality programs and processes and have not experienced any significant impacts date result the recalls that have been initiated 
+possible that may adversely affected the future the pace these recalls continues 
+industry consolidation consolidation among worldwide suppliers expected continue suppliers seek achieve operating synergies and value stream 
+efficiencies acquire complementary technologies and build stronger customer relationships oems continue expand globally additionally new entrants from 
+outside the traditional automotive industry may seek gain access certain vehicle component markets believe companies with strong balance sheets and 
+financial discipline are the best position take advantage the industry consolidation trend 
+consolidated results operations 
+delphi technologies typically experiences fluctuations revenue due changes oem production schedules vehicle sales mix and the net new and lost 
+business which refer collectively volume fluctuations foreign currency exchange rates which refer contractual reductions the sales 
+price the oem which refer contractual price reductions and engineering changes changes sales mix can have either favorable unfavorable 
+impacts revenue such changes can the result shifts regional growth shifts oem sales demand well shifts consumer demand related 
+vehicle segment purchases and content penetration for instance shift sales demand favoring particular oem vehicle model for which not have 
+supply contract may negatively impact our revenue shift regional sales demand toward certain markets could favorably impact the sales those our 
+customers that have large market share those regions which turn would expected have favorable impact our revenue 
+typically experience described below fluctuations operating income due 
+volume net contractual price reductions changes volume offset contractual price reductions which typically range from net 
+sales and changes mix 
+operational performance changes costs for materials and commodities manufacturing variances and 
+other including restructuring costs and any remaining variances not included volume net contractual price reductions operational 
+performance 
+the automotive component supply industry traditionally subject inflationary pressures with respect raw materials and labor which may place operational 
+and profitability burdens the entire supply chain will continue work with our customers and suppliers mitigate the impact these inflationary 
+pressures the future addition expect commodity cost volatility have continual impact future earnings and operating cash flows such 
+continually seek mitigate both inflationary pressures and our material related cost exposures using number approaches including combining purchase 
+requirements with customers and other suppliers using alternate suppliers product designs and negotiating cost reductions and commodity cost contract 
+escalation clauses into our vehicle manufacturer supply contracts 
+table contents 
+three months ended march versus three months ended march 
+the results operations for the three months ended march and were follows 
+three months ended march 
+favorable unfavorable 
+dollars millions 
+net sales 
+cost sales 
+gross margin 
+selling general and administrative 
+amortization 
+restructuring 
+operating income 
+interest expense 
+other income expense net 
+income before income taxes and equity income 
+income tax expense 
+income before equity income 
+equity income net tax 
+net income 
+net income attributable noncontrolling interest 
+net income attributable delphi technologies 
+total net sales 
+below summary our total net sales for the three months ended march versus march 
+three months ended march 
+variance due 
+volume net 
+contractual price 
+reductions 
+favorable unfavorable 
+other 
+total 
+millions 
+total net sales 
+total net sales for the three months ended march increased compared the three months ended march experienced volume growth 
+for the period primarily result increased sales europe and asia pacific and favorable currency impacts primarily related the euro these 
+increased volumes were partially offset million contractual price reductions net sales also decreased million reflected other above related 
+net sales during the three months ended march for the original equipment services business that remained with the former parent 
+cost sales 
+cost sales primarily comprised material labor manufacturing overhead freight product engineering design and development expenses depreciation and 
+amortization warranty costs and other operating expenses gross margin revenue less cost sales and gross margin percentage gross margin percentage 
+net sales 
+cost sales increased million for the three months ended march compared the three months ended march summarized below the 
+company material cost sales was approximately net sales both the three months ended march and march 
+table contents 
+three months ended march 
+variance due 
+favorable unfavorable 
+volume 
+operational 
+performance 
+dollars millions 
+cost sales 
+gross margin 
+percentage net sales 
+other 
+total 
+millions 
+presented net million contractual price reductions for gross margin variance 
+the increase cost sales reflects increased volumes partially offset improved operational performance and the impacts from currency exchange for the three 
+month period cost sales was also impacted the following items other above 
+million costs incurred during the three months ended march related commercial settlements 
+million increased warranty costs during the three months ended march 
+the absence million reduction cost sales during the three months ended march related commercial agreement for 
+reimbursement previously incurred development costs offset million related asset impairments conjunction with program cancellation 
+one the company oem customers during the three months ended march offset 
+other favorable changes that primarily includes the absence cost sales related the original equipment services business that remained with the 
+former parent 
+selling general and administrative expense 
+three months ended march 
+favorable 
+unfavorable 
+dollars millions 
+selling general and administrative expense 
+percentage net sales 
+selling general and administrative expense includes administrative expenses information technology costs and incentive compensation related costs 
+and increased percentage sales for the three months ended march compared primarily due million incremental expenses 
+associated with becoming stand alone publicly traded company 
+amortization 
+three months ended march 
+favorable 
+unfavorable 
+millions 
+amortization 
+amortization expense reflects the non cash charge related definite lived intangible assets the consistency amortization during the three months ended 
+march compared reflects the continued amortization our intangible assets 
+table contents 
+restructuring 
+three months ended march 
+favorable 
+unfavorable 
+dollars millions 
+restructuring 
+percentage net sales 
+the restructuring expense recorded during the three months ended march remained generally consistent compared the three months ended march 
+which primarily attributable going programs focused the continued rotation our manufacturing footprint the best cost locations europe 
+restructuring costs approximately million were recorded during the three months ended march these charges primarily included million for 
+programs focused the continued rotation our manufacturing footprint best cost locations europe well million for programs implemented 
+reduce global overhead costs 
+restructuring costs approximately million were recorded during the three months ended march these charges were primarily attributable our 
+restructuring programs which focused the continued rotation our manufacturing footprint best cost locations europe and reducing global overhead 
+costs 
+expect continue incur additional restructuring expense and beyond continue operate cyclical industry that impacted movements 
+the global and regional economies continually evaluate opportunities further adjust our cost structure and optimize our manufacturing footprint such 
+future restructuring actions are dependent market conditions customer actions and other factors 
+refer note restructuring the unaudited consolidated financial statements included herein for additional information 
+interest expense 
+three months ended march 
+favorable 
+unfavorable 
+millions 
+interest expense 
+the increase interest expense compared the prior year period primarily reflects the interest related the issuance debt connection with the separation 
+consisting senior secured five year million term loan facility and million senior secured notes 
+refer note debt the unaudited consolidated financial statements included herein for additional information 
+other income expense net 
+three months ended march 
+favorable 
+unfavorable 
+millions 
+other income expense net 
+the increase other income for the three months ended march compared the three months ended march primarily due 
+increase million related remeasurement cross currency intercompany loans 
+decrease million the components net periodic benefit cost other than service costs related the company defined benefit pension plans 
+million rental income and 
+million interest income 
+table contents 
+refer note other income net the unaudited consolidated financial statements included herein for additional information 
+income taxes 
+three months ended march 
+favorable 
+unfavorable 
+millions 
+income tax expense 
+the company tax rate affected the fact that resident taxpayer the tax rates the and other jurisdictions which the company operates 
+the relative amount income earned jurisdiction and the relative amount losses income for which tax benefit expense was recognized due 
+valuation allowance 
+the company effective tax rate for the three months ended march was impacted favorable changes geographic income mix compared 
+this was primarily due changes the underlying business operations and the receipt certain tax incentives and holidays that reduced the effective tax 
+rate for certain subsidiaries below the statutory rate the effective tax rate for the three months ended march was impacted losses for which benefit 
+was recognized due valuation allowance and net discrete tax expense million 
+results operations segment 
+operate our core business along the following operating segments which are grouped the basis similar product market and operating factors 
+powertrain systems which manufactures fuel injection systems well various other powertrain products including valvetrain fuel delivery modules 
+ignition coils canisters sensors valves and actuators this segment also offers electronic control modules and corresponding software algorithms and 
+calibration that provide centralized and reliable management various powertrain components additionally provide power electronics solutions 
+that include supervisory controllers and software along with the converters and inverters and board chargers that convert electricity enable 
+hybrid and electric vehicle propulsion systems 
+delphi technologies aftermarket which sells aftermarket products independent aftermarket and original equipment service customers this segment 
+also supplies wide range aftermarket products and services covering the fuel injection electronics and engine management maintenance and test 
+equipment and vehicle diagnostics categories 
+eliminations and other which includes the elimination inter segment transactions 
+our management utilizes adjusted operating income segment the key performance measure segment income loss and for planning and forecasting 
+purposes management believes this measure most reflective the operational profitability loss our operating segments adjusted operating income 
+segment should not considered substitute for results prepared accordance with gaap and should not considered alternative net income 
+attributable delphi technologies which the most directly comparable financial measure adjusted operating income that prepared accordance with 
+gaap adjusted operating income segment determined and measured delphi technologies should also not compared similarly titled 
+measures reported other companies 
+the reconciliation adjusted operating income operating income includes applicable restructuring separation costs related the separation other 
+acquisition and portfolio project costs which includes costs incurred integrate acquired businesses and plan and execute product portfolio transformation 
+actions including business and product acquisitions and divestitures and asset impairments the reconciliations adjusted operating income net income 
+attributable delphi technologies for the three months ended march and are follows 
+table contents 
+delphi technologies 
+aftermarket 
+powertrain systems 
+eliminations 
+and other 
+total 
+millions 
+for the three months ended march 
+adjusted operating income 
+restructuring 
+separation costs 
+operating income 
+interest expense 
+other income net 
+income before income taxes and equity income 
+income tax expense 
+equity income net tax 
+net income 
+net income attributable noncontrolling interest 
+net income attributable delphi technologies 
+separation costs include incremental expenses associated with becoming stand alone publicly traded company 
+delphi technologies 
+aftermarket 
+powertrain systems 
+eliminations 
+and other 
+total 
+millions 
+for the three months ended march 
+adjusted operating income 
+restructuring 
+asset impairments 
+operating income 
+interest expense 
+other expense net 
+income before income taxes and equity income 
+income tax expense 
+equity income net tax 
+net income 
+net income attributable noncontrolling interest 
+net income attributable delphi technologies 
+net sales gross margin percentage net sales and adjusted operating income segment for the three months ended march and are 
+follows 
+net sales segment 
+three months ended march 
+variance due 
+volume net 
+contractual price 
+reductions 
+favorable 
+unfavorable 
+millions 
+powertrain systems 
+other 
+total 
+millions 
+delphi technologies aftermarket 
+eliminations and other 
+total 
+table contents 
+delphi technologies aftermarket net sales decreased million reflected other above due original equipment services business that remained with the 
+former parent 
+gross margin percentage segment 
+three months ended march 
+powertrain systems 
+delphi technologies aftermarket 
+eliminations and other 
+total 
+adjusted operating income segment 
+three months ended march 
+variance due 
+volume net 
+contractual price 
+reductions 
+favorable 
+unfavorable 
+operational 
+performance 
+millions 
+powertrain systems 
+delphi technologies aftermarket 
+eliminations and other 
+total 
+total 
+millions 
+other 
+noted the table above adjusted operating income for the three months ended march compared the three months ended march was 
+impacted volume and contractual price reductions including product mix and operational performance improvements well the following items included 
+within other the table above 
+favorable foreign currency impacts million 
+decreased costs million our delphi technologies aftermarket segment related certain brazilian legal matters during the three months ended 
+march offset 
+million costs incurred during the three months ended march related commercial settlements 
+million increased warranty costs during the three months ended march 
+million impact related being stand alone publicly traded company including the absence the original equipment services business that 
+remained with the former parent incremental costs and inefficiencies associated with being stand alone publicly traded company subsequent the 
+separation and costs associated with the transition services agreement and contract manufacturing services agreement entered with our former parent 
+connection with the separation 
+the absence million reduction cost sales during the three months ended march related commercial agreement for 
+reimbursement previously incurred development costs conjunction with program cancellation one the company oem customers during 
+the three months ended march 
+table contents 
+liquidity and capital resources 
+overview capital structure 
+the company liquidity requirements are primarily fund our business operations including capital expenditures and working capital requirements operational 
+restructuring activities separation activities meet debt service requirements fund our pension obligations and dividends ordinary shares our primary sources 
+liquidity are cash flows from operations our existing cash balance and necessary borrowings under available credit facilities and the issuance long term 
+debt the extent generate discretionary cash flow may consider using this additional cash flow for optional prepayments indebtedness undertake 
+new capital investment projects make acquisitions return capital shareholders and for general corporate purposes 
+march had cash and cash equivalents million during entered into the credit agreement and completed the offering the 
+senior notes defined below such that have total principal amount debt approximately million outstanding march primarily 
+consisting million five year term loan pursuant the credit agreement and million five year senior notes march there were 
+amounts drawn the revolving credit facility resulting availability million refer note debt the unaudited consolidated financial 
+statements included herein for additional information 
+expect existing cash available liquidity and cash flows from operations continue sufficient fund our global activities including restructuring 
+payments any mandatory payments required under the credit agreement described below dividends ordinary shares and capital expenditures well 
+fund potential acquisitions appropriate 
+also continue expect able move funds between different countries manage our global liquidity needs without material adverse tax implications 
+subject current monetary policies and the terms the credit agreement while substantial portion our operating income generated our non 
+subsidiaries and march the company cash and cash equivalents held our non subsidiaries totaled million utilize combination 
+strategies including dividends cash pooling arrangements intercompany loan repayments and other distributions and advances provide the funds necessary 
+meet our global liquidity needs there are significant restrictions the ability our subsidiaries pay dividends make other distributions delphi 
+technologies 
+based these factors believe possess sufficient liquidity fund our global operations and capital investments and beyond 
+dividends holders ordinary shares 
+the company has declared and paid cash dividends per ordinary share during the periods presented follows 
+dividend 
+amount 
+per share 
+millions 
+first quarter 
+total 
+addition april the board directors declared regular quarterly cash dividend per ordinary share payable may shareholders 
+record the close business may 
+credit agreement 
+september delphi technologies and its wholly owned subsidiary delphi powertrain corporation entered into credit agreement the credit 
+agreement with jpmorgan chase bank administrative agent the administrative agent with respect billion senior secured credit 
+facilities the credit agreement consists senior secured five year million term loan facility the term loan facility and million five year 
+senior secured revolving credit facility the revolving credit facility collectively the credit facilities with the lenders party thereto and jpmorgan chase 
+bank incurred approximately million issuance costs connection with the credit agreement 
+the credit facilities are subject interest rate our option either the administrative agent alternate base rate abr defined the credit 
+agreement the london interbank offered rate the adjusted libor rate defined the credit agreement libor each case plus 
+applicable margin that based our corporate credit ratings more particularly described below the applicable rate addition the credit agreement 
+requires payment additional interest certain overdue obligations terms and conditions customary for financings this type the interest rate period with 
+respect libor interest rate options can set one two three six months selected accordance with the terms the credit agreement 
+other period may agreed the applicable lenders but payable less than 
+table contents 
+quarterly may elect change the selected interest rate over the term the credit facilities accordance with the provisions the credit agreement the 
+applicable rates under the credit agreement the specified date are set forth below 
+march 
+libor plus 
+term loan facility 
+december 
+abr plus 
+libor plus 
+abr plus 
+the applicable interest rate margins for the term loan facility will increase decrease from time time between and per annum for libor 
+loans and between and per annum for abr loans each case based upon changes our corporate credit ratings the applicable interest rate 
+margins for the revolving credit facility will increase decrease from time time between and per annum for libor loans and between 
+and per annum for abr loans each case based upon changes our corporate credit ratings accordingly the applicable rates for the credit facilities 
+will fluctuate during the term the credit agreement based changes the abr libor future changes our corporate credit ratings the credit 
+agreement also requires that pay certain facility fees the aggregate commitments under the revolving credit facility and certain letter credit issuance and 
+fronting fees amounts outstanding and the rate effective march are detailed below 
+borrowings 
+march 
+applicable rate 
+term loan facility 
+libor plus 
+rate effective 
+millions 
+march 
+letters credit are available for issuance under the credit agreement terms and conditions customary for financings this type which issuances reduce 
+availability under the revolving credit facility such letters credit were outstanding march 
+are obligated make quarterly principal payments throughout the term the term loan facility according the amortization provisions the credit 
+agreement such payments may reduced from time time accordance with the terms the credit agreement result the application loan 
+prepayments made any prior the scheduled date payment thereof 
+borrowings under the credit agreement are prepayable our option without premium penalty may request that all portion the credit facilities 
+converted extend the scheduled maturity date with respect all portion any principal amount such credit facilities under certain conditions 
+customary for financings this type the credit agreement also contains certain mandatory prepayment provisions the event that receive net cash proceeds 
+from certain non ordinary course asset sales casualty events and debt offerings each case subject terms and conditions customary for financings this type 
+the credit agreement contains certain affirmative and negative covenants customary for financings this type that among other things limit our and our 
+subsidiaries ability incur additional indebtedness liens dispose assets make certain fundamental changes designate subsidiaries unrestricted 
+make certain investments prepay certain indebtedness and pay dividends make other distributions redemptions repurchases with respect our and 
+our subsidiaries equity interests addition the credit agreement requires that maintain consolidated net leverage ratio the ratio consolidated total 
+indebtedness consolidated adjusted ebitda each defined the credit agreement not greater than the credit agreement also contains 
+events default customary for financings this type including certain customary change control events the company was compliance with the credit 
+agreement covenants march 
+the borrowers under the credit agreement comprise delphi technologies and its wholly owned delaware organized subsidiary delphi powertrain corporation 
+additional subsidiaries delphi technologies may added borrowers guarantors under the credit agreement from time time the terms and 
+conditions set forth the credit agreement the obligations each borrower under the credit agreement will jointly and severally guaranteed each other 
+borrower and certain our existing and future direct and indirect subsidiaries subject certain exceptions customary for financings this type all 
+obligations the borrowers and the guarantors are secured certain assets such borrowers and guarantors including perfected first priority pledge all 
+the capital stock delphi powertrain corporation 
+addition the credit agreement contains provisions pursuant which based upon our achievement certain corporate credit ratings certain covenants and 
+our obligation provide collateral secure the credit facilities will suspended 
+table contents 
+senior notes 
+september delphi technologies plc issued million aggregate principal amount senior unsecured notes due transaction 
+exempt from registration under the securities act the senior notes the senior notes were priced par resulting yield maturity 
+approximately million issuance costs were incurred connection with the senior notes offering interest payable semi annually april and october 
+each year holders record the close business march september immediately preceding the interest payment date the proceeds received 
+from the senior notes offering were deposited into escrow and subsequently released delphi technologies plc upon satisfaction certain conditions 
+including completion the separation december from the date the satisfaction the escrow conditions the notes are guaranteed jointly and 
+severally unsecured basis each our current and future domestic subsidiaries that guarantee our credit facilities described above the proceeds from 
+the senior notes together with the proceeds from the borrowings under the credit agreement were used fund dividend the former parent fund operating 
+cash and pay taxes and related fees and expenses 
+the senior notes indenture contains certain restrictive covenants including with respect delphi technologies and subsidiaries ability incur liens enter into 
+sale and leaseback transactions and merge with into other entities the company was compliance with the senior notes covenants march 
+other financing 
+receivable factoring the company entered into arrangements with various financial institutions sell eligible trade receivables from certain aftermarket 
+customers north america these arrangements can terminated any time subject prior written notice the receivables under these arrangements are sold 
+third party without recourse the company and are therefore accounted for true sales during the periods ended march and december 
+million and million receivables were sold under these arrangements and expenses million and million respectively were recognized within 
+interest expense 
+capital leases there were approximately million and million capital lease obligations outstanding march and december 
+respectively 
+interest cash paid for interest related debt outstanding totaled million and less than million for the three months ended march and 
+respectively 
+cash flows 
+intra month cash flow cycles vary region but general are users cash through the first half typical month and generate cash during the latter half 
+typical month due this cycle cash flows may utilize short term financing including our revolving credit facility manage our intra month 
+working capital needs our cash balance typically peaks month end 
+utilize combination strategies including dividends cash pooling arrangements intercompany loan structures and other distributions and advances 
+provide the funds necessary meet our global liquidity needs utilize global cash pooling arrangement consolidate and manage our global cash balances 
+which enables efficiently move cash into and out number the countries which operate 
+operating activities net cash provided operating activities totaled million and million for the three months ended march and 
+respectively cash flow from operating activities for the three months ended march consisted primarily net earnings million increased 
+million for non cash charges for depreciation amortization and pension costs partially offset million related changes operating assets and liabilities 
+net restructuring and pension contributions cash flow from operating activities for the three months ended march consisted primarily net earnings 
+million increased million for non cash charges for depreciation amortization and pension costs partially offset million related changes 
+operating assets and liabilities net restructuring and pension contributions 
+investing activities net cash used investing activities totaled million for the three months ended march compared million for the three 
+months ended march the increase usage primarily attributable million increased capital expenditures and the investment polycharge 
+million during the three months ended march compared the three months ended march 
+financing activities net cash used financing activities totaled million and million for the three months ended march and respectively 
+cash flows used financing activities for the three months ended march primarily included million dividend payments consolidated affiliates 
+minority shareholders and million dividend payments ordinary shares cash flows used financing activities for the three months ended march 
+primarily included million dividend payments consolidated affiliates minority shareholders 
+table contents 
+off balance sheet arrangements 
+not engage any off balance sheet financial arrangements that have are reasonably likely have material current future effect our financial 
+condition changes financial condition revenues expenses results operations liquidity capital expenditures capital resources 
+contingencies and environmental matters 
+for description contingencies including environmental contingencies and the amount currently held reserve for environmental matters see note 
+commitments and contingencies the unaudited consolidated financial statements included herein 
+recently issued accounting pronouncements 
+the information concerning recently issued accounting pronouncements see note significant accounting policies the unaudited consolidated financial 
+statements included herein 
+critical accounting estimates 
+there have been significant changes our critical accounting estimates during the three months ended march 
+item quantitative and qualitative disclosures about market risk 
+there have been material changes the information concerning our exposures market risk stated the company annual report form for the 
+year ended december described the form have currency exposures related buying selling and financing currencies other than the 
+local functional currencies which operate transactional exposure also have currency exposures related the translation the financial statements 
+our non subsidiaries that use the local currency their functional currency into dollars the company reporting currency translational exposure 
+described note derivatives and hedging activities the unaudited consolidated financial statements included part item this report manage this 
+risk the company designates certain qualifying instruments net investment hedges certain non subsidiaries the effective portion the gains losses 
+instruments designated net investment hedges are recognized within the cumulative translation adjustment component oci offset changes the value 
+the net investment these foreign currency denominated operations 
+item controls and procedures 
+control system matter how well conceived and operated can provide only reasonable not absolute assurance that the objectives the control system are 
+met because the inherent limitations all control systems evaluation controls can provide absolute assurance that all control issues and instances 
+fraud any within the company have been detected 
+disclosure controls and procedures 
+management responsible for establishing and maintaining adequate internal control over financial reporting such term defined rules and under the securities exchange act the company maintains disclosure controls and procedures that are designed provide reasonable 
+assurance achieving their objectives 
+march the company management with the participation the chief executive officer and the chief financial officer has evaluated for 
+disclosure purposes the effectiveness the company disclosure controls and procedures defined rules and under the securities 
+exchange act the end the period covered this report based that evaluation the chief executive officer and the chief financial officer 
+concluded that the company disclosure controls and procedures were effective provide reasonable assurance that the desired control objectives were achieved 
+march 
+changes internal control over financial reporting 
+there were material changes the company internal controls over financial reporting during the three months ended march that have materially 
+affected are reasonably likely materially affect the company internal controls over financial reporting 
+table contents 
+part other information 
+item legal proceedings 
+are from time time subject various actions claims suits government investigations and other proceedings incidental our business including those 
+arising out alleged defects breach contracts competition and antitrust matters product warranties intellectual property matters personal injury claims and 
+employment related matters for description risks related various legal proceedings and claims see part item risk factors our annual report 
+form for the year ended december for description our outstanding material legal proceedings see note commitments and contingencies 
+the unaudited consolidated financial statements included herein 
+item risk factors 
+there have been material changes the risk factors previously described part item risk factors the company annual report form 
+for the year ended december 
+item exhibits 
+exhibit 
+number 
+description 
+form time based rsu award for annual grants non employee directors pursuant the delphi technologies plc long term incentive plan 
+subsidiaries the registrant 
+rule certification principal executive officer 
+rule certification principal financial officer 
+certification chief executive officer pursuant section adopted pursuant section the sarbanes oxley act 
+certification chief financial officer pursuant section adopted pursuant section the sarbanes oxley act 
+ins 
+xbrl instance document 
+sch 
+xbrl taxonomy extension schema document 
+cal 
+xbrl taxonomy extension calculation linkbase document 
+def 
+xbrl taxonomy extension definition linkbase document 
+lab 
+xbrl taxonomy extension label linkbase document 
+pre 
+xbrl taxonomy extension presentation linkbase document 
+filed herewith 
+management contract compensatory plan arrangement 
+table contents 
+signatures 
+pursuant the requirements the securities exchange act the registrant has duly caused this report signed its behalf the undersigned 
+thereunto duly authorized 
+delphi technologies plc 
+vivid sehgal 
+vivid sehgal 
+chief financial officer 
+dated may 
+exhibit 
+delphi technologies plc 
+long term incentive plan 
+non employee director rsu award agreement 
+you the participant have been granted rsu award this award the following terms and subject the 
+provisions attachment and the delphi technologies plc long term incentive plan the plan unless defined this nonemployee director rsu award agreement including attachment this agreement capitalized terms will have the meanings 
+assigned them the plan the event conflict among the provisions the plan this agreement and any descriptive 
+materials provided you the provisions the plan will prevail 
+participant 
+number shares 
+underlying award 
+grant date 
+vesting 
+name 
+shares the rsu shares 
+april the grant date 
+subject section the rsu shares shall vest april the 
+scheduled vesting date 
+attachment 
+non employee director rsu award agreement 
+terms and conditions 
+grant name 
+section 
+grant award subject the terms and conditions the plan and this agreement the company 
+has granted the award the participant the grant date the terms set forth the cover page this agreement more fully 
+described this attachment the award granted under the plan the terms and conditions which are incorporated herein 
+this reference and made part this agreement 
+section 
+timing vesting and delivery 
+scheduled vesting subject this section the rsu shares shall vest the scheduled vesting date 
+terminations service 
+the participant service with the board terminates prior the scheduled vesting date result 
+removal from office pursuant article the memorandum and articles association delphi technologies plc 
+the participant shall forfeit the award 
+the participant service with the board terminates prior the scheduled vesting date for any reason other 
+than described clause above pro rata portion the rsu shares shall vest the date such termination and the 
+portion the rsu shares that does not vest the date such termination shall forfeited without any payment the 
+participant the pro rata portion the rsu shares that vests upon the participant termination service pursuant this 
+clause shall equal the total number rsu shares underlying the award multiplied fraction the numerator 
+which shall the number days between the grant date and the termination date counting both the grant date and the 
+termination date and the denominator which shall the number days between the grant date and the scheduled 
+vesting date counting both the grant date and the scheduled vesting date 
+change control upon change control prior the scheduled vesting date the rsu shares shall vest full 
+delivery shares the company shall deliver the rsu shares the participant soon practicable 
+following the date which the rsu shares vest but any event within days the date which the rsu shares vest 
+section dividend equivalents dividend paid shares during the period commencing the grant date and 
+ending the date which the rsu shares are delivered the participant the participant shall eligible receive amount 
+equal the amount the 
+dividend that the participant would have received had the rsu shares been held the participant during the period with respect 
+which such dividend paid being understood that such amount shall payable with respect any rsu shares that are 
+forfeited pursuant section such amount shall paid the participant the date which the rsu shares are delivered 
+the participant the same form cash shares other property which such dividend paid holders shares generally any 
+shares that the participant eligible receive pursuant this section are referred herein dividend shares 
+section 
+additional terms and conditions 
+issuance shares upon delivery the rsu shares and applicable any dividend shares such shares shall 
+evidenced book entry registration provided however that the committee may determine that such shares shall evidenced 
+such other manner deems appropriate including the issuance stock certificate certificates 
+voting rights the participant shall not have voting rights with respect the rsu shares applicable any 
+dividend shares unless and until such shares are delivered the participant 
+transferability unless and until the rsu shares and applicable any dividend shares are delivered the 
+participant such shares shall not assigned sold transferred otherwise subject alienation the participant 
+tax withholding the company will withhold rsu shares upon the settlement this award cover any 
+withholding obligations for liability for all income tax social insurance payroll tax fringe benefits tax payment account other 
+tax related items related the participant participation the plan tax related items unless the use such withholding 
+method prohibited problematic under applicable laws otherwise may trigger adverse consequences the company the 
+employer each case determined the committee which case the obligation withhold tax related items shall 
+satisfied the participant submitting payment the company equal the amount the tax related items required 
+withheld 
+section 
+miscellaneous provisions 
+notices all notices requests and other communications under this agreement shall writing and shall 
+delivered person courier otherwise mailed certified registered mail return receipt requested sent facsimile 
+transmission follows 
+the company 
+delphi technologies plc 
+courteney road 
+hoath way 
+gillingham kent 
+united kingdom 
+attention chief human resources officer 
+the participant the address that the participant most recently provided the company 
+such other address facsimile number such party may hereafter specify for the purpose notice the other parties hereto 
+all such notices requests and other communications shall deemed received the date receipt the recipient thereof 
+received prior business day the place receipt otherwise any such notice request communication shall 
+deemed received the next succeeding business day the place receipt 
+entire agreement this agreement the plan and any other agreements referred herein and therein and any 
+schedules exhibits and other documents referred herein therein constitute the entire agreement and understanding between the 
+parties respect the subject matter hereof and supersede all prior and contemporaneous arrangements agreements and 
+understandings both oral and written whether term sheets presentations otherwise between the parties with respect the 
+subject matter hereof 
+amendment waiver amendment modification any provision this agreement shall effective unless 
+signed writing behalf the company and the participant except that the committee may amend modify this 
+agreement without the participant consent accordance with the provisions the plan otherwise set forth this 
+agreement waiver any breach condition this agreement shall deemed waiver any other subsequent 
+breach condition whether like different nature any amendment modification any provision this agreement 
+any waiver any provision this agreement shall effective only the specific instance and for the specific purpose for which 
+made given 
+assignment neither this agreement nor any right remedy obligation liability arising hereunder reason hereof 
+shall assignable the participant 
+successors and assigns third party beneficiaries this agreement shall inure the benefit and binding 
+upon the company and the participant and their respective heirs successors legal representatives and permitted assigns nothing 
+this agreement expressed implied intended confer anyone other than the company and the participant and their 
+respective heirs successors legal representatives and permitted assigns any rights remedies obligations liabilities under 
+reason this agreement 
+participant undertaking accepting this award the participant agrees take whatever additional action and 
+execute whatever additional documents the company may deem necessary advisable carry out give effect any the 
+obligations restrictions imposed the participant pursuant the provisions this agreement 
+plan the participant acknowledges and understands that material definitions and provisions concerning this award 
+and the participant rights and obligations with respect thereto 
+are set forth the plan the participant has read carefully and understands the provisions the plan 
+risk statement the participant acknowledges and accepts that the future value the shares unknown and cannot 
+predicted with certainty and that the value the award the time when the rsu shares are delivered may less than the value 
+the award the grant date the participant understands that she any doubt whether she should accept this 
+award the participant should obtain independent advice 
+governing law the agreement shall governed the laws the state new york without application the 
+conflicts law principles thereof 
+waiver jury trial each the parties hereto irrevocably waives any and all right 
+trial jury any legal proceeding arising out related this agreement the 
+transactions contemplated hereby 
+witness whereof the parties have executed this agreement the day and year first written above 
+delphi technologies plc 
+name james harrington 
+title senior vice president and general counsel 
+participant name 
+exhibit 
+delphi technologies plc 
+subsidiaries 
+business entity 
+delphi powertrain corporation 
+delphi powertrain systems management 
+limited 
+delphi powertrain systems holdings sarl 
+delphi singapore holdings pte ltd 
+delphi singapore investments pte ltd 
+delphi automotive systems australia ltd 
+delphi technologies limited 
+delphi powertrain systems industria 
+comercio ltda 
+beijing delphi wan yuan engine management 
+systems ltd 
+delphi diesel systems yantai ltd 
+delphi shanghai dynamics and propulsion 
+systems ltd 
+delphi trading shanghai ltd 
+beijing delphi technology development 
+ltd 
+delphi technologies suzhou ltd 
+delphi powertrain international services llc 
+delphi powertrain technologies general 
+partnership 
+delphi powertrain systems llc 
+delphi technologies financing limited 
+delphi automotive operations limited 
+delphi diesel systems limited 
+delphi diesel systems pension trustees 
+limited 
+delphi electronics overseas company ltd 
+delphi electronics overseas company 
+pensions trustees ltd 
+ownership form 
+direct 
+direct 
+domestic jurisdiction entity owned 
+delaware 
+england and wales 
+direct 
+direct 
+direct 
+indirect 
+indirect 
+indirect 
+luxembourg 
+singapore 
+singapore 
+australia 
+barbados 
+brazil 
+indirect 
+china 
+indirect 
+indirect 
+china 
+china 
+indirect 
+indirect 
+china 
+china 
+indirect 
+indirect 
+indirect 
+china 
+delaware 
+delaware 
+indirect 
+indirect 
+indirect 
+indirect 
+indirect 
+delaware 
+england and wales 
+england and wales 
+england and wales 
+england and wales 
+indirect 
+indirect 
+england and wales 
+england and wales 
+exhibit 
+delphi financial operations limited 
+delphi financial services limited 
+delphi lockheed automotive limited 
+delphi lockheed automotive pension trustees 
+limited 
+hartridge limited 
+delphi france holdings sas 
+delphi france sas 
+delphi powertrain systems deutschland 
+gmbh 
+delphi powertrain systems hungary kft 
+delphi propulsion systems private limited 
+delphi powertrain systems italia srl 
+delphi japan limited 
+delphi powertrain systems korea ltd 
+delphi technologies korea llc 
+delphi automotive systems luxembourg 
+delphi holdfi holdings 
+delphi holdfi luxembourg 
+delphi luxembourg investments 
+delphi powertrain systems operations 
+luxembourg 
+delphi technologies holdings luxembourg 
+delphi technologies malta holdings limited 
+catalizadores ambientales 
+delphi diesel systems 
+delphi netherlands 
+delphi canada inc 
+delphi powertrain systems poland 
+delphi powertrain systems portugal 
+industrial development and production 
+srl 
+indirect 
+indirect 
+indirect 
+indirect 
+england and wales 
+england and wales 
+england and wales 
+england and wales 
+indirect 
+indirect 
+indirect 
+indirect 
+england and wales 
+france 
+france 
+germany 
+indirect 
+indirect 
+indirect 
+indirect 
+indirect 
+indirect 
+indirect 
+indirect 
+indirect 
+indirect 
+indirect 
+hungary 
+india 
+italy 
+japan 
+korea 
+korea 
+luxembourg 
+luxembourg 
+luxembourg 
+luxembourg 
+luxembourg 
+indirect 
+luxembourg 
+indirect 
+indirect 
+malta 
+mexico 
+indirect 
+indirect 
+indirect 
+indirect 
+indirect 
+indirect 
+mexico 
+netherlands 
+ontario 
+poland 
+portugal 
+romania 
+exhibit 
+delphi diesel systems romania srl 
+closed joint stock company delphi samara 
+delphi automotive systems singapore 
+investments pte ltd 
+delphi diesel systems 
+delphi automotive taiwan ltd 
+delphi otomotiv sistemleri sanayi ticaret 
+anonim sirketi 
+indirect 
+indirect 
+indirect 
+romania 
+russian federation 
+singapore 
+indirect 
+indirect 
+indirect 
+spain 
+taiwan 
+turkey 
+exhibit 
+certifications 
+certification principal executive officer 
+liam butterworth certify that 
+have reviewed this quarterly report form delphi technologies plc 
+based knowledge this report does not contain any untrue statement material fact omit state material fact necessary make the 
+statements made light the circumstances under which such statements were made not misleading with respect the period covered this report 
+based knowledge the financial statements and other financial information included this report fairly present all material respects the 
+financial condition results operations and cash flows the registrant and for the periods presented this report 
+the registrant other certifying officer and are responsible for establishing and maintaining disclosure controls and procedures defined exchange 
+act rules and and internal control over financial reporting defined exchange act rules and for the 
+registrant and have 
+designed such disclosure controls and procedures caused such disclosure controls and procedures designed under our supervision 
+ensure that material information relating the registrant including its consolidated subsidiaries made known others within those 
+entities particularly during the period which this report being prepared 
+designed such internal control over financial reporting caused such internal control over financial reporting designed under our 
+supervision provide reasonable assurance regarding the reliability financial reporting and the preparation financial statements for 
+external purposes accordance with generally accepted accounting principles 
+evaluated the effectiveness the registrant disclosure controls and procedures and presented this report our conclusions about the 
+effectiveness the disclosure controls and procedures the end the period covered this report based such evaluation and 
+disclosed this report any change the registrant internal control over financial reporting that occurred during the registrant most recent 
+fiscal quarter the registrant fourth fiscal quarter the case annual report that has materially affected reasonably likely 
+materially affect the registrant internal control over financial reporting and 
+the registrant other certifying officer and have disclosed based our most recent evaluation internal control over financial reporting the 
+registrant auditors and the audit committee the registrant board directors persons performing the equivalent functions 
+all significant deficiencies and material weaknesses the design operation internal control over financial reporting which are reasonably 
+likely adversely affect the registrant ability record process summarize and report financial information and 
+any fraud whether not material that involves management other employees who have significant role the registrant internal control 
+over financial reporting 
+date may 
+liam butterworth 
+liam butterworth 
+president chief executive officer 
+principal executive officer 
+exhibit 
+certifications 
+certification principal financial officer 
+vivid sehgal certify that 
+have reviewed this quarterly report form delphi technologies plc 
+based knowledge this report does not contain any untrue statement material fact omit state material fact necessary make the 
+statements made light the circumstances under which such statements were made not misleading with respect the period covered this report 
+based knowledge the financial statements and other financial information included this report fairly present all material respects the 
+financial condition results operations and cash flows the registrant and for the periods presented this report 
+the registrant other certifying officer and are responsible for establishing and maintaining disclosure controls and procedures defined exchange 
+act rules and and internal control over financial reporting defined exchange act rules and for the 
+registrant and have 
+designed such disclosure controls and procedures caused such disclosure controls and procedures designed under our supervision 
+ensure that material information relating the registrant including its consolidated subsidiaries made known others within those 
+entities particularly during the period which this report being prepared 
+designed such internal control over financial reporting caused such internal control over financial reporting designed under our 
+supervision provide reasonable assurance regarding the reliability financial reporting and the preparation financial statements for 
+external purposes accordance with generally accepted accounting principles 
+evaluated the effectiveness the registrant disclosure controls and procedures and presented this report our conclusions about the 
+effectiveness the disclosure controls and procedures the end the period covered this report based such evaluation and 
+disclosed this report any change the registrant internal control over financial reporting that occurred during the registrant most recent 
+fiscal quarter the registrant fourth fiscal quarter the case annual report that has materially affected reasonably likely 
+materially affect the registrant internal control over financial reporting and 
+the registrant other certifying officer and have disclosed based our most recent evaluation internal control over financial reporting the 
+registrant auditors and the audit committee the registrant board directors persons performing the equivalent functions 
+all significant deficiencies and material weaknesses the design operation internal control over financial reporting which are reasonably 
+likely adversely affect the registrant ability record process summarize and report financial information and 
+any fraud whether not material that involves management other employees who have significant role the registrant internal control 
+over financial reporting 
+date may 
+vivid sehgal 
+vivid sehgal 
+chief financial officer 
+principal financial officer 
+exhibit 
+certification pursuant section adopted pursuant section the sarbanes oxley act 
+connection with the filing this quarterly report form delphi technologies plc the company for the period ended march with the 
+securities and exchange commission the date hereof the report liam butterworth chief executive officer certify pursuant section 
+adopted pursuant section the sarbanes oxley act the best knowledge that 
+the report fully complies with the requirements section the securities exchange act and 
+the information contained the report fairly presents all material respects the financial condition and results operations the company 
+date may 
+liam butterworth 
+liam butterworth 
+president chief executive officer 
+principal executive officer 
+signed original this written statement required section has been provided the company and will retained the company and furnished the 
+securities and exchange commission its staff upon request 
+exhibit 
+certification pursuant section adopted pursuant section the sarbanes oxley act 
+connection with the filing this quarterly report form delphi technologies plc the company for the period ended march with the 
+securities and exchange commission the date hereof the report vivid sehgal chief financial officer certify pursuant section 
+adopted pursuant section the sarbanes oxley act the best knowledge that 
+the report fully complies with the requirements section the securities exchange act and 
+the information contained the report fairly presents all material respects the financial condition and results operations the company 
+date may 
+vivid sehgal 
+vivid sehgal 
+chief financial officer 
+principal financial officer 
+signed original this written statement required section has been provided the company and will retained the company and furnished the 
+securities and exchange commission its staff upon request 

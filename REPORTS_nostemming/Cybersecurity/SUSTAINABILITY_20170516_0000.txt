@@ -1,0 +1,1599 @@
+may gmt 
+sustainability software 
+data privacy gdpr security 
+solution stocks 
+the introduction the european general data protection 
+regulation gdpr may could catalyse investment 
+security solutions companies work ensure compliance 
+identify software stocks positively exposed this 
+theme 
+morgan stanley international plc 
+victoria chapelow 
+equity strategist 
+victoria chapelow morganstanley 
+morgan stanley llc 
+melissa gorham 
+equity analyst 
+melissa gorham morganstanley 
+morgan stanley international plc 
+jessica alsford cfa 
+equity strategist 
+jessica alsford morganstanley 
+faty dembele 
+research associate 
+faty dembele morganstanley 
+morgan stanley llc 
+eva zlotnicka 
+the european general data protection regulation gdpr increases compliance 
+requirements for companies holding european data starting may this 
+means companies will need clearly understand where their data held and 
+who has access analysis ernst and young their privacy questionnaire 
+indicates many may not have this information the new regulation will therefore 
+require companies strengthen internal rules data minimisation security 
+data and record audit trails data usage furthermore for the first time 
+companies will required notify the local data protection authority data 
+breach within hours and breach may result sizeable fines this will 
+increase the visibility and cost non compliance for companies thus 
+encouraging spending the security solutions offered software companies 
+europe has traditionally lagged security investment when compared the 
+united states but the gdpr could catalyst for incremental security 
+spending here the currently represents total security spending 
+today whilst emea represents roughly half the despite similar 
+aggregate gdp between the two geographic regions emea spending equaled 
+the americas gdp would see incremental spending 
+almost increase europe today this could have implications more 
+broadly any company holding european data even outside the 
+subjected gdpr requirements 
+believe vulnerability management security analytics identity and data 
+protection technologies and storage software are the three security sector 
+areas likely benefit the most these three areas support the stricter focus 
+reporting and remediation vulnerabilities light the requirement 
+report data breach better identity and control access the data and 
+better data management and classification govern and manage data efficiently 
+identify solution stocks play the theme proofpoint qualys sophos 
+splunk and symantec are all well positioned benefit from gdpr all rated 
+overweight other exposed stocks but rated equal weight are barracuda box 
+cyberark and varonis and finally imperva rated underweight 
+equity strategist 
+eva zlotnicka morganstanley 
+keith weiss cfa 
+equity analyst 
+keith weiss morganstanley 
+morgan stanley international plc 
+adam wood 
+equity analyst 
+adam wood morganstanley 
+download embedding sustainability into valuation 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+executive summary 
+expect demand for security solutions increase 
+europe companies focus compliance with the 
+general data protection regulation gdpr 
+security software has remained top priority our cio 
+survey for the past several years with revenue growth 
+the top security vendors ahead growth overall 
+spending however spending has largely come from the 
+total security spending today and europe has 
+lagged despite similar aggregate gdp between the 
+two regions emea spending equaled the americas 
+gdp would see incremental spending 
+almost increase europe today 
+the gdpr could the catalyst increase security 
+spending europe key driver investment 
+cybersecurity solutions has been breach protection 
+regulations the state level the gpdr introduces 
+stringent data breach notifications for all companies holding 
+data for the first time well stricter rules data 
+security and processing already the netherlands have 
+introduced new data breach notification law with higher 
+requirements compared the gdpr which resulted 
+more than breach notifications within the first 
+days the combination new breach notification 
+requirements and sizeable fines annual global 
+turnover will increase visibility non compliance putting 
+pressure companies comply 
+vulnerability management security analytics identity and 
+data protection technologies and storage software likely 
+the key beneficiaries stricter regulatory requirements 
+will drive need for better visibility software 
+infrastructure vulnerabilities and solutions better identify 
+and control access data addition the storage software 
+providers should benefit from focus better data 
+classification govern and manage data efficiently 
+identify solution stocks that believe stand 
+benefit from the gdpr 
+exhibit identifying security software companies exposure gdpr 
+vendor 
+country 
+ticker 
+market cap 
+curr 
+share price 
+last close 
+price 
+targets 
+upside 
+rating 
+rev rev exposed 
+outside 
+gdpr 
+top picks 
+for gdpr 
+vulnerability management and security analytics 
+qualys 
+splunk 
+qlys 
+usd 
+rpd 
+usd 
+splk 
+usd 
+identity and data protection technologies 
+cyberark 
+cybr 
+usd 
+imperva 
+proofpoint 
+impv 
+usd 
+pfpt 
+usd 
+sophos 
+soph 
+gbp 
+symantec 
+symc 
+usd 
+varonis 
+vrns 
+usd 
+storage software 
+box 
+box 
+usd 
+barracuda 
+cuda 
+usd 
+source company data morgan stanley research note that not all companies disclose europe revenues therefore highlight our best estimate sophos and germany qualys foreign box other splunk 
+international barracuda varonis symantec imperva cyberark emea proofpoint row overweight equal weight underweight 
+framing the opportunity 
+from may the will introduce the general data protection regulation which will 
+replace the data protection directive providing companies with updated rules 
+data protection will require companies understand the data that they hold and 
+impose stricter rules their data security obligations believe this will create 
+opportunities for the technology sector companies work ensure compliance 
+the new general data protection regulation imposes stricter 
+rules the use data 
+the gdpr enhances many aspects the data protection directive ensure data 
+protection keeps pace with the evolving digital landscape including mass processing 
+data online retailing search engines and social networks for example clarifies what 
+meant personal information take into account the growing use the internet 
+such includes quasi identifiers these are online and location identifiers such 
+address that can used pinpoint location for many companies these steps will 
+covered adapting their normal framework 
+however there are also number additional aspects for companies address 
+including documenting procedures provide clear audit trails data usage 
+strengthening rules data minimisation and notifying consumers and authorities 
+data breach 
+mandatory breach notifications will make non compliance more visible organisations 
+must notify the supervisory authority without undue delay within hours unless 
+the breach unlikely result risk for the rights and freedoms individuals 
+which case they must report the public which likely have greater reputational 
+impact furthermore the definition data breach breach security leading the 
+accidental unlawful destruction loss alteration unauthorised disclosure access 
+personal data transmitted stored otherwise processed goes much further than the 
+they require greater disclosure from companies than many the state data 
+breach laws which ask companies only report data breach the information 
+exposed could lead fraud identity theft 
+security recommendations are more specific particular article mentions 
+pseudonymisation and encryption method ensure protection personal data 
+the use encryption could result lower fines for companies and companies not 
+need notify data subject data breach technical and organisational measures 
+have been applied the personal data which will render unintelligible unauthorised 
+persons such encryption such are likely see increase the use 
+encryption technologies overall the focus the regulation companies 
+implementing appropriate security measures protect personal data 
+more extensive documentation the use personal data will require audit the 
+data held for many this might not straightforward companies will have provide 
+clear documentation categorising the types data they are holding recording details 
+the recipients this information and indicating the time horizon for which the data 
+will held for most this likely very time consuming analysis ernst and 
+young its privacy questionnaire suggests that almost half privacy 
+professionals are concerned that they not have clear picture where personal 
+information stored processed outside their main systems and servers 
+furthermore the gdpr will introduce significant fines the event breach 
+making non compliance expensive proposition companies can fined 
+annual global turnover for breaching gdpr million whichever higher the 
+fine tiered but even this would substantial cost for most companies 
+particularly those with low margins for context prior the gdpr the information 
+commissioner office the could only implement fine 
+perhaps even more material for company the supervisory authority can 
+stop company from using certain type data which could fundamental the 
+business model 
+this should drive more security spending broadly particular 
+europe which currently lags the 
+more stringent data protection regulations form positive tailwind broadly across the 
+security ecosystem given applies any company holding personal data however 
+think increased spending the will the most notable with the average 
+security stock our coverage universe generating revenue from europe 
+versus from the americas whilst lower spending europe isn necessarily linked 
+the revenues generated the the coverage universe note that almost 
+all the stocks under our coverage have low revenue europe fortinet 
+revenue emea check point and varonis are the most 
+exposed europe within our security universe 
+the represents more mature market terms cybersecurity investments with 
+based companies already facing breach protection regulations the state level 
+april states had enacted legislation requiring private governmental 
+entities notify individuals data breach when involves pii with only alabama and 
+south dakota exceptions however the has had much longer history 
+reporting data breaches with the first these laws california coming into effect 
+furthermore the has had number high profile breaches compared 
+europe such the americas comprises total security software spending 
+today according idc with emea comprising despite roughly similar aggregate 
+gdp between the two geographic regions 
+emea spending equaled americas spending gdp would see 
+incremental spending security software relation spend today 
+aggregate this represents the upward bound opportunity and note that the 
+timing for companies invest security solutions result gdpr uncertain 
+such the upside potential could materialise over longer period time european 
+companies more heavily invest security technologies whilst many companies are 
+having the conversations with the security solution companies expect some 
+companies invest security solutions over the next year the lead the 
+introduction gdpr may whilst others may invest post the first enforcement 
+under gdpr 
+exhibit spending security software technology emea lags spending the americas 
+despite similar gdp 
+spending security software geo 
+americas 
+emea 
+apj 
+source idc morgan stanley research 
+exhibit security spending also lags emea gdp highlighting material opportunity 
+bolster cyberdefenses europe 
+security spend gdp 
+americas 
+emea 
+apj 
+source idc morgan stanley research 
+exhibit ramping spending security emea line with americas levels could drive 
+incremental spending 
+security spending emea today same rate americas 
+gdp 
+gdp 
+security software spending 
+implied emea spending americas gdp 
+source idc morgan stanley research 
+creating opportunities for software security and storage 
+solutions 
+whilst believe that all cyber security stocks are likely experience some benefit 
+from the introduction the gdpr have identified three key areas where see 
+the greatest opportunity vulnerability management security analytics identity and 
+data protection technologies and storage software 
+potential winners companies offering data protection and detectionoriented technologies could key beneficiaries 
+vulnerability management and security analytics stricter regulatory requirements 
+should drive need for better visibility reporting and remediation for 
+software infrastructure vulnerabilities these solutions help enterprises quickly identify 
+threats well demonstrate compliance data protection officers our recent 
+survey state security spending chief security officers highlighted the 
+growing priority vulnerability management with csos identifying top 
+priority compared which identified top priority for think 
+key beneficiaries here could 
+qualys qualys leading provider vulnerability management technology 
+including tools for continuous monitoring environments policy compliance and 
+web app scanning qualys also offers private cloud platform appliance which 
+may benefit from local data residency requirements only revenue 
+generated internationally but qualys recently hired new emea sales 
+accelerate international traction and has datacenters worldwide 
+also next gen vulnerability management provider that should 
+benefit from gdpr result its broadening portfolio which includes web app 
+scanning user behavior analytics and siem solutions addition vulnerability 
+management these solutions help enterprises detect unusual activity and shorten 
+time detection remediation has more limited presence internationally 
+with only revenue outside north america but this growing 
+faster clip yoy 
+splunk gdpr will likely drive increased priority solutions that help identify 
+security breaches early order mitigate the likelihood data breach and 
+splunk enterprise security and user behavioral analytics solutions positions 
+favorably for this with only revenue from international geographies 
+see material growth opportunity for splunk outside the 
+particularly with gdpr driver 
+identity and data protection technologies the most obvious technology beneficiaries 
+center around solutions better identify and control access data data protection 
+broad term with number technologies directly indirectly enabling the ability 
+control sensitive data including encryption data loss prevention and identity access 
+management capabilities think key beneficiaries here could 
+varonis varonis technology allows enterprises visualize control and protect 
+their data with its dataadvantage platform think this positions varonis 
+favorably enterprises will need demonstrate where data resides and who has 
+control over addition its newer solution dataalerts helps provide visibility 
+well alerts unusual user behavior around critical data varonis has had mixed 
+results its emea business with only revenue growth emea 
+however new sales leadership place along with the gdpr tailwind could drive 
+improving emea growth for vrns 
+symantec symantec broad suite positions favorably with solutions offer 
+including data loss prevention encryption endpoint protection and cybersecurity 
+services symantec also offers compliance solutions lending visibility into security 
+controls and vulnerabilities symantec along with bluecoat has broad 
+distribution channel and meaningful exposure europe with total revenue 
+from emea emea revenue was yoy uptick 
+european security spending could conceivably help symantec return this business 
+growth 
+proofpoint proofpoint offers email security including next gen malware 
+protection email archiving email fraud protection and data loss prevention 
+capabilities proofpoint could benefit from gdpr enterprises seek protect 
+sensitive data transversing via email particularly enterprises move cloudbased proofpoint generates only its revenue from international 
+geographies pointing sizeable opportunity for growth 
+cyberark securing privileged access critical step protecting sensitive data 
+favorably positioning cyberark with its leading privileged access management 
+technology cyberark already generates its revenue emea yoy 
+increased investments sales and marketing capacity should help 
+continue penetrate this region 
+imperva whilst are cautious imperva due increased competition its web 
+application firewall business still see imperva poised benefit from gdpr 
+due its database security segment approximately imperva product 
+revenue which should benefit from greater focus data protection with 
+securesphere imperva offers database activity monitoring and database firewalling 
+control monitor and report database activity well identity unusual 
+behavior with revenue from emea imperva already has the infrastructure 
+place address this opportunity 
+sophos sophos offers central device encryption sophos mobile extending 
+encryption data mobile devices and sophos email appliance automatically 
+blocking encrypting sensitive emails and attachments sophos generates 
+its revenue emea positioning well grow further should gdpr result 
+greater uptake its software 
+storage software the gdpr will focus companies data management 
+and classification govern and manage data efficiently expect storage 
+solutions benefit from increase spending this area 
+high level storage solution providers which focus more robust data lifecycle 
+management and data classification capabilities should beneficiaries from the new 
+regulation the new right forgotten request for erasure data and the right 
+portability receive the personal data concerning them will require companies 
+able identify individuals personal data which may stored multiple servers 
+such storage solutions that allow enterprises discover the data they are storing 
+reduce duplication and help with data classification and monitoring are likely benefit 
+our list potential pure play winners more narrow than for security beneficiaries 
+there are two within the software universe would note 
+barracuda barracuda provides premise and cloud based backup and archiving 
+software primarily geared towards small medium sized companies estimate 
+barracuda storage business contributes barracuda total billings 
+barracuda has expanded its portfolio include more cloud based backup 
+offerings including the release the barracuda cloud cloud backup solution 
+october its storage business struggled new solutions were 
+late the market and customer buying behavior shifted the subscription 
+services however management noted the quarter growth its backup 
+business its earnings call suggesting the headwind from the challenged 
+storage business starting fade 
+box box cloud based content collaboration platform ahead the curve 
+ensuring adherence data privacy requirements the box received 
+binding corporate rules bcr certification from the which certifies that 
+organizations hosting data box will adhere gdpr requirements for 
+protecting personal data box also has box zones which enables global 
+enterprises store data locally available countries including germany and 
+ireland box governance allows enterprises meet retention and compliance 
+requirements the cloud and has shown strong momentum with 
+governance customers the most recent qoq with only 
+revenue outside the box demonstrated data privacy capabilities should 
+enable capture more revenue outside the particular europe 
+over the next few pages highlight detail our five overweight stocks way 
+play the security theme from the gdpr for further details the valuation 
+methodology and investment thesis see the individual risk reward pages 
+proofpoint 
+proofpoint net share gainer across two key trends 
+consolidation data protection technology and 
+securing cloud assets making proofpoint one the 
+most compelling vendors security 
+what security solutions does proofpoint offer 
+capture the potential opportunity from gdpr 
+proofpoint offers the full range data protection 
+solutions including data loss prevention advanced 
+encryption and archiving with focus email security 
+email security proofpoint directly addresses the 
+email security market idc with its enterprise protection 
+solutions this solution used stop spam viruses and 
+other forms advanced malware from penetrating 
+enterprise via email 
+proofpoint privacy which combines regulatory compliance 
+and email encryption technology control detect and 
+manage sensitive data and prevent loss sensitive data 
+proofpoint archiving captures email files social messages 
+for the purpose compliance ediscovery and long term 
+retention 
+how does gdpr drive valuation impact 
+financials 
+proofpoint continues ramp its international presence 
+with international revenue yoy management 
+noted growing channel presence driving incremental 
+strength outside the only revenue 
+proofpoint has long runway internationally particularly 
+enterprises strengthen security measures ahead 
+the new data protection regulation 
+other drivers proofpoint security solutions 
+the threat landscape evolving business email 
+compromise and ransomware are emerging concerns for 
+enterprises driving estimated losses over the past 
+years according the fbi proofpoint well positioned 
+protect against these emerging threats through its broad 
+email and data security portfolio with management noting 
+this catalyst for email protection plus tap adoption 
+looking into its new email fraud defense solution 
+derived from the return path acquisition august will 
+another discrete avenue for upsell into the platform 
+adoption growing proofpoint threat 
+protection for microsoft protects users against 
+advanced threats with more than targeted attacks 
+starting with email proofpoint driver 
+enterprises enhance the base line capabilities microsoft 
+and proofpoint functionality management sees proofpoint 
+roughly less than penetrated into the office base 
+while more enterprises have plan migrate 
+which means the runway long for proofpoint 
+mcafee share gains intel security retiring its email 
+products and has named proofpoint the exclusive 
+transition partner for mcafee customers our view the 
+majority mcafee base premise 
+still the roadmap for refresh into proofpoint solution 
+most likely that amount proofpoint upsells the 
+mcafee base 
+emerging solutions such email fraud protection social 
+media and mobile security grew and represented 
+new and add business 
+proofpoint covered melissa gorham risk reward 
+next page 
+risk reward proofpoint pfpt overweight 
+capturing spend the move the cloud 
+investment thesis 
+source thomson reuters morgan stanley research 
+price target 
+derived from base case scenario 
+bull 
+bull case fcf 
+the next security platform proofpoint sees accelerating success selling 
+broader platform across email security advanced malware protection data 
+protection and archiving billings growth sustains for several years 
+growing with revs improved sales productivity 
+and large installed base drives operating margins and fcf 
+revenue line with targets pfpt trades fcf 
+yielding share assuming discount rate 
+base 
+base case fcf 
+leading suite provider for email data protection proofpoint continues 
+take share its core email protection market while relatively new solutions are 
+adding incremental growth billings growth sustains for the next few 
+years reach billings revs greater scale and 
+better sales productivity drives margins from 
+with fcf revenue pfpt trades fcf multiple 
+line with historical large cap growth software this yields share 
+assuming discount rate 
+bear 
+bear case fcf 
+commoditized the core proofpoint growth decelerates share gains 
+email security slows and proofpoint struggles ramp new products beyond 
+core email protection growth slows low teens yielding billings 
+revenue margins improve new billings growth slows 
+with margins and fcf revenue reaching respectively 
+pfpt trades fcf line with slower growth security peers yielding 
+share assuming discount rate 
+email security mature market but 
+think proofpoint will continue capture 
+share enterprises shift cloud based 
+infrastructure and consolidate spend with 
+portfolio that now includes broader data 
+security advanced malware protection and 
+security analytics estimate billings 
+growth through which assumes 
+continued share gains email security 
+modest traction newer solutions such 
+advanced malware protection and rev 
+contribution from some its emerging 
+products such social media monitoring 
+investments and position for 
+sustainable growth gaining scale these 
+investments along with growth recurring 
+billings from larger subscription base 
+should drive margin improvement such 
+see fcf moving from revenue 
+pfpt sales multiple 
+compares the security peer group average 
+but attractive discount 
+growth adjusted basis sales 
+growth peers its fcf multiple has 
+moved fcf significantly below 
+our estimate fcf cagr 
+key value drivers 
+new customer wins driven recent sales 
+investments new strategic partnerships 
+increased adoption new solutions 
+increased product expansion 
+feature functionality 
+potential catalysts 
+earnings call 
+risks achieving price target 
+increased competition from larger 
+competitors 
+new solutions are slower gain traction 
+adoption cloud based solutions could 
+slow due data privacy and security 
+concerns 
+qualys 
+qualys inc provider cloud based security and 
+compliance solutions its core services include asset 
+tagging and management reporting and dashboards 
+questionnaires and collaboration remediation and 
+workflow big data correlation and analytics engine 
+and alerts and notifications 
+what security solutions does qualys offer 
+capture the potential opportunity from gdpr 
+the company solutions enable organizations identify 
+security risks their information technology 
+infrastructures and protect their systems and 
+applications from cyber attacks which will increasingly 
+important the gdpr introduces the risk significant 
+fines and the requirement report data breaches 
+qualys suite security and compliance solutions delivered 
+its qualysguard cloud platform enables its customers 
+identify their assets collect and analyze security 
+data discover and prioritize vulnerabilities recommend 
+remediation actions and verify the implementation such 
+actions its qualysguard cloud platform consists suite 
+security and compliance solutions that leverage its 
+services and its multi tenant cloud infrastructure its core 
+services include asset tagging and management reporting 
+and dashboards questionnaires and collaboration 
+remediation and workflow big data correlation and 
+analytics engine and alerts and notifications these features 
+will help companies quickly identify threats well 
+demonstrate compliance data protection officers 
+how could gdpr drive valuation impact 
+financials 
+vulnerability management makes the bulk 
+qualys revenue and its revenue has 
+grown over the past few years total 
+revenues are held outside the but qualys has 
+recently hired new emea sales accelerate 
+international traction 
+other drivers qualys security solutions 
+the market vulnerability management broadening and 
+qualys appropriately expanding its solution set 
+address new use cases further enabled its cloud based 
+delivery model 
+the cloud agent allows extension into new security 
+markets which could add greater spend than core 
+according management some examples are included 
+below 
+file integrity monitoring and patch management with 
+agents qualys offer the ability more closely 
+monitor changes software files and detect 
+changes that can lead increased risk data 
+compromise 
+public cloud protection with the cloud agent hosted 
+the public cloud amazon web services microsoft 
+azure qualys has broader visibility into enterprise 
+assets both the cloud and premise the cloud 
+agent simplifies asset discovery dynamic cloud 
+environments including amazon web services with the 
+ability embed the agent into the master images 
+their cloud servers 
+however newer solutions such cloud agent are less 
+than penetrated into its base and consensus are not 
+assuming material ramp non billings 
+qualys covered melissa gorham risk reward next 
+page 
+risk reward qualys qlys overweight 
+qualys proves out durable growth profile 
+investment thesis 
+may 
+nov 
+may 
+price target may 
+nov 
+historical stock performance 
+may 
+nov 
+current stock price 
+may 
+qlys 
+source thomson reuters morgan stanley research 
+price target 
+derived from base case scenario 
+bull 
+discount bull case fcf 
+extending well beyond vulnerability management customer adoption 
+continues healthy pace reach however further 
+penetration into the base drives subscription revenue growth well ahead 
+base growth with subscription revenue through total revenue 
+reaches share its tam today operating 
+margins improve qlys sustains fcf multiple 
+multiple line with growing large cap software discount rate 
+base 
+discount base case fcf 
+solid execution its fast growing core markets qlys sustains cagr 
+reach customers well below chkp ftnt bases 
+subscription revenue grows cagr qlys further penetrates its base 
+and total rev reaches share its total addressable 
+market relatively line with its share today margins improve modestly 
+through increased investments balance growing recurring 
+rev base and efficiencies fcf rev and fcf cagr drives qlys trade fcf multiple line with 
+low growth large cap software discount rate 
+with only share its core vulnerability 
+management qualys has long runway 
+even with market opportunity that small 
+but growing fast relative other buckets 
+security assume that qualys grows its 
+core business line with the market 
+share potential from legacy vendors 
+balanced increased competition from other 
+next gen vendors like and tenable 
+the use cases are broadening and 
+qualys has the add solutions and the right 
+delivery model cloud and agent based 
+capitalize that longer term the cloud 
+agent allows extension into new security 
+markets areas such patch management 
+and endpoint detection adding some 
+compelling optionality qlys 
+expect rev cagr 
+which above its security peer group avg 
+and line with broader software 
+qlys fcf multiple compares 
+the average its peer group but 
+discount growth adjusted basis 
+growth alongside more attractive margin 
+profile could drive shares towards our bull 
+case 
+key value drivers 
+new customer wins yoy customer 
+base growth 
+increased existing customer penetration 
+including adoption new products 
+international expansion 
+potential catalysts 
+bear 
+discount bear case fcf 
+losing share the core market competition from next gen vendors increases 
+while new product traction stalls subscription revenue growth slows single 
+digits from the new customer adds slow and expansion existing 
+customer becomes more muted qlys trades fcf line with 
+secularly challenged software companies 
+earnings call 
+gdpr effective the could drive 
+higher spending security technologies 
+multinationals 
+risks achieving price target 
+increased competition from larger 
+competitors and limited growth markets 
+outside could limit the sustainability 
+growth and margin leverage 
+sophos 
+sophos global provider security and data 
+protection products providing protection against 
+viruses known and unknown malware spyware 
+intrusions spam policy abuse and data leakage 
+what security solutions does sophos offer 
+capture the opportunity from gdpr 
+the gdpr requires organisations implement 
+appropriate security measures specifically making reference 
+encryption sophos offers number solutions 
+ensure data protected via encryption 
+sophos central device encryption helps companies 
+manage full disk encryption pcs and macs centrally 
+sophos mobile provides encryption protection 
+mobile devices whilst also allowing users remotely 
+locate wipe lock misplaced devices 
+sophos email appliance automatically blocks 
+encrypts sensitive emails and attachments ensuring 
+suspect emails are stopped before reaching user 
+inbox 
+sophos safeguard provides file level encryption which 
+provides file level encryption that when data 
+leaves user device sophos provides protection 
+how does gdpr drive valuation impact 
+financials 
+security software company with billings 
+from emea sophos good position grow revenue 
+from this market with the introduction gdpr 
+also believe sophos differentiated the security 
+software market has unique focus the smb 
+market where most competitors focus either consumer 
+large enterprise sophos products are specifically set 
+for this market and sells exclusively through channel 
+partners rather than direct believe the smb market 
+least likely equipped already with technology deal 
+with gdpr making this attractive opportunity 
+other drivers sophos security solutions 
+the company increasingly positioning itself security 
+platform provider new products and functionality are 
+being built integrated into sophos cloud management 
+capabilities and synchronised endpoint network security 
+functionality the idea add products that work with 
+and enhance the existing security deployment rather than 
+layering additional functionality that needs 
+managed stand alone basis 
+see the extension synchronisation functionality 
+key increasing the level cross selling between 
+endpoint and network security products far the 
+company has delivered synchronisation between the utm 
+system and the endpoint anti virus protection this means 
+that the network notified compromised endpoints 
+allowing access restricted until the integrity the 
+endpoint restored the company wants extend this 
+functionality include unknown app continuous 
+authentication for example additionally synchronisation 
+helps ensure that additional products functionality don 
+just add layers complexity and administration 
+requirements what would already understaffed 
+security staff the mid market 
+sophos central previously sophos cloud the company 
+cloud management console which provides single 
+interface for users manage their security deployments 
+the company will integrate the majority its endpoint 
+functionality the tool the end but over time 
+expects add network security management well the 
+tool seen key differentiator simplifies and 
+automates administrative functions for both internal and 
+partners example endpoints can deployed with 
+security matter minutes through the console 
+which many cases could have taken days previously 
+sophos covered adam wood risk reward next 
+page 
+risk reward sophos soph overweight 
+growth engines firing risk reward skewed the upside 
+investment thesis 
+may 
+nov 
+may 
+ric 
+nov 
+toric sto rfo 
+may 
+nov 
+may 
+rre ric 
+soph 
+thomson reuters historical share price data morgan stanley research estimates 
+price target 
+derived from our base case fair value 
+bull 
+dcf valuation wacc and terminal growth implied bull 
+case fcf 
+faster expansion drives utm upside sophos recent investments 
+and expanding the partner channel the bear fruit driving 
+billings growth above the group look for mid teens org billings 
+growth between the base case drive the growth 
+investments and increasing deferred revenue balance moderate adj 
+ebitda margin expansion however leverage cash drives 
+fcff cagr between 
+base 
+dcf valuation wacc and terminal growth implied base 
+case fcff 
+network and utm strength drive double digit billings growth 
+continuing with the solid momentum and the strength the 
+next generation firewall market sophos able deliver high teens 
+org billings growth for with deceleration low double digits 
+investments increasing deferred revenues keep ebitda 
+margins stable over the period however lower investments cash 
+drive adjusted fcff growth between 
+bear 
+bear case recurring revenues 
+lack product differentiation growth settles line with the market 
+sophos partner strategy fails drive market share gains and billings 
+growth settles line with the market between 
+aggressive investments place weigh profitability with 
+declining adj ebitda margins over the same period 
+large fast growing attractive market 
+idc estimates that total spending security 
+software was and sees this 
+market growing cagr from our own morgan stanley cio polls 
+security software has been the number one 
+priority for cios for the last three quarters 
+and has been increasing importance 
+where expect sophos take share 
+unlike large enterprises with significant 
+capabilities smbs will often have just one 
+security resource result sophos sees 
+need for simpler products with customers 
+preferring one stop shop for endpoint 
+network sophos the only security vendor 
+with even billings split between the two 
+which believe differentiator and 
+should help drive share gains 
+highly recurring business model sophos 
+main source revenue subscriptions 
+billings customers subscribe 
+sophos endpoint network security 
+software for fixed term average contract 
+duration between months sophos 
+enjoys very high renewal rates for its 
+endpoint business these are 
+customer numbers but revenues 
+key value drivers 
+ever changing threat environment 
+billings fcf growth 
+potential catalysts 
+high profile security breaches 
+competitor results network security 
+results 
+risks achieving price target 
+competitor results network security 
+accelerated spend keep 
+with market innovation 
+lack brand recognition new markets 
+market share loss next generation 
+endpoint security vendor 
+splunk 
+security key driver growth for splunk 
+revenue its technology enabling security analytics 
+and enterprise visibility positions splunk the 
+switzerland disparate security data expanding 
+delivery models splunk cloud large partner 
+ecosystem and new premium apps user behavioral 
+analysis will sustain its differentiation large and 
+growing security analytics market 
+what security solutions does splunk offer 
+capture the potential opportunity from gdpr 
+the gdpr will likely drive increased priority 
+solutions that help enterprises quickly identify threats 
+splunk well positioned provider operational 
+intelligence software used monitor report and analyse 
+real time machine data well terabytes historical 
+data located premise the cloud its technology 
+allows people search systems and follow paths 
+through the infrastructure locating and analysing large 
+amounts operational data example splunk 
+products include 
+splunk enterprise security which addresses security 
+threats and security information and event 
+management siem use cases through monitoring 
+alerts and analytics 
+splunk service intelligence which monitors the 
+health and key performance indicators critical and 
+business services 
+splunk user behaviour analytics which detects cyber 
+attacks and insider threats using data science machine 
+learning and advanced correlation 
+splunk has also introduced introductory gdpr app 
+april which can deployed top splunk 
+enterprise 
+how could gdpr drive valuation impact 
+financials 
+with only revenue from international geographies 
+see material opportunity for growth outside 
+the particularly with gdpr driver 
+other drivers splunk security solutions 
+see three converging factors that drive the growing 
+market for security analytics for which splunk well 
+positioned 
+data relevant security growing volume velocity 
+and variety computing environments grow more 
+complex and distributed splunk priced based the 
+amount data volume indexed today growing 
+terabytes data volumes growing unabatedly expected 
+grow zettabytes the future drives natural 
+upward pressure asps 
+data store and analytics technology has developed 
+alongside data growth bringing together internal data 
+analysis analyzing data points generated from internal 
+technology and processes and external data 
+analyzing data from relevant external data sources 
+apply internally and 
+traditional preventative oriented technology remain 
+well below effective necessitated tools 
+shorten the time detection when prevention fails 
+addition customers are shifting spending from the basic 
+splunk enterprise splunk cloud and the new premium 
+solutions creating upsell opportunities and new markets 
+that splunk enterprise could not reach example 
+our october survey splunk customers ramping cloud 
+leads sunshine ahead reiterate 
+respondents expect use splunk user behavioral analytics 
+years versus only today other premium skus 
+include enterprise security and service intelligence with 
+future releases likely 
+splunk covered melissa gorham risk reward next 
+page 
+risk reward splunk splk overweight 
+scarce pure play investment big data poised for growth 
+investment thesis 
+discount bull case fcf 
+sustaining high growth customer signings increased customer penetration 
+best class growth market reaches inflection point with robust customer 
+growth and splunk expands productive sales rep equivalents cagr 
+through total product billings productivity per rep improves 
+cagr through and total rev reaches operating margins 
+improve over time with fcf rev robust growth rate and 
+further margin expansion potential sustain splk multiple fcf 
+yielding share price entering assuming discount 
+rate 
+splunk offers disruptive platform used 
+collect index store and analyze data that 
+highly scalable flexible and extensible 
+multiple use cases with growth profile tied 
+growing use cases and delivery models 
+splunk should sustain industry leading 
+growth for the next several years 
+with its technology lead and open ended 
+market opportunity splk correctly 
+investing for growth our view see 
+path margins the business 
+matures and growth slows driving fcf 
+growth from 
+expect rev cagr 
+significantly faster than the broader 
+software group splk fcf 
+multiple supported our view 
+sustainable fcf growth enterprise 
+momentum growing percentage 
+recurring revenues and increasing sales 
+investments bolster our confidence the 
+durability splunk growth which should 
+drive towards our base case 
+however see strong argument for our 
+bull case scenario which looks for billings 
+sustain growth through 
+base 
+key value drivers 
+may 
+nov 
+may 
+price target may 
+nov 
+historical stock performance 
+may 
+nov 
+current stock price 
+may 
+splk 
+source thomson reuters morgan stanley research 
+price target 
+derived from our base case 
+bull 
+discount base case fcf 
+solid new customer wins and execution land and expand splk sees 
+continued robust customer growth and expands productive sales rep 
+equivalents cagr through total product billings productivity 
+per rep improves cagr through and total rev reaches 
+margins improve through and leverage 
+and growing recurring rev base our base case assumes fcf rev 
+fcf growth supports splk multiple fcf 
+yielding share price entering assuming discount rate 
+bear 
+discount bear case fcf 
+stronger competition slower customer adoption leads rapid deceleration 
+splk sees customer growth slow still expanding productive sales rep 
+equivalents cagr through total product billings productivity per 
+rep declines cagr through and total rev reaches 
+operating margins still increase over time with margin 
+expansion fcf still grows cagr thru and splk trades 
+fcf which yields share price entering assuming 
+discount rate 
+new customer wins and higher growth 
+driven sales investments 
+increased penetration existing customer 
+accounts existing customer license bookings 
+yoy 
+ramping adoption for proactive use cases 
+like web and business analytics 
+potential catalysts 
+splunk cloud adoption 
+new premium products 
+risks achieving price target 
+increased competition from large and 
+established tech vendors 
+multiple licensing models perpetual term 
+and subscription could lead increased 
+income statement volatility 
+symantec 
+helps minimize detection and response times 
+symantec large security incumbent deployed 
+endpoints symantec well positioned 
+capture incremental revenue europe next gen 
+malware protection data protection and security 
+services 
+what security solutions does symantec offer 
+capture the potential opportunity from gdpr 
+symantec broad suite products provide solutions 
+many the requirements the gdpr including data loss 
+prevention and cybersecurity services highlight few 
+the key solutions below 
+symantec data loss prevention product supports 
+companies protecting personal data discovering where 
+personal data located across endpoints mobiles storage 
+systems and also the cloud through content aware 
+detection technologies data loss prevention also allows 
+companies block encrypt data where transactions are 
+detected that could potential put personal data risk 
+article the gdpr requires organisations 
+implement appropriate security measures protect 
+personal data making special reference encryption 
+many cases with encryption place companies will not 
+need report data breach see the data loss 
+protection business growing cagr reach 
+revenue 
+authorised access data another cornerstone data 
+protection and symantec offers two key products 
+validation and protection service vip which 
+protects companies against breaches providing 
+strong authentication 
+identity access management which solves cloud 
+security challenges using identity and context based 
+access control across multiple could applications 
+where breach has occurred symantec supports the 
+detection phase with cyber security services css which 
+how could gdpr drive valuation impact 
+financials 
+symantec along with blue coat has broad distribution 
+channel and meaningful exposure europe with 
+total revenue from emea emea revenue was 
+yoy uptick european security spending 
+may help symantec return this business growth 
+other drivers symantec security solutions 
+symantec acquisition lifelock closed feb 
+expands the monetisation opportunity its norton 
+users beyond traditional anti virus include increasingly 
+relevant consumer identity protection services identity 
+monitoring tools black market surveillance etc lifelock 
+adds significant upsell opportunity with recurring 
+subscription price points higher than the current 
+norton offering 
+services assume services consulting cyber security 
+services will steady grower into outer years 
+estimate its services business growing cagr reach 
+revenue 
+next gen malware protection endpoint network with 
+the acquisition blue coat symantec garnered advanced 
+threat protection capabilities malware analysis 
+network sandboxing which should enhance symantec 
+own next gen atp suite think symantec should outpace 
+the broader market formidable competitor even 
+against smaller niche players 
+web security see symantec sustaining low teens 
+growth its web security business bolstered blue coat 
+web traffic continues increase and symantec 
+leverages its large distribution channel and broad portfolio 
+gain share see web security growing 
+revenue 
+symantec covered keith weiss risk reward next 
+page 
+risk reward symantec symc overweight 
+pushing down the road new symantec 
+investment thesis 
+may 
+nov 
+may 
+price target may 
+nov 
+historical stock performance 
+may 
+nov 
+current stock price 
+may 
+symc 
+source thomson reuters morgan stanley research 
+price target 
+derived from our base case 
+bull 
+eps 
+investments focus yield dividends strategic initiatives allow symantec 
+unlock their full market opportunity driving better revenue growth cagr 
+from cutting investments non core areas and successfully executing 
+synergies push operating margins from sustaining 
+eps with multiple line with the average large cap software 
+company 
+base 
+eps 
+top line stabilizes margins improve value better realized the addition 
+blue coat bolsters symantec enterprise security business with life lock 
+returning consumer security growth margins improve the company 
+grows cagr from forecast revenues 
+growing operating margins improve from 
+symantec trades eps including convertible dilution line 
+with large cap peers 
+bear 
+eps 
+continued execution challenges drag down growth and margin 
+improvement symantec struggles rebuild the sales force attrition continues 
+increase and investments new products are not enough offset the 
+commoditization its core endpoint business operating margins improve 
+slower pace resulting eps the stock trades 
+line with its trough ntm eps multiple 
+with the addition the blue coat solution 
+portfolio believe symantec can return 
+high single digit growth profile with better 
+focus increased cross selling and more 
+strategic product investment 
+market changes and delivering 
+new integrated product offerings should drive 
+improved growth the business for 
+model billings improving 
+anniversary the steep 
+headwinds the consumer business 
+stabilizes through the second half 
+transition and new products the 
+enterprise business drive some modest 
+growth 
+dcf the consumer security business 
+alone also points value using 
+conservative assumptions such 
+terminal growth rate the top line stabilizes 
+and margins improve valuations will trend 
+higher realize the company longer term 
+value our view 
+key value drivers 
+new enterprise security suites and tighter 
+integration among products puts symantec 
+back the game strong security spending 
+environment 
+stabilizing cash flow growth the 
+consumer business declines moderate and 
+enterprise contribution margins trend higher 
+significant return cash shareholders 
+potential catalysts 
+ramp new enterprise products 
+consumer business stabilizes renewal 
+rates improve and lifelock upsell accelerates 
+risks achieving price target 
+losing market share endpoint security 
+from next generation malware protection 
+vendors 
+additional large acquisitions 
+management unable realize synergies 
+from blue coat and lifelock acquisitions 
+appendix cyber security legislation 
+cyber security regulation tightening europe 
+what you need know 
+about gdpr 
+fines regulators can impose fines 
+annual worldwide 
+turnover million 
+whichever higher 
+territorial scope applies all 
+data controllers and processors 
+established the and 
+organisations that target 
+citizens 
+mandatory breach notifications 
+organisations must notify the 
+supervisory authority data 
+breaches without undue delay 
+within hours unless the breach 
+unlikely result risk for 
+the rights and freedoms 
+individuals 
+new rights the right 
+forgotten request for erasure 
+data and the right portability 
+receive the personal data 
+concerning them 
+consent consent must given 
+intelligible and easily accessible 
+form with the purpose for data 
+processing attached the 
+consent must easy 
+withdraw consent give 
+privacy design the 
+requirement for inclusion data 
+protection from the onset 
+designing systems rather than 
+addition 
+europe two key pieces cybersecurity legislation are being introduced focusing 
+protecting data privacy and securing essential services 
+general data protection regulation gdpr will introduced may 
+and will update data protection regulation the legislation will increase the size 
+fines for data breaches give consumers new rights over their data and 
+introduce new consent rules for companies when using consumer data 
+network and information security nis directive targets the critical banking 
+energy health and transport industries imposes cyber security obligations 
+essential services and digital service providers report protect and mitigate 
+the risk cyber security the directive became law august and member 
+states have months transpose into national law 
+the the focus has traditionally been homeland security data protection 
+controls have been incorporated into number different regulations the 
+health insurance portability and accountability act hipaa sarbanes oxley sox 
+but the states have also played integral part framing the cybersecurity 
+landscape 
+the cybersecurity information sharing act has focus sharing information 
+and became law companies are required share data breach cyber 
+threat information with the aim improving cyber defence mechanisms and 
+preventing future cyber attacks 
+the states the have focused cyber security legislation through 
+initiatives such requiring government public agencies implement 
+security practices offering incentives the cyber security industry iii 
+providing exemptions from public records laws for security information iii 
+creating cybersecurity commissions studies taskforces and promoting 
+cybersecurity training and education national conference state legislatures 
+ncsl dec 
+europe catching with data breach notification potential 
+catalyst for cyber security spending 
+the introduction the general data protection regulation gdpr will for 
+the first time require companies report data breach the local protection 
+authority within hours being discovered the past data breaches have 
+often gone unreported 
+much larger numbers data breaches are likely reported taking the 
+much larger numbers data breaches are likely reported taking the 
+netherlands example the introduction new data breach notification law 
+with higher requirements compared the gdpr resulted more than 
+breach notifications within the first days the privacy advisor may 
+the state legislation has led the way reporting data beaches catalyst for the 
+higher cybersecurity spending seen the april states have enacted 
+legislation requiring private governmental entities notify individuals data 
+breach when involves pii with only alabama and south dakota exceptions 
+exhibit summary the relevant cyber security legislation the and 
+regulation 
+type 
+who applies 
+protects 
+credit cardholder information 
+ccn magnetic stripe data 
+penalties 
+pci 
+industry global 
+every financial services firm retailer service provider 
+who issues accepts captures stores transmits 
+processes credit card data 
+fines violation 
+suspension credit card capabilities 
+varies brand 
+hipaa 
+govt 
+any healthcare provider hospital company government protected health information phi medical records 
+agency that stores manages communicates any 
+number medical diagnosis condition procedure 
+employee health related information 
+codes claim forms 
+fines per year per provision 
+possible criminal prosecution doj 
+glba 
+govt 
+any company that provides range financial products consumer personally identifiable information pii and services consumers banks brokerages insurance examples full name ssn data place birth drivers 
+etc 
+license 
+enforced multiple federal agencies 
+doj fine per violation 
+fisma 
+govt 
+federal agencies any external agencies contractors 
+working their behalf 
+federal information systems 
+censure congress 
+negative publicity 
+reduced federal funding 
+sarbanes oxley 
+govt 
+publicly traded company stock exchange 
+the accuracy and integrity financial statements 
+sec fines per person and higher per firm 
+imprisonment years 
+loss exchange listing 
+nerc 
+industry canada 
+all electrical utilities the and several provinces 
+canada 
+the electrical grid 
+nerc penalties day 
+must submit mitigation plan and execute 
+data protection 
+directive gdpr 
+govt 
+all organisations doing business the 
+consumer privacy and personally identifiable information 
+pii 
+gdpr fines greater company turnover 
+eur 
+network and information 
+security nis directive 
+govt 
+energy transport banking financial market infrastructure essential services 
+health water digital infrastructure 
+member states determine penalty but must 
+effective proportionate and dissuasive 
+other regs state data privacy laws over states ferpa student education records occ ots banking 
+source splunk morgan stanley research 
+appendix the gdpr requirements and technology solutions 
+exhibit mapping the gdpr requirements the technology solutions 
+gdpr requirement 
+description 
+technology solution opportunities 
+article right erasure right the data subject shall have the right obtain from the controller erasure 
+storage solutions 
+forgotten 
+personal data concerning him her without undue delay and the controller shall 
+have the obligation erase personal data without undue delay 
+article right data portability 
+the data subject shall have the right receive the personal data concerning 
+him her which she has provided controller structured 
+commonly used and machine readable format 
+storage solutions 
+article data protection design 
+and default 
+the controller shall implement appropriate technical and organisational 
+storage solutions 
+measures for ensuring that default only personal data which are necessary identity and data protection 
+for each specific purpose the processing are processed that obligation 
+technologies 
+applies the amount personal data collected the extent their processing 
+the period their storage and their accessibility 
+article records processing 
+activities 
+each controller and where applicable the controller representative shall 
+maintain record processing activities under its responsibility that record 
+shall contain description the categories data subjects and the 
+categories personal data 
+storage solutions 
+identity and data protection 
+technologies 
+article security processing 
+the controller and the processor shall implement appropriate technical and 
+organisational measures ensure level security appropriate the risk 
+including internalia appropriate the pseudonymisation and encryption 
+personal data the ability ensure the ongoing confidentiality integrity 
+availability and resilience processing systems and services 
+identity and data protection 
+technologies 
+vulnerability management security 
+analytics 
+article notification personal 
+the case personal data breach the controller shall without undue delay 
+data breach the supervisory authority and where feasible not later than hours after having become aware 
+notify the personal data breach the supervisory authority 
+vulnerability management security 
+analytics 
+article communication 
+personal data breach the data 
+subject 
+when the personal data breach likely result high risk the rights and 
+freedoms natural persons the controller shall communicate the personal 
+data breach the data subject without undue delay 
+vulnerability management security 
+analytics 
+article data protection impact 
+assessment 
+where type processing particular using new technologies and taking into identity and data protection 
+account the nature scope context and purposes the processing likely technologies 
+result high risk the rights and freedoms natural persons the controller 
+shall prior the processing carry out assessment the impact the 
+envisaged processing operations the protection personal data 
+source gdpr org europa morgan stanley research 
+related research 
+data privacy series 
+telecommunication services sustainability telcos consumer data threats but 
+emerging opportunities apr 
+sustainability big data consumer trust how much you value your privacy 
+mar 
+sustainability data privacy insurers focus consumer trust mar 
+cyber security 
+software state security spending may 
+software security preview improving demand meets low estimates apr 
+software april cio survey software takeaways apr 
+cybersecurity rethinking security apr 
+sustainable and responsible investor roadmap cyber security oct 
+endnotes 
+the privacy advisor may 
+note emea used proxy for europe 
+disclosure section 
+morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the prudential 
+regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial services and 
+markets act research which has been prepared any its affiliates used this disclosure section morgan stanley includes rmb morgan 
+stanley proprietary limited morgan stanley international plc and its affiliates 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report jessica 
+alsford cfa victoria chapelow melissa gorham keith weiss cfa adam wood eva zlotnicka 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+april morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research cyberark software ltd splunk inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from barracuda networks inc box 
+inc cyberark software ltd imperva inc proofpoint inc qualys inc inc sophos group plc splunk inc symantec varonis systems inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from sophos group 
+plc symantec 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company barracuda networks inc box inc cyberark software ltd imperva inc proofpoint inc qualys inc inc sophos group plc 
+splunk inc symantec varonis systems inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company sophos group plc symantec 
+morgan stanley llc makes market the securities barracuda networks inc box inc cyberark software ltd proofpoint inc qualys inc 
+inc splunk inc symantec varonis systems inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+april 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities symantec 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley 

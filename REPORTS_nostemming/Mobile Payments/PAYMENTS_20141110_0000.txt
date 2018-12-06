@@ -1,0 +1,723 @@
+payments and processing november 
+november 
+payments and processing 
+money disintermediators 
+the gate but incumbents 
+investing win 
+morgan stanley llc 
+smittipon srethapramote 
+smittipon srethapramote morganstanley 
+betsy graseck cfa 
+betsy graseck morganstanley 
+cheryl pate cfa 
+cheryl pate morganstanley 
+vasundhara govil 
+vasundhara govil morganstanley 
+manan gosalia 
+secular growth disintermediation risk remains 
+key theme for investors the payments space and 
+this year money conference gave 
+opportunity revisit this theme 
+manan gosalia morganstanley 
+attended the money conference which focused emerging 
+payments technologies las vegas last week and met with participants 
+across the payments and banking value chain believe the significant 
+increase attendees this year and 
+representative investments into the space incumbent players and vcs 
+perhaps mike cook svp walmart who has years experience 
+payments summed the state innovation the industry best stating that 
+more innovation has happened the payments industry over the past year 
+than the prior continue monitor how emerging players and 
+technologies could potentially disintermediate companies our coverage 
+universe while also providing opportunity benefit from accelerating the 
+secular shift away from cash checks electronic forms payments overall 
+came away incrementally positive the payment networks and 
+continue remain positive the stocks the payments side 
+north america 
+danyal hussain cfa 
+danyal hussain morganstanley 
+payments and processing 
+industry view 
+line 
+key themes the conference security tokenization emv encryption 
+mobile payments especially apple pay mobile standalone point sale 
+systems virtual currencies bitcoin globalization ecommerce see the 
+following pages for more details 
+takeaways for payments stocks while there are many new entrants trying 
+enter the payments space came away incrementally positive the 
+outlook for the payments networks along with axp are not 
+only providing the payment rails for apple pay but plying enhanced role 
+through provision tokenization services and will likely play similar role 
+other mobile digital payments schemes come their role tokenization 
+could also potentially extend banking transactions for smaller mid sized 
+institutions that not have their own tokenization capabilities even 
+mcx currentc which many investors including had previously assumed 
+bear case scenario for the networks announced that would 
+accepted general purpose credit cards accounts funding source for the 
+merchant acquirers processors believe that increased security concerns 
+could provide some momentum for their tokenization encryption emv 
+services given the data breaches that have occurred over the past several 
+months our thoughts point sale terminal manufacturer pay more 
+mixed while pay will continue benefit the near term from merchants 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research result 
+investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan 
+stanley research investors should consider morgan 
+stanley research only single factor making their 
+investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+payments and processing november 
+upgrading terminals emv nfc are seeing increased competition from 
+relatively new entrants such poynt square along with merchant acquirers 
+devoting more resources their own house pos systems first 
+data clover heartland leaf 
+takeaways for large cap banks scale matters closed loop matters 
+innovation matters banks that have these are likely win out the everevolving payments ecosystem think jpm axp dfs usb are best 
+positioned why elevated security costs are not going away fraud ever 
+evolving and banks will have keep spending more stay one step ahead 
+scale lets you invest house and lower transaction costs lots interest 
+mobile wallets following apple pay wallets that will win are those that can 
+integrate reward offerings better and issuers that will win are those that are 
+top wallet big opportunity big banks want piece the action 
+particularly new solutions provide cost saves and better information all 
+parties real time payments are inevitable given they critical for 
+ecommerce and international adoption picking but can banks 
+generate enough fees offset giving float stay tuned 
+payments and processing november 
+security cost and never goes away 
+addressing security the payments system was the front and center several panels presentations the 
+discussions drove home the point that cyber attacks are all time high and increasing and that layered 
+approach security key keep increasingly sophisticated bad actors bay the industry continues view 
+combination emv point point encryption and tokenization the most effective way devalue the data 
+risk but hackers are creative and will keep evolving expect security methods will need evolve too 
+keeping security costs elevated 
+the industry track for emv adoption with the expectation that nearly tier merchants will emv 
+enabled october tokenization the ultimate goal years and biometrics are gaining ground 
+too following their incorporation the new apple devices 
+implications for banks scale matters larger banks should able invest house taking overall security 
+investments the near term but per transaction costs down the long term smaller banks will likely 
+continue use third parties stay the front lines security management which means smaller banks will 
+want have top wallet relationships with their security vendors closed loop institutions axp dfs 
+chasenet are think the best position their end end view gives them the ability see where security 
+stresses are emerging ahead peers driving opportunity for differentiation lower fraud costs and enable them 
+attract more customers 
+implications for the networks while competing solutions may emerge think the networks and are 
+well positioned monetize the revenue opportunity from tokenization given their first mover advantage apple 
+pay represents the first commercial deployment tokenized wallet solution 
+implication for the merchant acquirers positive for the large merchant acquirers increased focus 
+security could create increased demand for security solutions such tokenization and encryption vntv noted 
+that they are currently focused selling these services into their top retail clients where penetration 
+remains low vntv has also launched tool help merchants certify for emv which could potentially generate 
+demand from merchants that are the queue for certification and want meet the october deadline 
+implication for pos hardware providers believe pos providers like pay and ingenico should continue 
+see tailwind from emv upgrades tier merchants progress smaller merchants may take longer they 
+feel less threatened the liability shift 
+emv key takeaways 
+very good addressing counterfeit card fraud but not very successful ecommerce 
+the mag stripe emv card can still cloned risk counterfeit fraud still exists long 
+have terminals supporting mag stripe 
+emv only solves the front end data still exposed the back end 
+ultimate goal for end end encryption need tokenization keep merchant out sensitive 
+information flow 
+the industry should expect see more fraud move ecommerce emv rolled out 
+adopting chip and signature emv which less secure than chip and pin 
+emv investment today isn waste even though will eventually move tokenization because 
+physical cards will not completely away 
+tokenization key takeaways 
+payments and processing november 
+strong empirical evidence that card not present fraud will increase when emv rolled out 
+innovative token based solutions like apple pay are bringing dynamic data remote payments for the 
+first time and could silver bullet solution help protect online retailers 
+tokenization schemes need standardized and interoperable for widespread adoption can have 
+every player come with their own scheme 
+risk could get concentrated around token vaults over time 
+can embed tokenization mobile today should able this physical card couple 
+years 
+tokenization could become widespread years and eventually become table stakes 
+there will likely multi party environment for providing tokenization services 
+large fis will likely source given their own scale small banks will likely outsource third party 
+schemes 
+the networks job convince issuers that they can provide this service the most secure way 
+possible 
+distinction between card present and card not present interchange fees will blur over time 
+biometrics key takeaways 
+behind the rest the world 
+fido fast identity online alliance payment networks alibaba paypal google microsoft bac 
+rsa and others has come together set specifications for industry wide use authentication 
+technology for biometrics 
+apple announcement has spurred lot renewed interest 
+concern whether biometric information should stored the cloud the device cloud 
+more vulnerable attacks scale but devices more vulnerable malware 
+payments and processing november 
+mobile wallets consumer choice matters most 
+apple pay has helped elevate the energy and discussion around mobile payments but ultimately widespread 
+adoption unlikely occur until consumers can use the wallet their choice the phone their choice 
+with the issuer their choice for mcx believe widespread adoption will depend the value add 
+consumers not merchants given the recent incidences fraud think convincing consumes share their 
+bank checking account information fund their mcx wallet currentc will challenging mcx however 
+announced would also include general purpose credit cards fund its currentc wallet positive for the 
+incumbent payment rails 
+implication for the issuers believe the increasing use mobile wallets will drive shift away from 
+cash check card benefitting issuers they will able collect interchange higher percentage 
+payments expect issuers will work hard ensure their card payment offering the top the consumers 
+mobile wallet expect issuers will compete with seamless payment delivery potentially including algorithms that 
+enable mobile wallet users program which their cards use which merchants this will enable 
+integration with merchant loyalty programs issuers loyalty programs and integration with other financial 
+accounts the issuer addition standard competitive practices like reward points and marketing axp dfs 
+chasenet and syf benefit because their closed loop allows them directly align the wallet with merchant 
+needs strong relationships with merchants are essential drive better experience layering their loyalty 
+programs will critical mcx inclusion general purpose credit cards their mobile wallet positive for 
+issuers signals that wallets need partner with the existing members the payments ecosystem 
+truly relevant 
+implication for the networks continue see the networks beneficiaries widespread mobile 
+payment adoption given the potential for accelerating the secular shift away from cash and check based 
+payments the mcx announcement include open loop credit cards the currentc wallet reinforces our view 
+that collaborating with the networks likely increase the chances success for emerging mobile payment 
+providers that are likely face the challenge driving consumer adoption 
+implication for the acquirers positive increased electronification payments will drive transaction growth 
+for merchant acquirers 
+implications for the pos hardware providers positive apple pay could catalyst for nfc become 
+the dominant pos technology the helping accelerate the emv upgrade cycle and asp for pay apple pay 
+success could also help drive nfc driven pos upgrade cycle outside the the ingenico only selling 
+pos terminals with nfc functionality tier merchants which seeding the market with nfc enabled 
+machines 
+overwhelmingly positive sentiment around apple pay industry participants highlighted the clean user 
+experience superior security standard via tokenization and partnership with wide swathe banks key 
+components differentiating from all other mobile wallet options launched thus far that said expectations 
+for adoption the near term are measured given 
+low penetration nfc terminals the estimated all point sale terminals industry 
+experts think that apple pay usage may slow down after the initial euphoria downloads the 
+first hours coolness factor wears off given lack places use 
+well functioning card payment infrastructure that presents high barrier entry for new payments 
+forms experiences the pos 
+lack value proposition beyond payments such integrated loyalty reward programs 
+payments and processing november 
+industry optimism higher for apple pay potential transform the app shopping experience 
+the near term due 
+its seamless and secure checkout presents compelling value proposition for merchants that typically 
+struggle with low mobile checkout conversion rates according visa checkout friction amplified 
+the mobile device with conversion falling from desktop mobile devices 
+this also the first time that mobile wallet allowing the use dynamic data the most secure 
+form transaction take place remote payments environment 
+although app transactions attract card not present interchange fee tokenization and biometric 
+authentication used apple pay will result liability shift the issuer 
+merchant concerns apple pay while response from the merchant community has been varied part 
+determined whether not they belong the mcx consortium one the main concerns voiced the 
+merchant community seems around the ability lack thereof use tokens track consumer data 
+tokens are device specific merchants will unable tie transactions made using the same credit card from 
+two different devices well transactions made using apple pay those made using the plastic card carrying 
+the same underlying credentials appears that the industry working towards solution although unclear 
+will represent additional cost for merchants have the ability translate the tokens into consumer data 
+and what impact that might have broader implementation token based wallets 
+where might apple pay next while there some expectation that apple may europe next due 
+comments made visa europe and hiring former visa europe executive apple our conversations with 
+industry experts brought china and canada two potential regions where apple pay could launch next 
+given the high penetration nfc these regions while nfc penetration also high certain european 
+regions poland experts opine that the lower interchange fees and fragmentation market country 
+could make europe complex implementation 
+mcx yet see the light day but getting closer mcx ceo dekkers davidson highlighted consumer 
+choice funding options device etc and benefits digitized receipts integration loyalty offer programs 
+drivers for potential adoption also stated that currentc the mcx wallet will open wallet which will 
+include certain open loop credit cards well general purpose prepaid cards funding options addition 
+checking account store gift cards and private label cards this was surprise move given mcx stance thus far 
+bypass the networks axp this positive for the issuers and networks but appears that there 
+hasn been much dialogue between the parties about potential agreement yet currentc will available 
+all ios and android phones the market while running behind original schedule the currentc app 
+currently pilot and expected launched soon early consumers will have choice how they 
+want engage merchant proprietary apps currentc app through bank apps banks will have the ability 
+embed currentc into their own apps 
+softcard paddling hard but can stay afloat following national launch softcard has seen little 
+success date but following the launch apple pay could benefit from being the default mobile payment 
+solution for all non ios devices least until start see wider implementation hce based mobile 
+wallet applications those devices note that limited issuer adoption remains key obstacle for softcard 
+payments and processing november 
+globalization ecommerce 
+although many technological developments have been taking place one the most underappreciated 
+developments the payments space has been how fast cross border ecommerce has been taking place see 
+global insight ecommerce still early innings published october published katy huberty for 
+more global ecommerce trends cross border ecommerce china now similar the total size 
+and growing twice the rate 
+implications for networks given higher fees for cross border transactions and the fact that ecommerce 
+typically funded via electronic forms payments believe the continued growth ecommerce will provide 
+tailwind for the card network revenues china expected the key growth driver for cross border 
+ecommerce recent news that the chinese government contemplating opening the payments market for 
+foreign players increases the upside potential for axp and dfs 
+payments and processing november 
+online wallets more competition both financial and tech firms attempt 
+offer one click checkout 
+given that commerce the fastest growth category within retail payments merchants develop 
+omnipresence providing sales through every available channel not surprising that increasing 
+number players are focusing providing simplified check out experience the consumer merchants 
+turn will benefit from higher check out conversion rates currently estimated desktop 
+mobile devices 
+implications for banks expect more banks join providing online wallets with select few winning out 
+the end convenience coupled with enhanced security through tokenization where available should drive 
+higher customer spend the margin 
+implication for the networks admittedly the networks are late the game amazon paypal have had 
+figured out for while but increasing adoption debit credit card funded online wallets own third party 
+should help drive more transactions and revenues the networks think that and strategy open 
+their apis should enable easier consumption their network assets third party innovators 
+implication for the acquirers potential slight negative depending the implementation model 
+while more transactions are positive for the merchant acquirers their role could reduced processor 
+cases where third party wallets directly integrate with the merchant 
+key takeaways 
+both financial and tech firms are reaching out merchants provide one click checkout features 
+using online wallets 
+chase pay month old uses tokenization secure information currently supports only payment 
+through chase visa debit and credit cards view expect jpm could eventually upgrade this 
+support all cards 
+login and pay with amazon allows amazon users shop third party merchant websites with 
+payment and shopping credentials stored their amazon accounts 
+option embedded merchants websites along side visa master card etc 
+user does not need enter their payment billing shipping information 
+helps reduce shopping cart abandonment 
+helps reduce fraud user credentials shipping information already stored and authenticated via 
+username and password view expect these will eventually upgraded permit biometric 
+authentication once technology widely available 
+while adding few additional checkout options could beneficial there are diminishing returns after 
+point when comparing cost implementations increased checkout conversion 
+payments and processing november 
+point sale systems proliferation smarter multifunctional pos 
+systems 
+reduced cost computing technology tablets has led the emergence lower cost smarter pos 
+terminals that can accept multiple forms payment mag stripe emv nfc code along with integrated 
+software solutions run the business 
+implications for banks smarter pos systems will facilitate merchant acceptance across different methods 
+payment this should promote the use nfc particularly apple pay and other forms payment barcode 
+bluetooth driving shift from cash check card course one would expect adoption accelerates 
+vendors demonstrate how these new pos systems can lower costs and increase management information 
+largely not more than entirely offsetting the costs upgrading these systems 
+implications for the networks neutral slight positive networks will benefit the extent that availability 
+more affordable pos solutions helps drive increased penetration electronic payments 
+implication for the acquirers positive lower cost new pos technology should help increase the adoption 
+integrated pos systems smbs turn providing merchant processors opportunity establish stickier 
+relationships with their merchant clients 
+implication for the pos hardware providers slight negative given the potential for these new emerging 
+pos providers take share from the incumbents 
+key takeaways 
+first data launched clover mobile mobile pos solution for smbs 
+new pos system has swipe emv wifi bluetooth nfc barcode 
+allows mobile pos like you see apple stores 
+can leverage partners such bac wfc pnc sti for distribution 
+integrated software solutions for employee mgmt payroll inventory mgmt loyalty etc result this can 
+help smes more efficient through streamlined inventory mgmt auditing and accounting solutions that lower 
+their cost run the business 
+poynt pay 
+mobile pos device similar clover allows swipe emv wifi bluetooth nfc barcode 
+chase paymentech and vantiv have joined poynt distribution partners 
+payments and processing november 
+real time payments the coming soon 
+implications for banks critical that the banking system offers real time payments offer best class 
+service and security its difficult say this neutral positive for the banking industry they would 
+need give float but they would have the opportunity generate fees several countries have started 
+offer real time payments brazil therefore think critical that the banking industry also move 
+real time payments consumers will increasingly demand this given the ability alternative payment 
+providers offer real time payment banks that have already started move toward this include chase with 
+quickpay and regions with their immediate funds transfer offering critical follow emerging fed policy real 
+time payments are important for ecommerce consumers will receive products faster spurring more online 
+purchases 
+implication for networks slight negative real time ach may give rise viable alternative consumer 
+payment methods that could take share from the networks though note that the networks atm pin debit 
+infrastructure are under consideration design options for certain types real time payments 
+key takeaways 
+fed released consultation paper sep outlining its goal improve the current payments 
+system work toward improvement security ubiquitous faster payment capabilities 
+improvement security better international payments plumbing improvements ach checks 
+system collaboration between all industry participants 
+real time payments are important for commerce online customers can buy products today for next 
+day shipping but settle the proceeds with the merchants ach can take days which delays 
+merchants restocking inventory slowing down availability products for the next customer real 
+time payments would reduce this delay driving more inventory available for online customers 
+faster payments will eventually spur more businesses that require faster payments like uber air 
+kickstarter 
+the same way the internet benefitted disproportionately from speed too will the payment system 
+options implement real time evolve ach evolve atm pin debit infrastructure iii direct 
+clearing over networks build new clearing only infrastructure build completely new 
+infrastructure 
+tokenization around the transaction will solve lot the problems around fraud 
+international adoption has been quicker than the scale the market increases the complexity 
+implementing real time payments need learn from the aus 
+takes the years this there will likely another markets over the world that will 
+have already moved onto real time 
+competition between payment rails networks might good thing but cross border across multiple 
+networks will the bigger problem solve 
+payments and processing november 
+virtual currencies still long way 
+virtual currencies still have some way establishing trust with consumers which turn will only 
+result better regulation regulation hasn kept with innovation the space particularly the but this 
+could turn once the nydfs releases their final rules next year over time the virtual currency system provides 
+many benefits including faster cheaper money transfers and more inclusion the unbanked particularly 
+implications for banks banks are staying away from virtual currencies today given concerns around 
+regulation and aml the blockchain system particular interest banks its digital encryption could 
+provide more efficient mechanism for transferring funds and other information like documents etc given 
+the importance trust the financial world the need for credit and stickiness consumer preferences 
+not think virtual currencies the blockchain will necessarily disintermediate banks but rather drive banks and 
+blockchain operators partner the long term 
+implication for money transfer operators blockchain technology expected democratize payments and 
+could likely lead further pricing pressure for all parties involved global remittance but key players such 
+western union are keeping eye the technology management sees little risk from virtual currencies the 
+near medium term the majority its customer base are not even aware the technology still does not 
+understand how anti money laundering aml and know your customer kyc issues can addressed 
+these emerging players but will look fast follower and when regulatory and compliance issues are 
+resolved the company has project group currently looking leveraging bitcoin technology 
+key takeaways 
+trust the key issue 
+gox collapse was blow but after the collapse some exchanges allowed users independent audit 
+rebuild trust 
+but the end can build trust without regulators backing 
+from the consumers point view plastic works just fine the average consumer unlikely use virtual 
+currencies widely until there are incentives discounts convenience and assurances security 
+many companies have innovated around charge backs this opportunity consumers need able 
+trust 
+industry participants need better regulation 
+there lot innovation this space and regulation has not kept particularly the 
+currently participants need licenses states different states also have different requirements cost 
+compliance prohibitive today given the current level activity comparison all requires only one 
+license 
+clarity inter state and even international transactions especially around jurisdiction 
+operating unclear regulatory environment has been really challenging for players and stifling 
+innovation 
+payments and processing november 
+most other countries also taking wait and see approach only dealing with issues taxation and aml 
+despite gox japan the most bitcoin friendly country today 
+eventually companies will whichever jurisdiction most open crypto currencies just the 
+became the hub for internet companies 
+banks 
+banks not want engage with companies offering services around virtual currency because regulatory 
+concerns need virtual currencies adhere same standards other currencies for banks engage 
+banks fascinated block chain and general ledgers and how payment systems can have less friction but 
+their views are highly dependent regulation consumer preferences are sticky there still widespread 
+use cash and checks today use magstripe cards will continue well into the future even when have 
+emv tokenization similarly use traditional forms payment will continue even when virtual currency use 
+becomes more prevalent 
+there credit based bitcoin product credit side needs addressed 
+banks should interested because bitcoin offers near real time settlement takes mins clear 
+transactions average 
+also has uses cross border tranfer 
+benefits bitcoin the payments system 
+payments system has evolved over time had redesign from scratch today wouldn have 
+designed with many middlemen 
+bitcoin fundamentally rethinks payments for the internet age connecting the merchant directly with the 
+consumer 
+bitcoin particularly useful for the unbanked there are billion people the world outside the banking 
+system this driving interest from countries like argentina brazil and russia 
+africa can key market interest bitcoin can the best way drive ecommerce where there low 
+penetration plastic 
+ability use block chain technology for escrow smart contracts etc will help redundancies business 
+processes 
+payments and processing november 
+lawsky wants state the vanguard virtual currency use 
+implications for banks fees could under attack competition increases after the nydfs releases 
+final rules for virtual currencies tech firms will likely try thread needle providing value without being 
+financial intermediary offer solutions while avoiding regulation 
+key takeaways from lawsky comments the conference 
+virtual currency draft rules round coming dec 
+final rule out 
+will only regulate financial intermediaries not tech backbone companies 
+trying technology infrastructure agnostic 
+banks will have live same rules any other company the blockchain 
+wants fix key virtual currency issues like 
+small operator regulatory burdens 
+requirement know the recipient transaction before its taken place 
+only regulate financial transactions figure out way strip out small virtual currency embedded nonfinancial blockchain activity 
+nydfs very supportive the blockchain technology 
+much cheaper fees for transactions 
+frictionless transactions all over the world 
+less risk identity theft 
+other applications the technology 
+better security big deal for nydfs will hearing more cyber security from nydfs 
+payments and processing november 
+biggest opportunity payments 
+implications for banks with businesses using checks for half their payments more financial and nonfinancial providers are looking enter the market most notable among the large banks are usb axp and dfs 
+through its partnership with ariba pay believe this represents significant opportunity for banks 
+increase fee based revenues especially interoperability and expense saves drive more businesses toward 
+products availability real time payments would drive higher adoption 
+key takeaways from the conference 
+misunderstood viewed extension but nature the relationship completely 
+different 
+more interdependent and ongoing relationship 
+payments are made part full and multiple invoices 
+most efficient way currently provide explanation writing along with the check but there are better 
+ways this 
+size the market the biggest opportunity businesses use checks for half their payments 
+also heavily underserved 
+what will motivate businesses move away from checks 
+benefit for the buyer can use multiple methods payment rebate extension grace period can provided 
+the supplier 
+benefits for the suppliers get paid sooner get more data usable format cost saving 
+solutions need easy writing check for the buyer 
+there are multiple providers today need interoperability 
+payments and processing november 
+chasenet chugging along 
+jpm chasenet platform formed result its partnership with visa designed leverage data from 
+chase cardholder transactions help its merchant clients benefit from higher sales reduced fraud and 
+simplified pricing jpm currently has merchants actively processing chasenet out there signing 
+more merchants and track exceed volume targets 
+implications for banks expect more merchants sign given jpm simpler pricing method and lower cost 
+based the merchant all relationship with jpm banking products treasury mgmt corporate finance 
+wealth mgmt 
+implication for networks negative for mastercard chase consolidating its consumer card portfolio 
+under the visa brand part the agreement though the impact already priced into the stock note that 
+potential for similar agreements other issuers could create further risk for market share shifts between the 
+networks note that while they have made such announcement visa recently announced renewal its 
+contract with bofa with potential for share gains 
+implication for acquirers slight negative due potential for increased price competition given chase ability 
+subsidize the merchant discount rate based merchant all relationship with the bank 
+key takeaways 
+unlike competitors jpm leader every payments vertical acquirer issuer cash manager 
+interchange policies have traditionally been very complex and change all the time difficult explain 
+the small merchant and consumer 
+with its visa partnership chasenet jpm can more flexible 
+chasenet value add includes 
+merchants can integrate the chase pay wallet into the checkout flow provides quicker one click checkout 
+with lower fraud costs due tokenization 
+can leverage data and give merchants unique analytics and create customized offers 
+enhanced fraud detection can also eliminate false positives 
+easier charge backs less opaque less confrontational 
+simplified pricing can offer single rate for chase visa debit and single rate for chase visa credit current 
+price grids are complicated small merchants appreciate this 
+jpm offering 
+fixed fees for the life the contract 
+conditional approval code allows purchase proceed while customer verification completed 
+card present rates for mobile app payments when environment secure enough 
+payments and processing november 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and 
+morgan stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley 
+includes morgan stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada 
+limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any price targets referenced this research report please contact the client support team follows 
+canada hong kong latin america london singapore 
+sydney tokyo alternatively you may contact your investment representative morgan stanley research 
+broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that 
+they have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report 
+betsy graseck cheryl pate smittipon srethapramote 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+october morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research automatic data processing inc fleetcor technologies inc mastercard inc visa inc 
+within the last months morgan stanley managed managed public offering offering securities mastercard inc trinet group inc 
+within the last months morgan stanley has received compensation for investment banking services from automatic data processing inc digitalglobe 
+inc fleetcor technologies inc mastercard inc paychex inc trinet group inc vantiv inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from automatic data processing 
+inc digitalglobe inc evertec inc fleetcor technologies inc global payments inc green dot corp heartland payment systems inc mastercard inc 
+moneygram international inc paychex inc total system services inc trinet group inc vantiv inc visa inc western union 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from automatic 
+data processing inc digitalglobe inc fleetcor technologies inc mastercard inc paychex inc verifone systems inc western union wex inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship 
+with the following company automatic data processing inc digitalglobe inc evertec inc fleetcor technologies inc global payments inc green dot 
+corp heartland payment systems inc mastercard inc moneygram international inc paychex inc total system services inc trinet group inc vantiv 
+inc visa inc western union 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company automatic data processing inc digitalglobe inc 
+fleetcor technologies inc mastercard inc paychex inc verifone systems inc visa inc western union wex inc 
+employee director consultant morgan stanley director verifone systems inc this person not research analyst member 
+research analyst household 
+morgan stanley llc makes market the securities automatic data processing inc digitalglobe inc evertec inc fleetcor technologies inc 
+global payments inc green dot corp heartland payment systems inc mastercard inc moneygram international inc paychex inc total system 
+services inc vantiv inc verifone systems inc visa inc western union wex inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making 
+providing liquidity and specialized trading risk arbitrage and other proprietary trading fund management commercial banking extension credit 
+investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered morgan 
+stanley research principal basis morgan stanley may have position the debt the company instruments discussed this report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley 
+research contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and 
+not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+october 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+payments and processing november 
+coverage universe 
+stock rating category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+count 
+total 
+count 
+total 
+ibc 
+rating 
+category 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received 
+investment banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant 
+broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad 
+market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad 
+market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith 
+barney llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval 
+conducted the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities automatic data processing inc 
+digitalglobe inc evertec inc mastercard inc western union 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within 
+the meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary 
+the recommendations views expressed research the same stock this may the result differing time horizons methodologies market events 
+other factors for all research available particular stock please contact your sales representative matrix 
+http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients 
+through alternate electronic means convenience for access all available morgan stanley research please contact your sales representative 
+matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms 
+accessing and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance 
+with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your 
+preferences and collect readership data that can deliver better and more personalized service and products you find out more information 
+about how morgan stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your 
+investments may vary because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market 
+indexes operational financial conditions companies other factors there may time limitations the exercise options other rights 
+securities instruments transactions past performance not necessarily guide future performance estimates future performance are based 
+assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the 
+subject company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+payments and processing november 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan 
+stanley owns more class common equity securities the companies for all other companies mentioned morgan stanley research 
+morgan stanley may have investment less than securities instruments derivatives securities instruments companies and may trade them 
+ways different from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley 
+research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley 
+business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions take proprietary positions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers 
+hong kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities 
+hong kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves 
+morgan stanley research disseminated brazil morgan stanley japan morgan stanley mufg securities ltd and for 
+commodities related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts 
+responsibility for its contents and bank morgan stanley hong kong branch singapore morgan stanley asia singapore pte registration 
+number and morgan stanley asia singapore securities pte ltd registration number regulated the monetary authority 
+singapore which accepts legal responsibility for its contents and should contacted with respect any matters arising from connection with 
+morgan stanley research and bank morgan stanley singapore branch registration number australia wholesale clients 
+within the meaning the australian corporations act morgan stanley australia limited holder australian financial services 
+license which accepts responsibility for its contents australia wholesale clients and retail clients within the meaning the australian 
+corporations act morgan stanley wealth management australia pty ltd holder australian financial services license 
+which accepts responsibility for its contents korea morgan stanley international plc seoul branch india morgan stanley india 
+company private limited indonesia morgan stanley asia indonesia canada morgan stanley canada limited which has approved and 
+takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth 
+management limited niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley 
+morgan stanley group company which supervised the spanish securities markets commission cnmv and states that morgan stanley 
+research has been written and distributed accordance with the rules conduct applicable financial research established under spanish 
+regulations the morgan stanley llc which accepts responsibility for its contents morgan stanley international plc authorized 
+the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory authority disseminates the 
+research that has prepared and approves solely for the purposes section the financial services and markets act research which has been 
+prepared any its affiliates morgan stanley private wealth management limited authorized and regulated the financial conduct authority also 
+disseminates morgan stanley research the private investors should obtain the advice their morgan stanley international plc morgan 
+stanley private wealth management representative about the investments concerned rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally 
+morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized 
+firms comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences 
+for this reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages 
+relating such data the global industry classification standard gics was developed and the exclusive property msci and morgan stanley 
+research portions may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+payments and processing november 
+industry coverage payments and processing 
+company ticker 
+rating 
+price 
+denny galindo 
+digitalglobe inc dgi 
+smittipon srethapramote 
+automatic data processing inc adp 
+evertec inc evtc 
+fleetcor technologies inc flt 
+global payments inc gpn 
+green dot corp gdot 
+heartland payment systems inc hpy 
+mastercard inc 
+moneygram international inc mgi 
+paychex inc payx 
+total system services inc tss 
+trinet group inc tnet 
+vantiv inc vntv 
+verifone systems inc pay 
+visa inc 
+western union 
+wex inc wex 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

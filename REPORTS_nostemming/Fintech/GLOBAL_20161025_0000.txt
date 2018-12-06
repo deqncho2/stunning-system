@@ -1,0 +1,4098 @@
+october gmt 
+global financials and payments 
+early data analytics 
+movers stand out 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have 
+conflict interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor 
+making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse 
+restrictions communications with subject company public appearances and trading securities held research analyst account 
+contributors 
+payments financial technology 
+brokers asset managers 
+james faucette 
+michael cyprys 
+equity analyst 
+equity analyst 
+james faucette morganstanley 
+michael cyprys morganstanley 
+vasundhara govil 
+financial services banks 
+equity analyst 
+fiona simpson 
+equity analyst 
+vasundhara govil morganstanley 
+fiona simpson morganstanley 
+danyal hussain 
+equity analyst 
+bruce hamilton 
+equity analyst 
+danyal hussain morganstanley 
+bruce hamilton morganstanley 
+banks 
+betsy graseck 
+alvaro serrano 
+equity analyst 
+equity analyst 
+betsy graseck morganstanley 
+alvaro serrano morganstanley 
+ken zerbe 
+samuel goodacre 
+equity analyst 
+equity analyst 
+ken zerbe morganstanley 
+samuel goodacre morganstanley 
+manan gosalia 
+danny anson jones 
+equity analyst 
+equity analyst 
+manan gosalia morganstanley 
+danny anson jones morganstanley 
+jeffrey adelson 
+asian financial services banks 
+research associate 
+silvia fun 
+equity analyst 
+jeff adelson morganstanley 
+silvia fun morganstanley 
+steven wald 
+research associate 
+kate chang 
+research associate 
+steven wald morganstanley 
+kate chang morganstanley 
+asian financial services banks cont 
+japanese financial services banks 
+nick lord 
+hideyasu ban 
+equity analyst 
+equity analyst 
+nick lord morganstanley 
+hideyasu ban morganstanley 
+anil agarwal 
+mia nagasaka 
+equity analyst 
+equity analyst 
+anil agarwal morganstanley 
+mia nagasaka morganstanley 
+selvie jusman 
+hirotaka sugioka 
+equity analyst 
+equity analyst 
+selvie jusman morganstanley 
+hirotaka sugioka morganstanley 
+asian industrials 
+yuki maeda 
+mulya chandra 
+research associate 
+equity analyst 
+yuki maeda morganstanley 
+mulya chandra morganstanley 
+nico yosman 
+equity analyst 
+nico yusman morganstanely 
+european technology 
+francois meunier 
+equity analyst 
+francois meunier morganstanley 
+richard 
+asian financial services banks 
+equity analyst 
+richard morganstanley 
+morgan stanley llc 
+morgan stanley international plc 
+morgan stanley asia limited 
+morgan stanley taiwan limited 
+morgan stanley mufg securities ltd 
+morgan stanley asia singapore pte 
+morgan stanley asia indonesia 
+contents 
+executive summary 
+data monetization for financial institutions and payments 
+data analytics payments processing 
+data analytics banks 
+brokers asset managers data monetization 
+monetization european banks 
+eemea banks and the potential leapfrog peers 
+data analytics china banks and online lenders 
+data analytics taiwanese financials 
+data analytics japanese financials 
+data analytics asean financials 
+data analytics india financials 
+global financials and payments 
+early data analytics 
+movers stand out 
+ogether with our foundation report the journey from insight value raise 
+pts visa and mastercard and see analytics efforts morgan synchrony and 
+other banks key improving returns also provide assessment financial 
+services analytics around the world 
+this report assess individual financial services companies 
+construction bank bank china and china merchants bank tai 
+progress against the data analytics optimization framework laid out 
+wan see sun bank cathay and ctbc bank japan see cred 
+our global insight report data analytics for fis the journey from 
+saison and aeon among brokers asset managers see 
+insight value written with boston consulting group that frame 
+blackrock and india see hdfc bank 
+work intended help companies and investors assess efforts 
+among banks jpm axp and syf positioning most aggres 
+improve returns data analytics initiatives targeting both 
+sively improving return marketing promotion and technology 
+improved internal operations customer acquisition and fraud 
+spend could help accelerate barely budging rotce for many fis 
+detection and new external revenue streams partnerships with 
+stands are only looking for meagre rotce improve 
+retailers 
+ment over the next three years from 
+large institutions are the most aggressive pursuing strategy 
+across our midcap and large cap bank coverage and get that 
+developing data analytics superiority banks spend reve 
+need many oars pull the same direction more efficient opera 
+nue marketing and promotion and another technology 
+tions rising nim and increasing capital return data analytics which 
+totaling per year successful data and analytics programs 
+lower account acquisition servicing and fraud costs while increasing 
+could improve the returns these investments and others adding 
+the value each account offering higher utility represents key 
+annual net income for banks beyond the 
+contributor that puzzle with winners executing early and best 
+improved returns internally developed data and analytics superiori 
+why now big data plus mobility means issuers can market directly 
+could lead long term share shifts and new external revenue 
+individuals their smartphone while using that information 
+streams 
+lower operating expenses too 
+global implications see financial institutions all major 
+raising pts visa mastercard view and already 
+regions beginning regard data analytics source potential 
+being ahead the curve application data analytics fraud 
+upside though also see varying levels regulatory support cul 
+detection think they are also the furthest among the incumbents 
+tural alignment and appetite for longer term investments best posi 
+being able monetize data externally via differentiated offerings 
+tioned benefit for banks see large cap banks and card issu 
+issuer merchant clients that could ultimately drive higher yields 
+ers namely morgan synchrony financial and american express 
+help drive incremental transactions over the network those 
+for payments see visa mastercard deck capital and 
+advantages should support the sustainability long term double 
+lendingclub for european banks see nordic banks plus bbva and 
+digit revenue growth expectations and the premium multiple raising 
+ing china see industrial and commercial bank china china 
+pts from for and from for see our 
+separate note 
+executive summary 
+only handful financial services companies that are developing data and analytics advantages stand out have identified those think are best positioned below generally these companies are exploiting analytics reduce fraud and 
+business risk and expect are their way developing data driven improvements customer acquisition and retention over the next few years expect all those listed companies delivering measurably better returns margins with data analytics expected contributed meaningful leverage 
+potential beneficiaries from data monetization 
+sector 
+payments 
+banks 
+european banks 
+china financials 
+taiwan financials 
+japan financials 
+asset managers 
+asian financials 
+best positioned benefit 
+potentially challenged 
+visa mastercard deck capital lendingclub 
+large cap banks morgan and card issuers 
+synchrony financial 
+modest opportunity for most 
+smaller midcap banks 
+nordic banks bbva ing polish and turkish banks among 
+modest opportunity for most 
+eemea 
+industrial and commercial bank china china construction 
+modest opportunity for most 
+bank bank china and china merchants bank 
+sun cathay ctbc bank 
+yuanta mega shin kong first 
+aeon credit saison 
+daiwa nomura 
+blackrock blackstone charles schwab 
+asset management lpl financial 
+hdfc bank 
+against the scenario model below the fis financial institutions 
+characterize best positioned are generally pursuing strategies 
+developing superior proprietary data and analytics abilities which 
+exhibit 
+see four plausible scenarios that could define whether data analytics are differentiator commodity within the financials industry 
+best analytics from internal development fis 
+successful would maximize the profitability and share gain potential 
+differentiated analytics capabilities 
+from data analytics conversely those characterized potentially 
+same data better 
+mousetrap 
+challenged are implicitly working from the expectation that third 
+moderate potential 
+earnings leverage and 
+share shift 
+parties will deliver sufficiently comparable solutions that data analytics will not factor long term profitability and share shifts 
+data analytics differentiator will depend the degree 
+best data from 
+clearinghouse 
+arrangements 
+data sharing 
+all firms have access 
+same data for 
+price 
+safety numbers 
+parties data analytics based disruption among fis most likely 
+moderate potential 
+earnings pressure limited 
+share shift 
+value shift consolidators however third parties are able 
+match improve large institutions data and analytics abilities 
+then all financial institutions should opt for parties solutions 
+neutralizing any data analytics impact share profitability 
+largest potential earnings 
+leverage and share shift 
+best data from 
+bilateral 
+confederation 
+agreements 
+status 
+quo 
+data trumps your 
+data 
+moderate potential 
+earnings leverage and 
+share shift 
+best analytics through parties 
+data sets and analytics that disruption could catalyze market consolidation benefitting the large incumbents and shifting meaningful 
+leaders gain 
+laggards 
+some firms have better 
+data 
+which data sources and analytics are outsourced third 
+come from the largest institutions that are able develop superior 
+all firms have access same analytics 
+capabilities for price 
+source morgan stanley research 
+data analytics nascent best for most financial services after 
+changed competitive landscape taking share from those that didn 
+speaking dozens data analytics experts and executives finan 
+similar outcome the financial services sector certainly possi 
+cial services found that while most fis are collecting massive 
+bility benefitting those firms that are able develop analytics 
+amounts data and building insights most are early their ability 
+advantage expect additional regulatory oversight would also 
+generate value for customers from data analytics financial institu 
+tend protect the incumbents ultimately though think suc 
+tions have impressive ambitions create new revenue streams but 
+cessful adaptation and integration could substantial source 
+none the surveyed group claim have established credi 
+alpha for investors both disruptor firms and incumbents alike 
+ble data driven revenue sources similarly found little evidence that analytics helping drive operational optimization thus far 
+regional summaries below summarize key conclusions our 
+evidenced historically steady overall operating margins and 
+subjective assessments opportunities and efforts financial insti 
+sales and marketing spend percentage total revenue 
+tutions from around the world more depth reviews and companyspecific assessments are found the main body this report divid 
+internal optimization improvements must come first market 
+geography 
+share shift follow expect that most financial institutions will 
+have first generate analytics returns internal optimization 
+banks why now big data plus mobility means banks can 
+efforts beginning with use cases like better fraud detection and 
+uniquely market individual customers banks can use big 
+remediation well reduced customer acquisition costs and 
+data plus customer mobility better market services 
+churn total expect much net income upside from 
+them additionally the investments are critical for more effi 
+cost savings the same time expect that firms that engender 
+cient marketing and lowering operational expenses like data 
+culture data driven decision making across the organization cre 
+analysis data management and fraud gauge large cap 
+ate proprietary data through engineered interactions through 
+banks and card issuers having the best opportunities and 
+partnerships and manage consumer privacy issues make trust 
+most compelling analytics efforts right now with jpm leading 
+competitive advantage will put themselves advantage and ben 
+the pack among large cap banks leveraging its 
+efit relative competitors either seeing margin expansion 
+closed loop drive both consumer and merchant account 
+gaining share 
+acquisition well lower operating expenses but there 
+are many other banks right behind jpm particular the other 
+developing ecosystem partnerships key new revenue 
+six zelle owners bac bbt cof pnc usb wfc addition 
+streams key conclusion from the bcg morgan stanley report 
+the private label credit card players syf has something 
+data analytics for fis that data collection and quality limitations 
+everyone wants closed loop with maximized data sharing 
+will compel fis develop ecosystem partnerships order gener 
+between retailers and lenders synchrony financial invest 
+ate new revenue streams from analytics those partnerships will 
+ing leverage this this position while american express and 
+essential new revenue creation order assure consistent 
+discover ramp their investment spend protect and 
+access data well constructing customer interactions that can 
+extend their customer base see the opportunity and abili 
+yield new data types don anticipate that data driven new reve 
+ties scaling down with size and expect midcap banks will like 
+nue streams stemming from new partnerships are likely have 
+outsource most efforts the largest the outsourcers can 
+material impact results valuations until least the time 
+benefit from the scale efficiencies shared network while 
+frame given that expect internal optimization efforts will pre 
+remaining nimble largest customer outsourcer 
+dominate for the next few years 
+smaller banks may benefit from outsourcing relative going 
+alone but lose nimbleness which may ultimately neutralize 
+digital adaptation and integration can contribute outperformance while expect the industry can shape one several ways with either large fis developing the best data sets and 
+capabilities smaller firms neutralizing that through parties 
+note that the largest incumbents are likely reasonably well positioned and that the threat disruption doesn necessarily portend 
+poor stock performance for incumbents the retail industry performance suggests see exhibit there can outperformance 
+from strong survivor bias whereby those that best adapted 
+morgan stanley research 
+any incremental benefit 
+payments ondk and are best positioned the 
+payment networks have strong head start using data analytics identify and mitigate fraud risk while the line 
+lending firms have strong customer acquisition backgrounds 
+most others the coverage group have more limited exposure consumers retailers data although pypl and 
+fdc could benefit from increased analytics investment 
+china the banking system china currently has vast 
+quality issues implying full management focus this this 
+amount data from both corporates and households and 
+will help the bank keep growing revenues and will 
+profitability for retail banking have increased which triggered 
+also help bring down costs given fairly high cost assets 
+more investments for data analytics retail banking business 
+there reasonably large room for cost efficiencies 
+recent years several banks have established centralized 
+customer data analytic department better understand client risk profile and financial product needs and yirendai the 
+only listed platform china strives use data analytics improve its credit underwriting capability 
+ment and adoption data analytics because customer 
+acquisition costs are rising due competition and 
+imperative generate higher and stable fee revenue stream 
+expanding wealth management business but the players 
+europe better operational efficiency key area focus for 
+not necessarily have tools yet credit card companies such 
+most management teams the sector with better data han 
+aeon and credit saison are more serious about putting 
+dling area improvement and the sector whole 
+more resources thus better positioned but they could 
+increasingly focusing the opportunity from data and tech 
+hurt most they fail adopt changes quickly enough 
+nology with heads innovation and digital becoming 
+the other hand major security brokers that are trying 
+increasingly prevalent across the sector some cases sitting 
+change their business models wealth management areas 
+board level see similar level opportunity across 
+seem slow change the way they collect and analyze the 
+the sector but greater variety focus and investment 
+data upgrade their advisory services 
+see nordic spanish particularly bbva and benelux particularly ing banks best placed while italian and german 
+banks face more pressing issues elsewhere 
+taiwan taiwan lagging behind western players data 
+monetization but expect private banks esun ctbc cathay enjoy first mover advantage and gradually generate 
+eemea rapidly growing engagement with online and mobile 
+more profits from data analytics coming years while leav 
+platforms combined with lower average age than devel 
+ing the state banks first mega behind expect fee 
+oped markets has given rise huge reservoir data for 
+income growth outperformance private banks over state 
+financial service providers eemea recent years arguably 
+banks steeper data monetization gradually material 
+some instances banks our coverage have been ahead 
+ize 
+the curve when comes monetizing this data and taking 
+advantage the direct access customers through online 
+and mobile services 
+japan retail financial service areas require faster improve 
+brokers asset managers despite the clear advanta 
+ges leveraging data drive competitive advantages 
+common theme within our space has been justifying the cost 
+india expect data monetization primarily internal 
+ratcheting big data initiatives outside general admin 
+usage become big driver market share gains over the 
+istrative expenses operating margins continue come 
+next years for indian private lenders the launch unified 
+under pressure from industry headwinds think that 
+payment interface upi likely accelerate the process 
+although companies face both cultural and cost hurdles that 
+data driven products and private banks will the big win 
+make implementation difficult jns ivz upcoming regulato 
+ners among them hdfc bank hdb the best posi 
+rules such the dol fiduciary rule can push data initia 
+tioned given complete focus technology related offerings 
+tives higher priority companies reposition themselves 
+customers unlike other banks hdb does not have asset 
+remain competitive 
+data monetization for financial institutions 
+and payments 
+effective impact from dramatic 
+zero 
+better analytics abilities analytic abilities don change then the 
+our report data analytics for fis the journey from insight value 
+finally the best data solutions were emerge clearinghouse 
+coauthored with boston consulting group established that five 
+arrangements and the best analytics are supplied parties 
+key elements future data analytics successes for financial institu 
+would expect that data analytics would not contribute any share 
+tions are 
+shifts all could just access the same party tools while data ana 
+status quo would likely hold with group being able use data 
+analytics improve profitability and gain share 
+lytics might actually pressure margins fis increase usage 
+engineer customer interactions gather valuable data 
+parties 
+based fair value exchange for customers 
+develop structured program manage ecosystem part 
+nerships whose objectives are harness data critical 
+internal and external value creation 
+ensure execution excellence organizing data analytics 
+function center excellence with explicit senior executive support and business buy partnership 
+ingrain data based decision making and test learn cul 
+ture 
+make trust asset and proactively manage consumer priva 
+where stand limited realization 
+analytics upside date 
+the boston consulting group morgan stanley authored report 
+data analytics for fis the journey from insight value finds that 
+there little value from data analytics accruing fis today even 
+though stated long term vision for many our interviews with 
+financial institution executives and industry experts and complementary survey work found that while many fis are building data analytics capabilities most have yet generate return commensurate 
+with investments terms cost savings market share gains rev 
+the second point developing partnerships particularly important 
+enue uplift addition fis have impressive ambitions create new 
+will define which firms have either the best data the best ana 
+revenue streams but none the surveyed group claimed 
+lytics and the same point highlight some possible partner 
+have established credible and sizeable data driven revenue sources 
+ship data sharing scenarios might expect see data analytics 
+iniatives progress see exhibit the best data sharing ecosystems develop around bilateral confederation agreements that 
+would tend give profit and long term share shift advantages the 
+largest financial institutions the other hand clearinghouse 
+model data sharing were emerge that delivered better similar 
+exhibit 
+surveyed financial institution and payments companies have yet 
+monetize data analytics externally 
+respondents 
+data sets then any benefit for the largest fis would neutralized 
+similarly there opportunity develop superior proprietary ana 
+lytic capabilities once again however third parties develop similar 
+aspiration monetize externally 
+aspiring but revenue realized yet 
+better analytic capabilities that would neutralize any potential 
+benefit from those fis that are developing their own analytics abilities 
+data monetized beyond firm 
+source bcg morgan stanley research 
+the event that neither data sharing approach develops advantage data sharing doesn increase nor does any group develop 
+morgan stanley research 
+despite the lack monetization far over the past several years 
+they key opportunities for upside 
+technology spend has increased substantially among fis and vcs 
+fintech investments and estimate more than has been 
+estimate earnings boost potential from cost sav 
+invested data analytics initiatives the leading fis thus far for 
+ings effective application data analytics internal proc 
+incumbents think this arms race mostly driven fear los 
+esses could source near term value creation through 
+ing customers disruptors such fintechs other banks rather 
+more efficient customer acquisition and retention operation 
+than fear missing out the potential monetization payoff 
+improvements risk mitigation etc that could alone drive 
+result large cap banks particular have broadly accelerated invest 
+much incremental profits eps 
+ments tech their own well partnership with other fis 
+upside which see meaningful given current environ 
+and partnerships with fintechs the prize better customer 
+ment for banks industry net income has grown 
+acquisition better customer retention and increased customer 
+cagr the last years and the last between the sever 
+engagement the tools data analytics and integrated customer 
+sources spend identified ripe for improvement 
+interface 
+think could reasonable for bank shave 
+basis points off total operating expenditure leverag 
+exhibit 
+investment dollars continue rise for financial technology both the 
+part banks and fintech firms this puts pressure keep the 
+spend avoid falling behind 
+spend 
+ing analytics throughout the firm expect realization for 
+this higher amount savings likely relegated the 
+most complex firms while midcap banks are less likely 
+benefit also note that there likely some degree 
+incremental technology spend before banks realize the value 
+their analytics and this will most likely function 
+bank tech spend range 
+revenue 
+financing backed 
+fintech companies 
+how much the bank has invested far how far along the 
+bank addressing some the key imperatives laid 
+out this report all see plausible range outcomes 
+with the one hand banks spending more chase the 
+opportunity but doing without traction potentially dilu 
+source company data fdic kpmg insights morgan stanley research 
+tive those that have already made most the required 
+investment and are nearing meaningful upside earnings 
+but the opportunities can significant 
+from cost savings plus gains 
+losses from share shift and potential 
+upside from new revenue streams 
+upside 
+the near medium term share shift among competi 
+tors represents biggest opportunity risk key source 
+change likely stem from the industry continuous investment data analytics the boost operational efficiency 
+and decision making within firm operations our expectation that firms that engender culture data driven deci 
+think that the best initial targets for data and analytics monetiza 
+sion making across the organization create proprietary data 
+tion are within the four walls organization and are likely 
+through engineered interactions through partnerships 
+generated through reduced customer acquisition costs lower churn 
+and manage consumer privacy issues make trust compet 
+better fraud detection and risk mitigation and more efficient opera 
+itive advantage will put themselves advantage and ben 
+tions firms improve the efficiency their operations expect 
+efit relative competitors either seeing margin expansion 
+improvements client servicing well which could improve reten 
+gaining share given our view that adoption new tech 
+tion and increase share further out think fis that succeed best 
+nologies financial services tends play out more slowly 
+will play the global advertising and marketing services revenue 
+than many would expect this trend favors incumbents and 
+pool nearly global revenue market 
+could driving force further share consolidation the 
+and payments industries 
+incremental revenue from external monetization pulls 
+revenue into payments universe addition gaining 
+share also see long term revenue potential and while 
+these opportunities could take longer play out think 
+incumbents disruptors digital 
+adaptation and integration can contribute 
+outperformance 
+they shouldn ignored even the hurdles are considerable one potential avenue take increasing share from 
+these findings are consistent with the ranking morgan stanley ana 
+advertising marketing spend globally where there increas 
+lysts recently assigned various aspects the financial services 
+ing demand potential for shift spend from traditional 
+industry the september report disruptions and productivity 
+methods data driven targeted marketing programs which 
+growth the next decade the digital revolution found that 
+could associated with new revenue creation for fis 
+the digital maturity global financial services industry whole 
+advertising marketing budgets across the alone 
+lagging other industries like media retail and even oil gas 
+were for every that pool fis payments companies can attract leveraging their transaction data create consumer targeting strategies for merchants fee based 
+card payment revenue pools can expand 
+exhibit 
+the morgan stanley digitalization index ranks financial services 
+towards the lower end 
+exhibit 
+see the potential for earnings upside analytics are 
+applied major cost categories 
+plenty use cases available for fis and payment companies enhance 
+sales operations 
+sales 
+marketing 
+operations 
+targeted customer acquisition 
+next best offer cross sell optimization 
+contextual offers real time geo based 
+pricing lending deposit fee commission 
+marketing mix optimization 
+customer lifetime value optimization 
+cross channel customer journey optimization 
+complaint reduction 
+churn prediction reduction 
+demand prediction resourcing optimization 
+optimized atm replenishment 
+risk fraud 
+credit risk management 
+portfolio stress testing 
+fraud detection 
+compliance 
+stress testing 
+compliance monitoring 
+reduction noninterest expense from sales marketing 
+compliance and other compensation savings 
+incremental tech 
+spend 
+assumes current spend 
+revenue 
+source the boston consulting group morgan stanley research estimates 
+source morgan stanley research 
+potential net 
+income 
+upside 
+expect that industry digitalization product internally led 
+data analytics efforts incumbents will benefit from survivorship 
+bias and share gains and performance will likely resemble that legacy retail performance see exhibit which appreciated over for the and therefore such 
+morgan stanley research 
+environment the movement from digitalized towards 
+tial for establishing competitive advantage through cost 
+should contribute outperformance incumbents conversely 
+improvement product differentiation using data analyt 
+better comes from efforts led parties then unlike 
+ics based each companies data advantage and potential 
+driver outperformance and financials move towards 
+use cases for that data set acknowledge that given limit 
+digitalization likely see performance consistent with that 
+disclosures many these variables our analysis 
+the lodging industry with performance line with the market 
+somewhat subjective nature example see online 
+such scenario the key beneficiary incremental value would 
+lenders and ondk having high internal monetization 
+party suppliers akin expedia priceline ultimately comprising 
+potential because the large pools potential customers and 
+public hotels market cap 
+high cost customer acquisition creates addressable 
+need and because the speed quality credit underwriting 
+exhibit 
+legacy retail has outperformed the part due digital adaption 
+and integration 
+can benefit from investments incremental data accumulation and analysis 
+external opportunity focus the breadth depth and 
+uniqueness data that each company our coverage collects and evaluate the value that data third parties and 
+potential for these companies enhance these data sets 
+through partnerships improve the quality insights for 
+example and collect broad amount spend data 
+merchant and have the potential use this data sell advisory services merchants and potentially fis some this 
+may monetized today but given our conclusion that specific actionable data will command more material amount 
+source datastream morgan stanley equity research 
+note legacy retail contains major global retail franchises including inditex macy kohl penney 
+nordstrom stories ross stories tjx brands urban outfitters tiffany american eagle outfitters 
+abercrombie fitch abf next kingfisher home retail group 
+upside think there long runway opportunity for 
+partner with fis merchants bolster the data 
+and ultimately command higher premium for the data 
+current progress focus addition the explicit commen 
+which firms are best positioned 
+succeed 
+tary companies make analytics look how firms have 
+our methodology this report make subjective evaluations 
+tom interactions the has unique app otherwise 
+the relative positioning companies subsectors the internal 
+draws users provide incremental data develop ecosys 
+analytics opportunity cost saves and share gain from better custom 
+tem partnerships has the company shown any partnering 
+relationships and the external analytics opportunity incremental 
+initiatives with merchants other third parties harder 
+revenue from selling partnering integrate the framework laid 
+assess but factored nevertheless are organizing ana 
+out our joint bcg note follows 
+lytics center excellence ingrain test learn cul 
+made any effort towards the five key imperatives laid out 
+our joint note with bcg whether they engineered cus 
+ture and manage trust asset 
+internal opportunity our assessment the internal 
+monetization opportunity evaluate each company 
+metrics such cost ratios activities such customer 
+acquisition and client servicing client retention rates compliance expenses fraud risks etc and then gauge the poten 
+data analytics payments processing 
+james faucette vasu govil danyal hussain 
+sales marketing efficiency for the non network companies see 
+payments data can means drive growth and stimulate 
+exhibit and exhibit below but ultimately think that the 
+margin expansion see two sources potential upside 
+companies that are able use bring down acquisition costs 
+panies our coverage incremental top line benefit from the actual 
+generate alpha 
+sale through additional volumes advisory services variety 
+channels the vast data payments companies are privy and 
+outlook payments expect that the leaders 
+through the increased sales and marketing efficiency the top line 
+developing proprietary data and analytics capabilities will have solid 
+benefit reasonably straightforward companies like and will 
+ified competitive positions and demonstrated incremental earnings 
+continue attempt parlay their data into consulting contracts 
+leverage for and their respective data and analytics abilities 
+and higher market share among key issuers online lenders are look 
+will likely continue improve their fraud detection advantages and 
+ing grow loans underwriting using broad array data sources 
+expect scale advantages should support the sustainability 
+and acquirers are looking sell analytics software existing clients 
+long term double digit revenue growth expectations and the premium multiple raise our pts eps and 
+common theme our industry has also been the challenge effi 
+eps from and for and respectively see our 
+ciently acquiring customers and the high relative spend percent 
+separate note published today for details for the likes and 
+revenue creates relatively large addressable market for compa 
+ondk their advantages would customer acquisition and under 
+nies our coverage aggregate there has been little improvement 
+writing ability peer set non bank lenders 
+assessment monetization opportunity within our coverage 
+exhibit 
+evaluate our coverage available data monetization opportunity 
+and current focus 
+adp 
+evtc 
+fdc 
+flt 
+gdot 
+gpn 
+mgi 
+ondk 
+pay 
+payx 
+pypl 
+tnet 
+tss 
+vntv 
+wex 
+internal 
+monetization 
+oppty 
+low 
+low 
+low 
+low 
+low 
+low 
+high 
+mid 
+mid 
+high 
+low 
+low 
+mid 
+mid 
+low 
+low 
+mid 
+low 
+low 
+mid 
+external 
+monetization 
+opportunity 
+mid 
+low 
+mid 
+low 
+low 
+mid 
+high 
+high 
+low 
+mid 
+low 
+mid 
+mid 
+mid 
+low 
+low 
+high 
+mid 
+low 
+low 
+source morgan stanley research 
+morgan stanley research 
+total 
+monetization 
+opportunity 
+low 
+low 
+mid 
+low 
+low 
+low 
+high 
+high 
+low 
+high 
+low 
+low 
+mid 
+mid 
+low 
+low 
+high 
+low 
+low 
+low 
+current progress 
+level focus 
+mid 
+low 
+mid 
+low 
+low 
+low 
+high 
+high 
+low 
+high 
+low 
+low 
+mid 
+high 
+low 
+low 
+high 
+mid 
+low 
+low 
+exhibit 
+the card networks and non bank lenders stand out seeing the highest upside potential from data monetization given potential opportunity and current focus 
+monetization 
+opportunity 
+ondk 
+high 
+fdc 
+pypl 
+mid 
+low 
+evtc 
+flt 
+gdot 
+gpn 
+mgi 
+pay 
+low focus 
+investment 
+payx 
+tnet 
+tss 
+wex 
+adp 
+vntv 
+mid 
+high focus 
+investment 
+current focus progress 
+source morgan stanley research 
+the key potential beneficiaries payments 
+internal monetization opportunities 
+company 
+ondk 
+ondk 
+pypl 
+pypl 
+opportunity 
+description example 
+current progress potential timing 
+global card fraud loss rate stable 
+predictive analytics minimize 
+despite growth attempted fraud every change equates current and evolving 
+fraud losses 
+industry profit 
+product differentiation eliminate false positives use mobile locaemerging est years for 
+additional point fraud solutions tion technology the alone billion was declined due 
+material contribution 
+incorrect risk scoring 
+use over external data sources and own underwriting history leads 
+better fraud credit model driving borrower demand fewer bads 
+credit underwriting 
+current evolving 
+rejected and investor interest better net loan performance leading 
+higher loan growth 
+ondk leverages its grover model all aspects customer management including recent efforts further optimize customer acquisition 
+spend while still relatively high sales and marketing expense percent 
+customer acquisition efficiency 
+current evolving 
+originations has come down from and 
+customer acquisition costs have stayed stable 
+the face rising competition 
+merchant onboarding using third party data sources and internally develmerchant underwriting efficienoped models pypl also provides buyer seller protection against fraud current 
+nonperformance 
+real time fraud detection 
+minimizing ach transaction losses through credit like scoring models 
+current 
+external monetization opportunities 
+company 
+opportunity 
+customer acquisition 
+loyalty solutions 
+brand consumer specific 
+insights 
+advisory services 
+ondk 
+white label partnerships 
+fdc 
+analytics software solutions for 
+small businesses 
+description example 
+visa commerce network equips merchants with data from other merchants make targeted offers uber discounted ride after shake 
+shack purchase 
+focused issuer merchant customer spend and retention per 
+issuers that leverage its data driven technology see higher cardholder spend and more transactions addition any supplemental fees these cardholders may generate the revenue 
+current progress potential timing 
+emerging est years for 
+material contribution 
+emerging est years for 
+material contribution 
+card not the program 
+card networks provide merchant partners with customer level spend emerging est years for 
+behavior help merchants increase share wallet 
+material contribution 
+data driven consulting services merchants improve marketing 
+emerging est years for 
+roi including mastercard advisors 
+material contribution 
+ondk pushing its ondeck service model which works 
+with lenders underwrite and service loans their behalf highlighted emerging est years for 
+its partnership with ondk has similar white label partnerships material contribution 
+with traditional lenders including bancalliance 
+first data insightics and analytics software products help small emerging est years for 
+businesses with targeted marketing program 
+material contribution 
+sales and marketing expense payments 
+exhibit 
+little leverage sales marketing expense recent years data monetization represents one way potentially spur operating leverage especially 
+those that execute best 
+payments industry revenue 
+covered companies 
+revenue 
+total revenue 
+marketing spend revenue rhs 
+operating margins rhs 
+source company data morgan stanley research 
+exhibit 
+customer acquisition costs represent significant cost for several subsectors the payments space highlighting the opportunity leverage data 
+make improvements 
+payments subsector 
+card networks 
+online lenders ondk 
+merchant acquirers fdc pypl gpn vntv tss evtc 
+payments hardware pay 
+prepaid cards gdot 
+payroll peo adp payx tnet 
+money transfer mgi 
+fleet cards flt wex 
+issuer processors 
+total 
+sales mkt revenue 
+issuer networks axp dfs 
+sales marketing spend 
+source company data morgan stanley research 
+deeper dive data analytics 
+payments processing 
+looking parlay their data into consulting contracts and higher market share among key issuers online lenders are looking grow loans 
+leveraging broad array data sources improve speed and 
+quality underwriting and acquirers are looking sell analytics 
+payments data means drive growth and stimulate mar 
+software existing clients review some key revenue focused 
+gin expansion see two sources potential upside companies 
+initiatives below but separately common theme our industry has 
+our coverage top line benefit and increased sales and marketing 
+been the challenge efficiently acquiring and retaining customers 
+efficiency the top line benefit clear companies like and are 
+and the high relative spend percent revenue creates relative 
+morgan stanley research 
+large addressable opportunity for companies our coverage 
+and high barriers entry robust predictive risk manage 
+aggregate there has been little improvement sales marketing 
+ment tools that constantly monitor detect and respond 
+efficiency for the non network companies but ultimately think 
+malicious attacks consistently have become table stakes for 
+that the companies that are able use bring down acquisi 
+the payment networks believe this creates important 
+tion costs could actually little more like the networks gener 
+barriers entry consumers are not easily persuaded 
+ate alpha 
+adopt new forms payment with unproven ability provide 
+security case point slow adoption mobile payments 
+networks 
+the consumer surveys show that concern around security one the top three reasons for slow adoption mobile 
+think the networks are best positioned benefit from data mon 
+payment among users 
+etization given significant volumes data they generate consumer spending patterns that can leveraged make better decisions 
+and product differentiation new technologies 
+internally improve revenue generation and profitability 
+bined with data analytics are enabling product differentiation 
+sharpen fraud management tools externally generate new rev 
+and increased transactions example large number 
+enue streams help merchants make better marketing decisions 
+card transactions get declines they show false posi 
+exchange for fee 
+tives fraud screens this may happen when cardholder 
+traveling and uses the card outside its normal zip code the 
+virtue being the largest payment network potentially has the 
+alone billion that volume was declined 
+largest breadth consumer data which positions for higher chan 
+screened false positive use data generated through 
+ces success however unlike axp which closed loop network 
+mobile location technology has enabled networks help 
+and not have depth consumer data such personal info 
+issuers eliminate such false positives 
+like address annual income etc networks typically also not 
+have sku level information consumer transactions determine 
+external monetization opportunity for card networks 
+share wallet the product level but given their central role the 
+payments ecosystem think they are well positioned partner 
+key takeaway our report journey from insight value that 
+with both merchants and issuer clients enhance their data sets are 
+effective use data within the four walls the first step for success 
+derive more actionable insights 
+fully delivering the external monetization opportunity think 
+this puts and the furthest among the incumbents being able 
+internal monetization opportunity for card networks 
+monetize data externally given the vast amounts consumer 
+data that the networks collect think their business models lend 
+strong data analytics better fraud detection networks 
+themselves high opportunity for external monetization although 
+have long been using data analytics for transaction based risk 
+today the revenues being generated from such avenues are fairly lim 
+scoring that enables real time fraud detection and decision 
+ited 
+ing minimize transaction level risk fraud they accomplish this using triangulating variety information such 
+external data monetization involves leveraging consumer data 
+transactions size location purchase type merchant 
+generate additional revenue streams from third parties can range 
+time purchase etc assign transaction risk score which 
+from simple sale raw data third party marketers delivering 
+can then used approve decline transaction 
+more actionable insights that clients can use boost their own bot 
+notable that global card fraud loss rate has been stable 
+tom line the latter more valuable and hence carries higher moneti 
+slightly down from even 
+zation potential and are well suited for partnerships with both 
+transaction volumes have grown annually over this 
+issuer and merchant clients that could help combine their breadth 
+time frame the industry whole incurred 
+data with depth data from these partners generate actionable 
+billion global fraud losses which was borne 
+insights explore some avenues external monetization for the 
+the issuers and merchants and acquirers using 
+networks below 
+total card payment volumes trillion every 
+increase card fraud losses would lower the industry 
+profitability 
+loyalty solutions for both issuers and merchants net 
+work data can used architect loyalty programs that are 
+focused customer spend and retention according 
+ondk uses over external data sources including checking 
+issuers that leverage its data driven technology for their loy 
+account flows its underwriting algorithm and maintains data 
+alty programs see higher spend from their cardholders 
+base over small businesses thus when small business 
+and their cardholders spend more frequently than 
+applies for loan ondk has established base information plus 
+cardholder that not similar program from per 
+access additional data from which can render decision quickly 
+spective addition any supplemental services they may 
+ondk has also worked partnerships with other providers effi 
+able collect from such client these cardholders will 
+ciently acquire customers most notably through its partnerships 
+generate the revenue card not the program 
+with intuit the and myob australia and importantly ondk 
+new customer acquisition through coupons and offers 
+enabling merchants deliver targeted discounts cardholders acquire new customers and increase sales visa 
+commerce network allows merchants connect transaction data from another merchant and provide those customers with offers and track engagement visa applies the 
+rewards directly the qualifying purchases without the 
+need for consumers physically present coupon loyalty 
+card part this program uber ran promotion boston 
+offering discounts uber riders when they used their visa 
+cards the local shake shack some have called this the 
+uber ization loyalty the network enabling merchants 
+issue rewards without third party loyalty platform 
+now monetizing its underwriting capability directly with traditional 
+lenders signaling that the value its data its model has clear 
+value 
+likewise uses data underwrite though would contend 
+less reliant its own lending history and more reliant certain 
+data points like borrower fico score does use certain data 
+points like users social media presence verify identity and 
+improve efficiency the underwriting process 
+internal monetization opportunity for online lenders 
+credit underwriting and fraud detection ondk close 
+rolling out version its deck score and notes that 
+advisory services has been providing consulting servi 
+with each iteration its model able assign score 
+ces both issuer and retail clients for fee advisory service 
+broader range borrowers internal use this data drives 
+can help benchmark portfolio performance one issuer cus 
+lower loan losses and higher loan growth all else equal 
+tomer another help merchants with decisions around 
+while not directly exposed loan performance likewise ben 
+location for next store opening examples 
+efits from better fraud credit model driving borrower 
+fewer bads rejected and investor interest better net loan 
+online lenders ondk and 
+see online lenders well positioned benefit from the ongoing 
+proliferation consumer and small business data the key their 
+success hinges their ability pull together dozens disparate 
+data sources credit bureaus social media online review websites 
+form coherent view the borrower and what makes this difficult 
+replicate that they have had the opportunity test and refine 
+performance leading higher loan growth 
+efficient customer acquisition ondk leverages its 
+grover model all aspects customer management 
+including recent efforts further optimize customer acquisition spend while still relatively high sales and marketing 
+expense percent originations has both come down 
+from and 
+their analytics tools based loan performance the installment 
+loans they have made over the years while larger fis may have 
+data advantage key finding our research this topic that fis 
+are the early stages the journey towards value creation from 
+data and that complexity data silos large firms still impediment online lending firms the other hand can more nimble 
+application data learnings and result have been able take 
+some share the expense incumbents successfully founds 
+ways address underserved markets additionally acquiring customers efficiently separate source potential differentiation 
+where effective data monetization can help them create edge 
+morgan stanley research 
+external monetization opportunity for online lenders 
+white label partnerships ondk pushing its ondeck 
+service model which works with lenders underwrite 
+and service loans their behalf the difference between this 
+opportunity and internal monetization the higher degree 
+scalability and lower risk associated with such partnership ondk takes credit risk and does not have 
+acquire the customer simply monetizes the underwriting 
+model and application process has developed has simi 
+lar white label partnerships with traditional lenders but the 
+for micro and small merchants but underwriting for larger 
+value provides partners more efficient acquisition 
+smbs those that might use traditional acquirer proc 
+channel rather than differentiated credit underwriter 
+ess that could use further refinement efficiencies based 
+think 
+anecdotes about how difficult can for merchants open 
+merchant acquirers fdc pypl and 
+think certain merchant acquirers have access large pools 
+data that could potentially monetized internally acquirers can 
+use data sell through value added products merchants like fdc 
+clover insightics product and dashboard and analytics 
+internal monetization opportunity for merchant acquirers 
+merchant account underwriting and fraud detection 
+merchant acquirers take credit risk vouching for the legitimacy and financial standing their client merchants both 
+and pypl are leaders efficiently underwriting the risk 
+accounts 
+external monetization opportunity for merchant acquirers 
+value added software acquirers have access robust 
+about merchant data and selling analytics software 
+goal those that have access broad pool smbs 
+including fdc insightics software and analytics 
+data analytics banks 
+betsy graseck ken zerbe manan gosalia jeff adelson steve wald 
+expect data analytics become increasingly important driver bank profitability over the next several years admittedly the 
+banks are only just beginning the process using data analytics improve how they operate and use data but the pace innovation the 
+banks just over the last year two has been staggering our view for the purposes this report address data analytics outside the 
+traditional use case loan underwriting and credit analysis which vital and integral part how banks use customer data 
+where the beef data monetization opportunity the large cap banks 
+best positioned win jpm and syf two different reasons 
+with maintenance costs from there smaller institutions with less 
+breadth scale and private label model jpm the winner breadth 
+potential revenue uplift from data analytics will have invest higher 
+scale larger market share across the broadest set products drives 
+portions their revenues into these table stakes while many will 
+more information about your clients which can used create 
+work with third parties leverage their scale fis fiserv they may 
+more tailored service drive more client engagement scale brings 
+lose ability nimble larger peers with house operations 
+better pricing with internal and external vendors enabling better 
+pricing for clients jpmchase has best class scale with market 
+separately closed loops without all the sku data dfs and axp 
+share credit card spend deposits auto lending with 
+have some the highest risk this because the vast majority 
+chasenet jpm leveraging its consumer position build share with 
+their business model focused consumers yet they have narrow 
+merchants which will drive more targeted offers and marketing the 
+field engagement the credit card product the stakes are high for 
+risk for breadth scale players management can they focus resour 
+them get digital analytics and marketing right and the need 
+ces nimble their pure play competitors 
+invest and deliver efficiently highest the group due their narrow product focus they are vulnerable competitors with greater 
+syf the winner for the private label model private label the mod 
+product breadth who can better understand and therefore market 
+that the other disaggregated players are striving for not just 
+more aggressively their customers digital analytics are put 
+closed loop where the financial institution the card issuer lender 
+place while they are close partners with their merchants they are 
+merchant acquirer and network more like joint venture where 
+not joint venture relationships skus are typically not shared 
+anonymized information shared between merchants and card issu 
+merchants don want give their value third party however 
+ers consumer behaviors drive more efficient targeted offers 
+without this last mile information these closed loop issuers can 
+which drive repeat traffic and lift revenues for both merchant and 
+not drive much value the merchants private label credit card 
+lender while there are several banks that run private label business 
+offers 
+citi capital one wells fargo synchrony financial the pure 
+play the space its service tightly integrated with its merchants 
+big retailers with scale are increasingly willing launch their own 
+and able leverage technology data analytics help drive efficient 
+store card value propositions and pay the rewards necessary drive 
+client acquisition activity and retention why plcc providers have 
+store sales evidenced amazon cash reward product 
+closed loop with the payments done their cards meaning they 
+with syf mobile wallet technology and advances credit under 
+have access all the data customers and their transactions and 
+writing could get the point where consumer could carry 
+can leverage that data figure out the best use retailers market 
+whole plethora store specific use specific cards that are opti 
+ing dollars for offers promotions the risk with plcc providers 
+mized payment and obtain instantaneous credit card approvals 
+they have too narrow window consumer purchases 
+stores their mobile wallets approved via geolocation perhaps 
+with lower credit score impact from different application process 
+who most exposed subscale players and closed loops without 
+ever get there general purpose card players such axp and 
+the sku enabling your platform for digital costly estimates run 
+dfs could more risk their ability retain share not grow 
+from several tens millions high hundred million annually 
+depends their effectiveness deploying digital analytics and marketing 
+morgan stanley research 
+outlook banks consumer credit big data analytics plus mobility means that companies can market targeted offers directly 
+individuals their cell phones best class will using geolocation and tokenized backbones reduce fraud which increases their balance 
+sheet velocity and capacity partnerships with retailers who share 
+sku level data can deliver incremental value add investment accelerates big data analytics become table stakes grow your customer base winners skew those with scale breadth and tight relationships with retailers risks for subscale institutions institutions 
+exhibit 
+the large cap banks and card issuers stand out seeing the highest 
+upside potential from data monetization given potential opportunity 
+and current focus 
+monetization 
+opportunity 
+who delay investments 
+high 
+assessment monetization opportunity 
+within our coverage 
+large cap banks 
+card issuers 
+mid 
+larger midcap banks 
+mid cap banks 
+large cap banks 
+exhibit 
+evaluate our banks coverage available data monetization 
+opportunity and current focus 
+axp 
+bac 
+bbt 
+cof 
+dfs 
+jpm 
+pnc 
+sti 
+syf 
+usb 
+wfc 
+asb 
+bku 
+boh 
+bokf 
+bpop 
+cbsh 
+cfg 
+cfr 
+cma 
+ewbc 
+fhn 
+fitb 
+frc 
+hban 
+key 
+mtb 
+nycb 
+pbct 
+sbny 
+sivb 
+snv 
+tcb 
+vly 
+wbs 
+zion 
+internal 
+monetization 
+opportunity 
+external 
+monetization 
+opportunity 
+total 
+monetization 
+opportunity 
+current progress 
+level focus 
+high 
+mid 
+mid 
+mid 
+high 
+high 
+high 
+mid 
+mid 
+mid 
+high 
+mid 
+mid 
+mid 
+mid 
+mid 
+low 
+low mid 
+mid 
+mid 
+low 
+mid 
+low 
+low mid 
+mid 
+mid 
+mid 
+mid 
+mid 
+low 
+low 
+low mid 
+low 
+mid 
+mid 
+mid 
+low mid 
+low 
+mid 
+low 
+mid 
+mid 
+low 
+mid 
+low 
+mid 
+mid 
+low 
+low 
+low 
+mid 
+mid 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+mid 
+low mid 
+low mid 
+low mid 
+mid high 
+mid 
+mid high 
+mid 
+low mid 
+low mid 
+mid 
+mid 
+mid 
+low mid 
+low 
+low 
+low 
+low 
+low mid 
+low mid 
+low 
+low mid 
+low 
+low 
+low mid 
+low mid 
+low mid 
+low mid 
+low mid 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low mid 
+high 
+high 
+mid 
+mid 
+high 
+high 
+high 
+mid 
+mid 
+mid 
+high 
+high 
+high 
+low mid 
+low 
+low 
+low 
+low 
+low mid 
+low mid 
+low 
+low mid 
+low 
+low 
+low mid 
+low mid 
+low mid 
+low mid 
+low mid 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low mid 
+source morgan stanley research 
+smaller midcap banks 
+low 
+low focus 
+investment 
+high focus 
+investment 
+mid 
+current focus progress 
+source morgan stanley research 
+exhibit 
+large cap banks expenses tied consumer retail banking 
+total expenses 
+consumer related expenses total expenses 
+dfs 
+syf 
+axp 
+cof 
+sti 
+source company data morgan stanley research 
+wfc pnc 
+citi 
+usb 
+jpm 
+bbt 
+bac 
+the key potential beneficiaries banks 
+internal monetization opportunities revenue drivers 
+company 
+opportunity 
+description example 
+current progress 
+potential timing 
+zelle real time payments key area focus for number large cap 
+banks customer retention covers checking accounts data analytics key real time payments controlling fraud risk 
+axp bac bbt 
+nexen simplifies portal access drives ease use which should help 
+citi cof dfs acquisition new customaccount acquisition retention 
+jpm pnc syf ers and retention existing 
+current and evolving 
+syf uses analytics customize offers for cardholders geo location 
+usb wfc 
+customers 
+increase credit card approval rates 
+axp dfs opportunity for closed loop card names further leverage data 
+advantage sku level data for instance tailoring rewards offers specific 
+customers 
+jpm asset management portfolio managers use predictive analytics help 
+axp bac 
+cfg cma cof 
+dfs fitb hban 
+jpm key syf 
+usb wfc 
+bac citi 
+cof jpm stt 
+usb wfc 
+cma fitb frc 
+hban jpm key 
+mtb sti zion 
+asb axp cfg 
+cma key usb 
+zion 
+inform portfolio decisions and optimize returns 
+usb uses machine learning integrated data gain holistic view clients 
+use machine learning pre and help frontline employees better market appropriate whole bank solutions 
+dictive analytics match 
+bac has noted artificial intelligence its innovation pipeline including prediccustomers with suitable 
+tive engagement but already uses with servicing contact centers 
+current progress 
+products better service 
+digital pulse real time big data analytics and visualization platform 
+customers 
+uses machine learning get smarter more info also robots improve efficiency existing systems such solving failed trades 
+cma plans leverage its improved analytics identify new opportunities for 
+revenue part its gear initiative 
+jpm has technologists highly focused recruiting partners with 
+startups strengthening partnerships house teams explore ways 
+broaden use new technologies ondk partnership 
+bac deploys digital ambassadors fin centers 
+fintech solutions developer cof has growth ventures team focused new opportunities has data 
+current and evolving 
+support 
+innovation labs including partnership with university illinois and canada 
+partners fintech firms offering nexen app store innovation centers 
+stt has emerging techonlogy center 
+hban has fast response auto lending platform which can deliver quick 
+responses dealers and same day funding that competitors don have 
+improving the efficiency and sti bought lightstream and has successfully integrated this fast 
+speed underwriting and online consumer lending platform into multiple channels including branches progress 
+transaction processes 
+computers and mobile driving fastest loan growth the bank jpm noted 
+that refined modeling analytics has enabled jpm lower its average fico 
+from today with increase credit losses 
+usb has leveraged big data analytics grow sales revenue from internal 
+introductions since 
+axp last year noted looks identify cross sell opportunities leveraging 
+adding products and feaits revolving big data capabilities 
+tures drive cross selling moving clients nexen should deliver increasing efficiencies progress operation 
+opportunities 
+more data services are added machine learning and client cross sell 
+expands 
+cfg has introduced the citizens checkup target portions its customer 
+base for cross selling additional products 
+morgan stanley research 
+internal monetization opportunities expense savings 
+company 
+opportunity 
+description example 
+current progress potential timing 
+jpm leading simulated cybersecurity exercises peers test its 
+most not all reducing fraud costs operating preparedness for new cyberattacks axp dfs syf other card issu progress 
+large and midcap errors and improving cyberse ers are leveraging data analytics closed loop networks and geo fully operational several 
+banks 
+curity 
+cation drive lower than industry fraud rates 
+large cap and midcap banks 
+cfg refined algorithms are helping reduce fraud 
+zion centralized its loans deposits and customer reporting system 
+axp bac cfg 
+jpm utilizes cloud computing save storage costs analytics 
+citi cof fitb 
+reducing back office expenses identify areas collaboration experimenting machine learning 
+jpm key mtb 
+progress 
+and operations 
+replace manual processes 
+pnc stt usb 
+stt year technology program named beacon investing cloud 
+zion 
+and blockchain technologies increase efficiencies 
+fitb cfg cma and key are among the many banks that have explicitly begun plans reduce their branch footprints over time 
+vly closing branches the second half and investing 
+asb bac bbt 
+bku bpop 
+cfg citi cma 
+reducing the number and size 
+cof fitb 
+branches based customer 
+hban jpm key 
+and transaction data 
+pnc sti 
+snv tcb usb 
+vly zion 
+interactive atms and video tellers pnc leverages customer activity 
+data branch consolidation decisions 
+citi over time expanding digital channels drive better engagement 
+help rationalize branch network new branches use smart banking 
+progress 
+model bringing more clients than traditional branches 
+bac retooling financial service centers into digital located customer service centers taking footprint today this 
+new format over time 
+bbt increasing use automation and software execute repeatable 
+tasks drive productivity lowering need for space bbt expects 
+office branch square footage down another over years 
+external monetization opportunities 
+company 
+opportunity 
+description example 
+current progress potential timing 
+bac bbt cof real time payments potential 
+bank owners zelle platform have opportunity generate new revjpm pnc 
+revenue stream for large cap 
+progress 
+enue stream allowing other banks join platform for fee 
+usb wfc 
+banks 
+deeper dive data analytics banks 
+there are several ways that banks can potentially use data analytics 
+the impetus this innovation around data means academic 
+expense savings internal revenue generation and external reve 
+the table stakes are rising for the banks when comes client 
+nue generation defined the boston consulting group most 
+engagement and being able provide the products and services cli 
+the opportunities for the banks are considered internal nature 
+ents demand when and how they want them this can seen most 
+pertaining banks existing operations including revenue gen 
+acutely investors and customers compare banks with fintech 
+eration rather than external completely new revenue opportuni 
+companies fintechs offer accessible and intuitive interfaces with 
+ties that were not available known prior data analysis 
+and technology drive improved profitability including internal 
+faster decision making and streamlined product delivery that can 
+vastly superior that offered many traditional banks custom 
+internal revenue opportunities are largely based around increased 
+expectations increase banks will either need evolve meet 
+customer acquisition improved client retention greater cross sell 
+fintech challenges which can include partnering with fintech 
+ing new products existing customers using technology 
+panies face gradual obsolescence the bar high banks must 
+improve customer experience thus driving new lending opportuni 
+integrate these new products and services seamlessly into their lega 
+ties for example citizens has discussed using data analytics pre 
+systems and way that preserves data security 
+approve customers for home equity line based browsing history 
+for say new kitchen jpm partnering with ondk make loans 
+small businesses providing jpm with user friendly platform that 
+exhibit 
+bac increasingly digitizing the bank 
+reduces time underwrite synchrony using geo location 
+increase approval rates for credit cards applications while decreasing 
+fraud usb using machine learning assess what products customer might interested next client retention can just vital 
+bank profitability making new loan synchrony for example 
+leverages data analytics help drive growth performance retail 
+partners using tools develop consumer profiles track behavioral 
+trends and develop predictive models optimize touch points 
+these personalized interactions help improve customer satisfaction 
+and retention while the same time enable customers more 
+seamlessly utilize the service and expand their engagement 
+internal expense reduction opportunities can just important not more growing revenues the two primary areas 
+potential cost savings due data analytics are reducing fraud costs 
+source company presentation 
+exhibit 
+bac innovation pipeline 
+and streamlining branch footprints banks are approaching fraud mitigation through several channels beyond just the introduction 
+chip enabled cards usb for example using machine learning 
+improve real time fraud detection while citigroup has developed 
+new tools that use predictive analytics lower fraud risks and overpayment for clients similarly some card issuers such usb are 
+using geo location data reduce fraud costs the branch side the 
+number branches declined net last year down 
+branches according snl banks seek reduce 
+expenses drive better profitability through branch optimization 
+banks are using data analytics better assess which branches could 
+potentially closed without sacrificing unacceptable amount 
+revenue along the same lines citi has been deploying smart bank 
+source company presentation 
+ing model with its new branches which bring more clients 
+than traditional branches according the company 
+external opportunities for monetization data are lower level 
+exhibit 
+usb leverages machine learnings data analytics and artificial intelligence form degree view customers 
+priority given privacy and competitive concerns there are some 
+opportunities for hard dollar fees though primarily through corporate corporate relaionship one example zelle renamed from 
+clearxchange which enables seamless real time peer peer payments via emails from your smartphone see our big debates 
+note the seven banks that own zelle have been building for the 
+past years even with the deposits the country these seven banks bac wells jpm usb cof bbt pnc are eager for others 
+join increase ubiquity and reduce payment risk for small 
+fee while think the greatest revenue opportunities the banks 
+initially will internally focused driving increased lending fee 
+revenues related cross sell clear that several the larger 
+banks are already considering how monetize data beyond their tra 
+source company presentation 
+ditional banking business 
+morgan stanley research 
+exhibit 
+usb focusing predictive analysis 
+exhibit 
+data and analytics focus jpm technology strategy 
+source company presentation 
+source company presentation 
+exhibit 
+wfc sees applicability behavioral and predictive analysis medium and long term 
+source company presentation 
+brokers asset managers data monetization 
+michael cyprys 
+within brokers and asset managers data and quant analytics are means remaining competitive industry facing intensifying 
+disruptive threats which discussed our state the industry report see three sources upside from data analytics 
+for alternative asset managers generating better capital 
+despite the clear advantages leveraging data drive greater effi 
+allocation and investment decisions through portfolio data 
+ciency growth and competitive advantage the cost develop 
+aggregation alternative managers such kkr and 
+ment and implementation remain key hurdles for most along mar 
+stand benefit from the use mining proprietary macro 
+gins are under pressure but upcoming regulatory change including 
+and micro portfolio company data help support and 
+the dol fiduciary rule could act catalyst for change that could 
+enhance future investment decisions key insights could 
+accelerate and prioritize investments 
+uncovered from private company data including creation 
+unique indices measure gdp regions with less reliable 
+best positioned aggregate data initiatives thus far have 
+public data 
+remained nascent development stages but there are few key 
+for traditional asset managers more efficient client acquisi 
+leaders blk schw think increasingly challenging oper 
+tion retention and greater client engagement see 
+ating environment and new regulation could drive more companies 
+opportunity for traditional asset managers improve client 
+embrace strategic data initiatives order source growth oppor 
+segmentation and generate predictive analytics more 
+tunities more effectively but key challenges include cost devel 
+effectively sell products firms that harness data most effec 
+deploy data initiatives this data analytics core competency 
+tively typically have robust crm systems and dedicated 
+and inertia change 
+data analytics team that analyzes reams data for sales 
+teams order drive meaningful market share gains 
+outlook brokers asset managers expect 
+almost national sales managers cite predictive ana 
+the disparity between leading asset managers and laggards widen 
+lytics priority over the next years according cer 
+leading firms will harness proprietary data and leverage analytics 
+ulli industry survey also see opportunities portfolio 
+capabilities improve investment outcomes and risk capabilities 
+risk management which already key differentiator and 
+firms that are leaders analytics capabilities will have more efficient 
+external monetization opportunity blk using their aladdin 
+customer acquisition and retention strategies driving meaningful 
+platform further see opportunities harnessing big data 
+market share gains see blk and schw best positioned 
+analytics generate better investment insights 
+given their commitment technology investments and existing 
+for the brokers see opportunities use customer data 
+leadership position that should continue 
+drive greater client engagement levels predictive analytics create more customized offerings and drive better 
+insights about key business drivers 
+morgan stanley research 
+assessment monetization opportunity 
+within our coverage 
+exhibit 
+evaluate our coverage available data monetization opportunity 
+and current focus 
+exhibit 
+blk and schw have highest upside potential from data monetization 
+source morgan stanley research 
+source morgan stanley research 
+sales and marketing expense within 
+brokers asset managers 
+exhibit 
+sales marketing spend ticking recent years data monetization 
+may drive additional upside operating leverage 
+source company data morgan stanley research note due limited company disclosures sales and 
+marketing spend use proxy for some companies our coverage 
+the key potential beneficiaries within brokers asset managers 
+monetization opportunities 
+company 
+opportunity 
+description example 
+current progress potential timing 
+greater use data the sales process improve advisor segmentation and drive better wholesaler coverage focus advisor home 
+customer acquisition reten office and focus advisors who are more inclined use active products 
+blk ben ivz 
+current and evolving 
+tion 
+opposed passive generate predictive analytics determine 
+future opportunities and anticipate respond client needs identify 
+behaviors that lead advisors recommend specific product 
+data mining through working with deal team gain investment insights 
+kkr 
+investment insights 
+create customized index trackers predictors inform macro views drive current and evolving 
+greater efficiency allocating capital and generating returns 
+providing higher level client engagement and service limited partner 
+soft dollar client acquisition 
+fund investors clients with differentiated insights sourced from portfolio current and evolving 
+and retention 
+company data aggregation 
+greater use data engage clients more effectively encourage 
+greater transactional activity generate predictive analytics create 
+schw etfc client retention and engagemore tailored offerings provide better customer experience and drive 
+current and evolving 
+amtd 
+ment 
+better conversations drive better insights about business drivers better tailor acquisition strategies understanding more granular level where how net new money and accounts are coming 
+internal risk infrastructure that has complete portfolio holding transparency overlayed with market data scenario analysis and risk metrics can 
+blk 
+risk management 
+help drive more informed views and decision making see growing 
+current 
+opportunities monetize this risk infrastructure for external institutional 
+and retail intermediary clients 
+exhibit 
+sales and marketing costs represent modest cost for the brokers and asset managers highlighting the nascent opportunity and potential runway 
+leverage spend 
+source company data morgan stanley research traditional asset managers ben blk ivz jns omam trow wdr wetf alternative asset managers apo ares kkr oak brokers amtd etfc lpla 
+schw due limited company disclosures sales and marketing spend use proxy for some companies our coverage 
+morgan stanley research 
+monetization european banks 
+fiona simpson bruce hamilton alvaro serrano 
+internal monetization opportunities most compelling paving 
+accessing other banks data their customer base for example 
+the way lower operating costs better risk management and 
+building financial management tools which incorporate all products 
+improved customer experience for the banks europe 
+owned customer across multiple providers the threat also 
+see the internal monetization opportunities for banks most 
+clear non bank providers could step into the client relationship pro 
+pelling better operational efficiency key area focus for most 
+viding user friendly interfaces offer payment services and financial 
+management teams the sector with better data handling area 
+advice such think its not surprising that more and more banks 
+improvement for example straight through processing with cus 
+are working strategies improve customer experience and reten 
+tomer input into mobile online interface results lower cost 
+tion 
+less branch based activity fewer back office data entry employees reduced operating errors well better experience for the 
+our joint report with bcg highlights increased regulation around 
+customer addition european bank management teams are increas 
+data privacy may also constrain the opportunity set for european 
+ingly thinking about how deepen customer relationships for 
+banks and indeed for other would monetizers financial services 
+example providing pre approved loans mobile banking apps for 
+data europe the general data protection regulation gdpr 
+current account customers cash back retail spending with cer 
+adopted april for implementation may includes regu 
+tain merchants the sector whole increasingly focussing the 
+lation restrict cross border data transfer requires explicit consent 
+opportunity from data and technology with heads innovation and 
+from customers for data collection well right forgotten 
+digital becoming increasingly prevalent across the sector some 
+the penalties for non compliance are meaningful glob 
+cases sitting board level see external opportunities driving 
+revenues 
+new revenue streams from data monetization low level opportunity for most banks the sector this point time given regulato 
+outlook will fully embedded europe 
+constraints for example the conduct regulation and the 
+best class banks take share home markets capitalising 
+experience ppi has raised the bar for new product development 
+newly available data create fuller understanding customers 
+and driving cross sell banking and other products data made avail 
+looking forwards expect regulatory change catalyse fur 
+able through paves the way acquiring customers new mar 
+ther progress but also increase the threat from non bank provid 
+kets across europe driving superior revenue growth opportunities 
+ers payment services directive mandates opening bank data 
+for winners fintechs who successfully leverage new data sources 
+around payments allowing third parties request customer data 
+are targeted for acquisition and partnership with scale players 
+and push direct payments from bank accounts the directive applies 
+winners are those who embrace the opportunities presented the 
+all european banks the the competition and markets 
+new regulatory environment and invest early people and infra 
+authority banking market investigation mandates adoption open 
+structure support innovation today bbva ing and the nordic 
+banking whereby personal and small business customers are ena 
+banks look best placed our view see greatest risks for those 
+bled share data securely with other banks and third parties these 
+who are constrained low profitability and legacy systems and 
+two initiatives are forcing banks develop strategies allow third 
+where management teams must deal with more pressing issues 
+parties access customer data for example bbva has already 
+such resolving npls and litigation restructuring underperform 
+launched pilot for apis their spanish and business and others 
+ing investment banking operations rather than setting and execut 
+are likely follow through some management teams are also 
+ing long term digital strategy 
+considering the potential benefits that could bring terms 
+exhibit 
+exhibit 
+evaluate our coverage available data monetization opportunity 
+see similar level opportunity across the sector but greater varie 
+and current focus 
+focus and investment see nordic spanish and benelux banks 
+rbs 
+lloyds 
+barclays 
+hsbc 
+bnp 
+socgen 
+credit agricole 
+abn 
+ing 
+kbc 
+deutsche bank 
+credit suisse 
+ubs 
+intesa 
+unicredit 
+bbva 
+santander 
+swedbank 
+seb 
+shb 
+nordea 
+danske 
+internal 
+monetization 
+opportunity 
+mid 
+mid 
+mid high 
+mid 
+mid 
+mid high 
+low mid 
+mid 
+high 
+mid 
+mid high 
+mid high 
+mid 
+mid 
+mid 
+high 
+mid 
+high 
+mid high 
+mid high 
+high 
+high 
+external 
+monetization 
+opportunity 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+mid 
+low 
+low 
+low 
+low 
+low 
+low 
+mid 
+low 
+mid 
+mid 
+mid 
+mid 
+mid 
+total 
+monetization 
+opportunity 
+mid 
+mid 
+mid 
+mid 
+mid 
+mid 
+low mid 
+mid 
+mid high 
+mid 
+mid 
+mid 
+mid 
+mid 
+mid 
+mid high 
+mid 
+mid high 
+mid 
+mid 
+mid high 
+mid high 
+current progress 
+level focus 
+mid 
+mid 
+high 
+mid 
+mid 
+mid 
+low mid 
+mid 
+high 
+mid 
+low 
+mid high 
+high 
+mid 
+low 
+high 
+mid 
+high 
+mid high 
+mid high 
+high 
+high 
+best placed while italian and german banks face more pressing 
+issues elsewhere 
+monetization 
+opportunity 
+high 
+nordic banks 
+french swiss 
+banks 
+mid 
+spanish benelux 
+banks 
+italian german banks 
+low 
+low focus 
+investment 
+source morgan stanley research 
+mid 
+high focus 
+investment 
+current focus progress 
+source morgan stanley research 
+morgan stanley research 
+exhibit 
+revenue drivers 
+opportunity 
+acquisition new customers and retention existing 
+customers 
+internal monetization opportunities revenue drivers 
+description example 
+current progress potential timing 
+barc lloy are using customer data pre approve unsecured loan limits and rates for existing current account customers current 
+which can drawn down via mobile online banking interface 
+barc smartspend platform provides customers with exclusive offers from retailers expedia gap boots 
+bbva driving user experience improvements through better processes and interfaces for example digital onboarding oneclick products and digital wallets 
+abn remote advice face time with advisors being rolled out nationally enhanced customer insights through big data 
+gathering 
+bnp app partnership with carrefour combining instore and online payment loyalty programmes and discount coupon will next year combined with similar service fivory offered credit mutuel with mastercard oney total and auchan 
+retail 
+swedbank app allows one click mortgage renewal individualised interest rates 
+open banking apis 
+payment services directive mandates opening bank data around payments allowing third parties request customer 
+data and push direct payments from bank accounts the directive applies all european banks the the competition 
+and markets authority banking market investigation mandates adoption open banking whereby personal and small 
+business customers are enabled share data securely with other banks and third parties 
+ing launched pilot its yolt aggregator app where does not currently have retail banking operation october 
+which integrates users bank accounts including savings and credit card accounts one dashboard which provides 
+insights spending behaviour 
+bbva launched its api market pilot mode earlier providing series apis which enable third party companies 
+leverage bbva customer data for example with the customer permission accessing data identity payments using 
+aggregated and anonymised data bbva customer activity 
+swish retail payment system owned swedish banks inc seb nordea handelsbanken swedbank offers instant 
+omni channel payment processing across stores and online users only need the counterparty mobile phone number order 
+instantly process payments 
+danske bank launched mobilepay digital wallet denmark facilitate simple payments between individuals and 
+businesses customers other banks can and total customers use the app which has now been deployed 
+norway and finland 
+seb partnering and investing fintech start tink which applies data analytics aggregated financial transaction 
+information allow customers follow their own spending patterns over time 
+progress implemented from 
+jan across europe cma requires 
+banks implement open banking 
+early 
+use machine learning predictive analytics match 
+customers with suitable products better service 
+customers 
+progress 
+barc smartbusiness provides smes with big data analytics increase insight into their business for example trends and 
+figures incomings and outgoings customer profile and sending behaviour 
+ubs using predictive analytics better tailor research offering their hnwi clients 
+hsbc investing further analytics including digital targeting and real time loan offer capability 
+swedbank using analytics generate card linked personalised offers their app matching consumer spending patterns with 
+relevant offers off swedish car supplies retail chain biltema response large car supply expenditures and 
+rewarding offer take ups with cash backs 
+fintech solutions developer support 
+bbva partners with and invests across the fintech ecosystem through its internal incubator strategic partnerships and its 
+venture capital fund propel for example stake atom bank the strategic partneship with ondeck 
+investment coinbase 
+santander launched fund innoventures july portfolio companies include socure digital identity 
+sigfig wealth management ripple digital asset elliptic blockchain kabbage companies financing cyanogen mobile 
+ecosystems mycheck and izettle payments 
+intesa launched fund 
+unicredit establised joint venture with anthemis group back fintech startups 
+ubs partnering with sigfig roboadvice 
+barc accelerator based new york and london run partnership with techstars 
+ing partners with fintech firms kabbage line lender sme welab online lending platform 
+cred village start investment programme 
+swedbank partnering with fintech start sprinklebit crowdsourced investing platform and dreams automated 
+savings system which uses analytics move balance into savings account based expenditure needs and patterns 
+current and evolving 
+improving the efficiency and speed underwriting and 
+transaction processes 
+bbva has partnered with ondeck the using ondeck scoring system assess sme loan applications 
+santander have reduced the time complete mortgage application from hours minutes and time from 
+application offer from days days through new end end digital process 
+ing instant lending platform for sme consumer lending leveraging kabbage technology 
+bnp improving pricing and risk scoring management leveraging data analysis 
+cred multi channel distribution model allows home loan application delivered digitally 
+progress 
+adding products and features drive cross selling 
+opportunities 
+santander have launched online investment hub the providing easy access santander investment plus further 
+funds 
+barclays using the mobile banking app offer barclaycard credit cards for pre selected cohort retail banking 
+customers 
+progress 
+source company data morgan stanley research 
+exhibit 
+expense savings 
+opportunity 
+reducing fraud costs operating errors and improving 
+cybersecurity 
+reducing back office expenses 
+and operations branch networks 
+source company data morgan stanley research 
+internal monetization opportunities expense savings 
+description example 
+current progress potential timing 
+progress 
+ubs rolling out robo advice some areas ubs asia switzerland not just streamline costs but also 
+reduce back office errors aml etc 
+barc using finger vein technology for quick and secure identification for corporate customers 
+most european banks are investng data solutions which result lower cost operations through paper free straight 
+progress 
+through processing reduced use branches and reducing number platforms 
+dbk focus improving systems goal reduce operating systems from increase virtualisation from 
+increase private cloud adoption from reduce intersystem reconciliations from etc part 
+strategy 
+lloy targeting run rate savings from process redesign and automation 
+ing moving globally scaleable platform streamlining and standardisation expected drive annual cost saves 
+with global data management process management leveraging robotics modular architecture faster deployment 
+shared services efficiency improvement 
+hsbc deploying digital utilities signature document upload simplify the ustomer experience and enable straight through 
+processing 
+nordea replatforming new common core systems 
+eemea banks and the potential leapfrog 
+peers 
+samuel goodacre danny anson jones 
+internal monetization 
+rapidly growing engagement with online and mobile platforms 
+turkish peers increasing networks average without mak 
+bined with lower average age than developed markets has given 
+ing market share gains this has given akbank huge advantage 
+rise huge reservoir data for financial service providers 
+terms efficiency their cost average assets ratio best class 
+eemea recent years arguably some instances banks our cov 
+amongst turkish banks sector average given the low 
+erage have been ahead the curve when comes monetizing this 
+correlation between branch openings closure eemea and market 
+data and taking advantage the direct access customers through 
+share changes believe that banks with comfortable market 
+online and mobile services hungarian bank otp was one the first 
+shares but low efficiency high cost assets ratio are best placed 
+banks globally launch internet banking platform and 
+leverage digital innovations cut branches and boost margins while 
+since then four virtual banks have been launched eeemea alior 
+maintaining stable market share illustrate this created the 
+sync alior touchbank otp russia buddybank pekao and tin 
+matrix the next section 
+koff aimed creating branchless network and pioneering fully digitalised document flow the cost optimization benefits should these 
+shown exhibit eeema banks spent average reve 
+ventures take off arguably are meaningful 
+nues marketing and sales using client data tailor promotions and offers according individual client preferences highly 
+even without the end goal branchless network some banks 
+valuable akbank uses their digital platform for data analytics 
+have stated estimate significant impact bottom lines via 
+boost revenue using targeted products yapi kredi another turkish 
+rationalization cost bases that data monetization would allow 
+lender uses data tailor loans and insurance bundles their cli 
+increased use data client acquisition underwriting and risk man 
+ents increasing revenues from bancassurance tinkoff their recent 
+agement may reduce the need branches their current format 
+strategy day spoke the free internet traffic the online current 
+this could lead outright reduction branch numbers which 
+account tinkoff black gifts them and how they intend use this 
+what already are experiencing some markets one method 
+cross selling third party products from data analytics perspective 
+banks seem employing using data understand behaviour 
+alior was the first bank poland use the secure ibm mobilefirst 
+and preferences order move transactions direct channels 
+system for ios apps allowing employees mobile access individual 
+telephone online mobile rather than branch the trendsetter 
+customer data ipad they could provide personalized recom 
+this regard turkish bank akbank over reduced branch 
+mendations and offers both within and outside the branches 
+numbers while maintaining stable market share compared 
+morgan stanley research 
+where see highest potential 
+outsized opportunity given their comfortable market share believe banks that fall within the green circle below would find 
+easiest improve efficiencies particularly have found limited market share impact from network reduction which may 
+explained greater innovation deployed banking services 
+red circle risk contrast banks with low market share and low existing efficiencies arguably may less able rationalize their 
+cost bases given implied future investment need truly disruptive technology could one work around may the case with alior 
+and tinkoff 
+efficiency 
+high 
+low market 
+share 
+high market 
+share 
+efficiency 
+low 
+source morgan stanley research company data central bank data tcs screens poorly due its relatively small balance sheet 
+methodology 
+high low market share determined share assets and relative other banks that region for 
+high low efficiency determined the basis mse cost assets and relative other banks that region 
+external monetization 
+are usually signed one delivered the customer and the other 
+terms internal monetization the motivations and the strategies 
+near infrared finger vein mapping technology virtual signature 
+adopted are similar eemea for however believe there 
+using this infrared technology overcomes many issues with finger 
+are certain names our coverage which are amongst global trend 
+print such reduced effectiveness the skin dry cut 
+archived the bank wbk created paperless process using 
+setters terms external monetization data and technology 
+have seen emerging markets the past technological leap 
+see transformative ideas flowing from russia also perhaps one 
+frog can occur when the infrastructure developed markets its 
+the most innovative financial businesses globally tinkoff 
+more established but crucially more outdated well worn example 
+branchless online financial services provider from foundation 
+would the rapid adoption mobile payment technologies afri 
+they are now the second largest credit card company russia 
+such pesa kenya versus more developed markets where 
+using their sophisticated online platform and expertise they are 
+branch banking was stickier and uptake mobile payments slower 
+intent becoming financial supermarket where once they used 
+their platform provide financial services without the need for bran 
+see poland european hub for digital innovation finance see 
+ches they are now externally monetizing this platform via third party 
+exhibit shining light this regard alior bank who launched 
+agreements with insurance and mortgage providers the russian 
+alior sync virtual bank with access employees via video audio 
+giant sberbank has over million users their online banking ser 
+text chat years before several peers had developed 
+vice this particularly cost effective russia where the population 
+their mobile banking apps what more alior has leveraged this plat 
+density some regions very low and physical branch would 
+form form partnership with mobile data exchanged mutual 
+very inefficient now sberbank plans connect their massive online 
+thus data analytics are monetized internally and externally 
+retail population their corporate clients form digital hyper 
+bile has access alior financial services and banking technology 
+market the moment million companies and products 
+and return alior has access data mobile million users 
+are but the plan for all sberbank corporate clients one day 
+since launch this service may customers have been 
+able place their goods and services this platform this 
+acquired wbk poland third largest lender piloted paperless 
+particularly innovative external monetization which have not 
+branches last year when originating loan two printed documents 
+seen developed markets 
+exhibit 
+exhibit 
+evaluate our coverage available data monetization opportunity 
+polish and turkish banks lead the way eemea 
+and current focus 
+monetization 
+opportunity 
+akbank 
+garanti 
+halkbank 
+isbank 
+vakifbank 
+yapi kredi 
+sber 
+tcs 
+vtb 
+alpha 
+eurobank 
+nbg 
+piraeus 
+alior 
+pekao 
+pko 
+wbk 
+komercni 
+otp 
+internal 
+monetization 
+opportunity 
+external 
+monetization 
+opportunity 
+total 
+monetization 
+opportunity 
+current progress 
+level focus 
+high 
+high 
+mid 
+high 
+low 
+mid 
+high 
+high 
+low 
+low 
+low 
+low 
+low 
+high 
+mid 
+high 
+mid 
+high 
+high 
+high 
+low 
+low 
+low 
+low 
+low 
+high 
+high 
+low 
+low 
+low 
+low 
+low 
+mid 
+low 
+low 
+low 
+low 
+low 
+high 
+high 
+mid 
+high 
+low 
+mid 
+high 
+high 
+low 
+low 
+low 
+low 
+low 
+high 
+mid 
+high 
+mid 
+high 
+high 
+high 
+high 
+mid 
+mid 
+low 
+mid 
+high 
+high 
+low 
+mid 
+mid 
+low 
+low 
+high 
+high 
+high 
+high 
+high 
+high 
+high 
+hungary banks 
+turkey 
+banks 
+russia banks 
+mid 
+polish 
+banks 
+czech 
+banks 
+greece 
+banks 
+low 
+low focus 
+investment 
+mid 
+high focus 
+investment 
+current focus progress 
+source morgan stanley research 
+source morgan stanley research 
+morgan stanley research 
+exhibit 
+banks spend average revenues sales and marketing 
+sales marketing spend revenues 
+sberbank 
+vakifbank 
+garanti 
+alpha 
+akbank 
+yapikredi 
+otp 
+isbank 
+vtb 
+halkbank 
+firstrand 
+alior 
+komercni 
+bzwbk 
+tcs 
+piraeus 
+source company data morgan stanley research data not available for eurobank nbg pko 
+internal monetization opportunities revenue drivers 
+opportunity 
+description example 
+progress 
+otp have partnered with kika and tesco create loyalty programme with customizable discount offers 
+acquisition new customers and retention existing 
+alior has partnered with mobile order persuade their million users open account with them 
+customers 
+garanti was the first bank turkey facilitate money transfer via facebook twitter 
+current 
+use machine learning predictive analytics match 
+customers with suitable products better service 
+customers 
+current 
+alior employees have secure mobile access customer data ipad provide personalized offers 
+akbank developed new analytical system manage the limits retail acustomers according their habits 
+komb made possible electronic drawing loans guarantees and documentary payments 
+improving the efficiency and speed underwriting and 
+akbank all originations general purpose loans were done through digital channels 
+transaction processes 
+isbank an nda kredi instant loan allow retail loan applications from the internet branch 
+adding products and features drive cross selling 
+komb has expanded its etrading line platform for corporate client currency operations 
+opportunities 
+yapi kredi offers customers life insurance products bundled together with gpls via its digital channels 
+sberbank hosts the digital bank the future contest for students polesk state university 
+fintech solutions 
+eurobank hosts the greece innovates competition 
+internal monetization opportunities expense savings 
+opportunity 
+description example 
+reducing fraud costs operating errors and improving 
+komb made accessible clients ibm state the art solution for protecting internet banking clients 
+cybersecurity 
+current 
+current 
+current 
+progress 
+current 
+reducing back office expenses and operations 
+wbk trialled paper less branch pilot using near infrared vein mapping signature finger prints are 
+unreliable skin dry scarred etc 
+akbank efts and bill payments are performed through the online telephone 
+current 
+reducing the number and size branches based 
+customer and transaction data 
+tinkoff branchless online bank which predominantly credit card issue 
+otp touch bank digital bank part otp bank russia targting young affluent customers 
+pekao buddybank pure mobile customer experience with concierge 
+current 
+external monetization opportunities 
+opportunity 
+description example 
+progress 
+joint ventures 
+alior partnered with mobile mobile gets access alior financial services and online banking technology 
+current 
+third party products 
+tinkoff leveraging its sophisticated online platform and expertise sell third party insurance products 
+sberbank connects million companies and million users sberbank online via single platform there are 
+plans for all sberbank corporate clients one day able place goods and services this platform 
+current 
+digital hypermarket 
+pilot 
+data analytics china banks and online 
+lenders 
+richard 
+banking system china currently has vast amount data from both corporates and households banks still control around funding 
+base and allocate around capital china banks process most the payment activities banks have more complete household 
+information due the strict information requirement during bank account openings and china financial regulations require most nonbank 
+financial firms third party custodian accounts major banks for their customers addition still high market share the major state own 
+banks provides the major banks even more advantage the customer data front 
+outlook china financials expect that china financials will see large development proprietary data and analytics 
+capabilities under the guidance banking development the next five year plan china for china banks banks with strong retail franchise 
+will likely drive higher monetization for online lenders like yirendai those which have better data and analytics abilities customer acquisition 
+and credit underwriting should stand out 
+assessment monetization opportunity within our coverage 
+exhibit 
+exhibit 
+evaluate our coverage available data monetization opportunity 
+big commercial banks and yirendai see the highest upside potential 
+and current focus 
+icbc 
+ccb 
+boc 
+abc 
+bocom 
+cmb 
+minsheng 
+citic 
+everbright 
+crcb 
+bocq 
+huishang 
+industrial 
+pingan 
+spdb 
+huaxia 
+yirendai 
+internal 
+monetization 
+oppty 
+high 
+high 
+high 
+mid 
+mid 
+high 
+mid 
+mid 
+mid 
+low 
+low 
+low 
+mid 
+high 
+mid 
+mid 
+mid 
+from data monetization given potential opportunity and current focus 
+external 
+monetization 
+opportunity 
+mid 
+mid 
+mid 
+mid 
+low 
+mid 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+mid 
+low 
+low 
+low 
+source morgan stanley research 
+total 
+monetization 
+opportunity 
+high 
+high 
+high 
+mid 
+mid 
+high 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+mid 
+low 
+low 
+mid 
+current progress 
+level focus 
+mid 
+mid 
+mid 
+low 
+low 
+mid 
+low 
+low 
+low 
+low 
+low 
+low 
+low 
+mid 
+low 
+low 
+mid 
+monetization 
+opportunity 
+icbc 
+ccb 
+boc 
+cmb 
+high 
+abc 
+bocom yirendai 
+pab 
+mid 
+low 
+crcb msb 
+cib 
+spdb bocq citic 
+huishang hxb ceb 
+low focus 
+investment 
+mid 
+high focus 
+investment 
+current focus progress 
+source morgan stanley research 
+morgan stanley research 
+exhibit 
+banks and yirendai monetization opportunities 
+company 
+banks 
+opportunity 
+loan application 
+bank card referral 
+wealth management 
+advisory services 
+cash management 
+yirendai 
+risk management 
+company 
+industrial 
+bank 
+opportunity 
+low cost deposit 
+pingan 
+bank 
+trade finance 
+internal monetization opportunities 
+description example 
+being the salary delivery bank knows the financial positions depositers well and can pre select potential 
+good borrowers and send loan application invitation them 
+banks can recommend credit cards those without credit card those who prefer get points 
+consumption specific store 
+banks can suggest wealth management products their own third party based the risk appetite 
+clients 
+banks can help advise the financing issues for their clients 
+banks can provide corporates wide range solutions that can help them improve liquidity and cash flow 
+and optimise treasury and payment business 
+over decision making rules and watchlist with over fraud detection datapoints support 
+yirendai risk management and fraud detection 
+external monetization opportunities 
+description example 
+industrial bank enables the interconnection the system with over banks and customers can freely 
+deposit withdraw transfer money and repay credit cards any the branches these banks the 
+interconnection the system helps serve more customers especially helpful for city commercial banks with 
+only local branches and return helps banks absorb more low cost deposits 
+current progress potential timing 
+emerging 
+emerging 
+emerging 
+emerging 
+emerging 
+emerging 
+current progress potential timing 
+progress 
+ping bank has established line market place for trade finance business leveraging its experience and 
+data trade finance with more comprehensive data trade finance activities china the bank trying 
+earn fee facilitating certain trades and attract more trade finance business the bank 
+progress 
+source morgan stanley research 
+exhibit 
+yirendai has operating record just four years the sales and marketing expense revenue remains high 
+online lender revenue 
+covered companies 
+revenue 
+total revenue 
+marketing spend revenue rhs 
+operating margins rhs 
+source quarterly report 
+exhibit 
+data monetization should benefit yirendai credit underwriting and potentially customer acquisition 
+online lender subsector 
+online lenders yirendai 
+total 
+source quarterly report 
+sales mkt revenue 
+div 
+sales marketing spend 
+deeper dive data analytics china financials 
+due the high profitability corporate banking the past data 
+industrial bank which enables the interconnection the system 
+analytic was largely used for risk management and control the 
+with over banks and customers can freely deposit withdraw 
+past household financial assets continue increase high dou 
+transfer money and repay credit cards any the branches these 
+ble digit rates recent years combined with rapid development 
+banks the interconnection the system helps serve more cus 
+retail lending and investment products profitability for retail bank 
+tomers especially helpful for city commercial banks with only local 
+ing have increased which triggered more investments for data analyt 
+branches and return helps banks absorb more low cost deposits 
+ics retail banking business recent years 
+ping bank has established line market place for trade finance 
+business leveraging its experience and data trade finance with 
+several banks have established centralized customer data analytic 
+more comprehensive data trade finance activities china the 
+department better understand client risk profile and financial 
+bank trying earn fee facilitating certain trades and attract more 
+product needs this has allowed several banks improve the effi 
+trade finance business the bank 
+ciency retail loan risk management process provide white list 
+potential consumer credit borrowers conduct targeted marketing 
+yirendai the only listed platform china strives use data 
+campaigns for consumer loan products and wealth management 
+analytics improve its credit underwriting capability yirendai uses 
+products based upon results data analytics and deliver greater 
+fraud detection system appraise the credit profile borrowers 
+real time access products and services several banks indicated 
+the system combines quantitative modeling for finding inconsisten 
+that this has help them save marketing expenses and improve cross 
+cies loan application internet technology for verification and 
+sell though most banks have not quantify specific amount expens 
+monitoring offline verification for double checking inconsistencies 
+saved 
+and the use third parties check online behaviour and criminal 
+history yirendai also contains watchlist with over fraud 
+due more strict regulation for banks external monetization still 
+detection datapoints leveraging such extensive credit database 
+the early stage banks need protect the customer data and 
+yirendai can lower its credit risk 
+avoid information leakage one example external monetization 
+morgan stanley research 
+data analytics taiwanese financials 
+silvia fun kate chang 
+taiwan lagging behind western players data monetization narrow the gap with global peers taiwan financial supervisory commission fsc has promoted bank since and liberalized online banking mobile payment and third party payment related business 
+private banks are more forward looking this aspect and are already working monetization data via increasing investment fintech state 
+banks are more conservative and less nimble data monetization thus they still have not allocate much capital and effort expect 
+private banks esun ctbc cathay enjoy first mover advantage and gradually generate more profits from data analytics coming years 
+while leaving the state banks first mega behind expect fee income growth outperformance private banks over state banks steeper 
+data monetization gradually materialize 
+assessment monetization opportunity within our coverage 
+exhibit 
+exhibit 
+evaluate our coverage available data monetization opportunity 
+believe sun cathay and ctbc have higher focus and opportuni 
+and current focus 
+fubon 
+cathay 
+sun 
+yuanta 
+mega 
+taishin 
+shin kong 
+sinopac 
+ctbc 
+first 
+internal 
+monetization 
+oppty 
+mid 
+high 
+high 
+low 
+low 
+high 
+low 
+mid 
+high 
+mid 
+source morgan stanley research 
+ties among our coverage 
+external 
+monetization 
+opportunity 
+low 
+mid 
+high 
+low 
+low 
+mid 
+low 
+mid 
+high 
+low 
+total 
+monetization 
+opportunity 
+mid 
+mid 
+high 
+low 
+low 
+mid 
+low 
+mid 
+high 
+low 
+current progress 
+level focus 
+mid 
+high 
+high 
+low 
+low 
+mid 
+low 
+mid 
+high 
+low 
+monetization 
+opportunity 
+sun 
+cathay 
+ctbc 
+high 
+fubon 
+sinopac 
+mid 
+low 
+taishin 
+yuanta 
+mega 
+shin kong 
+first 
+low focus 
+investment 
+mid 
+high focus 
+investment 
+current focus progress 
+source morgan stanley research 
+the key potential beneficiaries taiwan banks 
+internal monetization opportunities 
+company 
+opportunity 
+description example 
+current progress potential 
+timing 
+sun 
+credit underwriting 
+online application digital loans with the help its cloud computing system evaluate clients repayment abilities loan borrowers are able 
+current 
+know the possible amount loans offered filling few minute long 
+questionnaire 
+cathay 
+customer efficiency 
+cathay united bank launched new banking service platform koko 
+may the platform offers specific app website for internet banking 
+credit card and atm 
+cathay 
+customer efficiency 
+cathay century insurance partnered with ant financial allowing cathay 
+access large customer base and enormous volume online transaction 
+data which are critical develop online insurance market and expand its 
+insurance business offering and channel 
+current 
+current 
+external monetization opportunities 
+company 
+opportunity 
+description example 
+current progress potential 
+timing 
+sun 
+parternership 
+being the and largest third party payments partner alipay taiwan 
+sun receives commissions from merchants when customers use alipay 
+current 
+designated stores there are also potential gains rmb appreciate 
+against twd 
+sun 
+parternership 
+consumers can use sun webatm function shop chinese comcurrent 
+merce portal taobao with commission fees 
+sun 
+parternership 
+exclusive partner paypal for cross border transactions taiwan allows 
+current 
+sun charge users 
+sun cathay ctbc 
+parternership 
+taishin 
+apple pay reportedly will available these four banks year end emerging est year for 
+which will enrich banks database and also increase credit card consumpmaterial contribution 
+tion this will enhance data analysis capability 
+ctbc 
+parternership 
+ctbc bank joined the global blockchain based settlement clearing platform which help ctbc bank partner with global banks and allow ctbc emerging est year for 
+bank access the transaction database this help increase efficiency material contribution 
+broaden business scope and lower cost and risks 
+ctbc 
+parternership 
+yahoo and ctbc bank jointly launched the yapee third party payment service that aims achieve comprehensive online offline shopping expe current 
+rience 
+morgan stanley research 
+exhibit 
+though marketing expense has been low revenue believe more depth data analysis can lower cost incurred sales personnel 
+taiwan banks revenue 
+covered companies 
+total revenue 
+marketing spend revenue rhs 
+operating margins rhs 
+source company data morgan stanley research 
+exhibit 
+sales marketing expense for total revenue for taiwan banks under coverage 
+taiwan banks 
+taiwan banks 
+sales mkt revenue 
+sales marketing spend 
+source company data morgan stanley research estimates 
+deeper dive data analytics taiwan 
+banks 
+tion digital loans using sun own cloud computing system 
+they can efficiently evaluate clients repayment abilities while loan 
+borrowers are able know the possible amount loans offered 
+filing simple questionnaire which will only take the customers 
+internal monetization opportunities for taiwan banks come mostly 
+few minutes fill these self developed online system and applica 
+from big data analysis data are collected through online banking 
+tion benefit banks conducting data analysis and acquiring potential 
+self developed application and survey conducted financial advis 
+clients which will then save cost marketing and sales personnel 
+ors through self developed application banks can easily track the 
+whereas the user friendly platform increase the stickiness the 
+cash flow accounts and client consumption habits esti 
+banks services customers which then may facilitate them perform 
+mate products they may interested the same time financial 
+more transactions with the bank also see cathay fhc commit 
+advisors would check client need wealth management products 
+ted fintech assigning top management vice president the 
+via survey using these vast amounts recorded data and survey 
+fintech department head drive the related strategies they also 
+banks are able design tailor made new products suitable cli 
+recruited their head information technology from mckinsey and 
+ents this can enhance the success rate cross selling and make tar 
+head their koko app from alipay 
+geted marketing effective sun bank developed the online applica 
+external monetization opportunities for taiwan banks come mostly 
+tourists also september taiwan fsc has begun accepting 
+from partnership with payment companies paypal alipay line 
+application from banks for offering apple pay their customers and 
+pay and apple pay the legislative yuan passed the payment proc 
+expected apple pay would start operating four major taiwan 
+essing institutions act january and the act was officially effec 
+banks ctbc bank cathay united banks sun bank and taishin 
+tive may the liberalization regulation allow taiwan banks 
+reportedly will exclusively provide this service these banks 
+set cross strait platform and partnered with chinese payment 
+believe this would allow them seize the opportunities capture 
+players seize the enormous business opportunities from mainland 
+the market share when customers change their payment behavior 
+morgan stanley research 
+data analytics japanese financials 
+hideyasu ban mia nagasaka hirotaka sugioka yuki maeda 
+interest growing various financial businesses the importance monetizing data analysis solution for management 
+issues confronting japan financial services industry banks face 
+exhibit 
+evaluate our coverage available data monetization opportunity 
+and current focus 
+risk low roe trends amid advances flattening the yield curve 
+unless they improve efficiency lending business and expand fee 
+income rising customer acquisition costs and decline incremental 
+profit margin due tougher competition with companies are concerns credit card and settlement service fields the transition 
+occurring wealth management asset management advisory ser 
+smfg 
+mizuho 
+saison 
+aeon 
+daiwa sec 
+nomura 
+internal 
+monetization 
+oppty 
+high 
+high 
+mid 
+high 
+mid 
+mid 
+external 
+monetization 
+opportunity 
+low 
+low 
+mid 
+mid 
+low 
+low 
+total 
+monetization 
+opportunity 
+mid 
+mid 
+mid 
+mid 
+low mid 
+low mid 
+current progress 
+level focus 
+mid 
+mid high 
+mid high 
+high 
+low 
+low 
+source morgan stanley research 
+vice from past asset rotation strategy sales style that assists 
+longer term asset formation shrinking income foundations and 
+resulting smaller profit margins financial entities need strategically collect data and promote efficient marketing and operations 
+and create new income opportunities using the data order 
+improve future earnings outlooks that are currently headed lower 
+however such efforts are unlikely establish large earnings bases 
+the near term for any segment this point think formation 
+networks facilitate strategic investments and service provision 
+exhibit 
+believe major banks generally have higher focus and opportunities 
+among coverage than other financial service firms however some 
+credit card companies that have better the data customer base 
+could significant contender them some areas 
+monetization 
+opportunity 
+high 
+through expansion group ecosystems and arrangement corporate partnerships over the next years likely play vital role 
+determining the subsequent advantages financial entities 
+mizuho 
+smfg 
+mid 
+saison 
+aeon 
+daiwa 
+nomura 
+outlook japan revitalization strategy japan government 
+stated the goal promote non cash transaction when the 
+low 
+olympic games are held tokyo response that credit card 
+industry now targets chip all credit cards and 
+low focus 
+investment 
+the line payment service volume expected double compared 
+with the level aeon saison and mega banks credit 
+card subs are accelerating their investments capture those opportunities players that successfully collected the customer financial 
+asset and needs data and developed data analytics capabilities will 
+start growing fee revenues from wealth management business much 
+faster then mega bank groups are better positioned that area 
+mid 
+high focus 
+investment 
+current focus progress 
+source morgan stanley research 
+exhibit 
+key potential beneficiaries japan financial services 
+internal monetization opportunities 
+players 
+opportunity 
+description examples 
+current progress time frame 
+promote sales via more customized 
+communication with customers 
+build private data management platform 
+via collaboration between saison and digital 
+garage integrate member data and 
+authorization data adding learning functions 
+mega 
+and automated analysis provide more 
+gthening 
+banks credit 
+card holding down costs per customer acquired and 
+effective clustering information transmission 
+subs 
+and marketing unearth demand 
+planning expand cross selling opportunities 
+while centralizing transaction information via 
+introduction the aeon wallet app and 
+enhancing customer convenience 
+current yrs for material contribution 
+reduce credit costs and losses from fraud 
+improving the sophistication initial credit and 
+ongoing credit monitoring linking with 
+external data and tying with fraud detection 
+systems 
+reduce marketing costs 
+introducing products that involve pre approval 
+etc enhance the sophistication risk 
+management with more precise credit 
+monitoring and hold down credit costs 
+establishment new consumer loan company 
+with technology firm 
+current and evolving 
+improved call center efficiency using 
+current and evolving 
+credit underwriting 
+improved administrative efficiency 
+improved branch layouts 
+external monetization opportunities 
+players 
+opportunity 
+reduce office space using data analysis for 
+efficient marketing and leveraging multi 
+description examples 
+just started 
+current progress time frame 
+expand advertising income applying card 
+data for marketing 
+emerging yrs for material contribution 
+loyalty program oem business 
+oem provision more effective loyalty 
+programs using data from the own firm loyalty 
+program 
+emerging yrs for material contribution 
+crowd funding 
+expand earnings opportunities integrating 
+information inside and outside the group and 
+teaming with fintech companies 
+emerging yrs for material contribution 
+robo advice 
+advertising business 
+identify customer background assets 
+investment objectives and intentions provide 
+timely and uniform quality financial advice 
+and execution trades 
+emerging yrs for raising product service 
+awareness 
+source morgan stanley research 
+morgan stanley research 
+exhibit 
+japanese mega banks cost income ratio has been rising estimate around the group revenues the technology spend and 
+credit card business revenues are promotion and marketing 
+spend these days ppt cut cost income ratio will raise their ppop 
+almost 
+jpy 
+growth financial services business than existing financial entities 
+nies and financial holding companies can integrate common opera 
+total rev 
+cost income rhs 
+source company data morgan stanley research 
+through their efficient approaches customers 
+data monetization activity gradually increasing japan 
+financial services industry too banking business law was amended 
+this year that banks have more flexibility investing compations the subsidiary banks under the holding companies 
+corporate lending and particularly lending smaller businesses 
+can supply lower risk loans more timely manner for new firsttime loans and follow loans absorbing accounting and liquidity 
+information from cloud services and collecting sales and procurement data order gain access different data than the past 
+clarifying daily money flows addition annual financial statements and liquidity tables initiatives are emerging work with fintech companies this type data collections 
+personal financial services financial entities are looking inte 
+deeper dive data analytics japan 
+financials 
+grated management customer data transactions from variety 
+payment solutions besides just conventional credit cards and use 
+make their own marketing more efficient new fee income 
+source through provision data and consulting services member 
+when the top line growth continues under pressure rais 
+stores and others however relative advantages the value chain 
+ing operating efficiency even more crucial japan struggling 
+might differ player depending which company holds data 
+get out deflationary spiral the shape the yield curve will not 
+mobile carrier gateway company card company etc amid diversifi 
+recover soon there view the market that the curve may not 
+cation payment solutions wealth management embracing new 
+normalized for the next years that the case financial institu 
+initiatives such utilizing smartphones and other tools collec 
+tions need accelerate the pace efficiency improvement 
+tion channels for personal asset information and enhancing sales 
+improving data analytics and adopting them its operations and 
+channels through use and other techniques improve the effi 
+new business development because japanese institutions cannot 
+ciency and quality uniformity portfolio advice 
+lower the cost via traditional way such headcount reduction etc 
+operation efficiency initiatives which utilize data analysis for reallofinancial institutions possess massive amounts data from 
+cation business resources personnel expense and equipment cost 
+past years however they often lack sufficient data using past data 
+cutbacks and productivity enhancement are beginning too exam 
+types and need revise data collection and analysis methods 
+ples include reduction personnel costs call centers using 
+order strategically analyze these data and utilize the results 
+lowering rents changing branch layouts and increased efficiency 
+improve business efficiencies and create new income sources corpo 
+the loan review process and product and service sales channels 
+rate groups with certain ecosystem are attaining stronger earnings 
+data analytics asean financials 
+nick lord mulya chandra selvie jusman nico yosman 
+malaysia and thailand banks are beginning explore use cases for 
+and big data but are still early stage whilst and big data 
+the five asean markets are different stages monetisation 
+should open opportunities for banks and provide scope for cost cut 
+data and different banks are also very different stages develop 
+ting some markets may also open scope for new entrants espe 
+ment the markets asean are also still highly dependent cash 
+cially when comes credit scoring markets such indonesia 
+and cheque payments which will also hinderance successful 
+and the philippines where credit bureau coverage patchy 
+data monetization nonetheless efforts are underway and there are 
+some innovative solutions being applied regulators are keen facilitate banks with regulators singapore malaysia and thailand 
+allowing banks experiment within sandbox mas singapore 
+has also been proactive encouraging the development fintech 
+exhibit 
+longer term philippine and indonesian banks underpenetrated markets possibly have the most gain singapore banks are most 
+focussed currently 
+ecosystem singapore part the smart nation initiative 
+singapore banks are the probably the most advanced the region 
+terms data analytics and lot what they are doing world leading dbs particular began look into the potential for big data 
+and partnered with ibm use ibm watson capabilities financial services initially efforts were focussed generating 
+leads within the wealth management business but other use cases 
+across broad range activites are also being developed uob has 
+looked tackle the issue the restrictive nature bank data 
+quality developing the uob mighty app currently the app 
+allows customers book pay for and rate meals out through their 
+android phone uob aim role out the app other areas transportation help gather richer datasets over time 
+source company reports morgan stanley research 
+exhibit 
+selected highlights data monetisation efforts 
+source company reports morgan stanley research 
+morgan stanley research 
+exhibit 
+singapore banks have relatively low cost income ratios and challenging revenue environment management focus improving efficiency via use technology 
+exhibit 
+marketing spend low but under penetrated market big data 
+could help open opportunities amongst the unbank 
+source company reports morgan stanley research 
+source company reports morgan stanley research 
+exhibit 
+revenue growth constrained and retail market particular competitive big data generated leads could useful taking market share 
+exhibit 
+similar indonesia marketing spend low but under penetrated market big data could help open opportunities amongst the 
+unbanked 
+source company reports morgan stanley researc 
+source company reports morgan stanley research 
+exhibit 
+thai banks also face subdued revenues environment and competitive market market share gains will crucial big data use for credit 
+scoring could open new customer bases 
+source company reports morgan stanley research 
+data analytics india financials 
+expect data monetization primarily internal usage 
+become big driver market share gains over the next 
+years for indian private lenders these banks have been fairly aggressive launching digital platforms across various 
+banking services historically this was mostly linked liabilities ease payments now with amount data 
+hand they are also launching online lending models which 
+use data sets both internal and external cibil scores for 
+instance hdfc bank has been leader this offering 
+products like unsecured personal loans less than seconds online this will materially bring down cost over next 
+years 
+banks win large share upi app usage state banks will likely 
+lag terms launching user friendly interface this will imply that 
+private banks will able access data customer usage for other 
+banks also this will likely improve the ability offer products 
+much wider spectrum customers 
+private banks should the big beneficiaries among them hdfc 
+bank hdb appears the best positioned given complete 
+focus technology related offerings customers unlike other 
+banks hdb does not have asset quality issues implying full management focus this this should help the bank keep growing revenues and will also help bring down costs given fairly high 
+cost assets there reasonably large room for cost effi 
+the launch unified payment interface upi likely accelerate 
+ciencies among other beneficiaries icici axis indusind kotak and 
+the process data driven products bank customers both retail 
+yes should also benefit 
+and merchants sme adopt upi the mode payment data 
+gathering opportunity for banks will increase expect private 
+morgan stanley research 
+additional disclosures 
+morgan stanley international plc morgan stanley acting financial advisor capital emea services limited capital relation the proposed acquisition the core business bank bph bank pbh from capital 
+alior bank alior bank and the subsequent demerger bank pbh announced april the proposed 
+transaction subject approval alior bank shareholders regulatory approval and other customary closing conditions 
+this report and the information provided herein not intended provide voting advice serve endorsement 
+the proposed transaction iii result the procurement withholding revocation proxy any other action 
+security holder capital has agreed pay fees morgan stanley for its financial services please refer the notes 
+the end the report 
+morgan stanley acting financial advisor hdfc standard life insurance company ltd hdfc life relation the proposed merger 
+life insurance business between hdfc life and max group entities max life insurance company ltd max life max financial services ltd 
+max financial services and max india ltd max india announced august the proposed transaction subject approval 
+hdfc life max life max financial services and max india shareholders regulatory approval and other customary closing conditions this 
+report and the information provided herein not intended provide voting advice serve endorsement the proposed transaction 
+iii result the procurement withholding revocation proxy any other action security holder hdfc life has agreed pay fees 
+morgan stanley for its financial services please refer the notes the end the report 
+highly restricted 
+disclosure section 
+the information and opinions morgan stanley research were prepared are disseminated morgan stanley llc and morgan stanley 
+and morgan stanley xico casa bolsa and morgan stanley canada limited and morgan stanley international plc 
+and rmb morgan stanley proprietary limited and morgan stanley mufg securities ltd and morgan stanley capital group japan ltd 
+and morgan stanley asia limited and morgan stanley asia singapore pte registration number and morgan stanley asia singapore 
+securities pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents 
+and should contacted with respect any matters arising from connection with morgan stanley research and morgan stanley taiwan limited 
+and morgan stanley international plc seoul branch and morgan stanley australia limited holder australian financial 
+services license which accepts responsibility for its contents and morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents and morgan stanley india company private 
+limited regulated the securities and exchange board india sebi and holder licenses research analyst sebi registration 
+stock broker bse registration and nse registration inb merchant banker sebi registration 
+and depository participant with national securities depository limited sebi registration nsdl which accepts the 
+responsibility for its contents and should contacted with respect any matters arising from connection with morgan stanley research and 
+morgan stanley asia indonesia and their affiliates collectively morgan stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report anil 
+agarwal hideyasu ban mulya chandra cfa michael cyprys cfa cpa james faucette silvia fun cfa samuel goodacre manan gosalia 
+vasundhara govil betsy graseck cfa bruce hamilton danyal hussain cfa nick lord francois meunier mia nagasaka alvaro serrano fiona 
+simpson cfa hirotaka sugioka richard cfa ken zerbe cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+the following analyst strategist household member owns securities related derivatives company that she covers recommends 
+morgan stanley research jeffrey adelson cfa the blackstone group common preferred stock michael cyprys cfa cpa american express 
+company common preferred stock bank america common preferred stock 
+household member the following analyst strategist employee officer director has another position company named within the research 
+michael cyprys cfa cpa american express company 
+september morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research alpha bank american express company apollo global management llc automatic data processing inc banco popolare 
+bank negara indonesia bank china limited bank ireland bankunited inc bats global markets bbva bharat financial inclusion ltd blackrock 
+inc bnp paribas china life taiwan china minsheng banking corp credit saison credit suisse group ctbc financial holding cybg plc deutsche 
+bank sun financial federal bank first data corp first horizon national franklin resources inc goldman sachs group inc hdfc hdfc bank icici 
+bank indiabulls housing finance indusind bank morgan chase kkr komercni banka lendingclub corp lloyds banking group 
+mahindra and mahindra financial services mastercard inc mediobanca banca credito finanziario metropolitan bank trust company new york 
+community bancorp inc oaktree capital group llc deck capital inc seb shriram city union finance ltd shriram transport finance ltd 
+societe generale standard chartered bank the blackstone group the carlyle group turkiye vakiflar bankasi unicredit vantiv 
+inc visa inc wisdomtree investments inc 
+within the last months morgan stanley managed managed public offering offering securities abn amro group aeon 
+agricultural bank china limited ares management banco popular bank america bank china limited bank new york mellon corp 
+barclays bank bats global markets corporation bnp paribas bok financial corp caixabank capital one financial corporation cathay 
+financial holdings charles schwab corp china cinda asset management china construction bank corp china everbright bank ltd china huarong 
+asset management citigroup inc citizens financial group inc credit agricole credit saison credit suisse group cybg plc danske bank 
+deutsche bank discover financial services trade financial corp fifth third bancorp first data corp first horizon national first republic bank 
+goldman sachs group inc hsbc huntington bancshares industrial bank ltd ing groep morgan chase japan post bank kbc group 
+keycorp legg mason inc lloyds banking group mizuho financial group national bank greece new york community bancorp inc nomura holdings 
+nordea northern trust corp asset management plc pekao pnc financial services rbl bank limited regions financial corp royal bank 
+scotland santander societe generale square inc state street corporation suntrust svenska handelsbanken synchrony financial the carlyle group 
+bancorp ubs group unicredit unione banche italiane scpa wells fargo yirendai 
+within the last months morgan stanley has received compensation for investment banking services from abn amro group aeon aeon financial 
+service agricultural bank china limited apollo global management llc ares management automatic data processing inc banco popular 
+bank america bank china limited bank new york mellon corp barclays bank bats global markets corporation blackrock inc bnp 
+paribas bok financial corp capital one financial corporation charles schwab corp china cinda asset management china construction bank corp 
+china everbright bank ltd china huarong asset management cimb group citigroup inc citizens financial group inc credit agricole credit 
+saison credit suisse group cybg plc danske bank deutsche bank trade financial corp fifth third bancorp first data corp first horizon 
+national first republic bank franklin resources inc goldman sachs group inc hsbc htsc huishang bank corporation limited huntington 
+bancshares industrial and commercial bank china industrial bank ltd ing groep intesa sanpaolo invesco morgan chase japan 
+post bank kbc group keycorp kkr legg mason inc lendingclub corp lloyds banking group lpl financial holdings inc mastercard 
+inc national bank greece new york community bancorp inc nomura holdings nordea northern trust corp oaktree capital group llc pnc 
+financial services rbl bank limited regions financial corp royal bank scotland santander seb societe generale square inc state street 
+corporation suntrust svenska handelsbanken synchrony financial rowe price group inc the blackstone group the carlyle group 
+morgan stanley research 
+highly restricted 
+bancorp ubs group unicredit unione banche italiane scpa wells fargo yirendai yuanta financial holding company 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from abn amro group 
+aeon aeon financial service agricultural bank china limited akbank alior bank alpha bank american express company apollo global 
+management llc ares management associated banc corp automatic data processing inc axis bank banca monte dei paschi siena 
+banca popolare milano banco popolare banco popular banco sabadell bangkok bank public company limited bank central asia bank 
+danamon indonesia bank mandiri bank negara indonesia bank america bank china limited bank chongqing bank communications bank 
+hawaii corp bank india bank ireland bank new york mellon corp bank the philippine islands bank rakyat indonesia bank zachodni wbk 
+bankia bankinter barclays africa group ltd barclays bank bats global markets corporation bbva bdo unibank blackrock inc bnp 
+paribas bok financial corp caixabank capital one financial corporation cathay financial holdings chailease holding charles schwab corp china 
+cinda asset management china citic bank corporation limited china construction bank corp china everbright bank ltd china huarong asset 
+management china merchants bank china minsheng banking corp chongqing rural commercial bank cimb group citic securities citigroup inc 
+citizens financial group inc comerica inc commerce bancshares credit agricole credit saison credit suisse group ctbc financial holding 
+cybg plc daiwa securities group danske bank dbs group holdings deutsche bank discover financial services dnb trade financial corp sun 
+financial eurobank ergasias evertec inc federal bank fifth third bancorp first data corp first horizon national first republic bank firstrand 
+fleetcor technologies inc franklin resources inc fubon financial holdings galaxy securities garanti bank securities global payments inc 
+goldman sachs group inc green dot corp haitong securities hdfc hdfc bank hsbc htsc hua xia bank huishang bank corporation limited 
+huntington bancshares icici bank indusind bank industrial and commercial bank china industrial bank ltd ing groep intesa sanpaolo 
+invesco isbank morgan chase janus capital group inc japan post bank kasikorn bank public company kbc group keycorp kkr 
+krung thai bank public company legg mason inc lendingclub corp lic housing finance ltd lloyds banking group lpl financial holdings 
+inc bank corp mahindra and mahindra financial services mastercard inc maybank mediobanca banca credito finanziario mega holdings 
+metropolitan bank trust company mizuho financial group moneygram international inc multi commodity exchange india ltd national bank 
+greece natixis nedbank new york community bancorp inc nomura holdings nordea northern trust corp oaktree capital group llc asset 
+management plc deck capital inc otp oversea chinese banking corp paychex inc paypal holdings inc people united financial inc ping 
+bank piraeus bank pko pnc financial services popular inc public bank punjab national bank rbl bank limited regions financial corp 
+royal bank scotland santander sberbank seb security bank corporation shanghai pudong development bank shin kong fhc shriram city union 
+finance ltd shriram transport finance ltd signature bank singapore exchange ltd sinopac holdings societe generale square inc standard bank 
+standard chartered bank state bank india state street corporation sumitomo mitsui suntrust svenska handelsbanken swedbank synchrony 
+financial synovus financial corp rowe price group inc taishin financial holdings tcf financial corp tcs group holding plc ameritrade 
+holding corp the blackstone group the carlyle group the siam commercial bank public company tisco financial group public company 
+total system services inc trinet group inc turkiye halk bankasi turkiye vakiflar bankasi bancorp ubs group unicredit 
+unione banche italiane scpa united overseas bank valley national bancorp vantiv inc visa inc vtb bank jsc waddell reed financial inc 
+webster financial corp wells fargo western union wisdomtree investments inc yapi kredi yes bank yirendai yuanta financial holding 
+company zions bancorp 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from abn amro 
+group aeon aeon financial service agricultural bank china limited akbank alior bank alpha bank american express company 
+apollo global management llc ares management associated banc corp automatic data processing inc axis bank banca monte dei paschi 
+siena banca popolare milano banco popolare banco popular banco sabadell bangkok bank public company limited bank 
+danamon indonesia bank mandiri bank negara indonesia bank america bank baroda bank china limited bank communications bank 
+hawaii corp bank india bank ireland bank new york mellon corp bank the philippine islands bank rakyat indonesia bank zachodni wbk 
+bankia bankinter bankunited inc barclays africa group ltd barclays bank bats global markets corporation bbva bdo unibank 
+blackrock inc bnp paribas bok financial corp caixabank capital one financial corporation cathay financial holdings charles schwab corp 
+china cinda asset management china citic bank corporation limited china construction bank corp china everbright bank ltd china huarong asset 
+management china life taiwan china merchants bank china minsheng banking corp cimb group citic securities citigroup inc citizens financial 
+group inc comerica inc commerce bancshares credit agricole credit suisse group ctbc financial holding cullen frost bankers cybg plc 
+daiwa securities group danske bank dbs group holdings deutsche bank discover financial services dnb trade financial corp sun financial 
+east west bancorp inc eurobank ergasias fifth third bancorp first data corp first financial first horizon national first republic bank firstrand 
+fleetcor technologies inc franklin resources inc fubon financial holdings garanti bank securities goldman sachs group inc haitong securities 
+hdfc hdfc bank hsbc htsc huntington bancshares icici bank idfc bank industrial and commercial bank china industrial bank ltd ing 
+groep intesa sanpaolo invesco isbank morgan chase janus capital group inc japan post bank kasikorn bank public company kbc 
+group keycorp kkr komercni banka kotak mahindra bank legg mason inc lendingclub corp lloyds banking group lpl financial 
+holdings inc bank corp mastercard inc maybank mediobanca banca credito finanziario mega holdings metropolitan bank trust company 
+mizuho financial group national bank greece natixis nedbank new york community bancorp inc nomura holdings nordea northern trust corp 
+oaktree capital group llc asset management plc otp oversea chinese banking corp paychex inc pekao people united financial inc 
+ping bank piraeus bank pko pnc financial services popular inc public bank regions financial corp royal bank scotland santander 
+sberbank seb security bank corporation shanghai pudong development bank shin kong fhc sinopac holdings societe generale standard bank 
+standard chartered bank state bank india state street corporation sumitomo mitsui suntrust svb financial group svenska handelsbanken 
+swedbank synchrony financial synovus financial corp rowe price group inc taishin financial holdings ameritrade holding corp the 
+blackstone group the carlyle group the siam commercial bank public company turkiye halk bankasi turkiye vakiflar bankasi 
+bancorp ubs group unicredit unione banche italiane scpa united overseas bank verifone systems inc vtb bank jsc waddell 
+reed financial inc wells fargo western union wex inc wisdomtree investments inc yapi kredi yes bank yuanta financial holding 
+company zions bancorp 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company abn amro group aeon agricultural bank china limited akbank alior bank alpha bank american express 
+company apollo global management llc ares management associated banc corp automatic data processing inc axis bank banca monte dei 
+paschi siena banca popolare milano banco popolare banco popular banco sabadell bangkok bank public company limited 
+bank central asia bank danamon indonesia bank mandiri bank negara indonesia bank america bank china limited bank chongqing bank 
+communications bank hawaii corp bank india bank ireland bank new york mellon corp bank the philippine islands bank rakyat indonesia 
+bank zachodni wbk bankia bankinter barclays africa group ltd barclays bank bats global markets corporation bbva bdo unibank 
+blackrock inc bnp paribas bok financial corp caixabank capital one financial corporation cathay financial holdings chailease holding charles 
+schwab corp china cinda asset management china citic bank corporation limited china construction bank corp china everbright bank ltd china 
+huarong asset management china merchants bank china minsheng banking corp chongqing rural commercial bank cimb group citic securities 
+citigroup inc citizens financial group inc comerica inc commerce bancshares credit agricole credit saison credit suisse group ctbc 
+financial holding cybg plc daiwa securities group danske bank dbs group holdings deutsche bank discover financial services dnb trade 
+financial corp sun financial eurobank ergasias evertec inc federal bank fifth third bancorp first data corp first horizon national first 
+republic bank firstrand fleetcor technologies inc franklin resources inc fubon financial holdings galaxy securities garanti bank securities 
+highly restricted 
+global payments inc goldman sachs group inc green dot corp haitong securities hdfc hdfc bank hsbc htsc hua xia bank huishang bank 
+corporation limited huntington bancshares icici bank indusind bank industrial and commercial bank china industrial bank ltd ing groep intesa 
+sanpaolo invesco isbank morgan chase janus capital group inc japan post bank kasikorn bank public company kbc group 
+keycorp kkr krung thai bank public company legg mason inc lendingclub corp lic housing finance ltd lloyds banking group lpl 
+financial holdings inc bank corp mahindra and mahindra financial services mastercard inc maybank mediobanca banca credito finanziario 
+mega holdings metropolitan bank trust company mizuho financial group moneygram international inc multi commodity exchange india ltd national 
+bank greece natixis nedbank new york community bancorp inc nomura holdings nordea northern trust corp oaktree capital group llc 
+asset management plc deck capital inc otp oversea chinese banking corp paychex inc paypal holdings inc pekao people united 
+financial inc ping bank piraeus bank pko pnc financial services popular inc public bank punjab national bank rbl bank limited 
+regions financial corp royal bank scotland santander sberbank seb security bank corporation shanghai pudong development bank shin kong 
+fhc shriram city union finance ltd shriram transport finance ltd signature bank singapore exchange ltd sinopac holdings societe generale 
+square inc standard bank standard chartered bank state bank india state street corporation sumitomo mitsui suntrust svenska 
+handelsbanken swedbank synchrony financial synovus financial corp rowe price group inc taishin financial holdings tcf financial corp tcs 
+group holding plc ameritrade holding corp the blackstone group the carlyle group the siam commercial bank public company tisco 
+financial group public company total system services inc trinet group inc turkiye halk bankasi turkiye vakiflar bankasi bancorp 
+ubs group unicredit unione banche italiane scpa united overseas bank valley national bancorp vantiv inc visa inc vtb bank jsc 
+waddell reed financial inc webster financial corp wells fargo western union wisdomtree investments inc yapi kredi yes bank 
+yirendai yuanta financial holding company zions bancorp 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company abn amro group aeon aeon financial service 
+agricultural bank china limited akbank alior bank alpha bank american express company apollo global management llc ares 
+management associated banc corp automatic data processing inc axis bank bajaj finance limited banca monte dei paschi siena 
+banca popolare milano banco popolare banco popular banco sabadell bangkok bank public company limited bank central asia bank 
+danamon indonesia bank mandiri bank negara indonesia bank america bank baroda bank china limited bank chongqing bank 
+communications bank hawaii corp bank india bank ireland bank new york mellon corp bank the philippine islands bank rakyat indonesia 
+bank tabungan negara bank zachodni wbk bankia bankinter bankunited inc barclays africa group ltd barclays bank bats global markets 
+corporation bbva bdo unibank blackrock inc bnp paribas bok financial corp caixabank canara bank capital one financial 
+corporation cathay financial holdings charles schwab corp china cinda asset management china citic bank corporation limited china construction 
+bank corp china everbright bank ltd china huarong asset management china life taiwan china merchants bank china minsheng banking corp 
+cimb group citic securities citigroup inc citizens financial group inc comerica inc commerce bancshares credit agricole credit saison 
+credit suisse group ctbc financial holding cullen frost bankers cybg plc daiwa securities group danske bank dbs group holdings deutsche 
+bank discover financial services dnb trade financial corp sun financial east west bancorp inc eurobank ergasias fifth third bancorp first 
+data corp first financial first horizon national first republic bank firstrand fleetcor technologies inc franklin resources inc fubon financial 
+holdings galaxy securities garanti bank securities goldman sachs group inc haitong securities hdfc hdfc bank hsbc htsc hua xia bank 
+huishang bank corporation limited huntington bancshares icici bank idfc bank indiabulls housing finance indusind bank industrial and commercial 
+bank china industrial bank ltd ing groep intesa sanpaolo invesco isbank morgan chase janus capital group inc japan post 
+bank kasikorn bank public company kbc group keycorp kkr komercni banka kotak mahindra bank krung thai bank public 
+company legg mason inc lendingclub corp lloyds banking group lpl financial holdings inc bank corp mastercard inc maybank mediobanca 
+banca credito finanziario mega holdings metropolitan bank trust company mizuho financial group moneygram international inc national bank 
+greece natixis nedbank new york community bancorp inc nomura holdings nordea northern trust corp oaktree capital group llc asset 
+management plc otp oversea chinese banking corp paychex inc paypal holdings inc pekao people united financial inc ping bank 
+piraeus bank pko pnc financial services popular inc public bank punjab national bank regions financial corp royal bank scotland 
+santander sberbank seb security bank corporation shanghai pudong development bank shin kong fhc shriram transport finance ltd signature 
+bank singapore exchange ltd sinopac holdings societe generale standard bank standard chartered bank state bank india state street 
+corporation sumitomo mitsui suntrust svb financial group svenska handelsbanken swedbank synchrony financial synovus financial corp 
+rowe price group inc taishin financial holdings tcs group holding plc ameritrade holding corp the blackstone group the carlyle group 
+the siam commercial bank public company trinet group inc turkiye halk bankasi turkiye vakiflar bankasi bancorp ubs group 
+unicredit unione banche italiane scpa united overseas bank valley national bancorp verifone systems inc visa inc vtb bank jsc 
+waddell reed financial inc webster financial corp wells fargo western union wex inc wisdomtree investments inc yapi kredi yes 
+bank yuanta financial holding company zions bancorp 
+employee director consultant morgan stanley director bats global markets lendingclub corp verifone systems inc this person not 
+research analyst member research analyst household 
+morgan stanley llc makes market the securities american express company apollo global management llc ares management 
+associated banc corp automatic data processing inc bank america bank hawaii corp bank new york mellon corp bankunited inc barclays 
+bank corporation bbva blackrock inc bok financial corp capital one financial corporation charles schwab corp citigroup inc citizens 
+financial group inc comerica inc commerce bancshares credit suisse group cullen frost bankers deutsche bank discover financial services 
+trade financial corp east west bancorp inc evertec inc fifth third bancorp first data corp first horizon national first republic bank fleetcor 
+technologies inc franklin resources inc global payments inc goldman sachs group inc green dot corp hdfc bank hsbc huntington bancshares 
+icici bank ing groep invesco morgan chase janus capital group inc keycorp kkr legg mason inc lendingclub corp lloyds 
+banking group lpl financial holdings inc bank corp mastercard inc mizuho financial group moneygram international inc new york community 
+bancorp inc nomura holdings northern trust corp oaktree capital group llc asset management plc deck capital inc paychex inc paypal 
+holdings inc people united financial inc pnc financial services popular inc prosperity bancshares inc regions financial corp royal bank 
+scotland santander signature bank square inc state street corporation sumitomo mitsui suntrust svb financial group synchrony financial 
+synovus financial corp rowe price group inc tcf financial corp ameritrade holding corp the blackstone group the carlyle group 
+total system services inc trinet group inc ubs group valley national bancorp vantiv inc verifone systems inc visa inc waddell reed 
+financial inc webster financial corp wells fargo western union wex inc wisdomtree investments inc yirendai zions bancorp 
+morgan stanley international plc corporate broker royal bank scotland 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+morgan stanley research 
+highly restricted 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+september 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight over the stock total return expected exceed the total return the relevant country msci index the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+equal weight equal the stock total return expected line with the total return the relevant country msci index the average total return 
+the analyst industry industry team coverage universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the relevant country msci index the 
+average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+underweight under the stock total return expected below the total return the relevant country msci index the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities aeon aeon financial service 
+agricultural bank china limited american express company automatic data processing inc axis bank banca monte dei paschi siena banca 
+popolare milano banco popolare banco popular banco sabadell bank america bank baroda bank china limited bank india 
+bank ireland bank new york mellon corp bankia bankinter barclays bank bbva blackrock inc bnp paribas caixabank capital one 
+financial corporation cathay financial holdings charles schwab corp china cinda asset management china construction bank corp china life taiwan 
+highly restricted 
+citigroup inc credit agricole credit saison credit suisse group ctbc financial holding cybg plc daiwa securities group danske bank dbs 
+group holdings deutsche bank trade financial corp evertec inc fifth third bancorp first data corp franklin resources inc fubon financial 
+holdings garanti bank goldman sachs group inc hsbc icici bank industrial and commercial bank china intesa sanpaolo morgan chase 
+janus capital group inc kbc group keycorp legg mason inc lendingclub corp lloyds banking group bank corp mastercard inc 
+mediobanca banca credito finanziario mizuho financial group natixis nomura holdings nordea asset management plc oversea chinese banking 
+corp paypal holdings inc piraeus bank santander sberbank seb societe generale square inc standard chartered bank state bank india 
+state street corporation sumitomo mitsui suntrust svenska handelsbanken swedbank synchrony financial turkiye halk bankasi 
+bancorp ubs group unicredit unione banche italiane scpa united overseas bank visa inc vtb bank jsc wells fargo western 
+union 
+october state street corporation rowe price group inc beneficially owned more class common equity securities morgan 
+stanley 
+member research who had could have had access the research prior completion owns securities related derivatives the state bank 
+india this person not research analyst member research analyst household 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers hong 
+kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities hong 
+kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+certain information morgan stanley research was sourced employees the shanghai representative office morgan stanley asia limited for the use 
+morgan stanley asia limited 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+morgan stanley research 
+highly restricted 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia indonesia 
+canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley 
+bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+morgan stanley hong kong securities limited the liquidity provider market maker for securities agricultural bank china limited bank china limited 
+bank communications china citic bank corporation limited china construction bank corp china merchants bank china minsheng banking corp 
+haitong securities hsbc industrial and commercial bank china listed the stock exchange hong kong limited updated list can found 
+hkex website http hkex 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the following companies business countries which are generally subject comprehensive sanctions programs administered enforced the 
+department the treasury office foreign assets control ofac and other countries and multi national bodies mastercard inc 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+highly restricted 
+industry coverage payments and processing 
+company ticker 
+rating 
+price 
+danyal hussain cfa 
+automatic data processing inc adp 
+fleetcor technologies inc flt 
+moneygram international inc mgi 
+paychex inc payx 
+trinet group inc tnet 
+western union 
+wex inc wex 
+james faucette 
+first data corp fdc 
+lendingclub corp 
+mastercard inc 
+paypal holdings inc pypl 
+square inc 
+verifone systems inc pay 
+visa inc 
+vasundhara govil 
+evertec inc evtc 
+global payments inc gpn 
+green dot corp gdot 
+deck capital inc ondk 
+total system services inc tss 
+vantiv inc vntv 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage banking large cap banks 
+company ticker 
+rating 
+price 
+betsy graseck cfa 
+american express company axp 
+bank america bac 
+bank new york mellon corp 
+bats global markets bats 
+corporation bbt 
+capital one financial corporation cof 
+citigroup inc 
+discover financial services dfs 
+goldman sachs group inc 
+morgan chase jpm 
+northern trust corp ntrs 
+pnc financial services pnc 
+regions financial corp 
+state street corporation stt 
+suntrust sti 
+synchrony financial syf 
+bancorp usb 
+wells fargo wfc 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley research 
+highly restricted 
+industry coverage midcap banks 
+company ticker 
+rating 
+price 
+ken zerbe cfa 
+associated banc corp asb 
+bank hawaii corp boh 
+bankunited inc bku 
+bok financial corp bokf 
+citizens financial group inc cfg 
+comerica inc cma 
+commerce bancshares cbsh 
+cullen frost bankers cfr 
+east west bancorp inc ewbc 
+fifth third bancorp fitb 
+first horizon national fhn 
+first republic bank frc 
+huntington bancshares hban 
+keycorp key 
+bank corp mtb 
+new york community bancorp inc nycb 
+people united financial inc pbct 
+popular inc bpop 
+prosperity bancshares inc 
+signature bank sbny 
+svb financial group sivb 
+synovus financial corp snv 
+tcf financial corp tcb 
+valley national bancorp vly 
+webster financial corp wbs 
+zions bancorp zion 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage emea banks 
+company ticker 
+rating 
+price 
+zac 
+zac 
+zac 
+zac 
+zac 
+zac 
+pln 
+pln 
+czk 
+huf 
+pln 
+pln 
+rub 
+elan levy 
+alexander forbes group afhj 
+barclays africa group ltd bgaj 
+capitec bank holdings ltd cpij 
+firstrand fsrj 
+nedbank nedj 
+standard bank sbkj 
+samuel goodacre 
+akbank akbnk 
+alior bank alrr 
+alpha bank acbr 
+bank zachodni wbk bzw 
+eurobank ergasias eurbr 
+garanti bank garan 
+isbank isctr 
+komercni banka bkom 
+national bank greece nbgr 
+otp otpb 
+pekao peo 
+piraeus bank bopr 
+pko pko 
+sberbank sber 
+tcs group holding plc tcsq 
+turkiye halk bankasi halkb 
+turkiye vakiflar bankasi vakbn 
+vtb bank jsc vtbrq 
+yapi kredi ykbnk 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+highly restricted 
+industry coverage china financials 
+company ticker 
+rating 
+price 
+richard cfa 
+agricultural bank china limited 
+agricultural bank china limited 
+bank china limited 
+bank china limited 
+bank chongqing 
+bank communications 
+bank communications 
+china cinda asset management 
+china citic bank corporation limited 
+china citic bank corporation limited 
+china construction bank corp 
+china construction bank corp 
+china everbright bank ltd 
+china everbright bank ltd 
+china huarong asset management 
+china merchants bank 
+china merchants bank 
+china minsheng banking corp 
+china minsheng banking corp 
+chongqing rural commercial bank 
+citic securities 
+citic securities 
+galaxy securities 
+securities 
+securities 
+haitong securities 
+haitong securities 
+htsc 
+htsc 
+hua xia bank 
+huishang bank corporation limited 
+industrial and commercial bank china 
+industrial and commercial bank china 
+industrial bank ltd 
+ping bank 
+shanghai pudong development bank 
+yirendai yrd 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage asean financials 
+company ticker 
+rating 
+price 
+mulya chandra cfa 
+bank central asia bbca 
+bank danamon indonesia bdmn 
+bank mandiri bmri 
+bank negara indonesia bbni 
+bank rakyat indonesia bbri 
+bank tabungan negara bbtn 
+nick lord 
+bangkok bank public company limited bbl 
+bank the philippine islands bpi 
+bdo unibank bdo 
+cimb group cimb 
+dbs group holdings dbsm 
+kasikorn bank public company kbank 
+krung thai bank public company ktb 
+maybank mbbm 
+metropolitan bank trust company mbt 
+oversea chinese banking corp ocbc 
+public bank pubm 
+security bank corporation secb 
+singapore exchange ltd sgxl 
+the siam commercial bank public company scb 
+tisco financial group public company tisco 
+united overseas bank uobh 
+morgan stanley research 
+highly restricted 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage india financials 
+company ticker 
+rating 
+price 
+anil agarwal 
+axis bank axbk 
+hdfc bank hdbk 
+hdfc bank hdb 
+icici bank icbk 
+state bank india sbi 
+subramanian iyer 
+bajaj finance limited bjfn 
+bharat financial inclusion ltd bhaf 
+hdfc hdfc 
+idfc bank idfb 
+indiabulls housing finance inbf 
+lic housing finance ltd lich 
+mahindra and mahindra financial services mmfs 
+multi commodity exchange india ltd mcei 
+shriram city union finance ltd shcu 
+shriram transport finance ltd srtr 
+sumeet kariwala 
+bank baroda bob 
+bank india boi 
+canara bank cnbk 
+federal bank fed 
+indusind bank inbk 
+kotak mahindra bank ktkm 
+max financial services maxi 
+punjab national bank pnbk 
+rbl bank limited ratb 
+yes bank yesb 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage taiwan financials 
+company ticker 
+rating 
+price 
+silvia fun cfa 
+cathay financial holdings 
+chailease holding 
+china life taiwan 
+ctbc financial holding 
+sun financial 
+first financial 
+fubon financial holdings 
+mega holdings 
+shin kong fhc 
+sinopac holdings 
+taishin financial holdings 
+yuanta financial holding company 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+highly restricted 
+industry coverage brokers asset managers 
+company ticker 
+rating 
+price 
+michael cyprys cfa cpa 
+apollo global management llc apo 
+ares management ares 
+blackrock inc blk 
+charles schwab corp schw 
+trade financial corp etfc 
+franklin resources inc ben 
+invesco ivz 
+janus capital group inc jns 
+kkr kkr 
+legg mason inc 
+lpl financial holdings inc lpla 
+oaktree capital group llc oak 
+asset management plc omam 
+rowe price group inc trow 
+ameritrade holding corp amtd 
+the blackstone group 
+the carlyle group 
+waddell reed financial inc wdr 
+wisdomtree investments inc wetf 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley research 
+highly restricted 
+industry coverage banks 
+company ticker 
+rating 
+price 
+dkr 
+nkr 
+skr 
+skr 
+skr 
+skr 
+sfr 
+sfr 
+alvaro serrano 
+banca monte dei paschi siena bmps 
+banca popolare milano pmii 
+banco popolare bapo 
+banco popular pop 
+banco sabadell sabe 
+bankia bkia 
+bankinter bkt 
+bbva bbva 
+caixabank cabk 
+intesa sanpaolo isp 
+santander san 
+unicredit crdi 
+unione banche italiane scpa ubi 
+antonio reale 
+mediobanca banca credito finanziario mdbi 
+bruce hamilton 
+abn amro group abnd 
+bnp paribas bnpp 
+credit agricole cagr 
+ing groep inga 
+kbc group kbc 
+natixis cnat 
+societe generale sogn 
+chris manners aca 
+bank ireland bkir 
+barclays bank barc 
+danske bank danske 
+dnb dnb 
+hsbc hsba 
+lloyds banking group lloy 
+nordea nda 
+royal bank scotland rbs 
+seb seba 
+standard chartered bank stan 
+svenska handelsbanken shba 
+swedbank sweda 
+fiona simpson cfa 
+cybg plc cyb 
+cybg plc cybgc 
+huw van steenis 
+credit suisse group csgn 
+deutsche bank dbkgn 
+ubs group ubsg 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+industry coverage banks 
+company ticker 
+rating 
+price 
+hideyasu ban 
+japan post bank 
+mizuho financial group 
+sumitomo mitsui 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

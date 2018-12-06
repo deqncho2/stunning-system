@@ -1,0 +1,1325 @@
+february gmt 
+greater china technology semiconductors 
+position for future auto semi 
+growth upgrading asm pacific 
+and vanguard 
+asm pacific and vanguard are the two stocks see 
+benefiting the most from fast growing auto semi demand 
+the next two years given their revenue exposure 
+semiconductor content growing exponentially cars semiconductors are key 
+components enable future trends the automotive industry make cars 
+safer adas advanced driver assistance systems greener electric vehicles 
+and smarter communication entertainment some types semiconductors 
+such image sensors and power discretes may see revenue cagr 
+the coming decade global auto semi stocks have rated these trends 
+within greater china semiconductors think asm pacific auto semi 
+equipment vendor and vanguard power discrete foundry are best positioned 
+upgrade asm pacific given the growing semi contents cars the stock 
+has underperformed hsi hsi asm pacific since 
+november given the semi inventory digestion caused smartphone 
+demand weakness think the recent market correction has presented good 
+entry point into the stock asm has strong position supplying smt surface 
+mounting technology placing chips passive components onto pcb boards 
+equipment key car module makers such continental which committed 
+growing capex the coming years increase and estimated 
+continental grow revenue from 
+vanguard may transform into power semi foundry the stock has 
+outperformed taiex taiex driven the wafer price hikes 
+given the tight supply and management comments analyst call for 
+potential new fab construction had been cautious the stock given the 
+shrinking lcd driver market well competition from china fabs now 
+believe power discretes mosfet igbt will significantly change the company 
+revenue and margin profiles therefore raise our mid term earnings growth 
+rate assumptions and upgrade 
+other stock ideas that have exposure auto reiterate smic given 
+its exposure automotive camera sensors while other big cap names like tsmc 
+and mediatek are also well positioned their revenue contribution from auto 
+semis growing but still too small 
+morgan stanley taiwan limited 
+charlie chan 
+equity analyst 
+charlie chan morganstanley 
+daniel yen cfa 
+equity analyst 
+daniel yen morganstanley 
+eric chao 
+research associate 
+eric chao morganstanley 
+morgan stanley appreciates your support 
+the institutional investor all asia 
+research team survey 
+request your ballot 
+greater china technology semiconductors 
+asia pacific 
+industryview 
+what changed 
+line 
+from 
+asm pacific 
+rating 
+price target 
+equal weight overweight 
+vanguard international semiconductor two 
+rating 
+price target 
+underweight 
+overweight 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+global auto semiconductor overview 
+key facts about auto semis 
+automotive semiconductors accounted for global semiconductor consumption 
+total tam auto semis around billion more currently which means 
+per car semi content around today assuming units car production 
+certain types semiconductors such power discretes auto accounted for 
+the demand given the heavy usage power semis electric vehicles according 
+infineon the industry leader auto semis auto semi content will increase from 
+now for electric vehicles 
+exhibit global semi application breakdown 
+exhibit power semi application breakdown 
+power transistor market 
+semi market 
+industrial 
+communication 
+communication 
+automotive 
+computer 
+industrial 
+consumer 
+consumer 
+computer 
+automotive 
+source company data morgan stanley research 
+source company data morgan stanley research 
+exhibit semi content will significantly higher than 
+traditional ice 
+exhibit adas and side view rear view sensors will have the largest 
+market size while camera per car will increase close per car 
+ice 
+other features 
+hev phev 
+drivetrain non power semi 
+source company data morgan stanley research 
+drivetrain power semi 
+side view rear view 
+adas 
+camera mirror system 
+sensor car 
+cabin 
+source company data morgan stanley research 
+see three trends driving the acceleration auto semi content growth the coming 
+year safer adas advanced driver assistance systems greener electric 
+vehicles and smarter communication entertainment the strong growth outlook 
+has been reflected the share price performance global auto semi stocks 
+europe japan companies the past two years the chart below shows for those 
+semiconductor companies that have exposure autonomous cars for example nvidia 
+the share price performance has been even stronger 
+exhibit auto semi related share price movement shows strength the past two years 
+adi 
+ifx 
+stm 
+renesas 
+onnn 
+nxp 
+source thomson reuters morgan stanley research 
+three secular trends that drive auto semi demand growth 
+the semi content increase just illustration the overall trend next 
+generation cars that they will become 
+safer adas advanced driver assistance systems 
+see the most important trend for cars become safer approximately million 
+people die every year traffic related accidents almost per day according 
+the world health organization such the development adas advanced driver 
+assistance systems has been the center discussions the auto industry well 
+the semiconductor universe could ultimately promote safer driving and reduce car 
+accidents once adopted widely 
+different from autonomous driving adas provides various detection systems help 
+the driver make safer decisions drive more safely based all the sensor inputs and 
+calculations adas indeed stepping stone for the happening true autonomous 
+driving beyond level and above but adas will happen much sooner some the 
+more crucial subsystems under adas include the following 
+adaptive light control system 
+autonomous emergency braking 
+blind spot monitor system 
+driver monitoring system 
+lane departure warning system 
+surround view system 
+all the systems above are enabled through three processes sensing analyzing and 
+executing from cmos complementary metal oxide semiconductor image sensors 
+that capture surrounding images using semiconductor components analyzing the 
+inputs using semiconductor hardware such gpu and cpu see many opportunities 
+the semi space leverage this secular trend and position benefit addition will 
+also need mcus for controlling engines sensors and various other adas related 
+applications 
+greener electric vehicles 
+societies are becoming more aware environmental issues another trend that 
+prominent for cars become greener pollution caused the collaterals from 
+internal combustion engines has become worldwide issue automobiles with internal 
+combustion engines take the total carbon dioxide emissions the world 
+along with nox general term for nitrogen oxide which are the main drivers global 
+warming global and local governments have also started more environmentally 
+conscious setting more and more regulations for auto makers adhere 
+result the cost manufacturing internal combustion engines could increase which 
+could also further accelerate the progress adopting electric vehicles the future with 
+subsidies and gradually decreasing battery prices 
+while might take long time adopted more broadly hardware semis for 
+both ice and are going enable the trend greener vehicles happen sooner the 
+main drivers are pmic and mosfets that waste less energy and increase power 
+transmission efficiency which could directly lower emissions the long run addition 
+behind every charger some element utility equipment necessary enable power 
+flow electric vehicles from transformers wires new electric meters each 
+sold required infrastructure support and that would also 
+consume significant amount power semis per car 
+exhibit global fleet and evs total fleet 
+exhibit utility infrastructure investment nearly 
+source morgan stanley research 
+source morgan stanley research 
+smarter car entertainment communication learning 
+apart from being safer the installation adas with other convenient features such 
+vehicle driver monitoring systems vehicle vehicle communication platforms 
+and infotainment systems will also make vehicles smarter the dollar amount 
+electronic content vehicle has been increasing significantly recent years these 
+changes are not just going make the cars more convenient but also more 
+entertaining 
+similar the hardware described the section above another important piece 
+hardware for vehicles become smarter could enabled chipsets for the edge 
+calculation other essential hardware includes wifi chips for connectivity dram for 
+larger bandwidth for calculation and nand for data storage machine vision will 
+likely generate more than data per day 
+how does the greater china semi supply chain fit into the auto 
+semi investment theme 
+will take several years for local vendors replace foreign auto 
+semi suppliers 
+today semi companies europe and japan still control the key technologies given 
+their proximity top auto oems 
+china car production outgrowing the world and china accounts for global 
+car procurement currently however cars are different consumer electronics and 
+require much higher reliability car manufacturers china have typically stuck with 
+foreign vendors which quite different smartphone supply chains that have 
+broadly adopted chips from asia vendors 
+long term believe china will need more domestic suppliers for auto semiconductors 
+think will still take several years for greater china semi industry acquire the key 
+patents for most advanced automotive semi technology meanwhile are also 
+attempting identify the tech enablers the greater china region that are directly 
+involved with this auto semi trend and will provide more detailed discussion 
+below 
+companies greater china semiconductors may accelerate these trends lead 
+commoditization evs cars with high semi contents are exploring auto semi 
+exposure stories our greater china semi coverage break down the key demand 
+drivers six categories and stocks that have exposure the table below 
+electricity power semis 
+vision cis sensing 
+micro control mcu nor 
+centro computing gpu processor 
+communication wifi 
+entertainment audio display 
+exhibit auto semi supply chain greater china semi and their exposures 
+ticker 
+company 
+rating 
+market cap 
+wafer foundry 
+tsmc 
+two 
+vanguard 
+smic 
+umc 
+hua hong semi 
+two 
+win semi 
+backend foundry 
+ase 
+two 
+kingpak 
+kyec 
+two 
+amulaire 
+equipment 
+asm pacific 
+design 
+himx 
+himax 
+mediatek 
+silergy 
+niche memory mcu 
+macronix 
+nanya tech 
+auto semi products 
+revenue 
+exposure 
+key customers auto 
+mcu gpu sensors 
+power semi 
+cis 
+power semi 
+mcu power semi 
+vcsel for lidar 
+renesas nvidia stmicro 
+infineon 
+semi 
+semi 
+semi 
+cis 
+cis 
+cis gpu 
+power semi 
+infineon renesas 
+semi 
+omnivision semi 
+infineon 
+contientals bosch 
+contientals bosch 
+japan car oem 
+smt equipment wirebonder 
+heads display lcd driver 
+mmwave radar infotaiment chip 
+power 
+nor 
+dram 
+source thomson reuters morgan stanley research 
+think some business models can work greater china auto 
+semis 
+the following business opportunities are most concrete which why are upgrading 
+asm pacific and vanguard today 
+idm wafer foundry outsourcing 
+majority auto semi vendors today are running idm integrated device manufacturer 
+business model which means vertical integration its chip design wafer 
+manufacturing and even module assembly idm companies are running fab lite 
+strategies maintain certain levels outsourcing reduce capex burden risk some 
+outsourcing driven technology limitations mcu companies have stopped 
+investing logic fabs and instead outsource foundries for leading edge foundry 
+process renasas and stmicro are both the key mcu customers for tsmc outsourcing 
+can also driven increase demand the outsourcing analog power semi has 
+been slow because most foundry processes are proprietary however given the strong 
+demand for power semis expect outsourcing accelerate the coming years 
+exhibit given the strong demand for power semis see the outsourcing trend accelerating 
+and beyond 
+dram 
+cpu 
+nand 
+gpu 
+asic 
+outsourced 
+analog 
+house 
+mcu 
+cmos sensor 
+chipset 
+source morgan stanley research estimates 
+equipment supplying car module makers auto semi idms 
+the semiconductor chips cars general are smaller than major chips and 
+smartphones because they are distributed throughout the car instead limited the 
+small form factor smartphones and pcs for example the mcu consumption 
+low end car around units but would grow units high end one along 
+with the growth semi content car expect demand for smt surface mount 
+technology place semiconductor chips and passive components onto pcb 
+requires high precision and high throughput and the market used dominated 
+japanese and german vendors asm forayed into the smt market acquiring the 
+siemens electronics assembly systems seas business from siemens and today 
+has captured around global market share and chip packaging machine 
+increase one the global leading auto parts companies its analyst day 
+presentation continental showed upward trend capex recent years terms 
+absolute dollar amount which believe can attributed part the rising need for 
+smt equipment 
+exhibit smt the process placing semiconductor chips and passive components onto 
+pcb 
+source asm pacific 
+exhibit continental capex trend shows uptick vehicles 
+become more electric which will need more smt equipment from 
+vendors like asm pacific 
+capex 
+capex ratio 
+source company data morgan stanley research 
+chip design enable consumer features cars 
+asian semiconductor companies such mediatek novatek and realtek have 
+dominated the semiconductor designs for phones displays and iots the infotainment 
+and communication are actually form consumer electronics demand the car 
+with similar technologies companies such himax have already captured high market 
+share car display driver ics mediatek has introduced new chips that will launch the 
+future including adas mmwave radar infotainment chip and car telematics chip the 
+company has also set target global auto chip market share 
+its recent earnings call mediatek claimed that its mmwave radar product 
+competitive and has been making progress get design wins from japan car oems 
+exhibit technologies mediatek offers 
+driver vehicle 
+and environment 
+data collecting 
+and processing 
+driver vehicle 
+and environment 
+modeling 
+automated 
+driving scenario 
+determination 
+real time 
+interaction with 
+driver 
+vision processor 
+and mmwave 
+radar sensor 
+high speed 
+network 
+switcher 
+high 
+performance 
+sensor fusion 
+processors 
+powerful 
+cpu gpu 
+architecture 
+gnss 
+high 
+performance 
+processor 
+intelligent 
+algorithms 
+wifi bluetooth 
+modem 
+source company data morgan stanley research 
+autonomous driving algorithm for china market 
+autonomous driving key technology disruption for the car several machine vision 
+algorithm companies china are trying develop chips that can run the deep learning 
+cars opposed running the algorithm cloud which will take longer the trend 
+should benefit domestic algorithm developers because the car needs its chips 
+localized that the speed and response times can optimized chip design service 
+companies and leading edge wafer foundries should benefit however any revenue 
+contribution likely small the coming year 
+asm pacific good entry point for the long term auto semi story 
+share price has been weak lengthier semi inventory digestion 
+downgraded our rating asm pacific three months ago arguing for lengthier 
+semi down cycle according tsmc comments semiconductor inventory exiting 
+was several days higher than normal which implies that backend equipment orders 
+could weak the coming quarter asm pacific still has big exposure smartphone 
+semi some secular trends such dual cam and sensing could important 
+catalyst the long run however the new lcd iphone might not include the dual cam 
+feature save costs all these factors have led asm underperforming the hsi over 
+the past three months 
+ratio correlation asm pacific stock price 
+given the scale and nature asm pacific business its book bill ratio the ratio 
+that calculated through the amount that ordered divided the amount that 
+actually paid and billed therefore the higher the number means the higher the 
+demand has been seen leading indicator the overall semiconductor cycle 
+historically when the hits lows has proven good time accumulate the 
+stock asm pacific price corrected over the week its earnings 
+announcement investors believed that its had peaked after strong run 
+its fell believe bookings will recover given underlying demand 
+from autos and active alignment tools separately one key customer ase just 
+commented that backend capex should flat this year our view 
+likely that can move back therefore think are now good 
+entry point the market still bearish the smartphone market while the auto semi 
+potential has yet fully captured 
+exhibit asm will likely see inflection point soon given 
+secular demands from auto semis 
+exhibit since asm has been positively correlated with 
+its stock price 
+asm pacific group ratio 
+source company data morgan stanley research 
+asm stock price 
+ratio 
+source thomson reuters company data morgan stanley research 
+like asm long term positioning its revenue comes from auto 
+semi applications 
+auto accounts for revenue coming from smt for car modules and auto semi 
+idm packaging smt the main revenue driver for its automotive business cars are 
+becoming more intelligent and connected the increase semi content inevitable 
+which will also significantly increase the need for bigger capacity for smt addition 
+asm selling diebonder and wirebonders global auto semi idms and other osat 
+companies that are doing auto related back end processes aggregate asm has more 
+than revenue exposure auto semis and view the company important 
+proxy the overall auto semis story 
+believe asm pacific will outgrow its peers given its advantages auto 
+one characteristic for auto semi that different from smartphones its product 
+diversity and lower volume per product smartphone asm pacific leading smt 
+and back end equipment provider has advantage autos given its strategy offer 
+wide range product portfolio products for customers become more diverse 
+think less sensible aim for the highest quality equipment for each manufacturing 
+process asm pacific offers comparable quality with more cost effective options which 
+our view will likely put step ahead its peers addition being the industry 
+leader smt another value add that often overlooked auto industry known for 
+being very sticky customer auto companies seldom change partners the leader 
+with many top tier auto parts companies believe asm pacific will continue excel 
+with resourceful technical support for new players into the field 
+our concerns active alignment business proved overdone 
+have been too concerned about house threat active alignment equipment has 
+been talking point around asm however starting from late investors had 
+been worried that camera module makers might start have house capabilities 
+terms manufacturing equipment their own based our channel checks asm 
+equipment still the standard and not that likely replaced any time 
+soon terms cost effectiveness also note that sensing asp around 
+that regular cis equipment therefore dual camera becomes more essential while 
+sensing applications mature see huge growth potential for asm late 
+exhibit revenue mix has been stable but will likely see growth 
+smt materializing 
+exhibit asm revenue mix application 
+power 
+management 
+energy 
+industrial 
+consumer 
+automotive 
+other semicon 
+other smt 
+backend 
+leadframe 
+mobility comm 
+optoelectronics 
+smt 
+source company data morgan stanley research 
+source company data morgan stanley research 
+exhibit smt the process place semiconductor chips and passive components onto 
+pcb 
+source asm pacific company presentation 
+raise our target upgrade 
+the company due report its results march and not expect upbeat 
+guidance given the semi inventory issue the equipment book billing ratio 
+may see further deep 
+however are raising our eps forecasts for and for leave 
+our revenue forecast unchanged but revise our and revenue 
+forecasts the threat active alignment equipment sourcing has been 
+lifted with added momentum from auto smt and smt for smartphone believe that 
+gross margin could expand slightly given the high asp granted equipment 
+keep opex unchanged across the timeframe resulting increase eps 
+and increase 
+compared consensus have slightly higher eps forecasts for and 
+believe that the auto semi trend will commence earlier than market expectations 
+addition its demand increase beyond this also reflected our bullish 
+projection the top line not think that the market has priced the positive 
+margin impact the active alignment equipment would command double the asp 
+compared the original cis equipment also think that the market has overlooked 
+its competitive advantage offers diverse product portfolio that can help 
+customers ramp timely with its after sales service and compatible software interface 
+this will likely boost the margin expansion slightly more with the firm mid term efforts 
+move factories asia closer its customers 
+our bull and bear case values move higher line with the change our roll 
+out our residual income model our bull case value now with 
+bear case value 
+exhibit asm pacific earnings estimate revision summary 
+current 
+previous 
+current 
+previous 
+new 
+old 
+diff 
+new 
+old 
+diff 
+net sales 
+gross profit 
+operating profit 
+net income 
+reported eps 
+current 
+previous 
+new 
+old 
+diff 
+margins 
+gross margin 
+operating margin 
+net margin 
+source morgan stanley research estimates 
+exhibit asm pacific morgan stanley research estimates consensus 
+mse 
+con 
+diff 
+mse 
+con 
+diff 
+mse 
+con 
+diff 
+revenue 
+gross margin 
+operating marign 
+eps 
+source bloomberg morgan stanley research estimates 
+valuation comparison 
+for our coverage have been using one year forward look asm pacific 
+given our view that asm best positioned benefit from the auto semi secular trend 
+and also the adoption dual camera and sensing smartphones see being 
+relatively cheap compared the rest our coverage addition given its exposure 
+auto semi believe that asm pacific will able rate should start exhibit 
+less seasonality with strong growth potential into the next few years compared its 
+historical numbers asm pacific also trading below its mean terms oneyear forward after the correction since last july the peak its now looks 
+good opportunity accumulate asm pacific for exposure auto semi for 
+the upcoming years 
+asm pacific also offers cash dividend yield given its strong free cash flow which 
+our view should cap the downside risk share price well 
+exhibit greater china semiconductor coverage one year forward 
+roae 
+exhibit asm trading below average one year forward 
+our coverage 
+win semi 
+asm pacific 
+vanguard 
+tsmc 
+macronix 
+ase 
+smic 
+chipbond 
+nanya tech 
+umc 
+taiwan dram companies 
+roae 
+foundry 
+source morgan stanley research estimates 
+backend company 
+source morgan stanley research estimates 
+exhibit asm offers dividend yield 
+exhibit asm trading below its historical average 
+terms one year forward 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+jan 
+asm one year forward 
+source morgan stanley research estimates 
+source thomson reuters morgan stanley research 
+exhibit asm pacific quarterly financials 
+revenue 
+equipment 
+leadframes 
+smt 
+seq 
+cost goods inc depreciation 
+percent revenues 
+gross profit 
+gross margin 
+incremental margin 
+other revenue interest income 
+selling expense 
+percent revenues 
+general administrative expenses 
+percent revenues 
+net expenses 
+percent revenues 
+operating profit 
+percent revenues 
+finance costs 
+profit before tax 
+taxes 
+tax rate 
+minority 
+net profit 
+percent revenues 
+eps diluted 
+source company data morgan stanley research estimates 
+exhibit asm pacific residual income model 
+total equity 
+net profit 
+roae 
+residual income 
+spread 
+ending equity capital 
+forecast period 
+continuing value 
+equity value 
+shares 
+projected price 
+source morgan stanley research estimates 
+financial summary asm pacific 
+income statement 
+years end dec 
+cash flow statement 
+net sales 
+cogs 
+gross profit 
+operating expenses 
+operating income 
+adj wtd avg shrs 
+modelware eps 
+non operating income 
+pre tax income 
+income tax 
+minoriy interests 
+net income 
+balance sheet 
+years end dec 
+cash 
+inventory 
+cashflow from operations 
+pretax operating profit 
+depreciation 
+working capital change 
+other adjustments 
+cashflow from investing 
+capex 
+other adjustments 
+cashflow from financing 
+increase debt 
+increase debt 
+cash dividend paid 
+issuance stock 
+other adjustments 
+net change cash 
+financial ratios 
+fixed assets 
+other assets 
+total assets 
+current assets 
+years end dec 
+growth 
+turnover 
+operating profits 
+pretax profits 
+net profits 
+eps 
+borrowings 
+other liabilities 
+debt 
+other liabilities 
+gross margin 
+operating margin 
+pretax margin 
+net profit 
+total liabilities 
+common shares 
+roaa 
+roae 
+total equity 
+total liab shrhldr equity 
+margins 
+return 
+gearing 
+net debt equity 
+liabilities equity 
+ratios 
+current ratio 
+quick ratio 
+others 
+rch stim 
+rce rch 
+turnover days 
+inventory turnover days 
+turnover days 
+cash conversion days 
+risk reward asm pacific 
+house trend the near term was overestimated with smt demand 
+strengthening through auto semis 
+why overweight 
+increasing semi content and added 
+electronic parts vehicles have increased the 
+demand for smt surface mounting 
+technology equipment from which asm 
+pacific will directly benefit with auto 
+revenue exposure 
+concerns about active alignment insourcing trend were overdone asm pacific 
+still has edge technologically with double 
+the asp other cis equipment dual 
+camera and sensing proliferate 
+and 
+source thomson reuters morgan stanley research 
+price target 
+base case residual income model with intermediate growth rate 
+terminal growth rate and beta 
+bull 
+base case eps 
+stronger demand all segments mid teens growth across segments with 
+advanced technology like fowlp ramping sooner corporate margin continue 
+grow steadily 
+base 
+base case eps 
+stable demand overall demand recovery leads high single 
+low double digit growth revenues gross margin improves steady pace 
+and stays and 
+bear 
+base case eps 
+semi downturn comes sooner meaning that capital spending does not return 
+and back end equipment business sees demand lead frame and smt 
+businesses also suffer margin fails remain relatively high level across 
+segments 
+key value drivers 
+continued margin improvements from back 
+end and smt 
+secular technology trends and fanout wafer level packaging fowlp 
+and 
+demand from back end smt and 
+materials 
+potential catalysts 
+early ramp fowlp which starts 
+contributing revenue significantly 
+sooner than expected penetration rate 
+increase for dual cameras smartphones 
+and other end applications 
+more android camp smartphone makers 
+decide adopt slpcb substrate light 
+printed circuit board 
+risks achieving price target 
+the back end equipment industry exhibits 
+low visibility with overall semiconductor 
+downturn 
+and fowlp trends prove short lived 
+smt business shows soft demand 
+vanguard well positioned for auto power semi outsourcing 
+fundamental change power semis has exceeded lcd driver 
+are moving vanguard because besides the strong organic growth 
+power semis auto cagr are expecting more outsourcing demand tsmc 
+commented that auto mosfet needs outsourcing too small for tsmc but could 
+significant vanguard idm companies need migrate their proprietary process 
+wafer foundries called phase there are also cases that idm companies have set 
+new with chinese companies among the specialty semi companies see 
+vanguard likely the key beneficiary given its long relationship with auto semi idms 
+such infineon and semi 
+powerchip china fab progress has been slower than expected 
+one the reasons for our previous negative investment thesis vanguard was 
+competition from inch fabs the lcd driver business the smartphone driver 
+migration tddi was also another headwind because tddi uses inch fab process 
+had been expecting the main competitor powerchip china inch fab capacity 
+reach but that schedule has been delayed given slow qualification from 
+lcd driver customers but even that fab capacity were ramp the 
+impact vanguard could mild our view vanguard would already have 
+transformed into power semi focus fab 
+wafer prices should continue rise the coming year 
+see near term wafer asp and margin upside given strong auto semi demand the 
+stock price may have already reflected the wafer price hike but think the 
+trend will continue the following quarters given the tight raw wafer supply vanguard 
+should also regain bargaining power with lcd driver customers has added led 
+power and fingerprint sensors new businesses expect the company guide 
+revenue grow usd terms and gross margin should improve further 
+however the lack raw wafer supply would constrain the growth 
+remains seen how investors react the new fab construction 
+proposal 
+the last analyst meeting the company did not rule out new fab opportunity 
+vanguard does not rule out new fab investment which has changed our negative 
+investment thesis about value trap would prefer the company spend more 
+capex for future growth instead distributing back shareholders however some 
+value investors may prefer higher cash dividend payout the implication could 
+mixed 
+exhibit pmic business expanding substantially the back 
+the auto semi trend 
+exhibit vanguard margin has historically shown high correlation 
+with its topline 
+large driver 
+small driver 
+pmic 
+others 
+revenue 
+gross margin 
+source company data morgan stanley research 
+source company data morgan stanley research 
+exhibit vanguard free cash flow has been stabilizing which 
+positive for future dividend capex plans 
+fcf 
+source company data morgan stanley research 
+raise 
+raise our eps forecasts for and for assume higher 
+wafer prices new capacity growth and better margin profile 
+our price target our base case scenario value derived from residual 
+income model our key assumptions are unchanged cost equity riskfree rate risk premium beta given the company has successfully 
+diversified the new growth driver power semis revise our medium term growth 
+rate from but maintain the terminal growth rate 
+compared with consensus are more bullish the idm outsourcing trend regarding 
+these auto semi players with the substantial increase power semi demand and 
+components like mosfet believe the market has underestimated the impact 
+wafer pricing but overestimated the threat from wafer and competition therefore 
+our and top line numbers are high single digits mid teens higher than 
+consensus while believe that margin expansion will likely continue beyond 
+given the hike wafer prices 
+downside risks achieving our price target include weaker than expected lcd driver 
+demand competition power semi business slower than expected 
+penetration and company cuts dividend payout fund construction new fab 
+exhibit vanguard earnings estimate revision summary 
+net sales 
+gross profit 
+operating profit 
+pretax income 
+net income 
+eps 
+new 
+old 
+margins 
+gross margin 
+operating margin 
+pretax margin 
+net margin 
+diff 
+new new 
+diff 
+new new 
+diff 
+source morgan stanley research estimates 
+exhibit vanguard morgan stanley research estimates consensus 
+mse 
+con 
+diff 
+mse 
+con 
+diff 
+mse 
+con 
+diff 
+revenue 
+gross margin 
+operating marign 
+eps 
+source bloomberg morgan stanley research estimates 
+exhibit vanguard quarterly financials 
+total revenues 
+sequential change 
+change year ago 
+cost sales 
+percent revenues 
+gross profit 
+percent revenues 
+total opex 
+percent revenues 
+percent revenues 
+sales and marketing 
+percent revenues 
+general and admin 
+percent revenues 
+operating income 
+percent revenues 
+total non operating income loss 
+taxes 
+tax rate 
+reported income gaap 
+profit before taxes 
+percent revenues 
+change year ago 
+percent revenues 
+change year ago 
+eps 
+change year ago 
+source company data morgan stanley research estimates 
+exhibit vanguard residual income model 
+total equity 
+net profit 
+roae 
+residual income 
+spread 
+ending equity capital 
+forecast period 
+continuing value 
+equity value 
+shares 
+projected price 
+source morgan stanley research estimates 
+financial summary vanguard two 
+income statement 
+years end dec 
+net sales 
+cogs 
+gross profit 
+operating expenses 
+cash flow statement 
+years end dec 
+cash flow from operations 
+net profits 
+depreciation 
+equity investment losses income 
+other adjustments 
+cash flow from investing 
+operating income 
+non operating income 
+pre tax income 
+income tax 
+capex 
+change investment 
+change investment 
+other adjustments 
+net income 
+cash flow from financing 
+adj wtd avg shrs 
+reported eps 
+modelware eps 
+increase debt 
+increase debt 
+cash dividend paid 
+dir emp bonus paid 
+issuance stock 
+dec inc treasurest 
+other adjustments 
+net change cash 
+balance sheet 
+years end dec 
+financial ratios 
+cash 
+mkt securities 
+inventory 
+other 
+current assets 
+long term investments 
+fixed assets 
+other assets 
+total assets 
+borrowings 
+other liabilities 
+debt 
+other liabilities 
+total liabilities 
+common shares 
+retained earning 
+other shareholders equity 
+total equity 
+total liab shrhldr equity 
+morgan stanley research estimates 
+source morgan stanley research company data 
+growth 
+turnover 
+operating profits 
+pretax profits 
+net profits 
+eps 
+margins 
+gross margin 
+operating margin 
+pretax margin 
+net profit 
+return 
+roaa 
+roae 
+gearing 
+net debt equity 
+liabilities equity 
+ratios 
+current ratio 
+quick ratio 
+others 
+turnover days 
+inventory turnover days 
+turnover days 
+cash conversion days 
+risk reward vanguard two 
+auto semis are driving wafer demand benefiting vanguard with more stable fcf 
+expand give back 
+why overweight 
+fcf stabilzing which gives vanguard the 
+option increase its cash dividend capex 
+plan the next few years 
+wafer shortage along with the strong 
+demand auto for legacy nodes has 
+increased its blended wafer asp and earnings 
+key value drivers 
+global semiconductor growth 
+foundry demand from display driver ics 
+and power management ics 
+global inch foundry supply 
+source thomson reuters morgan stanley research 
+price target 
+base case residual income model 
+bull 
+base case eps 
+strong macro recovery ddi inventory level remains low smartphone ddi 
+shows growth assume global semi sales growth and 
+foundry industry growth better than expected demand for 
+capacity tddi penetration only and vanguard could serve 
+the market with its inch fab 
+base 
+base case eps 
+healthy semi growth sufficient ddi inventory level smartphone ddi shows 
+secular decline assume global semi sales growth and foundry 
+industry growth and tddi penetration reaches 
+bear 
+potential catalysts 
+wafer price hike 
+new fab construction 
+fast power semi outsourcing trend given 
+strong demand 
+lcd driver inventory replenishment 
+risks achieving price target 
+weaker than expected lcd driver 
+demand 
+competition power semi business 
+slower than expected penetration 
+company cuts dividend payout fund 
+new fab construction 
+base case eps 
+semi growth slowdown elevated ddi inventory level smartphone ddi shows 
+worse than expected decline assume overall semi industry growth and foundry growth weaker than expected demand for 
+capacity due faster product migration higher tddi adoption 
+and china powerchip starts mass production 
+additional valuation methodology and risks 
+our price target our base case scenario value derived from our residual 
+income model key assumptions our residual income model include cost 
+equity and terminal growth rate 
+downside risks achieving our price target significant demand slowdown china 
+inventory correction and severe pricing competition 
+disclosure section 
+the information and opinions morgan stanley research were prepared are disseminated morgan stanley asia limited which accepts the 
+responsibility for its contents and morgan stanley asia singapore pte registration number and morgan stanley asia singapore 
+securities pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents 
+and should contacted with respect any matters arising from connection with morgan stanley research and morgan stanley taiwan limited 
+and morgan stanley international plc seoul branch and morgan stanley australia limited holder australian financial 
+services license which accepts responsibility for its contents and morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents and morgan stanley india company private 
+limited regulated the securities and exchange board india sebi and holder licenses research analyst sebi registration 
+stock broker bse registration and nse registration inb merchant banker sebi registration 
+and depository participant with national securities depository limited sebi registration nsdl which accepts the 
+responsibility for its contents and should contacted with respect any matters arising from connection with morgan stanley research and 
+morgan stanley sekuritas indonesia and their affiliates collectively morgan stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report charlie 
+chan eric chao daniel yen cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+january morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research advanced semi engineering chipbond technology corp macronix international ltd mediatek nanya technology corp novatek 
+parade technologies ltd phison electronics corp realtek semiconductor silergy corp tsmc umc 
+within the last months morgan stanley managed managed public offering offering securities asm pacific nanya technology corp 
+within the last months morgan stanley has received compensation for investment banking services from nanya technology corp 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from advanced semi engineering 
+mediatek nanya technology corp smic umc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from advanced semi 
+engineering mediatek nanya technology corp novatek realtek semiconductor silicon motion smic umc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company advanced semi engineering asm pacific mediatek nanya technology corp smic umc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company advanced semi engineering macronix international 
+ltd mediatek nanya technology corp novatek realtek semiconductor silicon motion smic umc 
+morgan stanley llc makes market the securities advanced semi engineering himax technology inc silicon motion tsmc umc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+january 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months due rounding off decimals the percentages provided the total column may not add exactly 
+percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+stock price price target and rating history see rating definitions 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities advanced semi engineering asm 
+pacific nanya technology corp smic umc 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+certain information morgan stanley research was sourced employees the shanghai representative office morgan stanley asia limited for the use 
+morgan stanley asia limited 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage greater china technology semiconductors 
+company ticker 
+rating 
+price 
+charlie chan 
+advanced semi engineering 
+asm pacific 
+chipbond technology corp two 
+chunghwa precision test tech two 
+himax technology inc himx 
+jiangsu changjiang electronics tech 
+mediatek 
+nanya technology corp 
+phison electronics corp two 
+silergy corp 
+silicon motion simo 
+smic 
+tsmc 
+umc 
+universal scientific ind shanghai 
+vanguard international semiconductor two 
+win semiconductors corp two 
+daniel yen cfa 
+asmedia technology inc 
+aspeed technology two 
+egis technology inc two 
+macronix international ltd 
+novatek 
+parade technologies ltd two 
+realtek semiconductor 
+shenzhen huiding technology ltd 
+wpg holdings 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

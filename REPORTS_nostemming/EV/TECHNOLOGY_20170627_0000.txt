@@ -1,0 +1,1022 @@
+june gmt 
+technology semiconductors 
+sic chips increase mileage 
+sizing the 
+opportunity 
+with batteries struggling increase power intensity fast 
+rate believe semiconductors can play important role 
+increasing the range evs and thus penetration for the 
+same cost new sic technology could increase the range 
+evs and decrease charging time 
+morgan stanley international plc 
+francois meunier 
+equity analyst 
+francois meunier morganstanley 
+morgan stanley mufg securities ltd 
+kazuo yoshikawa cfa 
+equity analyst 
+kazuo yoshikawa morganstanleymufg 
+morgan stanley llc 
+craig hettenbach 
+equity analyst 
+craig hettenbach morganstanley 
+morgan stanley international plc 
+andrew humphrey 
+equity analyst 
+andrew humphrey morganstanley 
+harald hendrikse 
+equity analyst 
+harald hendrikse morganstanley 
+victoria greer 
+believe evs represent significant area growth for infineon stmicro 
+rohm have built proprietary chip model from the bottom using 
+number chips per car and pricing model based the statistical model 
+have used the past arm well more benign pricing assumptions for 
+investors that believe pricing will not follow the usual price decline any 
+scenario think there lots growth grab this market from 
+market 
+while igbts will remain mainstream for the next years think the shift 
+silicon carbide sic inevitable and could potentially reshape market share 
+dcf the value the power chip market represents and today 
+market cap for infineon stmicro and rohm respectively market size 
+assuming slower price declines the market could reach 
+and would represent and the market caps infineon stmicro 
+and rohm while representing very small part their revenues today 
+what the impact penetration according morgan stanley autos 
+team our autos team believes this major step forward from autos 
+perspective and likely material competitive advantage for oems that 
+adopt gives optionality oems either increase range reduce battery 
+capacity and cost headline oem went for the cost reduction option 
+battery pack cost car assuming kwh could come down from 
+taking total component cost for down about this broadly 
+consistent with calculations provided stmicroelectronics claiming cost 
+reduction assume that pack costs get kwh combined with 
+the sic support for smaller battery component costs could get 
+for conventional ice car much closer cost parity than 
+what the price semiconductor stocks overexposed the theme have 
+outperformed over the last months while difficult attribute specific 
+performance calculate exposure could represent infineon market 
+cap believe the impact rohm assuming fast take sic 
+could represent today market cap and for stmicroelectronics 
+all calculations based our through dcf 
+equity analyst 
+victoria greer morganstanley 
+paul walsh 
+equity analyst 
+paul walsh morganstanley 
+charles webb 
+equity analyst 
+charlie webb morganstanley 
+technology semiconductors 
+europe 
+industryview 
+line 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+what new and different this report 
+with battery cathode technologies power chips are our view the most important 
+components electric car 
+exhibit silicon carbide game changer for the and hybrid car industry 
+source morgan stanley research estimates 
+what the technology the future today the majority electric cars use silicon 
+chips called igbts which currently the most powerful transistor architecture 
+silicon following discussions with industry specialists such stmicroelectronics 
+rohm and infineon and attending the sia powertrain the future conference paris 
+chaired jochen langheim stmicroelectronics the april well 
+stmicroelectronics smart driving presentation its analyst day london the 
+may believe that transistors constructed silicon carbide sic are likely take 
+share the coming years car manufacturers exploit the benefit more 
+mileage from the same battery pack and less charging time with less weight 
+smaller form factor and reduced need for heat dissipation device particular 
+need for water pump and water cooling hence heading towards simplification the 
+car architecture note that the improvement mileage variable and depends 
+the driving conditions car drives long distance constant speed the increase 
+mileage will less than and could lower than car used town with 
+lots stop and goes and changes speed the improvement mileage will more 
+significant than the increased efficiency should even better when the sic chips 
+can integrated into the motor according infineon that said silicon carbide comes 
+with some teething issues terms reliability which believe are solvable and 
+infineon has already offered path very good reliability burn chips before they 
+leave the factory 
+implication for car oems sic proves efficient chip manufacturers claim car 
+oems will likely offer the technology their customers either augment the range 
+the car for the same price offer the same range for lower price and morgan 
+stanley global autos team has calculated that based the assumption 
+better efficiency the cost the overall car could reduced stmicroelectronics 
+assumed price reduction its analyst day which broadly line with our 
+calculations 
+how many power chips are needed electric car and full hybrid cars through 
+discussions with industry specialists and analyses electric car design have 
+identified two different architectures build car especially the level the 
+inverter which impact the number power chips 
+have identified that tesla uses boards with discrete power chips the inverter 
+level with igbt chips them just igbts for the last stage inverter and with 
+the other stages requiring total power chips for the car powertrain some 
+versions tesla use more than hundred igbts like the four wheel drive version 
+according infineon tesla does not use modules but larger number igbt chips 
+simple circuit board 
+following discussions with industry specialists have found that other cars use 
+power module that more optimised terms heat dissipation but takes more time 
+develop result non tesla cars require fewer chips sometimes without 
+encapsulation packaging called dies about for the most cost optimised cars with 
+some versions using dies for the main inverter alone but with more money 
+spent the module compared tesla models for most cars today according 
+rohm there are igbts for every phase motors and electric motors for the 
+higher end versions this range with pricing being key element for the 
+penetration cars believe that while there will wide range architecture 
+for the powertrain and full hybrid cars the most optimised solutions with lower 
+number higher end chips could prevail that what have used our bottom 
+model instead modeling per car type 
+pricing igbts silicon carbide have found through discussion with industry 
+specialists and searching for chips through distributors and oems that the high voltage 
+igbt chips cost with their protection devices diodes while sic mosfet 
+chip from stmicroelectronics costs each for quantity car oems could 
+have access igbts lower price they specify lower end chips and buy very 
+large quantity relative the cost the car and taking into account the reduced 
+system cost sic and increased mileage decreased charging time would argue 
+that with time sic could become dominant scenario but scenario igbts would 
+remain the dominant technology with twice the size the sic market for cars 
+term even beyond that said the speed adoption could vary and the market 
+leader igbts infineon argues that market penetration for sic will slow first 
+based the roadmap its own customers for the next five years starting with the car 
+charger and them only moving the main converter linked the motors from 
+however know that tesla has already started using sic and toyota working 
+dual track roadmap for the next generation prius main inverter with igbts but also sic 
+chips made house japan the competitive situation between silicon igbts and 
+silicon carbide transistors remain fluid our view and car oems will decide for 
+themselves like toyota with dual track strategy for the next prius and tesla already 
+using silicon carbide 
+pricing forecasts while there currently much exuberance around stocks related 
+electric cars would argue that even analog chips tend down prices 
+volume increases have found from the toyota presentation the sia paris 
+powertrain conference that igbts and igbt modules used toyota and made its 
+own factory have decreased price between the launch the third generation 
+and the fourth generation models toyota also expects the same kind price decline 
+for the fifth generation this represents cost reduction per annum much higher 
+than investor and some semiconductor companies expected our view infineon for 
+instance believes that adding more features the price power chips could stay flat 
+have shown our forecasts how pricing could evolve with little pricing decline 
+currently expected the majority investors and with price decline more line 
+with historical price declines toyota oem has more incentive reduce cost and 
+using the statistical model have used before for smartphone pricing see later 
+paragraph our pricing assumption 
+what matters most the incremental chip content and there range outcomes 
+with some high end cars with super fast charging and super long range with 
+incremental chip content internal combustion engine more than while 
+other cars optimised for cost could have incremental semiconductor content 
+hence the mix important and with cost sensitive customers believe chip 
+architecture for cars optimised for costs could prevail volume ramps 
+exhibit how build our bottom model 
+source morgan stanley research estimates 
+exhibit conclusion after adjusting for market share and calculating dcfs for each quadrant 
+source morgan stanley research estimates wacc and terminal growth rate 
+forecasts for the market fast adoption sic scenario igbts remains the 
+dominant architecture sic scenario intermediary scenario between the 
+various scenarios 
+exhibit scenario sic becomes the technology choice very quickly and the market grows 
+power chips tam 
+igbt power chips tam 
+sic power chips tam 
+source morgan stanley research estimates 
+exhibit sic becomes the technology choice and the market grows then infineon 
+could have still lots growth ahead but with more competition from stmicroelectronics and 
+rohm 
+infineon 
+stmicroelectronics 
+rohm 
+source morgan stanley research estimates 
+exhibit scenario igbt remains dominant the electric cars market and sic remains high 
+end solution only 
+power chips tam 
+igbt power chips tam 
+sic power chips tam 
+source morgan stanley research estimates 
+revenue forecasts for the main companies infineon stmicroelectronics and rohm 
+exhibit igbts remain the technology choice then infineon very likely maintain its 
+dominant position the power chip market for evs 
+infineon 
+stmicroelectronics 
+rohm 
+source morgan stanley research estimates 
+how does the statistical model work 
+price deflation autos chips too 
+this section show that autos chips should also obey price elasticity rules found 
+other semis area like microcontrollers smartphone chips when units increase then 
+prices decrease also the case cars for adaptative cruise control airbags dimming 
+lights igbts shown toyota the sia powetrain conference where its house 
+igbts decreased cost per annum the past several years 
+there price deflation autos chips too the link below show the price elasticity 
+selection chips and highlighted orange the price elasticity curves 
+automotive mcus and infotainment chips the curves the three product categories 
+are steep steep even steeper than chips used smartphones this implies that 
+these two product categories are less price elastic than chips used any generic arm 
+based logic chip put another way unit shipments not increase significantly with 
+price cuts this contradicts the notion that price deflation benign autos semis there 
+price negotiation with car parts makers either annually semi annually and 
+depending supply and demand can lead different results 
+another way look price deflation look the options list car oems typically new features are sold high end cars and end standard models about 
+years later once the price has declined enough this not different from trends 
+smartphones consumer electronics bluetooth and wifi are now standard while only 
+few phones had bluetooth and wifi ten years ago 
+test the statistical model selecting your type chip the drop down list below 
+published our global insight note published april automotive 
+and auto credit implications for chips 
+what are power devices 
+reducing power loss key global issue 
+increasing energy efficiency issue that the entire globe must tackle order make 
+efficient use finite fossil fuels and help prevent global warming caused 
+emissions many discussions have been centered around expanding the use renewable 
+energy such solar and wind that not generate however the case solar 
+power the amount electricity generated varies greatly with the time day and the 
+weather the amount electricity generated wind power the other hand varies 
+greatly with the strength the wind and although nuclear power can provide stable 
+supply electricity presents the risk major damage surrounding areas the 
+event serious accident and the possibility opposition driven public opinion 
+the wake serious accident like that seen fukushima unit japan 
+order increase energy efficiency important not just diversify energy sources 
+and expand the use renewable energy but also minimize power loss the process 
+delivering the electricity produced generators over transmission equipment end 
+users for example running electronic device that consumes power requires 
+energy source equivalent exhibit lost when the power 
+generated and lost transmission and the process conversions run 
+power supply circuits power semiconductors are devices that help reduce this sort 
+loss and increase energy efficiency 
+exhibit energy are needed power electronic devices electricity lost the process power transmission 
+source morgan stanley research based data from infineon 
+the role power semiconductors 
+power semiconductors are devices that control and convert electrical power they 
+primarily convert electricity from from and from and 
+serve switches that control power efficiently changing its voltage while end users 
+have little opportunity sense their performance unlike processors and memory 
+these devices work behind the scenes improve energy efficiency 
+when making analogies for electronic devices the human body mpus and memory 
+can viewed the brain processing and memorizing information sensors are the eyes 
+and ears providing the five senses motors actuators and mems are the hands and the 
+feet and solar cells are the digestive organs turning food into energy this vein power 
+semiconductors then are the blood vessels and nerves that supply energy the 
+hands feet and 
+exhibit power semiconductors can likened the vascular and nervous systems the 
+human body 
+source morgan stanley research 
+power semiconductor market size 
+there are many definitions power semiconductors narrowly they are often defined 
+power discrete semiconductors such igbts mosfets power bipolar transistors 
+and power diodes more broadly some might add power supply circuits such linear 
+regulators and switching regulators and logic lsis for power management which 
+control these 
+exhibit global semiconductor shipments 
+total semiconductors 
+micro 
+logic 
+memory 
+analog 
+discrete 
+diode 
+small signal transistor 
+power transistor 
+mosfet 
+igbt 
+bipolar other 
+thyristors 
+opt 
+all other 
+cagr 
+source sia morgan stanley research 
+power semiconductor applications 
+the applications that incorporate power semiconductors run the gamut from computer 
+and communication equipment power infrastructure power semiconductors have 
+above average exposure industrial and automotive applications 
+exhibit application breakdown the power transistor market 
+industrial 
+automotive 
+consumer 
+industrial 
+computer 
+semi market 
+communication 
+computer 
+power 
+transistor 
+market 
+communication 
+consumer 
+automotive 
+source sia morgan stanley research 
+the key applications are follows 
+industrial electric power consumption motors accounts for global 
+electric power consumption power semiconductors are used control the speed 
+factory pumps and fans belt conveyors and industrial equipment that use induction 
+motors 
+automotive boost and buck circuits are needed for both the high voltage the 
+running systems that supply power from the power supply system battery the 
+motor and the low voltage for other electrical systems electric and hydrogen vehicles 
+power semiconductors are used these battery boost and buck circuits 
+home appliances power consumption can cut substantially using power 
+semiconductors for inverter designs within appliances among emerging economies 
+there remain countries where ratio air conditioners with inverter design still low 
+data centers demand for data centers grows keeping power consumption and cost 
+down are key issues demand for power semiconductors servers and air conditioning 
+equipment expected grow 
+data centers and the like are also equipped with uninterruptable power supplies ups 
+supply stored power equipment when the connected commercial power supply 
+goes down that equipment does not suffer momentary voltage drops power 
+outages power semiconductors for upss such thyristors and igbts play important 
+roles here 
+types power semiconductor 
+the ideal power semiconductor serves perfectly switch other words has 
+zero electrical resistance when has infinite resistance when off and switches 
+instantly between and off producing power loss and generating heat 
+however today technology has not reached this point switches not yet react 
+immediately have slight lags response time and their resistance not perfectly zero 
+when 
+the ideal switching operation switches large amounts electric power instantly 
+however reality difficult achieve both instantaneous and large amounts for 
+this reason variety power semiconductors are used depending the application 
+and the operating characteristics sought the primary power semiconductors used 
+switches are mosfets and igbts 
+mosfets can handle several kilowatts while igbts can handle several 
+megawatts 
+mosfets metal oxide silicon field effect transistors boast high response speed but 
+have low withstand voltages measure the voltages they can endure due 
+structural constraints higher speeds mosfets are used low power applications 
+such smart phones and power supplies 
+igbts insulated gate bipolar transistors igbts have lower response speed but high 
+withstand voltages and their power loss when with high current flowing low 
+because these characteristics they are used home appliances autos industrial 
+equipment and the like 
+nevertheless power semiconductors that use conventional silicon substrates are 
+approaching their theoretical limits performance which are determined the 
+physical properties silicon and are unlikely see dramatic improvements 
+compound semiconductor that possess physical properties superior such silicon 
+carbide sic and gallium nitride gan described the next section are expected 
+more frequently adopted the future 
+exhibit breakthroughs achieved power semiconductor material characteristics 
+high 
+resistance 
+sic 
+gan 
+material 
+low 
+low 
+breakdown voltage 
+high 
+source morgan stanley research 
+what are sic power semiconductors 
+sic silicon carbide and gan gallium nitride have smaller crystal lattice constants and 
+large band gaps compared with silicon and are thus called wide gap semiconductors 
+having small lattice constant means that the bonds between atoms are strong 
+providing the excellent physical properties high thermal conductivity and insulation 
+breakdown field strength sic occurs number different crystal structures such 
+and with sic being the best suited power devices 
+exhibit comparison materials used power semiconductors 
+properties 
+sic 
+gaas 
+gan 
+diamond 
+hexagonal 
+zincblende 
+hexagonal 
+breakdown field 
+thermal conductivity cm 
+control 
+thermal oxide 
+crystal structures 
+energy gap 
+saturation drift velocity 
+relative dielectric constant 
+source morgan stanley research based data from rohm 
+features power devices that use sic substrate are shown below 
+lower power loss sic has about times the insulation breakdown field strength 
+meaning its drift layer key source electrical resistance about one tenth thick 
+which greatly lowers resistance values and enables large reductions power loss this 
+greatly reduces power device conduction loss and switching loss 
+high temperature switching operation sic not only reduces power loss with its high 
+insulation breakdown field strength also facilitates higher withstand voltages 
+allowing the use schottky barrier diodes sbds unlike sbds are diodes that use 
+the schottky barrier created the connection metal semiconductor compared 
+with junction diodes they not have charge carriers and can switch faster 
+high temperature operation conventionally temperature rises electrons migrate 
+the conduction band leakage current increases and devices sometimes stop functioning 
+normally sic has band gap about three times wider than the increase leakage 
+current small even high temperatures enabling high temperature operation 
+high heat dissipation effect sic has three times the thermal conductivity 
+improving heat dissipation 
+expected applications for sic power semiconductors 
+with its superior physical properties sic based power devices are expected for the 
+following applications 
+autos use sic power devices onboard chargers well progressing onboard 
+chargers are component that only necessary when phv charging auto oems 
+are working hard make them smaller and lighter they try boost fuel efficiency 
+changing the power semiconductors used inverters for the main motor 
+hydrogen and electric vehicles the future from sic inverter efficiency will 
+improved noise will reduced size shrink and light weight will achieved and space 
+will saved 
+solar power generation sic the moment allows lower bill material with 
+smaller footprint terms heat dissipation devices around the chip european power 
+conditioning system pcs manufacturers lead the adoption sic sbds and sicmosfets which they use boost converters inverters they enable higher conversion 
+efficiency greater efficiency product weight and other advantages over 
+computers and communications sic diodes are used power factor correction pfc 
+circuits switching power supplies for servers and telecom base stations compared 
+based devices merits sic diodes include smaller size transformers thanks 
+higher switching frequencies elimination recovery loss continuous mode and 
+higher efficiency 
+according the yano research institute about the sic power semiconductor 
+market sic sbds for pfcs the main suppliers are infineon stmicrolectronics 
+wolfspeed cree company and rohm infineon appears the leader this field 
+industrial machinery wide range applied products that use sic discretes are being 
+developed with the goal deployment industrial machinery power supply 
+manufacturers are especially active commercializing full sic modules 
+railroads rolling stocks equipped with inverters from mitsubishi electric service 
+japanese subway lines the yamanote line and elsewhere rohm sic sbds and 
+mosfets are used inverter modules for railroads made denmark danfoss these 
+modules are being validated france alstom which deals rolling stock 
+exhibit types and applications power semiconductor devices 
+current 
+silicon 
+power 
+transmission 
+power 
+supply 
+industrial 
+motor 
+drive 
+converter 
+router 
+vrm 
+automotive 
+control 
+equipment 
+electric 
+railway 
+steel 
+wind power rolling 
+generation 
+high 
+medium pressure 
+voltage 
+drive 
+refrigerator 
+washing 
+machine 
+mobile power 
+supply 
+mobile 
+power 
+air 
+conditioning 
+large 
+motor 
+drive 
+switching 
+power 
+supply 
+sic silicon carbide 
+gan galium nitride 
+voltage 
+source morgan stanley research 
+why sic adoption has been slow 
+most research institutions forecasted years ago that the sic power semiconductors 
+market would reach scale above however this point has become 
+common view that the market will less than the following are 
+possible reasons why sic adoption has been far slower than previously forecasted 
+slow shift full mass production for sic wafer leaders such cree and rohm 
+sicrystal are currently mass producing sic sbds and sic mosfets mainly 
+wafers sic mosfet mass production wafers ramps earnest around cost reduction and speedy expansion will likely happen after 
+the history semiconductors proves that the most important factor for the adoption 
+semiconductor devices not performance but cost long mass production 
+performance does not improve sic based devices will unable become the 
+mainstream power semiconductors 
+lags solution sic technical issues sic chip performance improving but issues 
+remain terms highly heat resistant materials for modules sealants bonding 
+materials internal inductance etc noise vibration reliability and elsewhere 
+mosfet cost being reduced and performance being improved infineon has started 
+mass production mosfets super junction mosfets wafers and further 
+cost reduction expected many believe that for the spread sic mosfet pick 
+speed its cost differential with has double better further cost reductions 
+sic are needed 
+heat resistant performance igbt modules improving for inverters achieve 
+the desired compactness and lower cost igbt modules need higher power density than 
+the past which means operating temperatures must rise technological improvements 
+have increased igbt performance heat resistance 
+sic device applications are limited inquiries the area industrial machinery are 
+constrained special power supplies and the like although sic devices have begun 
+adopted the automotive arena onboard chargers their deployment main 
+inverters generally expected happen sooner than 
+factors that should accelerate the adoption sic 
+full mass production sic wafers electronic device industry news dec 
+estimated the sic wafer market this unit base 
+estimated monthly production for power devices was pieces wafers 
+and slightly under pieces wafers surface area wafers were seen 
+about the total 
+advanced materials the firm was the first the industry ship sic wafers for 
+power devices exhibited wafer and shipped its first samples early 
+main players sic power devices 
+infineon technologies announced the acquisition wolfspeed cree 
+power device and device division july but the acquisition did not complete 
+and thus infineon did not gain accelerated access sic product portfolio infineon has 
+portfolio sic diodes and hybrid modules and has launched sic transistors using 
+trench technology which claims has superior performance planar mosfets rohm 
+has been using trench sic transistors for years hence infineon roadmap not 
+unique also understand from attending conference electric powertrain 
+organised the sia paris that infineon has found way make sic chips more 
+reliable eliminating the chips more likely fail after period burn infineon 
+sources silicon carbide wafers from four suppliers including wolfspeed part cree 
+cree through its wolfspeed subsidiary dominates the market producing the 
+raw sic wafers and leading market share power chips and modules 
+semiconductor announced the purchase fairchild semiconductor november 
+completed august thereby acquiring high voltage products developed 
+fairchild for industrial equipment for next generation power devices the acquisition 
+transic also added fairchild sic power device technology its existing expertise 
+gan power devices 
+stmicroelectronics has been shipping sic diodes and mosfets for several years and 
+has now started shipping its second generation mosfets with good pipeline design 
+wins including tesla our view stmicroelectronics has recently secured access sic 
+wafers volume for the next several years from three suppliers 
+rohm small signal devices previously formed the core rohm discretes segment but 
+the firm has endeavored strengthen its power device business recent years among 
+these efforts the company has been actively involved sic power devices purchasing 
+the sic wafer maker sicrystal with the aim integrate production from wafers 
+devices estimate sic related sales reach yoy with 
+the majority for automotive mainly onboard charging devices and industrial equipment 
+applications sicrystal was latecomer full mass production wafers but has 
+persisted with development with view commencing mass production earnest from 
+mitsubishi electric mitsubishi electric has worked developing sic mosfet and sicsbd with withstand voltages ranging from and the first company 
+the world have commercialised inverters for rolling stock featuring full sic power 
+modules mitsubishi electric covered morgan stanley mufg securities yoshinao 
+ibara 
+toyota motor toyota has been road testing prototype vehicles equipped with pcu 
+power control unit boost converters and main motor inverters containing sic sbd and 
+sic mosfet since the firm has equipped its hirose plant with clean room facilities 
+for sic device mass production and aims announce mass production models featuring 
+sic 
+fuji electric fuji electric currently operating lines for sic wafer processing well 
+assembly testing its matsumoto factory the production base for power 
+semiconductors that the company constructed october the front end 
+production capacity full utilization wafers month 
+exhibit main players sic power devices 
+electric next generation 
+railway power devices 
+diode mosfet igbt mosfet igbt mosfet igbt 
+sic 
+gan 
+consumer 
+semiconductor 
+semiconductor 
+fairchild 
+cree wolfspeed 
+gene sic 
+transphorm 
+epc 
+alpha omega 
+texas instruments 
+vishay 
+canada gan systems 
+europe infineon technologies 
+stmicroelectronics 
+nexperia 
+micro gan 
+japan mitsubishi electric 
+toshiba 
+fuji electric 
+renesas electronics 
+rohm 
+hitachi 
+shindengen 
+panasonic 
+sanken electric 
+toyota motor 
+denso 
+new japan radio 
+nihon inter 
+sansha electric 
+sharp 
+sumitomo electric 
+furukawa electric 
+industrial 
+automotive 
+source morgan stanley research based yano research institute data 
+view from autos sic could material support battery 
+penetration 
+victoria greer harald hendrikse european autos 
+sic could reduce component costs car bringing total 
+cost ownership below internal combustion engine cars 
+supporting our battery penetration forecasts 
+broadly the feedback get from european autos companies sic that its 
+efficiency clear positive but costs remain very high here show that sic 
+could mean material cost reductions evs offering oems the ability increase 
+range achieve the same range lower cost expect oems both 
+offering range battery capacities different price points across the same 
+model engine variants are priced today and tesla already does for battery 
+evs 
+component costs petrol car today are around depending battery 
+capacity and cost assumptions this rises for battery without sic 
+battery kwh relatively bullish assumptions all else equal using 
+sic reduce battery capacity but maintaining the same range could see 
+cost car fall assuming the same system cost estimate that battery 
+evs reach total cost ownership parity with ice cars around sticker price 
+premium with sic mile range could come lower monthly 
+payment cost than petrol diesel car 
+trade off between increased range and reduced cost 
+range miles today going today the newest evs are 
+achieving fully electric ranges around miles using the epa standard 
+which tougher than the european nedc certified ranges the chevy bolt epa 
+certified miles range the tesla model expected have least miles the 
+next generation nissan leaf due expected step range miles from 
+the range miles the larger battery option both estimates are from 
+cleantechnica information remains closely guarded new launches particularly 
+what ranges can achieved under the epa certification regime but targets for the 
+porsche mission audi tron quattro and the mercedes suv are all around 
+miles almost 
+range has been the priority but think miles will sufficient 
+thus far new launches have mostly seen improved energy density deployed 
+increased battery capacities higher kwh order achieve longer ranges range per 
+kwh has not really improved but the physical size and cost per kwh has come down 
+hard gauge exactly where the tipping point would consumer acceptance but 
+think that miles major step from current levels over time certainly 
+see potential for some much longer range evs the market but also believe that oems 
+will seek offer range battery capacities not least support pricing for variants 
+with larger batteries tesla already prices its models this way think that oems 
+could use the efficiency improvements that sic brings increase range some cases 
+and reduce cost others charging times are also key making smaller batteries 
+workable for consumers but for the launches charging times are already 
+expected fall sharply and sic further development that could reduce charging 
+time 
+exhibit battery evs today the latest have around miles range launches are 
+expected miles 
+model 
+today production 
+nissan leaf 
+nissan leaf 
+chevy bolt 
+bmw range extender 
+bmw range extender 
+tesla model 
+tesla model 
+tesla model 
+future launches 
+nissan leaf next generation 
+porsche mission 
+audi tron quattro 
+mercedes suv 
+mini 
+bmw 
+jaguar pace 
+battery 
+year size kwh 
+epa range epa range 
+miles 
+curb 
+weight 
+kwh 
+tbc 
+tbc 
+competitive 
+competitive 
+source company data cleantechnica automotive news morgan stanley research italics denote data unconfirmed the company epa 
+all else equal sic could reduce component cost 
+estimates battery pack costs vary typically see expectations between and 
+kwh the early this implies total battery pack cost 
+between and taking total component costs well above traditional internal 
+combustion engine cars assuming only that battery using sic power 
+electronics could achieve the same range battery without clearly costs 
+could come down substantially saving per car far seems that sic not 
+widespread even orders for evs with three year time lag between orders and 
+start production the auto industry clearly any sic cost savings will post 
+the earliest however this coincides with our expectations for penetration ramp 
+between and based oems model launch plans our tech colleagues 
+expect total system cost for sic the same today systems despite higher chip 
+costs haven flexed our assumptions for the hybrid powertrain here electric 
+motor inverter converter charger wiring 
+exhibit sic could reduce the component cost 
+component cost car 
+additional exhaust 
+content 
+engine development cost 
+battery pack 
+hybrid powetrain 
+ice powertrain 
+exterior 
+interior 
+electrical 
+vehicle body 
+chassis 
+ice diesel euro 
+hybrid 
+battery battery battery 
+kwh kwh kwh 
+evs with sic could cheaper than ice cars total cost 
+ownership 
+purchase prices are much higher today show below model attempting 
+calculate the impact monthly running costs much higher current transaction 
+prices have also assumed that least early evs have much lower residuals 
+than ice cars suggesting that lease costs will much higher given greater 
+depreciation will have covered during the life the lease thus monthly lease 
+costs for phevs and bev could much higher than monthly lease costs 
+for petrol engine alternatives however then continue compare total running 
+and ownership costs evs can start quickly reduce that price disadvantage 
+lower running costs make much the difference looking tco assume 
+phevs and bevs have lower fuel costs lower insurance costs and lower service 
+costs than current vehicles calculate that based european fuel prices fuel and 
+running costs for bevs could much lower than for current petrol diesel 
+engined cars then add all calculate that although hybrids and extendedrange evs continue more expensive all our calculation bev costs per 
+month comes just versus for our petrol and diesel cars not huge cost 
+difference sic could reduce this gap below petrol car just 
+euro compliant diesel car then battery evs could cheaper total 
+cost ownership basis 
+exhibit total cost ownership calculations are close parity for battery evs around 
+purchase price premium petrol european fuel costs 
+purchase price 
+assumed residual after years 
+residual year 
+capital cost 
+monthly lease cost 
+annual running costs 
+fuel 
+insurance 
+servicing 
+annual running cost 
+monthly running costs 
+petrol 
+diesel 
+phev 
+rev 
+bev 
+fcev 
+miles with fuel per liter mpg 
+total cost ownership 
+tco pcm 
+monthly lease plus running costs 
+source morgan stanley research estimates 
+technological advances support our battery penetration 
+forecasts 
+our base case for battery penetration sees new car sales battery evs 
+excluding hybrids rising and 
+with over billion fully electric cars the global fleet order reach these 
+levels think that material technological advances both battery technology and 
+other powertrain components such the power electronics with sic are required 
+cost remains one the major hurdles our base case forecasts being achieved 
+see our work modelling the global auto fleet out autos shared mobility 
+one billion bevs may well more detailed work 
+component changes and costs autos shared mobility content evolution ice 
+hybrid march 
+exhibit battery electric penetration model vehicles 
+and growing bev sales mean that ice sales may peaking right now and 
+start impact much more negatively absolute ice sales volumes post 
+world bev sales penetration 
+source morgan stanley research estimates 
+exhibit fleet basis the ice fleet continues grow until and doesn start fall 
+sharply until post assuming our current global fleet growth 
+ice fleet 
+bev fleet 
+world car fleet 
+source world bank imf ihs ward morgan stanley research estimates 
+disclosure section 
+morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the prudential 
+regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial services and 
+markets act research which has been prepared any its affiliates used this disclosure section morgan stanley includes rmb morgan 
+stanley proprietary limited morgan stanley international plc and its affiliates 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report victoria 
+greer harald hendrikse craig hettenbach andrew humphrey francois meunier paul walsh charles webb kazuo yoshikawa cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+may morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research aixtron asm international dialog semiconductor plc stmicroelectronics 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from aixtron ams asm 
+international asml holding dialog semiconductor plc infineon technologies rohm stmicroelectronics 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from asm 
+international infineon technologies 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company aixtron ams asm international asml holding dialog semiconductor plc infineon technologies rohm 
+stmicroelectronics 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company asm international infineon technologies rohm 
+stmicroelectronics 
+morgan stanley llc makes market the securities asml holding stmicroelectronics 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+may 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+stock price price target and rating history see rating definitions 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities asm international stmicroelectronics 
+member research who had could have had access the research prior completion owns securities related derivatives the asml holding 
+this person not research analyst member research analyst household 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage technology semiconductors 
+company ticker 
+rating 
+price 
+sfr 
+andrew humphrey 
+aixtron aixgn 
+francois meunier 
+asml holding asml 
+dialog semiconductor plc dlgs 
+imagination technologies group img 
+infineon technologies ifxgn 
+stmicroelectronics stm 
+mathias santos silva 
+ams ams 
+asm international asmi 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

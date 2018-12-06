@@ -1,0 +1,1357 @@
+foundation 
+november gmt 
+freight transportation 
+blockchain freight transportation early days 
+yet but worth the hype 
+believe blockchain technology has the potential join autonomous trucks drones and the 
+uberization freight key disruptive technology that can bring operating and cost 
+efficiency supply chains while also being threat existing asset light business models 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict interest that could affect the objectivity morgan stanley research 
+investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions communications with subject company public appearances and trading securities held 
+research analyst account 
+contributors 
+foundation 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley llc 
+ravi shanker 
+james faucette 
+katy huberty cfa 
+equity analyst 
+equity analyst 
+equity analyst 
+ravi shanker morganstanley 
+james faucette morganstanley 
+kathryn huberty morganstanley 
+morgan stanley international plc 
+morgan stanley llc 
+morgan stanley llc 
+penelope butcher cfa 
+diane huang 
+spencer chernus 
+equity analyst 
+research associate 
+research associate 
+penelope butcher morganstanley 
+diane huang morganstanley 
+spencer chernus morganstanley 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley international plc 
+shaked atia 
+danyal hussain cfa 
+victoria irving 
+research associate 
+equity analyst 
+equity strategist 
+shaked atia morganstanley 
+danyal hussain morganstanley 
+victoria irving morganstanley 
+morgan stanley llc 
+morgan stanley international plc 
+elizabeth elliott cfa 
+rasika sankpal 
+research associate 
+research associate 
+elizabeth elliott morganstanley 
+rasika sankpal morganstanley 
+contents 
+foundation 
+basic background 
+history and development 
+legislation 
+current use applications 
+supply chain benefits 
+implementation obstacles and risks 
+stock implications 
+payments processing implications 
+communications systems and tech implications 
+sri implications 
+blockchain glossary 
+valuation methodology and risks 
+blockchain freight transportation 
+early days yet but worth the hype 
+foundation 
+freight transportation 
+believe blockchain technology has the potential join autonomous trucks drones and the 
+uberization freight key disruptive technology that can bring operating and cost 
+efficiency supply chains while also being threat existing asset light business models 
+north america 
+freight transportation industry view 
+line 
+what blockchain simply put blockchain distributed ledger technology that allows 
+allow for smooth speedy and secure execution contracts across the supply chain thereby 
+details transaction sit independent systems each party that transaction the 
+not just eliminating physical documentation but also eliminating manual involvement 
+decentralized nature blockchain makes safe the electronic nature blockchain gives 
+pletely automating contract execution and delivery from initiation through payment 
+speed flexibility and potential for automation while there not yet hard definition 
+through smart contracts blockchain also offers superior supply chain visibility and control 
+what constitutes blockchain blockchain must have four fundamental characteristics 
+longer term the involvement blockchain transactions grows and marketplace 
+immutability security automation transparency and trustless operation the outset 
+evolves can potentially reduce the number steps needed the supply chain completely 
+must clarify that blockchain not bitcoin any the cryptocurrencies that are most 
+especially combination with iot technology blockchain can also integrate with and accel 
+monly associated with the technology cryptocurrencies are just one application block 
+erate the uberizaton freight especially with the integration not just through large 
+chain technology and can used basis platform for blockchain transportation 
+scale automation but also identifying eliminating bottlenecks exception management and 
+applicable 
+acting verification system steps that today may require manual intervention expect 
+smart contracts widely available for commercial use and some the more 
+what are the implications for freight transportation there are potentially many benefits 
+sophisticated applications available ultimately believe the revenue opportunity 
+using blockchain transportation from near term simple applications longer term 
+for blockchain freight transportation can much encompasses 
+complex solutions the basic categories benefits are visibility security and automation 
+global truck brokerage freight forwarding truck fuel spend 
+basic level the secure transparent and automated nature blockchain technology can 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict interest that could affect the objectivity morgan stanley research 
+investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions communications with subject company public appearances and 
+trading securities held research analyst account 
+foundation 
+the and supply chain management software longer term the blue sky tam 
+much like autonomous trucks the truck carrier space and uberization the space 
+opportunity could several trillion dollars considering the tams for global forwarding 
+believe widespread use technology could drive industry consolidation share gain toward 
+global trucking and supply chain payments the last which alone mastercard and visa 
+larger companies with progressive management teams and well funded balance sheets 
+estimate trillion card 
+also see potential beneficiaries the services software and hardware side for example 
+ibm covered katy huberty and trimble covered james faucette which believe 
+caution that this point there are more questions than answers are likely the 
+have been early leaders blockchain implementation freight transportation have not 
+top the first inning with this technology the game has started all have spoken with 
+made any changes our models pts this point 
+number industry experts blockchain and freight transportation and while there 
+plenty excitement around the potential the technology there are many obstacles 
+have attempted demystify blockchain freight transportation much pos 
+solve key among these are cost resource usage estimate blockchain can least 
+sible with this deck this the first series reports this topic and seeks educate 
+cheaper than the cost factoring today scalability compatibility with existing apis edis 
+investors and ourselves based feedback this note the basics blockchain 
+and democratization the technology how make available participants all sizes 
+expect this report continuously evolve the technology matures and morphs with each 
+and not just large companies however none these problems are insurmountable and the 
+new application and obstacle 
+relative success cryptocurrencies shows the path forward and the issues steer clear 
+for blockchain freight transportation fact number transportation industry participants from walmart maersk have already gone live with blockchain their supply chains 
+the development common technology and implementation standards currently spearheaded organizations like bita may long way toward smoothing the path implementation 
+may early days yet but the ultimate stock implications may already coming into 
+focus blockchain can successful quick smooth transparent and secure execution 
+supply chains should eliminate the need for middle men the process between the original 
+shipper and the end customer the first leg participants closest the threat are likely 
+asset light like chrw echo and others who provide shipper carrier matching services 
+addition documentation and other process support this could apply both domestic 
+truck brokerage well global freight forwarding the second leg maybe for fleet card operators like fleetcor and particularly wex covered danyal hussein who provide fuel cards 
+and virtual card payments which could replaced auto executing smart contracts 
+though these companies have been diversifying away from the transportation market into 
+broader assortment payment businesses the key beneficiaries blockchain freight are 
+likely asset based truck carriers tls like sndr wern and ltls like xpo odfl and 
+shippers also believe that increased use technology could further divide the industry 
+into the haves and have nots the haves being large well funded technologically sophisticated companies and the have nots being the smaller mom and pop carriers and shippers 
+would like thank nicolette shender for her contributions this report 
+foundation 
+basic background 
+exhibit 
+what blockchain 
+blockchain shared distributed ledger that facilitates the process 
+recording transactions and tracking assets business network asset can 
+tangible house car cash land intangible like intellectual property such 
+patents copyrights branding virtually anything value can tracked 
+and traded blockchain network reducing risk and cutting costs for all 
+involved ibm blockchain for dummies 
+decentralized system that prevents data alteration 
+and makes possible view real time updates 
+record transactions and verify information 
+source morgan stanley research ibm 
+foundation 
+exhibit 
+how blockchain works the four basic characteristics blockchain 
+distributed database that maintains continuously growing list records 
+immutable 
+managed peer peer network with standard protocol for validating new blocks 
+more than half the network would have participate change recorded data 
+each block holds timestamp transaction and links previous block 
+transparent 
+enables identical visibility ledger information across all users 
+designed resist the alteration data eliminating asymmetric information 
+blockchain lacks centralized points vulnerability all data stored across network 
+secure automated 
+blockchain hashes create digital fingerprints data these can allow users prove that 
+transaction occurred given time without revealing its content 
+execution blockchain can customized yet automated necessary 
+trustless operation 
+centralized official copy exists and user trusted more than any other 
+source morgan stanley research 
+morgan stanley research 
+foundation 
+exhibit 
+what can blockchain 
+standardize payments 
+verify product quality 
+create standardized payment 
+allow close management 
+system across logistics 
+providers 
+reduce transaction time and 
+cost 
+allow for real time fraud 
+prevention 
+optimize cargo capacity 
+identify empty containers and 
+individual items 
+digital signatures prevent 
+inaccurate labeling theft 
+goods 
+reduce cost paperwork and 
+find takers for extra capacity 
+authentication 
+increase supply chain transparency 
+real time visibility from pickup delivery 
+increase accountability and reduce costs 
+limit exceptions and possibly solve them using 
+source morgan stanley research 
+uberization freight 
+enable drivers input truck 
+reports and hours 
+streamline operational data 
+foundation 
+exhibit 
+implementation models 
+model 
+structure 
+neutral party 
+build and bill 
+create employ neutral party company onboard scale and maintain the 
+network this model resembles ibm partnership with maersk and provenance 
+partnership with smaller companies 
+build own operate 
+companies build their own blockchain networks house and operate 
+themselves control the supply chain and dictate their own terms this would 
+resemble someone like wal mart developing its own software and adapting 
+their company specific needs only 
+build own operate 
+transfer 
+companies may develop their own blockchain technology and then transfer 
+party entity when more efficient running its own 
+source morgan stanley research ibm blockchain lab 
+morgan stanley research 
+foundation 
+exhibit 
+types blockchains distributed shared consensus models 
+public distributed consensus ledger 
+consensus reached when more than half 
+the network members agree transaction 
+details 
+order approve transaction the 
+network ledgers must align 
+reaching consensus becomes more complex new 
+members join the network 
+this can increase computing costs and decrease 
+speed preventing scalability 
+source morgan stanley research corda 
+shipper 
+carrier 
+foundation 
+exhibit 
+types blockchains distributed shared consensus models 
+private shared consensus ledger 
+consensus reached when the parties 
+involved the transaction agree its 
+details not the entire network 
+carrier 
+shipper 
+party 
+order approve transaction the 
+parties the transaction must agree 
+prevent data alteration two party 
+transaction party could added 
+arbitrator 
+case 
+disagreement 
+consensus 
+determined the 
+majority 
+this enables scalability even when the number 
+participants increases 
+source morgan stanley research corda 
+morgan stanley research 
+history and development 
+exhibit 
+blockchain history 
+october 
+satoshi nakamoto unknown user publishes white paper introducing the first application blockchain 
+the world bitcoin 
+january 
+first collection transactions the genesis block created validating the concept 
+may 
+march 
+december 
+january 
+april 
+september 
+first bitcoin purchase made pizza 
+btc bitcoin market cap surpasses usd 
+vitalik buterin releases white paper the ethereum project recognizing blockchain separate entity 
+from bitcoin creating alternative applications 
+blockchain startups start emerge founded conglomerate over legacy financial groups 
+committed implementing the technology 
+nasdaq commits blockchain trial validating the use blockchain within finance 
+visa capital one and fiserv back round for blockchain startup chain 
+april 
+gem blockchain startup launches healthcare network with philips blockchain lab 
+may 
+tapscott group ceo don tapscott publishes book blockchain revolution 
+february 
+march 
+june 
+july 
+august 
+ibm collaborates with dubai customs dubai trade and its provider dutech explore the use 
+blockchain for trade finance and logistics solutions for the import and export processes 
+maersk develops blockchain shipping solution with ibm 
+aos columbian solutions company announces collaboration with ibm create transportation 
+focused solution that enhances logistics efficiency 
+london stock exchange group announces that they are building blockchain solution digitize security 
+issuances for small and medium enterprises europe 
+start creates new freight industry specific digital currency for shippers book ocean 
+shipments reducing carrier overbooking and customer shows 
+source morgan stanley research gem journal commerce 
+foundation 
+foundation 
+exhibit 
+blockchain development timeline 
+assets proliferate 
+shared infrastructure 
+emerges 
+proof concept and 
+applicability 
+other sectors 
+assess blockchain value 
+for financial assets 
+usage acceleration suggests are the cusp broad adoption 
+source morgan stanley research 
+morgan stanley research 
+legislation 
+exhibit 
+legislation 
+least eight states have worked bills accepting promoting the use blockchain technology 
+proposals 
+several bills have already passed into law 
+increasing transparency state operations 
+purpose 
+money laundering enforcement 
+regulating decentralized operations 
+validating the use blockchain smart contracts evidence court cases 
+vermont 
+arizona 
+maine 
+states proposing 
+legislation 
+nevada 
+hawaii 
+illinois 
+north dakota 
+california 
+source morgan stanley research library congress 
+foundation 
+foundation 
+exhibit 
+examples proposed blockchain legislation 
+house bill 
+march 
+declares that all data tied blockchain considered electronic format 
+and electronic record acceptable for use the state defines blockchains and 
+smart contracts 
+senate bill 
+june 
+acknowledges blockchain notarized documents adding legal bearing court law 
+senate bill 
+june 
+recognizes the use blockchain technology and smart contracts nevada residents 
+and prevents the taxation blockchain smart contracts 
+house bill 
+pending 
+considers several ways which bitcoin and blockchain technology can help develop 
+tourism from asia where the use virtual currency expanding 
+house resolution 
+pending 
+known the blockchain task force resolution calls for deep investigation into the 
+technology and the creation the legislative blockchain and distributed ledger task 
+force 
+house resolution 
+national 
+house representatives resolution create national policy for digital currencies 
+according brave new coin least states have worked bills advancing 
+the use blockchain technology with some already passing into law 
+source morgan stanley research library congress brave new coin 
+morgan stanley research 
+current use applications 
+exhibit 
+several companies have already developed blockchain applications 
+track millions ocean freight shipping containers streamline customs and security inspections 
+over customers for blockchain products workflow visibility infrastructure management 
+monitor food delivery supply chain and avoid massive recalls 
+help food suppliers with product tracking proof fair payment and certification authentication 
+record handling transactions and information cargoes 
+developing private encrypted platform connect shippers and carriers 
+developing direct decentralized platform facilitate financial transactions 
+working with vchain facilitate accurate passenger information 
+source morgan stanley research company data 
+foundation 
+foundation 
+exhibit 
+use case maersk and ibm partner provide complex supply chain solutions 
+one overseas flower shipment can require unique signatures and communications 
+motivation 
+shippers face trade documentation processing costs and human error 
+customs authorities aim streamline security and border inspection procedures 
+ibm and maersk intend work with network shippers freight forwarders ocean carriers ports 
+and customs authorities build the new global trade digitization solution 
+intentions 
+potential vastly reduce the cost and complexity trading the shipping and logistics industry 
+when adopted scale the solution has the potential save the industry billions dollars 
+through reduced delays minimized carrier costs improved inventory management reduced fraud etc 
+cost savings 
+implementation 
+ocean freight shipping accounts for goods global trade blockchain solution could increase 
+worldwide gdp and total trade volumes according the world economic forum 
+based the hyperledger fabric open source platform for distributed ledger solutions and built 
+ibm and maersk 
+helps manage track the paper trail tens millions shipping containers across 
+the world digitizing the supply chain process from end end 
+source morgan stanley research ibm world economic forum 
+morgan stanley research 
+exhibit 
+use case maersk example 
+example maersk receives order ship bags rice 
+find people that have the supply start paperwork move bags rice 
+there are things value 
+letter credit for the rice transaction 
+rice 
+today letter credit and rice not treated credits value purely provide shipment tracking 
+current problems fraudulent copies letter credit theft rice disagreement over transaction processes 
+blockchain solutions tokenize these assets treats letter thing value 
+rice processed and sent through customs 
+today requires lot hand moving papers digitizing information 
+current problems human error real time updates quality tracking capabilities 
+blockchain solutions move ownership value with assets creates transaction rice changes hands using the ledger 
+blockchain 
+transports goods without devaluing credit 
+prevents information replication 
+creates network agreement every transactional step 
+source morgan stanley research ibm 
+foundation 
+foundation 
+exhibit 
+use case ibm software applications 
+workflow realtime visibility 
+asset lifecycles 
+and history 
+infrastructure 
+management 
+provides visibility into container contents and status shipments 
+integrates electronic documents bill lading customs etc 
+records parts origination maintenance and repair history 
+allows transfer ownership 
+enforce service level agreement sla 
+track performance indicators infrastructure 
+guarantee the safety and reliability supply chain 
+supply chain reliability 
+monitors the transfer goods hold appropriate entities responsible 
+source morgan stanley research ibm 
+morgan stanley research 
+foundation 
+exhibit 
+use case wal mart 
+motivation 
+intentions 
+cost savings 
+currently very difficult monitor food delivery supply chain and catch virus outbreaks 
+before they hit stores 
+this causes massive recalls and detrimental food safety consequences 
+pilot blockchain service specific products intending roll out updated platform across its 
+enterprise 
+october wal mart started tracking two products using blockchain packaged produce items the 
+united states and pork china 
+avoiding massive recalls could save food retailers billions dollars food disposal restocking 
+distribution logistics and legal fees 
+finding the point infection allows for appropriate placement burden mitigating wal mart 
+risk throughout the supply chain 
+allows users narrow down search from hundreds stores one pallet 
+implementation 
+source morgan stanley research walmart bloomberg fortune 
+it the difference between pulling few tainted packages and yanking all the spinach from 
+hundreds stores frank yiannas food safety 
+foundation 
+exhibit 
+use case wal mart example 
+example wal mart lettuce source coli outbreak 
+find all tainted lettuce and pull immediately off store shelves 
+today all lettuce needs pulled store wide across wal mart and all related food vendors taking days identify the source 
+the food borne illness 
+current problems not possible source exact point outbreak narrow down affected geographic regions 
+blockchain solutions obtain crucial data from single receipt about suppliers how and where food was grown and who 
+inspected 
+shippers and producers refuse take responsibility 
+today retailers struggle identify and remove food that been recalled 
+current problems insight into distribution networks quality inspections throughout delivery process 
+blockchain solutions extends database information from the pallet the individual package 
+blockchain 
+tackles food safety 
+mitigates impact recall 
+ensures proper accountability for outbreak 
+source morgan stanley research walmart bloomberg 
+morgan stanley research 
+foundation 
+exhibit 
+use case provenance software applications 
+tracks fresh produce and product claims from origin supermarket 
+end end 
+transparency 
+proof fair 
+payment 
+digital 
+certifications 
+supply chain 
+visibility 
+source morgan stanley research provenance 
+enables independent food suppliers gather product information and share this data with 
+shoppers local stores 
+supports fair trading prevent labor violations 
+integrates international supply chain verify living wage payments employees 
+collaborates with soil association organic develop interactive version organic certification 
+increases integrity and connectivity certifications such single origin coffee providing single 
+source truth for product claims 
+uses sell dates unique batch ids matching each product its corresponding journey 
+displays entire supply chain journey through code scan 
+foundation 
+exhibit 
+use case aos 
+motivation 
+enhance efficiency the logistics and transport industry throughout colombia 
+trucks equipped with rfid tags that contain data the vehicle the name the driver and details 
+its load 
+intentions 
+cost savings 
+track the origin and status trucks and their goods 
+records the handling transactions and information cargoes create greater transparency 
+the delivery process 
+integrates with ibm watson iot system check factors like weather and temperature which can 
+impact freight quality and estimated delivery time 
+cisco and dhl estimate value generation iot logistics and supply chain 
+collaboration with ibm began june 
+implementation 
+solution first available the colombian market with plans expand 
+source morgan stanley research coindesk ibm 
+morgan stanley research 
+exhibit 
+use case tmw 
+motivation 
+ncreate and host private encrypted system connecting shippers and carriers 
+nthe system will include rfp bids and awards edi transactions and parts warranty and vehicle 
+service records 
+the system will connect with outside blockchain vehicle communications and telematics systems 
+creating virtual matrix logistics agreements and information 
+intentions 
+cost savings 
+implementation 
+source morgan stanley research tmw systems 
+the future will also include hos fuel tax and analytics temperature monitoring and reviews 
+invoice and settlements proof delivery gps and sensor data from vehicles and iot 
+save time and labor improve accuracy and leverage pricing intelligence help carriers brokers 
+and win business 
+the system will ultimately handle transactions week and save the industry 
+estimated million operational costs 
+blockchain constantly checks each new transaction ensure compliance with hos federal laws 
+concerning commerce the temperature perishable foods fuel charges delivery methods times 
+enables almost immediate payment when requirements are met 
+foundation 
+foundation 
+exhibit 
+use case tmw example 
+shippers create rfp and 
+notify list carriers 
+using their public key 
+carriers receive the 
+notification from the 
+blockchain network 
+carriers extract rfp 
+from the blockchain 
+network using their 
+private key 
+carriers create bid 
+updating rfp with their 
+rates and preferences 
+carriers 
+shippers 
+carriers accept bid and 
+loads from shippers 
+shippers review and 
+award lanes carriers 
+shippers get automated 
+notification from 
+blockchain 
+carriers submit their bid 
+blockchain using their 
+private key 
+all transactions are encrypted for security 
+each transaction recorded and connected the previous 
+source tmw systems 
+morgan stanley research 
+exhibit 
+use case dhl example 
+example dhl currently using institutions like bank for financial transactions 
+financial transactions currently face cyber risks and are facilitated trusted institution 
+there one thing value 
+money 
+today financial transactions are completed with the help financial institutions 
+current problems costs paid the bank cyber risks and business disruption 
+blockchain solutions facilitates transactions eliminating the need bank and creates decentralized database transactions 
+blockchain 
+allows vendors and customers connect directly and uses cryptography 
+decentralized database transactions that everyone the network can see 
+works for all types transactions that involve value such money goods and property 
+source deutsche post site 
+foundation 
+foundation 
+exhibit 
+use case dhl example how works 
+source deutsche post site 
+morgan stanley research 
+exhibit 
+use case iag and vchain partner prevent and correct inaccurate passenger data 
+example iag faces inaccuracy advanced passenger information systems apis data 
+find all inaccuracies and correct them before the passenger due fly 
+today passenger data not corrected for inaccuracies 
+current problems not possible narrow down incorrect data and correct well time 
+blockchain solutions protect private customer data and facilitate accuracy customer information 
+airlines face delays and customer dissatisfaction 
+today passports passengers are checked airport leading last minute friction and delays 
+current problems human error and quality tracking capabilities 
+blockchain solutions pre correcting data along and avoiding fraud resulting increased security 
+blockchain 
+tackles the problem delays and consumer dissatisfaction 
+increased accuracy customer data british airways 
+ensures customer data remains safe and protected from cyber risk 
+source vchain presentation 
+foundation 
+foundation 
+supply chain benefits 
+exhibit 
+standardize payments 
+contracts terms are agreed 
+upon all parties and stored 
+the blockchain 
+event triggers 
+contract execution 
+penalties are activated upon 
+neglect original agreement 
+either party 
+terms dictate execution selfexecuting self enforcing 
+both 
+clearing and settlement 
+automated 
+ownership validated 
+smart contracts execute when pre set 
+conditions are met reduce transaction costs and delays 
+source morgan stanley research 
+morgan stanley research 
+foundation 
+exhibit 
+verify product quality 
+product misrepresentation 
+soil pesticide contamination 
+unsanitary packaging 
+additives 
+poor freight conditions 
+spoilage 
+lack information 
+legal liability 
+currently retailers must engage mass recalls they cannot 
+source exact point outbreak 
+source morgan stanley research 
+foundation 
+exhibit 
+verify product quality 
+certification authentication 
+organic single origin 
+packaging date batch number 
+and origin recorded 
+freight conditions 
+recorded 
+customers scan code 
+access product information 
+blockchain helps identify outbreak source reduce waste and save 
+recalls related contamination tampering spoilage 
+source morgan stanley research 
+morgan stanley research 
+foundation 
+exhibit 
+optimize cargo capacity 
+overbookings 
+carriers 
+cancellations 
+shippers 
+these two issues alone are currently estimated 
+cost the ocean freight industry annually 
+source new york shipping exchange morgan stanley research 
+foundation 
+exhibit 
+increase supply chain transparency 
+walmart time full otif initiative 
+requires suppliers deliver full scheduled date the time starting february 
+early late and improperly packed goods will fined shipment value 
+target late penalties 
+canceled its day grace period for late shipments 
+increased fines from order cost 
+fines suppliers who fail provide complete and accurate product information 
+blockchain helps alleviate these issues 
+enables product history tracking 
+holds all parties accountable for time delivery and pickup 
+blockchain can increase time delivery and capital efficiency 
+enhancing reliability and reducing retailer fees 
+source morgan stanley research business insider forbes 
+morgan stanley research 
+foundation 
+exhibit 
+blockchain transportation tam 
+global freight forwarding 
+blockchain transportation can 
+used address several end 
+markets with combined revenue 
+base today 
+freight brokerage 
+the blue sky opportunity can several 
+trillion dollars considering the tams for 
+global forwarding global trucking and 
+supply chain payments which master 
+card and visa estimate trillion 
+card 
+source morgan stanley research technavio ibis world transport intelligence tmr visa mastercard 
+transporation management 
+systems tms 
+blockchain 
+transportation 
+tam 
+commercial 
+vehicles fuel spend 
+foundation 
+implementation obstacles and risks 
+exhibit 
+obstacles and potential solutions 
+create cryptocurrency 
+accountability 
+use party escrow 
+account 
+privatize the system and 
+authenticate users 
+free riding 
+charge fee board 
+scalability 
+limit the number 
+participants shared 
+model 
+centralize the ledger 
+both options ensure 
+accountability upon neglect 
+original agreement either 
+party 
+one entity controlling the 
+centralized system creates 
+monetization opportunity and 
+incentive host blockchain 
+using shared consensus model 
+could enable system scalability 
+without limiting number users 
+source morgan stanley research 
+morgan stanley research 
+foundation 
+exhibit 
+blockcerts onboarding and authenticating users 
+motivation 
+provide standard for building apps that issue and verify blockchain based official records 
+increasing security and trust transactions 
+this may include certificates for civic records academic credentials professional licenses 
+workforce development and more 
+blockcerts consists open source libraries tools and mobile apps enabling decentralized standardsbased recipient centric ecosystem enabling trustless verification through blockchain technologies 
+platform 
+contains components for creating issuing viewing and verifying certificates the blockchain 
+provenance and 
+convenience 
+relying centralized authorities verify authenticity slow complicated and impermanent 
+the blockchain replaces institutions with permanent and tamper proof infrastructure trust 
+the blockchain empowers individuals hold their own official records and share them directly 
+shareable and verifiable 
+source morgan stanley research blockcerts 
+the blockchain acts notary that can always attest the authenticity certificates 
+foundation 
+exhibit 
+blockchain trucking alliance bita developing common standards 
+motivation 
+use cases 
+members 
+major topics addressed 
+coalition manufacturers shipping companies and logistics technology organizations formed 
+august 
+aims develop common standards around blockchain applications the trucking industry from 
+speeding transactions securing data transfers 
+view truck performance history manage vehicle maintenance quality assurance dynamic optimization 
+capacity monitoring payment and pricing fraud detection theft prevention 
+tmw coyote convoy ups dat transfix sap express polaris century logiflex kamion 
+bridgestone triumph and more 
+self executing smart contracts freight payment collection asset maintenance and ownership history that 
+ensures compliance with safety standards gray trailer pools transparency and chain custody 
+source imorgan stanley research bita bitcoin magazine 
+morgan stanley research 
+foundation 
+stock implications 
+exhibit 
+freight beneficiaries 
+ltls stand benefit from blockchain 
+charging customers for assessorials and last minute changes 
+sourcing freight directly from shippers without having pay 
+immediate payment settlement currently waiting for weeks for payment 
+security freight 
+factoring alone costs bps fees but blockchain can quicker and safer 
+resulting bps least bps cost savings 
+see rated tls sndr wern and ltls odfl xpo best positioned 
+source morgan stanley research trucker path 
+foundation 
+exhibit 
+freight potentially challenged 
+stand potentially negatively affected blockchain 
+logistics providers today paid both sides find capacity and demand regardless the transaction quality 
+maintain and out ledger but have provenance over the supply chain 
+blockchain platforms act clearing house and removes the need for logistics providers act intermediaries 
+brokers are expensive currently charging msd margins for their services 
+blockchain potentially eliminates steps the transaction and creates 
+significantly lower cost alternative and more protection 
+see rated chrw and rated expd and echo most directly exposed disintermediation 
+source morgan stanley research 
+morgan stanley research 
+foundation 
+payments processing implications 
+exhibit 
+impact the space 
+revenue exposure 
+fleet card transactions 
+specialty charge cards 
+provided drivers limit 
+driver fraud and receive fuel 
+price discounts 
+virtual card transactions 
+single use digit 
+mastercard numbers used 
+pay vendors softwareintegrated manner 
+source morgan stanley research company data 
+fleetcor flt 
+revenue 
+wex inc wex 
+revenue 
+fleetcor flt 
+revenue 
+wex inc wex 
+revenue 
+risk fleet card company 
+electric vehicle adoption will create headwind 
+total fuel card spend 
+autonomous vehicles limit the use case for fuel 
+cards 
+blockchain based supply chain payments modestly 
+diminishes the multi trillion dollar virtual card 
+payments total addressable market 
+limited current revenue exposure both flt 
+and wex are primarily focused other sectors 
+foundation 
+exhibit 
+impact the space 
+fuel card providers likely see growing headwind from autonomous 
+and autonomous vehicle sales begin comprise 
+substantial portion new vehicle sales truck and light 
+vehicle 
+organic fuel card revenue growth should 
+potentially slow from for flt high single 
+digits all else equal 
+hsd 
+over time 
+revenue 
+macro driven 
+miles growth 
+sales driven 
+growth 
+pricing mix 
+annual fuel 
+efficiency 
+improvements 
+not material 
+headwind 
+today 
+electric 
+autonomous 
+vehicle 
+headwind 
+revenue 
+assuming average vehicle useful life years and autonomous vehicles comprise new vehicle sales over 
+source company data international energy agency morgan stanley research estimates 
+morgan stanley research 
+foundation 
+exhibit 
+impact the space 
+risk further moderated diversification away from fuel cards driven 
+acquisition 
+flt revenue from fuel cards 
+fuel card 
+corporate pay gift 
+primary focus 
+tolls 
+intl corporate payments 
+wex revenue from fuel cards 
+healthcare payments 
+healthcare payments 
+fuel card 
+source company data morgan stanley research 
+foundation 
+communications systems and tech implications 
+exhibit 
+possible winners the space 
+owns tmw leading software provider 
+for trucking developing blockchain 
+applications 
+ibm began developing blockchain solutions 
+back 
+potential value for supply chain alone 
+create and host its private encrypted system 
+million potential industry operational cost savings 
+handle transactions week 
+ibm blockchain has developer apis 
+clients engaged blockchain 
+transactions second 
+has live networks today 
+source company data morgan stanley research 
+morgan stanley research 
+foundation 
+sri implications 
+exhibit 
+blockchain can enhance supply chain sustainability 
+supply chain 
+management 
+proof fair payment 
+verifying product 
+quality 
+companies like provenance provide scan codes and rfid tagging solutions which could 
+provide traceability from source 
+its initial phases some aspects can still subject fraud but blockchain 
+benefits can seen through supply chain mapping and luxury goods tracking 
+using blockchain supply chain participants and consumers can verify living wage payment 
+employees which could help prevent labor violations 
+this requires all members the supply chain participate starting with individual farmers which 
+might require collaboration with ngos 
+blockchain can link identity location material attributes certifications and audit information with 
+specific item batch 
+the data will then stored immutable decentralized globally auditable format which 
+protects identities default allowing for secure data verification 
+blockchain could increase integrity and connectivity certifications organic single origin 
+digital certifications 
+morgan stanley research provenance 
+digital certifications stored blockchain could provide single source truth for product claims 
+foundation 
+blockchain glossary 
+exhibit 
+key terms 
+block permanently recorded set data with time stamp 
+consortium chain blockchain which consensus found 
+between closed predefined set validators 
+distributed application dap software that runs multiple 
+computers within network the same time and can stored 
+servers with cloud computing 
+ddos distributed denial service form cyber attack 
+decentralized storage allocation resources each individual 
+server rather than one centralized base 
+electronic data interchange edi computer computer 
+exchange routine business documents 
+electronic product code epc unique identifiers that used 
+rfid tags distinguish products the supply chain 
+distributed ledger database that consensually shared and 
+synchronized across network spread across multiple sites 
+institutions geographies 
+hashing data structure which implements associative array 
+this structure can map keys values all data block turned 
+into unique string digits and characters hashed and each 
+subsequent block also stores the hash the previous block 
+hyperledger fabric platform open source platform for 
+distributed ledger solutions 
+node redistribution point communication endpoint 
+open source software for which the original source code made 
+freely available and may redistributed and modified 
+pki public key infrastructure set procedures needed create 
+manage distribute use store and revoke digital certificates and 
+manage public key encryption 
+public chain blockchain anyone can join paid validator 
+any time 
+private key cryptography any cryptographic system that uses 
+only private keys which are known only the owner allows only the 
+owner encrypt data 
+public key cryptography any cryptographic system that uses 
+pairs keys public keys which may disseminated widely and 
+private keys which are known only the owner allows everybody 
+decrypt data 
+system based grid model peer peer system 
+collection applications run several local computers which 
+connect remotely each other complete function task 
+with main operating system 
+radio frequency identification rfid technology that uses small 
+tags that store and transmit electronic product codes epcs unlike 
+barcodes tags not need reader line sight 
+saas software service software licensed subscription 
+basis and centrally hosted 
+smart contract computer protocols intended facilitate verify 
+enforce the negotiation performance contract 
+source wikipedia investopedia dcs provenance techtarget morgan stanley research 
+morgan stanley research 
+foundation 
+valuation methodology and risks 
+chrw 
+use year dcf assuming wacc and terminal cash flow perpetual growth rate 
+implying exit ebitda multiple our dcf valuation implies october 
+tmf which below chrw historical avg given structural headwinds 
+risks achieving price target 
+brokerage business could exposed secular competitive threats from uberization 
+freight 
+ecommerce exposure potential growth opportunities could put them competitive 
+path giants amzn wmt 
+sndr 
+use year dcf assuming wacc and terminal cash flow perpetual growth rate 
+earnings growth rates challenged maturing company profile suggesting valuation 
+rating 
+implying exit ebitda multiple our dcf valuation implies fwd 
+peer average 
+increasing competition from smaller brokers could result longer term head 
+wind 
+risks achieving price target 
+margin expansion story mostly over revenue growth main driver earnings going 
+forward but slowing 
+maintaining attractive and competitive incentive compensation could become more 
+expensive limiting leverage volumes 
+could preferred defensive play tough macro 
+trucking cycle deeply cyclical and macro visibility remains poor 
+not much visibility into quest operating metrics and technology opportunity also means 
+that the industry ripe for disruption 
+diversification good thing but our view intermodal and logistics somewhat 
+bearish 
+xpo 
+use year dcf assuming wacc and terminal cash flow perpetual growth rate 
+odfl 
+implying exit ebitda multiple our dcf valuation implies october 
+use year dcf assuming wacc and terminal cash flow perpetual growth rate 
+tmf ebitda which below asset light asset heavy transportation mul 
+implying exit ebitda multiple our dcf valuation implies october 
+tiples blend approx given its still evolving business model 
+tmf which inline with odfl historical average 
+risks achieving price target 
+risks achieving price target 
+asset heavy ltl business highly cyclical and thus profitability could deteriorate amidst 
+sluggish macro synergies and operational improvements fail materialize 
+execution risk key man risk 
+high balance sheet leverage peers creates risk xpo fails generate sufficient fcf 
+peak margins limit degree margin expansion opportunity peers 
+significant investment for growth risky macro slows 
+efforts peers follow parts odfl playbook could make competitive landscape 
+more challenging 
+echo 
+foundation 
+risks achieving price target 
+apply multiple our october tmf eps est generate price target 
+our october tmf multiple line with echo historical trading range our valua 
+macro weakness leads lower rates lower miles and higher empty miles 
+tion supported our dcf which assumes wacc and perpetual growth rate 
+trucking cycle deeply cyclical and visibility remains poor 
+risks achieving price target 
+flt 
+have overweight rating flt with price target derived from our base case 
+high leverage relative peers may pose investment risk 
+based valuation supported dcf our dcf assumes wacc and 
+inability pass through higher rates could squeeze margins while appears 
+terminal growth rate 
+deemphasized 
+quick ramp new entrants particularly uber and amzn could severely pressure 
+risks achieving price target 
+pricing margins 
+liquidity risk microcap with limited float 
+flt can longer find large accretive deals that move the needle 
+unfavorable macro gas prices 
+expd 
+potential difficulties acquisition integration 
+apply multiple our october tmf eps est generate price target 
+our october tmf multiple below expd historical trading range our valuation 
+wex 
+supported our dcf which assumes wacc and perpetual growth rate 
+have equal weight rating wex with price target derived from base case 
+based valuation supported dcf our dcf assumes wacc and 
+risks achieving price target 
+loose ocean and airfreight markets suggest limited upside gross margins contracts 
+terminal growth rate 
+risks achieving price target 
+reprice 
+weaker asia macro could have large impact expd volumes 
+fuel prices deteriorate further 
+larger scale higher operating margin limit growth margin expansion opportunity rela 
+virtual card volume growth continues slow 
+tive past cycles 
+competitors announce outsourcing contract wins 
+structural issues hanging freight flows miniaturization near shoring increased price 
+transparency could weigh growth over time 
+ibm 
+our price target derived fcf shr balanced transformation 
+wern 
+drives gross margin and revenue stabilization structural challenges the company 
+use year dcf assuming wacc and terminal cash flow perpetual growth rate 
+core solution portfolio are largely offset growth strategic imperatives excluding the 
+implying exit ebitda multiple our dcf valuation implies fwd 
+impact currency improved leverage drives gross margin roughly flat exiting and 
+which inline with historical peer average 
+expansion growth maintains high single low double digit growth the back 
+mainframe cycle new cloud logos and building service revenue base ibm trades 
+morgan stanley research 
+fcf financing receivables and largely line with orcl which the midst 
+similar transformation 
+risks achieving price target 
+continued signs cloud cannibalizing ibm core markets 
+ibm fails monetize investments watson and cognitive computing 
+weaker mainframe cycle 
+headwinds and prolonged weakness emerging markets 
+acquisition integration risk 
+trmb 
+our ebitda premium our coverage universe growth adjusted 
+basis justified improving macro environment and potentially lower corporate tax rates 
+risks achieving price target 
+macro economic headwinds 
+deteriorating oem relationships and channel conflicts 
+share loss competitors 
+difficulty finding suitable successor ceo 
+foundation 
+foundation 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan stanley mexico casa bolsa and morgan stanley canada limited used this 
+disclosure section morgan stanley includes morgan stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan stanley research disclosure website morganstanley researchdisclosures contact your 
+investment representative morgan stanley research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client support team follows canada hong kong latin america 
+london singapore sydney tokyo alternatively you may contact your investment representative morgan stanley research broadway attention 
+research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they have not received and will not receive direct indirect compensation exchange for expressing 
+specific recommendations views this report penelope butcher cfa james faucette katy huberty cfa danyal hussain cfa victoria irving ravi shanker 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+the following analyst strategist household member owns securities related derivatives company that she covers recommends morgan stanley research spencer chernus union pacific corp common preferred stock 
+october morgan stanley beneficially owned more class common equity securities the following companies covered morgan stanley research canadian pacific railway ltd ibm international consolidated airlines grp schneider 
+national inc union pacific corp xpo logistics inc 
+within the last months morgan stanley managed managed public offering offering securities csx corporation fedex corporation schneider national inc union pacific corp united parcel service wal mart stores inc xpo logistics 
+inc 
+within the last months morgan stanley has received compensation for investment banking services from moller maersk csx corporation fedex corporation genesee wyoming inc norfolk southern corp schneider national inc union 
+pacific corp united parcel service wal mart stores inc xpo logistics inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from moller maersk arcbest corp robinson worldwide inc canadian national railway canadian pacific railway 
+ltd csx corporation deutsche post echo global logistics inc fedex corporation fleetcor technologies inc genesee wyoming inc heartland express inc hub group inc ibm international consolidated airlines grp hunt transport services inc 
+kansas city southern landstar system inc norfolk southern corp old dominion freight line inc saia inc schneider national inc trimble inc union pacific corp united parcel service wal mart stores inc werner enterprises xpo logistics inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from canadian pacific railway ltd csx corporation deutsche post echo global logistics inc fleetcor technologies 
+inc genesee wyoming inc ibm international consolidated airlines grp hunt transport services inc kansas city southern norfolk southern corp old dominion freight line inc union pacific corp united parcel service wal mart stores inc wex 
+inc xpo logistics inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with the following company moller maersk arcbest corp robinson worldwide inc canadian 
+national railway canadian pacific railway ltd csx corporation deutsche post echo global logistics inc fedex corporation fleetcor technologies inc genesee wyoming inc heartland express inc hub group inc ibm international consolidated 
+airlines grp hunt transport services inc kansas city southern landstar system inc norfolk southern corp old dominion freight line inc saia inc schneider national inc trimble inc union pacific corp united parcel service wal mart stores inc 
+werner enterprises xpo logistics inc 
+morgan stanley research 
+foundation 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has entered into agreement provide services has client relationship with the following company 
+moller maersk robinson worldwide inc canadian national railway canadian pacific railway ltd csx corporation deutsche post echo global logistics inc fedex corporation fleetcor technologies inc genesee wyoming inc 
+ibm international consolidated airlines grp hunt transport services inc kansas city southern norfolk southern corp old dominion freight line inc union pacific corp united parcel service wal mart stores inc wex inc xpo logistics inc 
+employee director consultant morgan stanley director ibm norfolk southern corp wal mart stores inc this person not research analyst member research analyst household 
+morgan stanley llc makes market the securities arcbest corp robinson worldwide inc canadian national railway canadian pacific railway ltd csx corporation echo global logistics inc expeditors international washington 
+fedex corporation fleetcor technologies inc genesee wyoming inc heartland express inc hub group inc ibm hunt transport services inc kansas city southern knight swift transportation holdings inc landstar system inc norfolk southern corp 
+old dominion freight line inc saia inc trimble inc union pacific corp united parcel service wal mart stores inc werner enterprises wex inc xpo logistics inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality research investor client feedback stock picking competitive factors 
+firm revenues and overall investment banking revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing liquidity fund management commercial banking extension credit investment services and 
+investment banking morgan stanley sells and buys from customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed 
+this report morgan stanley trades may trade principal the debt securities related derivatives that are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight 
+not rated and underweight are not the equivalent buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research contains more complete information concerning 
+the analyst views investors should carefully read morgan stanley research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+october 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings 
+buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see definitions below satisfy regulatory requirements 
+correspond overweight our most positive stock rating with buy recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+investment banking clients ibc 
+other material investment services clients misc 
+stock rating category 
+count 
+total 
+count 
+total ibc 
+rating category 
+count 
+total other misc 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment banking compensation the last months due rounding off decimals the percentages 
+provided the total column may not add exactly percent 
+foundation 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci 
+asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc morgan stanley any their affiliates are available the morgan stanley wealth 
+management disclosure website morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the same person who reviews the equity research report behalf morgan stanley this 
+could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities moller maersk robinson worldwide inc canadian national railway csx corporation deutsche post fedex corporation 
+ibm kansas city southern norfolk southern corp union pacific corp united parcel service wal mart stores inc xpo logistics inc 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based developments with the issuer the sector the market that may have material impact the research 
+views opinions stated therein addition certain research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that frequency unless the research analyst and research 
+management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the recommendations views expressed research the same stock this may the result differing 
+time horizons methodologies market events other factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients certain but not all morgan stanley research products are also made available clients 
+through third party vendors redistributed clients through alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and using morgan stanley research you are indicating that you have read and agree bound 
+our terms use http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with our privacy policy and our global cookies policy http morganstanley 
+privacy_pledge including for the purposes setting your preferences and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan stanley processes 
+morgan stanley research 
+foundation 
+personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances and objectives those who receive morgan stanley recommends that investors 
+independently evaluate particular investments and strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor circumstances and objectives the securities 
+instruments strategies discussed morgan stanley research may not suitable for all investors and certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary because changes interest rates foreign exchange rates default rates prepayment 
+rates securities instruments prices market indexes operational financial conditions companies other factors there may time limitations the exercise options other rights securities instruments transactions past performance not 
+necessarily guide future performance estimates future performance are based assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality accuracy and value research firm profitability 
+revenues which include fixed income trading and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists compensation not linked investment banking capital 
+markets transactions performed morgan stanley the profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns more class common equity securities the companies for all other companies 
+mentioned morgan stanley research morgan stanley may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different from those discussed morgan stanley 
+research employees morgan stanley not involved the preparation morgan stanley research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from 
+those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable comprehensive information but make representation that accurate complete 
+have obligation tell you when opinions information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views presented morgan stanley research have not 
+been reviewed and may not reflect information known professionals other morgan stanley business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such information for your reference only the reader should 
+independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley any non customer reader within the scope article the taiwan stock exchange recommendation regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including 
+but not limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create give the appearance creating conflict interest information securities instruments 
+that not trade taiwan for informational purposes only and not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not constitute offer sell the solicitation offer buy any securities the prc prc 
+investors shall have the relevant qualifications invest such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental authorities themselves neither this report nor 
+any part intended shall constitute provision any consultancy advisory service securities investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques 
+las lomas floor mexico city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts 
+responsibility for its contents and morgan stanley asia international limited hong kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte ltd 
+registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should contacted with respect any matters arising from connection with morgan stanley research 
+and morgan stanley asia international limited singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan stanley australia limited 
+holder australian financial services license which accepts responsibility for its contents australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan stanley international plc seoul branch india morgan stanley india company private limited 
+indonesia morgan stanley sekuritas indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley 
+private wealth management limited niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish securities 
+foundation 
+markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct applicable financial research established under spanish regulations the morgan stanley 
+llc which accepts responsibility for its contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory authority disseminates the 
+research that has prepared and approves solely for the purposes section the financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse limited 
+and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned 
+firstrand limited the information morgan stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services authority the dfsa and directed professional clients only defined the dfsa 
+the financial products financial services which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre regulatory authority the qfcra and directed business customers and market 
+counterparties only and not intended for retail customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment advisory activity investment advisory service provided exclusively persons based their 
+risk and income preferences the authorized firms comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this reason make investment decision relying 
+solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties representations relating the accuracy completeness timeliness the data they 
+provide and shall not have liability for any damages relating such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley research 
+foundation 
+industry coverage freight transportation 
+company ticker 
+rating 
+price 
+arcbest corp arcb 
+robinson worldwide inc chrw 
+canadian national railway cnr 
+canadian pacific railway ltd 
+csx corporation csx 
+echo global logistics inc echo 
+expeditors international washington expd 
+fedex corporation fdx 
+genesee wyoming inc gwr 
+heartland express inc htld 
+hub group inc hubg 
+hunt transport services inc jbht 
+kansas city southern ksu 
+ravi shanker 
+knight swift transportation holdings inc knx 
+landstar system inc lstr 
+norfolk southern corp nsc 
+old dominion freight line inc odfl 
+saia inc saia 
+schneider national inc sndr 
+union pacific corp unp 
+united parcel service ups 
+werner enterprises wern 
+xpo logistics inc xpo 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

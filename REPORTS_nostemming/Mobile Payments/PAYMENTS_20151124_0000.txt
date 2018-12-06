@@ -1,0 +1,801 @@
+payments internet software november 
+morgan stanley research 
+november 
+payments internet software 
+morgan stanley llc 
+smittipon srethapramote 
+smittipon srethapramote morganstanley 
+brian nowak cfa 
+positioning for buy buttons 
+brian nowak morganstanley 
+brian essex cfa 
+brian essex morganstanley 
+companies across the payments and technology space are working 
+make easier complete transactions via mobile phones where 
+consumers are increasingly spending their time see 
+goog and shop best positioned benefit from this trend with 
+mixed implications for pypl 
+vasundhara govil 
+consumers are increasingly spending time and conducting commercial 
+transactions their phones but the checkout experience can improve 
+mobile commerce rapidly gaining share from other forms electronic 
+commerce consumers spend more time mobile phones contextual 
+buying the ability purchase product where first viewed new 
+channel for ecommerce merchants reduce the steps needed for consumers 
+complete purchase buy buttons which reduce friction associated with 
+checkout mobile phones could accelerate the adoption mobile 
+commerce buy buttons also provide retail software platform providers 
+opportunity help smbs build brand presence across multiple platforms 
+brian yun 
+vasundhara govil morganstanley 
+danyal hussain cfa 
+danyal hussain morganstanley 
+michael costantini 
+michael costantini morganstanley 
+brian yun morganstanley 
+payments and processing 
+north america 
+industryview 
+line 
+social commerce still only ecommerce which speaks the 
+opportunity social commerce retail transactions driven through online 
+social networks only make total ecommerce sales and 
+total retail sales it small because our view shopping still emerging 
+online social network use case but ecommerce penetration grows from 
+estimated and the annual pool ecommerce 
+grows from per year see social shopping being 
+materially larger distribution channel 
+takeaways for payments companies view buy buttons generally 
+positive for payment companies they could accelerate the growth online 
+and mobile commerce visa and mastercard stand out the key 
+beneficiaries our view however for certain companies such paypal the 
+increased adoption buy buttons presents both opportunities and risks 
+paypal the leading general purpose buy button used consumers 
+purchase goods online and also powers the buy buttons several social 
+commerce websites thus the deployment buy buttons could drive 
+diminished use for paypal check out button 
+takeaways for internet companies see facebook and the other leading 
+online platforms google twitter pinterest etc adding various versions 
+buy buttons their offerings our view buy buttons are part the 
+internet platforms efforts more directly link advertising dollars 
+transactions leading more measurable and likely higher advertiser 
+roi our view successful consumer adoption buy buttons likely lead 
+even faster dollar growth for the major social networks see 
+facebook and its global monthly users the most likely beneficiary 
+our coverage buy buttons would enable facebook move closer 
+transaction based model retailers were willing bid facebook 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research result 
+investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan 
+stanley research investors should consider morgan 
+stanley research only single factor making their 
+investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+payments internet software november 
+morgan stanley research 
+retail cpcs implied take rate just enabled 
+ecommerce would add roughly our facebook 
+american estimate for google buy buttons are way continue 
+close the mobile monetization gap with mobile cpcs still less 
+than desktop believe successful buy button with searchers 
+purchasing directly google would improve mobile advertising roi 
+measurability 
+takeaways for retail software companies buy buttons represent 
+compelling opportunity for retail software vendors offer their merchants 
+access robust online channels shopify stands out likely beneficiary 
+this trend having already announced partnerships with leading social media 
+platforms such facebook twitter and pinterest this front most retail 
+software vendors focus online efforts part omni channel effort for 
+their merchant customers and tend target the higher end the retail 
+market shopify customers typically represent the low end the smb 
+spectrum which see under penetrated while buy buttons offer 
+uniform enterprise class feel for customers they shop merchants online 
+they can also scale down market very effectively offering smb merchants costeffective access substantial online partner platforms and effectively leveling 
+the playing field they compete with larger vendors 
+morgan stanley international plc engaged provide financial 
+advisory services visa europe limited relation its proposed sale visa 
+inc please refer the notes the end the report 
+payments internet software november 
+morgan stanley research 
+table contents 
+how are the internet platforms trying leverage buy buttons 
+how will buy buttons impact payments companies 
+retail software impact 
+appendix what buy button 
+quick primer braintree 
+payments internet software november 
+morgan stanley research 
+how are the internet platforms trying leverage buy buttons 
+mentioned above the leading online platforms google facebook instagram twitter pinterest etc are all 
+adding some version buy buttons their offerings our view buy buttons are part the internet 
+platforms efforts more directly link advertising dollars actual transactions leading more 
+measurable and likely higher advertiser roi changing consumer behavior difficult driving people 
+actually purchase items within google search results facebook but one several the 
+platforms successful with buy buttons would expect acceleration online dollars toward 
+that company 
+for google buy buttons are way continue close the mobile monetization gap 
+estimate that google search clicks come from mobile but that mobile only makes 
+total search revenue while google mobile desktop monetization gap starting close believe 
+smartphone cpcs are still less than desktop this largely related advertiser mobile roi and lower 
+purchase intent successful buy buttons with searchers purchasing directly google would improve 
+the advertising roi measurability and likely help close this mobile monetization gap our base case 
+google model assumes that the mobile search cpc gap gradually closes but that even mobile cpcs are 
+still less than desktop any faster improvement than this provided desktop search continues its stable togrowing trend likely lead higher long term earnings power 
+buy buttons and the latest phase social commerce 
+according internet retailer social commerce retail transactions driven through online social networks 
+were total ecommerce sales and total retail sales that small 
+shopping still emerging online social network use case but ecommerce penetration grows from 
+estimated and the annual pool ecommerce dollars from per year 
+see social shopping being materially larger distribution channel 
+the major social networks like facebook instagram pinterest and twitter are all rolling out new initiatives 
+like buy buttons aimed bringing ecommerce transactions directly onto their platforms see 
+exhibit 
+exhibit examples buy buttons the twitter pinterest and facebook mobile apps 
+rce itter pin terest faceb rgan stan ley research 
+payments internet software november 
+morgan stanley research 
+for retailers buy buttons offer incremen tal distribution channel and way further leverage the 
+social networks large and engaged audiences see exhibit for the social platforms buy buttons are 
+way more directly prove the conversion and mobile advertising return investment spending 
+their sites through transactions given that advertisers and agencies are increasingly trying link digital 
+advertising direct purchases the adoption buy buttons could lead faster advertising dollar 
+growth and higher monetization for the social networks acknowledge the challenges namely will 
+consumer behavior change that people move into the purchasing mindset while the social networks 
+but our view frictionless buy buttons tied credit card data have the potential inflect social dollar 
+growth for more how retailers can capitalize social commerce please see speciality retail and 
+internet who best positioned capitalize social commerce published october 
+kimberly greenberger and brian nowak 
+exhibit for retailers buy buttons offer incremental distribution channel and way leverage the 
+social networks large and engaged audiences 
+rce data rgan stan ley research 
+faceb itter mau stagram pin terest mau sep temb 
+facebook trying become online mall 
+facebook has been particularly active the retail category given the dollar opportunity addition its buy 
+button facebook also recently launched shop section facebook pages which allows retailers showcase 
+product offerings within their existing facebook pages see exhibit our view this primarily aimed 
+small and medium sized businesses smbs and part facebook efforts attract more advertising dollars 
+from the more than million smbs that have active facebook pages 
+many smbs often not have the resources capabilities compete with amazon other large retailers for 
+online shopper traffic google also expensive develop and maintain effective mobile apps and mobileoptimized websites facebook shop pages solve these issues and enable smbs leverage facebook 
+platform and significant scale monthly active users their online storefront 
+the facebook shop storefronts are free set and again are primarily designed bring more advertising 
+dollars onto facebook and while they are mainly aimed smbs believe consumer adoption these 
+stores which expect eventually have buy buttons would likely cause other larger retailers explore 
+payments internet software november 
+morgan stanley research 
+setting shop the facebook mall another incremental online distribution channel after all 
+believe retailers are eager for new online channels gain consumer adoption beyond google and amazon 
+here again consumer behavior and social network use trends will important monitor 
+facebook also recently announced partnership with shopify shop covered morgan stanley software 
+services analyst brian essex that allows shopify merchants create shop sections their facebook pages 
+for free this makes easier for merchants showcase and sell their products directly their facebook page 
+and removes friction from the smb selling processes facebook 
+facebook taking steps grow its traffic with purchase intent too now allowing google crawl 
+and index public profiles pages groups and events from its mobile app this means that results from 
+google searches smartphones will display content from facebook app listings will appear deep links 
+that will take users the relevant part the facebook app when clicked with any retailer traffic matters 
+and while facebook already has monthly users believe its traffic with retail purchase intent likely 
+still low the figure above speaks this the google agreement has the potential improve this 
+exhibit example shop page the facebook mobile app 
+rce faceb rgan stan ley research 
+how big could the social commerce opportunity for facebook 
+platform transactions and stronger roi measurability would likely lead faster facebook dollar 
+growth this particularly true given that only current ecommerce social enabled most which 
+assume facebook given its scale consider that ecommerce came through facebook 
+would imply the platform would drive total ecommerce see exhibit 
+payments internet software november 
+morgan stanley research 
+exhibit ecommerce came through facebook would drive ecommerce volume 
+its platform 
+rce cen reau tern retailer rgan stan ley research estimates 
+while assessing the incremental advertising uplift admittedly difficult for perspective our agency 
+conversations imply that google advertising roi with retail clients implying advertising take rate 
+this speaks the monetization upside for facebook retailers start view the platform 
+through more transactional lens indeed even retailers were willing bid facebook retail cpcs 
+implied take rate enabled ecommerce would add our 
+facebook north american estimate see exhibit any further cpc bidding enabled social 
+ecommerce would further upside note too that over time also possible facebook could move 
+transaction based monetization model see from google now travel and retail here again more 
+social enabled commerce has the potential drive materially higher earnings power 
+exhibit social commerce could add meaningful upside facebook american advertising revenue 
+rce cen reau tern retailer data rgan stan ley research estimates 
+payments internet software november 
+morgan stanley research 
+how will buy buttons impact payments companies 
+broadly view buy buttons positive development for payments companies reduced friction the 
+payment checkout process should help elevate conversion rates for mobile apps websites simplistically 
+cash typically not option for these transactions higher conversion rates will help drive incremental growth 
+electronic payments volumes which the key revenue driver for most payment companies the impact 
+could however more nuanced depending what role entity playing the payments value chain 
+for the card networks buy buttons are all good although platform specific buy buttons could 
+potentially compete with the networks own checkout buttons some level visa checkout and 
+masterpass believe the networks are ultimately agnostic between the two and goal drive 
+more transactions ride over their rails providing tools that make consumption their assets easier 
+third parties and consumers the extent that transaction will ultimately funded credit debit cards 
+either case proliferation buy buttons positive for the networks 
+the margin think that wider adoption buy buttons over time could even help the networks gain share 
+paypal which has thus far been the dominant player for ecommerce transactions with its 
+transactions funded via ach 
+for the merchant acquirers buy buttons could drive more competition and increase their 
+commoditization longer term the near term believe that buy buttons will likely neutral 
+development for the acquirers higher conversation rates the mobile online environment positive given 
+that the majority transactions will funded via electronic payment methods whereas paper based 
+payments are more prevalent offline transactions however new entrants the space are starting 
+differentiate themselves moving into areas where they can deliver more value such easier integration with 
+developers and making easy for sellers build their own buy button third party website through deeper 
+integration with retailers inventory stripe relay product these instances the role the acquirers 
+could reduced that low value added processor which yields lower economics per transaction 
+for paypal buy buttons are potentially double edged sword the positive side the leading 
+general purpose buy button the desktop environment paypal has large lead over other general purpose 
+buy buttons both merchant and consumer acceptance with opportunity bring its active user base 
+consumers over the mobile environment the company has also introduced one touch technology 
+which allows its users store their paypal user name and password securely the mobile device enabling the 
+bypassing the login and password entering process eligible sites one touch also works desktop laptop 
+environment 
+paypal braintree segment see next section for braintree primer also provides the back end payment 
+infrastructure that may necessary launch platform specific buy buttons for instance braintree has 
+partnership although not exclusive with pinterest enable buyable pins such that payments info entered 
+when registering for the first time for purchase pinterest stored securely braintree vault 
+the negative side proliferation platform specific buy buttons which offer seamless one click checkout 
+functionality could reduce the use case for paypal own general purpose buy button the long term the 
+amazon checkout experience though near term impact limited given how nascent the buy button 
+phenomenon with buy buttons also think that consumers would not change their payment settings often 
+before completing purchase which would make the primary funding source all the more important several 
+the platform specific buy buttons that have been launched far not currently include paypal funding 
+option 
+more broadly are seeing the emergence more companies who view control the digital wallets and 
+their potential act buy button being core part their respective strategies with companies such 
+visa mastercard apple google samsung facebook chase amazon and large merchants such walmart and 
+payments internet software november 
+morgan stanley research 
+target all working initiatives that could lead decline the use case the paypal digital wallet 
+furthermore more and more commerce shifts the mobile environment paypal could disadvantaged 
+google and apple control the leading mobile operating systems globally and could position their respective 
+payment offerings android pay and apple pay the default digital wallet their platforms these initiatives 
+have limited acceptance far for app purchases and not currently work for browser purchases where 
+the majority purchase volumes reside this point time although would not surprised see these 
+mobile wallets incorporate some form browser functionality the future 
+payments internet software november 
+morgan stanley research 
+retail software impact 
+retail software platforms primarily view buy buttons way enhance channel access for their 
+merchant customers several the major retail software vendors have pursued offering buy buttons 
+way enhance their platforms forging relationships with major social media platforms and payment 
+processing vendors the process these vendors primarily view the opportunity one that helps their 
+merchant customers remove friction from the process buying their product via online platforms where their 
+customers spend most their time while vendors from shopify the small business end the spectrum 
+through demandware the large enterprise end have developed buy button integration see growth the 
+small business end the most robust due high consumer demand need for smbs leverage social and 
+online media level the competitive playing field and lack channel conflict for vendors the low end its 
+smb focus could also explain why shopify appears have made the most progress with other initiatives well 
+such facebook pages amazon partnership and integrated shipping 
+exhibit shopify relevance accelerating 
+rce gle tren 
+rth american tren activity 
+buy buttons drive better traction the shopify platform partnerships with facebook twitter pinterest 
+etc well the introduction universal buy buttons have garnered positive responses from affiliates and 
+partners the shopify ecosystem partners and affiliates help drive new merchants shopify and the 
+company integration with the worlds most popular social media platforms help partners promote the brand 
+merchants are always looking for ways gain edge compete market and increase brand awareness buy 
+buttons are effective solution that helps businesses achieve those goals shop well positioned one 
+the most effective solutions that help merchants build synchronized brand presence across multiple 
+platforms shopify has positioned itself platform that can effectively leverage its saas platform and rich 
+developer community offer simple enterprise class solutions across the retail spectrum for smbs 
+particular access the platform can often help level the playing field relative larger enterprises that have 
+access more expensive custom solutions 
+competition exists but currently lacks depth the smb retail software landscape extremely competitive 
+due large and underserved market well the fragmented nature the smb services industry the most 
+popular ecommerce solutions for smbs include shopify bigcommerce and volusion greater points price 
+and complexity magento demandware and sap hybris capture the mid large and mega cap retailors 
+dynamic and competitive space shop stands out offering the most robust buy button integration 
+the market bigcommerce allows merchants sell through facebook stores and twitter but lacks seamless 
+integration with amazon need use multi channel selling app volusion also offers integration with 
+facebook and amazon but lacks integration with other social media outlets addition buy buttons shopify 
+payments internet software november 
+morgan stanley research 
+has also partnered with facebook provide facebook shopping pages which discuss later 
+exhibit smb market opportunity concentrated the low end 
+rce partn ers rgan stan ley research 
+bottom end the market under penetrated one the more intresting data sets seen from 
+ami study ami looked enterprises with fewer than employees shopify core markets the company 
+found that this population businesses was heavily skewed toward the bottom end the market similar 
+other vertical markets view the retail software market one where vendors can more easily scale 
+from the low end than scale down from the high end such see shopify uniquely positioned 
+take share the low end the market and expand the functionality its enterprise class platform compete 
+the high end the market 
+exhibit shopify tam opportunity 
+rce data rgan stan ley research 
+based the ami numbers estimate opportunity for shopify its core geographies canada 
+western europe australia and new zealand and globally ami partners estimated million 
+merchants specifically retailers with less than employees within core geographies and million 
+merchants world wide applying average annual revenue per merchant dollars which 
+approximately shop current average revenue per customer gets our total tam estimate shopify has 
+merchants today but there ample room for additional market penetration shopify currently well 
+payments internet software november 
+morgan stanley research 
+positioned the smb market with robust integrated platform very compelling entry level prices and its 
+platform scales very well with customers success see shop well positioned maintain share with 
+customers that succeed and grow its platform improving platform fundamentals over time 
+shopify buy button 
+shopify buy button helps smbs access additional sales channels mobile grows into larger driver 
+future ecommerce transactions buy buttons are becoming critical component facilitating this trend they 
+allows merchants easily add ecommerce functionality any website embedding buy button connected 
+shopify account thus removing friction the buying process any device purchases are securely 
+transacted through shopify payments which partners with the stripe back end processor buy buttons can 
+used multiple ways 
+products can sold twitter pinterest wordpress squarespace and tumblr wherever 
+merchants business online 
+embedded carts and secure checkout can added any website regardless where 
+products are sold shopify merchants can track orders through the shopify portal 
+buy buttons and embedded carts can customized match the style and format any 
+website both are fully responsive and offers customers better experience computers 
+smartphones and tablets 
+exhibit shopify partnerships 
+rce ify 
+recently shopify announced various partnerships and integration capabilities aimed making the smb selling 
+process more efficient shopify announced seamless integration with popular social media outlets like 
+facebook twitter and pinterest which helps smbs increase reach and presence across multiple social 
+networks the company also announced its position the preferred migration partner amazon web stores 
+while the number merchants this platform very small view this positive this removes 
+amazon direct competitor from the marketplace and puts them the partner seat and address product 
+shipping shopify partnered with usps offer merchants the ability buy and print discounted usps shipping 
+labels directly through the shopify admin portal ultimately saving merchants time and money 
+facebook shop pages shopify and facebook have been working together for over year integrate 
+shopify storefront technology with the social media platform current facebook store applications don work 
+well mobile devices the intention the shop integration add ecommerce functionality mobile 
+making the purchasing process easier for consumers mobile devices the new shop section showcases 
+products directly merchant facebook page and allows consumers check out without leaving facebook 
+merchants can also review sales advertising and traffic data generated facebook shopify the first among 
+payments internet software november 
+morgan stanley research 
+its competitors offer truly mobile friendly application the main difference being better user experience 
+exhibit shopify shop section facebook 
+designed for mobile devices 
+exhibit shopify shows reach and engagement 
+data and also handles payment processing 
+source shopify 
+source shopify 
+pinterest with over billion boards and billion pinned images now pinterest shopify buy buttons 
+provide merchants exposure large potential customer base and removes layer friction the buying 
+process instead clicking links that open merchant sites consumers can now purchase directly from the 
+pinterest app similarly shopify integration with twitter allows merchants sell products directly through 
+tweets without ever having leave twitter the twitter app 
+shopify integrates with amazon services that that merchants can become more efficient the integrations 
+allows merchants accept payments using amazon payments information customers can make purchases 
+without having repopulate credit card and shipping information that already their amazon accounts 
+integrations also allow merchants use fulfillment amazon ship products directly from amazon 
+fulfillment centers 
+payments internet software november 
+morgan stanley research 
+appendix what buy button 
+what buy button 
+buy buttons offer payment transaction experience that swift and easy mobile device desktop 
+broadly speaking link embedded website mobile app that enables easy and efficient purchasing 
+just few clicks allowing consumers pre register their payment account credentials thereby taking the 
+friction out the checkout process 
+there are main types buy buttons 
+generic buy buttons what may called general purpose buy buttons such paypal visa checkout 
+masterpass express checkout from amex these aim solve the checkout conversion problem broadly the 
+digital commerce environment consumers can use these checkout broad selection merchant websites 
+apps that choose integrate with these buttons 
+platform site specific buy buttons these may embedded advertisement within specific website 
+app and enable seamless purchasing item without ever leaving the platform examples include buy 
+buttons launched facebook instagram twitter and pinterest for these platforms buy buttons are way 
+drive incremental advertising dollars from retailers for retailers and cpg companies way drive more 
+online sales and compete more effectively against online merchants like amazon 
+who using the buy button now 
+over the past year facebook instagram twitter and pinterest have been experimenting with buy buttons 
+their websites both facebook and twitter began beta testing their buy buttons july and september 
+respectively and rolled them out more widely june and september respectively instagram and 
+pinterest launched their versions the buy button june called the shop now button and buyable 
+pins respectively 
+most recently facebook partnered with shopify enable shop section for facebook pages facebook 
+which makes easier for merchants showcase their products directly their facebook page and allows 
+consumers check out mobile device without leaving facebook 
+why buy buttons matter 
+general consumers are comfortable purchasing items their desktops but given the global 
+smartphone and global tablet install base people are increasingly connected the internet using 
+these mobile devices mobile penetration rising globally our latest alphawise survey data show that 
+consumers worldwide are increasingly comfortable transacting their mobile devices mobile 
+penetration ecommerce has grown from see free shipping trumps sameday and smartphone ecommerce budding yet while positive sign that mobile ecommerce 
+penetration growing still fewer than consumers have made purchase their mobile devices 
+over time believe increased willingness purchase items mobile devices will drive faster overall 
+ecommerce growth essentially see the combination consumers that are increasingly always connected 
+shop with higher willingness make purchases mobile devices bringing larger share consumers 
+wallets online 
+follows that providing mobile friendly shopping experience will become increasingly important retailers 
+buy button can take some the friction out the purchasing process believe that will long way 
+towards encouraging more mobile ecommerce and shopping that because today most retail mobile sites 
+payments internet software november 
+morgan stanley research 
+require consumers type their credit card and billing information into their phones each time they make 
+purchase resulting clunky and unpleasant user experience this has resulted significantly lower 
+conversion rates smartphones compared desktops see exhibit 
+exhibit sales conversion rates smartphones are far lower than desktop 
+sales conversion rates device type 
+desktop 
+tablet 
+add cart rates 
+sales conversion rates 
+smartphone 
+rce etate 
+one early solution has been the development mobile apps whereby logged consumer payment 
+information saved however most shopper traffic occurs mobile browser sites apps believe 
+browsing search results are most akin offline shopping behavior well designed buy button could hence 
+take some that friction out mobile purchasing offering single button that seamlessly connects the 
+consumer payment information with retailer back end website the platform that powers the buy button 
+will have access the consumer payment information but via tokenization will not actually know store 
+consumer credit card data 
+buy buttons and the integration ecommerce into search and the social platforms 
+mobile ecommerce trends matter for online advertising companies believe that increase mobile 
+shopping behavior will drive more advertising dollars online onto mobile platforms buy buttons offer 
+chance for social networks and search engines turn their platforms into commerce apps sites that can 
+potentially bridge the gap between browsing and buying activity 
+facebook twitter and pinterest are all experimenting with buy buttons they position themselves partners 
+for retailers that are trying compete against the likes amazon google well and they arguably could 
+best positioned given their ability bundle search functionality with their existing android payment 
+ecosystem for all these players successful buy buttons are likely foster dollar growth they 
+would help google continue close its mobile desktop cpc monetization gap still for the social 
+networks little can long way given only total ecommerce social enabled 
+what the opportunity 
+for social networks like facebook instagram and twitter the buy button way drive incremental 
+advertising dollars from retailers this good way for these platforms leverage their large audiences 
+connect retailers with consumers further facilitating actual purchase their platforms through buy 
+button enabled unit facebook instagram and twitter can directly prove the conversion and roi 
+advertising their sites better roi should lead more advertising dollars flowing the social platforms 
+payments internet software november 
+morgan stanley research 
+for facebook specifically buy button one way the company trying attract advertising dollars from 
+small medium businesses smbs who often not have the resources capabilities develop mobile app 
+mobile optimize their browser site effect selling directly facebook these smbs can leverage 
+facebook platform their mobile storefront 
+for pinterest and extent instagram the buy button way better monetize the content that already 
+its platform users are already sharing photos their favorite apparel shoes and home goods name 
+few examples closing the loop and allowing consumers purchase these items directly from retailers 
+pinterest better monetizing its users proving its value advertising platform and keeping users its 
+platform 
+for retailers and cpg companies buy button potential way drive more mobile online sales and 
+compete more effectively against online merchants like amazon 
+what are the challenges 
+given that the first iphone was sold years ago perhaps surprising that easy use mobile buy 
+button has not been developed received widespread consumer adoption the case with all payments 
+systems the challenge has been get both consumers and merchants use and accept the buy button which 
+has been challenging all participants 
+changing consumer behavior one the biggest obstacles will changing consumer behavior 
+because while estimate the majority people browse for products online any given month only 
+people worldwide actually purchase products via their mobile devices 
+trust consumers must trust the platform with their financial credit card information gaining that trust may 
+challenging 
+managing inventory product out stock will the inventory management system communicate that 
+info and deactivate buy buttons for that item the platform 
+payments internet software november 
+morgan stanley research 
+quick primer braintree 
+both braintree and stripe offer the back end payments infrastructure enable the seamless checkout 
+functionality buy buttons 
+what role does braintree play the payments ecosystem 
+braintree third party payment service provider that enables retailers accept payments for 
+mcommerce ecommerce transactions founded and acquired paypal the company 
+initially focused simplifying payments acceptance for startups and mobile app developers and has since 
+gained traction with larger retailers well 
+braintree sought make payments easy plug and play through api based approach that enabled 
+developers quickly integrate payments functionality into mobile apps websites contrast traditional 
+acquirers processors that could take weeks set retailer braintree apis are well documented and 
+essentially provide bunch code variety languages and customized for the ios android and 
+windows mobile platforms that can integrate with the code the merchants website app the company offers 
+full set payment services including acceptance credit debit card and digital wallets such paypal 
+applepay and androidpay well payment gateway recurring payment processing and marketplace 
+payment services 
+from payments value chain perspective braintree akin non bank iso the company uses top three 
+merchant processor behind the scenes for the actual transaction processing 
+exhibit braintree transaction flow 
+rce rgan stan ley research 
+what are the advantages using braintree 
+ease use alluded above braintree adds value simplifying the front end process process setting 
+merchant account and the software development effort required incorporate payments functionality into 
+mobile apps commerce websites the company has full stack payments platform that can abstract all 
+payments related needs for retailer developer into the back end but also offers payment gateway only 
+services for retailers that already have merchant account and payment processor relationships 
+pci compliance braintree helps alleviate the pci compliance burden encrypting and storing customer 
+payment information securely additional cost when payment method stored the braintree vault 
+the information encrypted the braintree gateway and associated with unique token this token can 
+used create transactions without the pci compliance burden that comes with handling unencrypted data 
+simplified pricing braintree charges standard fee per transaction after the first 
+processed volume which processed for free with additional monthly fees the company assesses 
+fee for processing chargebacks per incident for retailers that want only use braintree gateway service 
+available month transaction retailers that process more than annual volumes can 
+payments internet software november 
+morgan stanley research 
+negotiate pricing directly with the company 
+who are braintree competitors 
+braintree competes with host traditional and new disruptive payment service providers that cater 
+ecomm mcomm retailers among the traditional providers the notable ones include visa owned 
+cybersource authorize net worldpay chase paymentech vantiv etc broadly think these providers have 
+more scale and experience and hence can potentially offer more sophisticated tools fraud prevention 
+support more complexity and wider range payment types and cater better the needs large merchants 
+where they may lacking likely longer application processing onboarding time more cumbersome 
+software integrations and not enough focus the developer community 
+some the newer players that compete with braintree include stripe chargify recurly paysimple etc 
+view stripe the most notable with very similar set capabilities braintree while some the others may 
+lend themselves better specific use cases such recurring billing marketplace environments 
+braintree stripe 
+our checks with industry experts indicate that both braintree and stripe are pretty similar capabilities with 
+very developer friendly reputations 
+the margin stripe considered easier use the developer community although 
+braintree has also simplified its software stack considerably 
+braintree has slight upper hand integration capabilities given that integrates with 
+paypal and venmo stripe integrates with alipay while braintree does not yet 
+braintree also wins marginally international availability although both have multicountry presence 
+pricing very similar for both braintree and stripe the although there are differences 
+for non usd transactions 
+both braintree and stripe offer the back end payments infrastructure enable seamless 
+checkout functionality buy buttons but stripe has gone step further with its new relay 
+product that allows for deep integration with merchant inventory such that stripe can 
+manage payments and inventory information flow for the merchant merchants can provide 
+their product info and skus relay which then enables them launch buy buttons 
+third party apps such twitter pinterest 
+braintree integration with paypal 
+braintree offers zero sdk with which retailers can accept both credit debit cards and paypal with one seamless 
+integration however order accept paypal via braintree merchants must use braintree full stack payment 
+services opposed gateway service only braintree does not charge any fees for paypal transactions but the 
+retailer will required pay the fee has directly negotiated with paypal 
+what merchant account 
+account with acquiring processing bank which allows merchants accept credit and debit card 
+payments can obtained either directly from acquirer processor from reseller such 
+independent sales organization iso that sells the services one multiple processors 
+payments internet software november 
+morgan stanley research 
+payments internet software november 
+morgan stanley research 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and 
+morgan stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley 
+includes morgan stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada 
+limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any price targets referenced this research report please contact the client support team follows 
+canada hong kong latin america london singapore 
+sydney tokyo alternatively you may contact your investment representative morgan stanley research 
+broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that 
+they have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report 
+brian essex cfa brian nowak cfa smittipon srethapramote 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+october morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research amazon inc automatic data processing inc facebook inc fleetcor technologies inc google lendingclub corp 
+mastercard inc deck capital inc twitter inc vantiv inc visa inc 
+within the last months morgan stanley managed managed public offering offering securities amazon inc automatic data 
+processing inc first data corp lendingclub corp deck capital inc shopify inc 
+within the last months morgan stanley has received compensation for investment banking services from amazon inc automatic data processing 
+inc facebook inc first data corp lendingclub corp mastercard inc deck capital inc shopify inc twitter inc vantiv inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from amazon inc 
+automatic data processing inc evertec inc facebook inc first data corp fleetcor technologies inc global payments inc google green dot corp 
+heartland payment systems inc lendingclub corp mastercard inc moneygram international inc deck capital inc paychex inc paypal holdings 
+inc shopify inc total system services inc trinet group inc twitter inc vantiv inc visa inc western union 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from automatic 
+data processing inc first data corp fleetcor technologies inc google mastercard inc paychex inc trinet group inc twitter inc verifone systems 
+inc western union wex inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship 
+with the following company amazon inc automatic data processing inc evertec inc facebook inc first data corp fleetcor technologies inc 
+global payments inc google green dot corp heartland payment systems inc lendingclub corp mastercard inc moneygram international inc 
+deck capital inc paychex inc paypal holdings inc shopify inc total system services inc trinet group inc twitter inc vantiv inc visa inc western 
+union 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company amazon inc automatic data processing inc 
+first data corp fleetcor technologies inc google mastercard inc paychex inc paypal holdings inc trinet group inc twitter inc verifone systems 
+inc visa inc western union wex inc 
+employee director consultant morgan stanley director facebook inc lendingclub corp verifone systems inc this person not 
+research analyst member research analyst household 
+morgan stanley llc makes market the securities amazon inc automatic data processing inc evertec inc facebook inc first data 
+corp fleetcor technologies inc global payments inc google green dot corp heartland payment systems inc lendingclub corp mastercard inc 
+moneygram international inc deck capital inc paychex inc shopify inc total system services inc twitter inc vantiv inc verifone systems inc 
+visa inc western union wex inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making 
+providing liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and 
+buys from customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have 
+position the debt the company instruments discussed this report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley 
+research contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and 
+not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+october 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+payments internet software november 
+morgan stanley research 
+coverage universe 
+stock rating category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+count 
+total 
+count 
+total 
+ibc 
+rating 
+category 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received 
+investment banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant 
+broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad 
+market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad 
+market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith 
+barney llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval 
+conducted the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities amazon inc automatic data 
+processing inc evertec inc facebook inc first data corp google mastercard inc paypal holdings inc twitter inc western union 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within 
+the meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary 
+the recommendations views expressed research the same stock this may the result differing time horizons methodologies market events 
+other factors for all research available particular stock please contact your sales representative matrix 
+http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients 
+through alternate electronic means convenience for access all available morgan stanley research please contact your sales representative 
+matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms 
+accessing and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance 
+with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your 
+preferences and collect readership data that can deliver better and more personalized service and products you find out more information 
+about how morgan stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your 
+investments may vary because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market 
+indexes operational financial conditions companies other factors there may time limitations the exercise options other rights 
+securities instruments transactions past performance not necessarily guide future performance estimates future performance are based 
+assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the 
+subject company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+payments internet software november 
+morgan stanley research 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan 
+stanley owns more class common equity securities the companies for all other companies mentioned morgan stanley research 
+morgan stanley may have investment less than securities instruments derivatives securities instruments companies and may trade them 
+ways different from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley 
+research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley 
+business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers 
+hong kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities 
+hong kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and bank morgan stanley hong kong branch 
+singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte ltd 
+registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and bank morgan stanley singapore branch 
+registration number australia wholesale clients within the meaning the australian corporations act morgan stanley australia 
+limited holder australian financial services license which accepts responsibility for its contents australia 
+wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt 
+fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and 
+the prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the 
+financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member 
+the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned 
+equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the 
+information morgan stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom 
+saudi arabia and directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized 
+firms comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences 
+for this reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages 
+relating such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+payments internet software november 
+morgan stanley research 
+industry coverage payments and processing 
+company ticker 
+rating 
+price 
+smittipon srethapramote 
+automatic data processing inc adp 
+evertec inc evtc 
+first data corp fdc 
+fleetcor technologies inc flt 
+global payments inc gpn 
+green dot corp gdot 
+heartland payment systems inc hpy 
+lendingclub corp 
+mastercard inc 
+moneygram international inc mgi 
+deck capital inc ondk 
+paychex inc payx 
+paypal holdings inc pypl 
+total system services inc tss 
+trinet group inc tnet 
+vantiv inc vntv 
+verifone systems inc pay 
+visa inc 
+western union 
+wex inc wex 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

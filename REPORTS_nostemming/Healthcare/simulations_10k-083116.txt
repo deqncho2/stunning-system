@@ -1,0 +1,2754 @@
+securities exchange commission edgar filing 
+simulations plus inc 
+form 
+date filed 
+corporate issuer cik 
+copyright issuer direct corporation all right reserved distribution this document strictly prohibited subject the terms use 
+united states 
+securities and exchange commission 
+washington 
+form 
+annual report pursuant section the securities exchange act 
+for the fiscal year ended august 
+transition report pursuant section the securities exchange act 
+for the transition period from _________ _________ 
+commission file number 
+simulations plus inc 
+exact name registrant specified its charter 
+california 
+state other jurisdiction incorporation organization 
+employer identification 
+tenth street west 
+lancaster 
+address principal executive offices including zip code 
+registrant telephone number including area code 
+securities registered pursuant section the act 
+title each class 
+common stock par value per share 
+name each exchange which registered 
+nasdaq stock market llc 
+securities registered pursuant section the act none 
+indicate check mark the registrant well known seasoned issuer defined rule the securities act yes 
+indicate check mark the registrant not required file reports pursuant section section the act yes 
+indicate check mark whether the registrant has filed all reports required filed section the securities exchange act during 
+the preceding months for such shorter period that the registrant was required file such reports and has been subject such filings requirements for 
+the past days yes 
+indicate check mark whether the registrant has submitted electronically and posted its corporate website any every interactive data file required 
+submitted and posted pursuant rule regulation this chapter during the preceding months for such shorter period that the 
+registrant was required submit and post such files yes 
+indicate check mark disclosure delinquent filers pursuant item regulation not contained herein and will not contained 
+the best registrant knowledge definitive proxy information statements incorporated reference part iii this form any amendment this 
+form 
+indicate check mark whether the registrant large accelerated filer accelerated filer non accelerated filer smaller reporting company see the 
+definitions large accelerated filer accelerated filer and smaller reporting company rule the exchange act check one 
+large accelerated filer 
+non accelerated filer not check smaller reporting company 
+accelerated filer 
+smaller reporting company 
+indicate check mark whether the registrant shell company defined rule the exchange act yes 
+the aggregate market value the registrant common stock held non affiliates the registrant february based upon the closing price the 
+common stock reported the nasdaq stock market such date was approximately this calculation does not reflect determination that 
+persons are affiliates for any other purposes 
+november shares the registrant common stock were outstanding 
+documents incorporated reference 
+certain portions the registrant definitive proxy statement delivered its shareholders connection with the registrant annual meeting 
+shareholders are incorporated reference into part iii this form such definitive proxy statement will filed with the securities and exchange 
+commission within days after the end the fiscal year covered this annual report form 
+simulations plus inc 
+form 
+for the fiscal year ended august 
+table contents 
+page 
+part 
+item business 
+item risk factors 
+item unresolved staff comments 
+item properties 
+item legal proceedings 
+item mine safety disclosures 
+part 
+item market for registrant common equity and related stockholder matters and issuer purchases 
+equity securities 
+item selected financial data 
+item management discussion and analysis financial condition and results operations 
+item quantitative and qualitative disclosures about market risk 
+item financial statements and supplementary data 
+item changes and disagreements with accountants accounting and financial disclosure 
+item controls and procedures 
+item other information 
+part iii 
+item directors and executive officers and corporate governance 
+item executive compensation 
+item security ownership certain beneficial owners and management and related stockholder matters 
+item certain relationships and related transactions and director independence 
+item principal accounting fees and services 
+part 
+item exhibits financial statement schedules 
+signatures 
+forward looking statements 
+this document and the documents incorporated this document reference contain forward looking statements that are subject risks and uncertainties all 
+statements other than statements historical fact contained this document and the materials accompanying this document are forward looking statements 
+the forward looking statements are based the beliefs our management well assumptions made and information currently available our 
+management frequently but not always forward looking statements are identified the use the future tense and words such believes expects 
+anticipates intends will may could would projects continues estimates similar expressions forward looking statements are not guarantees 
+future performance and actual results could differ materially from those indicated the forward looking statements forward looking statements involve 
+known and unknown risks uncertainties and other factors that may cause our our industry actual results levels activity performance achievements 
+materially different from any future results levels activity performance achievements expressed implied the forward looking statements 
+the forward looking statements contained incorporated reference this document are forward looking statements within the meaning section 
+the securities act amended securities act and section the securities exchange act amended exchange act and are 
+subject the safe harbor created the private securities litigation reform act these statements include declarations regarding our plans intentions 
+beliefs current expectations 
+among the important factors that could cause actual results differ materially from those indicated forward looking statements are the risks and uncertainties 
+described under risk factors our other filings with the securities and exchange commission sec 
+forward looking statements are expressly qualified their entirety this cautionary statement the forward looking statements included this document are 
+made the date this document and not undertake any obligation update forward looking statements reflect new information subsequent 
+events otherwise except required law 
+part 
+item business 
+used this report each the terms our the company and simulations plus refers simulations plus inc and cognigen corporation 
+wholly owned subsidiary simulations plus unless otherwise stated the context otherwise requires 
+overview 
+simulations plus inc incorporated premier developer groundbreaking drug discovery and development software for mechanistic modeling and 
+simulation for machine learning based prediction properties molecules solely from their structure and exploring the application its machine learning 
+technologies other industries including aerospace military and general healthcare our pharmaceutical chemistry software licensed major pharmaceutical 
+biotechnology agrochemical and food industry companies and regulatory agencies worldwide for use the conduct industry based research also 
+provide consulting services ranging from early drug discovery through preclinical and clinical trial data analysis and for submissions regulatory agencies 
+simulations plus headquartered southern california with offices buffalo new york and its common stock trades the nasdaq capital market under 
+the symbol slp 
+september simulations plus acquired cognigen corporation cognigen wholly owned subsidiary pursuant that certain agreement and plan 
+merger dated july and between simulations plus and cognigen the merger agreement cognigen was originally incorporated 
+through the integration cognigen into simulations plus simulations plus now also leading provider population modeling and simulation contract 
+research services for the pharmaceutical and biotechnology industries our clinical pharmacology based consulting services include pharmacokinetic and 
+pharmacodynamic modeling clinical trial simulations data programming and technical writing services support regulatory submissions have also 
+developed software for harnessing cloud based computing support modeling and simulation activities and secure data archiving and provide consulting 
+services improve interdisciplinary collaborations and research and development productivity 
+are global leader focused improving the ways scientists use knowledge and data predict the properties and outcomes pharmaceutical and 
+biotechnology agents and are one only two global companies who provide wide range preclinical and clinical consulting services and software our 
+innovations integrating new and existing science medicinal chemistry computational chemistry pharmaceutical science biology physiology and machine 
+learning into our software have made the leading software provider for physiologically based pharmacokinetics pbpk modeling and simulation and for 
+prediction molecular properties from structure 
+generate revenue delivering relevant cost effective software and creative and insightful consulting services pharmaceutical and biotechnology companies 
+use our software programs and scientific knowledge guide early drug discovery molecule design and screening preclinical and clinical development 
+programs they also use enhance their understanding the properties potential new medicines and use emerging data improve formulations select 
+and justify dosing regimens support the generics industry optimize clinical trial design and simulate outcomes special populations such the elderly and 
+pediatric patients 
+products 
+general 
+currently offer eight software products for pharmaceutical research and development three simulation programs that provide time dependent results based 
+solving large sets differential equations gastroplus dddplus and membraneplus three programs that are based predicting and analyzing 
+static not time dependent properties chemicals admet predictor medchem designer and medchem studio the combination admet predictor 
+medchem designer and medchem studio called our admet design suite one recently announced program for rapid clinical trial data analysis and 
+regulatory submissions called pkplus and one program called kiwi that provides integrated platform for data analysis and reporting through our 
+proprietary secure cloud during the fourth fiscal quarter the fiscal year ended august announced the release our newest software offering 
+pkplus next generation software package for noncompartmental and compartmental pharmacokinetic analysis and reporting which further described 
+below 
+gastroplus 
+our flagship product and currently our largest source revenue gastroplus gastroplus simulates the absorption pharmacokinetics and pharmacodynamics 
+drugs administered humans and animals and currently the most widely used software its type pharmaceutical companies the food and drug 
+administration fda the national institutes health nih and other government agencies the and other countries the fda currently has 
+gastroplus licenses 
+because the widespread use gastroplus were the only non european company invited join the european innovative medicines initiative imi 
+program for oral bioavailability tools orbito orbito begun international collaboration among industry academic and government 
+organizations working the area oral absorption pharmaceutical products because are outside the european union our participation this project 
+our own expense while other members are compensated for their work however are full member with access all the data and discussions all 
+other members believe our investment participate this initiative enables benefit from and contribute advancing the prediction human oral 
+bioavailability from preclinical data and ensures that are well known member pharmaceutical companies and regulatory agencies 
+september announced that simulations plus had been invited join the european siminhale consortium and had been admitted this prestigious 
+group focused advancing the state the art for simulation inhaled dosage forms one only two participants simulations plus will participate 
+activities designed advance particle designs for improved deposition and interaction with lung tissue promote realistic computer simulations particle 
+aerosolization delivery and deposition promote patient tailored inhaled medicines promote integration device and formulation design and promote critical 
+assessment toxicity issues and related risks 
+september entered into research collaboration agreement rca with the fda enhance the ocular compartmental absorption and transit 
+ocat model within the additional dosing routes module gastroplus the objective this agreement provide tool for generic companies and the 
+fda assess the likely bioequivalence generic drug formulations dosed the eye under this rca receive per year this rca may 
+renewed for total three years based the progress achieved during the project after successful second year the rca was renewed for its third 
+year september and will expire september 
+were awarded another rca the fda september this time expand the capabilities gastroplus simulate the dosing long acting 
+injectable microspheres this type dosage form usually injected via subcutaneous intramuscular routes but can also used for ocular dosing once 
+again this rca provides per year for three years under this agreement are developing simulation models deal with the slow 
+dissolution decomposition the microsphere carrier material that gradually releases the active drug over periods long weeks months after successful 
+first year the rca was renewed for the second year september and will expire september unless renewed 
+addition the two funded efforts with the fda described above also have unfunded rca with the fda office generic drugs ogd that began 
+the objective this rca which has five year term directed toward the fda evaluation mechanistic ivivcs vitro vivo correlations 
+determine whether mechanistic absorption modeling mam can relate laboratory vitro dissolution experiment results the behavior dosage forms 
+humans and animals vivo better than traditional empirical methods 
+april released version gastroplus this was the largest single upgrade have made the program date and the added level science 
+and technology enabled valuable new functionalities that believe provide the most advanced decision making tool for preclinical and early clinical trial 
+simulation and modeling analysis available today several the significant enhancements include 
+ability simulate the absorption and distribution biologics antibodies and proteins 
+ability simulate dosing the skin including patches creams ointments and subcutaneous injections and 
+tighter integration with our admet predictor software increase the utility the program early drug discovery 
+our goal with gastroplus integrate the most advanced science into user friendly software enable pharmaceutical researchers and regulators perform 
+sophisticated analyses complex drug behaviors humans and laboratory animals already the most widely used program the world for physiologically 
+based pharmacokinetics pbpk the addition these new capabilities expected expand the user base the early pharmaceutical research and 
+development process while also helping further penetrate the biopharmaceuticals food cosmetics and general toxicology markets 
+are now finalizing the development version gastroplus which will add number new capabilities and will refine and enhance some the existing 
+capabilities the program including intramuscular dosing simulation antibody drug conjugates additional animal physiologies enhanced report generation 
+and enhancements the pbpk tissue models expect release version before the end calendar year 
+dddplus 
+dddplus simulates vitro laboratory experiments that measure the rate dissolution drug and desired the additives excipients particular 
+dosage form powder tablet capsule under variety experimental conditions this unique software program used formulation scientists 
+industry and the fda understand the physical mechanisms affecting the dissolution rate for various formulations reduce the number cut and try 
+attempts design new drug formulations and design vitro dissolution experiments better mimic vivo animal and human conditions version 
+dddplus which adds number significant enhancements was released april this version adds new formulation types controlled release bilayer 
+tablet delayed release coated tablet and immediate release coated beads expanded formulation specification options biorelevant solubilities and surfactant 
+effects dissolution tablet compression and disintegration models links with gastroplus and updated licensing 
+membraneplus 
+membraneplus was released october similar dddplus membraneplus simulates laboratory experiments but this case the experiments are for 
+measuring permeability drug like molecules through various membranes including several different standard cell cultures caco mdck well 
+artificially formulated membranes pampa the value such simulation derives from the fact that when the permeabilities the same molecules are 
+measured different laboratories using supposedly the same experimental conditions the results are often significantly different these differences are 
+caused complex interplay factors how the experiment was set and run membraneplus simulates these experiments with their specific experimental 
+details and this enables scientists better interpret how results from specific experimental protocols can used predict permeability human and animals 
+which the ultimate goal few initial sales membraneplus have been made similar dddplus ten years ago this program new concept that requires 
+educating scientists how and why use and our marketing and sales program has been tasked with providing that training 
+pkplus 
+august announced the release new standalone software product called pkplus based the internal pkplus module gastroplus that 
+has been available since the pkplus module gastroplus provides quick and easy fitting compartmental pharmacokinetic models well 
+noncompartmental analysis nca for intravenous and extravascular oral dermal ocular pulmonary etc doses however the pkplus module gastroplus 
+was not designed meet all the requirements for performing these analyses for phase and clinical trials and producing report quality output for regulatory 
+submissions the new standalone pkplus program has been developed provide the full level functionality needed pharmaceutical industry scientists 
+perform the analyses and generate the outputs needed fully satisfy regulatory agency requirements for both nca and compartmental modeling believe 
+the potential number eventual users for pkplus the thousands world wide and that has the potential eventually become one our leading revenue 
+producers 
+admet predictor 
+admet absorption distribution metabolism excretion and toxicity predictor chemistry based computer program that takes molecular structures 
+drawings molecules represented various formats inputs and predicts approximately different properties for them average rate over 
+compounds per hour modern laptop computer this capability allows chemists generate estimates for large number important molecular properties 
+without the need synthesize and test the molecules well generate estimates unknown properties for molecules that have been synthesized but for 
+which only limited number experimental properties have been measured thus chemist can assess the likely success large number existing 
+molecules company chemical library well molecules that have never been made providing their molecular structures either drawing them 
+using tool such our medchem designer software automatically generating large numbers molecules using various computer algorithms including 
+those embedded our medchem studio software 
+admet predictor has been top ranked for predictive accuracy multiple peer reviewed independent comparison studies while generating its results high 
+throughput rate although the state the art this type software does not enable identifying the best molecule series does allow early screening 
+molecules that are highly likely fail potential drug candidates the worst molecules which usually the majority chemical library before 
+synthesizing and testing them thus millions virtual compounds can created and screened day compared potentially months years work 
+actually synthesize and test much smaller number actual compounds 
+the most recent release admet predictor version was released august this new version features completely redesigned and modernized 
+interface well number new capabilities enhance the performance and user friendliness the program addition have integrated number 
+medchem studio features into the new admet predictor and created tighter integration between the two programs when medchem studio license 
+obtained along with admet predictor license 
+the optional admet modeler module admet predictor enables scientists use their own experimental data quickly create proprietary high quality 
+predictive models using the same powerful machine learning methods use build our top ranked property predictions pharmaceutical companies expend 
+substantial time and money conducting wide variety experiments new molecules each year generating large databases experimental data using this 
+proprietary data build predictive models can provide second return their investment however model building has traditionally been difficult and tedious 
+activity performed specialists the automation admet modeler makes easy for scientist create very powerful models with minimal training 
+potential new markets for machine learning 
+are currently investigating applications our sophisticated machine learning engine outside our normal pharmaceutical markets date have 
+conducted several proof concept studies including building predictive models for missile aerodynamic force and moment coefficients function 
+missile geometry mach number and angle attack classifying identifying missiles and other objects from radar tracking data mapping jet engine 
+compressor performance predict when maintenance might required and classifying patients healthy experiencing some disease state genetic 
+disorder evidenced magnetic resonance imaging mri the brain other potential applications for this modeling engine have also been identified however 
+our focus date has been primarily these areas 
+believe our proprietary machine learning software engine has wide variety potential applications and intend pursue funding develop customized 
+tools further monetize our investment this technology expanding our markets beyond the life sciences and chemistry addition are examining 
+variety expanded capabilities add the basic modeling engine accommodate even larger data sets big data analytics and new applications 
+medchem designer 
+medchem designer was launched was initially molecule drawing program sketcher but now has capabilities exceeding those other 
+molecule drawing programs because its integration with both medchem studio and admet predictor provide medchem designer for free because 
+believe that the long run will help increase demand for admet predictor and medchem studio and because most other existing molecule drawing 
+programs are also provided for free our free version includes small set admet predictor best class property predictions allowing the chemist modify 
+molecular structures and then see few key properties very quickly with paid admet predictor license the chemist would see the entire approximately 
+predictions that are available over copies medchem designer have been downloaded scientists around the world date 
+when used with license for admet predictor medchem designer becomes novo molecule design tool with researcher can draw one more 
+molecular structures then click the admet predictor icon and have properties for each structure calculated seconds including our 
+proprietary admet risk index researchers can also click icon generate the likely metabolites molecule and then predict all the properties 
+those metabolites from admet predictor including each their admet risk scores this important because metabolite molecule can 
+therapeutically beneficial harmful even though the parent molecule not 
+our proprietary admet risk score provides single number that tells the chemist how many default threshold values for various predicted properties were 
+crossed violated each structure thus single number the chemist can instantly compare the effects different structural changes many 
+dimensions the ideal score zero however low score greater than zero might acceptable depending what property caused the points 
+assigned the number too high greater than the molecule not likely successful drug the default rules can modified and new rules 
+can added the user include any desired rule set based any combination calculated descriptors predicted properties and user inputs chemists 
+attempt modify structures improve one property they often cause others become unacceptable without admet risk the chemist would have 
+individually examine many key properties for each new molecule and its metabolites determine whether any them became unacceptable result 
+changing the structure 
+medchem studio 
+medchem studio powerful software tool that used both for data mining and for novo design new molecules its data mining role medchem studio 
+facilitates searching large chemical libraries find molecules that contain identified substructures and enables rapid identification clusters classes 
+molecules that share common substructures medchem studio version was released during fiscal year have now merged medchem studio with 
+the refactoring admet predictor that either program can entered through the same interface and the communication between the two programs 
+enhanced through the seamless integration both technologies believe this will enhance the attractiveness both admet predictor and medchem studio 
+medicinal and computational chemists 
+while medchem designer can used refine small number molecules medchem studio can used create and screen with admet predictor very 
+large numbers molecules down few promising lead candidates medchem studio has features that enable generate new molecular structures using 
+variety novo design methods when medchem studio used with admet predictor and medchem designer the combination which refer our 
+admet design suite believe the programs provide unmatched capability for chemists search through large libraries compounds that have 
+undergone high throughput screening experiments find the most promising classes groups molecules with large common part their structures and 
+molecules that are active against particular target addition medchem studio can take interesting but not acceptable molecule and using variety 
+design algorithms quickly generate many thousands millions high quality analogs similar new molecules these molecules can then screened using 
+admet predictor find molecules that are predicted both active against the target and acceptable variety admet properties demonstrated 
+the power the admet design suite during two nce new chemical entity projects wherein designed lead molecules inhibit the growth the 
+plasmodium falciparum malaria parasite one study and lead molecules that were combined cox and cox inhibitors each case announced ahead 
+time that were attempting this and reported the results when the projects were complete every molecule designed and had synthesized hit 
+their targets both projects 
+kiwi 
+drug development programs rely increasingly modeling and simulation analyses support decision making and submissions regulatory agencies 
+ensure high quality analyses organizations must not only apply high quality science but must also able support the science being able validate the 
+results kiwi cloud based web application that was developed efficiently organize process maintain and communicate the volume data and results 
+generated pharmacologists and scientists over the duration drug development program the validated workflow and tools within kiwi promote traceability 
+and reproducibility results 
+the pharmaceutical industry has been rapidly adopting cloud technology solution ever expanding computer processing needs leveraging our plus 
+years experience providing architecture supporting modeling and simulation efforts have developed kiwi secure validated enterprise scale 
+environment enabling global teams collaborate model based decision making kiwi has proven valuable platform for encouraging interdisciplinary 
+discussions about the model development process and interpretation results continue receive positive feedback about the functionality implemented 
+kiwi and the value the approach have taken harness cloud technology continue improve functionality and collaboration within the kiwi platform 
+and expect the licensing fee will source recurring revenue for further development and growth kiwi version was released may this 
+version kiwi provides our user community with access new features that accelerate completion modeling projects decreasing run times and facilitating 
+the comparison and exporting results across models these features include dynamic comparisons model parameter estimates and diagnostic plots export 
+model run records for regulatory submissions and accelerated infrastructure with the upgrade the latest versions nonmem and perl speaks nonmem 
+running bit linux environment 
+kiwi version was released march this new version introduced major enhancements the functionality visualization tools offered the 
+platform these enhancements include simplifying the creation plots and comparing them across multiple models thus accelerating the model refinement 
+process addition analysts can now conveniently copy visualization preferences across projects improving consistency and facilitating collaboration and 
+communication with clients and colleagues 
+contract research and consulting services 
+our scientists and engineers have expertise drug absorption via various dosing routes oral intravenous ocular nasal pulmonary and dermal 
+pharmacokinetics and pharmacodynamics they have been speakers presenters over scientific meetings worldwide the past four years 
+frequently conduct contracted consulting studies for large customers including the five largest pharmaceutical companies who have particularly difficult 
+problems and who recognize our expertise solving them well for smaller customers who prefer have studies run our scientists rather than license 
+our software and train someone use the demand for our consulting services has been steadily increasing and have expanded our consulting teams 
+meet the increased workload 
+closed five year consulting agreement with major research foundation implement platform for coordinating the data generated global teams 
+engaged model based drug development and began work the project 
+currently are working with the fda three different research collaboration agreements rcas the two funded efforts for the ocular model and longacting injectable microspheres and the unfunded ivivc effort all described above under gastroplus also successfully completed the fifth year our fiveyear renewable collaboration with the center for food safety and nutrition the fda develop predictive toxicity models for food additives and contaminants 
+pharmacometric modeling 
+have reputation for high quality analyses and regulatory reporting data collected during preclinical experiments well clinical trials new and 
+existing pharmaceutical products typically working drug projects per year the model based analysis clinical trial data that perform different 
+from the modeling analysis offered gastroplus the former relies more statistical and semi mechanistic models whereas the latter relies very detailed 
+mechanistic models statistical models rely direct observation and mathematical equations that are used fit data collected across multiple studies along with 
+describing the variability within and between patients mechanistic models are based detailed understanding the human body and the chemistry the 
+drug and involve mathematical and scientific representation the phenomena involved drug dissolution precipitation absorption distribution metabolism and 
+elimination collectively the models guide drug formulation design and dose selection 
+because the synergies achieved through the integration our buffalo division cognigen into simulations plus our first full fiscal year combined 
+operations resulted significantly increased revenues and earnings our clinical pharmacometricians buffalo supported our consulting team california 
+are learning use the pbpk modeling capabilities gastroplus and are performing such studies under new and expanded contracts with pharmaceutical 
+customers 
+product development 
+development our software focused expanding product lines designing enhancements our core technologies and integrating existing and new 
+products into our principal software architecture and platform technologies intend continue offer regular updates our products and continue look 
+for opportunities expand our existing suite products and services 
+date have developed products internally sometimes also licensing acquiring products portions products from third parties these arrangements 
+sometimes require that pay royalties third parties intend continue license otherwise acquire technology products from third parties when 
+makes business sense currently have one license agreement with biovia san diego division dassault systemes france formerly known 
+accelrys inc pursuant which small royalty paid biovia from revenues each license for the metabolite module admet predictor this license 
+agreement continues perpetuity and either party has the right terminate 
+entered into exclusive software licensing agreement with tsrl inc aka therapeutic systems research laboratories tsrl pursuant 
+which tsrl licensed certain software technology and databases and paid royalties tsrl may and tsrl entered into 
+termination and non assertion agreement pursuant which the parties agreed terminate the exclusive software licensing agreement result the 
+company obtained perpetual right use certain source code and data and tsrl relinquished any rights and claims any gastroplus products and any 
+claims royalties other payments under that agreement and agreed pay tsrl total consideration follows may 
+which amount was comprised cash and worth our common stock which was shares based upon the april 
+closing price per share per share payable before april payable before april and 
+payable before april all payments have now been made except the final million which will paid april our outstanding 
+payment obligation described above non interest bearing and will amortized constant rate per quarter until completely amortized after 
+which further expense will incurred for most quarters expect that this will result savings over the royalty payments that would have been paid 
+tsrl paid consistent with past practices 
+marketing and distribution 
+distribute our products and offer our services north america south america europe japan australia new zealand india singapore taiwan and the 
+people republic china 
+market our pharmaceutical software and consulting services through attendance and presentations scientific meetings exhibits trade shows seminars 
+pharmaceutical companies and government agencies through our website and using various communication channels our database prospects and 
+customers various scientific meetings around the world each year there are numerous presentations and posters presented which the reported research 
+was performed using our software many these presentations are from industry and fda scientists some are from our staff addition more than peerreviewed scientific journal articles posters and podium presentations are published each year using our software mostly our customers further supporting its 
+use wide range preclinical and clinical studies 
+our sales and marketing efforts are handled primarily internally with our scientific team and several senior management staff assisting our marketing and sales 
+staff with trade shows seminars and customer trainings both online and site believe that this more effective than completely separate sales team for 
+several reasons customers appreciate talking directly with software developers and consulting scientists who can answer wide range depth technical 
+questions about methods and features our scientists and engineers gain appreciation for the customer environment and problems and believe 
+the relationships build through scientist scientist contact are stronger than relationships built through salesperson scientist contacts also have one 
+independent distributor japan and two independent representatives china who also sell and market our products with support from our scientists and 
+engineers 
+provide support the gastroplus user group japan which was organized japanese researchers early group scientists 
+europe and north america organized another group following the example set japan over members have joined this group date support this 
+group through coordination online meetings each month and managing the user group web site for exchange information among members these user 
+groups provide valuable feedback with respect desired new features and suggested interface changes 
+production 
+our pharmaceutical software products are designed and developed our development teams california and new york with locations lancaster 
+petaluma san jose san diego and buffalo addition have one team member working out north carolina and our chief executive officer works 
+primarily from auburn alabama our products and services are now delivered electronically longer provide roms and printed manuals reports 
+competition 
+our pharmaceutical software and services business compete against number established companies that provide screening testing and research 
+services and products that are not based simulation software there are also software companies whose products not compete directly with but are 
+sometimes closely related ours our competitors this field include some companies with financial personnel research and marketing resources that are 
+larger than ours our management believes there currently significant competitive threat gastroplus however spite high barrier entry one 
+could developed over time our new pkplus software product will compete with one major and few minor software programs however the capabilities and 
+design features pkplus along with more affordable licensing are expected generate significant interest medchem studio medchem designer and 
+admet predictor admet modeler operate more competitive environment several other companies presently offer simulation modeling software 
+simulation software based services the pharmaceutical industry 
+major pharmaceutical companies conduct drug discovery and development efforts through their internal development staffs and through outsourcing smaller 
+companies generally need outsource greater percentage this research thus compete not only with other software suppliers but also with the inhouse development teams some the larger pharmaceutical companies 
+although competitive products exist both new licenses and license renewals for gastroplus have continued grow believe that enjoy significant 
+market share this segment believe that the success our two nce projects which successfully designed synthesized and tested new lead 
+molecules treat malaria well cox cox will further promote the abilities our admet design suite for rapid and cost effective design lead 
+compounds expect the completely refactored admet predictor version with its fresh look and expanded features will generate increased interest 
+drug discovery and early drug development teams 
+believe the key factors our ability successfully compete this field are our ability continue invest research and development and develop 
+and support industry leading simulation and modeling software and related products and services effectively predict activities and admet related behaviors 
+new drug like compounds design new molecules with acceptable activity and admet properties develop and maintain proprietary database results 
+physical experiments that serve basis for simulated studies and empirical models attract and retain highly skilled scientific and engineering team 
+and develop and maintain relationships with research and development departments pharmaceutical companies universities and government agencies 
+actively seek acquisitions expand the pharmaceutical software and services business plan continue our efforts find strategic targets and alliances 
+that will enhance our position the industry and pursue the application our machine learning technology new industries 
+training and technical support 
+customer training and technical support are important factors customer satisfaction for our pharmaceutical products and believe are industry leader 
+providing customer training and technical support our business areas provide house seminars customers and potential customers sites well 
+selected universities train students who will soon industry scientists these seminars often serve initial training the event the potential customer 
+decides license evaluate our software technical support provided after the sale any software the form site training the customer 
+expense web meetings and telephone fax and mail assistance the customer users during the customer license period 
+technical support for pharmaceutical software provided our life sciences team and our inside sales and support staff based our headquarters facilities 
+lancaster california provide free telephone support offering toll free numbers the and canada and mail and web based support for all our 
+pharmaceutical software products worldwide technical support for pharmaceutical software products minimal averaging few person hours per month 
+research and development 
+research and development activities include both enhancement existing products and development new products development new products 
+and adding functionality existing products are capitalized accordance with financial accounting standards board fasb accounting standards codification 
+asc costs software sold leased marketed expenditures which primarily relate both capitalized and expensed salaries 
+supplies laboratory testing and consulting were approximately during fiscal year which was capitalized 
+expenditures during fiscal year were approximately during fiscal year which was capitalized 
+our pharmaceutical business activities during fiscal year were focused improving our admet predictor admet modeler medchem studio 
+medchem designer and gastroplus products well the development our new membraneplus software product described above 
+employees 
+august simulations plus and its subsidiary cognigen corporation employed total employees including full time employees and parttime employees including technical and research and development marketing and sales administration and accounting currently employees 
+hold their respective science engineering disciplines and employees hold one more master degrees most the senior management team 
+and the members our board directors hold graduate degrees 
+believe that our future success will depend part our ability continue attract hire and retain qualified personnel continue seek additions 
+our life sciences team although the competition for such personnel the pharmaceutical industry intense none our employees represented labor 
+union and have never experienced work stoppage believe that our relations with our employees are good 
+intellectual property and other proprietary rights 
+primarily protect our intellectual property through copyrights and trade secrets our intellectual property consists primarily source code for computer 
+programs and data files for various applications those programs the pharmaceutical software businesses the expertise our staff considerable asset 
+closely related intellectual property and attracting and retaining highly qualified scientists and engineers essential our business 
+effect government regulations 
+our pharmaceutical software products are tools used research and development and are neither approved nor approvable the fda other government 
+agencies 
+item risk factors 
+not applicable because are smaller reporting company 
+item unresolved staff comments 
+none 
+item properties 
+lease approximately square feet office space lancaster california the original lease had five year term with two three year options 
+extend the initial five year term expired february and extended the lease february june the lease was amended extend the 
+term february the amended lease also provides for annual base rent increase per year and two two year options extend may 
+the company exercised the two two year options extending the term the lease through february fixed rate per month the new 
+extension agreement gives the company the right upon days prior notice terminate the lease the last two years the term upon payment 
+recapture payment equal the base payment increase that would have been due under the original agreement 
+our subsidiary leases approximately square feet office space buffalo new york the initial five year term expires october the lease allows 
+for three year option extend october the current base rent per month 
+rent expense including common area maintenance fees for the fiscal years ended august and was and respectively 
+the company believes its existing facilities and equipment are good operating condition and are suitable for the conduct its business 
+item legal proceedings 
+except described below are not party any legal proceedings and are not aware pending legal proceedings any kind 
+june the company was served with complaint civil action entitled sherri winslow incredible adventures inc los angeles superior court 
+case alleging wrongful death and seeking unspecified damages arising out may plane crash the state nevada the 
+company chief executive officer owns the subject aircraft and also named defendant the complaint alleged that the company was the owner the 
+subject aircraft the company denies all material allegations against including that owns has ever owned any interest the subject aircraft november 
+the plaintiff and the company signed stipulation dismissal pursuant which the plaintiff agreed dismiss the company without prejudice the 
+company planned prepare dismissal with prejudice signed behalf the plaintiff the event the plaintiff did not discover evidence during nine 
+month period and including august that justified bringing the company back into the litigation the company did not receive any notification any 
+such discovery and the process preparing documents for the plaintiff final dismissal with prejudice 
+item mine safety disclosures 
+not applicable 
+part 
+item market for registrant common equity and related stockholder matters and issuer purchases equity 
+securities 
+the company common stock trades the nasdaq capital market under the symbol slp 
+price range common stock 
+the following table shows low and high sales price for the company common stock for the last eight fiscal quarters 
+low sales price 
+high sales price 
+quarter ended august 
+quarter ended may 
+quarter ended february 
+quarter ended november 
+quarter ended august 
+quarter ended may 
+quarter ended february 
+quarter ended november 
+holders 
+november there were shareholders record 
+dividends 
+paid total approximately million cash dividends during each fiscal years and set forth the table below expect pay 
+quarterly dividends per share common stock each quarter subject declaration our board directors however there can assurances that 
+our board directors will continue the dividend distributions for any specified number quarters 
+fiscal year 
+record date 
+distribution 
+date 
+shares 
+outstanding 
+record date 
+dividend per 
+share 
+total 
+amount 
+equity compensation plan information 
+the following information provided august 
+plan category 
+equity compensation plans approved security holders 
+equity compensation plans not approved security holders 
+total 
+number securities 
+issued 
+upon exercise 
+outstanding options 
+warrants and rights 
+weighted average 
+exercise price 
+outstanding options 
+warrants and rights 
+number securities 
+remaining available 
+for future issuance 
+under equity 
+compensation 
+plans excluding 
+securities reflected 
+column 
+repurchases 
+there currently share repurchase program pending and the company has made repurchases its securities since fiscal year 
+item selected financial data 
+not applicable because are smaller reporting company 
+item management discussion and analysis financial condition and results operations 
+the following discussion and analysis should read conjunction with the financial statements and related notes included this annual report form 
+management overview 
+fiscal year highlights 
+released new versions our admet predictor dddplus and kiwi software programs 
+released our new software product pkplus 
+closed five year consulting agreement with major research foundation implement platform for global teams engaged model based 
+drug development and began work the projectwe successfully completed the first year our three year funded collaboration with the office 
+generic drugs the fda develop mechanistic models for delivery long acting injectable microsphere dosage forms 
+successfully completed the second year our three year funded collaboration with the office generic drugs the fda develop 
+mechanistic models for ocular delivery drug products 
+successfully completed the fifth year our five year renewable collaboration with the center for food safety and nutrition the fda 
+develop predictive toxicity models for food additives and contaminants successfully completed the third year our five year collaboration 
+with the office testing and research the fda validate the mechanistic absorption model and vitro vivo correlations 
+gastroplus 
+hosted nine workshops the united states europe japan china korea and india educate users the various features and 
+applications our software 
+our employees attended scientific conferences presenting posters and oral podium lectures 
+achieved renewal rate for software license accounts terms revenue 
+signed new clients includes new organizations and departments existing clients 
+finalized new orders for software licenses several major regulatory agencies including the fda environmental protection agency 
+and china cfda 
+realized growth license revenue from contract research organizations cros excess while recognizing greater than 
+growth license revenue from non pharmaceutical industry companies chemicals consumer goods 
+saw approximately increase membership numbers for the gastroplus user group 
+our board directors declared dividends totaling per share per share each quarter fiscal year 
+fiscal year financial summary 
+consolidated net revenues increased million million fiscal year from million fiscal year 
+consolidated gross margin increased million million fiscal year from million fiscal year 
+net income from operations increased million million fiscal year from million fiscal year 
+net income increased million million fiscal year from million fiscal year 
+strategy going forward 
+the company will continue advance our software offerings through both our house developments and our funded and unfunded 
+collaborations with our industry and government customers 
+continue seek acquisition and partnership possibilities broaden our offerings products and services 
+continue our marketing and sales campaign including attending and exhibiting numerous scientific conferences and meetings expanded use 
+social media and expanded advertising 
+increase our marketing and sales efforts with respect our consulting services both pharmacokinetics and small molecule design 
+continue explore the application our technologies new markets aerospace and healthcare and 
+continue seek strategic acquisitions that can add both revenues and earnings 
+fiscal year was another record year believe the continued growth our pharmaceutical software and services business segment the result 
+steadily increasing adoption simulation and modeling software tools across the pharmaceutical industry well the expertise offer consultants 
+assist companies involved the research and development new medicines have received continuing series study contracts with pharmaceutical 
+companies ranging from several the largest the world number medium sized and smaller companies the europe and japan 
+our financial performance has enabled maintain significant cash deposits and continue invest our marketing and sales activities order reach 
+wider customer base well distribute significant cash dividends our shareholders 
+completed second successful year the integration cognigen following our acquisition cognigen september our intent continue 
+search for acquisition opportunities that are strategically compatible with our current businesses and that are accretive adding both revenues and 
+earnings 
+not have any stock repurchase programs currently place pending however our board directors may consider additional programs from time 
+time 
+results operations 
+the following sets forth selected items from our statements operations thousands and the percentages that such items bear net sales for the fiscal 
+years ended august and august because rounding numbers may not foot 
+fiscal years ended 
+net sales 
+cost sales 
+gross profit 
+selling general and administrative 
+research and development 
+total operating expenses 
+income from operations 
+other income 
+net income before taxes 
+provision for income taxes 
+net income 
+numbers the prior year have been reclassified conform the current year presentation 
+compared with 
+net revenues 
+consolidated net revenues increased million million from million this increase was from 
+revenues generated our buffalo subsidiary cognigen while net revenues the california division increased million million 
+from million software license sales increased million while consulting revenues increased compared 
+cost revenues 
+consolidated cost revenues increased million from million the majority this increase was salary related 
+expenses from annual salary increases and the first year expensed bonuses for our buffalo division cognigen 
+cost revenues percentage revenue decreased from the majority this percentage change result the 
+percentage blend software sales compared consulting services during 
+significant portion cost revenues for pharmaceutical software products the systematic amortization capitalized software development costs which 
+independent fixed cost rather than variable cost related revenues this amortization cost decreased approximately compared with 
+amortization expense increased approximately due releases gastroplus and admet predictor and amortization software 
+acquired part the cognigen acquisition 
+gross margin 
+consolidated gross margin increased million million from this increase from the california 
+division which showed gross margin the buffalo division gross margins increased with margins after first time bonuses 
+selling general and administrative expenses 
+selling general and administrative expenses decreased million from million 
+the major increases expense were 
+advertising expenses increased the company increased its web presence and incurred other advertising related costs 
+marketing labor expenses increased related more time spent scientific staff 
+trade show expenses increased related greater attendance and presence during 
+professional fees increased associated with costs consolidated audits and other compliance related expenses and 
+outside software licensing fees increased 
+the major decreases expense were 
+outside consulting fees decreased paid fees and expenses our financial advisor business broker related the 
+cognigen acquisition there were such expenses 
+research and development 
+incurred approximately research and development costs during this amount was capitalized and was 
+expensed incurred approximately research and development costs during this amount was capitalized and 
+was expensed the increase total research and development expenditures from was mainly due salary increases for 
+existing staff 
+other income expense 
+net other income expense increased net other income from expense this due mainly 
+reduction currency losses 
+provision for income taxes 
+the provision for income taxes was million for compared million for our effective tax rate decreased from 
+net income 
+net income increased million from million 
+seasonality 
+our sales exhibit some seasonal fluctuations with the fourth fiscal quarter june august generally having the lowest sales over the past three fiscal years 
+because summer vacations and reduced activities our customers sites this unaudited quarterly sales information has been prepared the same basis 
+the annual information presented elsewhere this annual report form and the opinion management reflects all adjustments consisting 
+normal recurring entries necessary for fair presentation the information presented net sales for any quarter are not necessarily indicative sales for any 
+future period however because our pharmaceutical software licensed annual basis renewals are usually within the same quarter year after year 
+net sales thousands dollars 
+first quarter 
+second quarter 
+third quarter 
+fourth quarter 
+total 
+liquidity and capital resources 
+our principal source capital has been cash flow from our operations have achieved continuous positive operating cash flow over the last twelve fiscal 
+years believe that our existing capital and anticipated funds from operations will sufficient meet our anticipated cash needs for working capital and 
+capital expenditures for the foreseeable future thereafter cash generated from operations insufficient satisfy our capital requirements may open 
+revolving line credit with bank may have sell additional equity debt securities obtain credit facilities the event such financing needed 
+the future there can assurance that such financing will available available that will amounts and terms acceptable 
+are not aware any trends demands commitments events uncertainties that are reasonably likely result decrease liquidity our assets the 
+trend over the last ten years has been increasing cash deposits from our operating cash flows and expect that trend continue for the foreseeable future 
+used our cash reserves pay the initial installment the amounts owe under termination and non assertion agreement entered 
+into with tsrl may that terminated the exclusive software licensing agreement entered with tsrl also incurred debt 
+connection with termination and non assertion agreement have been paying that debt out and anticipate that that debt will continue paid out 
+operations from the reduction royalty payments that are longer payable under the licensing agreement result its termination 
+july signed the merger agreement with cognigen the merger closed september subsequent the end and cognigen 
+became our wholly owned subsidiary connection with the closing paid cash and issued shares common stock the company 
+the former cognigen stockholders the shares were valued based per share price which was the volume weighted 
+average closing price our common stock for the consecutive trading day period ending two trading days before the closing date july paid the 
+additional cash due and issued the additional shares common stock due the former cognigen stockholders which additional shares 
+were valued under the formula described above 
+will continue seek opportunities for strategic acquisitions one more such acquisitions identified substantial portion our cash reserves may 
+required complete however intend maintain sufficient cash reserves after any acquisition provide reasonable assurance that outside financing will 
+not necessary continue operations identify attractive acquisition that would require more cash complete than are willing able use from 
+our cash reserves will consider financing options complete the acquisition including obtaining loans and issuing additional securities 
+quarterly dividend payments made and are listed the following table 
+fiscal year 
+record date 
+distribution date 
+shares 
+outstanding 
+record date 
+dividend per 
+share 
+total amount 
+the board directors has indicated its intension pay quarterly dividends however there can assurances that our board directors will continue 
+the dividend distributions the decision made quarterly basis based current financial conditions and strategic plans after the end 
+november our board directors declared dividend distribution per share 
+known trends uncertainties 
+although have not seen any significant reduction revenues date have seen some consolidation the pharmaceutical industry during economic 
+downturns these consolidations have not had negative effect our total sales that industry however should consolidations and downsizing the industry 
+continue occur those events could adversely impact our revenues and earnings going forward 
+believe that the need for improved productivity the research and development activities directed toward developing new medicines will continue result 
+increasing adoption simulation and modeling tools such those produce new product developments the pharmaceutical business segments could 
+result increased revenues and earnings they are accepted our markets however there can assurances that new products will result significant 
+improvements revenues earnings for competitive reasons not disclose all our new product development activities 
+our continued quest for acquisitions could result significant change revenues and earnings one more such acquisitions are completed 
+the potential for growth new markets aerospace and healthcare uncertain will continue explore these opportunities until such time either 
+generate sales determine that resources would more efficiently used elsewhere 
+inflation 
+have not been affected materially inflation during the periods presented and material effect expected the near future 
+off balance sheet arrangements 
+august did not have any relationships with unconsolidated entities financial partnerships such entities often referred structured 
+finance special purpose entities which would have been established for the purpose facilitating off balance sheet arrangements other contractually 
+narrow limited purposes such are not materially exposed any financing liquidity market credit risk that could arise had engaged such 
+relationships 
+not have relationships transactions with persons entities that derive benefits from their non independent relationship with our related parties 
+recently issued newly adopted accounting standards 
+may the franchise accounting standards board fasb issued accounting standards update asu revenue from contracts with 
+customers asu the standard will eliminate the transaction and industry specific revenue recognition guidance under current generally accepted 
+accounting principles the gaap and replace with principles based approach for determining revenue recognition asu effective for 
+annual and interim periods beginning after december early adoption permitted for years beginning after december the revenue 
+recognition standard required applied retrospectively including any combination practical expedients allowed the standard are evaluating 
+the impact any the adoption asu our financial statements and related disclosures the company has not yet selected transition method nor 
+has determined the effect the standard its ongoing financial reporting 
+november the fasb issued asu income taxes topic asu the amendments asu change the requirements 
+for the classification deferred taxes the balance sheet currently gaap requires entity separate deferred income tax liabilities and assets into current 
+and noncurrent amounts classified statement financial position simplify the presentation deferred income taxes the amendments this asu 
+require that deferred tax liabilities and assets classified noncurrent classified statement financial position the pronouncement effective for fiscal 
+years and interim periods within those fiscal years beginning after december earlier application permitted for all entities the beginning 
+interim annual reporting period the company has not yet selected transition method nor has determined the effect the standard its ongoing financial 
+reporting 
+february the fasb issued asu leases topic which supersedes existing guidance accounting for leases leases topic 
+and generally requires all leases recognized the consolidated balance sheet asu effective for annual and interim reporting periods 
+beginning after december early adoption permitted the provisions asu are applied using modified retrospective approach the 
+company currently evaluating the impact the adoption this standard its consolidated financial statements 
+march the fasb issued asu improvements employee share based payment accounting asu this asu affects entities that 
+issue share based payment awards their employees the asu designed simplify several aspects accounting for share based payment award 
+transactions which include the income tax consequences classification awards either equity liabilities classification the statement cash flows and 
+forfeiture rate calculations asu will become effective for the company the first quarter fiscal early adoption permitted any interim 
+annual period the company currently evaluating the impact this guidance its consolidated financial statements 
+april the fasb issued revenue from contracts with customers topic which amends certain aspects the board new revenue 
+standard asu revenue from contracts with customers the standard should adopted concurrently with adoption asu which effective 
+for annual and interim periods beginning after december the company has not yet selected transition method nor has determined the effect the 
+standard its ongoing financial reporting 
+significant accounting policies 
+estimates 
+our financial statements and accompanying notes are prepared accordance with gaap preparing financial statements requires management make 
+estimates and assumptions that affect the reported amounts assets liabilities revenue and expenses these estimates and assumptions are affected 
+management application accounting policies actual results could differ from those estimates significant accounting policies for include revenue 
+recognition accounting for capitalized software development costs valuation stock options and accounting for income taxes 
+revenue recognition 
+recognize revenues related software licenses and software maintenance accordance with the fasb accounting standards codification asc software revenue recognition software product revenue recorded when the following conditions are met evidence arrangement exists 
+delivery has been made the amount fixed and collectability probable post contract customer support pcs obligations are insignificant therefore 
+revenue for pcs recognized the same time the licensing fee and the costs providing such support services are accrued and amortized over the 
+obligation period 
+byproduct ongoing improvements and upgrades for the new programs and new modules software some modifications are provided our customers 
+who have already purchased software additional charge other software modifications result new additional cost modules that expand the functionality 
+the software these are licensed separately consider the modifications that are provided without charge minimal they not significantly change 
+the basic functionality utility the software but rather add convenience such being able plot some additional variable graph addition the 
+numerous variables that had been available before adding some additional calculations supplement the information provided from running the software 
+such software modifications for any single product have typically occurred once twice per year sometimes more sometimes less thus they are infrequent 
+the company provides for fee additional training and service calls its customers and recognizes revenue the time the training service call provided 
+generally enter into one year license agreements with customers for the use our pharmaceutical software products recognize revenue these 
+contracts when all the criteria are met most license agreements have term one year however from time time enter into multi year license 
+agreements generally unlock and invoice software one year time for multi year licenses therefore revenue recognized one year time certain 
+the company software products are housed and supported the company computer networks software revenues for those products are included income 
+over the life the contract 
+recognize revenue from collaboration research and revenue from grants equally over their terms for contract revenues based actual hours incurred 
+recognize revenues when the work performed for fixed price contracts recognize contract study and other contract revenues using the percentage ofcompletion method depending upon how the contract studies are engaged accordance with asc revenue recognition construction type and 
+production type contracts recognize revenue using the percentage completion method must determine whether meet the following criteria 
+there long term legally enforceable contract possible reasonably estimate the total project costs and possible reasonably estimate the 
+extent progress toward completion 
+cash and cash equivalents 
+for purposes the statements cash flows consider all highly liquid investments purchased with original maturities three months less cash 
+equivalents 
+accounts receivable 
+analyze the age customer balances historical bad debt experience customer creditworthiness and changes customer payment terms when making 
+estimates the collectability the company trade accounts receivable balances determine that the financial conditions any its customers 
+deteriorated whether due customer specific general economic issues increase the allowance may made accounts receivable are written off 
+when all collection attempts have failed have not experienced any bad debts our pharmaceutical software and services business 
+capitalized computer software development costs 
+software development costs are capitalized accordance with fasb asc costs software sold leased marketed capitalization 
+software development costs begins upon the establishment technological feasibility and discontinued when the product available for sale 
+the establishment technological feasibility and the ongoing assessment for recoverability capitalized software development costs require considerable 
+judgment management with respect certain external factors including but not limited technological feasibility anticipated future gross revenues 
+estimated economic life and changes software and hardware technologies capitalized computer software development costs are comprised primarily 
+salaries and direct payroll related costs and the purchase licensing existing software used the company software products 
+amortization capitalized computer software development costs provided product product basis the straight line method over the estimated 
+economic life the products not exceed five years amortization software development costs amounted and for the and 
+respectively expect future amortization expense vary due increases capitalized computer software development costs 
+test capitalized computer software development costs for recoverability whenever events changes circumstances indicate that the carrying amount may 
+not recoverable 
+property and equipment 
+property and equipment are recorded cost less accumulated depreciation and amortization depreciation and amortization are provided using the straight line 
+method over the estimated useful lives follows 
+equipment 
+computer equipment 
+furniture and fixtures 
+leasehold improvements 
+years 
+years 
+years 
+shorter life asset lease 
+maintenance and minor replacements are charged expense incurred gains and losses disposals are included the results operations 
+intangible assets and goodwill 
+the company performs valuations assets acquired and liabilities assumed each acquisition accounted for business combination and recognizes the 
+assets acquired and liabilities assumed their acquisition date fair value acquired intangible assets include customer relationships software trade name and 
+non compete agreements the company determines the appropriate useful life performing analysis expected cash flows based historical experience 
+the acquired businesses intangible assets are amortized over their estimated useful lives using the straight line method which approximates the pattern 
+which the majority the economic benefits are expected consumed 
+goodwill represents the excess the cost acquired entity over the fair value the acquired net assets goodwill not amortized instead tested for 
+impairment annually when events circumstances change that would indicate that goodwill might impaired events circumstances that could trigger 
+impairment review include but are not limited significant adverse change legal factors the business climate adverse action assessment 
+regulator unanticipated competition loss key personnel significant changes the manner the company use the acquired assets the strategy for 
+the company overall business significant negative industry economic trends significant under performance relative expected historical projected 
+future results operations 
+goodwill tested for impairment the reporting unit level which one level below the same operating segment august the company 
+determined that has two reporting units simulations plus and cognigen when testing goodwill for impairment the company first performs qualitative 
+assessment determine whether necessary perform step one two step annual goodwill impairment test for each reporting unit the company 
+required perform step one only concludes that more likely than not that reporting unit fair value less than its carrying value should this the 
+case the first step the two step process identify whether potential impairment exists comparing the estimated fair values the company reporting 
+units with their respective book values including goodwill the estimated fair value the reporting unit exceeds book value goodwill considered not 
+impaired and additional steps are necessary however the fair value the reporting unit less than book value then the second step performed 
+determine goodwill impaired and measure the amount impairment loss any the amount the impairment loss the excess the carrying amount 
+the goodwill over its implied fair value the estimate implied fair value goodwill primarily based estimate the discounted cash flows expected 
+result from that reporting unit but may require valuations certain internally generated and unrecognized intangible assets such the company software 
+technology patents and trademarks the carrying amount goodwill exceeds the implied fair value that goodwill impairment loss recognized 
+amount equal the excess 
+august the entire balance goodwill was attributed the company cognigen reporting unit intangible assets subject amortization are 
+reviewed for impairment whenever events circumstances indicate that the carrying amount these assets may not recoverable the company has not 
+recognized any impairment charges during and 
+reconciliation goodwill for and 
+balance august 
+addition 
+impairments 
+balance august 
+addition 
+impairments 
+balance august 
+other intangible assets 
+the following table summarizes other intangible assets august 
+customer relationships 
+trade name cognigen 
+covenants not compete 
+amortization 
+period 
+straight line years 
+none 
+straight line years 
+acquisition 
+value 
+amortization expense for each and was 
+accumulated 
+amortization 
+net book 
+value 
+business acquisitions 
+the company accounted for the acquisition cognigen using the purchase method accounting where the assets acquired and liabilities assumed are 
+recognized based their respective estimated fair values the excess the purchase price over the estimated fair values the net assets acquired 
+recorded goodwill determining the fair value certain acquired assets and liabilities subjective nature and often involves the use significant estimates 
+and assumptions including but not limited the selection appropriate valuation methodology projected revenue expenses and cash flows weighted 
+average cost capital discount rates estimates advertiser and publisher turnover rates and estimates terminal values business acquisitions are included 
+the company consolidated financial statements the date the acquisition 
+fair value financial instruments 
+assets and liabilities recorded fair value the condensed balance sheets are categorized based upon the level judgment associated with the inputs used 
+measure their fair value the categories defined the standard are follows 
+level input 
+level 
+level 
+level iii 
+input definition 
+inputs are unadjusted quoted prices for identical assets liabilities active markets the measurement date 
+inputs other than quoted prices included level that are observable for the asset liability through corroboration with market 
+data the measurement date 
+unobservable inputs that reflect management best estimate what market participants would use pricing the asset liability 
+the measurement date 
+for certain our financial instruments including accounts receivable accounts payable contract payable accrued payroll and other expenses and accrued 
+bonus officer the amounts approximate fair value due their short maturities 
+research and development costs 
+research and development costs are charged expense incurred until technological feasibility has been established these costs consist primarily 
+salaries and direct payroll related costs also includes purchased software and databases that were developed other companies and incorporated into 
+used the development our final products 
+income taxes 
+utilize fasb asc income taxes which requires the recognition deferred tax assets and liabilities for the expected future tax consequences 
+events that have been included the financial statements tax returns 
+under this method deferred income taxes are recognized for the tax consequences future years differences between the tax bases assets and liabilities 
+and their financial reporting amounts each year end based enacted tax laws and statutory tax rates applicable the periods which the differences are 
+expected affect taxable income valuation allowances are established when necessary reduce deferred tax assets the amount expected realized 
+the provision for income taxes represents the tax payable for the period and the change during the period deferred tax assets and liabilities 
+stock based compensation 
+the company accounts for stock options using the modified prospective method accordance with fasb asc compensation stock compensation 
+under this method compensation costs include estimated grant date fair value the awards amortized over the options vesting period stock based 
+compensation was and for the fiscal years ended august and respectively and included the statements operations 
+consulting salaries and research and development expense 
+item quantitative and qualitative disclosures about market risk 
+not applicable because are smaller reporting company 
+item financial statements and supplementary data 
+see the financial statements included elsewhere this report beginning page which are incorporated herein reference 
+item changes and disagreements with accountants accounting and financial disclosure 
+there have been changes our public accountants during the past two years 
+item controls and procedures 
+maintain set disclosure controls and procedures that are designed provide reasonable assurance that information required disclosed our 
+reports filed under the securities exchange act the exchange act recorded processed summarized and reported within the time periods specified 
+the sec rules and forms disclosure controls and procedures include without limitation controls and procedures designed ensure that information 
+required disclosed the reports that file submit under the exchange act accumulated and communicated the company management 
+including the company principal executive officer and principal financial officer its chief executive officer and chief financial officer appropriate 
+allow timely decisions regarding required disclosure 
+the company management with the participation the company principal executive officer and principal financial officer has evaluated the effectiveness 
+the company disclosure controls and procedures such term defined rules under the exchange act the end the period covered 
+this annual report form based such evaluation the company principal executive officer and principal financial officer have concluded that 
+the end such period due the material weaknesses our internal control over financial reporting described below our disclosure controls and 
+procedures were not effective 
+management report internal control over financial reporting 
+management responsible for establishing and maintaining adequate internal control over financial reporting internal control over financial reporting process 
+designed provide reasonable assurance regarding the reliability financial reporting and the preparation financial statements for external purposes 
+accordance with generally accepted accounting principles internal control over financial reporting includes those policies and procedures that pertain the 
+maintenance records that reasonable detail accurately and fairly reflect the transactions and dispositions the assets the company provide 
+reasonable assurance that transactions are recorded necessary permit preparation financial statements accordance with generally accepted 
+accounting principles and that receipts and expenditures the company are being made only accordance with authorizations management and directors 
+the company and iii provide reasonable assurance regarding prevention timely detection unauthorized acquisition use disposition the 
+company assets that could have material effect the financial statements 
+internal control over financial reporting cannot provide absolute assurance achieving financial reporting objectives because its inherent limitations internal 
+control over financial reporting process that involves human diligence and compliance and subject lapses judgment and breakdowns resulting from 
+human failures internal control over financial reporting can also circumvented collusion improper management override because such limitations 
+there risk that material misstatements may not prevented detected timely basis internal control over financial reporting also projections any 
+evaluation effectiveness future periods are subject the risk that controls may become inadequate because changes conditions that the degree 
+compliance with the policies procedures may deteriorate however these inherent limitations are known features the financial reporting process therefore 
+possible design into the process safeguards reduce though not eliminate this risk 
+material weakness defined sec rule deficiency combination deficiencies internal control over financial reporting such that there 
+reasonable possibility that material misstatement the annual interim financial statements will not prevented detected timely basis 
+management conducted assessment the effectiveness the company internal control over financial reporting august making this 
+assessment management used the criteria described internal control integrated framework issued the committee sponsoring organizations 
+the treadway commission coso based this assessment management concluded that our internal control over financial reporting was not effective 
+august management has identified the following material weakness internal control over financial reporting august 
+information technology general controls 
+during our review internal controls identified various deficiencies related the design implementation and effectiveness our general information 
+technology controls gitcs over financial reporting particular these deficiencies related the configuration set the information technology system 
+and related financial applications segregation duties user access and change management controls that are intended ensure that access financial 
+applications and data and the ability place program changes into production for such financial applications and data are adequately restricted appropriate 
+internal personnel due these gitc deficiencies concluded that those deficiencies the aggregate result reasonable possibility that material 
+misstatements our interim annual financial statements would not prevented detected timely basis and such constitute material weakness 
+august management believes that although our financial reports have been accurate and that the weaknesses identified our review have not 
+resulted any material misstatement our interim annual financial statements any time that will improve our gitcs ensure accurate reporting not 
+compromised the future 
+management has taken steps remediate the gitc deficiencies including enhancing its internal documentation and monitoring approach ensure that all 
+gitc procedures designed restrict access applications and data are operating optimal manner order provide management with comfort that 
+access properly limited the appropriate internal personnel management implemented the majority the remedial steps during the fourth quarter 
+and expects that all steps will substantially implemented and tested february accordance with our internal control compliance program 
+material weakness not considered remediated until the remediation processes have been operational for sufficient period time and successfully tested 
+rose snyder jacobs llp the independent registered public accounting firm that audited the consolidated financial statements included this annual report 
+form has also audited our internal control over financial reporting august stated their report which included herein 
+changes internal control over financial reporting 
+except described above this item there was change our internal control over financial reporting identified connection with our evaluation that 
+occurred during the fourth quarter the fiscal year ended august that has materially affected reasonably likely materially affect our internal 
+control over financial reporting 
+item other information 
+not applicable 
+part iii 
+item directors and executive officers and corporate governance 
+code ethics 
+our code ethics posted our website simulations plus 
+changes procedures for recommending nominees the board directors 
+there have been material changes the procedures which security holders may recommend nominees our board directors since last described 
+such procedures 
+the remaining information required item incorporated reference from the sections entitled board matters and corporate governance election 
+directors executive compensation and other information and security ownership certain beneficial owners and management our definitive proxy 
+statement schedule distributed connection with our annual shareholders meeting the proxy statement 
+item executive compensation 
+the information required item incorporated reference from the sections entitled executive compensation and other information and board matters 
+and corporate governance the proxy statement 
+item security ownership certain beneficial owners and management and related stockholder matters 
+the information required item incorporated reference from the sections entitled security ownership certain beneficial owners and management 
+and executive compensation and other information the proxy statement 
+item certain relationships and related transactions and director independence 
+the information required item incorporated reference from the subsection entitled certain relationships and related transactions transactions with 
+related persons and the section entitled board matters and corporate governance the proxy statement 
+item principal accounting fees and services 
+the information required item incorporated reference from the section the proposal entitled ratification selection independent registered 
+public accounting firm the proxy statement 
+part 
+item exhibits financial statement schedules 
+financial statements the consolidated financial statements are included this annual report form beginning page 
+financial statement schedules all financial statement schedules have been omitted since the information either not applicable required 
+was included the financial statements notes included this annual report form 
+list exhibits required item regulation see part below 
+exhibits the following exhibits are filed furnished with this report those exhibits marked with refer management contracts compensatory 
+plans arrangements 
+exhibit 
+number 
+ins 
+sch 
+cal 
+def 
+lab 
+pre 
+description 
+agreement and plan merger dated july and among the company cognigen corporation and the other parties thereto 
+articles incorporation the company 
+amended and restated bylaws the company 
+articles incorporation the company incorporated reference exhibit hereof 
+amended and restated bylaws the company incorporated reference exhibit hereof 
+form common stock certificate 
+share exchange agreement 
+the company stock option plan and forms agreements relating thereto 
+exclusive license software agreement and between the company and therapeutic systems research laboratories dated june 
+termination and non assertion agreement entered into may and between the company and tsrl inc 
+the company stock option plan 
+the company stock option plan amended december 
+lease dated may and between freeway ventures llc and the company 
+notice election extend term lease and between the company and crest development llc formerly freeway ventures llc 
+dated july 
+one amendment lease and between the company and crest development llc entered into may 
+second amendment lease and between the company and crest development llc entered into may 
+stock purchase agreement and among the company words inc and prentke romich company dated november 
+employment agreement and between the company and walter woltosz dated august 
+employment agreement and between the company and thaddeus grasela dated september 
+employment agreement and between the company and walter woltosz dated july 
+employment agreement and between the company and walter woltosz dated august 
+form indemnification agreement 
+list subsidiaries 
+consent independent registered public accounting firm 
+section certification the principal executive officer 
+section certification the principal financial officer 
+section certification the chief executive office and chief financial officer 
+xbrl instance document 
+xbrl taxonomy extension schema document 
+xbrl taxonomy extension calculation linkbase document 
+xbrl taxonomy extension definition linkbase document 
+xbrl taxonomy extension label linkbase document 
+xbrl taxonomy extension presentation linkbase document 
+__________________________ 
+schedules and exhibits omitted pursuant item registration the registrant agrees furnish supplementally copy any 
+omitted schedule the sec upon request 
+filed herewith 
+furnished herewith 
+incorporated reference the company registration statement form registration filed march 
+incorporated reference exhibit the company form ksb for the fiscal year ended august 
+incorporated reference exhibit the company form for the fiscal year ended august 
+incorporated reference exhibit the company form for the fiscal year ended august 
+incorporated reference exhibit the company form for the fiscal year ended august 
+incorporated reference exhibit the company form ksb for the fiscal year ended august 
+incorporated reference exhibit the company form filed november 
+incorporated reference exhibit the company form filed july 
+incorporated reference exhibit the company form filed november 
+incorporated reference exhibit the company form filed april 
+incorporated reference exhibit the company form filed may 
+incorporated reference exhibit the company form filed september 
+incorporated reference exhibit the company form filed november 
+incorporated reference exhibit the company form filed july 
+incorporated reference exhibit the company form filed august 
+incorporated reference exhibit the company form filed august 
+financial statement schedule 
+see item above 
+signatures 
+pursuant the requirements section the securities exchange act the registrant has duly caused this report signed its behalf 
+the undersigned thereunto duly authorized 
+november 
+simulations plus inc 
+john kneisel 
+john kneisel 
+chief financial officer 
+pursuant the requirements the securities exchange act this report has been signed below the following persons behalf the registrant and 
+the capacities and the dates indicated 
+signature 
+title 
+walter woltosz 
+walter woltosz 
+november 
+thaddeus grasela 
+thaddeus grasela 
+november 
+chairman the board directors and chief executive officer principal 
+executive officer 
+president and director the company 
+david argenio 
+david argenio 
+november 
+director 
+david ralph 
+david ralph 
+november 
+director 
+john paglia 
+john paglia 
+november 
+director 
+john kneisel 
+john kneisel 
+november 
+chief financial officer the company principal financial officer and principal 
+accounting officer 
+simulations plus inc subsidiary 
+contents 
+august and 
+page 
+report independent registered public accounting firm 
+financial statements 
+consolidated balance sheets 
+consolidated statements operations 
+consolidated statements shareholders equity 
+consolidated statements cash flows 
+notes consolidated financial statements 
+report independent registered public accounting firm 
+the board directors and stockholders simulations plus inc and subsidiary 
+have audited the accompanying consolidated balance sheets simulations plus inc california corporation and subsidiary the company august 
+and and the related consolidated statements income shareholders equity and cash flows for the years then ended these consolidated 
+financial statements are the responsibility the company management our responsibility express opinion these consolidated financial statements 
+based our audits 
+conducted our audits accordance with the standards the public company accounting oversight board united states those standards require that 
+plan and perform the audit obtain reasonable assurance about whether the consolidated financial statements are free material misstatement audit 
+includes examining test basis evidence supporting the amounts and disclosures the consolidated financial statements audit also includes assessing 
+the accounting principles used and significant estimates made management well evaluating the overall consolidated financial statement presentation 
+believe that our audits provide reasonable basis for our opinion 
+our opinion the consolidated financial statements referred above present fairly all material respects the consolidated financial position simulations 
+plus inc and subsidiary august and and the consolidated results their income and their cash flows for each the years then ended 
+conformity with generally accepted accounting principles 
+also have audited accordance with the standards the public company accounting oversight board united states simulations plus inc and 
+subsidiary internal control over financial reporting august based criteria established internal control integrated framework issued the 
+committee sponsoring organizations the treadway commission framework and our report dated november expressed adverse opinion 
+thereon 
+rose snyder jacobs llp 
+rose snyder jacobs llp 
+encino california 
+november 
+report independent registered public accounting firm 
+the board directors and stockholders simulations plus inc 
+have audited simulations plus inc and subsidiary internal control over financial reporting august based criteria established internal 
+control integrated framework issued the committee sponsoring organizations the treadway commission framework the coso criteria 
+simulations plus inc and subsidiary management responsible for maintaining effective internal control over financial reporting and for its assessment the 
+effectiveness internal control over financial reporting included the accompanying management report internal control over financial reporting our 
+responsibility express opinion the company internal control over financial reporting based our audit 
+conducted our audit accordance with the standards the public company accounting oversight board united states those standards require that 
+plan and perform the audit obtain reasonable assurance about whether effective internal control over financial reporting was maintained all material 
+respects our audit internal control over financial reporting included obtaining understanding internal control over financial reporting assessing the risk 
+that material weakness exists and testing and evaluating the design and operating effectiveness internal control based the assessed risk our audit also 
+included performing such other procedures considered necessary the circumstances believe that our audit provides reasonable basis for our 
+opinion 
+company internal control over financial reporting process designed provide reasonable assurance regarding the reliability financial reporting and the 
+preparation financial statements for external purposes accordance with generally accepted accounting principles company internal control over financial 
+reporting includes those policies and procedures that pertain the maintenance records that reasonable detail accurately and fairly reflect the 
+transactions and dispositions the assets the company provide reasonable assurance that transactions are recorded necessary permit preparation 
+financial statements accordance with generally accepted accounting principles and that receipts and expenditures the company are being made only 
+accordance with authorizations management and directors the company and provide reasonable assurance regarding prevention timely detection 
+unauthorized acquisition use disposition the company assets that could have material effect the financial statements 
+because its inherent limitations internal control over financial reporting may not prevent detect misstatements also projections any evaluation 
+effectiveness future periods are subject the risk that controls may become inadequate because changes conditions that the degree compliance 
+with the policies procedures may deteriorate 
+material weakness control deficiency combination deficiencies internal control over financial reporting such that there reasonable possibility 
+that material misstatement the company annual interim financial statements will not prevented detected timely basis the following material 
+weakness has been identified and included management assessment 
+ineffective information technology controls 
+this material weakness was considered determining the nature timing and extent audit tests applied our audit the consolidated financial 
+statements and this report does not affect our report dated november those consolidated financial statements 
+our opinion because the effect the material weakness described above the achievement the objectives the control criteria simulations plus inc 
+and subsidiary has not maintained effective internal control over financial reporting august based criteria established internal control 
+integrated framework issued the committee sponsoring organizations the treadway commission framework 
+have also audited accordance with the standards the public company accounting oversight board united states the consolidated balance sheets 
+and the related consolidated statements income shareholders equity and cash flows simulations plus inc and subsidiary and our report dated 
+november expressed unqualified opinion 
+rose snyder jacobs llp 
+rose snyder jacobs llp 
+encino california 
+november 
+simulations plus inc 
+consolidated balance sheets 
+august 
+assets 
+current assets 
+cash and cash equivalents 
+accounts receivable net allowance for doubtful accounts 
+revenues excess billings 
+prepaid income taxes 
+prepaid expenses and other current assets 
+deferred income taxes 
+total current assets 
+long term assets 
+capitalized computer software development costs net accumulated amortization and 
+property and equipment net note 
+intellectual property net accumulated amortization and 
+other intangible assets net accumulated amortization and 
+goodwill 
+other assets 
+total assets 
+liabilities and shareholders equity 
+current liabilities 
+accounts payable 
+accrued payroll and other expenses 
+accrued bonuses officers 
+income taxes payable 
+other current liabilities 
+current portion contracts payable note 
+billings excess revenues 
+deferred revenue 
+total current liabilities 
+long term liabilities 
+deferred income taxes 
+payments due under contracts payable note 
+other long term liabilities 
+total liabilities 
+commitments and contingencies note 
+shareholders equity note 
+preferred stock par value shares authorized shares issued and outstanding 
+common stock par value shares authorized and shares 
+issued and outstanding 
+additional paid capital 
+retained earnings 
+total shareholders equity 
+total liabilities and shareholders equity 
+the accompanying notes are integral part these financial statements 
+simulations plus inc 
+consolidated statements operations 
+for the years ended august 
+net revenues 
+cost revenues 
+gross margin 
+operating expenses 
+selling general and administrative 
+research and development 
+total operating expenses 
+income from operations 
+earnings per share 
+basic 
+diluted 
+the accompanying notes are integral part these financial statements 
+other income expense 
+interest income 
+gain loss currency exchange 
+total other income expense 
+income from operations before provision for income taxes 
+provision for income taxes 
+net income 
+weighted average common shares outstanding 
+basic 
+diluted 
+simulations plus inc 
+statements shareholders equity 
+for the years ended august and 
+common stock 
+shares 
+amount 
+additional 
+paid 
+retained 
+capital 
+earnings 
+total 
+balance august 
+exercise stock options 
+declaration dividend 
+net income 
+stock based compensation 
+issuance stock cognigen acquisition 
+beginning balance august 
+declaration dividend 
+net income 
+exercise stock options 
+stock based compensation 
+issuance stock cognigen acquisition 
+balance august 
+the accompanying notes are integral part these financial statements 
+simulations plus inc 
+consolidated statements cash flows 
+for the years ended august 
+cash flows from operating activities 
+net income 
+adjustments reconcile net income net cash provided operating activities 
+depreciation and amortization property and equipment 
+amortization capitalized computer software development costs 
+amortization intellectual property 
+stock based compensation 
+deferred income taxes 
+increase decrease 
+accounts receivable 
+revenues excess billings 
+prepaid income taxes 
+prepaid expenses and other assets 
+increase decrease 
+accounts payable 
+accrued payroll and other expenses 
+accrued bonus 
+billings excess revenues 
+accrued income taxes 
+other liabilities 
+deferred revenue 
+net cash provided operating activities 
+cash flows from investing activities 
+purchases property and equipment 
+cash used purchase cognigen 
+cash received acquisition 
+capitalized computer software development costs 
+net cash used investing activities 
+cash flows from financing activities 
+payment dividends 
+payments contracts payable 
+proceeds from the exercise stock options 
+net cash used financing activities continuing operations 
+net increase decrease cash and cash equivalents 
+cash and cash equivalents beginning year 
+cash and cash equivalents end period 
+supplemental disclosures cash flow information 
+income taxes paid 
+non cash investing and financing activities 
+stock issued for acquisition cognigen corporation 
+creation contract liability for acquisition cognigen corporation 
+the accompanying notes are integral part these financial statements 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+note organization and lines business 
+organization 
+simulations plus inc the company we us our was incorporated july september simulations plus inc acquired all 
+outstanding equity interests cognigen corporation cognigen pursuant the terms the merger agreement and cognigen became wholly owned 
+subsidiary simulations plus inc collectively the company 
+lines business 
+the company designs and develops pharmaceutical simulation software promote cost effective solutions number problems pharmaceutical research 
+and the education pharmacy and medical students and provides consulting services the pharmaceutical and chemical industries recently the 
+company has begun explore developing software applications for defense and for health care outside the pharmaceutical industry 
+note summary significant accounting policies 
+principles consolidation 
+the consolidated financial statements include the accounts simulations plus inc and september its wholly owned subsidiary cognigen 
+corporation all significant intercompany accounts and transactions are eliminated consolidation 
+use estimates 
+our financial statements and accompanying notes are prepared accordance with accounting principles generally accepted the united states america 
+preparing financial statements requires management make estimates and assumptions that affect the reported amounts assets liabilities revenue and 
+expenses these estimates and assumptions are affected management application accounting policies actual results could differ from those estimates 
+significant accounting policies for include revenue recognition accounting for capitalized computer software development costs valuation stock options 
+and accounting for income taxes 
+reclassifications 
+certain numbers the prior year have been reclassified conform the current year presentation 
+revenue recognition 
+recognize revenues related software licenses and software maintenance accordance with the fasb accounting standards codification asc software revenue recognition software product revenue recorded when the following conditions are met evidence arrangement exists 
+delivery has been made the amount fixed and collectability probable post contract customer support pcs obligations are insignificant therefore 
+revenue for pcs recognized the same time the licensing fee and the costs providing such support services are accrued and amortized over the 
+obligation period 
+byproduct ongoing improvements and upgrades for the new programs and new modules software some modifications are provided our customers 
+who have already purchased software additional charge other software modifications result new additional cost modules that expand the functionality 
+the software these are licensed separately consider the modifications that are provided without charge minimal they not significantly change 
+the basic functionality utility the software but rather add convenience such being able plot some additional variable graph addition the 
+numerous variables that had been available before adding some additional calculations supplement the information provided from running the software 
+such software modifications for any single product have typically occurred once twice per year sometimes more sometimes less thus they are infrequent 
+the company provides for fee additional training and service calls its customers and recognizes revenue the time the training service call provided 
+generally enter into one year license agreements with customers for the use our pharmaceutical software products recognize revenue these 
+contracts when all the criteria are met most license agreements have term one year however from time time enter into multi year license 
+agreements generally unlock and invoice software one year time for multi year licenses therefore revenue recognized one year time certain 
+the company software products are housed and supported the company computer networks software revenues for those products are included income 
+over the life the contract 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+recognize revenue from collaboration research and revenue from grants equally over their terms for contract revenues based actual hours incurred 
+recognize revenues when the work performed for fixed price contracts recognize contract study and other contract revenues using the percentage ofcompletion method depending upon how the contract studies are engaged accordance with asc revenue recognition construction type and 
+production type contracts recognize revenue using the percentage completion method must determine whether meet the following criteria 
+there long term legally enforceable contract possible reasonably estimate the total project costs and possible reasonably estimate the 
+extent progress toward completion 
+cash and cash equivalents 
+for purposes the statements cash flows the company considers all highly liquid investments purchased with original maturities three months less 
+cash equivalents 
+accounts receivable 
+analyze the age customer balances historical bad debt experience customer creditworthiness and changes customer payment terms when making 
+estimates the collectability the company trade accounts receivable balances determine that the financial conditions any our customers have 
+deteriorated whether due customer specific general economic issues increase the allowance may made accounts receivable are written off 
+when all collection attempts have failed 
+capitalized computer software development costs 
+software development costs are capitalized accordance with asc costs software sold leased marketed capitalization software 
+development costs begins upon the establishment technological feasibility and discontinued when the product available for sale 
+the establishment technological feasibility and the ongoing assessment for recoverability capitalized software development costs require considerable 
+judgment management with respect certain external factors including but not limited technological feasibility anticipated future gross revenues 
+estimated economic life and changes software and hardware technologies capitalized computer software development costs are comprised primarily 
+salaries and direct payroll related costs and the purchase existing software used the company software products 
+amortization capitalized computer software development costs provided product product basis the straight line method over the estimated 
+economic life the products not exceed five years amortization software development costs amounted and for the years ended 
+august and respectively expect future amortization expense vary due increases capitalized computer software development costs 
+test capitalized computer software development costs for recoverability whenever events changes circumstances indicate that the carrying amount may 
+not recoverable 
+property and equipment 
+property and equipment are recorded cost fair market value for property and equipment acquired business combinations less accumulated depreciation 
+and amortization depreciation and amortization are provided using the straight line method over the estimated useful lives follows 
+equipment 
+computer equipment 
+furniture and fixtures 
+leasehold improvements 
+years 
+years 
+years 
+shorter life asset lease 
+maintenance and minor replacements are charged expense incurred gains and losses disposals are included the results operations 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+intangible assets and goodwill 
+the company performs valuations assets acquired and liabilities assumed each acquisition accounted for business combination and recognizes the 
+assets acquired and liabilities assumed their acquisition date fair value acquired intangible assets include customer relationships software trade name and 
+non compete agreements the company determines the appropriate useful life performing analysis expected cash flows based historical experience 
+the acquired businesses intangible assets are amortized over their estimated useful lives using the straight line method which approximates the pattern 
+which the majority the economic benefits are expected consumed 
+goodwill represents the excess the cost acquired entity over the fair value the acquired net assets goodwill not amortized instead tested for 
+impairment annually when events circumstances change that would indicate that goodwill might impaired events circumstances that could trigger 
+impairment review include but are not limited significant adverse change legal factors the business climate adverse action assessment 
+regulator unanticipated competition loss key personnel significant changes the manner the company use the acquired assets the strategy for 
+the company overall business significant negative industry economic trends significant under performance relative expected historical projected 
+future results operations 
+goodwill tested for impairment the reporting unit level which one level below the same operating segment august the company 
+determined that has two reporting units simulations plus and cognigen corporation when testing goodwill for impairment the company first performs 
+qualitative assessment determine whether necessary perform step one two step annual goodwill impairment test for each reporting unit the 
+company required perform step one only concludes that more likely than not that reporting unit fair value less than its carrying value should 
+this the case the first step the two step process identify whether potential impairment exists comparing the estimated fair values the 
+company reporting units with their respective book values including goodwill the estimated fair value the reporting unit exceeds book value goodwill 
+considered not impaired and additional steps are necessary however the fair value the reporting unit less than book value then the second 
+step performed determine goodwill impaired and measure the amount impairment loss any the amount the impairment loss the excess 
+the carrying amount the goodwill over its implied fair value the estimate implied fair value goodwill primarily based estimate the discounted 
+cash flows expected result from that reporting unit but may require valuations certain internally generated and unrecognized intangible assets such the 
+company software technology patents and trademarks the carrying amount goodwill exceeds the implied fair value that goodwill impairment loss 
+recognized amount equal the excess 
+august the entire balance goodwill was attributed the company cognigen corporation reporting unit intangible assets subject 
+amortization are reviewed for impairment whenever events circumstances indicate that the carrying amount these assets may not recoverable the 
+company has not recognized any impairment charges during the periods ended august and 
+reconciliation goodwill for the period ended august 
+balance august 
+addition 
+impairments 
+balance august 
+addition 
+impairments 
+balance august 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+other intangible assets 
+the following table summarizes other intangible assets august 
+amortization 
+period 
+customer relationships 
+trade name cognigen 
+covenants not compete 
+straight line years 
+none 
+straight line years 
+acquisition 
+value 
+accumulated 
+amortization 
+net book 
+value 
+amortization expense for the year ended august and was 
+future amortization for the next five years follows 
+year ending 
+august 
+amount 
+business acquisitions 
+the company accounted for the acquisition cognigen using the purchase method accounting where the assets acquired and liabilities assumed are 
+recognized based their respective estimated fair values the excess the purchase price over the estimated fair values the net assets acquired 
+recorded goodwill determining the fair value certain acquired assets and liabilities subjective nature and often involves the use significant estimates 
+and assumptions including but not limited the selection appropriate valuation methodology projected revenue expenses and cash flows weighted 
+average cost capital discount rates estimates advertiser and publisher turnover rates and estimates terminal values business acquisitions are included 
+the company consolidated financial statements the date the acquisition 
+fair value financial instruments 
+financial assets and liabilities recorded fair value the company balance sheet are categorized based upon the level judgment associated with the 
+inputs used measure their fair value the categories defined the standard are follows 
+level input 
+level 
+level 
+level iii 
+input definition 
+inputs are unadjusted quoted prices for identical assets liabilities active markets the measurement date 
+inputs other than quoted prices included level that are observable for the asset liability through corroboration with market data 
+the measurement date 
+unobservable inputs that reflect management best estimate what market participants would use pricing the asset liability the 
+measurement date 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+for certain our financial instruments including accounts receivable accounts payable accrued payroll and other expenses and accrued bonuses officers 
+the carrying amounts are approximate fair value due their short term nature 
+advertising 
+the company expenses advertising costs incurred advertising costs for the years ended august and were approximately and 
+respectively 
+research and development costs 
+research and development costs are charged expense incurred until technological feasibility has been established these costs include salaries 
+laboratory experiment and purchased software which was developed other companies and incorporated into used the development our final 
+products 
+income taxes 
+the company accounts for income taxes accordance with asc income taxes which requires the recognition deferred tax assets and liabilities for 
+the expected future tax consequences events that have been included the financial statements tax returns 
+under this method deferred income taxes are recognized for the tax consequences future years differences between the tax bases assets and liabilities 
+and their financial reporting amounts each year end based enacted tax laws and statutory tax rates applicable the periods which the differences are 
+expected affect taxable income valuation allowances are established when necessary reduce deferred tax assets the amount expected realized 
+the provision for income taxes represents the tax payable for the period and the change during the period deferred tax assets and liabilities 
+intellectual property 
+february bought out the royalty agreement with enslein research the cost being amortized over years under the straight line 
+method amortization expense for each the fiscal years ended august and was accumulated amortization august and 
+was and respectively 
+may entered into termination and non assertion agreement with tsrl inc pursuant which the parties agreed terminate exclusive 
+software licensing agreement entered into between the parties result the company obtained perpetual right use certain source code and data 
+and tsrl relinquished any rights and claims any gastroplus products and any claims royalties other payments under that agreement 
+agreed pay tsrl total consideration which being amortized over years under the straight line method amortization for the year ended 
+august and was accumulated amortization august and was and respectively see note 
+total amortization expense for intellectual property agreements for the years ended august and was accumulated amortization 
+august and was and respectively 
+future amortization for the next five years follows 
+year ending august 
+tsrl 
+enslien 
+total 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+earnings per share 
+the company reports earnings per share accordance with fasb acs basic earnings per share computed dividing income available common 
+shareholders the weighted average number common shares available diluted earnings per share computed similarly basic earnings per share except 
+that the denominator increased include the number additional common shares that would have been outstanding the potential common shares had 
+been issued and the additional common shares were dilutive the components basic and diluted earnings per share for the years ended august 
+and were follows 
+numerator 
+net income attributable common shareholders 
+denominator 
+weighted average number common shares outstanding during the year 
+dilutive effect stock options 
+common stock and common stock equivalents used for diluted earnings per share 
+stock based compensation 
+the company accounts for stock options using the modified prospective method accordance with fasb asc compensation stock compensation 
+under this method compensation costs include estimated grant date fair value the awards amortized over the options vesting period stock based 
+compensation was and for the fiscal years ended august and respectively and included the statements operations 
+consulting salaries and research and development expense 
+impairment long lived assets 
+the company accounts for the impairment and disposition long lived assets accordance with asc intangibles goodwill and other and asc 
+property and equipment long lived assets held and used are reviewed for events changes circumstances that indicate that their carrying value may 
+not recoverable measure recoverability comparing the carrying amount asset the expected future undiscounted net cash flows generated 
+the asset determine that the asset may not recoverable the carrying amount asset exceeds its estimated future undiscounted cash flows 
+recognize impairment charge the extent the difference between the fair value and the asset carrying amount impairment losses were recorded 
+during the years ended august and 
+recently issued accounting standards 
+may fasb issued asu revenue from contracts with customers the standard will eliminate the transaction and industry specific revenue 
+recognition guidance under current gaap and replace with principles based approach for determining revenue recognition asu effective for 
+annual and interim periods beginning after december early adoption not permitted the revenue recognition standard required applied 
+retrospectively including any combination practical expedients allowed the standard are evaluating the impact any the adoption asu our financial statements and related disclosures the company has not yet selected transition method nor has determined the effect the standard 
+its ongoing financial reporting 
+november the fasb issued asu income taxes topic the amendments asu change the requirements for the 
+classification deferred taxes the balance sheet currently gaap requires entity separate deferred income tax liabilities and assets into current and 
+noncurrent amounts classified statement financial position simplify the presentation deferred income taxes the amendments this asu require 
+that deferred tax liabilities and assets classified noncurrent classified statement financial position the pronouncement effective for fiscal years 
+and interim periods within those fiscal years beginning after december earlier application permitted for all entities the beginning interim 
+annual reporting period the company has not yet selected transition method nor has determined the effect the standard its ongoing financial 
+reporting 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+february the fasb issued asu leases topic which supersedes existing guidance accounting for leases leases topic 
+and generally requires all leases recognized the consolidated balance sheet asu effective for annual and interim reporting periods 
+beginning after december early adoption permitted the provisions asu are applied using modified retrospective approach the 
+company currently evaluating the impact the adoption this standard its consolidated financial statements 
+march the fasb issued asu improvements employee share based payment accounting this asu affects entities that issue share based 
+payment awards their employees the asu designed simplify several aspects accounting for share based payment award transactions which include the income tax consequences classification awards either equity liabilities classification the statement cash flows and forfeiture rate calculations 
+asu will become effective for the company the first quarter fiscal early adoption permitted any interim annual period the company 
+currently evaluating the impact this guidance its consolidated financial statements 
+april the fasb issued revenue from contracts with customers topic which amends certain aspects the board new revenue 
+standard asu revenue from contracts with customers the standard should adopted concurrently with adoption asu which effective 
+for annual and interim periods beginning after december the company has not yet selected transition method nor has determined the effect the 
+standard its ongoing financial reporting 
+note contracts progress 
+cost estimated earnings and billings uncompleted contracts are summarized follows august and 
+revenues earned date uncompleted contract 
+billings date uncompleted contracts 
+contracts progress are included the accompanying balance sheets under the following captions 
+revenues excess billings 
+billings excess revenues 
+note property and equipment 
+property and equipment august and consisted the following 
+equipment 
+computer equipment 
+furniture and fixtures 
+leasehold improvements 
+less accumulated depreciation and amortization 
+total 
+depreciation expense was and for the years ended august and respectively 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+note contracts payable 
+tsrl 
+pursuant the termination and non assertion agreement with tsrl see note the company will pay tsrl over three year period the 
+remaining payment will made april 
+cognigen acquisition liability related party 
+september the company acquired cognigen corporation see note part the consideration the company agreed that within three business 
+days following the two year anniversary july the date the merger agreement and subject any offsets the company will pay the former 
+shareholders cognigen total comprised cash and the issuance shares stock the former shareholders 
+cognigen are currently employed the consolidated company one whom serves the president simulations plus inc and cognigen july the 
+final payment was made and the shares were issued 
+note commitments and contingencies 
+leases 
+lease approximately square feet space lancaster california the original lease had five year term with two three year options extend the 
+initial five year term expired february and extended the lease february june the lease was amended extend the term 
+february the amended lease also provides for annual base rent increase per year and two two year options extend may the 
+company exercised the two two year options extending the term the lease through february fixed rate per month the new extension 
+agreement allowed the company with days notice opt out the remaining lease the last two years the term upon payment recapture payment 
+equal the base payment increase that would have been due under the original agreement 
+our subsidiary leases approximately square feet space buffalo new york the initial five year term expires october the lease allows for 
+three year option extend october the current base rent per month 
+rent expense including common area maintenance fees for the years ended august and was and respectively 
+future minimum lease payments under non cancelable operating leases with remaining terms one year more august were follows 
+years ending august 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+employment agreement 
+effective september the company entered into new employment agreement with walter woltosz serve chief executive officer the 
+company the woltosz employment agreement the woltosz employment agreement has one year term under the terms the woltosz employment 
+agreement woltosz required devote minimum his productive time the position chief executive officer the company will receive 
+annual compensation eligible receive company stock options under the simulations plus inc stock option plan 
+determined the company board directors and shall paid annual performance bonus the company net income before taxes not 
+exceed copy the woltosz employment agreement was filed attachment the filed with the securities and exchange commission 
+september july the company renewed this employment agreement for another year the same terms the september agreement 
+copy the agreement was filed attachment the filed with the securities and exchange commission july august the 
+company renewed this employment agreement for another year the same terms the september agreement copy the agreement was filed 
+attachment the filed with the securities and exchange commission august 
+september thaddeus grasela was appointed president the company and its wholly owned subsidiary cognigen and the 
+company and cognigen have entered into employment agreement with grasela the grasela employment agreement which has three year term 
+pursuant the grasela employment agreement grasela will receive annual base salary will eligible receive company stock options 
+under the simulations plus inc stock option plan determined the company board directors and will eligible receive annual 
+performance bonus amount not exceed salary determined the compensation committee the company board directors 
+september and the compensation committee awarded performance bonuses this expense was accrued expense august 
+and 
+license agreement 
+the company executed royalty agreement with accelrys inc the original agreement was entered into with symyx technologies march symyx 
+technologies later merged with accelrys inc for access their metabolite database for developing our metabolite module within admet predictor the 
+module was renamed the metabolism module when released admet predictor version april under this agreement pay royalty 
+revenue derived from the sale the metabolism metabolite module accelrys dassault systemes france acquired accelrys and the company 
+now operates under the name biovia under this agreement for the year ended august and incurred royalty expense and 
+respectively 
+litigation 
+except described below are not party any legal proceedings and are not aware any pending legal proceedings any kind 
+june the company was served with complaint civil action entitled sherri winslow incredible adventures inc los angeles superior court 
+case alleging wrongful death and seeking unspecified damages arising out may plane crash the state nevada the 
+company chief executive officer owns the subject aircraft and also named defendant the complaint alleged that the company was the owner the 
+subject aircraft the company denies all material allegations against including that owns has ever owned any interest the subject aircraft november 
+the plaintiff and the company signed stipulation dismissal pursuant which the plaintiff agreed dismiss the company without prejudice the 
+plaintiff does not discover evidence during nine month period and including august that justifies bringing the company back into the litigation the 
+company will prepare dismissal with prejudice signed behalf the plaintiff the company did not receive any notification and the process 
+further discussion with the plaintiffs regarding final dismissal with prejudice 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+note shareholders equity 
+dividend 
+the company board directors declared cash dividends during fiscal year and the details dividend paid are the following tables 
+record date 
+total 
+record date 
+total 
+distribution date 
+number shares 
+outstanding 
+record date 
+distribution date 
+number shares 
+outstanding 
+record date 
+dividend per 
+share 
+total amount 
+total amount 
+dividend per 
+share 
+although dividend distributions are currently expected continue quarterly basis the company board directors reserves the right discontinue the 
+dividend distribution any time 
+stock option plan 
+september the company board directors adopted and the company shareholders approved the stock option plan the plan 
+under which total shares common stock had been reserved for issuance the total number shares that may granted under the plan 
+was increased march february december and february all such 
+increases were approved the company board directors and the company shareholders the plan terminated september accordance 
+with its terms 
+february the company board directors adopted and the company shareholders approved the stock option plan the plan 
+under which total shares common stock had been reserved for issuance february the company board directors and the 
+company shareholders approved increase the total number shares that may granted under the plan 
+incentive stock options isos 
+august employees hold isos purchase the aggregate shares the company common stock exercise prices ranging from 
+per share 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+transactions 
+isos 
+number 
+options 
+weighted average 
+exercise price 
+per share 
+weightedaverage 
+remaining 
+contractual life 
+outstanding august 
+granted 
+exercised 
+canceled forfeited 
+outstanding august 
+vested and exercisable august 
+vested and expected vest august 
+transactions 
+isos 
+number 
+options 
+outstanding august 
+granted 
+exercised 
+canceled forfeited 
+expired 
+outstanding august 
+vested and exercisable august 
+vested and expected vest august 
+weighted average 
+exercise price 
+per share 
+weightedaverage 
+remaining 
+contractual life 
+non qualified stock options nqsos 
+august the outside members the company board directors hold nqsos purchase the aggregate shares the company 
+common stock exercise prices ranging from per share 
+transactions 
+nqsos 
+number 
+options 
+outstanding august 
+granted 
+exercised 
+cancelled forfeited 
+outstanding august 
+exercisable august 
+weighted average 
+exercise price 
+per share 
+weightedaverage 
+remaining 
+contractual life 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+transactions 
+nqsos 
+weighted average 
+exercise price 
+per share 
+number 
+options 
+outstanding august 
+granted 
+exercised 
+cancelled forfeited 
+outstanding august 
+exercisable august 
+weightedaverage 
+remaining 
+contractual life 
+the fair value the options including both isos and nqsos granted during fiscal year estimated the fair value these options was 
+estimated the date grant using the black scholes option pricing model with the following assumptions dividend yield pre vest forfeiture rate 
+expected volatility risk free interest rate and expected life years the total fair value non vested stock options august 
+was and amortizable over weighted average period years 
+the fair value the options including both isos and nqsos granted during fiscal year was estimated the fair value these options was 
+estimated the date grant using the black scholes option pricing model with the following assumptions dividend yield pre vest forfeiture rate 
+expected volatility risk free interest rate and expected life years 
+the black scholes option valuation model was developed for use estimating the fair value traded options which not have vesting restrictions and are 
+fully transferable addition option valuation models require the input highly subjective assumptions including the expected stock price volatility because 
+our stock options have characteristics significantly different from those traded options and because changes the subjective input assumptions can 
+materially affect the fair value estimate management opinion the existing models not necessarily provide reliable single measure the fair value its 
+stock options 
+intrinsic value options outstanding and options exercisable 
+intrinsic value 
+options 
+outstanding 
+intrinsic 
+value 
+options 
+exercisable 
+intrinsic 
+value 
+options 
+exercised 
+the weighted average remaining contractual life options outstanding issued under the and plan was years august the exercise 
+prices for the options outstanding august ranged from per share and the information relating these options follows 
+exercise price 
+low 
+high 
+awards outstanding 
+quantity 
+weighted average 
+remaining 
+contractual life 
+years 
+years 
+years 
+years 
+years 
+years 
+weighted average 
+exercise price 
+awards exercisable 
+weighted 
+average 
+remaining 
+contractual 
+quantity 
+life 
+years 
+years 
+years 
+years 
+weighted 
+average 
+exercise 
+price 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+note income taxes 
+utilize fasb asc income taxes which requires the recognition deferred tax assets and liabilities for the expected future tax consequences 
+events that have been included the financial statements tax returns 
+under this method deferred income taxes are recognized for the tax consequences future years differences between the tax bases assets and liabilities 
+and their financial reporting amounts each year end based enacted tax laws and statutory tax rates applicable the periods which the differences are 
+expected affect taxable income valuation allowances are established when necessary reduce deferred tax assets the amount expected realized 
+the provision for income taxes represents the tax payable for the period and the change during the period deferred tax assets and liabilities 
+the components the income tax provision for fiscal year and were follows 
+current 
+federal 
+state 
+foreign 
+deferred 
+federal 
+state 
+total 
+reconciliation the expected income tax benefit computed using the federal statutory income tax rate the company effective income tax rate 
+follows for fiscal year and 
+income tax computed federal statutory tax rate 
+state taxes net federal benefit 
+meals entertainment 
+stock based compensation 
+other permanent differences 
+research and development credit 
+change prior year estimated taxes 
+total 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+significant components the company deferred tax assets and liabilities for income taxes for the fiscal years ended august and are follows 
+deferred tax assets 
+accrued payroll and other expenses 
+deferred revenue 
+capitalized merger costs 
+intellectual property 
+research and development credit 
+state taxes 
+state tax deferred 
+total deferred tax assets 
+less valuation allowance 
+deferred tax liabilities 
+property and equipment 
+state tax deferred 
+intellectual property 
+capitalized computer software development costs 
+total deferred tax liabilities 
+net deferred tax liabilities 
+follow guidance issued the fasb with regard our accounting for uncertainty income taxes recognized the financial statements such guidance 
+prescribes recognition threshold more likely than not and measurement process for financial statement recognition and measurement tax position 
+taken expected taken tax return making this assessment company must determine whether more likely than not that tax position will 
+sustained upon examination based solely the technical merits the position and must assume that the tax position will examined taxing authorities 
+our policy include interest and penalties related unrecognized tax benefits income tax expense interest and penalties totaled and for fiscal 
+year and respectively file income tax returns with the irs and various state jurisdictions and india our federal income tax returns for fiscal year 
+thru and are open for audit and our state tax returns for fiscal year through remain open for audit addition our california tax return 
+for the fiscal year and fiscal year remains open with regard tax credits result previous audit for which received letter from the 
+california franchise tax board stating that audit will not conducted for those years this time however may subject future audit the 
+company was informed that the irs was auditing the company tax return for this audit was completed during there were changes 
+result the audit 
+our review prior year tax positions using the criteria and provisions presented guidance issued fasb did not result material impact our financial 
+position results operations 
+note concentrations and uncertainties 
+financial instruments that potentially subject the company concentration credit risk consist principally cash cash equivalents and trade accounts 
+receivable the company holds cash and cash equivalents banks located california with balances that often exceed fdic insured limits historically the 
+company has not experienced any losses such accounts and believes not exposed any significant credit risk cash and cash equivalents however 
+considering the current banking environment the company investigating alternative ways minimize its exposure such risks while the company may 
+exposed credit losses due the nonperformance its counterparties the company does not expect the settlement these transactions have material 
+effect its results operations cash flows financial condition 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+revenue concentration shows that international sales accounted for and net sales for fiscal year and respectively three customers 
+accounted for dealer account japan representing various customers and net sales for fiscal year three customers accounted for 
+dealer account japan representing various customers and net sales for fiscal year 
+accounts receivable concentration shows that three customers comprised dealer account japan representing various customers and 
+accounts receivable august and three customers comprised dealer account asia representing various customer dealer account 
+japan representing various customers and accounts receivable august 
+operate the computer software industry which highly competitive and changes rapidly our operating results could significantly affected our ability 
+develop new products and find new distribution channels for new and existing products 
+the majority our customers are the pharmaceutical industry during economic downturns have seen consolidations the pharmaceutical industry 
+although have not seen any significant reduction total revenues date our growth rate could effected consolidation and downsizing the 
+pharmaceutical industry 
+note segment and geographic reporting 
+account for segments and geographic revenues accordance with guidance issued the fasb our reportable segments are strategic business units that 
+offer different products and services 
+results for each segment and consolidated results are follows years ended august and thousands because rounding numbers may not 
+foot 
+year ended august 
+simulations 
+plus inc 
+net revenues 
+income loss from operations before income taxes 
+total assets 
+capital expenditures 
+capitalized software costs 
+depreciation and amortization 
+cognigen 
+corporation 
+eliminations 
+total 
+total 
+year ended august 
+net revenues 
+income loss from operations before income taxes 
+total assets 
+capital expenditures 
+capitalized software costs 
+depreciation and amortization 
+simulations 
+plus inc 
+cognigen 
+corporation 
+eliminations 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+addition the company allocates revenues geographic areas based the locations its customers geographical revenues for the years ended august 
+and were follows thousands because rounding numbers may not foot 
+year ended august 
+north america 
+simulations plus inc 
+cognigen corporation 
+total 
+europe 
+asia 
+south america 
+total 
+year ended august 
+north america 
+simulations plus inc 
+cognigen corporation 
+total 
+europe 
+asia 
+south america 
+total 
+note related party transactions 
+during fiscal year and included bonus expenses officers was which was accrued bonus representing the 
+company net income before bonuses and taxes not exceeding paid the corporate secretary virginia woltosz annual bonus part the 
+terms the original sale words the company addition was accrued under the employment agreement with walter woltosz the 
+company chief executive officer and another was expensed fiscal year performance bonus for thaddeus grasela the company 
+president these bonuses were accrued august and and paid the month following the fiscal close 
+september the company acquired cognigen corporation the company incurred liability due the former shareholders 
+cognigen corporation who are currently employees and shareholders the consolidated company see note this liability was settled july with 
+cash payment and the balance stock issuance 
+note employee benefit plan 
+maintain plan for eligible employees make matching contributions equal the employee elective deferral not exceed the 
+total employee compensation can also elect make profit sharing contribution contributed and for fiscal year and 
+respectively 
+note acquisition merger with cognigen corporation 
+july the company entered into agreement and plan merger the merger agreement with cognigen corporation cognigen 
+september the company consummated the acquisition all outstanding equity interests cognigen pursuant the terms the merger agreement 
+with cognigen merging with and into newly formed wholly owned subsidiary the company believe the combination simulations plus and cognigen 
+provides substantial future potential based the complementary strengths each the companies 
+simulations plus inc subsidiary 
+notes consolidated financial statements 
+august and 
+under the terms the merger agreement described below the company will pay the former shareholders cognigen total consideration 
+consisting cash and worth newly issued unregistered shares the company common stock 
+september the company paid the former shareholders cognigen total comprised cash the amount and the 
+issuance shares the company common stock valued under the terms the merger agreement price approximately 
+dollars per share was used based upon the volume weighted average closing price the company shares common stock for the consecutive tradingday period ending two trading days prior september the actual stock price september was the total value the stock issued 
+was approximately the merger agreement provides for two year market standoff period which the newly issued shares may not sold the 
+recipients thereof 
+within three business days following the two year anniversary july the date the merger agreement and subject any offsets the company will 
+pay the former shareholders cognigen total comprised cash and the issuance shares stock valued 
+under the formula described above 
+the merger agreement provided for targeted working capital adjustment made days after the closing date 
+under the acquisition method accounting the total estimated purchase price allocated cognigen tangible and intangible assets and liabilities based 
+their estimated fair values the date the completion the acquisition september the following table summarizes the preliminary allocation the 
+purchase price for cognigen 
+assets acquired including accounts receivable and estimated contracts receivable 
+fixed assets acquired 
+estimated value software acquired 
+estimated value intangibles acquired customer lists trade name etc 
+working capital adjustment 
+current liabilities assumed 
+goodwill 
+estimated deferred income taxes 
+total consideration 
+goodwill has been provided the transaction based estimates future earnings this subsidiary including anticipated synergies associated with the 
+positioning the combined company leader model based drug development based the structure the transaction the company does not anticipate 
+benefiting from any tax deductions future periods for recognized goodwill 
+note subsequent events 
+dividend declared 
+october our board directors declared quarterly cash dividend per share our shareholders the dividend will distributed 
+thursday november for shareholders record thursday november 
+sec document index 
+sec header hdr sgml 
+acceptance datetime 
+accession number 
+conformed submission type 
+public document count 
+conformed period report 
+filed date 
+date change 
+filer 
+company data 
+company conformed name simulations plus inc 
+central index key 
+standard industrial classification services computer integrated systems design 
+irs number 
+fiscal year end 
+filing values 
+form type 
+sec act act 
+sec file number 
+film number 
+business address 
+street street west 
+street 
+city lancaster 
+state 
+zip 
+business phone 
+mail address 
+street street west 
+city lancaster 
+state 
+zip 
+sec header 
+document 
+type 
+sequence 
+filename htm 
+description form 
+text 
+document file htm 
+document 
+document 
+type 
+sequence 
+filename htm 
+description amendment lease 
+text 
+document file htm 
+document 
+document 
+type 
+sequence 
+filename htm 
+description list subsidiaries 
+text 
+document file htm 
+document 
+document 
+type 
+sequence 
+filename htm 
+description consent independent registered public accounting firm 
+text 
+document file htm 
+document 
+document 
+type 
+sequence 
+filename htm 
+description certification 
+text 
+document file htm 
+document 
+document 
+type 
+sequence 
+filename htm 
+description certification 
+text 
+document file htm 
+document 
+document 
+type 
+sequence 
+filename htm 
+description certification 
+text 
+document file htm 
+document 
+document 
+type ins 
+sequence 
+filename simu xml 
+description xbrl instance file 
+text 
+document file simu xml 
+document 
+document 
+type sch 
+sequence 
+filename simu xsd 
+description xbrl schema file 
+text 
+document file simu xsd 
+document 
+document 
+type cal 
+sequence 
+filename simu xml 
+description xbrl calculation file 
+text 
+document file simu xml 
+document 
+document 
+type def 
+sequence 
+filename simu xml 
+description xbrl definition file 
+text 
+document file simu xml 
+document 
+document 
+type lab 
+sequence 
+filename simu xml 
+description xbrl label file 
+text 
+document file simu xml 
+document 
+document 
+type pre 
+sequence 
+filename simu xml 
+description xbrl presentation file 
+text 
+document file simu xml 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type xml 
+sequence 
+filename htm 
+description idea xbrl document 
+text 
+document file htm 
+document 
+document 
+type excel 
+sequence 
+filename financial_report xlsx 
+description idea xbrl document 
+text 
+document file financial_report xlsx 
+document 
+document 
+type xml 
+sequence 
+filename show 
+description idea xbrl document 
+text 
+document file show 
+document 
+document 
+type xml 
+sequence 
+filename report css 
+description idea xbrl document 
+text 
+document file report css 
+document 
+document 
+type xml 
+sequence 
+filename filingsummary xml 
+description idea xbrl document 
+text 
+document file filingsummary 
+document raw xml filingsummary xml 
+document 
+document 
+type zip 
+sequence 
+filename xbrl zip 
+description idea xbrl document 
+text 
+document file xbrl zip 
+document 
+sec document 
+exhibit 
+two amendment lease 
+this amendment lease made and entered into 
+crest development llc 
+and simulations plus inc 
+may 
+and between 
+lessor 
+lessee 
+whereas about 
+lease was entered into and between lessor and lessee relating certain real property commonly known 
+street west lancaster 
+the premises and 
+whereas lessor and lessee have have not previously amended said lease and 
+whereas the lessor and lessee now desire amend said lease 
+now therefore for payment ten dollars and other good and valuable consideration lessor the receipt and sufficiency which hereby 
+acknowledged the parties mutually agree make the following additions and modifications the lease 
+term the expiration date hereby advanced extended february 
+agreed use the agreed use hereby modified 
+______________________________________________________________ 
+base rent adjustment monthly base rent shall follows base rent from through fixed rate per 
+month per month additionally paid toward cam charges which will justified lessor and adjusted base upon actual expenses 
+other with day notification lessor lessee may opt out the last two years the lease through upon recapture payment 
+the annual increases that are herein being forgived from through the lessee move out date 
+this agreement shall not construed against the party preparing but shall construed all parties jointly prepared this agreement and any uncertainty 
+and ambiguity shall not interpreted against any one party 
+all other terms and conditions this lease shall remain unchanged and shall continue full force and effect except specifically amended herein 
+executed the day and year first above written 
+lessor 
+crest development llc 
+gary shafer 
+name printed gary shafer 
+title member 
+lessee 
+simulations plus inc 
+walter woltosz 
+name printed walter woltosz 
+title ceo 
+name printed 
+title 
+john kiensel 
+name printed john kiensel 
+title cfo 
+notice these forms are often modified meet changing requirements law and industry needs always write call make sure you are utilizing the most current form air 
+commercial real estate association brand blvd suite glendale 
+telephone fax 
+page 
+exhibit 
+list subsidiaries 
+cognigen corporation delaware corporation 
+exhibit 
+consent independent registered public accounting firm 
+consent the incorporation reference the registration statements simulations plus inc form nos and our 
+report dated november with respect the financial statements simulations plus inc and for the years ended august and 
+included this annual report form simulations plus inc for the fiscal year ended august 
+rose snyder jacobs llp 
+rose snyder jacobs llp 
+encino california 
+november 
+exhibit 
+rule certification 
+simulations plus inc 
+california corporation 
+certification chief executive officer principal executive officer 
+walter woltosz certify that 
+have reviewed this annual report form simulations plus inc california corporation 
+based knowledge this report does not contain any untrue statement material fact omit state material fact necessary make the 
+statements made light the circumstances under which such statements were made not misleading with respect the period covered this report 
+based knowledge the financial statements and other financial information included this report fairly present all material respects the 
+financial condition results operations and cash flows the registrant and for the periods presented this report 
+the registrant other certifying officer and are responsible for establishing and maintaining disclosure controls and procedures defined 
+exchange act rules and and internal control over financial reporting defined exchange act rules and for the 
+registrant and have 
+designed such disclosure controls and procedures caused such disclosure controls and procedures designed under our supervision 
+ensure that material information relating the registrant including its consolidated subsidiaries made known others within those 
+entities particularly during the period which this report being prepared 
+designed such internal control over financial reporting caused such internal control over financial reporting designed under our 
+supervision provide reasonable assurance regarding the reliability financial reporting and the preparation financial statements for 
+external purposes accordance with generally accepted accounting principles 
+evaluated the effectiveness the registrant disclosure controls and procedures and presented this report our conclusions about the 
+effectiveness the disclosure controls and procedures the end the period covered this report based such evaluation and 
+disclosed this report any change the registrant internal control over financial reporting that occurred during the registrant most recent 
+fiscal quarter the registrant fourth fiscal quarter the case annual report that has materially affected reasonably likely materially 
+affect the registrant internal control over financial reporting and 
+the registrant other certifying officer and have disclosed based our most recent evaluation internal control over financial reporting the 
+registrant auditors and the audit committee the registrant board directors persons performing the equivalent functions 
+all significant deficiencies and material weaknesses the design operation internal control over financial reporting which are reasonably 
+likely adversely affect the registrant ability record process summarize and report financial information and 
+any fraud whether not material that involves management other employees who have significant role the registrant internal control 
+over financial reporting 
+dated november 
+walter woltosz 
+walter woltosz 
+chief executive officer 
+principal executive officer 
+exhibit 
+rule certification 
+simulations plus inc 
+california corporation 
+certification chief financial officer principal financial officer 
+john kneisel certify that 
+have reviewed this annual report form simulations plus inc california corporation 
+based knowledge this report does not contain any untrue statement material fact omit state material fact necessary make the 
+statements made light the circumstances under which such statements were made not misleading with respect the period covered this report 
+based knowledge the financial statements and other financial information included this report fairly present all material respects the 
+financial condition results operations and cash flows the registrant and for the periods presented this report 
+the registrant other certifying officer and are responsible for establishing and maintaining disclosure controls and procedures defined 
+exchange act rules and and internal control over financial reporting defined exchange act rules and for the 
+registrant and have 
+designed such disclosure controls and procedures caused such disclosure controls and procedures designed under our supervision 
+ensure that material information relating the registrant including its consolidated subsidiaries made known others within those 
+entities particularly during the period which this report being prepared 
+designed such internal control over financial reporting caused such internal control over financial reporting designed under our 
+supervision provide reasonable assurance regarding the reliability financial reporting and the preparation financial statements for 
+external purposes accordance with generally accepted accounting principles 
+evaluated the effectiveness the registrant disclosure controls and procedures and presented this report our conclusions about the 
+effectiveness the disclosure controls and procedures the end the period covered this report based such evaluation and 
+disclosed this report any change the registrant internal control over financial reporting that occurred during the registrant most recent 
+fiscal quarter the registrant fourth fiscal quarter the case annual report that has materially affected reasonably likely materially 
+affect the registrant internal control over financial reporting and 
+the registrant other certifying officer and have disclosed based our most recent evaluation internal control over financial reporting the 
+registrant auditors and the audit committee the registrant board directors persons performing the equivalent functions 
+all significant deficiencies and material weaknesses the design operation internal control over financial reporting which are reasonably 
+likely adversely affect the registrant ability record process summarize and report financial information and 
+any fraud whether not material that involves management other employees who have significant role the registrant internal control 
+over financial reporting 
+dated november 
+john kneisel 
+john kneisel 
+chief financial officer 
+principal financial officer 
+exhibit 
+certifications pursuant 
+section the sarbanes oxley act 
+section 
+connection with the annual report simulations plus inc california corporation the company form for the year ended august 
+filed with the securities and exchange commission the report walter woltosz chief executive officer the company and john kneisel chief 
+financial officer the company each hereby certify pursuant adopted pursuant section the sarbanes oxley act 
+that 
+the report fully complies with the requirements section the securities exchange act amended and 
+the information contained the report fairly presents all material respects the financial condition and result operations the company 
+for the period covered the report 
+walter woltosz 
+walter woltosz 
+chief executive officer 
+november 
+john kneisel 
+john kneisel 
+chief financial officer 
+november 
+signed original this written statement required section has been provided simulations plus inc and will retained simulations plus inc and 
+furnished the securities and exchange commission its staff upon request 

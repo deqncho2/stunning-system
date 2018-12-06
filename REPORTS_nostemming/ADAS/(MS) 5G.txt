@@ -1,0 +1,2353 @@
+may gmt 
+autos shared mobility global telcos tech sri 
+autonomous cars telcos 
+gonna need bigger pipe 
+see symbiotic relationship between avs and networks our 
+autos shared mobility telco and tech teams have merged their 
+models size the opportunity global telcos market cap more 
+than doubles our bull case our connected autos stocks provide path 
+this theme 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+autos shared mobility global telcos tech sri 
+autonomous cars telcos 
+gonna need bigger 
+pipe 
+potential enable the evolution autonomous vehicles 
+complement our top down scenarios framed bot 
+avs not well understood the number projects mush 
+tom test case new york city given the difficulty assessing 
+rooms and cooperation across the auto telco and tech industries 
+costs the nationwide level modeled network for 
+increases our global industry teams have collaborated reframe 
+new york estimate that investments could total nearly 
+the debates around both and avs the massive amounts data 
+dollars across small cells fiber and core 
+they generate will require avs connect the internet esti 
+network and other using our base case revenue user 
+mate gigabytes data capacity for level vehicles 
+framework see pay back time nearly years nearly 
+for level making access the cloud critical with 
+years under the bull case revenue mile assumptions expect that 
+expected deliver increase download speeds and mark 
+will trigger capex spike with outlays totaling over 
+edly lower latency believe can key enabler for avs 
+ready networks will more dense and even more 
+our global industry teams have combined their and models 
+expensive therefore anticipate only one network per city suit 
+generate proprietary scenario analysis that includes costs total 
+able for avs maximum two larger cities likely the market 
+addressable markets and commercial value yielding return profiles 
+leader given will require the biggest capex budget 
+and payback periods this report includes detailed discussion 
+many obstacles remain however setting aside the ethical legal 
+technology policy and regulatory gating factors 
+and moral factors that cannot model have identified number 
+data could increase global wireless traffic over current 
+technology issues that need overcome latency network 
+levels delivering boost for telcos comparable the iphone 
+coverage and capacity are key data privacy and security concerns 
+using quadrant analysis frame scenarios for this evolution 
+also need considered 
+our base case avs pay average revenue per user 
+part our collaborative effort have constructed diver 
+month for data services today consumer average for mobile 
+sified list stocks that our collective view are best exposed 
+driving new annual revenue stream for global telcos 
+the growth the connected auto economy the list popu 
+our bull case assume telcos can capture portion the value 
+lated irrespective specific month recommendations and there 
+created the ecosystem equating annually from 
+fore includes some underweight rated equities addition equal 
+data sea change for telco services much like the arrival the 
+weight and overweight rated stocks the morgan stanley 
+smartphone recall that mobile data accounted for just ser 
+connected autos meant provide investors with guide 
+vice revenues this implies that global telcos market cap 
+this emerging theme 
+rises from today our npv analysis calculates payback years under our base case and years the bull case 
+contributors 
+morgan stanley international plc 
+morgan stanley llc 
+morgan stanley international plc 
+emmet kelly 
+adam jonas cfa 
+ricard boada 
+equity analyst 
+equity analyst 
+equity analyst 
+emmet kelly morganstanley 
+adam jonas morganstanley 
+ricard boada morganstanley 
+morgan stanley llc 
+morgan stanley llc 
+morgan stanley llc 
+armintas sinkevicius cfa cpa 
+alex straton 
+simon flannery 
+equity analyst 
+research associate 
+equity analyst 
+armintas sinkevicius morganstanley 
+alex straton morganstanley 
+simon flannery morganstanley 
+morgan stanley llc 
+morgan stanley international plc 
+morgan stanley international plc 
+james faucette 
+harald hendrikse 
+victoria greer 
+equity analyst 
+equity analyst 
+equity analyst 
+james faucette morganstanley 
+harald hendrikse morganstanley 
+victoria greer morganstanley 
+morgan stanley international plc 
+morgan stanley international plc 
+morgan stanley asia limited 
+deeya souza 
+victoria irving 
+gary 
+research associate 
+equity strategist 
+equity analyst 
+deeya dsouza morganstanley 
+victoria irving morganstanley 
+gary morganstanley 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse restrictions 
+communications with subject company public appearances and trading securities held research analyst account 
+contents 
+executive summary 
+first building block accelerating miles 
+penetration 
+the technology how are autonomous vehicles 
+connected 
+potential key enabler for autonomous 
+vehicles 
+material and new opportunity for telcos 
+but what cost 
+the morgan stanley connected autos 
+test case enabling autonomous driving new 
+york city 
+the potential impact connected cars 
+adjacent industries 
+who attempting connect vehicles 
+what are the roadblocks connected selfdriving vehicles 
+other questions 
+appendix autonomy levels 
+appendix overview 
+appendix where does vehicle intelligence 
+reside 
+appendix autonomous vehicles data model 
+appendix automotive data revenue model 
+executive summary 
+overview how reframe the debate 
+avs via 
+exhibit 
+the connected autos 
+autonomous vehicle projects accelerate explore the 
+role global telcos may play avs evolution increasing cooperation across the auto telco and tech industries has encouraged 
+take collaborative approach with our global auto telco and tech 
+teams working together this report our analysis has been 
+enriched depth conversations with the heads data and connected car for several the world leading auto original equipment 
+manufacturers and suppliers believe the work based combining our global and models proprietary our scenario 
+framework flexes the cost deployment the addressable market 
+and commercial value and examine how value shared across 
+the data ecosystem well include return profiles and payback 
+periods marrying our views autonomous vehicle penetration with 
+source company data morgan stanley research 
+our assumptions wireless data transmission trends for each level 
+autonomy level through level gives investors framework 
+for running scenarios the demand for data region through 
+understanding what can for avs 
+address number technology issues for avs which net 
+the number projects mushrooming and see the 
+work technologies will used autonomous cars technology 
+number miles traveled and penetration exploding 
+spectrum where autonomous vehicle data will stored car 
+projects now include initiatives traditional autos 
+cloud edge computing etc and network coverage latency 
+ford bmw etc new autos tesla uber technology apple 
+also consider the likely take autonomous travel and identify 
+google and number jvs huawei audi ford qual 
+challenges facing the autonomous car industry including safety 
+comm nokia april there were companies with 
+ethics data privacy and security and regulation 
+licenses the state california expect the number 
+global miles traveled cars increase miles 
+our connected autos looks beyond autos telco for 
+and after potentially slow initial take until see level 
+plays investors the mega trend autonomous connected elec 
+penetration exceeding 
+tric and shared cars may find opportunity the adjacent domains 
+around data transmission and managing the bandwidth the picks 
+the key learning from our work and interviews that autono 
+and shovels auto wireless carriers notably the market 
+mous vehicles will generate data unprecedented scale our 
+leaders tower operators telco equipment makers and cloud data 
+estimates how much data avs will end consuming range from 
+storage companies are the most obvious winners electric utilities 
+level vehicles data per hour level until now 
+commodities and reits are longer term derivative plays 
+most the efforts from leading developers have involved cars 
+that work with very little network connectivity tesla autopilot 
+and google waymo the long run believe that autonomous 
+and connected capabilities need hand hand even with the 
+continuous evolution technology local processing power within 
+vehicles probably won sufficient meaning cloud computing 
+becomes essential addition vehicle connectivity can address 
+line sight limitations and prevent crashes that cameras and 
+sensors can 
+morgan stanley research 
+with increase download speeds could enable 
+size the opportunities scenarios our base case 
+autonomous cars the next generation wireless technology 
+assume penetration will end being higher than many expect 
+launched china japan korea and the the end 
+after slow ish start however constructing networks specifi 
+likely prove key product enabler for avs slated deliver 
+cally designed for autonomous vehicle usage will prove costly given 
+download speeds increase band 
+density and latency requirements and telcos will end realising 
+width per unit area and most importantly improvement net 
+small share the pie use subscription model estimate the 
+work latency exhibit while not envision that driving 
+total addressable market our bull case assume the telcos 
+decisions will made over wireless network see signifi 
+achieve more market power enabling them capture part the 
+cant need for backhaul and content delivery avs will connect 
+value the global ecosystem 
+the grid and transmit data using three technologies vehicle vehicle vehicle infrastructure and vehicle network 
+our base case scenario implies autonomous vehicles could 
+which can transmit via importantly avs are hitting the 
+transmit data totaling exabytes 
+streets without giving early fleets chance prove their commercial and social value 
+for context this multiple current global wireless 
+data traffic this autonomous vehicle volume equiva 
+avs can game changer for the 
+telecom industry 
+lent every single human being the planet streaming 
+netflix hours day 
+result envisage self driving vehicles will consume 
+over wireless network capacity the 
+telcos have struggled realise top line growth for many years 
+and europe the data will likely uploaded the network 
+and many failed monetise see scope for connected cars 
+most the activity the wireless phone today down 
+change the debate telcos our forecasts data consump 
+loading data from the network and could have interesting 
+tion imply revolutionary change for telco services much like the 
+implications for spectrum valuations 
+arrival the smart phone recall that mobile data 
+accounted for just service revenues telcos gen 
+use relatively undemanding assumptions data con 
+erate zero revenues from this business today believe that 
+sumption which model nearly hour 
+data will likely represent the main monetisation massive iot for 
+data transmitted fraction the more bullish data points 
+telcos iot just vodafone service revs present 
+exhibit 
+data comparison today iphone autonomous vehicle 
+today iphone 
+smart car 
+comparison 
+data produced 
+car 
+month 
+hour 
+years 
+iphone usage 
+wireless usage 
+out car 
+month 
+month 
+iphone usage 
+total wireless 
+data transmission 
+today transmission 
+source morgan stanley research shutterstock 
+estimate the total addressable market between 
+exhibit 
+orthogonal analysis the bull bear and base case for and avs 
+high 
+commercial 
+use case tam 
+doubling the telcos market cap 
+our base case and our bull case 
+iphone wheels our base case assumes that avs gen 
+iphone wheels 
+erate subscription revenues for global wireless operators 
+mobile arpus that least equate the same 
+morgan stanley 
+base case 
+average mobile consumer subscription today our view 
+this the most conservative approach sizing this market 
+bull case 
+low cost 
+high cost 
+lost connection 
+all over again 
+given autonomous vehicle can consume hour 
+wireless data which compares mobile consumer subscription month 
+least likely 
+mixed case 
+doubling the telco market cap our bull case size 
+bear case 
+the market assuming that telcos can capture portion the 
+value created the autonomous vehicle ecosystem our 
+low 
+commercial 
+use case tam 
+source morgan stanley research shutterstock 
+view good proxy for how much this could become look 
+the overall wireless telco contribution the broader 
+economy today mobile telco gdp which 
+estimate globally 
+all over again our bear case assume that telcos 
+fail monetize this opportunity 
+exhibit 
+estimate that wireless players can generate automotive revenues our base case this rises our bull case 
+source morgan stanley research 
+morgan stanley research 
+what the impact global wireless operators estimate the 
+exhibit 
+contribution new automotive data revenues could reach 
+our illustrative work shows that returns telecom investments vary 
+global wireless revenues base case this figure would rise 
+widely depending the pricing model per vehicle per mile 
+telco revenues our bull case the and europe 
+would the key beneficiaries given likely higher penetration 
+and annual data revenues respectively this represents nearly the total automotive 
+data revenue opportunity 
+top down npv analysis doubling 
+telcos market cap 
+use cost analysis over the next years the 
+report learning ride cycle and assume that annual capital 
+source morgan stanley research 
+intensity maintained over time support data growth this leads 
+overall cost between our bull case 
+even competition amongst telcos emerges our work shows 
+assume the telcos capture the value the ecosystem 
+that would not radically alter the attractive fundamentals 
+the automotive opportunity expect the logic for network 
+exhibit 
+sharing and market concentration today global telco markets 
+our bull case see the automotive opportunity npv doubling the 
+remain intact 
+global telcos market cap 
+many questions much time 
+while are optimistic the long term potential for autonomous 
+vehicles connected wireless networks believe that 
+large number questions still need answered with many barriers overcome order get there key questions include how 
+the data business model will look and indeed whether networks will even end playing key role the industry key challenges include consumer perception safety the need create 
+source thomson reuters morgan stanley research 
+ethical and legal framework and the necessity for the industry 
+conquer the last corner cases 
+bottom analysis base case payback 
+years bull case 
+complement our top down scenarios framed bottom test case new york city given the difficulty assessing 
+costs the nationwide level modeled network for 
+new york estimate that investments could total nearly 
+dollars across three key areas small cell more than one base station every corner fiber all locations wired multiple 
+times and core network and others using our 
+base case revenue user framework see pay back time nearly 
+years nearly years under the bull case revenue mile assumptions 
+exhibit 
+autonomous vehicles key questions 
+business model 
+obstacles threats 
+adjacent industries 
+how will global miles traveled grow 
+will consumers trust avs 
+will higher capex ready networks boost 
+equipment makers network technology 
+how will level penetration ramp 
+can the industry overcome the last 
+corners 
+could see consolidation between automotive 
+telecom tech industries 
+how much data will avs generate 
+can networks meet coverage latency needs 
+could avs transform the logistics industry 
+how much data will over vehicle networks 
+how will the industry manage data privacy 
+what will non driving passengers with spare 
+time 
+will telcos paid mile per 
+will avs simply bypass networks 
+could potentially safer avs impact the insurance 
+industry 
+will data consumers pay telcos directly 
+what impact will denser networks have 
+towers and communications infrastructure 
+how much will data network cost build 
+will governments auction licenses 
+will cost lead network monopolies 
+source morgan stanley research 
+how invest this growth theme 
+part our collaborative research efforts across morgan stanley 
+have constructed diversified list stocks that our collective 
+view are best exposed the growth the connected auto 
+economy the list populated irrespective specific month recommendations and therefore includes some underweight rated 
+equities addition equal weight and overweight rated stocks 
+the morgan stanley connected autos meant provide investors with guide this emerging theme 
+morgan stanley research 
+exhibit 
+the morgan stanley connected autos tear sheet 
+company 
+rationale 
+capex concerns have rated chinese telcos decade low valuations this could reverse avs significantly improve revenues and 
+roic 
+enabled network significantly increases tower demand indirectly benefiting their stakes china tower represent market cap 
+asia 
+telecom 
+gary 
+enabled network significantly increases tower demand indirectly benefiting their stakes china tower represent market cap 
+major service provider network planning construction for telcos smart city projects key beneficiary enabled networks 
+avs increase storage demand which key growth driver for data centers sinnet the leading data center player china with high 
+quality assets strong operation track record and rich pipeline 
+asia 
+telecom and internet infrastructure 
+yang liu 
+the company has around nodes nationwide and well positioned the field edge computing 
+global leader design software for autos integration between physical design and design test electronics and software will become 
+increasingly important 
+europe 
+software services 
+adam wood 
+sensors and mapping tech potentially key for roll out 
+orange large mobile capex budget broad fibre footprint and ability partner with french autos make the favorite build french avready network 
+europe largest wireless operator and iot market leader has the greatest capex budget 
+europe 
+telecom services 
+emmet kelly 
+leading european tower provider investing small cells and mobile edge computing revenue diversifying revenues new use cases 
+spain wireless market leader well positioned accommodate its networks via high capital spend nationwide fibre and its digital 
+focus 
+india 
+technology internet telecom and media 
+parag gupta 
+reliance industries has telco subsidiary reliance jio aggressive new entrant with the ambition becoming key digital player 
+latin america 
+technology meda telecom 
+cesar medina 
+japan 
+telecom services 
+tetsuro tsusaka 
+the leader across latam telco markets subs network coverage capex best positioned lead the rollout the region 
+ntt 
+docomo will japan leader while ntt nationwide fiber network key asset for making network ready 
+corning supplies fiber for the additional backhaul and data centers needed enable 
+north america 
+telecom networking equipment 
+james faucette 
+cisco strength enabling connectivity more devices onto the network through its acquisition jasper technologies has 
+software company that eases one the largest pain points for carriers auto manufacturers 
+qualcomm develops radio technology making enabler selling modem chips and licensing their technology into autos 
+generates another revenue stream outside mobile phones today 
+north america 
+telecom networking equipment 
+meta marshall 
+will require much more backhaul and small cells discussed throughout this report commscope provider antenna and small 
+cell technology likely benefit with more connection points 
+leading macro wireless tower small cell and fiber operator focused 
+leading global tower provider investing innovation diversify revenues new use cases 
+north america 
+telecom services 
+simon flannery 
+will leader the per also offers fleet management and connected vehicle solutions globally via hughes telematics 
+fleetmatics and telogis 
+one the leading pure play fiber providers the and europe zayo well positioned support the tremendous bandwidth 
+requirements and implementation 
+equinix the leading global data center operator with highly connected facilities many world key markets 
+south korea 
+telecoms media internet 
+seyon park 
+source company websites morgan stanley research 
+early roll out korea coupled with its superior fiber network positions well preferred vendor from perspective 
+first building block accelerating miles 
+penetration 
+summary two drivers miles 
+when seeking identify the long term data opportunity tam 
+exhibit 
+estimate global miles traveled growing 
+and 
+miles traveled billions 
+total addressable market must first estimate the size the 
+market miles traveled level vehicle have identified two 
+primary dynamics for miles 
+growth global passenger miles and 
+take autonomous vehicles level 
+step miles traveled billions 
+global 
+united states 
+source morgan stanley research estimates 
+morgan stanley research estimates 
+expect the number car passenger miles traveled across the 
+globe rise very markedly from 
+fold increase expect growth will 
+driven primarily emerging markets and asia interestingly esti 
+global autonomous vehicle penetration 
+step notably after 
+mate that miles traveled the will increase cumulative 
+over the same period 
+forecast that level autonomous vehicle take will 
+remain until level autonomy involves full automation steering wheel anywhere not just under controlled conditions more details levels through are outlined appendix 
+autonomy levels 
+exhibit 
+different stages levels autonomous driving 
+source tomtom 
+morgan stanley research 
+nevertheless having studied this topic depth for years and expe 
+interestingly our autonomous vehicle penetration forecasts 
+rienced autonomous vehicle technology first hand are believers 
+are means the most bullish the street allow for far 
+the destination and have modeled the majority the global 
+more logarithmic penetration curve than many forecasts have 
+auto fleet achieving level level fully automated status 
+observed academic and financial circles there are reasons for 
+therefore expect strong and accelerated take between 
+this 
+and reach penetration 
+ethical legal and moral factors and 
+lack bandwidth 
+exhibit 
+estimate that level penetration will reach global miles traveled 
+global autonomous vehicle penetration 
+level 
+source morgan stanley research estimates 
+level 
+level 
+level 
+level 
+the technology how are autonomous 
+vehicles connected 
+three distinct technologies for 
+transmitting data 
+vehicle network simply put vehicle network 
+connecting vehicles with each other via the use the mobile 
+network sim card unlike the previous two connectivity 
+platforms mobile networks ultimately can support the 
+there are three key technologies that are used transmit data 
+transmission any type data 
+and from avs 
+vehicle infrastructure this automobile tech 
+connected cars need mobile networks 
+nology that connects vehicles directly with urban infrastructure road traffic signs lights the purpose this 
+while there doubt that both and will likely play the key 
+platform transmit accurate real time data around the 
+role providing connectivity cars these are the most prevalent 
+state the infrastructure including the curvature and width 
+technologies current trials believe that world where 
+the road information whether particular road 
+there full autonomy mobile networks will need play cru 
+two way colour lights multi lane etc 
+cial role the ecosystem why 
+vehicle vehicle similarly designed 
+allow automobiles talk each other communica 
+human safety our view vehicle connectivity mobile net 
+tions form hoc wireless network the road the pur 
+works can address crashes that cannot otherwise pre 
+pose this platform transmit real time data around 
+vented current technology using camera and sensors 
+driving patterns and relative positioning between vehicles 
+vehicle vehicle platforms short network connected 
+exhibit 
+summary the different connectivity platforms for avs 
+source morgan stanley research 
+morgan stanley research 
+vehicles are not restricted line sight limitations essen 
+cellular vehicle everything while this standard 
+tially data accidents congestion traffic jams road block 
+also peer peer also leverages wireless networks 
+ages could transmitted via 
+lte adv and the future note that based 
+unleashing the power data the key learning from our 
+work and interviews that autonomous vehicles will gen 
+standards that are aligned with the wireless 
+roadmap 
+erate data unprecedented scale essentially even with 
+the continuous evolutions technology local processing 
+interestingly the technology choice for the wider 
+power within vehicles probably not sufficient meaning the 
+association given leverages both cellular lte and 
+use cloud computing becomes essential 
+device device communications moreover can 
+back contingency believe that can prove 
+upgraded accommodate future standards 
+complementary both and technologies indeed 
+believe that can used support the event slow 
+networks capacity blockages outages power cyber attack 
+etc this would similar the way that wireless networks 
+what spectrum will vehicle vehicle 
+networks use 
+and wifi interact 
+while there are common spectrum standards globally for 
+exhibit 
+applications most countries are moving allocate high bandwidth 
+overview connected car ecosystem 
+spectrum for dedicated vehicle vehicle communications specifically most regions are converging towards using the ghz spectrum bands 
+the the fcc reserved one block mhz within the 
+ghz band used intelligent transportation back 
+the technology choice run this band csrc 
+opposed the preferred however this 
+spectrum has been slow deployed while wireless carriers pressing need for further spectrum adds some uncertainty here 
+this similar situation europe where the european telesource qualcomm morgan stanley research 
+communications standards institute allocated block 
+mhz the ghz band for its the moment 
+which mobile standards are used 
+this band technology neutral and csrc can 
+exist 
+while the technological standards for vehicle network communi 
+while china has not formally allocated spectrum towards 
+cations are the same for mobile lte and the auto industry has 
+its remains possible that mhz block allocated the 
+numerous technology solutions support vehicle vehicle 
+ghz band source interestingly china could 
+communication the decision hinges between 
+the first country choosing the primary technology 
+standard for data transmission 
+dsrc direct short range communication this standard 
+peer peer and does not require the use traditional cellular networks vehicles connecting directly with other 
+vehicles this more similar wifi bluetooth technology 
+exhibit 
+overview dedicated vehicle vehicle spectrum positions and holdings globally 
+source fcc morgan stanley research 
+believe that satellite connectivity could also play role 
+indeed outlined stephen spengler ceo intelsat source 
+spectrum coverage issues 
+satellite today jan feb edition you look the long term 
+connecting cars the big market the numbers are enormous con 
+satellite could offer coverage white spots 
+nectivity cars our view going multi faceted there will 
+however the ultra low latency requirement could pose chal 
+number different connections into the car there will 
+lenges for satellite connectivity 
+when parked garage could lte when moving 
+around urban areas may satellite other locations there will 
+multiple connections for multiple purposes the software and mapping information will essential and satellite with its broad and 
+ubiquitous coverage will key part that 
+morgan stanley research 
+potential key enabler for autonomous 
+vehicles 
+wireless networks from and 
+beyond 
+this fact likely particularly true the where wireless 
+wireless operators and their networks have evolved considerably 
+believe that autonomous cars could particularly inter 
+over the past years moving from gsm pre 
+esting for wireless networks this industry use case currently 
+umts and lte network speeds have 
+generates zero revenues profits 
+operators have experienced negative revenue dynamics recent 
+quarters 
+subsequently stepped markedly from mbps theoretical mbps under lte advanced 
+more revolution than evolution 
+new wireless technologies have enabled new applications 
+believe that the emergence will see significant improvel saw the advent wireless data which was supplemented 
+the introduction apple iphone and other 
+ments wireless network performance outlined exhibit 
+below its key characteristics and improvements include 
+smartphones while 
+has been the enabler for wireless video and also aug 
+mented reality more advanced iot 
+faster download speeds should ultimately deliver speeds 
+gbps the speeds lte advanced 
+greater capacity bandwidth per unit area according 
+believe that many global wireless operators will therefore 
+enthusiastic roll out networks given the potential charge 
+users higher fee for higher bandwidth speeds new applications 
+exhibit 
+evolution mobile networks 
+source morgan stanley research estimates 
+gemalto 
+far lower latency this latency will fall from milliseconds 
+just millisecond delay until data received 
+denser networks convergent technology bringing 
+together macro cells small cells and wireline 
+more efficient less network energy consumption pos 
+exhibit 
+autonomous cars smart vehicles etc among the most oft cited use 
+cases for 
+itive from cost perspective 
+exhibit 
+characteristics improvements speed capacity latency reliability efficiency cost when compared with 
+source ericsson morgan stanley research 
+typically consumes three data streams 
+via its sensors and onboard 
+data typically transferred from using various sensors across 
+source nokia 
+autonomous vehicles one the key 
+opportunities 
+the vehicle 
+these sensors include cameras radar vision domain etc 
+the level automation increase does the number 
+sensors 
+exhibit 
+when examining the use cases for central players such qual 
+the sensors for autonomous vehicle 
+comm ericsson and nokia have identified several target markets 
+industries for the new forthcoming mobile technology 
+enhanced mobile broadband 
+virtual augmented reality 
+advanced iot 
+manufacturing robotics 
+education 
+source magna from investor day slides cameras radar ultrasonic for level 
+vision domain controller for level sensor fusion domain controller for level and central domain controller lidar optional software stack 
+healthcare 
+smart cities and 
+assess the potential data opportunity for telcos have split the 
+autonomous cars smart vehicles etc 
+various sources data consumption avs into three areas 
+navigation this perhaps the most important category and 
+includes all aspects navigation including data capture 
+several sensors including lidar radar and cameras however also see the need for real time updates maps 
+applications 
+telematics see avs enabling several use cases tele 
+matics including real time updates car diagnostics overthe air software updates etc 
+morgan stanley research 
+infotainment our first blue paper avs self driving the 
+new industry paradigm our autos shared mobility team 
+exhibit 
+intel estimates data per car per day 
+estimated that avs could ultimately unlock productivity savings worth hours the alone over the long term 
+believe that there high likelihood that some this time 
+invested into infotainment areas which could encompass anything from watching video content netflix 
+sending emails 
+exhibit 
+believe will generate and consume three distinct data sets navigation telematics and infotainment 
+source intel 
+however important highlight that not all this data has value 
+fundamental reason transmitted 
+for example question whether oems will want 
+transmit all the lidar data which stale after few secsource morgan stanley research 
+onds being generated instead believe makes more 
+sense for oems pull periodic intervals case 
+how much data will avs consume 
+needed 
+initial data streams will likely higher data the map 
+ping driving environment collected for the first time but 
+first foremost and most importantly forecasts around data gen 
+this data stream could fade over time 
+eration autonomous vehicles vary very widely 
+result believe the overall amount data avs will 
+note that data from aptiv and intel show that navigation 
+transmit will fraction the absolute hour sta 
+alone could produce hour raw compressed data 
+tistic mentioned earlier our base case around month 
+however consider diagnostics connectivity interior cameras 
+wireless data and our bull case around month 
+cameras telematics and infotainment believe the overall 
+data generation avs could total well over hour 
+exhibit 
+first and second iphones were launched essentially apple iconic 
+according aptiv autonomous car produces uncom 
+device and the subsequent launch android smart phones 
+pressed data hour 
+triggered spike data demands network quality deteriorated 
+number european operators 
+new mobile data applications most recently wireless video continue place strain wireless networks believe that given 
+its significant upload download demand could also place considerable strain mobile network however attempt meet data 
+demands would note expect the following 
+the combination macro sites small cells and fibre 
+the bts should trigger material increase data capacity 
+will provide considerable boost spectral efficiency 
+potentially bringing different bandwidths under the same 
+ran and 
+expect ready networks particularly dense 
+heavily invested 
+source aptiv 
+expect that could account for wireless network 
+what impact will data have mobile 
+networks 
+capacity the europe the ramp particularly pronounced the penetration curve moves more vertical 
+many global mobile operators saw their hspa networks come 
+under considerable pressure immediately after the 
+exhibit 
+could consume wireless network capacity the europe 
+autonomous vehicles contribution mobile networks 
+mobile data traffic avs global data traffic 
+region 
+contribution 
+contribution 
+global 
+united states 
+china 
+europe 
+global 
+source morgan stanley research 
+morgan stanley research 
+material and new opportunity for telcos 
+base case each autonomous vehicle 
+delivers new mobile subscription 
+conversely expect eastern economies see lower reve 
+nues with china and india leading the pack with nearly 
+and respectively 
+discussed the previous section avs will likely transmit significant amounts data 
+exhibit 
+our base case see opportunity for global wireless 
+our base case expect avs use per hour over 
+mobile networks 
+players which expect will largely benefitting and european 
+economies 
+for reference this compares existing wireless data con 
+sumption per month 
+believe that autonomous vehicles can generate similar monthly 
+amounts revenue for telco operators mobile handset subscribers today 
+estimate that average global consumers spend nearly 
+month wireless services 
+separately estimate that the total fleet will reach 
+units with level and autonomy 
+result combining the two above assumptions our base 
+case suggests the global wireless industry could generate nearly 
+data revenues 
+source morgan stanley research 
+bull case telcos capture the 
+autonomous vehicle ecosystem value 
+global basis expect diverging trends amongst the various 
+regions 
+our bull case try size the market assuming that telcos can 
+capture portion the value created the autonomous 
+anticipate that the and europe will benefit with nearly 
+vehicle ecosystem our view good proxy for how much this 
+and revenues respectively this rep 
+could become look the overall wireless telecom contribu 
+resents nearly the total revenue opportunity 
+tion the economy today mobile telco gdp which 
+estimate globally 
+exhibit 
+our base case estimate the global wireless industry could generate automotive revenues 
+source morgan stanley research 
+exhibit 
+similar our base case expect western economies the big 
+the wireless industry represents global gdp 
+beneficiaries this opportunity 
+contribution mobile industry into global economy 
+wireless revenues over nominal gdp 
+estimate that the and europe will benefit with nearly 
+and revenues respectively 
+this represents nearly the total revenue 
+opportunity 
+exhibit 
+expect and european wireless operators capture nearly 
+the total automotive opportunity 
+average 
+china 
+europe 
+source company data worldbank eurostat morgan stanley research estimates 
+assuming that each mile traveled passenger generates revenues 
+line with expectations outlined its capital market 
+day anticipate this could lead nearly cents per 
+mile payment telcos for data services the market 
+when adjusting for less developed markets estimate this figure 
+converges towards cent per mile 
+when combine the above assumptions with our proprietary 
+source morgan stanley research 
+model miles traveled penetration estimate that the wireless industry can generate over data revenues 
+expect the number autonomous car miles 
+what does this mean for global wireless 
+industry revenues 
+year 
+estimate average revenue per mile usd cent 
+growing cagr between 
+estimate the contribution new automotive data revenues 
+could reach global wireless revenues base case 
+this figure would rise telco revenues our bull case 
+exhibit 
+our bull case estimate the global wireless industry could generate nearly data revenues 
+source morgan stanley research estimates 
+morgan stanley research 
+exhibit 
+estimate the contribution new data revenues could reach global wireless revenues base 
+case this data contribution rises our bull case 
+global wireless revenues 
+expressed usd 
+case 
+automotive 
+contribution 
+automotive 
+contribution 
+base 
+bull 
+core revenues 
+automotive revenues base 
+automotive revenues bull 
+source morgan stanley research 
+new dawn for telcos albeit long term 
+near zero telco revenues are currently generated from the 
+auto industry 
+global telcos are struggling generate any top line growth 
+unclear who exactly would pay for telcos services whether 
+notably the and europe 
+the car owner ride share company auto company wholesaler 
+many global telcos particular europe have failed 
+infrastructure company but either way see telcos ultimately 
+monetise the opportunity could ultimately mean that 
+being paid for data service provision 
+far greater success and 
+the need build deep nationwide ready networks 
+believe these revenue streams are particularly important for the 
+could ultimately drive wireless consolidation across the 
+global telco debate why 
+globe 
+however note that the opportunity will have zero impact 
+near term forecasts 
+but what cost 
+vanilla network roll out will 
+expensive 
+potential candidates for such network global context thus could 
+include verizon wireless china mobile ntt docomo japan 
+germany orange france telefonica spain america movil 
+mexico vodafone pan europe 
+rolling out network for wireless handset and iot usage will 
+expensive undertaking for global telco operators indeed 
+believe that faster roll out could help drive take which 
+forecast heavy spend focus several areas not just radio 
+could turn accelerate expansion efforts virtuous circle 
+access including base stations macro and micro fiber wire 
+however slow take could stifle build out leading 
+less spectrum and computing and data storage 
+chicken egg problem 
+expect this spend have taken off china korea japan and 
+exhibit 
+the during not expect capex begin mean 
+the potential chicken egg problem adoption and buildout 
+ingful sense across europe until beyond european operators 
+enhanced bandwidth improved latency 
+enables adoption 
+push effect 
+are rush implement after saw arpus fall hard and 
+think they will wait for lower kit prices 
+rolling out for avs will even more 
+expensive 
+chicken 
+egg 
+problem 
+however estimate that rolling out network for autonomous vehicle application likely prove considerably more 
+expensive enterprise than vanilla project for handsets wireless 
+broadband why 
+buildout 
+adoption 
+white spots must eliminated completely 
+network performance available capacity and especially 
+latency must remain optimal even during periods heavy 
+congestion traffic 
+due this high roll out cost and need for massive network densifica 
+largest iot end market 
+highlights end market size 
+pull effect 
+source morgan stanley research shutterstock 
+tion believe that only networks for autonomous vehicles 
+would built each city 
+would expect this network have the following charac 
+are networks npv positive 
+investment 
+teristics 
+market leader subs revenues and therefore the highest 
+capex budget 
+number one share enterprise and iot 
+our work below shows that automotive data revenues could 
+game changer for the telecoms industry our base case see 
+automotive positive npv opportunity adding nearly 
+the sector market cap more encouragingly anticipate that the 
+automotive opportunity could double the global sector market cap 
+our bull case materialises 
+morgan stanley research 
+our cost assumptions which are the same for our base and bull 
+data growth 
+cases are follows 
+this leads overall cumulative cost between 
+use the cost analysis the report learning ride 
+cycle over the next years and assume that 
+sense check note the absolute cost would imply 
+annual capital intensity maintained over time support 
+multiple times the amount expected have cost upon 
+completion see exhibit below 
+exhibit 
+our bull case see the automotive opportunity npv doubling the global telcos market cap 
+global telco market cap 
+expressed 
+current telco market cap 
+autonomotive opportunity 
+npv base case 
+autonomotive opportunity 
+npv bull case 
+potential telco market cap 
+source morgan stanley research 
+exhibit 
+estimate that global roll out costs will total nearly over the period 
+overview mobile technology 
+expressed 
+deployment 
+costs 
+investment 
+cycle 
+years 
+years 
+years 
+start date 
+end date 
+source morgan stanley research estimates 
+the morgan stanley connected autos 
+part our collaboration across morgan stanley have con 
+ntt docomo ntt via its market leading mobile arm ntt 
+structed diversified list stocks that our collective view 
+docomo expected leader starting the 
+are best exposed the growth the connected auto economy 
+tokyo olympics ntt nationwide fiber network can 
+the list populated irrespective specific month recommenda 
+expected facilitate the smooth launch wireless tech 
+tions and includes some underweight rated names addition 
+nology docomo may also partner with the japanese autos 
+equal weight and overweight rated names the morgan stanley 
+industry 
+connected autos meant provide investors way into this 
+emerging theme 
+orange orange has history being technology leader 
+over dsl smart phones etc and may seek play 
+leading role avs large french cities probably 
+exhibit 
+orange france has the largest wireless capex budget 
+the morgan stanley connected autos 
+will have extensive fibre footprint ftth fibre the base 
+station and may also partner with the blue chip french automotive industry 
+reliance industries the conglomerate telco subsidiary 
+reliance jio india aggressive new entrant has the ambition 
+becoming leading digital player jio has made heavy 
+investments network and fibre 
+telefonica spain wireless market leader well positioned 
+accommodate its networks via high capital spend 
+nationwide fibre and its digital focus 
+verizon verizon wireless mobile market leader has the 
+largest wireless capex budget the and likely lead 
+did verizon connect offers fleet 
+management and connected vehicle solutions globally 
+verizon acquired hughes telematics fleetmatics and telogis 
+source morgan stanley research 
+recent years 
+vodafone europe largest wireless operator and iot market 
+telecom services 
+leader has the greatest capex budget across the european 
+continent 
+america movil market leader subs revenues and largest 
+capex budget across latin america best positioned lead 
+notably mexican cities 
+towers 
+china mobile concerns capex have rated the chi 
+american tower leading global tower provider latam 
+nese telcos decade low valuation levels this situation 
+asia europe investing innovation diversify revenues 
+could ultimately reverse sizable revenue opportunities 
+from avs significantly improve roic 
+new use cases 
+cellnex leading european tower provider present spain 
+china telecom china unicom enabled network 
+italy france switzerland investing small cells and 
+significantly increases tower demand indirectly benefiting 
+mobile edge computing will seek diversify revenues 
+their stakes china tower represent 
+their respective market caps 
+believe kt early roll out korea coupled with 
+new use cases such 
+crown castle leading macro wireless tower small cell and 
+fiber operator focused 
+its superior fiber network positions well preferred 
+vendor from perspective which case could see 
+significant upside its roic profile 
+morgan stanley research 
+other communications infrastructure 
+communications equipment software 
+ccs major service provider network planning con 
+cisco cisco strength connecting more devices onto net 
+struction for telecom operators and smart city projects for 
+work through their acquisition jasper technologies they 
+local governments ccs key beneficiary from the deploy 
+have software company that eases one the largest pain 
+ment enabled network and overall infrastruc 
+points for carriers auto manufacturers helping manage the 
+tures 
+increased number connections setup network man 
+equinix equinix the leading global data center operator 
+agement billing cisco interested making sure they have 
+with highly connected facilities many the world key 
+the most visibility into the network for automation security 
+markets 
+and analytics purposes with autos being one the next 
+sinnet sinnet the leading data center player china with 
+potential sources data 
+high quality assets strong operational track record and 
+commscope will require more fibre backhaul and small 
+rich pipeline avs are expected increase storage demand 
+cells commscope provider antenna and small cell 
+which key growth driver for data centers 
+technology likely benefit with more connection points 
+wangsu the company has around nodes nationwide 
+and well positioned the field edge computing 
+additionally fiber provider they benefit from the expansion backhaul the network 
+zayo one the leading pure play fiber providers the 
+corning similar commscope corning supplies fiber for 
+and europe zayo well positioned support the tremen 
+the additional backhaul and data centers needed enable 
+dous bandwidth requirements and implementation 
+additionally with their acquisition spidercloud they 
+have play the growth small cells well 
+dassault systemes global leader design software for 
+autos integration between physical design and design test 
+electronics and software will become increasingly important 
+hexagon its sensors and mapping technologies are poten 
+tially key for network roll out 
+qualcomm qualcomm develops radio technology making 
+them key enabler selling modem chips and licensing 
+their technology into autos they generate another revenue 
+stream outside mobile phones today additionally qualcomm has developments beyond radio technology working 
+innovations around continuous localization pointing 
+the fact that some the lidar and gps systems being 
+thought today for are prohibitively expensive 
+test case enabling autonomous driving 
+new york city 
+case point new york city 
+given the difficulty assessing the cost implications 
+rolling out network support autonomous 
+vehicles nationwide levels attempted 
+model how could look city level using new york 
+city reference point 
+upfront investments totaling new 
+york city 
+our work assumes the network investments cover this area 
+could total nearly dollars these investments are across 
+three key areas 
+small cells assume more than one base sta 
+our work assumes the network investments cover 
+tion needed every corner reaching total nearly 
+this area could total nearly dollars these 
+remote units covering miles streets estimate 
+investments are across three key areas small cell 
+each unit can cost which leads total cost 
+more than one base station every corner fiber all 
+locations wired multiple times core network and 
+fiber assume all streets are wired multiple 
+others 
+times order connect each remote unit which leads 
+order calculate the returns those investments 
+total investment 
+differentiate amongst the two different pricing 
+models 
+our base case see pay back time nearly years 
+core network and others assume investments 
+the core network and other areas including data centers 
+nearly 
+use our framework pricing per vehicle assuming 
+each vehicle generates revenues similar handset 
+our bull case see pay back times nearly years 
+use our framework pricing per mile which assumes 
+exhibit 
+model network investments order roll out supporting autonomous vehicles new york city 
+telecoms can capture percentage the overall value 
+autonomous driving total pool mile 
+source morgan stanley research 
+morgan stanley research 
+below highlight how illustrative network roll out could look note the increase network densification new active base stations 
+currently less than 
+exhibit 
+overview potential roll out new york city 
+source morgan stanley research 
+return investments between and years 
+our base case see pay back time nearly years 
+use our framework pricing per vehicle assuming each 
+order calculate the returns those investments differentiate amongst the two different pricing models discussed material and new opportunity for telcos 
+vehicle generates revenues similar handset 
+our bull case see pay back times nearly years 
+use our framework pricing per mile which assumes telecoms can capture percentage the overall value autonomous driving total pool mile 
+exhibit 
+our illustrative work shows that returns telecom investments vary widely depending the pricing model per vehicle per mile 
+source morgan stanley research 
+impact multiple carriers 
+network sharing assume that operators will aim share 
+passive and active infrastructure the highest degree posso far have made the assumption that only one operator usually 
+sible note that today nearly the passive tower infra 
+the market leader with the best network will capture the automo 
+structure one the most expensive investments 
+tive opportunity however there also the possibility that competi 
+shared across multiples operators the this leads 
+tion can appear this market 
+more efficient capital deployments 
+our work below shows that even competition amongst telcos 
+emerges should not radically alter the attractive fundamentals the automotive opportunity see two key reasons for 
+this 
+market structure would expect two players 
+effectively compete the automotive segment note that 
+there reason for automotive connectivity different 
+than the enterprise markets today where there 
+monopoly duopoly structure most countries 
+morgan stanley research 
+below show illustrative example how this can affect the pay back periods 
+exhibit 
+believe that competition amongst telecom providers capture the automotive opportunity would lower returns but not disrupt the business 
+case 
+source morgan stanley research 
+the potential impact connected cars 
+adjacent industries 
+what industries can benefit from 
+connected cars 
+infrastructure towers expect that will drive signifi 
+believe that connected cars will have meaningful impact 
+insurance analytics believe that connected cars could 
+large number adjacent industries beyond telco automotive 
+reduce accidents and therefore insurance costs services 
+shared mobility affected industries could include 
+could tap into the global auto premium market which 
+cant incremental need for telco towers host macro cells 
+small cells and fibre the base station services that are all 
+provided towercos 
+currently value year 
+technology equipment makers and also edge computing 
+emergency services believe that connected cars could 
+believe that ready networks will require very sig 
+provide critical support significant scale the event 
+nificant investment telcos over years capex macro 
+accidents natural disasters etc 
+cells but also small cells fibre and backhaul this 
+governmental fiscal functions with inevitable decline 
+investment cycle bodes well for telco equipment manufac 
+car fuel sales usage taxes other tolls could used pay 
+turers believe moreover also see critical need and 
+for critical transportation infrastructure 
+role for edge computing when building ready network this analysed greater detail appendix where 
+does vehicle intelligence reside 
+logistics the ability transport things more efficiently 
+could other industries try eat into 
+telcos opportunity 
+estimate that the global logistics market worth and 
+growing strongly illustration and outlined our 
+while believe telecoms are the natural providers connectivity 
+recent research and amazon the car mobile ware 
+the autonomous vehicle ecosystem note that there could 
+house april our internet analyst brian nowak estimates 
+alternatives 
+that amazon will spend fulfillment and shipping 
+number that projects heading 
+car manufacturers oems ford believe 
+the efficient flow products and goods has room for 
+conceivable that some automotive companies would want 
+improvement view whereby connected cars could 
+control all the elements the autonomous car value chain 
+emerge mobile warehouses our estimates suggest that 
+this could include provisioning connectivity from tech 
+cars currently have cubic feet mobile warehouse 
+nical perspective could possible the car makers 
+space 
+entered into roaming wholesale data contract with telcos 
+media content advertising estimate that humans 
+transportation infrastructure operators abertis atlantia 
+spend hours cars annually forecast time 
+infrastructure companies could seek leverage their 
+car reach hours autonomous cars will 
+existing asset bases and offer smarter provisioning connec 
+see this time freed passengers would longer need 
+tivity within their geographical footprints from technical 
+focus their attention solely driving connected car 
+perspective these companies could sign dedicated network 
+will likely offer immersive low latency ultra high band 
+slicing agreement with telco 
+width environment for the consumption audio visual con 
+dedicated connectivity providers believe that adjacent 
+tent think the inside the car becoming something 
+industries could attempt enter the autonomous car eco 
+similar imax this service could also expand the market 
+system examples this move could communications 
+for players like facebook and netflix moreover could see 
+infrastructure owners tower companies fiber operators 
+emerging market for search suggested advertising gener 
+insurers technology companies developing self driving 
+ated cars similar the model that accounts for 
+cars from technical perspective this could possible 
+google total revenues 
+these entered into roaming wholesale contract with 
+morgan stanley research 
+telcos 
+however important highlight that under all these scenarios 
+even there direct retail monetization telcos direct 
+billing relationship with the car owner wholesale revenues 
+mobile network operators could increase markedly 
+exhibit 
+competing alternatives provision connectivity autonomous vehicles 
+source morgan stanley research 
+who attempting connect vehicles 
+background 
+ford qualcomm nokia october ford 
+nokia and qualcomm announced launch technology trials the san diego region the goal these trials 
+the number autonomous vehicle projects accelerating 
+progress also gathering pace group the efforts have seen 
+far into three broad categories 
+demonstrate the potential technologies 
+vodafone bosch huaweii january vodafone bosch 
+and huaweii partnered integrate with adaptive 
+cruise control systems these work maintain constant 
+single company approach 
+multilateral partnerships and 
+cross industry efforts and bodies 
+speed specified driver and pre set distance the 
+vehicle front using radar 
+electronics qualcomm october electronics 
+announced partnership with qualcomm jointly develop 
+single company approach 
+range connected car solutions this will include establishing joint research center south korea develop 
+technologies 
+there have been several attempts connecting cars automotive 
+huaweii saic motor china mobile during the mobile world 
+companies without much external cooperation below highlight 
+congress shanghai june china mobile saic motor 
+some the most relevant efforts 
+and huaweii technologies jointly showed live demonstration based remote driving using technology 
+general motors the detroit based company has been one 
+vodafone jaguar land rover during february the trio 
+the most active automotive companies attempting con 
+british corporates launched effort provide real 
+nect vehicles november was the first auto 
+world testing environment for both and iee 
+maker demonstrate technology combined with 
+csrc 
+automatic braking with the csrc standard later con 
+deutsche telekom huaweii audi during july deutsche 
+tinued develop the concept technology with its chev 
+telekom huaweii and audi announced the first trial 
+rolet brand earlier last year launched the first 
+commercial vehicle equipped with via its cadillac cts 
+model 
+technology germany motorway 
+deutsche telekom fraunhofer esk hexagon nokia 
+march fraunhofer esk hexagon and nokia 
+volkswagen june volkswagen announced will 
+reported success achieving very precise positioning accu 
+equipping its vehicles with technology sim 
+racy for vehicles the range centimeters the use mec 
+ilar the technology used will based csrc stan 
+allowed for dissemination regional location data many 
+dards ieee 
+cars the same time rather than sending each car individual 
+location data thus reducing network traffic fraunhofer esk 
+multilateral partnerships 
+has noted that using mec enables end end communication delays below milliseconds 
+deutsche telekom nokia continental november 
+more recently several companies announced joint projects towards 
+group companies including deutsche telekom nokia and 
+providing autonomous vehicle connectivity below highlight 
+continental demonstrated real time dt lte net 
+some the most relevant efforts 
+work and mobile edge computing germany 
+psa and qualcomm february psa group and qual 
+comm announced advancements testing both companies will attempt show live progress the out 
+digital mobility conference france 
+morgan stanley research 
+exhibit 
+overview key global players working vehicle connectivity 
+company data morgan stanley research 
+cross industry bodies 
+test beds and pilots 
+standards and spectrum 
+business models and market strategies 
+finally note there have been cross industry efforts towards connecting autonomous vehicles avs particular highlight the 
+for more information please read appendix overview 
+automotive association which was created september 
+uniting large cross industry member base this includes 
+exhibit 
+automotive manufacturers tier telco equipment suppliers 
+global automotive telecom and technology industries are working 
+chipset communication system providers mobile operators and 
+towards connecting future autonomous vehicles 
+infrastructure vendors 
+since its inception this group has worked towards defining and 
+developing the next generation connected mobility and automated vehicle solutions interestingly the association believes that 
+will prove the ultimate platform enable cooperative intelligent transportations systems its 
+carry out its vision the various members the are working 
+five different streams 
+use cases and technical requirements 
+system architecture solution development and evaluation 
+source company data morgan stanley research 
+what are the roadblocks connected selfdriving vehicles 
+general barriers 
+trust technology and perceptions safety and 
+control 
+ethical and legal 
+the american automobile association aaa disclosed that 
+drivers surveyed felt less safe the possibility sharing 
+autos analyst adam jonas believes the single biggest impediment 
+the road with self driving cars while some said they would 
+mass adoption autonomous cars the untested legal precedent 
+afraid riding self driving car gartner research found that the 
+and the absence ethical framework behind decision making 
+and germany the majority people would comfort 
+public roads often involving life and death decisions for 
+able riding partially autonomous vehicle 
+example the issues behind the moral equivalency between distracted human driver and robot driver pose extremely difficult 
+technology cost 
+problem our opinion over global miles traveled 
+operated cars without steering wheels that would extremely 
+with most new technologies the cost likely initially high 
+impressive number 
+this cost should decline over time per moore law illustration hella revealed total cost for sensors and cameras 
+the conquering the last corner cases could 
+prove difficult 
+part its demo however according recent study from ihs 
+automotive the incremental price for the self driving technology 
+will add car price figure that expected 
+some driving scenarios will cause trouble for autonomous car 
+drop and 
+whereas human driver can navigate these situations far more effectively the issues behind the trillions real world driving scenarios 
+data privacy and security 
+are concerns that the industry needs confront this early stage 
+and increasingly over time far only fraction these scenarios 
+data collected connected cars increasingly personal location 
+are likely have been mapped using data from estimated 
+speed usual commute planned trips etc however consumers seem 
+fully autonomous miles driven the date for example illus 
+willing share their data where they see the benefit both conve 
+trate the scale the problem alphabet waymo leader has 
+nience and safety recent survey mckinsey suggested that 
+only recently exceeded real world autonomous miles driven since 
+consumers are willing share data when the feature safety 
+miles driven per year globally 
+convenience related across geographies however could see 
+consumers reticent share their data situations where being 
+regulatory social forces exerting influence 
+shared with third parties and there clear benefit addition 
+cars become more connected the risk cyber attacks will increase 
+there have been two highly publicised and tragic incidents late 
+and consumers are likely focus the security their cars vulner 
+the industry autonomous driving efforts saw first pedestrian 
+abilities connected cars have already been identified through the 
+fatality march when uber autonomous vehicle collided 
+remote hacking the jeep cherokee which led fiat chrysler 
+with pedestrian march tesla crashed while auto 
+recall million vehicles such companies will need 
+pilot leading passenger fatality these events may lead 
+mindful security connected cars develop particularly europe 
+increasing scrutiny and restrictions for autonomous vehicle testing 
+with the introduction the general data protection regulation 
+late march uber was forbidden from resuming self driving 
+may which will enforce substantial fines for non compliance 
+tests the state arizona while the wider public may more 
+reluctant adopt 
+morgan stanley research 
+technological barriers 
+technology standard definition 
+while believe that mobile networks will become the main con 
+mobile networks coverage 
+nectivity platforms for vehicles note that the role vehicle tovehicle communications will crucial that end the wider 
+autonomous vehicles may need universal and ubiquitous connec 
+industry needs agree what technological standards must 
+tivity function order meet these demands current mobile 
+used which connects cars with networks and sup 
+networks need continue evolve expanding geographical cov 
+ported the wider body csrc which has seen the highest 
+erage and overall capacity weak network signal could negatively 
+adoption far particularly the 
+impact performance mobile white spots could trigger weakened 
+functionality need switch human driver 
+processing power and storage 
+the need improve mobile network latency 
+our estimates are right the data volumes processed cars the 
+cloud locally will quite elevated that extent believe that 
+the time send receive data critical the performance safety 
+processing power improvements are needed get there equally 
+features autonomous vehicle promises far lower latency 
+should oems want exploit the data generated avs they will 
+millisecond milliseconds for 
+need build data storage capacity which doesn exist today 
+other questions 
+exhibit 
+overview key questions within the autonomous vehicles debate 
+business model 
+obstacles threats 
+adjacent industries 
+how will global miles traveled grow 
+will consumers trust avs 
+will higher capex ready networks boost 
+equipment makers network technology 
+how will level penetration ramp 
+can the industry overcome the last 
+corners 
+could see consolidation between automotive 
+telecom tech industries 
+how much data will avs generate 
+can networks meet coverage latency needs 
+could avs transform the logistics industry 
+how much data will over vehicle networks 
+how will the industry manage data privacy 
+what will non driving passengers with spare 
+time 
+will telcos paid mile per 
+will avs simply bypass networks 
+could potentially safer avs impact the insurance 
+industry 
+will data consumers pay telcos directly 
+what impact will denser networks have 
+towers and communications infrastructure 
+how much will data network cost build 
+will governments auction licenses 
+will cost lead network monopolies 
+source morgan stanley research 
+morgan stanley research 
+appendix autonomy levels 
+autonomous driving can classified into different levels from tra 
+level partially autonomous vehicle autopilot performs 
+ditional vehicles level fully autonomous vehicles level the 
+driving task under defined circumstances such low speed 
+sae international society automotive engineers has developed 
+traffic jams but human driver required respond 
+grading system presented sae 
+request intervene 
+level partially autonomous vehicle autopilot performs 
+level traditional vehicle vehicles today where human 
+the driving task under defined circumstances such low 
+full control the vehicle all times may include early 
+speed traffic jams and urban driving even human driver 
+warnings intervention system 
+does not respond when requested 
+level adas vehicles vehicles where steering braking 
+level fully autonomous vehicle driving task solely 
+acceleration are augmented driver assistance system 
+performed autopilot all roadway and environmental 
+but human performs all remaining aspects the dynamic 
+conditions humans act only passengers humans are 
+driving task adaptive cruise control emergency braking 
+required for vehicle operation 
+lane control 
+level adas vehicles vehicles where steering and 
+braking acceleration are done driver assistance system 
+but human performs all remaining aspects the dynamic 
+driving task 
+exhibit 
+different stages levels autonomous driving 
+source tomtom 
+appendix overview 
+mission vision 
+exhibit 
+global automotive telecom and technology industries are working 
+towards connecting future autonomous vehicles 
+the automotive association was created september 
+uniting large cross industry member base since its inception 
+this group has worked towards defining and developing the next generation connected mobility and automated vehicle solutions 
+the supports the idea that will the ultimate plat 
+form enable cooperative intelligent transportations systems its and the provision wireless vehicle 
+communications vehicle everything will 
+able better carry mission critical communications for safer 
+driving and further support enhanced communications 
+and connected mobility solutions 
+source company data morgan stanley research 
+members 
+working groups 
+inception was created founding members which 
+the working groups develop the frameworks practical 
+included audi bmw group daimler ericsson huawei intel 
+aspects required standards and business cases for and the future 
+nokia and qualcomm since then has rapidly expanded include 
+application connected mobility solutions has five working 
+key players with global footprint the automotive technology and 
+groups 
+telecom industries this includes 
+use cases technical requirements 
+automotive manufacturers 
+system architecture solution development 
+tier suppliers 
+evaluation testbeds and pilots 
+chipset communication system providers 
+standards spectrum and 
+mobile operators and 
+business models market strategies 
+infrastructure vendors 
+february encompassed more than members 
+governance 
+the association comprised two main governance bodies 
+board the board supervises and advises the executive 
+committee all material respects particular with regard 
+strategic considerations the board composed sixteen 
+members elected the general assembly every year 
+executive committee reporting the board the executive 
+committee the legal representative body the association 
+and responsible for the day day management the 
+the executive committee consists three persons 
+morgan stanley research 
+exhibit 
+overview governance structure 
+source 
+appendix where does vehicle intelligence 
+reside 
+vehicle intelligence and where resides key topic within the 
+until now most the efforts from the leading players autono 
+autonomous vehicle debate this topic has far reaching implications 
+mous vehicles have centered vehicles that can work with little 
+regarding what connectivity autonomous vehicles will need there 
+connectivity this exemplified tesla and google projects auto 
+are two distinct models 
+pilot and waymo which not rely connectivity traditional 
+wireless networks 
+intelligence the car the fundamental dynamics behind 
+this model equip the car with sensors and processors 
+however the long run believe that autonomous vehicles 
+let drive itself short the sensors within the vehicle 
+would need partially cloud based for two simple reasons 
+collect data its immediate surroundings this data then 
+local processing power not enough datasets are large they 
+processed within the car computer allowing react 
+can stored the vehicle 
+quickly and proactively situations and obstacles tesla 
+making the largest steps towards this technology with their 
+autopilot system which uses camera sensors sonar and 
+radar data processed via onboard computer 
+edge computing more effective cloudbased system 
+intelligence the cloud the principle behind keeping the 
+intelligence the cloud tell the car where from 
+multi access edge computing mec moves some the data 
+centralised location having the intelligence kept the 
+workload edge device the edge the network that 
+cloud would allow autonomous vehicle interact with 
+located physically closer the end user reducing latency net 
+smart city macro network other vehicles pedestrians and 
+work congestion and data management costs the concept sim 
+infrastructure this can perhaps increase the safety the 
+ilar cacheing data mec compares with centralised cloud 
+overall network central system could directing the 
+computing where data transmitted processed and stored 
+entire ecosystem real time the drawback with this 
+central data centre 
+approach that requires initial upfront investment the 
+infrastructure and mapping well mobile networks with 
+the context avs mobile edge computing platform essentially 
+low latency ubiquitous mobile connectivity allow the 
+miniature data centre installed local base station then 
+car adapt react sudden changes 
+when autonomous vehicle needs process new data debris 
+the local highway road works etc data could sent the local 
+exhibit 
+mec platform for analysis and then sent back the car very quickly 
+see two different models where process and store the data 
+with the appropriate instructions further improve immediate 
+needed drive autonomous car 
+safety the data could also sent other avs the same road 
+advanced warning potential hazard 
+source morgan stanley research 
+morgan stanley research 
+exhibit 
+overview main differences between cloud and edge computing 
+source morgan stanley research 
+edge computing combines the best intelligence the cloud 
+decreases latency and therefore response times improves 
+and intelligence car essentially low latency with high 
+improved safety intelligence the car edge computing 
+safety 
+still enables smart city macro network for example data 
+about potential hazard encountered one can sent 
+faster response times intelligence the cloud the 
+all avs the area 
+physical distance between and the data processing 
+exhibit 
+edge computing can turbo charge the benefits cloud computing autonomous vehicles 
+source morgan stanley research 
+appendix autonomous vehicles data model 
+exhibit 
+global autonomous miles data model 
+global 
+level 
+level 
+level 
+level 
+level 
+miles billions 
+level 
+level 
+level 
+level 
+level 
+hours billions 
+level 
+level 
+level 
+level 
+level 
+data 
+level 
+level 
+level 
+level 
+level 
+wireless 
+level 
+level 
+level 
+level 
+level 
+total wireless 
+level 
+level 
+level 
+level 
+level 
+penetration 
+source morgan stanley research estimates 
+morgan stanley research 
+exhibit 
+autonomous miles data model 
+united states 
+level 
+level 
+level 
+level 
+level 
+miles billions 
+level 
+level 
+level 
+level 
+level 
+hours billions 
+level 
+level 
+level 
+level 
+level 
+data 
+level 
+level 
+level 
+level 
+level 
+wireless 
+level 
+level 
+level 
+level 
+level 
+total wireless 
+level 
+level 
+level 
+level 
+level 
+penetration 
+source morgan stanley research estimates 
+exhibit 
+china autonomous miles data model 
+china 
+level 
+level 
+level 
+level 
+level 
+miles billions 
+level 
+level 
+level 
+level 
+level 
+hours billions 
+level 
+level 
+level 
+level 
+level 
+data 
+level 
+level 
+level 
+level 
+level 
+wireless 
+level 
+level 
+level 
+level 
+level 
+total wireless 
+level 
+level 
+level 
+level 
+level 
+penetration 
+source morgan stanley research estimates 
+morgan stanley research 
+exhibit 
+europe autonomous miles data model 
+europe 
+level 
+level 
+level 
+level 
+level 
+miles billions 
+level 
+level 
+level 
+level 
+level 
+hours billions 
+level 
+level 
+level 
+level 
+level 
+data 
+level 
+level 
+level 
+level 
+level 
+wireless 
+level 
+level 
+level 
+level 
+level 
+total wireless 
+level 
+level 
+level 
+level 
+level 
+penetration 
+source morgan stanley research estimates 
+exhibit 
+japan autonomous miles data model 
+japan 
+level 
+level 
+level 
+level 
+level 
+miles billions 
+level 
+level 
+level 
+level 
+level 
+hours billions 
+level 
+level 
+level 
+level 
+level 
+data 
+level 
+level 
+level 
+level 
+level 
+wireless 
+level 
+level 
+level 
+level 
+level 
+total wireless 
+level 
+level 
+level 
+level 
+level 
+penetration 
+source morgan stanley research estimates 
+morgan stanley research 
+exhibit 
+india autonomous miles data model 
+india 
+level 
+level 
+level 
+level 
+level 
+miles billions 
+level 
+level 
+level 
+level 
+level 
+hours billions 
+level 
+level 
+level 
+level 
+level 
+data 
+level 
+level 
+level 
+level 
+level 
+wireless 
+level 
+level 
+level 
+level 
+level 
+total wireless 
+level 
+level 
+level 
+level 
+level 
+penetration 
+source morgan stanley research estimates 
+exhibit 
+rest world autonomous miles data model 
+rest world 
+level 
+level 
+level 
+level 
+level 
+miles billions 
+level 
+level 
+level 
+level 
+level 
+hours billions 
+level 
+level 
+level 
+level 
+level 
+data 
+level 
+level 
+level 
+level 
+level 
+wireless 
+level 
+level 
+level 
+level 
+level 
+total wireless 
+level 
+level 
+level 
+level 
+level 
+penetration 
+source morgan stanley research estimates 
+morgan stanley research 
+appendix automotive data revenue model 
+exhibit 
+automotive data traffic impact global mobile networks 
+data traffic 
+cagr 
+cagr 
+cagr 
+mobile data traffic year 
+cagr 
+cagr 
+cagr 
+mobile data traffic autonomous cars 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+growth analysis 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+growth analysis 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+mobile data for autonomous cars 
+total mobile data traffic 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+contribution total mobile data 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+source morgan stanley research estimates 
+exhibit 
+automotive data revenue model 
+data monetization 
+cagr 
+cagr 
+cagr 
+base case 
+cagr 
+cagr 
+cagr 
+number autonomous miles level 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+average miles per vehicle year 
+number autonomous vehicles level 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+average revenue per vehicle month 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+growth average revenue per vehicle 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+telecom revenues from avs 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+bull case 
+cagr 
+cagr 
+cagr 
+number autonomous miles level 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+average revenue per mile mile 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+growth average revenue per mile 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+telecom revenues from avs 
+united states 
+china 
+europe 
+japan 
+india 
+rest world 
+global 
+source morgan stanley research estimates 
+morgan stanley research 
+morgan stanley international plc morgan stanley acting financial advisor vodafone group plc vodafone relation 
+proposed merger vodafone india limited excluding vodafone stake indus towers and idea cellular limited referred 
+vodafone press release published march there certainty that any transaction will agreed nor the terms 
+timing any transaction vodafone may pay fees morgan stanley for its financial services please refer the notes the end 
+the report 
+morgan stanley international plc morgan stanley acting financial advisor vodafone group plc and vodafone international holdings together vodafone relation the proposed merger vodafone india limited shareholding indus towers 
+limited into bharti infratel limited announced april vodafone may pay fees morgan stanley for its financial services 
+please refer the notes the end the report 
+morgan stanley llc morgan stanley acting financial advisor deutsche telekom dt and providing financing 
+services relation mobile usa inc mobile for the proposed acquisition mobile sprint communications inc sprint 
+announced april the transaction subject approval mobile and sprint shareholders and other customary 
+closing conditions and mobile have agreed pay fees morgan stanley for its financial services that are contingent upon the 
+consummation the transaction please refer the notes the end the report 
+disclosure section 
+the information and opinions morgan stanley research were prepared are disseminated morgan stanley llc and morgan stanley and morgan stanley xico 
+casa bolsa and morgan stanley canada limited and morgan stanley international plc and rmb morgan stanley proprietary limited and morgan stanley mufg 
+securities ltd and morgan stanley capital group japan ltd and morgan stanley asia limited and morgan stanley asia singapore pte registration number 
+and morgan stanley asia singapore securities pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its 
+contents and should contacted with respect any matters arising from connection with morgan stanley research and morgan stanley taiwan limited and morgan stanley 
+international plc seoul branch and morgan stanley australia limited holder australian financial services license which accepts responsibility 
+for its contents and morgan stanley wealth management australia pty ltd holder australian financial services license which accepts responsibility 
+for its contents and morgan stanley india company private limited regulated the securities and exchange board india sebi and holder licenses research analyst sebi 
+registration stock broker bse registration and nse registration inb merchant banker sebi registration 
+and depository participant with national securities depository limited sebi registration nsdl which accepts the responsibility for its contents and should contacted 
+with respect any matters arising from connection with morgan stanley research and morgan stanley sekuritas indonesia and their affiliates collectively morgan stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan stanley research disclosure website 
+morganstanley researchdisclosures contact your investment representative morgan stanley research broadway attention research management new york 
+usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client support team follows canada 
+hong kong latin america london singapore sydney tokyo 
+alternatively you may contact your investment representative morgan stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they have not received and will not 
+receive direct indirect compensation exchange for expressing specific recommendations views this report ricard boada james faucette simon flannery victoria greer harald 
+hendrikse victoria irving adam jonas cfa emmet kelly armintas sinkevicius cfa cpa gary 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+april morgan stanley beneficially owned more class common equity securities the following companies covered morgan stanley research asbury automotive 
+group inc ferrari fiat chrysler automobiles ford motor company goodyear tire rubber company group automotive inc harley davidson inc lithia motors inc tesla inc 
+within the last months morgan stanley managed managed public offering offering securities aptiv plc ford motor company general motors company tesla inc 
+within the last months morgan stanley has received compensation for investment banking services from aptiv plc avis budget group inc delphi technologies plc fiat chrysler automobiles 
+ford motor company general motors company tenneco inc tesla inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from aptiv plc avis budget group inc borgwarner inc delphi 
+technologies plc ferrari fiat chrysler automobiles ford motor company general motors company goodyear tire rubber company harley davidson inc lear corporation magna 
+international inc tenneco inc tesla inc visteon corporation 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from american axle manufacturing holdings inc 
+aptiv plc avis budget group inc borgwarner inc fiat chrysler automobiles ford motor company general motors company goodyear tire rubber company harley davidson inc lear 
+corporation tenneco inc tesla inc visteon corporation 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with the following company aptiv plc 
+avis budget group inc borgwarner inc delphi technologies plc ferrari fiat chrysler automobiles ford motor company general motors company goodyear tire rubber company 
+harley davidson inc lear corporation magna international inc tenneco inc tesla inc visteon corporation 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has entered into agreement provide 
+services has client relationship with the following company american axle manufacturing holdings inc aptiv plc avis budget group inc borgwarner inc fiat chrysler automobiles 
+ford motor company general motors company goodyear tire rubber company harley davidson inc lear corporation sonic automotive inc tenneco inc tesla inc visteon corporation 
+morgan stanley llc makes market the securities american axle manufacturing holdings inc aptiv plc asbury automotive group inc autonation inc avis budget group inc 
+borgwarner inc carmax inc delphi technologies plc ferrari fiat chrysler automobiles ford motor company general motors company goodyear tire rubber company group 
+automotive inc harley davidson inc lear corporation lithia motors inc magna international inc penske automotive group inc sonic automotive inc tenneco inc tesla inc visteon 
+corporation 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality 
+research investor client feedback stock picking competitive factors firm revenues and overall investment banking revenues equity research analysts strategists compensation not 
+morgan stanley research 
+linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing liquidity fund management 
+commercial banking extension credit investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered 
+morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed this report morgan stanley trades may trade 
+principal the debt securities related derivatives that are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan stanley does not assign ratings buy 
+hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell investors should carefully read the definitions all 
+ratings used morgan stanley research addition since morgan stanley research contains more complete information concerning the analyst views investors should carefully read morgan 
+stanley research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+april 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our ratings overweight equal weight 
+not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell but represent recommended relative weightings see definitions below satisfy regulatory requirements correspond overweight our most positive stock rating 
+with buy recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating category 
+other material investment services clients 
+investment banking clients ibc 
+misc 
+count 
+total 
+count 
+total ibc 
+rating category 
+count 
+total other misc 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment banking compensation the 
+last months due rounding off decimals the percentages provided the total column may not add exactly percent 
+analyst stock ratings 
+overweight over the stock total return expected exceed the total return the relevant country msci index the average total return the analyst industry industry 
+team coverage universe risk adjusted basis over the next months 
+equal weight equal the stock total return expected line with the total return the relevant country msci index the average total return the analyst industry 
+industry team coverage universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the relevant country msci index the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight under the stock total return expected below the total return the relevant country msci index the average total return the analyst industry industry 
+team coverage universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad market benchmark indicated 
+below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc morgan stanley any 
+their affiliates are available the morgan stanley wealth management disclosure website morganstanley online researchdisclosures for morgan stanley specific disclosures 
+you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the same person who reviews 
+the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities avis budget group inc borgwarner inc fiat chrysler automobiles ford 
+motor company general motors company goodyear tire rubber company magna international inc penske automotive group inc tenneco inc tesla inc 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based developments with the issuer the 
+sector the market that may have material impact the research views opinions stated therein addition certain research publications are intended updated regular periodic 
+basis weekly monthly quarterly annual and will ordinarily updated with that frequency unless the research analyst and research management determine that different publication 
+schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning section the 
+dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the recommendations views expressed 
+research the same stock this may the result differing time horizons methodologies market events other factors for all research available particular stock please contact 
+your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients certain but not all morgan 
+stanley research products are also made available clients through third party vendors redistributed clients through alternate electronic means convenience for access all 
+available morgan stanley research please contact your sales representative matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and using morgan stanley 
+research you are indicating that you have read and agree bound our terms use http morganstanley terms addition you consent morgan stanley processing 
+your personal data and using cookies accordance with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes 
+setting your preferences and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan stanley 
+processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances and objectives those 
+who receive morgan stanley recommends that investors independently evaluate particular investments and strategies and encourages investors seek the advice financial adviser 
+the appropriateness investment strategy will depend investor circumstances and objectives the securities instruments strategies discussed morgan stanley research 
+may not suitable for all investors and certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary because changes 
+interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational financial conditions companies other factors there 
+may time limitations the exercise options other rights securities instruments transactions past performance not necessarily guide future performance estimates future 
+performance are based assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject 
+company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based upon various factors 
+including quality accuracy and value research firm profitability revenues which include fixed income trading and capital markets profitability revenues client feedback and competitive 
+factors fixed income research analysts strategists economists compensation not linked investment banking capital markets transactions performed morgan stanley the 
+profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns more class 
+common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley may have investment less than securities instruments 
+derivatives securities instruments companies and may trade them ways different from those discussed morgan stanley research employees morgan stanley not involved 
+the preparation morgan stanley research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable comprehensive 
+information but make representation that accurate complete have obligation tell you when opinions information morgan stanley research change apart from 
+when intend discontinue equity research coverage subject company facts and views presented morgan stanley research have not been reviewed and may not reflect information 
+known professionals other morgan stanley business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company associated expenses unless 
+pre approved authorized members research management 
+morgan stanley research 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl 
+such information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research 
+may not distributed the public media quoted used the public media without the express written consent morgan stanley any non customer reader within the scope article 
+the taiwan stock exchange recommendation regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party 
+including but not limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create give the 
+appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments 
+certain information morgan stanley research was sourced employees the shanghai representative office morgan stanley asia limited for the use morgan stanley asia limited 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not constitute offer sell 
+the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest such securities and shall responsible for obtaining all relevant 
+approvals licenses verifications and registrations from the relevant governmental authorities themselves neither this report nor any part intended shall constitute provision 
+any consultancy advisory service securities investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa which regulated comision nacional 
+bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico city japan morgan stanley mufg securities ltd and for commodities 
+related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley 
+asia international limited hong kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte 
+ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should contacted with respect any 
+matters arising from connection with morgan stanley research and morgan stanley asia international limited singapore branch registration number australia 
+wholesale clients within the meaning the australian corporations act morgan stanley australia limited holder australian financial services license 
+which accepts responsibility for its contents australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management 
+australia pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan stanley international 
+plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas indonesia canada morgan stanley canada limited which has 
+approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the 
+spanish securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct applicable financial 
+research established under spanish regulations the morgan stanley llc which accepts responsibility for its contents morgan stanley international plc authorized 
+the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory authority disseminates the research that has prepared and approves 
+solely for the purposes section the financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited 
+member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan stanley research being disseminated 
+morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services authority the dfsa 
+and directed professional clients only defined the dfsa the financial products financial services which this research relates will only made available customer who 
+are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre regulatory authority 
+the qfcra and directed business customers and market counterparties only and not intended for retail customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment advisory activity investment 
+advisory service provided exclusively persons based their risk and income preferences the authorized firms comments and recommendations stated here are general nature these 
+opinions may not fit your financial status risk and return preferences for this reason make investment decision relying solely this information stated here may not bring about 
+outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties representations relating 
+the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating such data the global industry classification standard gics was 
+developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage autos shared mobility 
+company ticker 
+rating 
+price 
+asbury automotive group inc abg 
+autonation inc 
+adam jonas cfa 
+avis budget group inc car 
+carmax inc kmx 
+ferrari race 
+fiat chrysler automobiles fcha 
+fiat chrysler automobiles fcau 
+ford motor company 
+general motors company 
+group automotive inc gpi 
+harley davidson inc hog 
+hertz global holdings inc htz 
+lithia motors inc lad 
+mobileye mbbyf 
+penske automotive group inc pag 
+sonic automotive inc sah 
+tesla inc tsla 
+adient plc adnt 
+american axle manufacturing holdings inc axl 
+aptiv plc aptv 
+borgwarner inc bwa 
+delphi technologies plc dlph 
+goodyear tire rubber company 
+lear corporation lea 
+magna international inc mga 
+tenneco inc ten 
+visteon corporation 
+armintas sinkevicius cfa cpa 
+stock ratings are subject change please see latest 
+research for each company 
+historical prices are not split adjusted 
+morgan stanley research 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

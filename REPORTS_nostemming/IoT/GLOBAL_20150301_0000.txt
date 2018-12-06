@@ -1,0 +1,1724 @@
+global insight march 
+march 
+global insight 
+the internet things report update 
+morgan stanley international plc 
+francois meunier 
+francois meunier morganstanley 
+morgan stanley llc 
+katy huberty cfa 
+kathryn huberty morganstanley 
+simon flannery 
+the internet things inflection point driving the next 
+industrial and computing revolutions not all companies will adopt 
+iot the same pace iot leaders are splashing out 
+signing strategic partnerships and reshaping the roadmap the 
+internet things really now 
+simon flannery morganstanley 
+morgan stanley international plc 
+saw wave strategic related the internet things 
+making all tech transactions most 
+this involved mature established players buying smaller connected 
+things data analytics companies gain exposure new era growth 
+has seen strong start for and expect this trend continue 
+craig hettenbach 
+also saw numerous alliances and standardisation announcements 
+apple google intel arm and have been the most prolific far but 
+partnerships are now involving companies from wide range sectors not 
+just tech and industrials are particularly enthusiastic about google vision 
+open web things where connected objects not require apps 
+connect themselves and communicate information also view apple 
+decision open its ecosystem positive change strategy 
+industryview 
+emmet kelly 
+emmet kelly morganstanley 
+adam wood 
+adam wood morganstanley 
+morgan stanley llc 
+craig hettenbach morganstanley 
+technology semiconductors 
+europe 
+cautious 
+exhibit huge potential for the internet things 
+telecom and telecom equipment companies are reshaping their 
+technology meet the demand billions new iot connections 
+however will not available before the earliest the 
+meantime alternative communication standards have emerged 
+automotive dedicated iot challenging the dominance current wireless 
+communications providers 
+inflection point for iot revenues several companies have started reporting 
+specific iot figures and while hardware revenues remain small due low 
+asps software and services already make the bulk growth wrote 
+last year blue paper iot not only about connected objects hardware but 
+also importantly about the data and what companies with will focus 
+this future reports for sectors such autos insurance mining utilities 
+semiconductor revenues from the iot remain low within the global 
+chip market but provide nice tailwind that could reach 
+sales when matures our report explore the emergence energy 
+harvesting technologies paving the way for connected devices communicating 
+autonomously without the need for recharging strong prerequisite our 
+view connected things proliferate above the unit mark 
+our top iot picks ambarella apple arm atmel crown castle csr 
+freescale google invensense liberty global linear microchip nxp 
+semiconductor realtek richtek stmicroelectronics telit and tesla our 
+software top picks will follow later insight report 
+rce data rgan stan ley research 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research result 
+investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan 
+stanley research investors should consider morgan 
+stanley research only single factor making their 
+investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+alysts emp yed affiliates are registered ith finra may 
+asso ciated erso memb may ject nasd nyse 
+restrictio mmu icatio ith ject lic earan ces 
+tradin secu rities eld research alyst acco 
+global insight march 
+key contributors 
+contributors this report 
+semiconductors 
+francois meunier 
+mathias santos 
+andrew 
+silva 
+francois meunier morganstanley 
+mathias santos silva morganstanley 
+andrew humphrey morganstanley 
+craig hettenbach morganstanley 
+joseph moore morganstanley 
+bill morganstanley 
+kazuo 
+software 
+kazuo yoshikawa morganstanleymufg 
+adam wood 
+adam wood morganstanley 
+sid mehra 
+sid mehra morganstanley 
+keith weiss 
+hardware 
+keith weiss morganstanley 
+katy 
+kathryn huberty morganstanley 
+jerry 
+telecom equipment 
+jerry liu morganstanley 
+james 
+telecom services 
+james faucette morganstanley 
+emmet 
+emmet kelly morganstanley 
+simon 
+cable satellite 
+simon flannery morganstanley 
+benjamin 
+auto auto related 
+benjamin swinburne morganstanley 
+adam jonas 
+adam jonas morganstanley 
+ravi shanker 
+ravi shanker morganstanley 
+morgan stanley asia lim ited 
+morgan stanley mufg securities ltd 
+morgan stanley international plc seoul branch 
+morgan stanley taiwan lim ited 
+craig 
+joseph 
+bill 
+yoshikawa 
+morgan stanley international plc 
+morgan stanley llc 
+global insight march 
+table contents 
+what year for the internet things 
+gathering pace 
+alliances abound 
+year inflection points 
+telecoms and telecom equipment 
+hardware 
+semiconductors 
+autos 
+software 
+global insight march 
+what year for the internet things 
+have rarely seen much enthusiasm for new technology concept outside the technology sector while 
+the idea the internet things not new has emerged key enabler for the world economy from 
+precision agriculture connected cars but also few governments labelling the internet things top 
+priority for tomorrow world the internet things and its disruptions were key subject for the world 
+economic forum davos january 
+this global insight report update our internet things now connecting the real economy blue 
+paper published april focuses the technology aspect the iot plan follow with series 
+global insight reports focusing industry verticals such agriculture autos capital goods insurance 
+mining and utilities 
+have seen previous industrial revolutions not all companies embrace technological 
+evolution disruption the same pace with the same success have heard anecdotally and seen 
+various third party surveys that there still much caution among top management about the internet 
+things owing lack interoperability security risks high costs and privacy concerns result most 
+sectors have observed thought leaders early adopters and doubter late adopters future global insight 
+reports will take deep dive into several sectors analyse those differences 
+share price performance highlighted last year blue paper think the hardware companies are 
+more likely see share price moves first see exhibit indeed several have already seen their share price 
+move based the internet things but only the mid caps far exhibit comparison larger cap stocks 
+with exposure the internet things such sap and monsanto have hardly moved 
+exhibit csr nordic semis telit splunk and 
+sierra wireless prices rebased over last 
+years 
+exhibit how computing cycles tend develop 
+source thomson reuters morgan stanley research 
+source thomson reuters 
+global insight march 
+there has been some cynicism well along the lines this isn new doesn move the needle for 
+tech the internet nothing once company adopts the internet things given sector all the 
+others will adopt and the advantage will competed away only the cost will remain just hype this 
+the dot bubble all over again will take decade 
+true the internet things not new concept started machine machine where vending 
+machine sent message text machine saying needed replenished but the concept the internet 
+things goes far beyond machine machine this the collection data into the cloud and what big 
+data analytics can for connecting and learning from large number for machine the networking 
+effect all this was not fully available even just few years ago 
+the internet things has started moving the needle for some companies and industries maybe not 
+for semiconductors where believe the iot more tailwind thanks the increasingly pervasive use 
+semiconductor chips industrial applications the home car but has started show significant numbers 
+for software and services 
+exhibit spotting iot revenues 
+rce data rgan stan ley research rgan stan ley 
+research estimates 
+there are too many examples early success 
+our view think that this phenomenon will take 
+another decade take off the technology 
+technologies connectivity near unlimited network 
+bandwidth cheap semiconductor big data analytics 
+are there and there pull from most sectors more 
+than five years after the financial crisis companies have 
+rebuilt balance sheets margins have recovered and the 
+question for the boardroom what next 
+clearly the table reaching new cyclical peak 
+but the debate also about finding new ways 
+improving productivity business models from capex 
+opex hence there pull from most not all 
+industrial and financial sectors but not all companies 
+the same speed some are early adopters 
+monsanto and rio tinto others are observing 
+experimenting easyjet and dhl but the majority 
+still denial which why believe the iot will 
+create disruption 
+global insight march 
+exhibit the internet things now 
+connecting the real economy 
+source morgan stanley research 
+exhibit insurance and technology evolution 
+and revolution digital world 
+source morgan stanley research 
+exhibit wearable devices the internet 
+things becomes personal 
+source morgan stanley research 
+global insight march 
+gathering pace 
+wave activity 
+exhibit surge activity 
+rce data rgan stan ley research 
+both the number and size transactions rose 
+sharply compared previous years total 
+have found worth related the 
+internet things including three deals above the 
+mark the vast majority these transactions 
+related mature technology companies adding 
+connectivity data analytics capabilities line with our 
+expectation last year that more traditional players 
+would seek participate the internet things and 
+buy smaller companies rather than build 
+connectivity data analytics themselves from scratch 
+semis are not surprised the rush buy 
+connectivity companies this the missing link for 
+most microcontroller industrial chip manufacturers 
+three landmark deals stand out 
+google nest labs and nest labs dropcam two similar deals whereby google set home 
+automation group under the nest labs umbrella with key products including connected thermostat 
+connected fire and carbon monoxide alarm and connected camera following the acquisitions 
+google set thread alliance around the communication standard used the nest products 
+qualcomm csr qualcomm stated would acquire csr for two main reasons its exposure 
+automotive customers and its bluetooth smart products csr has been the forefront bluetooth 
+smart technology first the market with mesh architecture continue believe that bluetooth 
+smart the technology choice for the internet things connects seamlessly 
+smartphone once connected the smartphone the device becomes connected but the new version 
+bluetooth will allow direct connection using this acquisition will allow 
+qualcomm compete against the thread standard pushed google nest 
+zebra motorola solutions this represents the combination two asset tracking companies 
+stated the acquisition press release the companies shared commitment innovation will help 
+customers harness trends like the internet things particular zebra objective make the 
+automated retail experience reality via the iot retail the key strait product distribution and the 
+potential gains have been huge for decades the iot the latest evolution systems automation 
+pursuit following the footsteps barcodes radio frequency identification rfid machine tomachine and now the iot enabled technologies such ble and wifi zebra closed the 
+acquisition motorola solutions enterprise business october 
+global insight march 
+exhibit announced involving iot 
+announced 
+acquirer 
+target 
+ritish 
+alertme 
+value 
+der armo 
+myfitn esspal 
+tel 
+lan tiq 
+silico lab rato ries 
+egiga 
+harman tern atio 
+river ftw are 
+harman tern atio 
+symp teleca 
+der armo 
+sierra ireless 
+ireless main gate 
+ams 
+acam messelectro 
+scan ldin 
+cyp ress 
+sio 
+alco 
+csr 
+ech elo ratio 
+mew ave 
+samsu electro ics 
+smartth 
+tco 
+ptc 
+axeda ratio 
+atmel ratio 
+new media 
+tridiu 
+tro lco 
+nest lab 
+dro cam 
+dafo plc 
+tive 
+maestro ireless tio 
+falco 
+ectb 
+gmein 
+zeb 
+tio 
+yless 
+aspider tio 
+ren 
+cto telematics 
+gle 
+nest lab 
+ptc 
+der armo 
+map myfitn ess 
+arm ltd 
+sen sin 
+siriu radio 
+agero 
+raco ireless llc 
+sitio gic 
+gle 
+aze ltd 
+silico lab rato ries 
+ergy micro 
+cisco systems 
+lex 
+alarm 
+ergyhu 
+jaw 
+dymedia 
+atmel ratio 
+zmo 
+limited 
+verizo mmu icatio 
+telematics 
+san 
+precisio plan tin 
+silico lab rato ries 
+emb ratio 
+rce data rgan stan ley research data availab 
+global insight march 
+alliances abound 
+google the rest the world but arm intel very active too 
+the first iot alliance dates back but saw the emergence several alliances and partnerships 
+foster the emergence the iot particular allow devices connect easily the network and 
+promote the use standard communication protocols the wireless communication level but also the 
+software level among those alliances and partnerships view industrial internet consortium strong 
+driver for the iot into the industrial world with extensive list members see exhibit the technology 
+front view google vision open web things exciting and ambitious whereby connected objects 
+will not require apps connect themselves and send data 
+ipso alliance launched 
+the first real alliance dates back with ipso working group establish internet protocol the 
+basis for the connection smart objects now called the internet things 
+exhibit ipso members 
+arm 
+atmel 
+bosch 
+cooper 
+dust network 
+edf 
+ericsson 
+freescale 
+greewave 
+gridconnect 
+iar 
+landis gyr 
+micrium 
+sigma designs 
+silicon labs 
+silver spring 
+stmicroelectronics 
+sics 
+tridium 
+rce ipso rgan stan ley research 
+two platforms have ben launched around interoperable software the allseen alliance fully open source and 
+open standard whereas arm mbed slightly more closed but allows arm based chip users deploy iot 
+platform quickly and inexpensively wot data exchange platform partnering with arm mbed 
+allseen alliance launched december 
+open source and open standard platform led the linux foundation the aim create open software 
+framework that enables hardware manufacturers service providers and software developers create 
+interoperable devices and services the ultimate goal have autonomous devices seamlessly discovering and 
+talking each other regardless brand wireless standard platform operating system 
+exhibit allseen members 
+electrolux 
+haier 
+microsoft 
+qualcomm 
+sharp 
+silcon image 
+sony 
+technicolor 
+link 
+rce allseen rgan stan ley research 
+global insight march 
+mbed launched october 
+arm led platform providing standard operating system for microcontroller chips and standard apis access 
+the data arm will also provide physical server infrastructure store and access iot data this not 
+open source but the aim facilitate users arm based chips have easy use data management 
+platform 
+exhibit mbed members 
+alcatel 
+atmel 
+arm 
+csr 
+ericsson 
+freescale 
+ibm 
+kddi 
+marvell 
+megachips 
+multitech 
+nxp 
+nordic semis 
+renesas 
+stmicro 
+saleforce 
+seecontrol 
+semtech 
+siliconlabs 
+stream 
+telefonica 
+telenor 
+ublox 
+wot 
+zebra 
+rce arm rgan stan ley research 
+wot launched october and part arm mbed 
+interdigital led platform allowing exchange data with low latency high volume between users 
+exhibit wot members 
+apstrata 
+arm mbed 
+bipio 
+dataart 
+apstrata 
+arm mbed 
+bipio 
+devicehive 
+kinoma 
+ngdata 
+rackspace 
+dataart 
+devicehive 
+kinoma 
+ngdata 
+rackspace 
+scaledb 
+scaledb 
+sempercon 
+stream 
+sempercon 
+stream 
+rce arm rgan stan ley research 
+industrial internet consortium founded march 
+general electric led working group create new industry use cases with iot and define and develop 
+common architecture for interoperability but privileging the use the predix software platform the 
+founding members are cisco ibm and intel but there now very long list members see exhibit 
+global insight march 
+exhibit industrial internet consortium members 
+abb ltd 
+ent foundation 
+mitsubishi electric 
+corporation 
+mitre corporation 
+mobily 
+moxa inc 
+national instruments 
+stream technologies 
+accenture 
+aicas 
+atomic database 
+corporation 
+auburn university 
+bayshore networks inc 
+enterpriseweb 
+first line software inc 
+foghorn 
+frost data capital 
+tech mahindra limited 
+technische universit darmstadt 
+general electric 
+grid connect inc 
+hewlett packard 
+nec corporation 
+ngrain canada 
+corporation 
+magic 
+open group 
+parker hannifin 
+blackberry 
+bosch 
+canonical group limited 
+carnegie mellon university 
+certified security solutions 
+charles stark draper 
+laboratory 
+cisco systems inc 
+cork institute 
+technology 
+csiro 
+cubicon corporation 
+dan hussain 
+datawatch 
+dell 
+deloitte llp 
+detecon inc 
+hitachi ltd 
+huawei technologies ltd 
+ibm 
+parstream 
+people power 
+pitney bowes 
+thetaray ltd 
+thingworx 
+telecommunications industry 
+association tia 
+telstra software group 
+toshiba 
+toyota motor sales 
+igear online 
+industrial technology research 
+institute 
+institute for information industry 
+intel 
+intel care innovations 
+jasper technologies inc 
+john hopkins university 
+kyland technology ltd 
+laas cnrs 
+prismtech 
+ptc inc 
+tyco 
+purfresh inc 
+putman media 
+qualical 
+real time innovations 
+rhodata corporation 
+saffron technology inc 
+samsung electronics 
+digicert inc 
+eclipse foundation 
+machineshop inc 
+machine machine intelligence 
+mdsl 
+micron technology 
+microsoft corporation 
+schneider electric 
+sentient science 
+unisys corporation 
+university pennsylvania 
+university pittsburgh 
+vanderbilt university 
+verisign inc 
+vtt technical research centre 
+finland 
+water process group wpg 
+wave systems corp 
+sevone inc 
+singlewire 
+spacecurve 
+wot 
+wyconn 
+xcaliber technologies llc 
+corporation 
+elecsys corporation 
+emc corporation 
+fujifilm corporation 
+fujitsu limited 
+symantec 
+synapse wireless 
+system insights 
+connectivity 
+rce rgan stan ley research 
+open interconnect consortium launched july 
+intel led working group aiming defining common communication framework based industry standards 
+technologies wirelessly connect and manage the flow information data among devices regardless 
+form factor operating system system provider 
+exhibit open interconnect consortium members 
+cisco 
+intel 
+mediatek 
+samsung 
+adt 
+atmel 
+dell 
+eyeball networks 
+rce tel rgan stan ley research 
+global insight march 
+the intel iot solutions alliance another intel led working group aiming helping users intel architecture 
+thus this closed arm develop iot solutions the members list much smaller comprising adlink 
+advantech dell kontron and portwell 
+thread launched july 
+google led wireless standard unify wireless communications for home automation uses the same wireless 
+standard nest products the same frequency zigbee but enabled with 
+exhibit thread founding members 
+arm 
+bigass 
+freescale 
+samsung 
+silicon labs 
+yale 
+rce gle rgan stan ley research 
+google open web things october 
+the world wide web consortium international community that develops open standards ensure 
+the long term growth the web among its work web things initiative begun july working 
+group developers move the web architecture the physical world the idea develop open standards 
+basis for services either between devices the network edge home hubs the cloud 
+google pushing for open web things initiative where the objective have iot devices selfconnecting each other and the cloud for instance today anyone installing iot device like nest will need 
+install app and connect the device the wifi network not complicated process but what about when 
+homes have hundreds connected devices 
+google still the stage inviting research proposals but with support from arpanet early scientist vint 
+cerf one the fathers the internet likely attract attention 
+the meantime works with nest had some headlines the consumer electronics show las vegas 
+january with pebble jawbone philips hue and joining the nest dropcam camp 
+global insight march 
+year inflection points 
+exhibit internet things revenue spotting 
+one the main criticisms have heard about the 
+internet things the lack actual revenues 
+associated there are however enough datapoints 
+this year show that iot revenues are significant and 
+growing particular for software and services 
+the four largest companies generating iot revenues are 
+intel embedded from the wind river acquisition 
+general electric predix software suite and associated 
+hardware ericsson iot services the autos utilities 
+and government and verizon telematics mostly 
+connected cars revenues 
+rce data rgan stan ley research rgan stan ley 
+research estimates 
+exhibit semiconductors and 
+telecommunication modules 
+semiconductor revenues are only just starting 
+become visible but believe the actual 
+revenues are much larger 
+not many semis companies report chip revenues 
+our view only nordic semiconductors bluetooth 
+smart and silicon labs believe that the overall 
+market for chips the internet things much larger 
+but this really question semantics qualcomm 
+does not report sales baseband chips being used 
+machine machine modules none the large 
+microcontrollers companies reports the revenues 
+associated with connected devices micro electromechanical mem companies not split the revenues 
+from smartphones and wearables etc hence the 
+revenues are not necessarily reported but they exist 
+rce data rgan stan ley research rgan stan ley 
+research estimates 
+machine machine communication module 
+another interesting component track the module market dominated gemalto telit and 
+sierra wireless gemalto and telit report specific revenues there see exhibit and they are growing 
+per annum 
+connections only accounted for total global connections but already reach 
+sweden norway the and the 
+sweden has higher than average penetration rate has already moved smart meters europe including 
+the will transition smart meters over the next five years 
+global insight march 
+exhibit connections all mobile 
+connections 
+pull from industrial utilities and telematics 
+therefore there potential for growth 
+connections the iot moves more industries 
+described our internet things now blue paper 
+blue sky case the market could grow 
+from hockey stick curve the number 
+connections could reach total 
+connections more than human human 
+connections that not inconceivable our view 
+when put the context ericsson forecasting 
+connected devices use cases include 
+rce asso ciatio 
+smart meters for utilities the next years expect europe and the move smart 
+meters 
+telematics this includes the tracking fleets vans trucks cabs and buses increasing wifi 
+connections cars and also the tracking cars data for maintenance 
+industrial for performance monitoring industrial equipment such wind turbines 
+push from telecom operators telecom companies are pushing for the market relay growth 
+beyond consumers while believe china mobile deutsche telekom telefonica and verizon are the most 
+advanced among the largest players vodafone wants catch notably with the acquisition cobra 
+telematics 
+show exhibit how the number cellular connections reported the gsm association 
+growing steadily 
+exhibit global cellular connections 
+machine machine 
+connections millions 
+growth 
+incremental 
+connections millions 
+exhibit mobile connections 
+technology 
+source gsm association morgan stanley research morgan 
+stanley research estimates 
+source company data morgan stanley research 
+global insight march 
+exhibit verizon connection growth 
+sector 
+modules are mostly today because the 
+lower price but there mix change under way 
+the usbecause refarming switch off 
+replaced and for some higher end applications 
+requiring more bandwidth the majority 
+devices are still gsm only gprs edge main 
+reasons 
+cost the newer technologies and 
+applications don require high network 
+speeds not much data 
+think the transition modules will driven 
+price reduction and 
+future proof the products case the network 
+refarmed the network will switched off 
+and the spectrum will reused for lte which 
+uses the spectrum more efficiently 
+visualising the hotspots the iot geographically 
+another way track connections the 
+thingful net website which references and plots most 
+public machine machine devices see exhibit 
+rce verizo 
+exhibit visualising the internet things 
+rce rep ced ith kin ermissio gfu search gin dexes lic ected mach mach devices 
+ese are grap ically eatmap 
+global insight march 
+telecoms and telecom equipment 
+simon flannery emmet kelly francois meunier 
+iot influences the roadmap 
+major wireless operators are seeing significant traction iot connections 
+sees connected device momentum added connected devices including 
+some connected cars about new vehicles sold the for the year the company added 
+connected devices including tablets kindles and machine machine bringing the total count 
+increase year year believe arpu remains low with connected car revenues running about 
+per month although consumer subscription can add per month expects connect 
+nearly half new wireless connected passenger vehicles and serve connected cars the end 
+see our video connected cars and carriers standard equipment revenue opportunity dated 
+february 
+verizon iot revenues growing yoy verizon reported iot and telematics revenues 
+growing more than year year this remains small part its business however representing just 
+wireless service revenues the company recently unveiled verizon vehicle connected car offering 
+has also disclosed that postpaid connections are internet devices primarily tablets laptop 
+cards etc from year ago 
+vodafone considers itself the machine machine leader europe with market share 
+estimate that generates per year representing connections the enterprise revenues 
+and revenue growth was over the past two years 
+there longer debate about the amount growth iot for large operators rather the question today 
+how the networks will cope with very different type loading many devices small burst data and low 
+latency 
+vhs betacam all over again the telecom and telecom equipment sectors believe the main theme 
+for the emergence new communications standards for iot such weightless ultra narrowband 
+industry specific networks and push change more flexible towards 
+there nothing wrong with using network for iot applications the baseband chips and modules can 
+found for the pricing sending text very low when bought bulk however not network 
+and the spectrum not used efficiently that why some networks particular the want switch off 
+the network and reuse the spectrum with more spectrally efficient way communication like which 
+would well more spectrally efficient than uses ofdm modulation orthogonal division 
+multiplexing gmsk gaussian minimum shift keying for gsm 
+exhibit comparing data bandwidth lte gsm 
+lte 
+gsm edge 
+downstream 
+upstream 
+rce sma 
+global insight march 
+also terms scalability not clear how large iot network could using all the smart meters 
+western country were start sending text messages the same time that would new year eve 
+bottleneck every day 
+was clearly not designed with the iot mind was intended for streaming video sending large files 
+from smartphone and does much better than and given that spectrally more efficient 
+however latency and large number devices the tens billions were not part the blueprint are 
+not saying that cannot evolve but design there are some limitations 
+since will not trialled before and competition emerging from non cellular networks operators are 
+discussing the possibility reusing some their spectrum iot flavoured the specification 
+would need altered however become more power efficient and less costly weightless and sigfox are 
+aiming for year battery life range and cost per module 
+exhibit comparing power consumption 
+sleep time the lte network 
+the sleep mode for iot applications can deeper and 
+longer than for smartphone smartphone cannot 
+really deeply asleep needs respond quickly 
+phone call but iot device does not need such 
+performance 
+iot device can return sleep mode very quickly 
+after transmitting data whereas smartphone has 
+remain alert for several seconds after call just case 
+more data are sent 
+iot network does not need check that all the 
+devices are ready send information 
+rce ttp ericsso research tern 
+hence ericsson and qualcomm are proposing relax 
+the time which the device checks with the network 
+make sure its present telecom equipment lingo 
+the device would increase the drx cycles from 
+more drx discontinuous reception 
+the standard evolving with and which allow slower bandwidth and enable 
+operators manage their networks much more efficiently not allocating excessive resources devices that 
+not need high throughput furthermore devices can deployed most today existing lte longterm evolution networks without requiring new network equipment other major network upgrades 
+mbps will deployed the next release lte release with simpler and less expensive modems not 
+full duplex only one radio frequency antenna chain 
+hence lte could become more competitive terms cost gprs and allow better use lower 
+frequency spectrum through refarming 
+while are already seeing acceleration iot adoption the eventual implementation could 
+dramatically speed the growth iot its utility and returns investment because unlikely add any 
+new air interface standards and itself instead widely expected more attempt allow 
+devices self optimise data traffic over the best available network any location wifi bluetooth 
+even traffic over multiple network types simultaneously such conceptually should help future proof 
+least the connectivity part the iot implementation enabling persistent use existing network 
+technologies while increasing the flexibility future networks and devices optimise around them 
+the first trial for set for south korea telecom operators and telecom equipment manufacturers 
+seem agree that should not radically different from rather should evolution more 
+versatile version that can prioritise throughput bandwidth over latency and number devices this could 
+leave scope for non cellular standards take market share 
+global insight march 
+exhibit representation needs according nokia 
+art man differen requ iremen facin dep din devices laten rce ite 
+cases requ iremen kia netw rks ttp etw rks kia file requ iremen 
+sigfox the only alternative non cellular iot network and running several countries 
+french private company sigfox promoting the ultra narrowband standard with silicon labs simtec intel and 
+stmicroelectronics chip partners sigfox has now become special network operator france and can cover 
+whole country with only antennae potentially handling billion connections for only capex 
+according the company 
+sigfox raised funding february from air liquide elliot eutelsat gdf suez ntt docomo 
+telecom and telefonica this considerably more than was mooted the press for example last year les echos 
+april suggested that sigfox was the process raising for further deployment its network 
+top the already raised and that revenues would reach this year from services not from 
+hardware 
+sigfox now covers france and has started cover spain the netherlands and belgium part the silicon 
+valley well cities the partnership with tower and wifi company arqiva 
+while the deployment sigfox impressive given its low running costs and ease deployment there are 
+some limitations sigfox not open standard and there confirmation the device that message has 
+been received properly 
+weightless 
+weightless only communication standard for the moment and there has been deployment the main 
+company developing such network neul unlike sigfox did not have the right business model raise equity 
+model and was sold for modest sum huawei the objective weightless defined the 
+weightless special interest group similar bluetooth sig not dissimilar sigfox ultra narrowband 
+standard range year battery life for less than module cost however weightless accepts few 
+global insight march 
+limitations sending the information slowly seconds which positive for power consumption uses 
+low power processing core less expensive and not necessarily arm and sending less information few 
+bytes say that the electricity meter has consumed today 
+the first weightless flavour was intended for television white space white space the name given 
+parts the broadcasting spectrum that are unused particular location and time weightless sig has 
+simulated that had base station for the cost wifi router every telephone exchange the 
+allowing cover the whole the and electricity meter every building with every meter 
+transmitting per hour then the network capacity would still idle there also priority mode 
+ensure that alarm from fire sensor reaches the fire system provider first 
+the second weightless flavour intended used the unlicensed ism band which already used 
+cordless phone bluetooth and wifi the spectrum hence potentially lower range than 
+intended with the band 
+far weightless only paper but has qualcomm and arm backers and potentially huawei which 
+bought neul the progress made weightless will interesting watch the one side there 
+window opportunity exploit between now and but the other side sigfox already deployed 
+several countries 
+automotive specific network 
+the european car car communication consortium started work and now comprises 
+manufacturers the communication system based with frequencies allocated the band 
+europe and the this could the start global standard 
+given the high frequency used the range few hundred meters but every car wireless node extending 
+the network using mesh network technology the latency very small however the aim send location 
+speed and braking information avoid accidents first step towards autonomous driving 
+the national highway traffic safety administration and department transportation plan make 
+mandatory install vehicle vehicle devices new vehicles 
+global insight march 
+hardware 
+katy huberty jerry liu 
+major computing companies are positioning their platforms for the internet things 
+technology companies made lot progress building out their iot platforms through 
+acquisitions and internally developed products and services have also seen many new partnerships 
+companies jockey behind the scenes and hope make their preferred technologies the industry standard 
+below are few important trends from the biggest platform companies 
+apple the forefront innovation 
+apple will launch its wearable device the watch 
+april but also busy building many new 
+partnerships these may come surprise since the 
+company often viewed favoring closed garden 
+approach its ecosystem however saw 
+apple announce rare partnership with ibm further 
+penetrate the enterprise through custom mobile 
+applications and support services apple could further 
+leverage ibm analytics capabilities crunch data and 
+power certain apps apple devices the iot era 
+our view last year apple also launched healthkit 
+homekit and carplay platforms with several early 
+partnerships including epic systems and mayo clinic 
+rce rep ced ith kin ermissio 
+philips and honeywell and volkswagen toyota and 
+ford believe apple wants its mobile devices 
+the data hub connecting users sensors and computing devices all around them this would similar 
+apple strategy the computing cycle when steve jobs positioned the mac the digital hub place 
+where users can store and edit media from their cameras camcorders portable music players personal digital 
+assistants pdas etc 
+exhibit apple will launch the watch april 
+global insight march 
+exhibit apple healthkit homekit and carplay partnerships far 
+rce 
+global insight march 
+google developing devices for every step the day 
+google building many the sensors and devices users may encounter the iot era once just 
+internet search company google has spent years designing and integrating hardware though sometimes 
+small volumes such its proprietary data centres nexus smartphones chrome computers glass wearables 
+nest acquired for and dropcam acquired for self driving cars and project 
+loon balloon powered internet the future google could have iot products for most phases user life 
+home nest and dropcam commuting self driving cars office glass see below and course mobile 
+devices that are with the users all times android smartphones chrome computers and android wear 
+wearables 
+exhibit microsoft has just announced the 
+hololens head mounted computer that displays 
+holograms 
+source reproduced with kind permission microsoft 
+microsoft hololens show stopper 
+microsoft continues with its strategy one operating system for all devices while also launching 
+new wearables the company hosted event january unveil windows its latest attempt build 
+platform that works well for both pcs and tablets reviews were generally favourable however was hololens 
+that stole the headlines this head mounted display and computer powered windows that combines 
+holograms with real life objects users can control the device through eye movement gestures and voice the 
+company plans launch hololens the end microsoft also launched fitness tracker called band 
+late was priced supply appeared limited and reviews were mixed 
+wearables take off 
+wearables are ramping faster than even smartphones and tablets believe wearables will 
+area within the iot that sees major product launches and hyper growth detailed our blue paper 
+last november wearable devices the internet things becomes personal model unit cagr 
+with the number shipments reaching forecast units our bull case 
+driven enterprise adoption subsidies for consumers and broader use cases which think increasingly 
+likely given recent developments 
+global insight march 
+exhibit our wearables model assumes 
+shipments 
+source idc morgan stanley research morgan stanley research 
+estimates 
+exhibit wearables address trillion 
+global consumer and business spending 
+source adt best cdc crs emarketer euromonitor iab 
+magnaglobal ibis times nilson npd rand snl financial 
+statista morgan stanley research 
+three factors drive our bullish view increasing broadband penetration drives faster consumer 
+technology ramp than previous devices early use cases alone make trillion global consumer 
+and business spending including insurance healthcare fitness and wellness and fashion and apparel our 
+global alphawise consumer survey november points base case bull case unit 
+demand with purchase intention for the apple watch the initial demand for iphone and ipad 
+identity could killer feature that will drive 
+new use cases believe users can confirm their 
+identity entering pin the apple watch and the 
+device could have the ability confirm who 
+controlling using sensors the back the watch 
+this will enable many new kinds apps including 
+mobile payments our view wearables can 
+significantly reduce the time takes complete 
+transaction limiting the need take wallet 
+smartphone out user pocket and confirming 
+purchase with pin signature instead all has 
+wave the watch front the nfc sensor the 
+point sales and click tap confirm since the 
+rce rep ced ith kin ermissio 
+watch can verified the identity the wearer and 
+with more certainty see this even more 
+convenient experience versus the same technology smartphone there are many more use cases for 
+identity across users everyday lives including household appliances and heat ventilation and air 
+conditioning hvac systems that can verify inhabitants and adjust their preferences retailers tracking 
+shoppers stores and online offer customised products services and promotions and workers gaining 
+access offices and equipment including computer systems machinery after verifying their identity with 
+their wearable devices 
+exhibit the back the case specially 
+designed sensor detects your heart rate 
+have increased conviction our bull case which depends subsidies and enterprise adoption 
+since published our wearablues blue paper have seen many examples subsidies including companies 
+purchasing fitness trackers for employees insurance companies giving them away for free customers 
+oscar and pharmaceutical companies looking use them track patients biogen from our conversations 
+with wearables companies think this only the tip the iceberg and are approaching inflection 
+point while initially thought could take some time for the healthcare industry and employers start 
+buying subsidising wearables believe things are happening faster than originally anticipated many 
+companies that have interest the user wellbeing would like access user data are turning 
+subsidies 
+global insight march 
+average selling prices have also been better than 
+expected around the holiday season many 
+companies released new fitness trackers 
+smartwatches which account for the vast majority 
+wearables today interestingly many the new 
+products have more features and sensors and cost 
+more than the products they replace for example 
+jawbone announced the the beginning 
+november for compared the prior 
+flagship product for new features the 
+include resting heart rate sensor and sleep 
+tracking similarly garmin launched the new vivosmart 
+january with notifications and vibration 
+alerts and more than the vivofit also 
+rce alp ise rvey vemb rgan stan ley research 
+launched the new vivoactive basically smartwatch 
+january apple will further increase the wearables market asp april when launches the watch 
+which starts and believe will likely into the thousands for the high end gold version our global 
+alphawise survey indicated respondents were willing pay for their next wearable device more than the 
+current users spent their devices think this exhibits high willingness pay and the high 
+perceived value wearables considering estimate the average smartphone will cost 
+exhibit consumers willing spend 
+average for new wearables 
+more immersive interfaces may the future 
+enterprises could further drive adoption wearables the second driver our bull case enterprise 
+adoption far have seen the consumer wearables market take off with fitness devices and smartwatches 
+however the benefits improving efficiencies enterprise could significant the long term users could 
+have multiple wearables one for personal and one for work use one for fitness and one for everyday wear 
+exhibit microsoft hololens mixes the real 
+and virtual worlds which could help workers 
+their jobs 
+rce rep ced ith kin ermissio gamesp micro 
+several the wearables companies and enterprise 
+cios spoke point out the significant 
+potential the enterprise market while consumers 
+may fickle about fashion and social norms they 
+not apply the enterprise market the same way for 
+example doctors police officers mechanics etc may 
+prefer function over fashion and choose wear large 
+head mounted displays see large long term 
+opportunity change how workers perform their jobs 
+but this market even more nascent than the 
+consumer market there not ecosystem apps 
+similar some the growing pains tablets are 
+experiencing the enterprise today that said have 
+already heard seen anecdotal evidence enterprise 
+applications being developed partnership with apple 
+google kopin and others see below for examples 
+global insight march 
+exhibit daqri industrial smart helmet 
+workers could accelerate the adoption more 
+immersive interfaces last year facebook acquired 
+oculus which makes virtual reality headsets january 
+google announced that glass had graduated from its 
+blue sky research division called google and will 
+now report tony fadell who charge nest 
+the same month microsoft launched hololens all 
+these companies are still exploring consumer use cases 
+and some all believe this the next computing 
+interface after the keyboard mouse and touch while 
+believe there will likely many consumer 
+applications over time see enormous opportunity 
+the enterprise potentially before the consumer side 
+gains traction 
+list potential use cases and examples 
+augmented reality devices the enterprise 
+rce rep ced ith kin ermissio daq 
+the use augmented reality smart helmets could lower the number mistakes made when 
+operating device for the first time training for first time operations for instance exhibit shows 
+picture industrial grade connected helmet from the daqri project 
+the iot has not connected all the sensors industrial applications yet another example would 
+connected helmet logging data from devices the real world 
+sap working with vuzix another augmented reality helmet company increase device efficiencies 
+such making sure operator picks the correct part from warehouse increasing safety forklift 
+operations and retrieving inventory information from its database 
+easyjet testing epson and vuzix smartglasses optimise maintenance activities and reduce delays 
+the technology allows remote engineering team access the user view helping solve the issue 
+real time currently pilots and engineers board have send pictures the operations control 
+centre and find solution over the phone easyjet states that out flights are affected 
+technical issues flights per year are delayed least one day and lighting issues hit average 
+plane per day requiring several days resolved each delay overnight costs the company 
+around 
+mitsubishi deploys metaio software epson moverio smartglasses for its air conditioner service 
+technicians youtube video streamed front the worker guides him her the procedure 
+overlaying virtual arrows circles and screwdrivers the physical object 
+augmedix software company working with google glass offer easy access electronic health 
+records for the healthcare sector 
+global insight march 
+semiconductors 
+francois meunier craig hettenbach bill kazuo yoshikawa 
+sizing the opportunity between and revenues depending the mix 
+what the revenue opportunity for the semiconductor sector iot purpose did not discuss 
+this topic last year because believed was too early the main conclusion last year blue paper 
+was that the biggest impact would software services and non technology companies 
+today not many chip companies report iot revenues see exhibit and believe there significant 
+semantic issue here take connected car for instance average car today has worth chips inside 
+let assume that this car has connection and thus becomes connected what the correct iot revenue 
+measure the baseband chip worth maybe all the chip content the car somewhere the 
+middle because the infotainment becomes connected the powertrain chips because the oem collects the 
+data from measure the performance its engines real time 
+the was the main growth driver for semis the and mobility the past years laptops mobile 
+phones smartphones and tablets but the overall growth the sector maturing about expect the 
+main growth drivers for the next few years industrial and automotive exactly where the iot most 
+applicable 
+exhibit historical and forecast revenues end 
+market 
+rce artn rgan stan ley research rgan stan ley 
+research estimates 
+automotive represents about semis revenues 
+and industrial expect these figures 
+reach and cagr respectively over 
+for the whole industry hence growing faster than 
+average proliferation semiconductor chips autos 
+and industrial applications not new thing but may 
+accelerate with the emergence the iot 
+another way forecast the size the iot 
+compare with the mobile communications 
+industry which generated around revenues 
+for units which smartphones 
+and feature phones according the idc hence 
+representing about chip content per 
+phone smartphone 
+assume the iot will represent many units per year when fully deployed but what about the price 
+shall use the smartphone content guide given all the processing power available our pockets not 
+far from laptop continue argue that the vast majority iot devices will collect information and thus 
+will have priced very cheaply are not saying that there won any high end apps such connected 
+helmet but that they are unlikely comprise the majority volumes 
+find helpful here use the statistical model have used several times for the pricing arm based 
+chips and which has proven quite reliable far it been nearly months now 
+global insight march 
+volumes could low end assume that iot devices will use bit micro 
+controller connectivity chip few sensors and energy harvesting chip power management 
+chip assuming about units per year extrapolate from the price elasticity charts that the 
+microcontroller would worth the connectivity chip about and the other chips about 
+each total the chip bill materials would amount about 
+volume could high end assume that iot devices would have higher content 
+more akin smartphone with application processor board mostly computing and not many 
+graphics all cellular connectivity and many sensors smartphone thus the semis content 
+would line with today smartphone content 
+exhibit market size for iot depending mix 
+low end 
+high end 
+total market size 
+bom 
+all low end 
+more high end 
+rce data rgan stan ley research ill materials 
+even the low end the range the iot would provide nice tailwind industry that has been steadily 
+losing top line growth momentum the and mobile market have matured the high end the iot could 
+big large pcs communications 
+our internet things now blue paper discussed six conclusions five which update below 
+moore law drives costs down and penetration 
+there has been much debate the past year about the future moore law but believe that asml has 
+made enough progress extreme ultraviolet euv lithography the main bottleneck semiconductor 
+manufacturing reassure investors this front with the delays euv widely agreed that the cost per 
+transistor will not decrease the past long euv not deployed mass production 
+for the time being the industry not constrained terms availability supply for iot chips tsmc has even 
+announced range manufacturing processes dedicated for iot with focus cost rather than pure 
+performance manufacturing ranges from down partners for that process will include nordic 
+semis and csr for bluetooth silicon labs for connectivity and arm for microcontrollers 
+integration also drives costs down and penetration 
+argued last year that was easier for connectivity companies add microcontroller capabilities than the 
+opposite this was borne out number actions including the failed attempt microchip buy csr 
+for bluetooth smart also saw continuation the price decline bit microcontrollers and faster 
+rate than normal 
+global insight march 
+exhibit semiconductor statistical model 
+semis competitive landscape there are still only 
+few companies active multiple iot verticals within the 
+semiconductor space such stmicroelectronics and 
+texas instruments but have noticed that semis 
+has been linked horizontal integration with 
+qualcomm buying csr for instance 
+rce data rgan stan ley research art 
+ares rice elasticity vario articu lar mcu 
+exhibit updated competitive landscape 
+rce rgan stan ley research 
+bluetooth smart the standard choice for wearables 
+year difficult argue with that statement given the number products launched with bluetooth 
+smart and the activity around bluetooth smart for the home the jury still out bluetooth now 
+enabled and can have mesh network topology thus used even the biggest mansion thread new 
+standard with the support google nest zigbee has strong installed base 
+bluetooth bluetooth becoming finally enabled but zigbee too with thread pushed 
+google 
+why does this matter the concept addresses the fundamental cornerstone the web architecture 
+know today with the emergence the iot with potentially tens billions nodes devices need use 
+which has enough addresses the has only addresses hence became obsolete 
+after more than years existence bluetooth finally becoming enabled with the new bluetooth 
+release understand that bluetooth will use the protocol which also used thread 
+global insight march 
+the landscape for bluetooth likely change with qualcomm announcing its acquisition csr but 
+also atmel and microchip having made acquisitions the bluetooth space and dialog likely become even 
+more active according our discussions with management short the bluetooth landscape becoming ever 
+more competitive competition from zigbee looks set continue especially with thread giving zigbee the 
+ability communicate with 
+will more ubiquitous than for the internet things 
+have already discussed this the preceding section telecoms and telecom equipment 
+the mems micro electro mechanical systems opportunity large sensors but larger still 
+actuators and energy harvesting the new buzzword for our view ambient energy 
+harvesting and wireless energy 
+energy harvesting the process which energy derived from external sources solar power 
+electromagnetic energy captured and stored for low energy wireless autonomous devices such wearables 
+why does this matter because the proliferation billions iot nodes will require self charging rather than 
+just very long battery life for most its nodes otherwise the cost maintaining charged batteries such 
+large network will too cumbersome solar already widely available but there are lots other potential new 
+technologies that describe here 
+this key development for the iot our view unthinkable have batteries and people changing 
+batteries for the billions nodes that will scattered around the world hence the debate here less about 
+the cost energy the oil price decreases further the technology becomes irrelevant and more about 
+having worry about powering iot device however the take those technologies has been very slow 
+the yields have remained very low single digit percentage 
+see two main categories for energy harvesting 
+ambient energy harvesting the system harvests energy from its natural environment including 
+thermal gradients light natural artificial pressure vibration 
+wireless energy the system emits energy the form radio frequency waves that are 
+collected devices tuned the same frequency extension near field communication 
+nfc which used today tens millions users like the oyster card the london tube 
+however instead having touch the transmission energy can done 
+global insight march 
+one the first commercially available products the 
+remote control for the philips hue system 
+exhibit philips hue 
+uses the mechanical energy the user pressing 
+buttons the remote power the wireless chip inside 
+and send wireless controlled information the zigbee 
+network 
+rce rep ced ith kin ermissio ilip 
+there are different ways capture ambient energy 
+thermal gradient generator using semiconductor materials connected hot surface one end 
+and cold surface the other can create enough energy power iot device using classic 
+thermodynamic principle the larger the gradient temperature the higher the energy generated 
+pressure vibration generator using either coil and magnet plungers piezo materials pressure 
+device like the hue remote can potentially create energy have also seen experiments using 
+footsteps generate energy 
+solar generator nothing really new solar cells have existed for decades but the idea here 
+tune the solar cells that they are more efficient inside homes the temperature the light 
+different another initiative embed solar cells tiles roads 
+companies involved those technologies include dialog semiconductors and stmicroelectronics the public 
+listed side the private side 
+enocean designs energy harvesting modules including wireless transceivers 
+power specialises solar cells for indoor use using dye sensitised solar cells not unlike 
+natural photosynthesis leaves 
+marlow specialises modules generating energy from gradient temperatures exhibit 
+shows the device sits oil gas pipeline and generates energy from the difference 
+temperature between the fluid 
+global insight march 
+exhibit collar screwed around oil 
+gas pipeline and generating electricity from the 
+difference temperature between the pipeline 
+and ambient air 
+exhibit piezo based generator harvesting 
+vibration 
+source reproduced with kind permission microgen systems 
+source reproduced with kind permission marlow 
+exhibit perpetua power puck exploits the 
+temperature difference between industrial 
+motor and ambient air generate electricity 
+source reproduced with kind permission perpetua power 
+global insight march 
+microgen systems sells piezo based generator harvesting vibration energy see exhibit 
+greenpeak one the main manufacturers zigbee has options operate without replaceable 
+batteries like with the hue remote with energy harvesting device gathering energy from the 
+operator pressing the switch 
+perpetua power specialises products generating energy from gradient temperatures shown 
+exhibit the perpetua power puck device uses heat industrial environments like electric 
+motor and can power wireless sensors including pressure temperature level vibration and flow 
+from manufacturers that include emerson rosemount and honeywell perpetua spin off 
+thermogen has also developed modules that use body heat power wearables 
+wireless energy cutting the cord 
+wireless energy transmission does not necessarily imply the end batteries but more the end plugging 
+charger power device currently there are two main standards for proximity wireless charging 
+the inductive power standard developed the wireless power consortium for inductive 
+electrical power transfer the system uses inductive charging technology 
+coil powered alternative current will transmit energy over short distance another coil this called 
+induction the technology mostly used tablets smartphone manufacturers such asus htc 
+huawei nokia samsung blackberry and sony 
+power matters alliance pma and rezence alliance for wireles power since 
+february and pma have signed agreement converge their standards drive 
+adoption pma driven duracell starbucks powermat flextronics the federal 
+communications commission and energy start the driven broadcom gill idt intel 
+qualcomm samsung and witricity the merger was still under discussion january aiming 
+improving penetration rate from low level due too high level fragmentation like the 
+wireless inductive transmission only possible with very close contact 
+semiconductor companies involved those two standards include idt mediatek qualcomm and texas 
+instruments 
+transmit energy over longer distances which likely more useful for the iot two 
+technologies are emerging however they not come without safety issues indeed the energy 
+concentrated given frequency light ray which could through the human body 
+private semiconductor companies involved charging include 
+powercast specialising power transmission over wireless waves powercast sells energy 
+transmitter and energy receiver which uses the ism band 
+ossia working the cota system which transmits energy around obstacles and far 
+global insight march 
+statistical model 
+global insight march 
+autos 
+this extract from report adam jonas katy huberty and ravi shanker 
+apple auto world most valuable company meets most disruptable industry 
+being the car could very important for apple our calculations the automotive tam trillion 
+installed base with and annual new vehicle revenues trillion this dwarfs smartphones 
+and pcs annual revenue these are high level numbers and not account for the value the 
+rest the auto industry aftermarket service etc smartphone industry apps subscription based 
+models etc 
+apple were corner just the value the car would equivalent the entire 
+smartphone industry today the average driver today spends about his her free time the car 
+and apple will want target this captive audience especially autonomous the auto industry also 
+needs apple argue because after over years status quo the industry needs change agent this 
+disruption will bring significant rewards new entrants and existing players willing and able adapt quickly 
+how might apple enter the car while not completely rule out apple making its own car one day 
+believe apple can start with what knows best infotainment and point out that already cars today 
+with carplay very quickly the infotainment starting point can spread the rest the interior especially the 
+hmi human machine interface ergonomics controls and even interior design 
+would surprised apple stopped there however and over time could grow from the inside 
+out bigger part the car apple has the brand and the design talent take the best the 
+traditional auto industry and can rely the existing automotive supply chain for non critical components 
+note that apple prefers develop and design its products house and outsource the actual production and 
+assembly process this could enabled cars going autonomous estimate over the value the 
+autonomous car will come from software today 
+typical apple proprietary software ownership and innovation could overcome the traditionally low 
+returns the auto industry returns for the traditional auto industry mid cycle operating margins the 
+mid single digits and similar roic are very poor compared what apple used however believe 
+returns could much better for new age automakers note also that returns other businesses that apple 
+already smartphones pcs and consumer electronics offer returns almost low traditional auto 
+however apple able generate more profits because owns the software opposed other device 
+makers also tightly integrates its products and charges what thinks are fair prices read generally higher 
+than the rest the market for the best user experience available ultimately the size the auto tam and the 
+additional opportunity the car the fourth screen for media consumption are too large for apple ignore 
+our opinion and likely will drive look solutions around traditional auto industry bottlenecks 
+investment implications looking beyond the next years cars along with wearable devices tvs and new 
+services provide opportunities for apple continue drive revenue and earnings growth apple could see 
+multiple rating investors buy into the platform thesis our bull case based price 
+earnings assumes higher iphone share gains and watch revenue upside but does not take into account 
+any new opportunities autos tvs etc 
+for auto oems believe the end game fewer players and some very powerful all new players who don 
+even make cars today push toward silicon valley motors could result divergent path for traditional auto 
+suppliers classify suppliers into groups content leaders who make high tech and scarce 
+technologies that are seeing growing penetration within the car bwa mbly dlph trw tier suppliers 
+global insight march 
+who can become large and powerful over time that they can add more value the car than the oem and sit 
+alongside the oems the automotive supply chain dlph trw silicon valley enablers who enough 
+the dirty work around design engineering and assembly cars that new entrants may not want focus 
+mga and secular stragglers who make products that either will likely see falling importance within the car 
+move toward highly efficient autonomous offering whose products may get commoditized with the 
+transition tenneco american axle harman international goodyear 
+exhibit post autonomous future roles hardware software the car 
+rce rgan stan ley research 
+why being the car important apple 
+several recent media reports have suggested that apple has stepped its ambitions the auto industry and 
+actively pursuing building its own car this includes reports apple running prototype vans downtown san 
+francisco fitted with autonomous driving mapping equipment according cbs and apple hiring about 
+people for hmi autonomous and battery development including johann jungwirth the former head 
+mercedes benz and aiming produce car according the wall street journal reuters bloomberg 
+and the new york times company that specializes battery technology for big machines including 
+cars recently sued apple for poaching top engineers according reuters and others and bloomberg further 
+reported that apple hiring tesla employees apple has not directly addressed these reports 
+are convinced that apple will have significant presence the auto industry the coming years 
+driven the following factors 
+huge tam there are billion cars the road globally today with about sold each year those 
+numbers may pale comparison with smartphones and pcs but value terms significantly larger whether 
+measured the value all the miles driven trillion miles mile the value all the cars the road 
+today billion cars value the total global tam for autos about trillion the annual revenue base 
+global new car sales only about trillion this dwarfs smartphones and pcs 
+annual revenue these high level numbers not account for the value the rest the auto industry 
+aftermarket service etc smartphone industry apps subscription based models etc this also does 
+not include the value car content consumption autonomous world which could worth 
+additional tens billions dollars per year 
+with apple already dominant its existing verticals and given the size the automotive opportunity the 
+attraction the auto space seems highly plausible apple were corner just the value the car 
+would equal the entire smartphone industry today 
+global insight march 
+exhibit auto smartphone tam 
+vertical axis asps horizontal axis unit volume 
+captive customer with massive consumption 
+appetite esp autonomous spend lot 
+time our cars drive trillion miles each year 
+the and the average car travels miles year 
+the average driver spends about hour the car each 
+day driving about miles day the industry 
+transitions autonomous driving see our blue paper 
+nov autonomous cars self driving the new 
+auto industry paradigm that time will truly free 
+for consumption content believe apple will want 
+unfettered access this vast and captive audience 
+apple share customer time pie suggests 
+they almost must get into the car apple google 
+and other technology companies are competing directly 
+for users time innovations recent years especially 
+cloud computing and mobile internet have enabled 
+rce rgan stan ley research 
+users create consume content almost anywhere 
+and anytime technology companies are also extending their platforms hardware software and services 
+outside their core markets traditionally pcs tablets smartphones and other consumer electronics devices 
+connected internet based services today apple roughly touches quarter its users time based data 
+from the bureau labor statistics showing how american civilians over the age spend their day 
+average 
+exhibit apple making major push for the 
+rest the consumer time black what apple 
+addresses today red new opportunity 
+the automobile very large and new opportunity for 
+apple and its competitors all forms traveling 
+aggregate accounts for over hour day the 
+day and free time excluding sleeping and 
+working most this time spent private cars 
+our estimation furthermore believe autonomous 
+cars will reach the market which means the 
+drivers attention going become available for the 
+first time consume create even more content 
+hard predict how autonomous cars will change 
+behavior long term but possible people will spend 
+more time cars they not have drive which 
+makes cars even more valuable technology 
+companies 
+rce reau lab statistics rgan stan ley research 
+the car the screen making inroads into the auto industry should not hard for apple the car 
+effectively the screen for media content consumption after pcs phones and tvs apple needs transition 
+its current smartphone ecosystem into the car infotainment system which already doing with carplay 
+get its initial foothold new industry carplay could drive apple ambitions like itunes the motorola 
+rokr drove iphone development 
+why apple being the car important the auto industry 
+argue that the auto industry needs dramatic change the car gets more connected and 
+autonomous the world currently richest most valuable technology company apple will meet one the 
+world most disruptable businesses autos for moment let just forget about apple making entire car 
+that helps sell newspapers but let just dial back bit when the world most valuable auto company even 
+thinks about getting involved the auto industry and has its disposal even experiment with any 
+number business models learn more about cars the rest the auto industry pays attention 
+global insight march 
+understand the pooh poohing about how horrible returns and margins are the auto industry and the desire 
+for some apple analysts change the subject from autos fast possible lest the mere mention words like 
+cars autos vehicles begins detract from the purity the debate apple long term growth and 
+profitability that said investors may want think about the potential strategic commercial paths over 
+longer term horizon 
+silicon valley tesla google apple forcing the traditional industry start over were 
+identify three main reasons why auto returns are dreadful this day would cover auto 
+companies many whom may not really need here cars are designed manufactured and sold 
+way that has not changed significantly over more than years and the things that cars have not 
+changed materially over the past years from our conversations with the top management auto oems 
+and suppliers clear that the traditional auto industry fearful respectful and very thankful for the role that 
+silicon valley playing disruptor within year old industry silicon valley clean slate out the box 
+approach making and selling cars allows the traditional industry challenge and shed some their own 
+long standing shackles and emerge stronger and better companies 
+hypothetically this could drive significant shake out across the traditional industry this 
+disruption could bring significant rewards new entrants and existing players willing and able adapt quickly 
+and present serious challenges those companies that cannot evolve quickly enough imagine the number 
+car companies shrank from say imagine cars were designed silicon valley where the 
+content came from software engineers assembled third parties and sold company owned stores rented 
+the minute managed megafleet imagine robot driven fleets vehicles were available from your iphone 
+less than seconds and less than mile for industry that little five years ago was facing 
+near existential crisis the face oil technology driven revolution could breathe new life and buy 
+many more decades relevance but not know today our view 
+exhibit what the future the auto industry could look like 
+rce dep artmen tran rtatio natio high traffic safety admin istratio federal high admin istratio epa fda aaa cen 
+texas traffic stitu sgo vern men tsp din mso reu ters rgan stan ley research 
+global insight march 
+software 
+adam wood sid mehra 
+plan more software focused global insight report the internet things the near future however 
+below list some the key debates for software iot 
+need connect the dots given the variety sensors communications protocols and underlying 
+software applications software vendors have identified the difficulty pushing data generated from iot sensors 
+into traditional analytical data stores result have seen the emergence multiple iot platforms aimed 
+simplifying the collection and management sensor data for particular use cases will users look broader 
+platforms support multiple iot use cases will near term development take place more vertically 
+integrated technology stacks 
+what the use case merely collecting data doesn add value using the data information 
+gleaned from automate optimise business processes and consumer oriented tasks that 
+creates value last april blue paper the internet things now connecting the real economy 
+highlighted several companies such splunk palantir and sap with industry leading expertise collecting 
+storing and analysing big data see the focus the iot shifting increasingly towards application 
+development platforms and apps using such data provide real business and consumer value what will the 
+killer iot apps emerging the near future who will build them who will host them 
+security endpoint centralised the security iot projects becoming increasing concern given 
+recent large scale cyber attacks and research such the recent congressional report the lack security 
+this realm there are different ways for hackers gain access iot infrastructure the node level where the 
+data collected the transmission level between the node and the cloud and the cloud level look 
+understand who will solve the security the different levels for example will the endpoint security 
+managed chip design companies such arm which recently acquired iot node security company called 
+offspark will this also fall under the remit software security companies 
+none these challenges appears insurmountable the contrary believe they represent significant 
+revenue opportunities for the software sector however corporates from the industrial siemens and 
+telecom such verizon sectors could also try seize the opportunity 
+iot operating systems 
+iot operating systems are probably not good investment thesis investors may have been overoptimistic the potential for some companies benefit from providing the core operating system iot 
+devices suggested the many sum the parts bull cases for blackberry that view likely stems from not 
+being aware the huge numbers choices free choices that are available makers iot products given 
+that most new iot apps will extensions existing embedded non connected applications the very 
+least similar shown exhibit and exhibit not only there wide range choices but also 
+far the most widely used embedded operating systems are either self developed built free alternatives 
+and per the times embedded survey april most developers plan increase their use 
+internally developed and free alternatives 
+global insight march 
+exhibit next embedded project uses 
+source times morgan stanley research 
+exhibit operating system used engineers 
+source times morgan stanley research 
+morgan stanley international plc morgan stanley acting financial advisor orange 
+orange relation the proposed acquisition limited group plc announced december 
+orange has agreed pay fees morgan stanley for its financial services please refer the notes the 
+end the report 
+morgan stanley international plc acting financial advisor telefonica brasil relation 
+potential acquisition gvt holding from vivendi the proposed transaction subject approval 
+telefonica brasil shareholders regulatory approval and other customary closing conditions this report and 
+the information provided herein not intended provide voting advice serve endorsement the 
+proposed transaction iii result the procurement withholding revocation proxy any other action 
+security holder telefonica brasil has agreed pay fees morgan stanley for its financial services 
+please refer the notes the end the report 
+morgan stanley acting financial advisor general electric company ge connection with its proposal 
+acquire the thermal renewables and grid businesses alstom announced april the 
+proposed transaction subject further review alstom approval the shareholders alstom and 
+customary regulatory approvals this report and the information provided herein not intended provide 
+voting advice serve endorsement the proposed transaction iii result the procurement 
+withholding revocation proxy any other action security holder please refer the notes the 
+end the report 
+morgan stanley acting financial advisor dresser rand group inc dresser rand with respect its 
+definitive agreement acquired siemens announced september the proposed 
+transaction subject approval dresser rand shareholders regulatory approval the europe and 
+certain other jurisdictions and other customary closing conditions this report and the information provided 
+herein not intended provide voting advice serve endorsement the proposed transaction 
+iii result the procurement withholding revocation proxy any other action security holder 
+dresser rand has agreed pay fees morgan stanley for its financial services please refer the notes the 
+end the report 
+global insight march 
+disclosure section 
+shares prices for top picks february ambarella apple arm atmel crown castle csr 
+freescale google invensense liberty global linear technology microchip nxp 
+semiconductor realtek richtek stmicroelectronics telit and tesla motors morgan stanley 
+international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory 
+authority disseminates the research that has prepared and approves solely for the purposes section the financial services and markets 
+act research which has been prepared any its affiliates used this disclosure section morgan stanley includes rmb morgan stanley 
+proprietary limited morgan stanley international plc and its affiliates 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any price targets referenced this research report please contact the client support team follows 
+canada hong kong latin america london singapore 
+sydney tokyo alternatively you may contact your investment representative morgan stanley research 
+broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that 
+they have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report 
+charlie chan james faucette simon flannery craig hettenbach katy huberty adam jonas emmet kelly bill sid mehra francois meunier joseph 
+moore ravi shanker benjamin swinburne adam wood kazuo yoshikawa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+january morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research aixtron ambarella inc apple inc crown castle corp csr plc dialog semiconductor plc infineon technologies 
+invensense inc liberty global linear technology corp nxp semiconductor stmicroelectronics telit communications plc tesla motors inc 
+within the last months morgan stanley managed managed public offering offering securities crown castle corp liberty global 
+nxp semiconductor stmicroelectronics tesla motors inc 
+within the last months morgan stanley has received compensation for investment banking services from crown castle corp freescale semiconductor 
+ltd google liberty global nxp semiconductor stmicroelectronics tesla motors inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from aixtron ambarella 
+inc apple inc arm holdings plc asml holding atmel corp crown castle corp dialog semiconductor plc freescale semiconductor ltd 
+google infineon technologies invensense inc liberty global linear technology corp microchip technology inc nxp semiconductor 
+stmicroelectronics telit communications plc tesla motors inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from apple inc 
+arm holdings plc atmel corp crown castle corp freescale semiconductor ltd google infineon technologies liberty global linear technology 
+corp microchip technology inc nxp semiconductor realtek semiconductor 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship 
+with the following company aixtron ambarella inc apple inc arm holdings plc asml holding atmel corp crown castle corp dialog 
+semiconductor plc freescale semiconductor ltd google infineon technologies invensense inc liberty global linear technology corp 
+microchip technology inc nxp semiconductor stmicroelectronics telit communications plc tesla motors inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company apple inc arm holdings plc atmel corp crown 
+castle corp freescale semiconductor ltd google infineon technologies liberty global linear technology corp microchip technology inc nxp 
+semiconductor realtek semiconductor stmicroelectronics tesla motors inc 
+morgan stanley llc makes market the securities aixtron ambarella inc apple inc arm holdings plc asml holding atmel 
+corp crown castle corp freescale semiconductor ltd google invensense inc liberty global linear technology corp microchip technology inc 
+nxp semiconductor stmicroelectronics tesla motors inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making 
+providing liquidity and specialized trading risk arbitrage and other proprietary trading fund management commercial banking extension credit 
+investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered morgan 
+stanley research principal basis morgan stanley may have position the debt the company instruments discussed this report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley 
+research contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and 
+not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+february 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+global insight march 
+coverage universe 
+stock rating category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+count 
+total 
+count 
+total 
+ibc 
+rating 
+category 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received 
+investment banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant 
+broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad 
+market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad 
+market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith 
+barney llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval 
+conducted the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities apple inc atmel corp crown castle 
+corp google nxp semiconductor stmicroelectronics tesla motors inc 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within 
+the meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary 
+the recommendations views expressed research the same stock this may the result differing time horizons methodologies market events 
+other factors for all research available particular stock please contact your sales representative matrix 
+http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients 
+through alternate electronic means convenience for access all available morgan stanley research please contact your sales representative 
+matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms 
+accessing and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance 
+with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your 
+preferences and collect readership data that can deliver better and more personalized service and products you find out more information 
+about how morgan stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your 
+investments may vary because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market 
+indexes operational financial conditions companies other factors there may time limitations the exercise options other rights 
+securities instruments transactions past performance not necessarily guide future performance estimates future performance are based 
+assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the 
+subject company securities instruments 
+global insight march 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan 
+stanley owns more class common equity securities the companies for all other companies mentioned morgan stanley research 
+morgan stanley may have investment less than securities instruments derivatives securities instruments companies and may trade them 
+ways different from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley 
+research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley 
+business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions take proprietary positions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers 
+hong kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities 
+hong kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves 
+morgan stanley research disseminated brazil morgan stanley japan morgan stanley mufg securities ltd and for 
+commodities related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts 
+responsibility for its contents and bank morgan stanley hong kong branch singapore morgan stanley asia singapore pte registration 
+number and morgan stanley asia singapore securities pte ltd registration number regulated the monetary authority 
+singapore which accepts legal responsibility for its contents and should contacted with respect any matters arising from connection with 
+morgan stanley research and bank morgan stanley singapore branch registration number australia wholesale clients 
+within the meaning the australian corporations act morgan stanley australia limited holder australian financial services 
+license which accepts responsibility for its contents australia wholesale clients and retail clients within the meaning the australian 
+corporations act morgan stanley wealth management australia pty ltd holder australian financial services license 
+which accepts responsibility for its contents korea morgan stanley international plc seoul branch india morgan stanley india 
+company private limited indonesia morgan stanley asia indonesia canada morgan stanley canada limited which has approved and 
+takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth 
+management limited niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley 
+morgan stanley group company which supervised the spanish securities markets commission cnmv and states that morgan stanley 
+research has been written and distributed accordance with the rules conduct applicable financial research established under spanish 
+regulations the morgan stanley llc which accepts responsibility for its contents morgan stanley international plc authorized 
+the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory authority disseminates the 
+research that has prepared and approves solely for the purposes section the financial services and markets act research which has been 
+prepared any its affiliates morgan stanley private wealth management limited authorized and regulated the financial conduct authority also 
+disseminates morgan stanley research the private investors should obtain the advice their morgan stanley international plc morgan 
+stanley private wealth management representative about the investments concerned rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally 
+morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized 
+firms comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences 
+for this reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages 
+relating such data the global industry classification standard gics was developed and the exclusive property msci and morgan stanley 
+research portions may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+global insight march 
+industry coverage technology semiconductors 
+company ticker 
+rating 
+price 
+humphrey andrew 
+aixtron aixgn 
+meunier francois 
+arm holdings plc arm 
+asml holding asml 
+csr plc csr 
+dialog semiconductor plc dlgs 
+imagination technologies group img 
+infineon technologies ifxgn 
+stmicroelectronics stm 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

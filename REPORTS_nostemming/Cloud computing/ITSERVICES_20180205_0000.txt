@@ -1,0 +1,2471 @@
+february gmt 
+services 
+secular and cyclical support 
+ahead upgrading services 
+attractive 
+our alphawise cio survey tells cloud adoption has crossed the 
+threshold implying secular shift that should drive services growth 
+meanwhile see cyclical shift into high quality and defensive stocks 
+upgrade accenture ibm and capgemini also well positioned 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+contributors 
+morgan stanley llc 
+morgan stanley llc 
+brian essex cfa 
+thomas robb 
+equity analyst 
+research associate 
+brian essex morganstanley 
+thomas robb morganstanley 
+additional contributors this report 
+iit hardware 
+katy huberty 
+kathryn huberty morganstanley 
+elizabeth elliott 
+elizabeth elliott morganstanley 
+brian hayes morganstanley 
+quant equity research 
+brian hayes 
+contents 
+portfolio manager summary 
+ibm risk reward 
+the foot multi year investment cycle 
+acn model 
+services budgets stronger into 
+ctsh model 
+late cyclical environment supporting 
+multiples 
+dxc model 
+cndt model 
+tax reform benign for larger vendors 
+more alphawise 
+immigration more bark than bite 
+acn upgrade 
+ctsh increasing but cautious into results 
+dxc waiting for usps detail 
+cndt turnaround early innings 
+ibm strategic imperatives support confidence 
+turnaround 
+comps table 
+morgan stanley cio survey demographics 
+acn risk reward 
+ctsh risk reward 
+dxc risk reward 
+cndt risk reward 
+morgan stanley research 
+services 
+secular and cyclical support 
+ahead upgrading services 
+attractive 
+alphawise cio survey tells cloud adoption has crossed the 
+threshold implying secular shift that should drive services growth 
+meanwhile see cyclical shift into high quality and defensive stocks 
+upgrade accenture ibm and capgemini also well positioned 
+what 
+changed 
+accenture plc acn 
+from 
+rating 
+equal weight 
+price target 
+cognizant technology solutions corp ctsh 
+price target 
+dxc technology company dxc 
+price target 
+services 
+industry view 
+cautious 
+overweight 
+attractive 
+believe are the early stages secular shift toward 
+tions should take share upgrade accenture overweight and 
+digital and cloud adoption driving our double upgrade the 
+highlight ibm covered katy huberty and capgemini covered 
+services industry view from cautious attractive historically 
+adam wood names poised benefit relative peers 
+adoption rates have signaled critical mass for technologies and cios 
+services budgets are growing faster cios our recent survey 
+see cloud adoption more than doubling from this year 
+expect services budget growth last year 
+other positive signposts include commentary from cios 
+addition this was the second survey row where expectations 
+and the channel that digital cloud projects are growing size and 
+for services budget growth outpaced overall budget growth 
+scope and data points from consulting firms and vendors that 
+budget confidence higher with cios polled expecting 
+services spending picking enter this multi year adoption 
+budgets revised higher digital transformation projects rose 
+cycle forecast top line cagr and eps cagr for 
+top four cio spending priority behind cloud computing security 
+our top picks over the next three years our bull case reflects and 
+and erp applications 
+revenue and eps cagrs respectively over this period with tailwinds from cyclical shift defensive names believe multiples 
+for stocks will remain resilient not rate another turn with 
+eps growth accruing share appreciation vendors with strong 
+positioning consulting system integration and next gen applica 
+and cloud contracts are getting larger according channel 
+partners vendors and cios our conversations indicate that more 
+digital and cloud projects are moving from pilot deployment new 
+cloud first initiatives have historically pushed legacy transforma 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may have conflict 
+interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+tion projects the back burner new projects tend more 
+directly tied revenue generating initiatives and easier pursue 
+with more predictable costs and potentially less disruption risk 
+however our industry conversations and survey results reflect 
+greater number digital transformation projects moving deployment with contracts getting larger the process product 
+higher hybrid computing costs are expected well 
+recent consultant and vendor commentary reflects pick 
+spending industry consulting firms and vendors have also mentioned better services spending and specifically better growth for 
+digital and cloud projects consulting firm isg recently noted that 
+combined acv was for contracts they saw with traditional business declining and service business growing 
+vendors reporting far accenture and ibm well infosys 
+hcl technologies and wipro covered parag gupta all point 
+better spending ahead with digital and cloud common driver 
+shift into defensive names could lift multiples and drive outperformance our strategy team notes could entering the 
+later stages economic expansion cycle and services stocks 
+are generally viewed better late cycle performers rotation into 
+defensive stocks during late cyclical phase periods volatility 
+could drive services outperformance see approximately 
+upside for the group our base case and our bull case our 
+highest conviction calls are acn upside our our 
+bull case and dxc technology upside our our bull 
+case 
+portfolio manager summary 
+evidence momentum for services building our most recent cio survey feeling stronger budget growth improves into 
+represents the second survey row where services budgets were expected improve over the prior year additionally cios polled 
+indicated constructive revision bias with participants anticipating positive budget revisions indications that have crossed 
+the threshold cloud adoption adds our enthusiasm for services spending believe this meaningful inflection point based 
+historical technology adoption cycles illustrated exhibit 
+exhibit 
+curve twenty percent represents historically important penetration level technology 
+notebook penetration pcs 
+smartphone penetration handsets 
+workloads public cloud 
+penetration server revenue 
+digital penetration music sales 
+inflection 
+point exiting 
+source idc gartner cio survey morgan stanley research 
+crossing the chasm penetration for several years have 
+consulting these teams can provide industry experts with 
+been watching our cio survey for evidence accelerated cloud 
+talent design and enable transformational programs 
+adoption but penetration seemed stuck the teens last summer 
+teams can composed consultants with financial appli 
+started see signs movement and finally our latest survey indi 
+cation and architecture technology supply chain operation 
+cated that cios workloads were public cloud environ 
+and channel expertise transformation initiatives can include 
+ments including saas paas and iaas cios indicated 
+digital cloud security and blockchain technology 
+they expect this penetration more than double over the next few 
+years reaching penetration the end 
+how does services benefit from adoption digital and cloud 
+technology most services vendors have consulting and outsourcing segments their business for enterprises leveraging technology remain competitive and transform operations these 
+vendors play the following critical roles 
+application services typically involves designing new appli 
+cations integration software applications sap salesforce servicenow workday these services can include 
+labs for the development applications and services that 
+can help manage cloud relationships across multiple cloud 
+partners and providers 
+operational outsourcing these services typically manage 
+systems and processes for customers these would include 
+strategy define and execute strategies enabled tech 
+business process outsourcing bpo infrastructure manage 
+nology these initiatives can often focused helping 
+ment outsourcing data centers cloud services and 
+executive teams understand how achieve optimal business 
+hybrid solutions 
+outcomes transform business processes take advantage 
+digital disruption and improve customer engagement 
+tax reform more beneficial for the smaller vendors continue 
+anticipate further upside for transformation stories disrup 
+see tax reform more beneficial for the smaller services ven 
+tion has not been limited technology most our coverage has 
+dors cover they have greater percentage their business 
+been pursuing transformational events over the past year 
+concentrated the with higher aggregate tax rates within our 
+brought the spin conduent from xrx covered katy huberty 
+coverage believe dst cndt and dxc will the most mean 
+the csc hpes spin merge which became dxc meaningful shift 
+ingful beneficiaries tax reform exhibit outside direct 
+shareholder return philosophy for cognizant technology solutions 
+impact consulting spending can discretionary nature 
+and the ongoing sale non core assets for dst systems expect 
+also believe that any windfall associated with tax reform will have 
+transformation stories will continue work with dxc tech 
+positive implications for the discretionary portion budgets 
+nology remaining one our top picks while had expected that 
+line with conversations have had with consultants cios and 
+form would filed the end offering greater detail 
+services vendors 
+the operating structure usps and what the expense split might 
+look like after the planned spin this point expect update 
+immigration back into the spotlight with affordable health care 
+when the company reports earnings but meanwhile see the passage 
+and tax reform now addressed the new administration immigra 
+tax reform net positive usps particular should mean 
+tion has resurfaced topic for investors wrestle with and have 
+ingful beneficiary lower corporate tax rate essentially 
+already seen few new issues arise over the past few months within 
+improving fundamentals the higher multiple business 
+our coverage see ctsh most risk depending the nature 
+the issues that arise however anticipate the worst see will 
+where could wrong our view based part belief 
+efforts from new administration manage the program 
+that will see better spending environment than saw 
+restrictive manner with bias toward enforcing the laws and encour 
+last year with better global growth anticipated see tax reform 
+aging higher skilled applicants with political capital risk 
+shot the arm for discretionary spending which should benefit 
+believe greater emphasis will placed addressing illegal immi 
+our coverage should the global economy and more specifically the 
+gration and daca with efforts addressing skilled labor more likely 
+economy experience rougher period growth than expected 
+the low risk side the extent that any changes provide ven 
+expect discretionary portions budgets risk being cut 
+dors with more hoops jump through restrict their ability recruit 
+and consulting focused stocks feel the pressure however our 
+foreign talent increase their costs anticipate the worst may 
+view also that several our stocks including acn have histori 
+headline risk 
+cally had defensive and late cyclical characteristics would still 
+expect these stocks perform better than most more chal 
+shift into late cycle stocks should support outperformance 
+lenging economic environment 
+and multiple expansion may nearing the end economic 
+expansion cycle our strategy team has suggested services 
+often thought late cyclical sector and anticipate additional 
+multiple support for stocks that investors will likely gravitate for 
+late cyclical defensive characteristics with this backdrop 
+favor stocks with consulting bias and greater degree exposure 
+digital and cloud adoption are taking numbers for accenture upgrade overweight and increase our price target 
+are also highlighting ibm covered katy huberty and capgemini covered adam wood stocks that fit this profile 
+additionally reiterate our overweight rating for dxc see 
+opportunity for upside with substantial transformation progress 
+morgan stanley research 
+exhibit 
+our proprietary leading indicator model points improving consulting growth 
+exhibit 
+favor stocks with greater mix next generation technology 
+exposure 
+source company data morgan stanley research 
+excludes bps business 
+source morgan stanley research 
+exhibit 
+expect contribute growth 
+exhibit 
+tailwind into 
+acn 
+ctsh 
+ibm 
+capp 
+trade weighted dollar index 
+source fred morgan stanley research 
+exhibit 
+proprietary quant rankings prefer high quality defensive names 
+exhibit 
+smaller vendors the beneficiaries tax reform 
+source company data morgan stanley research 
+source morgan stanley quant equity research 
+source company data morgan stanley research 
+notes regarding our quant rankings the fields exhibit are 
+exhibit 
+populated from proprietary quant equity research models the 
+select services coverage universe risk reward 
+quality rating based four quality quartiles our equity quality 
+model high moderate low and junk our style model there are 
+three categories each with one third stocks value neither value 
+nor growth and growth our stock level cyclical defensive classification model cynde comprised five quintiles most 
+defensive and most cyclical 
+source morgan stanley research thomson reuters 
+morgan stanley research 
+summary views 
+upgrading acn overweight with price target 
+increasing our ctsh price target but highlight caution 
+believe the company track record stable shareholder return 
+into earnings with multiples coming see rising tide lifting 
+along with best class positioning ahead digital and cloud adop 
+all boats and increase our ctsh price target roll valuation for 
+tion will continue support premium multiple meanwhile street 
+ward numbers however while believe the company will 
+numbers are too low our view they not adequately reflect 
+benefit from meaningful inorganic contribution this year believe 
+the company best class exposure what believe will 
+street numbers may too aggressive and see risk guidance 
+multi year accelerated adoption cycle new technology 
+when the company reports 
+dxc form next catalyst were originally expecting dxc 
+cndt turnaround still early innings following the company 
+form december but the company still awaiting sign off from 
+divestiture worth revenue the company sized 
+its independent auditors expect this catalyst for the stock 
+the total for businesses that may rationalized additional 
+once released investors will have better understanding 
+while the company has yet provide the total 
+details the usps segment and spin off capital structure 
+impact would expect these strategic actions continued 
+headwind revenue but tailwind for ebitda margins con 
+ibm strategic imperatives support confidence turn 
+tinue believe near term expectations are reasonable some initia 
+around investor confidence the company transformation hinges 
+tives could potentially pulled forward and incremental color 
+its ability show more consistent improvement gross margins 
+progress toward cost saving initiatives could positive catalyst 
+higher value revenue sources cloud cognitive mobile and security grow size see gross profit dollar growth accelerating and 
+gross margin roughly flat revenue growth sustains and 
+mixes higher margin software and productivity initiatives translate more savings ibm services segments 
+the foot multi year investment cycle 
+meaningful inflection point 
+exhibit 
+public cloud adoption following years 
+public cloud adoption has crossed the threshold 
+waiting for evidence accelerating 
+penetration public cloud into overall 
+enterprise workloads believe are 
+finally inflection point for significant long term shift toward digital 
+cloud adoption for several years 
+seemed though cloud adoption had 
+stalled with mid teens workload penetration percentage total enterprise 
+workloads cios always had the intention 
+driving premise workloads into the 
+cloud but seemed though cloud first 
+initiatives took priority while premise 
+applications proved more challenging and 
+expensive 
+migrate 
+than 
+source alphawise morgan stanley research and data 
+initially 
+intended cloud adoption our surveys 
+stalled the teens until last quarter when 
+reached our most recently pub 
+exhibit 
+lished cio survey public cloud adoption 
+with expectations acceleration 
+among cios surveyed reached penetration believe crossing the 
+threshold could mark important inflection point for digital and cloud adoption 
+based previous technology adoption 
+cycles 
+believe the digital and cloud inflection will drive meaningful multi year 
+investment cycle while have seen 
+cloud adoption driving growth over the 
+past few years believe growth has 
+source alphawise morgan stanley research and data 
+been relatively moderate date many 
+these remained initial pilot stages 
+however recent conversations with cios indicate that digital and 
+cloud projects are beginning expand with scope increasing and 
+contracts getting larger these comments are supported strong 
+license growth from cloud software vendors commentary consulting firms and most recently industry analysts such isg 
+which noted that traditional contracts saw over declined 
+while service business grew with contracts just beginning grow response wide scale deployment believe 
+healthy period digital and cloud related growth lies ahead 
+morgan stanley research 
+although not anticipate the level 
+exhibit 
+accelerated adoption saw from outsour 
+digital and cloud drives consulting and next gen spending 
+cing from through the crossing 
+critical adoption threshold building 
+vendor pipelines project maturity and cio 
+commentary give confidence will see 
+digital and cloud spending continue 
+grow more meaningful levels than 
+have seen date this turn anticipate 
+will drive incremental strength services 
+budgets 
+source alphawise morgan stanley research 
+exhibit 
+wallet share donors expected application infrastructure outsourcing well bpo 
+source alphawise morgan stanley research 
+discretionary spending outlook 
+exhibit 
+driving cloud and digital con 
+our leading indicator model points improving consulting growth 
+sulting strength within services 
+budgets cios anticipate that consulting system integration 
+and next generation cloud application work are expected take 
+share services budgets exhibit 
+the expense legacy outsourcing business most risk are application outsourcing infrastructure 
+outsourcing and business process 
+outsourcing exhibit offshore 
+outsource resources saw the largest 
+percentage respondents indicating 
+that spending could under budgets 
+more than followed 
+hardware software support 
+and business process outsourcing 
+source morgan stanley research 
+exhibit 
+next generation technology mix vendor 
+source company data morgan stanley research 
+excludes bps business 
+morgan stanley research 
+believe vendors will continue leverage pivot ahead 
+exhibit 
+the adoption curve have seen many the services ven 
+important driver services 
+dors spending head the digital cloud adoption curve acn and 
+ibm two clear leaders anticipating the trend years ago have been 
+leading the charge while have seen spikes spending with cog 
+nizant and capgemini the elevated spending saw with cognizant 
+was its acquisition trizetto bpaas solution capgemini elevated spending was primarily due its acquisi 
+ibm 
+capp 
+however averaged just under per year for the 
+three years ended accenture increased activity 
+the last three years acn deals have been digital 
+ctsh 
+tion igate business process outsourcing vendor accenture 
+approximately with spending totaling over 
+acn 
+source company data morgan stanley research 
+cloud and security focused ibm has spent approximately 
+acquisitions over the past three years with large portion its deals 
+legacy consulting vendors better positioned manage shift 
+targeted strategic imperatives 
+toward digital now see the pendulum swinging the other way 
+with the focus now the new enterprises look consultants for 
+models have shifted over time when look back the evolution 
+guidance help them understand how best take advantage 
+services over the past few decades few trends stick out the 
+new technology and engage with digital transformation projects 
+early outsourcing experienced rapid adoption and ser 
+while legacy outsourcing vendors are seeing traction with con 
+vices vendors with labor low cost locations experienced rapid 
+sulting can take years for vendor build formidable brand 
+growth vendors like ctsh had their headcount offshore 
+trusted advisor from competitive standpoint see acn and 
+locations and were well positioned benefit from the trend legacy 
+ibm the best positioned trusted advisors additionally mix con 
+consulting firms such acn had somewhat different model with 
+sulting still matters noted above acn and ibm have the highest 
+higher cost headcount exposure greater amount discre 
+mix the new consulting business their peer group exhibit 
+tionary spending and greater volatility accenture consulting head 
+note that while still playing catch the consulting 
+count was approximately its total work force the end 
+brand department believe ctsh making progress with its con 
+over time however legacy consulting firms became more 
+sulting business and has been able distance themselves mean 
+competitive building out their own networks labor low cost 
+ingful way from other legacy outsourcing vendors 
+locations accenture built out its global delivery network which 
+reached total employees the end now not all 
+these are low cost employees but the acn has certainly become 
+more competitive with legacy outsourcing offshoring models the 
+process 
+exhibit 
+acn constant currency outsourcing consulting growth 
+source company data morgan stanley research 
+exhibit 
+ctsh consulting outsourcing 
+digital 
+outsourcing 
+consulting growth 
+outsourcing growth 
+source company data morgan stanley research 
+morgan stanley research 
+focused vendors over the past few years has 
+acn more competitive with outsourcing over time while ctsh has tried shift toward 
+been headwind for some consulting firms and for 
+consulting 
+acn particular recently this trend has shifted 
+and now expect meaningful tailwind for acn 
+conversely could has been tail 
+wind for many the offshore outsourcing vendors many the indian heritage vendors could bill 
+dollars and pay labor costs indian rupee 
+recently have seen this trend abate which 
+could limit their ability expand margins more 
+aggressively plow back much excess profit 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+dec 
+jun 
+exhibit 
+consulting revenue 
+incremental tail wind for consulting 
+into growth initiatives 
+ctsh 
+acn 
+source company data morgan stanley research 
+exhibit 
+usd resuming downward trend supporting tailwind 
+trade weighted dollar index 
+source fred morgan stanley research 
+services budgets stronger into 
+services budget growth expected sustain recent highs into our most recent cio survey feeling stronger budget growth 
+improves into represents the second quarter row which services budgets were expected improve over the prior year cios 
+polled our latest survey indicated that budget growth expected accelerate while budgets are expected come 
+compared with survey results and channel commentary pointing digital and cloud initiatives key contributors for better 
+growth expectations see accenture ibm and capgemini best positioned benefit from the improving outlook these vendors have 
+the highest portion exposure next generation technology among public services vendors with strong consulting brands believe 
+tail winds could last several years 
+exhibit 
+expectations for sustained services budget growth 
+source alphawise morgan stanley research and data note october cio survey reflects data from different surveying vendor 
+morgan stanley research 
+better outlook with better revision bias 
+exhibit 
+services spending expected garner greater 
+services budget growth 
+share overall budgets behind software 
+those cios polled indicate that they anticipate overspending relative budget compared 
+for our last survey addition 
+stronger global macro outlook for the year 
+believe tax reform also supporting the outlook 
+the particularly with regard discretionary spending positive for consulting 
+growth 
+source alphawise morgan stanley research and data 
+exhibit 
+positive bias services budget revisions 
+source alphawise morgan stanley research and data 
+digital transformation moves into top priority for supporting commentary that heard from vendors consultants and cios 
+digital transformation projects mad their way into the top four cio spending priorities our latest survey our view this reflects other 
+comments heard indicating that digital and cloud projects are getting larger and moving deeper address legacy applications 
+exhibit 
+top cio spending priorities 
+source alphawise morgan stanley research and data 
+morgan stanley research 
+spending hybrid technology may provide incremental tail 
+exhibit 
+wind investors continue debate the long term impact cloud 
+impact hybrid computing environment overall services 
+adoption spending for services our survey implied that over 
+spending 
+the next months hybrid spending may provide net tailwind for 
+services spending with respondents indicating total 
+spending was expected increase expect increase 
+between and due hybrid computing environments 
+source alphawise morgan stanley research 
+late cyclical environment supporting 
+multiples 
+late cyclical macro environment can support better multiples 
+morgan stanley chief equity strategist mike wilson pointed 
+exhibit 
+ownership analysis 
+out note several months ago equity markets have delivered 
+exceptional returns looking ahead into expects narrower performance with greater levels volatility calling for late 
+cyclical environment arguably enter extended period the 
+current economic expansion cycle sympathy with these thoughts 
+have seen supportive ownership levels within the services 
+sector with multiples creeping the process this makes sense 
+services stocks are commonly thought late cyclical 
+nature with acn and ibm the best examples defensive stocks 
+within our coverage look forward into our outlook calls 
+for better exposure growth technology with improving fundamentals well believe the defensive characteristics these stocks 
+will offer multiple support addition any support may 
+source thomoson reuters morgan stanley research 
+see from fundamental performance 
+exhibit 
+economy late the cycle 
+supportive environment for equities but looking later the 
+cycle our strategy team recently pointed out our cross asset 
+team cycle indicator suggests are still the expansion stage 
+economic recovery while they seem far from calling for end 
+the cycle seem getting later into the cycle while consulting firms have contracts that are more discretionary nature 
+outsourcing and maintenance types work services vendors 
+maintain have along with the timing some their contract work 
+have historically helped the stocks perform well late cycle environments 
+looked morgan stanley quant research team evaluate our coverage our quest for defensive characteristics 
+source morgan stanley research october 
+exhibit 
+prefer better quality defensive stocks 
+found confirmation quality and defensive traits our quant team 
+developed several models help quantify cyclical and defensive 
+characteristics stocks looking for cyclical and defensive stock 
+ideas ask cynde asked our quant team update the values 
+their model and found that within our coverage universe acn 
+exhibited the greatest defensive characteristics ibm also exhibited 
+strong defensive characteristics and both stocks yielded high quality 
+ratings our quant team cynde model ranks stocks quintiles 
+with being the most cyclical and the most defensive 
+cap group 
+accenture 
+ibm 
+cognizant 
+dst 
+dxc 
+tcs 
+infosys 
+wipro 
+capgemini 
+hcl 
+atos 
+sopra 
+cndt 
+large 
+mega 
+large 
+small 
+large 
+mega 
+mega 
+large 
+large 
+large 
+large 
+small 
+small 
+quality 
+rating 
+high 
+high 
+high 
+low 
+junk 
+high 
+high 
+high 
+medium 
+low 
+low 
+low 
+junk 
+style 
+growth 
+value 
+growth 
+neither 
+neither 
+growth 
+neither 
+neither 
+value 
+growth 
+neither 
+neither 
+value 
+cynde quintile 
+defensive 
+moderately defensive 
+neither cyc nor def 
+moderately cyclical 
+moderately defensive 
+source morgan stanley quant equity research 
+morgan stanley research 
+accenture the highest quality based cynde values from our quant team accenture enjoys the greatest amount defensive characteristics within our coverage from quality score perspective has also maintained the highest quality for the longest duration interestingly ibm 
+used rank growth stock and has moved into the value category illustrated exhibit below cognizant used cyclical stock 
+but has recently become more defensive ctsh quality scores have also improved dramatically since the company initiated its new shareholder return philosophy 
+exhibit 
+historical cynde values stock 
+defensive 
+moderately 
+defensive 
+cynde value 
+neither 
+moderately 
+cyclical 
+cyclical 
+dxc 
+source morgan stanley quant equity research 
+exhibit 
+factors unsed classify stocks cyclical defensive 
+quintile spreads used for factor returns 
+source clarifi morgan stanley quant equity research 
+dst 
+ibm 
+ctsh 
+acn 
+jul 
+nov 
+mar 
+jul 
+nov 
+nov 
+mar 
+jul 
+nov 
+mar 
+jul 
+nov 
+mar 
+jul 
+mar 
+jul 
+nov 
+mar 
+jul 
+nov 
+mar 
+jul 
+nov 
+mar 
+jul 
+nov 
+nov 
+mar 
+jul 
+nov 
+mar 
+jul 
+mar 
+tax reform benign for larger vendors 
+base erosion anti abuse tax beat will the most meaningful tax issues for our services coverage after analyzing the impacts our coverage from the recently enacted corporate tax laws expect the beat meaningful 
+issue for services companies cover while benefits lower corporate tax rate and interest rate deductibility 
+limits are relatively straightforward assess details behind repatriation and beat remain difficult discern until 
+receive additional information from the companies 
+incremental disclosure may have modest impact our stocks 
+dxc dst and cndt best positioned benefit the factors 
+believe tax reform largely reflected stock prices within our 
+involved the reduction corporate tax rate has the most 
+coverage however companies continue assess the impact 
+meaningful impact our coverage our preliminary analysis indi 
+reform may have their businesses may see some modest 
+cates that those with the higher adjusted tax rates dxc dst and 
+impact from incremental disclosure this may also the case with 
+cndt stand benefit the most from reform 
+additional legislation that could required address supporting 
+issues such eligibility services for the purpose calculating 
+base erosion 
+exhibit 
+estimated impact tax reform our services coverage 
+dst 
+cndt 
+dxc 
+acn 
+ctsh 
+sales 
+ebt 
+est corp tax 
+beat impact 
+adj tax rate 
+old 
+new 
+foreign earnings 
+impact 
+total 
+impact 
+source company data morgan stanley research 
+expect ctsh and acn could see most benefits offset both 
+base erosion measures beat additionally ctsh appears 
+ctsh and acn appear take advantage transfer pricing lower 
+maintain significant amount undistributed foreign earnings 
+tax exposure under existing rules our initial estimates may need 
+which could mean that ctsh would see the greatest negative impact 
+adjusted upon additional disclosure but believe these compa 
+from taxes these earnings 
+nies will see benefits from the lower tax rates meaningfully offset 
+exhibit 
+undistributed foreign earnings detail 
+dxc 
+cndt 
+ctsh 
+dst 
+acn 
+foreign 
+undistributed 
+earnings 
+non 
+cash 
+estimated 
+assets 
+cash 
+cash rate 
+assets 
+rate 
+undist foreign 
+earnings impact 
+year allocation 
+total 
+eps 
+imact 
+source company data morgan stanley research 
+morgan stanley research 
+immigration more bark than bite 
+immigration back into the spotlight with affordable 
+health care and tax reform now addressed the new 
+administration immigration has resurfaced topic for 
+investors wrestle with and have already seen few new 
+issues arise over the past few months last month news 
+circulated that the administration was considering 
+measure that would stop granting extensions visa 
+holders waiting for green card but date such 
+measure has been introduced several bills have been 
+introduced congress apply more restrictive measures 
+the program but few far really reform the 
+program bills have been introduced rep zoe lofgren 
+california rep darrell issa california sen chuck 
+grassley iowa and sen dick durbin illinois 
+visas based skill level and increasing oversight employers 
+the grassley durbin bill also includes several reforms for the visa 
+program beyond our purview predict which any these 
+bills will pass into law but point out that issa has announced 
+that will not running for election 
+within our coverage see cognizant most risk dependent 
+employer anticipate the greatest risk would increasingly 
+restrictive enforcement existing laws with bias toward enforcing 
+the laws and encouraging higher skilled applicants with political 
+capital risk believe greater emphasis will placed 
+addressing illegal immigration and daca with efforts around skilled 
+labor more likely the low risk side the extent that any 
+changes present vendors with more requirements meet restrict 
+their ability recruit foreign talent increase their costs could 
+lofgren bill included measures raise the prevailing wage limits 
+prioritize allocation visas those paying higher salaries and 
+set aside visas for small and start employers issa replaced the 
+wage exemption and advanced degree exemption with 
+measures incentivize higher wages for holders well several measures increase employer accountability and oversight 
+grassley and durbin authored joint bill aimed limiting the 
+number employees dependent firms could hire prioritizing 
+see headline risk 
+acn upgrade 
+upgrading acn overweight exposure spending 
+cycle ahead and increasing price target 
+anticipate multi year acceleration digital and cloud 
+adoption see accenture best positioned among our 
+coverage universe with the greatest level exposure 
+digital and cloud consulting percentage revenue 
+among our coverage universe additionally investors 
+look toward the end the current economic expansion 
+cycle expect accenture see incremental multiple 
+support defensive stock are raising our revenue 
+and eps estimates with better digital and cloud spending 
+cycle anticipated ahead addition expected share price 
+appreciation acn currently has dividend yield 
+implying total return with our price target 
+believe premium multiple warranted our price 
+target based multiple over earnings while this may 
+seem high believe the multiple warranted due 
+greater exposure digital and cloud growth than its peer 
+group illustrated exhibit acn has peer high exposure the new digital cloud and security consulting 
+technology 
+strong free cash flow conversion relative other services 
+vendors acn currently trades approximately 
+fcf compared average for services companies track and indian heritage services vendors 
+trading fcf our price target implies 
+fcf multiple additionally acn has dividend yield 
+approximately 
+multiple elevated but numbers too low consensus currently 
+acn maintains best class earnings quality among the 
+implies revenue growth and growth with eps 
+services vendors unlike some vendors the company does 
+growth and for and respectively however 
+not back out stock based compensation and more disci 
+believe that accenture will continue see strong contribution 
+plined about backing out one time items were back 
+growth from with activity having accelerated acqui 
+out estimated stock based compensation the stock would 
+sitions turn has helped enable accenture pivot 
+currently trading earnings and our price 
+more aggressively toward digital cloud and other new technology 
+ahead the market inflection point weaker legacy business con 
+target would imply eps 
+quality management with track record consistent exe 
+tinues have less impact tailwinds into should 
+cution 
+support double digit constant currency growth into the digital and 
+cloud adoption cycle and with accenture scoring the high end 
+exhibit 
+our coverage for defensive attributes could see resilient mul 
+cios expect increase spending accenture over the next 
+tiple not rating higher move into the later stages eco 
+months 
+nomic expansion our revised forecast reflects revenue 
+services spending plans vendor 
+growth and growth with eps growth 
+atos 
+mse 
+consensus 
+cons 
+wipro 
+cognizant 
+cndt 
+dxc 
+mse 
+consensus 
+cons 
+eps 
+infosys 
+accenture 
+ibm 
+deloitte 
+acn calendar 
+revenues million 
+hcltech 
+our revised forecast over street estimates 
+tcs 
+exhibit 
+dst 
+and respectively 
+source alphawise morgan stanley research note dst represents sample size 
+source bloomberg morgan stanley research 
+morgan stanley research 
+our consulting leading indicator model and recent headcount 
+exhibit 
+growth support better growth for acn our proprietary con 
+growth the new cannibalizing and offsetting declining legacy 
+sulting industry model forecasts industry growth acceleration 
+business 
+growth strength driven 
+improving semiconductor equipment billings and euro area 
+consumer confidence offset the year fed funds spread 
+vendor commentary from services peers during implied 
+ongoing strength digital and cloud adoption supporting improvement our consulting model expect acn consulting revenue 
+fare better than peers this quarter with greater exposure high 
+value strategic consulting 
+exhibit 
+accenture headcount growth supports near term revenue acceleration 
+source company data morgan stanley research 
+assumes all inorganic growth disclosed the new 
+remains focused digital accenture strategy has 
+consistently contributed the company topline growth 
+marked record number investments strategic acquisitions all 
+while continuing return cash shareholders although the quantity acquisitions declined sequentially the company 
+remains focused expanding its digital business looking 
+the company expects spend cash flow implying 
+acquisitions with inorganic revenue contributing 
+revenue growth fiscal approximately 
+source company data morgan stanley research 
+exhibit 
+exhibit 
+driving pivot digital 
+consulting leading indicator model also supportive better growth 
+actual predicted ttm consulting industry revenue growth 
+actual 
+estimate 
+deal count 
+other 
+source company data morgan stanley research 
+digital 
+source company data morgan stanley research 
+security 
+digital rhs 
+deals digital 
+could see upside this tailwind 
+trade weighted inverted 
+our model however with the resuming its downward trend 
+guidance implies tailwind which consistent with 
+acn currency impact 
+currency expected remain tailwind 
+and model benefit based current prices accenture 
+management guided tailwind for revenue growth 
+exhibit 
+benefit remains but moderated recent usd rally 
+acn 
+source fred company data morgan stanley research 
+exhibit 
+usd resuming downward trend supporting tailwind 
+trade weighted dollar index 
+source fred morgan stanley research 
+morgan stanley research 
+ctsh increasing but cautious into results 
+raising cognizant highlighting caution into earnings with accenture believe will contribute 
+several hundred basis points growth for ctsh 
+and may see better banking and financial services 
+spending support results well however believe 
+near term organic growth may challenged the company laps several tail winds and manages lower employee 
+headcount number near term are moving our price 
+target roll forward numbers but lower 
+our numbers moderately lower near term growth 
+expectations our price target driven multiple 
+eps 
+exhibit 
+ctsh headcount growth leading indicator for revenue growth 
+lowering numbers slightly citing risk guidance the end 
+the day services vendors are headcount driven models that are 
+source morgan stanley research 
+heavily correlated the number employees they have although 
+attrition was elevated the quarter and utilization was better last 
+health care and bfs spending could improve throughout the 
+quarter marked the first quarter that ctsh had headcount growth 
+year commentary from cios channel partners and services ven 
+close zero far back have data including 
+dors reporting far this year has been constructive bfs 
+the great recession noted below could see better health 
+spending while large money center bank spending seems still 
+care and bfs spending should help results and head 
+sluggish ctsh has pointed better spending for tier banks and 
+count short term indicator however believe organic growth 
+industry wide are hearing about better backlog building for euro 
+and initial guidance could disappoint particularly considering con 
+pean and retail banks additionally insurance spending appears 
+sensus numbers reflecting growth and for 
+picking the healthcare side saw some relief after the 
+and respectively consensus expectations reflect full year rev 
+aetna humana and cigna anthem deals were shelved last year 
+enue growth for with the company recently 
+however aetna cvs may pose slight headwind for ctsh 
+moving range for revenue guidance believe ctsh could guide 
+for revenue growth for which would below gui 
+tools the company disposal for earnings support while 
+dance the midpoint and believe disappointment for inves 
+believe revenue growth may come weak ctsh does have several 
+tors 
+tools its disposal manage earnings addition fair amount 
+spending control manage margins the company did repatriate 
+several billion dollars out india last year with some going the 
+and the rest outside the healthy amount cash was used for 
+the company recent asr and ctsh renewed its commitment 
+repurchasing additional the end our model 
+takes this into consideration but believe the company could 
+enhance levels share repurchases needed 
+also expected support growth while anticipate 
+exhibit 
+organic growth may weaker also recognize that ctsh made 
+cios expect decrease spending cognizant over the next 
+several acquisitions and could see incremental contribu 
+months 
+tion from these while not have detail average wage rates 
+services spending plans vendor 
+for companies acquired wide range based employees acquired 
+atos 
+wipro 
+cognizant 
+cndt 
+dxc 
+infosys 
+accenture 
+ibm 
+dst 
+recent transactions 
+deloitte 
+exhibit 
+hcltech 
+into 
+tcs 
+implies that could see over more contribution from 
+source alphawise morgan stanley research note dst represents sample size 
+exhibit 
+ctsh mse consensus 
+source morgan stanley research 
+ctsh 
+revenues million 
+mse 
+consensus 
+cons 
+eps 
+mse 
+consensus 
+cons 
+source thomson reuters morgan stanley research 
+morgan stanley research 
+dxc waiting for usps detail 
+modeling continued synergy execution following 
+better than expected results expect performance driven primarily continued cost synergies model believe this leaves dxc 
+track hit its target synergies for with 
+exit run rate progress includes initiatives 
+around work force optimization both automation and 
+labor pyramid adjustments supply chain efficiency and 
+facility rationalization model revenue and eps 
+above consensus 
+investors look for incremental confidence targets with 
+investors focused the company ability hit its eps target 
+still waiting form were originally expecting dxc form 
+december however the company still waiting sign off from 
+their independent auditors expect this catalyst for the 
+stock once released investors will have better understanding 
+details the usps segment and spin off capital structure 
+exhibit 
+dxc mse consensus 
+dxc 
+revenues million 
+mse 
+consensus 
+cons 
+eps 
+mse 
+consensus 
+cons 
+see greater importance around synergies 
+than revenue growth this early stage transition 
+source thomson reuters morgan stanley research 
+exhibit 
+moving sotp price target 
+vencore ltm 
+revenue 
+ebitda 
+ebitda margin 
+dxc mse fiscal 
+revenue 
+less usps 
+revenue 
+keypoint 
+revenue 
+ebitda 
+ebitda margin 
+ebitda 
+less usps 
+ebitda 
+ebitda margin 
+usps mse 
+revenue 
+ebitda 
+ebitda margin 
+newco 
+revenue 
+ebitda 
+ebitda margin 
+ebitda multiple newco 
+implied 
+vencore cash 
+vencore debt 
+seller consideration uses cash 
+implied net debt 
+est net debt ebitda 
+implied newco equity value 
+ebitda multiple dxc 
+newco equity ownership 
+cash 
+debt 
+debt 
+est net debt 
+transaction consideration 
+net debt 
+net debt ebitda 
+implied dxc equity 
+diluted shares 
+implied dxc price 
+source company data morgan stanley research 
+implied 
+cndt turnaround early innings 
+strategic actions expected continue following the 
+exhibit 
+pany divestiture worth revenue the company 
+cndt mse consensus 
+has sized the total potential additional divestitures additional 
+cndt 
+revenues million 
+while the company has yet provide the total 
+impact would expect these strategic actions continued 
+headwind revenue but tailwind for ebitda margins following 
+guidance model revenue declining approximately 
+improvement over declines ytd through but likely supported easier comps revenue declined 
+mse 
+consensus 
+cons 
+eps 
+mse 
+consensus 
+cons 
+source thomson reuters morgan stanley research 
+investors focused execution expect investors will focus 
+continued execution and additional management commentary 
+around businesses that will remain inside company following the 
+company initial internal review operations continue 
+believe near term expectations are reasonable some initiatives 
+could potentially pulled forward and incremental color 
+progress toward cost saving initiatives could positive catalyst 
+morgan stanley research 
+ibm strategic imperatives support confidence 
+turnaround 
+ware defined and object storage delivered four quarters row 
+growth ibm systems portfolio captures more areas secular 
+growth this segment could face less cyclical revenue patterns which 
+isn appreciated consensus forecasts today 
+exhibit 
+ibm appears well positioned benefit from spending plans 
+services spending plans vendor 
+atos 
+wipro 
+cognizant 
+cndt 
+dxc 
+infosys 
+accenture 
+ibm 
+deloitte 
+software heading into see improving services backlog mix 
+higher value projects gts and improving profitability and scale 
+hcltech 
+cio survey reflects ibm well positioned within services and 
+tcs 
+dst 
+revenue and gross profit both grow for the first 
+time since while margins disappointed cloud 
+scale services productivity and revenue growth set for 
+gross profit and pre tax income growth investor 
+confidence the company transformation hinges its 
+ability show more consistent improvement gross margins higher value revenue sources cloud cognitive 
+mobile and security grow size see gross profit dollar 
+growth accelerating and gross margin roughly flat 
+revenue growth sustains and mixes higher 
+margin software and productivity initiatives translate 
+more savings ibm services segments ibm covered 
+katy huberty 
+source alphawise morgan stanley research note dst represents sample size 
+cloud and cognitive projects key drivers sustaining revenue 
+and gross margin improvement our recent cio survey gives confi 
+exhibit 
+dence ibm can achieve these goals cio responses reflect ibm 
+upward bias for spending with ibm from cios with software expertise 
+one the best positioned vendors within services with cloud con 
+down ratio for cios expecting increase decrease 
+spend 
+sulting and digital transformation key growth drivers exhibit 
+meanwhile cios with software expertise rank ibm along with 
+msft and sap one the vendors with the most favorable expectation for increasing spend exhibit 
+msft 
+ibm 
+ibm leads the conversation new areas technology including 
+sap 
+blockchain and quantum computing which sets for increased 
+rht 
+engagement and stronger contract renewals than past years 
+fact our alphawise cio surveys suggest larger than normal 
+number enterprise license agreements are for renewal the 
+next months and that more cios expect larger smaller 
+ela upon renewal this supports bullish commentary from manage 
+adbe 
+vmw 
+crm 
+ment highlighting services backlog growth entering and 
+orcl 
+improving revenue trajectory cognitive and services segments 
+symc 
+what more ibm new mainframe attracting new customers and 
+workloads with focus security rather than existing customer 
+upgrades driving the vast majority demand while bears point 
+ctxs 
+source alphawise morgan stanley research 
+systems revenue growth cyclical rather than secular see 
+opportunity for sustained hardware demand power systems also 
+returned growth driven recent high end product launches with 
+new low end products launching the near future the focused 
+power chip also allows ibm reach new workloads finally reorientation ibm storage product portfolio toward all flash 
+recent ibm notes covered katy huberty 
+ibm bullish but not without blemishes jan 
+tech hardware pulse what investors are asking strong growth 
+likely benefits ibm jan 
+comps table 
+exhibit 
+global services comps 
+source thomson reuters morgan stanley research 
+morgan stanley research 
+morgan stanley cio survey demographics 
+exhibit 
+this report contains the results our cio survey the 
+survey conducted telephone and online interviews 
+with decision makers representing enterprise 
+information technology organizations during october and 
+november respondents are from the and 
+from europe all responses were collected strict confidence and were used only combination with all others 
+the survey sample their responses represent enterprise 
+customer adoption and purchasing behaviors for 
+services domain conducted telephone and online 
+interviews with respondents representing 
+enterprise information technology organizations survey 
+respondents hold responsibility for purchasing integrating 
+industry vertical 
+vertical 
+total respondents 
+aerospace defense 
+business services 
+communications 
+consumer goods 
+education 
+energy 
+financial 
+healthcare 
+legal 
+manufacturing 
+pharmaceuticals 
+retail 
+services 
+technology 
+transportation 
+wholesale distribution 
+respondents 
+aerospace defense 
+business services 
+communications 
+consumer goods 
+education 
+energy 
+financial 
+healthcare 
+legal 
+manufacturing 
+pharmaceuticals 
+retail 
+services 
+technology 
+transportation 
+wholesale distribution 
+and maintaining services technology strategies 
+software domain conducted telephone and online inter 
+views with respondents representing 
+enterprise information technology organizations survey 
+respondents hold responsibility for purchasing integrating 
+and maintaining software services technology strategies 
+exhibit 
+revenue 
+revenue 
+total respondents 
+respondents 
+million billion 
+billion 
+billion 
+billion 
+billion 
+billion 
+europe respondents 
+million billion 
+billion 
+billion 
+billion 
+billion 
+billion 
+source alphawise morgan stanley research 
+europe respondents 
+aerospace defense 
+business services 
+communications 
+consumer goods 
+education 
+energy 
+financial 
+healthcare 
+legal 
+manufacturing 
+pharmaceuticals 
+retail 
+services 
+technology 
+transportation 
+wholesale distribution 
+source alphawise morgan stanley research 
+acn risk reward 
+risk reward 
+investment thesis 
+believe acn well positioned benefit 
+from accelerated digital and cloud growth 
+adoption accelerates and cios expect better 
+services growth going forward additionally 
+believe will see multiple support not 
+expansion enter the later stages 
+economic expansion cycle 
+key value drivers 
+will accenture revenue growth accelerate 
+expect discretionary spending will remain 
+volatile through incremental macro 
+headwinds may limit revenue growth and eps 
+upside recent acquisitions should add 
+substantial growth and additional 
+could also support better growth 
+how does cloud computing impact 
+accenture anticipated long term 
+headwind legacy premise contracts from 
+cloud computing however see accenture 
+ability establish itself viable and growing 
+cloud services provider critical offsetting 
+revenue cannibalization with front loaded 
+application modernization consulting providing 
+additional cushion 
+source morgan stanley research 
+price target 
+derived from our base case 
+bull 
+eps 
+improved discretionary spending and digital strength enables constant currency 
+consulting growth remain double digits while outsourcing growth remains low 
+mid double digits constant currency modest margin expansion continues driving eps 
+growth accenture gets premium market improved consulting growth attracts new 
+investors the stock 
+base 
+eps 
+revenue growth remains strong driven momentum consulting digital spending 
+and fading headwinds accenture represents premium market multiple given 
+accenture strong market position and shareholder friendly capital return policies 
+bear 
+potential catalysts 
+better growth for spending 
+europe opening offshoring across 
+global delivery network 
+profitable share gains the traditional 
+services market 
+risks achieving price target 
+bookings not result acceleration 
+revenue growth 
+pricing pressure does not subside further 
+pressuring margins 
+cloud computing headwinds accelerate 
+eps 
+spending recovery consulting proves short lived and accelerating cloud 
+computing headwinds result low single digit revenue growth with operating 
+margin expansion due lack operating leverage and need for continued investments 
+morgan stanley research 
+ctsh risk reward 
+risk reward 
+investment thesis 
+cognizant stabilizes growth with exposure 
+better consulting spend european spending 
+recovery and elevated providing some 
+upside over the next several quarters 
+key value drivers 
+can growth new products and geographies 
+support robust top line growth the 
+slows 
+improved market position healthcare 
+vertical the and better outsourcing 
+related european spending could provide 
+support top line growth even some 
+verticals the market matures 
+horizons and outpacing corporate average 
+growth key supporting strong double digit 
+top line growth 
+source thomson reuters morgan stanley research 
+price target 
+derived from our base case 
+bull 
+recovery spend for large health care 
+customers 
+our base case eps 
+revenue growth reaccelerates driven modest recovery bfs discretionary 
+spending strong demand environment and better spending from large healthcare 
+customers cognizant improves operating margin towards its long term guidance 
+bear 
+our bear case eps 
+our bear case considers more fundamental slowdown the revenue growth well 
+under over the next two years due weak demand increased competition and 
+pricing pressure with weak revenue non gaap operating margins could come under 
+pressure are using bear case multiple which line with the year trough 
+multiple the stock 
+improved financial services services 
+spending intentions 
+our bull case eps 
+revenue growth rate increases the next two years the back stronger recovery 
+the and better growth europe with operating margin delivering incremental upside 
+healthcare and financial services continue deliver upside while operating margins 
+expand our bull case multiple above the two year average ctsh continues grow 
+revenues faster than the industry growth rate 
+base 
+potential catalysts 
+acceleration following repatriation 
+cash out india 
+investors drive change operating policy for 
+better shareholder return 
+european budgets continue improve 
+horizons and show robust growth 
+healthcare reform continues drive growth 
+the payer business 
+risks achieving price target 
+outsourcing growth weakens 
+tax reform results border adjustable tax 
+passage new laws restricting access and 
+cost skilled labor visas 
+law large numbers and limited progress 
+new industry verticals slow growth 
+cloud adoption drives higher than expected 
+cuts outsourcing spending 
+dxc risk reward 
+sotp drives closer our bull case 
+investment thesis 
+dxc combination with should create 
+significantly more streamlined and scaled 
+business are encouraged better 
+competitive positioning improved visibility 
+synergy targets and data from our cio surveys 
+key value drivers 
+new client wins drive booking improvement 
+and better growth 
+potential services higher value added 
+areas such digital security and cloud 
+expected synergies from the hpe services 
+transaction 
+potential catalysts 
+source morgan stanley research thomson reuters 
+price target 
+derived from our base case scenario 
+upside estimates improving margins 
+inflection revenue growth ahead 
+increases dividend and share repurchases 
+sale non core assets 
+risks achieving price target 
+challenges reducing headcount and costs 
+hpes 
+bull 
+eps discounted back 
+the business stabilizes and the company able pass along higher than expected 
+synergies from cost cuts shareholders the company achieves better than expected 
+margins and growth accelerates above 
+base 
+execution risk large outsourcing 
+projects 
+increased competition from global and indian 
+offshore vendors the services market 
+increasingly competitive digital security and 
+cloud consulting environment 
+sotp 
+sum the parts valuation the company spins its usps business into publicly traded 
+company which includes several companies owned veritas capital dxc maintains 
+ownership the spun entity ongoing synergies drive better earnings growth dxc post 
+spin with for the legacy business turning positive our assumptions include 
+ebitda multiple for the government services business and multiple for the 
+legacy dxc business post spin 
+bear 
+eps discounted back 
+the company forced reinvest synergies back into the business unable 
+reduce headcount providing little additional cost savings net basis earnings 
+higher leverage result eroding ebitda and lack growth result discount 
+our base case multiple leading multiple 
+morgan stanley research 
+cndt risk reward 
+risk reward 
+investment thesis 
+stand alone basis cndt should able 
+improve revenue performance and drive 
+margin expansion closer peers over time 
+expect investors will look for increased visibility 
+the net flow through guided cost savings 
+considering the company need reinvest 
+the business order address its competitive 
+weakness and generate revenue growth 
+see challenges due legacy contracts 
+elevated leverage and headwinds the bpo 
+market 
+key value drivers 
+stable core services business cndt 
+expands domain strength services 
+expect better growth and margins 
+efficient management cost rationalization 
+plan the business may facing significant 
+headwinds but planned cost reductions could 
+meaningfully contribute margins and offer 
+substantial cash flow aid transition 
+executed successfully 
+source morgan stanley research thomson reuters 
+price target 
+derived from our base case 
+multiple recognition for services business 
+split the business could result higher 
+multiple unlocked for the services business 
+bull 
+bull ebitda 
+growth and margin initiatives outperform services business sees better growth with 
+traction driven vertical domain expertise and margins aided experienced services 
+management team revenue inflects positive growth ahead the company 
+winds down the student loan business and able turn around margins commercial 
+customer contact 
+potential catalysts 
+base 
+risks achieving price target 
+base ebitda 
+services margins see better performance driven better revenue with better mix 
+growth and profitability the company continues efficiently manage down the declining 
+student loan and unprofitable contracts while maintaining stable margins core 
+segments 
+bear 
+bear ebitda 
+execution issues weigh margin plan struggles services becomes longer term issue 
+the company unable gain better traction against increasing competition declining 
+revenue offsets the company million gross cost cutting goal resulting declining 
+ebitda and fcf 
+could accelerate higher margin services 
+mix expansion 
+higher than expected cost cutting 
+evidence margin consistency 
+involvement activist investor 
+elevated execution risk with restructuring 
+initiatives associated with the spin 
+ability catch with investments peers 
+have made bpo technology 
+increased competition core services 
+markets 
+ibm risk reward 
+transformation not priced 
+investment thesis 
+strategic imperatives approach half 
+revenue accelerating growth and margin 
+expansion drive shift investor sentiment 
+recent investments cloud strategy pay off 
+and ibm cloud revenue grows line with the 
+industry while gross and operating margins 
+expand industry average and benefit from 
+leverage earlier investments long term 
+watson has the potential rate shares 
+more line with microsoft the bull case 
+key value drivers 
+can ibm win the cloud game not how you 
+think don expect ibm compete with 
+aws microsoft azure price however 
+believe ibm portfolio platform aservice blue mix customized infrastructureas service softlayer and software aservice watson blockchain etc help ibm hold 
+customer dollar share way that more 
+commoditized hardware peers like hpe and 
+ntap cannot what more higher value cloud 
+services could help margins surprise the 
+upside relative cloud peers 
+feb 
+aug 
+feb 
+base case feb 
+aug 
+historical stock performance 
+feb 
+aug 
+current stock price 
+feb 
+ibm 
+source thomson reuters morgan stanley research 
+price target 
+derived from base case 
+what the right multiple for company 
+transition believe ibm has better 
+prospects than most hardware companies with 
+limited strategies transform for cloud 
+cognitive computing world result 
+believe ibm should trade more line with 
+software and services peers see ibm 
+trading closer orcl fcf light 
+similar transformation story and closer 
+msft the cloud and watson story 
+appreciated investors 
+bull 
+fcf shr 
+strategic imperatives investments pay off with faster return revenue and fcf growth 
+and gross margin upside investors begin recognize ibm competitive lead strategic 
+imperatives particularly cloud and cognitive ibm approaches revenue growth year 
+earlier than expected with return growth and fcf surpasses gaap net 
+income the back deferred income growth and working capital improvements the 
+bull case see ibm trading closer msft fcf basis investors give 
+more credit ibm opportunity higher growth areas with large addressable markets 
+like tam for watson 
+base 
+fcf shr 
+balanced transformation drives gross margin and revenue stabilization structural 
+challenges the company core solution portfolio are largely offset growth 
+strategic imperatives excluding the impact currency improved leverage drives gross 
+margin roughly flat exiting and expansion growth maintains high 
+single low double digit growth the back mainframe cycle new cloud logos and 
+building service revenue base ibm trades fcf financing 
+receivables and largely line with orcl which the midst similar 
+transformation 
+potential catalysts 
+new cloud customer wins and mainframe 
+cycle accelerates growth and leverage 
+acquisitions help achieve faster service 
+revenue scale 
+improved margin and growth execution under 
+new gbs leadership 
+watson builds momentum with strong 
+customer additions and penetration into 
+verticals outside healthcare 
+fcf conversion improves large customers 
+renew global enterprise licensing agreements 
+elas and strategic imperatives drive higher 
+annuity revenues 
+risks achieving price target 
+continued signs cloud cannibalizing ibm 
+core markets 
+bear 
+fcf shr 
+strategic imperatives fail take off and margin remains under pressure ibm fails 
+increase the relevancy its product portfolio after divesting commoditized businesses 
+and acquiring strategic imperatives cheaper and more nimble competitors take 
+customer share and slow ibm transformation gross margin stabilization comes the 
+expense growth ibm converts less than net income fcf our multiple 
+more line with average where hardware peers trade historically like csco hpe 
+and ntap 
+morgan stanley research 
+ibm fails monetize investments watson 
+and cognitive computing hurting margin 
+prospects 
+weaker mainframe cycle 
+strategic imperatives growth fails reaccelerate management focuses 
+margins 
+acquisition integration risk 
+acn model 
+exhibit 
+income statement 
+millions 
+nov 
+feb 
+may 
+aug 
+nov 
+feb 
+may 
+aug 
+fiscal year 
+calendar year 
+net revenues before reimbursements 
+cost services 
+cost services before reimbursable expe 
+reimbursable expenses 
+gross profit 
+gross margin 
+operating expenses 
+sales and marketing 
+general and administrative 
+other 
+operating income 
+operating margin 
+total interest other income 
+pretax income 
+gaap income tax provision 
+operating tax provision excl one time tax eff 
+non gaap tax rate 
+gaap tax rate 
+operating net income 
+net income attributable noncontrolling inte 
+net income attributable noncontrolling inte 
+operating net income common shareho 
+total non recurring charges 
+gaap net income 
+operating net income for per share calcul 
+gaap net income for per share calculation 
+fully diluted eps 
+eps modelware 
+source company data morgan stanley research 
+exhibit 
+balance sheet 
+millions 
+nov 
+feb 
+may 
+aug 
+nov 
+feb 
+may 
+aug 
+liabilities 
+current liabilities 
+short term bank borrowings 
+current portion long term debt and bank 
+accounts payable 
+deferred revenues 
+accrued payroll and related benefits 
+accrued consumption taxes 
+income taxes payable 
+deferred income taxes net 
+other accrued liabilities 
+total current liabilities 
+non current liabilities 
+long term debt 
+deferred revenue relating contract costs 
+retirement obligations 
+deferred income taxes net 
+income taxes payable 
+other non current liabilities 
+total non current liabilities 
+assets 
+current assets 
+cash and cash equivalents 
+short term investments 
+receivables from clients net 
+unbilled services net 
+deferred income taxes net 
+other current assets 
+total current assets 
+unbilled services net 
+investments 
+property plant equipment net 
+goodwill 
+deferred contract costs 
+deferred income taxes net 
+other non current assets 
+total fixed assets 
+total assets 
+total liabilities 
+shareholders equity 
+ordinary shares 
+class ordinary shares 
+class ordinary shares 
+restricted share units 
+additional paid capital 
+treasury shares 
+retained earnings 
+accumulated other comprehensive income 
+total accenture plc shareholder equity 
+non controlling interests 
+total shareholders equity 
+total liabilities and shareholders equity 
+fiscal year 
+source company data morgan stanley research 
+morgan stanley research 
+exhibit 
+cash flow statement 
+millions 
+nov 
+feb 
+may 
+aug 
+nov 
+feb 
+may 
+aug 
+fiscal year 
+cash flow statement non cumulative 
+operating activities 
+net income loss 
+adjustments reconcile net income 
+depreciation amortization and asset impairments 
+reorganization costs net 
+share based compensation expense 
+deferred income taxes net 
+non controlling interest 
+other net 
+changes operating assets and liabilities 
+acac 
+receivable from clients net 
+unbilled services current and non current 
+prpr 
+other current and non current assets 
+acac 
+accounts payable 
+deferred revenues current and non current 
+accrued payroll and related benefits 
+income taxes payable current and non current 
+other current and non current liabilities 
+net cash provided operating activities 
+investing activities 
+proceeds from maturities and sales available for sale investments 
+purchases available for sale investments 
+proceeds from sales property and equipment 
+purchase property and equipment 
+purchases businesses and investments net cash acquired 
+other 
+net cash used investing activities 
+financing activities 
+proceeds from issuance ordinary shares 
+purchases shares 
+repayments proceeds from long term debt net 
+proceeds from repayments short term borrowings net 
+cash dividends paid 
+excess tax benefits from share based payment arrangements 
+other net 
+net cash used financing activities 
+effect exchange rate changes cash 
+increase decrease cash and cash equivalents 
+cash and cash equivalents beginning period 
+cash and cash equivalents end period 
+source company data morgan stanley research 
+ctsh model 
+exhibit 
+income statement 
+millions 
+financial services 
+healthcare 
+products and resources 
+communications media and technology 
+revenues 
+mar 
+jun 
+sep 
+dec 
+cost revenues non gaap 
+revenue 
+mar 
+jun 
+sep 
+dec 
+gross profit non gaap 
+gross margin 
+selling general and administrative non gaap 
+revenue 
+depreciation and amortization 
+revenue 
+operating expenses 
+non gaap pretax income 
+gaap pretax income 
+non gaap tax expense benefit 
+effective tax rate 
+non gaap net income 
+gaap net income 
+non gaap adjustments 
+non gaap operating income 
+non gaap operating margin 
+other income expense net 
+diluted non gaap eps 
+average shares diluted 
+source company data morgan stanley research 
+morgan stanley research 
+exhibit 
+balance sheet 
+mar 
+jun 
+sep 
+dec 
+mar 
+jun 
+sep 
+dec 
+current assets 
+cash and cash equivalents 
+short term investments 
+trade accounts receivable net 
+unbilled accounts receivable 
+deferred income tax assets net 
+other current assets 
+total current assets 
+noncurrent assets 
+property and equipment net 
+long term investments 
+goodwill 
+intangible assets net 
+deferred income tax assets net 
+other noncurrent assets 
+total noncurrent assets 
+current liabilities 
+accounts payable 
+deferred revenue 
+short term debt 
+accrued expenses and other current liabilities 
+total current liabilities 
+noncurrent liabilities 
+long term debt 
+deferred income tax liabilities net 
+other noncurrent liabilities 
+total noncurrent liabilities 
+total liabilities 
+total stockholders equity 
+millions 
+total assets 
+total liabilities and stockholders equity 
+source company data morgan stanley research 
+exhibit 
+cash flow statement 
+millions 
+noncumulative cash flow statement 
+cash flows from operating activities 
+net income 
+depreciation and amortization 
+provision for doubtful accounts 
+deferred income taxes 
+stock based compensation expense 
+excess tax benefits stock based compensation plans 
+other 
+changes assets and liabilities 
+trade accounts receivable 
+other current assets 
+other assets 
+accounts payable 
+other current and noncurrent liabilities 
+net cash provided operating activities 
+cash flows from investing activities 
+purchases property and equipment 
+proceeds from sales property and equipment 
+purchases investments 
+proceeds from maturity sale investments 
+acquisitions net cash acquired and other 
+net cash used investing activities 
+cash flows from financing activities 
+proceeds from issued shares contributed capital 
+net proceeds from debt issue 
+issuance common stock under stock based compensatio 
+excess tax benefits stock based compensation plans 
+repurchases common stock 
+debt net 
+other dividend 
+net cash used financing activities 
+effect currency translation cash and cash equivalents 
+increase decrease cash and cash equivalents 
+adjustment for restatements 
+cash and cash equivalents beginning period 
+cash and cash equivalents end period 
+mar 
+jun 
+sep 
+dec 
+mar 
+jun 
+sep 
+dec 
+source company data morgan stanley research 
+morgan stanley research 
+dxc model 
+exhibit 
+income statement 
+millions except per share data 
+global business services 
+global infrastructure services 
+jun 
+sep 
+dec 
+mar 
+jun 
+sep 
+dec 
+mar 
+public sector 
+total revenue 
+cost services 
+gross profit 
+gross margin 
+operating expenses 
+sales marketing 
+depreciation amortization 
+revenue 
+total operating expenses 
+total expense 
+operating income gaap 
+depreciation and amortization 
+adjusted ebitda 
+adjusted ebitda margin 
+other expenses 
+interest and other expenses 
+adjusted ebt 
+effective tax 
+effective tax rate 
+net income from continuing operations net tax 
+adjusted net margin 
+adjusted eps 
+income from discontinued operations net tax 
+net income loss attributable noncontrolling interest 
+diluted gaap eps 
+segment operating profit 
+operating profit reconciliation 
+adjusted ebit 
+adjusted ebit margin 
+source company data morgan stanley research 
+exhibit 
+balance sheet 
+millions except eps 
+assets 
+cash and cash equivalents 
+accounts receivables net 
+prepaid expenses and other current assets 
+deferred income tax assets 
+total current assets 
+property and equipment net 
+software outsourcing costs 
+inventories 
+goodwill net 
+deferred income tax assets long term 
+deposits and other noncurrent assets 
+total noncurrent assets 
+liabilities 
+accounts payable 
+accrued payroll related costs 
+accrued expenses other liabilities 
+short term debt 
+income taxes payable 
+deferred revenue current 
+total current liabilities 
+deferred income taxes 
+deferred revenue 
+long term debt 
+other liabilities 
+total noncurrent liabilities 
+total liabilities 
+total assets 
+non controlling interest subsidiaries 
+common stock 
+additional paid capital 
+accumulated other comprehensive loss 
+retained earnings accumulated deficit treas stock 
+total stockholders equity 
+total liabilities and stockholders equity 
+jun 
+sep 
+dec 
+mar 
+jun 
+sep 
+dec 
+mar 
+source company data morgan stanley research 
+morgan stanley research 
+exhibit 
+balance sheet 
+millions except eps 
+assets 
+cash and cash equivalents 
+accounts receivables net 
+prepaid expenses and other current assets 
+deferred income tax assets 
+total current assets 
+property and equipment net 
+software outsourcing costs 
+inventories 
+goodwill net 
+deferred income tax assets long term 
+deposits and other noncurrent assets 
+total noncurrent assets 
+liabilities 
+accounts payable 
+accrued payroll related costs 
+accrued expenses other liabilities 
+short term debt 
+income taxes payable 
+deferred revenue current 
+total current liabilities 
+deferred income taxes 
+deferred revenue 
+long term debt 
+other liabilities 
+total noncurrent liabilities 
+total liabilities 
+total assets 
+non controlling interest subsidiaries 
+common stock 
+additional paid capital 
+accumulated other comprehensive loss 
+retained earnings accumulated deficit treas stock 
+total stockholders equity 
+total liabilities and stockholders equity 
+source company data morgan stanley research 
+jun 
+sep 
+dec 
+mar 
+jun 
+sep 
+dec 
+mar 
+cndt model 
+exhibit 
+income statement 
+jun 
+sep 
+dec 
+mar 
+jun 
+sep 
+dec 
+mar 
+research and development non gaap 
+selling administrative and general non gaap 
+operating income non gaap 
+non gaap ebit margin 
+adjusted ebitda 
+change 
+adjusted ebitda margin 
+millions 
+revenues non gaap 
+cost service non gaap 
+gross profit non gaap 
+gross margin 
+other expenses net 
+related party interest and other interest expense 
+pretax income non gaap 
+income taxes 
+non gaap effective tax rate 
+non gaap net income 
+non gaap eps 
+diluted shares outstanding 
+source company data morgan stanley research 
+morgan stanley research 
+exhibit 
+balance sheet 
+millions 
+jun 
+sep 
+mar 
+current assets 
+cash and cash equivalents 
+accounts receivable net 
+related party notes receivable 
+other current assets 
+total current assets 
+land buildings and equipment net 
+intangible assets net 
+goodwill 
+other long term assets 
+total noncurrent assets 
+total assets 
+liabilities and equity 
+short term debt and current portion long term debt 
+related party notes payable 
+accounts payable 
+accrued compensation and benefits costs 
+unearned income 
+other current liabilities 
+total current liabilities 
+long term debt 
+pension and other benefit liabilities 
+deferred taxes 
+other long term liabilities 
+total noncurrent liabilities 
+total liabilities 
+net parent investment 
+accumulated other comprehensive loss 
+total net parent equity 
+total liabilities and equity 
+source company data morgan stanley research 
+jun 
+sep 
+dec 
+mar 
+dec 
+exhibit 
+cash flow statement 
+millions 
+noncumulative cash flow statement 
+cash flows from operating activities 
+net income 
+depreciation and amortization 
+provision for receivables 
+net loss sales businesses and assets 
+stock based compensation 
+restructuring and asset impairment charges 
+mar 
+jun 
+sep 
+dec 
+mar 
+jun 
+sep 
+dec 
+payments for restructurings 
+contributions defined benefit pension plans 
+increase decrease accounts receivable 
+increase decrease other current and long term assets 
+increase decrease accounts payable and accrued compensation 
+increase decrease other current and long term liabilities 
+net change income tax assets and liabilities 
+other operating net 
+net cash provided operating activities 
+cash flows from investing activities 
+cost additions land buildings and equipment 
+payments proceeds from sales land buildings and equipment 
+cost additions internal use software 
+payments proceeds from sale businesses 
+acquisitions net cash acquired 
+net payments proceeds related party notes receivable 
+other investing net 
+net cash provided investing activities 
+cash flows from financing activities 
+net payments proceeds debt 
+net proceeds payments related party notes payable 
+net transfers from parent 
+excess tax benefits from stock based compensation 
+repurchase shares 
+other financing 
+net cash provided financing activities 
+effect currency translation cash and cash equivalents 
+increase decrease cash and cash equivalents 
+cash and cash equivalents beginning period 
+cash and cash equivalents end period 
+source company data morgan stanley research 
+morgan stanley research 
+more alphawise 
+source alphawise 
+click here for more alphawise 
+morgan stanley acting financial advisor and providing financing services technologies holdings inc relation 
+the proposed acquisition dst systems inc dst announced january the transaction subject dst stockholder 
+approval clearances the relevant regulatory authorities and other customary closing conditions this report and the information provided 
+herein not intended provide voting advice serve endorsement the proposed transaction iii result the procurement 
+withholding revocation proxy any other action security holder has agreed pay fees morgan stanley for its financial 
+services please refer the notes the end the report 
+morgan stanley research 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan stanley mexico casa bolsa 
+and morgan stanley canada limited used this disclosure section morgan stanley includes morgan stanley llc morgan stanley morgan stanley mexico 
+casa bolsa morgan stanley canada limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan stanley research disclosure website 
+morganstanley researchdisclosures contact your investment representative morgan stanley research broadway attention research management new york 
+usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client support team follows canada 
+hong kong latin america london singapore sydney tokyo 
+alternatively you may contact your investment representative morgan stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they have not received and will not 
+receive direct indirect compensation exchange for expressing specific recommendations views this report brian essex cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+december morgan stanley beneficially owned more class common equity securities the following companies covered morgan stanley research accenture 
+plc capgemini ibm 
+within the last months morgan stanley has received compensation for investment banking services from cognizant technology solutions corp 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from accenture plc capgemini cognizant technology solutions corp 
+conduent inc dst systems inc dxc technology company ibm 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from accenture plc capgemini dst systems inc dxc 
+technology company ibm 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with the following company accenture 
+plc capgemini cognizant technology solutions corp conduent inc dst systems inc dxc technology company ibm 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has entered into agreement provide 
+services has client relationship with the following company accenture plc capgemini dst systems inc dxc technology company ibm 
+employee director consultant morgan stanley director ibm this person not research analyst member research analyst household 
+morgan stanley llc makes market the securities accenture plc cognizant technology solutions corp dst systems inc ibm 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon various factors including quality 
+research investor client feedback stock picking competitive factors firm revenues and overall investment banking revenues equity research analysts strategists compensation not 
+linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing liquidity fund management 
+commercial banking extension credit investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered 
+morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed this report morgan stanley trades may trade 
+principal the debt securities related derivatives that are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan stanley does not assign ratings buy 
+hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell investors should carefully read the definitions all 
+ratings used morgan stanley research addition since morgan stanley research contains more complete information concerning the analyst views investors should carefully read morgan 
+stanley research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon investment advice investor decision 
+buy sell stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+january 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our ratings overweight equal weight 
+not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell but represent recommended relative weightings see definitions below satisfy regulatory requirements correspond overweight our most positive stock rating 
+with buy recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating category 
+other material investment services clients 
+investment banking clients ibc 
+misc 
+count 
+total 
+count 
+total ibc 
+rating category 
+count 
+total other misc 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment banking compensation the 
+last months due rounding off decimals the percentages provided the total column may not add exactly percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe risk adjusted basis over the next 
+months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe risk adjusted basis over 
+the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe risk adjusted basis over the next 
+months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad market benchmark indicated 
+below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc morgan stanley any 
+their affiliates are available the morgan stanley wealth management disclosure website morganstanley online researchdisclosures for morgan stanley specific disclosures 
+you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the same person who reviews 
+the equity research report behalf morgan stanley this could create conflict interest 
+morgan stanley research 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities capgemini dxc technology company ibm 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based developments with the issuer the 
+sector the market that may have material impact the research views opinions stated therein addition certain research publications are intended updated regular periodic 
+basis weekly monthly quarterly annual and will ordinarily updated with that frequency unless the research analyst and research management determine that different publication 
+schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning section the 
+dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the recommendations views expressed 
+research the same stock this may the result differing time horizons methodologies market events other factors for all research available particular stock please contact 
+your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients certain but not all morgan 
+stanley research products are also made available clients through third party vendors redistributed clients through alternate electronic means convenience for access all 
+available morgan stanley research please contact your sales representative matrix http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and using morgan stanley 
+research you are indicating that you have read and agree bound our terms use http morganstanley terms addition you consent morgan stanley processing 
+your personal data and using cookies accordance with our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes 
+setting your preferences and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan stanley 
+processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances and objectives those 
+who receive morgan stanley recommends that investors independently evaluate particular investments and strategies and encourages investors seek the advice financial adviser 
+the appropriateness investment strategy will depend investor circumstances and objectives the securities instruments strategies discussed morgan stanley research 
+may not suitable for all investors and certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the 
+solicitation offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary because changes 
+interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational financial conditions companies other factors there 
+may time limitations the exercise options other rights securities instruments transactions past performance not necessarily guide future performance estimates future 
+performance are based assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject 
+company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based upon various factors 
+including quality accuracy and value research firm profitability revenues which include fixed income trading and capital markets profitability revenues client feedback and competitive 
+factors fixed income research analysts strategists economists compensation not linked investment banking capital markets transactions performed morgan stanley the 
+profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns more class 
+common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley may have investment less than securities instruments 
+derivatives securities instruments companies and may trade them ways different from those discussed morgan stanley research employees morgan stanley not involved 
+the preparation morgan stanley research may have investments securities instruments derivatives securities instruments companies mentioned and may trade them ways 
+different from those discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable comprehensive 
+information but make representation that accurate complete have obligation tell you when opinions information morgan stanley research change apart from 
+when intend discontinue equity research coverage subject company facts and views presented morgan stanley research have not been reviewed and may not reflect information 
+known professionals other morgan stanley business areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company associated expenses unless 
+pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl 
+such information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research 
+may not distributed the public media quoted used the public media without the express written consent morgan stanley any non customer reader within the scope article 
+the taiwan stock exchange recommendation regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party 
+including but not limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create give the 
+appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not constitute offer sell 
+the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest such securities and shall responsible for obtaining all relevant 
+approvals licenses verifications and registrations from the relevant governmental authorities themselves neither this report nor any part intended shall constitute provision 
+any consultancy advisory service securities investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa which regulated comision nacional 
+bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico city japan morgan stanley mufg securities ltd and for commodities 
+related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley 
+asia international limited hong kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte 
+ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should contacted with respect any 
+matters arising from connection with morgan stanley research and morgan stanley asia international limited singapore branch registration number australia 
+wholesale clients within the meaning the australian corporations act morgan stanley australia limited holder australian financial services license 
+which accepts responsibility for its contents australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management 
+australia pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan stanley international 
+plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas indonesia canada morgan stanley canada limited which has 
+approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the 
+spanish securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct applicable financial 
+research established under spanish regulations the morgan stanley llc which accepts responsibility for its contents morgan stanley international plc authorized 
+the prudential regulatory authority and regulated the financial conduct authority and the prudential regulatory authority disseminates the research that has prepared and approves 
+solely for the purposes section the financial services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited 
+member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan stanley research being disseminated 
+morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services authority the dfsa 
+and directed professional clients only defined the dfsa the financial products financial services which this research relates will only made available customer who 
+are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre regulatory authority 
+the qfcra and directed business customers and market counterparties only and not intended for retail customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment advisory activity investment 
+advisory service provided exclusively persons based their risk and income preferences the authorized firms comments and recommendations stated here are general nature these 
+opinions may not fit your financial status risk and return preferences for this reason make investment decision relying solely this information stated here may not bring about 
+outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties representations relating 
+the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating such data the global industry classification standard gics was 
+developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley research 
+morgan stanley 
+the americas 
+europe 
+japan 
+asia pacific 
+broadway 
+bank street canary wharf 
+otemachi chiyoda 
+austin road west 
+new york 
+london 
+tokyo 
+kowloon 
+united states 
+united kingdom 
+japan 
+hong kong 
+tel 
+tel 
+tel 
+tel 

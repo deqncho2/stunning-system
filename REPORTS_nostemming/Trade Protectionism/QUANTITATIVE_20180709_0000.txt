@@ -1,0 +1,1020 @@
+july gmt 
+adam virgadamo cfa 
+equity strategist 
+adam virgadamo morganstanley 
+michael zezas cfa 
+strategist 
+michael zezas morganstanley 
+elizabeth harrow 
+quantitative analyst 
+elizabeth harrow morganstanley 
+michelle weaver 
+equity strategist 
+michelle weaver morganstanley 
+exhibit risk adjusted performance since march 
+strongest for real estate and utilities sectors 
+sector performance from mar jun 
+raw 
+alpha 
+financials 
+staples 
+industrials 
+telecom 
+materials 
+health care 
+tech 
+utilities 
+recent headlines have highlighted the potential for increased trade restrictions 
+through factor analysis study equity reactions trade news focusing 
+march through june when news surrounding possible trade restrictions 
+began pick generally not find evidence widespread trade impact 
+risk adjusted performance sectors and cohorts since march suggestive 
+trade risk influence exhibit less trade sensitive sectors such utilities and 
+real estate have outperformed whereas more trade sensitive sectors such 
+industrials and materials have lagged 
+these results are not definitive however since other drivers such 
+flattening yield curve may contributing more compelling evidence trade 
+influencing equity returns would come from detecting equity risk factor that 
+correlated with returns assets known trade sensitive 
+based principal components analysis pca industry returns find that 
+there are key risk factors that have emerged since march that recent 
+industry risks are correlated with pre march industry risks trade risk can only 
+systematically affecting equities through preexisting risk factors 
+constructed trade risk factor using returns trade sensitive 
+currencies commodities and equity indexes from pca these trade sensitive 
+assets obtained the main trade risk driver since march exhibit dollar 
+strengthening and equity declines contribute positively this factor returns 
+even among trade sensitive assets there has not been strong common 
+driver returns since march the main risk factor explains only the risk 
+indicative low correlations among the assets also these correlations have not 
+strengthened compared with prior period 
+not find evidence systematic trade risk equities from march 
+june our trade risk factor modestly correlated with market returns likely through global equity market correlation but uncorrelated with any 
+other risk factors from the industry pca 
+found idiosyncratic impacts our trade risk factor testing its 
+correlations with the largest equities all stocks had negative 
+correlations trade risk but some stocks had much higher trade risk 
+correlations than others see exhibit and exhibit respectively for screens 
+our equity strategy colleagues think the lack systematic trade risk exposure 
+potentially creates poor risk reward asymmetry for some sectors headed into 
+earnings season contributing their recent downgrade tech underweight 
+quantitative analyst 
+brian hayes morganstanley 
+discretionary 
+construct trade risk factor using set trade sensitive 
+currencies commodities rates and equity indexes despite 
+recent headlines not find that industry returns have 
+systematic exposure this trade risk factor 
+brian hayes 
+energy 
+trade risk factor perspective 
+morgan stanley llc 
+real estate 
+quantitative equity research 
+source clarifi morgan stanley research 
+exhibit our trade risk factor related dollar 
+strength and equity index weakness 
+primary risk loadings trade sensitive assets 
+mar jun 
+asset 
+loading 
+dollar australian dollar change 
+dollar singapore dollar change 
+dollar euro change 
+dollar south african rand change 
+dollar canadian dollar change 
+dollar chinese renminbi change 
+dollar mexican peso change 
+dollar british pound change 
+dollar swiss franc change 
+dollar south korean won change 
+dollar japanese yen change 
+next day msci australia return 
+sorghum change 
+baltic dry index change 
+change yield slope 
+pork change 
+steel change 
+msci germany return 
+next day msci china return 
+msci australia return 
+soybean change 
+msci japan return 
+next day msci singapore return 
+aluminum change 
+msci singapore return 
+msci canada return 
+next day msci japan return 
+msci china return 
+msci mexico return 
+source clarifi morgan stanley research 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+executive summary 
+during the recent period heightened news around actual and potential trade 
+restrictions some sectors with greater trade sensitivity industrials and materials 
+underperformed those with less trade sensitivity utilities and reits risk adjusted 
+basis however there are other returns such for financials that not necessarily fit 
+the pattern well other possible explanations such interest rate moves for the 
+putative trade effects 
+obtain more definitive result how trade risk has recently impacted equities 
+looked for systematic risk factor equity industry returns that looked for 
+evidence return series factor that distinctive from other known risks such 
+equity market returns affects large number industries and related trade 
+this used technique called principal components analysis the covariance 
+matrix daily industry returns since march 
+each principal component represents different combination industry returns 
+uncorrelated from other principal components and explains part the risk the 
+industries did not find any emerging new principal component the march june 
+period that was not already present and least strong the pre march 
+period thus there evidence new risk factor from trade any other source 
+since trade headlines began pick 
+trade risk can still impact existing risk factors however and test this constructed 
+trade risk factor using the returns trade sensitive assets these assets include 
+currencies commodities country equity indexes and yield curve slope for asian and 
+australian equity markets also included returns from the day ahead well 
+same day returns since these returns may influenced news out the that 
+took place after they are closed for the prior day 
+even among this select group assets however correlations have not generally risen 
+the march june period compared with the pre march period they have not 
+become more entrained with each other trade headlines became more prominent 
+find single factor that best captures the movement these trade sensitive assets 
+used principal components their correlation matrix the trade sensitive assets 
+and focused the first principal component 
+the first principal component the trade sensitive assets only explains 
+correlation indicating relatively weak interrelation the asset returns this period 
+can described having positive sensitivity dollar strengthening and negative 
+sensitivity equity index returns when the dollar strengthens versus other currencies 
+the set chose when the equity indexes decline the trade risk factor rises for 
+robustness constructed similar factor that only used the out assets with 
+the highest median absolute correlations each other the results from this version 
+are essentially the same for the full set 
+correlations between the main driver trade sensitive asset risk and principal 
+components equity industry returns were low and statistically insignificant indicating 
+that there equity industry risk factor that being influenced this trade risk 
+factor the only exception for first principal component corresponding overall 
+market risk negatively correlated with this factor but this likely due overall 
+global equity risk factor rather than being specifically about trade the explanatory 
+power our trade risk factor its squared low for the market trade does not 
+therefore appear widespread systematic risk for equities since march 
+since trade risk appears idiosyncratic for equities present looked which 
+stocks among the largest market cap the had the largest and smallest 
+correlations the trade risk factor constructed each the stocks the 
+correlation was negative they all tend decline when trade risk rises for the mostsensitive stocks the correlation was less while for the least sensitive stocks 
+was more stocks the most correlated group exhibit hail from industrial 
+semiconductor industries those the least correlated group tend come from more 
+domestic industries like utilities and reits exhibit 
+equity strategy implications 
+given the risk adjusted returns noted exhibit and the increase trade headlines 
+since march the lack trade specific emerging risk factor was bit surprising and 
+suggests that the more defensive sector leadership the market has seen during that 
+period may due factors beyond just trade concerns tariffs live and 
+companies are forced incorporate their effects into forward guidance the lack 
+trade specific equity market reactions date may create downside risk for equities and 
+sectors most levered trade this asymmetric downside risk one the principal 
+reasons why our equity strategy team has downgraded tech underweight see 
+weekly warmup they see forthcoming guidance during earnings season 
+potential catalyst for the pricing fundamental risk from rising trade barriers the 
+companies noted exhibit have shown some stock price sensitivity rising trade 
+concerns but our strategy team downgrade predicated additional companies with 
+fundamental risk not having been fully repriced for this rising risk factor 
+connections developing trade risk scenarios 
+our public policy team sees this analysis fitting into the ongoing trade risk picture 
+trade event risk calendar should continue heavy 
+events moving from threats actual action 
+economic data points may come trade risk events soon they should start 
+reflecting the real economic impact these actions 
+see vicious cycle that could gain enough steam move this from idiosyncratic 
+systemic 
+exhibit stocks that are most correlated with trade sensitive assets since march are skewed 
+toward industrials and semiconductor companies 
+top most trade sensitive stocks the largest stocks 
+mar jun 
+ticker 
+tmo 
+dwdp 
+blk 
+bdx 
+dhr 
+abt 
+intc 
+ups 
+avgo 
+acn 
+utx 
+hon 
+brk 
+cvx 
+slb 
+amat 
+fdx 
+jpm 
+csco 
+company name 
+thermo fisher scientific inc 
+dowdupont inc 
+goldman sachs group inc 
+blackrock inc 
+becton dickinson 
+danaher corp 
+abbott laboratories 
+intel corp 
+united parcel service inc 
+broadcom ltd 
+accenture plc 
+united technologies corp 
+honeywell international inc 
+berkshire hathaway 
+chevron corp 
+schlumberger ltd 
+applied materials inc 
+fedex corp 
+jpmorgan chase 
+cisco systems inc 
+industry 
+life sciences tools services 
+chemicals 
+capital markets 
+capital markets 
+health care equipment supplies 
+health care equipment supplies 
+health care equipment supplies 
+semiconductors semiconductor equipment 
+air freight logistics 
+semiconductors semiconductor equipment 
+services 
+aerospace defense 
+industrial conglomerates 
+diversified financial services 
+oil gas consumable fuels 
+energy equipment services 
+semiconductors semiconductor equipment 
+air freight logistics 
+banks 
+communications equipment 
+market cap 
+price 
+source clarifi morgan stanley research price july stocks this screen have the largest correlations the trade risk factor 
+constructed 
+exhibit stocks that are least correlated with trade sensitive assets have domestic focus 
+utilities media reits and health care are well represented 
+top least trade sensitive stocks the largest stocks 
+mar jun 
+ticker 
+chtr 
+nee 
+amt 
+bmy 
+antm 
+lmt 
+lly 
+celg 
+sbux 
+lvs 
+pcln 
+aet 
+cvs 
+abbv 
+mcd 
+rtn 
+wfc 
+company name 
+charter communications inc 
+nextera energy inc 
+american tower corp 
+bristol myers squibb 
+inc 
+anthem inc 
+lockheed martin corp 
+facebook inc 
+lilly eli 
+celgene corp 
+starbucks corp 
+las vegas sands corp 
+priceline group inc 
+aetna inc 
+cvs health corp 
+abbvie inc 
+mcdonald corp 
+raytheon 
+wells fargo 
+philip morris international 
+industry 
+media 
+electric utilities 
+real estate investment trusts reits 
+pharmaceuticals 
+diversified telecommunication services 
+health care providers services 
+aerospace defense 
+internet software services 
+pharmaceuticals 
+biotechnology 
+hotels restaurants leisure 
+hotels restaurants leisure 
+internet direct marketing retail 
+health care providers services 
+food staples retailing 
+biotechnology 
+hotels restaurants leisure 
+aerospace defense 
+banks 
+tobacco 
+market cap 
+price 
+source clarifi morgan stanley research price july stocks this screen have the smallest correlations the trade risk factor 
+constructed 
+now detail the steps our analysis 
+choosing time period for trade analysis 
+based the distribution news events surrounding trade exhibit chose march 
+the starting date for our period study the impact trade risk equities despite 
+the increase news surrounding trade did not find meaningful news most days 
+during the march june period the sporadic nature this news flow may 
+contribute the lask systematic effect equities 
+exhibit key trade dates 
+date 
+event 
+reuters said canada believed president trump would pull out nafta 
+president trump announced tariffs solar cells modules and washing machines 
+president trump announced tariff steel imports and tariffs aluminum imports was forthcoming 
+draws list goods put tarriffs trump follows through aluminum and steel threats includes harley davidson motorcycles bourbon and jeans 
+president trump signals increase taxes cars the retaliates against tariffs steel and aluminum 
+president trump signs the tariffs into effect exempted canda and mexico and gave other countries chance argue why they should exempted 
+the steel and aluminum tariffs into effect 
+china announces tariffs imports including fruits nuts wine and steel 
+president trump announced section tariffs chinese goods 
+china signals retaliation 
+president trump announced wanted china did retaliate 
+president trump says wants explore rejoining tpp 
+china imposes preliminary tariffs sorghum 
+and chinese officials propose talks 
+president trump postpones increase steel tariffs administration extends negotiations with canada mexico and the 
+treasury secretary mnuchin and former commerce secretary ross china for talks trade 
+former economic advisor cohn resigns after breaking with president trump trade 
+china ends tariffs sorghum during negotiations 
+treasury secretary mnuchin said the tarriffs were hold 
+president trump announced new section investigation into the impact auto and auto part imports national security 
+announced that they would have the final list section tariffs june and the investment restrictions june 
+announces will not extend the exemption for steel and aluminum tariffs for canada and mexico they went into effect the next day 
+mexico announces tit for tat tarriffs against the 
+officals plan duties exports 
+announced final product list for first tariffs for section into effect july additional list will into effect the coming months 
+president trump announced that would put additional tariffs china retaliated and another after that they retaliated again 
+source cnbc real clear politics piie morgan stanley public policy research 
+using this time period studied the returns and risk equities and trade sensitive 
+assets and looked for relationship between the two groups 
+performance risk factors sectors and industries 
+risk adjusted returns equity sectors suggest that trade may driver recent 
+returns net contributions from our factor risk model utilities and reits which are 
+more domestically focused and are less trade sensitive have had the highest alpha 
+since march light bars exhibit while industrials and materials more trade sensitive 
+have had among the lowest alphas financial and energy sector alphas are not 
+necessarily consistent with trade risk story 
+exhibit risk adjusted returns equity sectors are suggestive trade impact 
+sector performance from mar jun 
+raw 
+alpha 
+financials 
+industrials 
+staples 
+materials 
+telecom 
+health care 
+tech 
+discretionary 
+utilities 
+real estate 
+energy 
+source clarifi morgan stanley research 
+addition beta adjusted outperformance mid cap stocks relative more global 
+large cap stocks may connected with trade exhibit however low quality junk 
+outperformance inconsistent with increase risk aversion that would accompany 
+heightened trade risk 
+exhibit while mid cap stocks have outperformed more global large cap stocks low quality 
+stocks have also outperformed signaling lack risk aversion 
+cumulative risk factor performance from mar jun 
+mid large 
+market 
+large mega 
+price 
+momentum 
+value 
+growth 
+quality junk 
+source clarifi morgan stanley research 
+the industry level there has been large dispersion among industries even ones 
+from the same sector and while some excess returns are consistent with heightened 
+trade risk others are less clearly related trade exhibit 
+exhibit industry excess returns appear driven range factors and not just 
+trade 
+industry cumulative alpha top and bottom performing industries 
+mar jun 
+tobacco 
+elec equip instrume 
+comp 
+machinery 
+banks 
+biotechnology 
+reits 
+multi utilities 
+road rail 
+electric utilities 
+textiles apparel 
+lux goods 
+source clarifi morgan stanley research 
+short some hints that trade mattered but lots other factors including earnings 
+fed and other central bank policies economic growth etc that could also have 
+contributed the pattern excess returns 
+say something conclusive about trade risk need identify trade risk factor 
+something correlated with known trade effects could then test equity industry 
+returns stocks too idiosyncratic against measure its impact 
+compiling set trade sensitive assets 
+consultation with our economics team and our public policy team compiled list 
+currency pairs commodities country equity index returns and other variables yield 
+curve slope baltic dry index that are expected sensitive trade news exhibit 
+overall have assets this group 
+for asian and australian equity indexes also include returns shifted back one day 
+the idea that some news pertaining trade arises the after asian markets are 
+closed these markets may react the following trading day consequently add 
+one day shifted returns for these markets include both the june and june 
+returns asian and australian equity indexes along with the june returns equity 
+indexes that overlap equity trading hours 
+exhibit list trade sensitive assets 
+trade sensitive assets 
+steel change 
+aluminum change 
+pork change 
+soybean change 
+sorghum change 
+dollar australian dollar change 
+dollar canadian dollar change 
+dollar swiss franc change 
+dollar chinese renminbi change 
+dollar euro change 
+type 
+commodity 
+commodity 
+commodity 
+commodity 
+commodity 
+currency 
+currency 
+currency 
+currency 
+currency 
+trade sensitive assets 
+dollar british pound change 
+dollar south korean won change 
+dollar mexican peso change 
+dollar singapore dollar change 
+dollar japanese yen change 
+dollar south african rand change 
+msci australia return 
+next day msci australia return 
+msci canada return 
+msci china return 
+type 
+currency 
+currency 
+currency 
+currency 
+currency 
+currency 
+equity 
+equity 
+equity 
+equity 
+trade sensitive assets 
+next day msci china return 
+msci germany return 
+msci japan return 
+next day msci japan return 
+msci mexico return 
+msci singapore return 
+next day msci singapore return 
+change yield slope 
+baltic dry index change 
+type 
+equity 
+equity 
+equity 
+equity 
+equity 
+equity 
+equity 
+yield 
+other 
+source clarifi morgan stanley research 
+how closely have these trade sensitive assets tracked each other recently 
+measure the correlations these assets with each other the recent march 
+present period and same length prior period general these correlations 
+are modest shown the distribution absolute correlations exhibit the 
+post trade dispute period the median absolute correlation among assets only 
+with only one quarter pairs assets having correlation over addition the 
+recent correlations are consistently lower than those the prior period across the 
+distribution 
+exhibit distribution trade sensitive assets pre post 
+statistics magnitude 
+pre trade dispute 
+post trade dispute 
+correlation among 
+trade sensitive assets 
+percentile 
+percentile 
+percentile 
+median 
+bottom percentile 
+bottom percentile 
+bottom percentile 
+source clarifi morgan stanley research 
+are these assets becoming more correlated with each other 
+something systematic was occurring with trade risk would expect the correlations 
+between these asset returns strengthen news surrounding potential trade risks 
+picked fact the frequency statistically significant increases correlation based 
+tests fisher values correlations about what one would expect random 
+exhibit for example all correlation pairs exhibit correlations that are more 
+extreme significance level 
+exhibit the frequency significant increases correlation among trade sensitive assets 
+about what one would expect random 
+under significance level 
+under significance level 
+under significance level 
+total number pairs among trade sensitive assets 
+pairs with significant 
+correlation change pre post 
+trade war 
+percentage out 
+total number 
+pairs 
+source clarifi morgan stanley research 
+principal components analysis trade sensitive assets 
+identify trade risk factor that best combines effects from all these tradesensitive assets run principal components analysis pca the matrix 
+correlations all the trade sensitive assets with each other due the wide range 
+volatilities the assets more appropriate use the correlation matrix than the 
+covariance matrix for this analysis 
+pca the risk this case correlation decomposed into distinct components each 
+made some combination the individual assets the first principal component 
+the one that explains the largest fraction risk correlation equities this 
+usually the market return factor and the weights are related equity betas 
+for the trade sensitive assets the first principal component only explains risk 
+correlation this fraction much smaller than what typically observed for equities 
+alone and consistent with the low correlations observed for trade sensitive assets 
+the first principal component has positive weights currency pairs where the direction 
+each units foreign currency per dollar indicating that the trade risk factor 
+tends rise when the dollar strengthens against other currencies exhibit 
+addition the factor has negative weights country equity index returns trade risk 
+increases correspond negative equity index returns 
+commodity returns and changes yield curve slope had low weights this trade risk 
+factor the latter suggesting that the flattening yield curve may not closely 
+connected with trade risk also interesting that the next day return for japan equities 
+has strong weight whereas the same day return for china equities has strong weight 
+this indicates that the japanese equity market has primarily been reacting news 
+trade whereas the chinese market has been trading more its own news rather than 
+prior day trade news 
+exhibit trade risk associated with dollar strengthening and equity market weakness 
+primary risk loadings trade sensitive assets 
+mar jun 
+asset 
+loading 
+dollar australian dollar change 
+dollar singapore dollar change 
+dollar euro change 
+dollar south african rand change 
+dollar canadian dollar change 
+dollar chinese renminbi change 
+dollar mexican peso change 
+dollar british pound change 
+dollar swiss franc change 
+dollar south korean won change 
+dollar japanese yen change 
+next day msci australia return 
+sorghum change 
+baltic dry index change 
+change yield slope 
+pork change 
+steel change 
+msci germany return 
+next day msci china return 
+msci australia return 
+soybean change 
+msci japan return 
+next day msci singapore return 
+aluminum change 
+msci singapore return 
+msci canada return 
+next day msci japan return 
+msci china return 
+msci mexico return 
+source clarifi morgan stanley research 
+daily returns the trade risk factor have been increasingly positive since the middle 
+april exhibit 
+exhibit trade risk factor returns have been more positive increased trade risk since april 
+return based trade sensitive assets series 
+mar jun 
+source clarifi morgan stanley research 
+since number the trade sensitive assets had low correlations with each other 
+ran principal components analysis using only the assets that had the highest 
+median absolute correlations the march june period even after restricting the set 
+more correlated assets the fraction correlation explained the first principal 
+component still modest mexico canada china and japan next day equity 
+index returns have negative weights while currencies singapore and australia most 
+prominently have positive weights exhibit 
+exhibit trade risk factor based assets with highest correlations each other 
+primary risk loadings from top most correlated assets among trade 
+sensitive assets 
+mar jun 
+asset 
+loading 
+dollar singapore dollar change 
+dollar australian dollar change 
+dollar chinese renminbi daily change 
+dollar british pound change 
+dollar mexican peso change 
+dollar swiss franc change 
+dollar japanese yen change 
+msci germany return 
+msci canada return 
+next day msci japan return 
+msci china return 
+msci mexico return 
+source clarifi morgan stanley research 
+equity industry analysis 
+chose analyze equity industries for trade sensitivity because they provide some 
+granularity about where trade might having impact but they are less idiosyncratic 
+than individual stocks since only have around trading days since the trade 
+risk headlines increased march limited the set the largest industries 
+market cap better estimate the covariance matrix for comparison recent equity 
+risks with those before trade frictions increased use same length period prior 
+march 
+when decompose the covariance matrix the industry returns each period 
+find similar fractions risk being explained the key principal components each 
+case exhibit particular not observe concentration risk into the top risk 
+factors the recent period compared the prior period 
+exhibit variance explained top principal components pre post 
+comparison variance explained 
+principal pre trade dispute 
+component 
+post trade dispute 
+source clarifi morgan stanley research 
+have any key risks emerged the recent period 
+when compare the loadings weights industries the top risk factors the 
+recent heightened trade headlines period with those the prior period see that 
+there are always meaningful correlations exhibit other words the key current 
+risk factors are similar those the period before trade headlines picked for 
+example the second principal component the recent period has weights industry 
+loadings that are combination those the first two principal components the 
+prior period not something brand new that has emerged trade risk headlines 
+have increased 
+there was new emerging risk factor whether associated with trade another risk 
+would have modest correlations with key risk factors from the prior period this 
+analysis based the weights industries the principal components rather than the 
+returns the principal components 
+exhibit key risk factors the recent period have industry weights that are correlated with 
+those risk factors the prior period 
+magnitude correlation matrix loadings pre post 
+first principal 
+component 
+pre trade war 
+first principal component post march 
+second principal component post march 
+third principal component post march 
+fourth principal component post march 
+fifth principal component post march 
+second principal 
+component 
+pre trade war 
+third principal 
+component 
+pre trade war 
+fourth principal 
+component 
+pre trade war 
+fifth principal 
+component 
+pre trade war 
+source clarifi morgan stanley research 
+what are the main industry risk factors the recent period 
+the first principal component the recent heightened trade risk period equity 
+market risk factor with higher weights betas for technology sector industries 
+financials biotechnology and energy the lowest weights are defensive industries and 
+media exhibit show the largest and smallest weights out industries 
+exhibit the first principal component industry returns market risk factor with 
+loadings related betas 
+loadings the largest industies market cap 
+mar jun 
+industry 
+loading 
+semiconductors semiconductor equipment 
+biotechnology 
+electronic equipment instruments components 
+internet direct marketing retail 
+computers peripherals 
+internet software services 
+machinery 
+diversified financial services 
+capital markets 
+oil gas consumable fuels 
+media 
+health care providers services 
+diversified telecommunication services 
+household products 
+food staples retailing 
+beverages 
+food products 
+tobacco 
+real estate investment trusts reits 
+electric utilities 
+source clarifi morgan stanley research the largest industries the top and bottom loadings are shown 
+the second most important industry risk factor has had defensive industries such 
+tobacco household products and food products with positive weights and software 
+and energy having the most negative weights exhibit while some the weights are 
+consistent with trade story software and energy are not necessarily the most tradesensitive industries while the other side household products and food products are 
+arguably less insulated from trade risk than utilities and reits 
+exhibit the second most important industry risk factor since march has been defensive 
+software and energy not trade focused set weights 
+loadings the largest industies market cap 
+mar jun 
+industry 
+loading 
+tobacco 
+household products 
+food products 
+beverages 
+food staples retailing 
+electric utilities 
+real estate investment trusts reits 
+specialty retail 
+diversified telecommunication services 
+pharmaceuticals 
+capital markets 
+services 
+semiconductors semiconductor equipment 
+aerospace defense 
+electronic equipment instruments components 
+internet direct marketing retail 
+communications equipment 
+software 
+oil gas consumable fuels 
+internet software services 
+source clarifi morgan stanley research the largest industries the top and bottom loadings are shown 
+the weights the third principal component industries the recent period also lack 
+clear trade focus exhibit machinery and semiconductors have opposite signs and 
+defensive industries are mixed with tech and industrials both the most positive and 
+negative weights 
+exhibit the third most important industry risk factor since march lacks trade focus 
+loadings the largest industies market cap 
+mar jun 
+industry 
+loading 
+oil gas consumable fuels 
+road rail 
+machinery 
+diversified financial services 
+industrial conglomerates 
+aerospace defense 
+chemicals 
+banks 
+household products 
+insurance 
+pharmaceuticals 
+real estate investment trusts reits 
+health care equipment supplies 
+communications equipment 
+internet direct marketing retail 
+tobacco 
+internet software services 
+software 
+semiconductors semiconductor equipment 
+biotechnology 
+source clarifi morgan stanley research the largest industries the top and bottom loadings are shown 
+are current industry risk factors correlated with our trade risk factor 
+computed the correlations the largest industry risk factors since march 
+with both versions our trade risk factor exhibit other than for the first principal 
+component which market factor the absolute correlations are low particularly 
+among the five most important industry factors 
+given that equity index returns are important part the trade risk factor not 
+surprising that there some correlation with the first principal component industry 
+returns the overall market even here however the explanatory power not great 
+for the trade risk factors between and depending which one used 
+based this analysis does not appear that there has been widespread systematic 
+risk for industries based trade headlines the march june period 
+exhibit correlations between trade risk factors and industry risk factors are low other 
+than for overall market risk even for the market explanatory power trade risk modest 
+correlation comparison top top market cap industries and from 
+all trade sensitive assets most correlated trade sensitive assets 
+mar jun 
+absolute value correlation from trade sensitive assets with top from top 
+market cap industries 
+absolute value correlation from most correlated trade sensitive assets with top 
+from top market cap industries 
+source clarifi morgan stanley research 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan 
+stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley includes morgan 
+stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and their affiliates 
+necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report elizabeth 
+harrow brian hayes adam virgadamo cfa michelle weaver michael zezas cfa 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+june 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months due rounding off decimals the percentages provided the total column may not add exactly 
+percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley 

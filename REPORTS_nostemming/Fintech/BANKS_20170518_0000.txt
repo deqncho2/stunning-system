@@ -1,0 +1,1224 @@
+may gmt 
+banks 
+fintech monthly vol open 
+apis may change our concepts 
+banking channels and atms 
+welcome our first fintech monthly the spread mobile networks has had 
+wide ranging effects that extend even consumers banking activities and 
+responding this trend major issue for large financial institutions one 
+the focus points major banks earnings announced earlier this month was 
+business structure reform and believe the use technology central this 
+theme the fintech monthly aim consider the potential emergence 
+innovative financial services supporting earnings opportunities japan the 
+reception fintech technologies japan and what necessary for japanese 
+financial institutions develop strategies that utilize new technologies our 
+global research team has compiled list promising fintech technologies 
+this report global financials and payments fintech gauntlet riches 
+may one these technologies open apis japan 
+this month topic potential for open apis 
+application programming interfaces apis provide secure means 
+accessing other systems functions data making apis openly 
+available banks allow fintech companies develop apps that provide 
+access financial services via smartphone these can also connect the 
+services other companies including those non financial business 
+morgan stanley mufg securities ltd 
+mia nagasaka 
+equity analyst 
+mia nagasaka morganstanleymufg 
+yuki maeda cfa 
+research associate 
+yuki maeda morganstanleymufg 
+three actionable ideas three minute video 
+happy birthday 
+each monday publish three highconviction actionable ideas with visible 
+potential catalysts from asia pacific research 
+view three three 
+banks 
+japan 
+industryview 
+attractive 
+amendments the banking act that are expected passed the 
+diet during may june will introduce registration system for fintech 
+companies that provide electronic settlement services and incorporate 
+open apis which registered fintech companies access banks systems 
+the revisions could into effect early april 
+with growth transactions using open apis certain functions atms 
+and bank branches will replaced and possible that the very 
+purposes existing channels and atms could change furthermore 
+may see customers increasingly selecting banks the basis 
+partnerships with fintech providers that over the most convenient services 
+expanding scope lending business driven analysis data developed 
+through fintech services could generate new earnings opportunities 
+megabanks and other leading banks have already announced moves 
+open apis commission based model one way potentially monetizing 
+open apis but the near term think that transaction growth 
+supported apis likely have greater impact than the increase 
+the number new types fees and commissions 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+are assuming that open apis will effectively become mandatory for 
+banks the questions for banks now include what kind apis apply 
+how partner with the best fintech providers how use external 
+sources strategically and how avoid the risk becoming more than 
+provider services accessed through various apps result open 
+apis 
+the state fintech japan 
+fintech growth trajectory and roadmap important understand the flow digital 
+disruption 
+fintech companies are already providing various financial services offered banks 
+different forms the stage where the convenience existing financial services was 
+increased using improve efficiency which ramped from the late was 
+fintech can think the current use mainly smart devices the cloud big data 
+and such mainly non financial venture firms operating outside financial regulation 
+unbundle the package services provided traditional financial institutions 
+commercializing services way better suited individual needs fintech 
+fintech has created lot business models and services that are highly convenient 
+particular areas but from the point view users the scattered provision various 
+services inconvenience the fintech stage that already getting underway 
+are watching see whether the functions that have been unbundled can now give 
+rise new ecosystem using apis after that with the use the iot expect 
+rebundling move forward which may mean the provision new financial services 
+including from non financial institutions ultimately new investment theme will 
+who can take the initiative rebundling world for japanese financial institutions 
+increasingly important implement the latest technologies synergy with their 
+customer networks brand strength and accumulated capital bringing them bear 
+expand non interest income reduce costs and prevent incursion non financial 
+companies into their business exhibit 
+exhibit roadmap for fintech growth what kind companies will take the initiative the fintech era finance other industries japanese 
+foreign investment theme for the financial sector over the long term 
+fintech 
+existing financial 
+institutions 
+technology 
+changes 
+technology 
+changes 
+the financial 
+services industry 
+main frame 
+mini computer 
+mobile 
+social cloud 
+internet 
+and generation generation online functions 
+online functions 
+marketing and administration 
+banking securities and insurance 
+automation financial 
+business moves online 
+transactions 
+fintech 
+companies 
+efficiency 
+provem ent 
+cost reductions 
+existing financial institutions 
+fintech panies 
+messaging 
+internet use 
+internet banking 
+mobile banking 
+credit scoring lending 
+unbundling 
+big data 
+block chain 
+api 
+api 
+ecosystem 
+bank japan financial network system boj net 
+rebundling 
+late 
+introduction online banking 
+japanese big bang 
+ban over the counter sales investment trusts lifted 
+shift registration system ban over the counter sales insurance lifted 
+securities business 
+early 
+deregulation equities 
+establishment enet dedicated online banking 
+commissions 
+around 
+establishment online brokers 
+formation mega bank groups 
+financial 
+institutions 
+initiatives etc 
+diversification services 
+present 
+structural reforms consolidation elimination branches 
+integration administrative functions and systems 
+present 
+global capital standards 
+consumer protection regulations 
+present 
+stepped overseas expansion cross border 
+present 
+debit card payment 
+bill collection services pay easy 
+transfers between individual 
+facebook line fund transfers 
+money management apps money kit etc 
+robo advisors 
+non banks 
+money 
+osaifu keitai wallet mobile 
+ecommerce card settlement 
+present 
+smartphone card payment 
+yahoo kantan kessai 
+easy payment 
+portal sites 
+account aggregation 
+comparison sites 
+present 
+payments and transfers among individuals 
+crowd funding 
+not regulated 
+big data loans 
+bitcoin 
+paypal 
+prosper mint 
+establishment 
+fintech 
+startups 
+apple 
+establishment 
+tmt 
+companies 
+microsoft 
+amazon 
+yahoo 
+google tencent 
+alibaba 
+baidu 
+lendingclub ondeck 
+betterment 
+square kabbage 
+personal capital simple 
+linkedin 
+facebook 
+youtube 
+twitter 
+hulu 
+whatsapp 
+motif investing izettle angellist 
+transferwise 
+wealthfront 
+ripple 
+kensho 
+regulated 
+moving into scope regulations 
+internet 
+ventures 
+credit card settlement 
+personal loans 
+kakao talk messaging 
+line messaging 
+source fsa morgan stanley research 
+how will fintech received japan 
+estimated that fintech related expenditures japanese banks 
+and external researchers anticipate average annualized growth between now 
+and exhibit source idc global standards the scale japan fintech 
+market small and the pace development has been slow exhibits and the main 
+reasons are probably the nation high savings rate cash deposits and the 
+high proportion personal spending accounted for cash payments 
+these suggest high level confidence japanese banks and the conservative 
+attitude japanese consumers toward cash under the current legal framework there 
+little chance the scale expanding the points that japanese fintech companies 
+might threaten the position traditional financial institutions but least the key point 
+using advanced technologies gear services particular user needs may trigger 
+changes the business models traditional financial institutions already the 
+unbundling services offered comprehensive packages traditional banks has led 
+the development multiple fintech platforms even japan exhibit 
+exhibit projections for fintech related spending domestic 
+banks 
+block chain 
+jpy 
+exhibit size global fintech investment 
+investments 
+deal volume 
+cryptocurrency 
+settlement payments 
+social lending transaction 
+lending crowdfunding 
+accounting management 
+information 
+telematics insurance 
+financial information 
+investment support 
+personal asset 
+management 
+source accenture morgan stanley research 
+source idc morgan stanley research idc estimates 
+exhibit fintech investment overwhelmingly the with europe second early days 
+yet japan even relative gdp 
+fintech investment 
+yoy 
+gdp 
+financial spending 
+germany 
+finland 
+singapore 
+japan 
+source accenture ministry internal affairs and communications morgan stanley research 
+exhibit key fintech business areas 
+fintech field 
+global fintech 
+services 
+japan fintech services 
+paypal 
+coiney link processing liquid spike paid paidy 
+royal gate showcase gig 
+payment 
+settlement 
+simplification payments smartphones etc mainly based credit card 
+settlement also moves rebuild traditional settlement systems and further 
+enhance cost efficiency 
+remittance 
+realization efficiency gains reducing intermediary costs targeting 
+remittances between individuals and across borders 
+transferwise 
+transferwise 
+use funds that hitherto did not circulate directly loan capital exemplified 
+lending 
+lendingclub 
+maneo crowdcredit aqush crowd bank 
+facilitating smaller size and more diversified investment opportunities more 
+extensive use software for asset management providing affordable 
+personalized management web service 
+betterment 
+theo alpaca zuu lbi one tap buy wealthnavi 
+asukabu securities 
+social lending loans 
+investment asset 
+management 
+capital raising 
+matching fund providers and recipients raise capital without going through 
+traditional broker 
+there are web based investment banking businesses 
+launched japan 
+asset management 
+called account information aggregation service well for the general 
+public services are also arriving that clarify and analyze the complicated asset 
+situations wealthy people 
+addepar 
+money forward moneytree zaim wallet smart idea 
+mint 
+freee merrybiz crowd cast make leaps 
+coinbase 
+bitflyer orb smart contrat japan coincheck 
+cloud accounting software plans improve back office efficiency and reduce costs especially for smes 
+tools for finance accounting where the back office particular burden developing and supplying 
+cloud services 
+accounting and tax support software 
+blockchain 
+use blockchain technology and not just bitcoin exchanges expected but full 
+introduction will take some time yet 
+source company data morgan stanley research 
+exhibit business alliances between fintech companies and domestic financial institutions 
+fintech company 
+personal asset management moneytree 
+money forward 
+cloud accounting 
+freee 
+cloud payment 
+deposit savings service 
+nestegg 
+personal payments 
+gmo payment gateway 
+data analysis 
+generic solution 
+artificial intelligence 
+heroz 
+partner financial institution 
+mizuho bank 
+sbi sumishin net bank shizuoka bank 
+bank tokyo mitsubishi ufj hokkoku bank 
+resona bank 
+sbi sumishin net bank 
+smbc bank yokohama 
+chiba bank chugoku bank 
+nomura securities 
+source nikkei company data morgan stanley research note gmo payment gateway covered tetsuro tsusaka 
+japan financial administrators financial institutions and venture firms are getting 
+together move forward 
+japan the fsa working prepare regulatory framework that supports the use 
+fintech since march the financial system council has been deliberating intensively 
+and december put together the working group the financial system 
+report and working group financial payment and transaction banking report 
+which basis banking act revision was set motion april japan the scope 
+business conducted via subsidiaries set within defined limits but the revised law makes 
+possible with fsa approval fund companies engaged business expected 
+enhance the sophistication and user convenience the banking industry other 
+words addresses the issues more deeply than the earlier defined restrictions 
+action plan with timeline for the next years has also been disclosed very recently 
+documents the possibility using blockchain technology and its issues and study 
+group report open api were released march exhibit 
+exhibit japan fintech action plan the latest banking act revisions tackles fintech more deeply than the earlier defined restrictions timeline for 
+action over the next years also disclosed 
+retail sector innovation payment services merging finance and functions 
+settlement infrastructure reforms enhance useability and bolster international competitiveness 
+drastic improvement payment infrastructure 
+functionalities 
+new initiatives for fintech innovation 
+studies from 
+fund transfers among multiple banks using mobile 
+telephone numbers 
+studies into use block chain technologies etc 
+studies from 
+report compiled during 
+report compiled during 
+regulatory adjustments 
+open apis 
+creating seamless payment environment across 
+borders 
+provision domestic fund 
+transfer services using 
+international format 
+systemic revisions 
+services start 
+early conclusion 
+reform improved convenience for large lot 
+remittance 
+reform improved efficiency yen denominated 
+remittance from non residents accounts 
+wholesale sector strategic improvements payment services support corporate growth 
+efforts establish all bank systems could start 
+during the earliest 
+ensuring data security 
+efforts progressing particularly main banks 
+revision lending business regulations applicability 
+points for unification 
+determined during 
+reform international standardization items 
+remittance formats 
+reform provision low value remittance 
+services for international remittance 
+study 
+revisions current systems based advances 
+cms enhancement japanese banks etc 
+full switch xml 
+messaging 
+reform shift xml message standards 
+studies from 
+study into establishing cross sectional legal system 
+new systems built for 
+start services around 
+studies 
+studies into ensuring data security 
+studies into systemic measures and rationalization transactions 
+rationalization forex reporting etc 
+use electronically recorded monetary claims 
+local authorities 
+aggressive efforts achieve early application 
+systems for virtual currency 
+systemic adjustments 
+improving convenience electronically recorded 
+monetary claims for users 
+introduction regulations for virtual currency 
+fast track studies come with workable policies 
+creating systems handle transfers claims 
+among recording bodies 
+introduction densai lump sum factoring 
+overseas development electronically recorded 
+claims systems 
+systemic adjustments 
+introduction some banks mid the latest 
+pursuit efforts achieve commercialization 
+systemic adjustments support ongoing efforts 
+continuous efforts for advancement payment 
+system 
+public and private sectors acting together implement such 
+efforts follow efforts definition ongoing issues and 
+activities 
+source fsa morgan stanley research item relating draft legislation submitted the diet this session compiled the fsa the basis the report the working group payment and transaction banking 
+the financial system council 
+exhibit legislation framework relating fintech japan fintech services are governed 
+differing existing regulations different business areas and the government preparing 
+legislative infrastructure appropriate for new services 
+payment services act 
+banking 
+law 
+prepaid cards 
+money etc 
+registration 
+banks 
+licensing 
+tie ups apis etc 
+fund transfer services 
+transfer services etc 
+registration 
+wealth management services 
+payment 
+services 
+payment services 
+installment sales law 
+improved payment through 
+electronic ordering 
+credit cards 
+registration 
+more efficient corporate wealth 
+management 
+accounting services 
+moneylending business act 
+lending 
+services 
+moneylending business 
+registration 
+ptop 
+lending 
+financial instruments exchange law 
+investment 
+and asset 
+management 
+services 
+securities companies 
+registration 
+investment management 
+business registration 
+robo advisors 
+cloud banking 
+financial settlement act 
+virtual 
+currency 
+virtual currency trading business registration 
+need for tax reform 
+source fsa morgan stanley research 
+open api tie ups between major banks and leading venture firms 
+accelerate 
+what open api and what does make possible open api emerging 
+core technology which existing financial institutions and fintech companies 
+will use share data and create new services present open api mainly 
+employed reference banking account information related services such 
+pfm personal financial management and cloud accounting however 
+the joint usage data through open api promoted this could create new 
+profit making opportunities this because will become possible build 
+platforms through which banks can link with various fintech services new 
+channels will established for the provision existing services combined 
+with fintech services moreover accounting and settlement information 
+accumulated fintech services will monitored real time and this will 
+create opportunities provide loans line and stimulate latent demand for 
+funds 
+over the medium long term there may major change channel and 
+atm concepts increase transactions using open api would partly 
+replace branch channel and atm functions which could change existing 
+channel and atm models bank teaming with fintech companies provide 
+the most convenient services could also increasingly favored 
+laws regarding open api into effect apr the earliest this 
+summer banks could start select registered ventures work with 
+bill proposing revision the banking law was submitted the legislature 
+march and expect passed the diet around may june with 
+the revision going into effect april however this summer could 
+start see moves venture companies and various financial institutions 
+sign contracts regarding the financial institutions establishment systems 
+related the introduction open api grace period years will 
+provided from the time the revision the banking law goes into effect 
+during that time expect the financial institutions and fintech companies 
+make their api connections and for new services start appear the 
+banks whole 
+likely earnings models using open api transaction fee model service 
+charge model revenue share model freemium model etc however for 
+major financial institutions the short term the effect the increase 
+transactions via api likely greater than the increase new service 
+revenue items 
+impact banks open api the three megabanks shizuoka bank 
+concordia gunma bank seven bank aichi bank sbi sumishin net bank and 
+japan net bank are among the banks that have announced they are opening 
+apis too early evaluate which bank has made the most progress 
+opening apis but during expect see some pointers such what 
+features they come with what areas and how they carry out marketing 
+our interpretation that banks will effect have choice but open 
+apis now the key what kind apis apply how partner with the best 
+fintech providers how use external sources strategically and how avoid 
+the risk becoming more than provider services accessed through 
+various apps result open apis 
+what open api what open api the financial field 
+api application programming interface connection method allow for the safe 
+use other system functions and data familiar example would the use google 
+maps restaurant search sites and travel sites the same mechanism entering 
+facebook via google open api opening apis this way the web 
+the financial realm well moves open settlement service apis are picking 
+this mechanism whereby banks open apis facilitate access bank account 
+data and such electronic settlement and other agents fintech firms until now 
+various banks have provided online banking window banking service addition 
+using bank branches but what becomes possible going forward using financial 
+services via smartphone apps provided electronic settlement and other agents 
+fintech firms addition once apis are opened the internet and the services other 
+firms can also tied together 
+previously electronic settlement agents fintech companies read the webpages the 
+online banking services financial institutions scraping the necessary data obtain 
+information but personal and password confirmation data had registered with 
+the venture firm beforehand and problems surfaced including how banks could 
+guarantee security how losses would allocated between banks and venture firms 
+concerns about misbehavior unscrupulous operators and the risk banks 
+having their face time with customers stolen away from them open api greatly reduce 
+these risks and can potentially generate new sources earnings exhibit 
+exhibit conceptual diagrams for scraping and open api 
+source morgan stanley research 
+impact power shifting individuals over the medium long term channel and 
+atm concepts may change greatly and bank selection may advance 
+over the medium long term increase transactions using open api would partly 
+replace store channel and atm functions which could change existing channel and 
+atm models there also the possibility that banks teaming with fintech companies 
+providing the most convenient services will increasingly favored customers 
+exhibit benefits and risks for banking business 
+benefits opportunities for banking business 
+reduced risk incursion from non banks into banking 
+business 
+improved security 
+burden system development costs 
+potential leverage external technologies 
+use apis and service partnerships will allow 
+customers directed among various services 
+risks threats for banking business 
+financial institutions may become more than simple service 
+providers revisions the banking act regarding apis partly 
+aim reduce the risk that banks will lose interaction with 
+customers but fact some observers feel that actuality open 
+apis will provide greater opportunities for fintech companies 
+interact with customers 
+possible weak position terms selectability 
+further investigation into what kind functions should 
+available via apis still needed risk will vary for different 
+depending the apis offered 
+source morgan stanley research 
+open api established april the earliest moves toward open api also 
+picking the policy level 
+march the fsa put forward proposals amend the banking act and some 
+other legislation the current diet that included the new category electronic 
+settlement agent the proposed legislation introduces system registration with the 
+fsa for electronic settlement agents fintech firms and implements programs open 
+api that allow registered fintech firms connect with bank systems deliberation has 
+not yet started but the legislation passes through the diet then after review the 
+march study group report open api models intermediate arrangement proposal 
+implementation likely take place early april registration electronic 
+settlement agents would start the time implementation but already there are 
+starting moves make agreements with various financial institutions before 
+registration appears that the fsa financial information security center fisc banks 
+and fintech firms are making progress security checkpoints and lists for use 
+checking the appropriateness entities apis are connecting when banks open their 
+apis electronic settlement agents expect major banks including the megabanks 
+open apis stages for example smbc intends open apis for deposit and 
+withdrawal statements july exhibit 
+japanese banks are already starting make some moves 
+the current stage before the system implemented already the three megabanks 
+smfg mizuho financial group mufg not covered shizuoka bank 
+not covered concordia not covered gunma bank not covered 
+seven bank not covered aichi bank not covered sbi sumishin net bank 
+japan net bank and others have announced the opening apis and expect 
+increase the number banks ahead too early evaluate which bank has 
+made the most progress opening apis but during expect see some 
+pointers such what features they come with what areas and how they carry 
+out marketing 
+exhibit examples the use open api the field corporate internet banking the mega 
+banks have opened modifying api they plan expand their services directed individuals 
+bank 
+mizuho 
+principal efforts 
+began api linking service access api october for money forward freee and online banking 
+service mizuho business web for corporate clients expanded functions march and began 
+providing integrated bank transfer api modifying api 
+aims around may start providing authentication approval and inquiry menu api for corporate 
+online bank mizuho business site and personal online bank mizuho direct 
+began corporate api connection service from spring teamed with money forward march and 
+launched service using modifying api collaborates with ntt data for api connection services 
+japan 
+smbc 
+plans start providing api for service allowing individuals check balances and deposit withdrawal 
+details from july working with japan research institute 
+began api connection with money forward march and freee august launched 
+automated deposit service finbee and modifying api connection december 
+sbi sumishin 
+net bank 
+credit agricole 
+opened its own app marketplace providing sdk software development kits for development 
+has translation and currency conversion functions calculation medical expense deductions and 
+remittance functions etc 
+bbva 
+established bbva api market open api platform accessible invitation spain and the only 
+instituted apis for aggregating data and account linkage etc 
+citi 
+established global api developer hub november with open api for technical experts 
+cof 
+launched developer portal capital one devexchange which currently offers apis swiftid 
+rewards credit offers and bank account starter 
+launched nexen api store which provides internal developers clients and third party providers 
+with self service access the entire bny mellon library apis the api store currently has clients 
+and apis 
+jpm 
+entered data sharing agreement with intuit january that customers could authorize intuit 
+directly access customer data for apps such mint and quickbooks 
+wfc 
+currently working beta version the developer gateway entered similar agreement with intuit 
+february and with xerox june enable small businesses send their account data 
+directly xero accounting software 
+europe 
+began transfer linked function modifying api using api service for money forward and company 
+services and began handling transaction lending from march began providing transfer linked 
+function using api services with freee april modifying api 
+source fsa company data morgan stanley research 
+note sbi sumishin net bank not covered bbva covered alvaro serrano credit agricole covered bruce hamilton industry view for european 
+banks line citigroup capital one financial corporation bank new york mellon corp morgan chase and wells fargo are covered 
+betsy graseck banking large cap banks view attractive 
+what will the impact bank industry earnings open api 
+likely earnings models using open api are transaction fee model commission 
+service charge model revenue share model freemium model etc over the 
+medium long term there substantial possibility banks being able obtain new 
+sources earnings not affected the market environment however likely 
+difficult for traditional financial institutions obtain major earnings via open api the 
+short term the effect the increase transactions via api likely greater than 
+the increase new service revenue items 
+what new services are likely provided over the medium term the area are 
+watching most closely possible growth the scope financial operations via data 
+analysis 
+japan the fintech services that are used most frequently smartphones are 
+automatic household accounting and asset management services the field open 
+api expect the areas that will first become popular will individual asset 
+management the acquisition banking accounts and the remittance money this will 
+make possible the unified management online accounts multiple financial 
+institutions such banks securities companies and credit card companies 
+however over the medium term the area are watching most closely possible 
+growth the scope financial operations via data analysis japanese financial services 
+have not established mechanisms for generating earnings based data despite long 
+having enormous volumes data such are seeing cases corporate groups 
+with non financial business ecosystems through effective approaches customers 
+obtaining profit growth the financial services business more than existing financial 
+institutions corporate financing lending small and medium sized enterprises 
+open api makes possible scoop cash flow information order collect data 
+different from previously for use with new initial credit and ongoing credit methods 
+data not just periodic settlements but adding daily cash flow making possible 
+lend low risk and timely manner monitoring real time sales procurement 
+data and settlement information may also possible create new earnings 
+opportunities such eliciting potential funds demand timely online financing 
+expect the use fintech have the benefit expanding the scope financial 
+operations but how banks use open api team with leading fintech companies will 
+important point for whether they can develop differentiated services whether 
+the services different banks end being homogenized 
+fintech evaluation framework 
+may our global team conducted analysis noteworthy fintech 
+technologies entitled fintech gauntlet riches japan one these was open 
+api this report includes framework for evaluating fintech companies that provide 
+for reference exhibit global financials and payments fintech gauntlet 
+riches may 
+exhibit open api analysis framework japan 
+source morgan stanley research 
+appendix revision japan banking act restrictions 
+ownership foreign financial institutions 
+fintech remains within the scope the banking act but potential exists for sales 
+growth fields outside its business domain 
+the banking act and other laws were revised april the banking act puts 
+restrictions the holding voting rights subsidiaries outside certain firms banks 
+bank holding companies under the new revisions the banking act now 
+possible acquire and hold voting rights finance related firms excess these 
+restrictions conditional upon approval such firms can also made subsidiaries this 
+has created environment more conducive investment fintech companies 
+existing financial institutions for example services can offered not just bank 
+customers but wider array customers virtual malls that are sponsored the 
+operating company financial group and should enable settlements and big data 
+businesses acquire financial businesses that were certified other industries under 
+the previous banking act fintech remains within the scope set out the banking act 
+but the groundwork has been laid for investing should new business models emerge 
+medium long term 
+the case japan the financial groups that are the core banking cannot enter fields 
+outside the bounds which they are restricted however ordinary business 
+companies entering into banking are not subject the business restrictions enumerated 
+the bank law they can pass standards for suitability major shareholders and 
+certain administrative measures this what has allowed ordinary companies such 
+sony sony financial seven holdings seven bank and rakuten banking securities 
+and credit card operations enter banking the recent banking law revisions have 
+enabled investment with the permission the financial services agency companies 
+that operate businesses expected contribute greater functionality banking and 
+greater convenience for consumers this more sophisticated than the restrictions 
+the past 
+the contrast the business domains financial holding companies fhc are 
+basically restricted but permissions are granted flexibly for associated and 
+supplemental businesses 
+exhibit overseas standards for funding business companies have always been more relaxed 
+than for banks 
+germany 
+singapore 
+regulatory content 
+the case financial holding company fhc entry permitted into other business 
+with frb approval business complementary financial business ownership more 
+than voting rights also permitted 
+principle permitted acquire and own the voting rights business 
+companies regardless the business field however for large scale investments the 
+authorities are able impose penalties terms capital adequacy ratio controls 
+prohibit 
+principle permitted acquire and own the voting rights business 
+companies regardless the business field however for large scale investments the 
+authorities are able impose penalties terms capital adequacy ratio controls 
+prohibit 
+share ownership any one name must within own capital unless approved 
+the authorities ownership more than the shares business company 
+prohibited 
+source ministry economy trade and industry morgan stanley research 
+issues expanding the environment for fintech 
+order increase the convenience fintech services customer data must drawn 
+seamlessly from different platforms and must possible complete procedures 
+digitally however there currently are restrictions and barriers the access data that 
+serves the basis for services below have outlined the major issues the spread 
+fintech that are administrative that have been identified fintech firms 
+confirming identity through documentation know your customer kyc for 
+fintech service spread ideally for convenience must possible digitally 
+complete all parts application the time service starts however current 
+restrictions obligation check the time transaction under the act 
+prevention transfer criminal proceeds require that identity confirmation 
+documentation checked mail when opening account the like making 
+service applications less convenient and incurring costs for mailing documentation 
+which bottleneck for fintech companies paper put out meti fintech 
+study group running proving tests the use smartphones able read 
+individual number mynumber card and storing personal identification functions 
+smartphone sim card the former will start may and the latter 
+progress aiming for rollout the policy build out environment 
+which kyc can completed digitally 
+digitalizing settlements settlement data the history and manner the use 
+money such user purchasing history that serve the basis for generating 
+added value fintech services must like settlement data stored digitally 
+specific programs for speeding transition cashless include faster popularization 
+electronic receipts and liberalization obligations exchange documents the 
+revision the installment sales act granted dec order make credit 
+card signatures electronic 
+using personal data currently japan there clear system place which 
+data belongs the individual fintech services difficult for person who 
+wants gather data from different databases gather personal data other 
+firms move and use europe general data protection rules slated take 
+effect clarify the rights individual the while the the individual 
+midata project setup which individuals can get personal data electronic 
+form has been started program for information use and proving tests are 
+underway japan proposed revisions the private information protection law 
+and other laws are slated into force september which should make 
+information sharing easier 
+open api some fintech services are linked accounts financial institutions 
+stands customers must usually register account information for net banking and 
+the like with the service and intermediary such fintech firm extracts 
+information from the financial institutions place the user procedure called 
+scraping with open apis contrast financial institutions have shared 
+specifications for connecting external applications and fintech firms are granted 
+access rights advance users can use services linked financial institutions 
+without having register password the like with intermediary open 
+apis have important role promoting open innovation while ensuring user 
+protection and security open apis spread financial institutions users will 
+become able use the data their own financial institutions variety fintech 
+services from the perspective the financial institution using open api 
+platform has advantages allowing create new services and make its own 
+services more appealing apis are grouped into access apis which simply access 
+data external applications and modifying apis which can modify data financial 
+institutions through settlements within applications some feel revolutionary 
+services will become possible when institutions open modifying apis 
+different restrictions intermediaries categorized depending whether they 
+are accessing modifying type must also considered 
+creating environment that fosters innovation some feel current regulations 
+will not able keep with the advent new business models such fintech 
+the and singapore have set regulatory sandboxes that are free from the 
+restrictions authorities provided conditions are met ways promote 
+innovation through trial and error japan too studying regulatory sandbox 
+promote experimentation that leads innovation 
+exhibit example government support system for fintech abroad the recognized 
+global leader 
+support structures 
+the main initiative project innovate started the fca which 
+provides support encouraging competition via disruptive innovation when 
+launching new service possible confirm beforehand the potential areas 
+legal infringement under certain conditions regulatory sandbox also 
+provided where current legislation not applied business companies 
+cfpb consumer finance protection bureau project catalyst takes steps 
+encourage financial innovation that benefits consumers 
+japan 
+fsa established fintech support desk december assist fintech 
+companies 
+singapore 
+fintech innovation group ftig has been set within the monetary 
+authority singapore mas responsible for adjustment relation 
+regulatory trends and use technology financial services guidelines for the 
+use regulatory sandbox were released 
+source ministry economy trade and industry morgan stanley research 
+appendix preparing open api legislation for japan financial 
+industry 
+bill submitted revise the banking law related open api 
+march bill was submitted the ordinary session the diet proposing 
+revision portion the banking law order promote open api the main content 
+the bill follows 
+introduction registration system electronic settlement and other agents are 
+defined intermediaries such fintech companies that provide services accessing 
+the data possessed financial institutions registration system will introduced for 
+the electronic settlement and other agents and the conditions for registration will 
+include the establishment system protect users the obligation manage 
+information safely and assets which will provide the foundations for operations 
+financial institutions will need sign contracts and announce their plans the financial 
+institutions will sign contracts with the electronic settlement and other agents and open 
+connections with them the financial institutions will obliged make efforts 
+establish the open api system not mandatory but they will asked draw and 
+release plan for linking and cooperating with the electronic settlement and other 
+agents well draw and release standards related the connections they will 
+not able refuse connections with the electronic settlement and other agents that 
+meet the standards 
+enforcement date within one year after the revision goes into force however cases 
+which electronic settlement and other agent which carries out only account 
+management services has signed contract with financial institution institutions the 
+deadline for setting system for introducing open api with financial institutions may 
+extended within years from the date specified the law 
+europe making progress settling legislation deal with open api 
+looking the financial services agency financial system working group report the 
+content this legislation related open api was drawn reference the 
+system which already force europe stands for revised payment services 
+directive and was adopted the november the deadline for member 
+states incorporate the directive into their national laws and regulations january 
+with payment initiation service providers pisps and account information 
+service providers aisps were added the providers settlement services under the 
+current system summary the regulations applied pisps and aisps appears 
+below while pisps transmit payment information related users payment accounts 
+opened other payment service providers aisps only consolidate and provide 
+information from payment accounts they not transmit payment information the 
+regulations applied aisps are less strict 
+exhibit summary regulations aisps that only provide information have financial 
+requirements 
+business activities 
+licensing registration 
+capital requirements 
+capital preservation 
+payment initiation service providers 
+pisps 
+sends payment instruction 
+user behest 
+licensing system 
+capital least euros 
+none 
+account information service 
+providers aisps 
+provides account information 
+user 
+registration system 
+none 
+none 
+source fsa morgan stanley research 
+from the perspective the financial institutions when receiving access request from 
+pisp other similar provider the banks need exclude fraudulent transactions and 
+basically recognize access they have obligation entrust the payment 
+information the communication carried out under safety rules prescribed the 
+european banking authority eba the system must accommodate open api because 
+communications interface needs supplied and the specifications released 
+publically 
+open banking standard february the announced open banking 
+standard system specifications and rules will set for banks share the data 
+that they possess with third party payment service providers through open api the 
+government will set framework and timetable and plans work out the details 
+its open banking standard according the timetable march 
+future focus points related banking law revisions and open api 
+regarding the revision the banking act that currently being proposed some points 
+merit close attention vis vis the which has been adopted europe under the 
+revised banking law financial institutions are obliged make effort introduce 
+open api not completely mandatory the the electronic settlement and other 
+agents are not divided into the separate categories pisp and aisp and financial 
+conditions are applied aisps they could end being over regulated the way 
+which the banking agency system will applied the the electronic settlement and 
+other agents has been left vague banking agents provide services for the banks such 
+accepting deposits making loans and exchanging currencies the the electronic 
+settlement and other agents can also interpreted providing services for the banks 
+and possible that stricter regulations will assigned them for example 
+understand the case where bank provides credit based information received 
+through fintech services the scheme under which the fintech company receives 
+commission from the bank for obtaining the loan contract would the present time 
+viewed falling under the banking agency business classification 
+fintech association japan organization fintech companies received the following 
+answers from the financial services agency regarding the above points related the 
+revision the banking law which currently being proposed basically all financial 
+institutions would asked connect with the open api system the regulations 
+applied pisps and aisps would light and some guidelines will drawn 
+clarify how the banking agency business interpreted the fintech association japan 
+released statement where endorsed the proposed legislative changes light 
+these responses from the fsa february 
+besides the bill revise the banking act will paying close attention the 
+following points over the upcoming few years what sort earnings structure will 
+develop between the financial institutions and fintech companies related the use 
+open api how will the open api regulations applied the financial institutions and 
+the process signing contracts with fintech companies unified and whether any 
+innovative new services will supplied 
+note summary the banking agency business regulations the regulations cover 
+approval system the obligation assign experienced workers branches and 
+business offices and approval system for supplementary businesses addition 
+the regulations applied operators these businesses the bank which the banking 
+agency providing services has the obligation give guidance and compensate 
+customers for damages incurred 
+how japanese banks and the japanese bankers association are dealing with 
+open api 
+the japanese bankers association jba positions open api key technology that will 
+used realize open innovations will promoting the use open api and 
+working for its smooth implementation toward eco system based win win 
+relationship among the customers fintech companies and financial institutions survey 
+the jba found that banks are considering using open api october the 
+jba set study group open api with the aim creating public private 
+collaboration initiative promote the use open api mar the study group 
+released report the main content which appears below primarily this report 
+advocates the adoption unified specifications for open api each bank uses different 
+specifications the fintech companies that they are connected with will see their 
+development costs soar and economies scale would lost thus believe that 
+the standardization specifications will extremely important for promoting the use 
+open api 
+standardization api specifications environment without any standards usage 
+open api among the banks could become fragmented much possible 
+desirable create environment which connections can made based common 
+use this would also contribute lowering investment costs and communication costs 
+regarding security and ensuring the protection users some basic usage rules will 
+need determined some electronic specification standards will put together 
+determine guidelines for the following developmental principles recommended 
+standards used the development basic specifications standard items 
+used electronic messages and definitions those standard items 
+security measures and protection users because some highly sensitive information 
+will stored and held the fintech companies that access data through the api 
+sufficient security measures will need taken and users will have protected 
+the other hand there are concerns that fintech companies are required take 
+security measures the same level those the banks this will create impediments 
+innovation based awareness these concerns the report the study group 
+presents the basic thinking related security measures that could adopted for the 
+use open api and how users could protected 
+issues tackle the future one the establishment checklist that banks can 
+use when investigating the appropriateness the electronic settlement and other 
+agent for connection with through the api the financial information system center 
+fisc plans set such checklist june another issue that should 
+considered strengthening security measures financials isac japan has set fintech 
+security working group with this mind the japanese bankers association will put 
+together and release report conditions related the banks adoption open api 
+with the goal promoting cooperation between the banks and fintech companies and 
+smoothing the way for connections between them 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley mufg securities ltd and its affiliates collectively morgan 
+stanley 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report mia 
+nagasaka 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+april morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research sumitomo mitsui sumitomo mitsui trust holdings 
+within the last months morgan stanley managed managed public offering offering securities mizuho financial group sumitomo 
+mitsui 
+within the last months morgan stanley has received compensation for investment banking services from resona holdings 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from japan post bank mizuho 
+financial group resona holdings sumitomo mitsui sumitomo mitsui trust holdings 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from japan post 
+bank mizuho financial group resona holdings sumitomo mitsui sumitomo mitsui trust holdings 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company japan post bank mizuho financial group resona holdings sumitomo mitsui sumitomo mitsui trust holdings 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company japan post bank mizuho financial group resona 
+holdings sumitomo mitsui sumitomo mitsui trust holdings 
+morgan stanley llc makes market the securities sumitomo mitsui 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+april 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities mizuho financial group sumitomo mitsui 
+sumitomo mitsui trust holdings 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage banks 
+company ticker 
+rating 
+price 
+mia nagasaka 
+japan post bank 
+mizuho financial group 
+resona holdings 
+sumitomo mitsui 
+sumitomo mitsui trust holdings 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley mufg 

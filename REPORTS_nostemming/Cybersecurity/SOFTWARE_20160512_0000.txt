@@ -1,0 +1,873 @@
+may 
+software 
+morgan stanley llc 
+melissa gorham 
+melissa gorham morganstanley 
+cybersecurity blue paper 
+revisit focus the 
+cloud 
+keith weiss cfa 
+keith weiss morganstanley 
+tom mao 
+tom mao morganstanley 
+morgan stanley international plc 
+adam wood 
+adam wood morganstanley 
+morgan stanley llc 
+ublic cloud adoption drives shift towards 
+security service given scale benefits new 
+spending secure cloud workloads and some 
+disruption legacy vendors cloud vendors offer more 
+security functionality see pfpt key beneficiary 
+and remain cautious impv 
+revisit our cybersecurity blue paper rethinking security published april 
+diving deeper into the impact the cybersecurity space from the rising 
+adoption public cloud solutions particular focus point for investors today 
+with strong cloud based email security solution proofpoint remains top 
+pick one the key beneficiaries enterprises move the cloud with office 
+adoption catalyst contrast remain cautious imperva given the 
+potential for increasing competition from large public cloud vendors key 
+conclusions 
+what shifting security shifting the cloud strong cost efficiency benefits 
+from larger scale compute capacity and greater ease deployment increases 
+the adoption cloud delivered cybersecurity our view assume security 
+service will increase from the product mix today 
+cagr versus cagr for overall security product spend our 
+evolution scenario our revolution scenario could see security 
+service grow over the next five years the move security service has 
+positive model benefits for vendors more revenue shifts into recurring 
+revenue assume the recurring revenue security software moves 
+from average and more software only solutions 
+versus appliance delivery could have long term gross margin benefits 
+particularly cloud businesses reaches scale the average security company 
+our coverage group has gms compared mature saas company like 
+crm with gross margins for its subscription business proofpoint 
+already prime beneficiary the shift towards security service while other 
+vendors like palo alto networks fireeye and are ramping their cloudbased subscription offerings 
+what incremental security for the cloud largely incremental believe 
+incremental security spending increasingly moves towards protection public 
+cloud workloads with the cloud provider itself providing only limited range 
+brian nowak cfa 
+brian nowak morganstanley 
+morgan stanley mufg securities ltd 
+masaharu miyachi 
+masaharu miyachi morganstanleymufg 
+morgan stanley appreciates your support 
+the institutional investor all america 
+research team survey 
+request your ballot 
+software 
+north america 
+industryview 
+attractive 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+security functionality today most enterprises will operate hybrid 
+environment with app workloads premise and across multiple clouds this 
+means enterprises will layer new spending secure the new cloud 
+workloads likely from existing security vendors with rich domain expertise the 
+move the cloud can grow new markets opportunities cloud access security 
+brokerage example drive incremental spending existing markets virtual 
+firewalls web gateways and lesser degree disrupt some legacy markets 
+web application firewalls see cloud workload protection driving 
+incremental security product spend material portion the growth 
+security product spending from today our base case 
+with its portfolio virtual machines which can deployed aws azure and 
+its web app visibility through app and aperture cloud access security 
+brokerage tech see palo alto networks key beneficiary here 
+what risk security for the data center most likely risk 
+enterprises smbs moving infrastructure service aws azure are 
+outsourcing their data centers the public cloud therefore logical for the 
+cloud provider provide some security for the assets within the data center 
+our view for example the security the web applications and databases 
+running within public cloud environments 
+best positioned vendor proofpoint proofpoint plays two key trends 
+consolidation data protection technology and securing cloud assets through 
+its cloud based email and data protection platform the email security market 
+mature and growing the low single digits but with the move office 
+catalyst versus competitive threat and enterprises looking integrate basic 
+email security with advanced threat protection proofpoint will continue gain 
+share and grow average customer size share gains upsell into its existing base 
+with expanding portfolio and new partnerships with palo alto networks 
+example should enable least top line growth for the next several 
+years our view 
+challenged vendor imperva imperva offers best breed portfolio for web 
+application firewalls database security and cloud access security broker 
+functionality while the latter solution certainly well positioned address the 
+cloud its core solutions waf and database security together 
+revenue could exposed disruption from the cloud security vendors 
+themselves workloads move the cloud while believe there will 
+continue market for high end web app firewalls wafs think its long 
+term runway may limited consolidation functionality into broader 
+security platforms and through cloud vendors who are hosting these 
+applications and databases their datacenters 
+exhibit security for the cloud drives incremental growth opportunities with 
+dollars shifting towards security service 
+evolution the security market 
+cagr 
+subscription 
+cloud offering 
+incremental security product spending for the cloud 
+security product spending 
+source morgan stanley research idc 
+key conclusions 
+revisiting our cybersecurity blue paper rethinking security 
+the month since published our cybersecurity blue paper have met with wide range investors 
+discuss our key conclusions the size and shape the cybersecurity industry and company stock implications many 
+our investor conversations focused the implications the security landscape from the move the cloud software 
+platform infrastructure service broadly see the move the cloud driving incremental but shifting security 
+spending with some winners and losers and shifting delivery models for security vendors appliance service our 
+broader key conclusions 
+the cybersecurity market should continue outpace growth spend rising malicious threats growth digital assets 
+and the limited effectiveness current security solutions will likely drive evolution the security paradigm wider 
+digital surface area should bolster the market from today cagr well ahead 
+mid single digit growth overall spend 
+but incremental dollars set shift enterprises are favoring security solutions that enable consolidation and automation 
+security functionality well greater visibility across the enterprise these trends require scale such believe the 
+big will get bigger counter current trends best breed seeing greater share efficiencies from consolidation help 
+enterprises fund security for new vectors such mobile and cloud 
+large security platforms the best way play this trend garnering market share line with other mature tech markets 
+today the top security vendors could sustain revenue growth through vendors such 
+cisco systems palo alto networks sophos and symantec appear well positioned benefit 
+some new direct and indirect beneficiaries security gets productized through cloud services amazon microsoft 
+hardware components secure chips and security funding sources shift security will increasingly embedded 
+product cost while also shifting towards security service capex opex and cybersecurity insurance 
+moving computing the cloud via software service applications 
+platform infrastructure service drives new security requirements considerations 
+for the enterprise including expanding surface area beyond premise 
+architectures limited visibility into data residency and concentrated risk with party 
+vendors however growing cloud infrastructure has number benefits security 
+well particularly related security deployed service the cloud versus the 
+traditional premises security deployment method while there may some 
+technologies and corresponding vendors that will face challenges this environment 
+think the move the cloud largely neutral positive for most security software 
+and services vendors 
+while not believe that traditional premise security spending going away 
+particularly end point and perimeter security see incremental security dollars 
+going towards security service offerings and some incremental security for 
+cloud applications with premise security becoming less strategic over time could 
+see some commodization consolidation some the more mature technologies web 
+security stateful inspection firewalls which will likely help fund enterprises increased 
+investment cloud security this should help drive relatively stable security budgets 
+despite the growing vectors that need protection 
+see two main avenues through which the cloud impacts security spending clouddelivered cybersecurity and security for cloud workloads 
+cloud delivered cybersecurity 
+more computing moves the cloud and enterprises look reduce their data center 
+footprint expect see greater adoption security service contrast the 
+typical security deployment model often appliance premise software this 
+includes solutions that are delivered entirely via the cloud well pieces 
+functionality that leverage the cloud with software service saas the 
+underlying hardware and software components are abstracted from the customer and 
+delivered the customer service see increased adoption security delivered 
+via the cloud due the growing sprawl security technology the dynamic threat 
+environment and limited house security expertise according idc enterprises use 
+cloud based security for their security spend today rising our 
+calculation exhibit take slightly more conservative approach and assume the 
+security service mix moves 
+exhibit expect security service spending significantly outpace growth overall security spending over the next five years 
+evolution scenario 
+the mix 
+premise traditional security 
+security service 
+year cagr 
+premise traditional security 
+security service 
+total security product 
+recurring 
+total recurring security subscriptions 
+revolution scenario 
+the mix 
+premise traditional security 
+security service 
+year cagr 
+premise traditional security 
+security service 
+total security product 
+recurring 
+total recurring security subscriptions 
+source morgan stanley idc 
+cloud based vendors like proofpoint are well levered this trend while legacy security 
+vendors are building security service functionality which should add greater 
+recurring revenue the model and potentially boast gross margins the long term 
+vendors shift away from appliance based models 
+what are the drivers customer adoption security service 
+lower capex and personnel costs cloud based security can significantly 
+reduce the need purchase maintain and enhance technology infrastructure 
+and hire support personnel 
+staying current with latest technology buyer cloud delivered 
+cybersecurity better positioned automatically take advantage product 
+innovation premise where enterprises will need implement new 
+versions the latest technology 
+benefits scale and shared services security service can boost the 
+efficiency advanced security operations centers socs cloud based soc 
+that shares information among member organizations enables businesses 
+leverage from the collective intelligence helping detect and remediate threats 
+more quickly than standalone premise soc 
+secure communication channels enterprises will able leverage the 
+cloud provider infrastructure deploy secure communication and 
+collaboration channels this creates safe repository for sensitive information 
+which will require separate access clearance limiting the ability for attackers 
+move laterally across the infrastructure following initial breach 
+the combination these factors should allow companies that would not normally 
+have the resources fund large house security departments gain access more 
+dynamic cybersecurity footprint that adapts the changing threat environment 
+what areas cybersecurity are seeing cloud delivery today cloud delivered security 
+relatively nascent today with idc estimating only security spending today going 
+towards cloud delivered security services the markets seeing greater cloud adoption 
+include vulnerability management web security and email security which benefiting 
+from enterprises adoption addition many solution sets have cloud 
+components supplement the premise technology example fireeye onpremise web appliance incorporates its cloud based dynamic threat intelligence 
+subscription 
+what technologies make most sense deliver over the web believe will see 
+increased adoption cloud security for technology that needs integrate both 
+cloud and premise use cases example here identity management technology 
+which enterprises use manage identities across all applications premise and 
+cloud technology that already extends outside the network example the 
+protection external facing websites web application firewall and email security and 
+technology which bolstered greater scale example threat intelligence 
+which can benefit from sharing information across wide customer base 
+endpoint security and network security less likely fully move the cloud cloudbased endpoint security solution would require the device mobile server 
+connected the web for protection however this raises issues when the device 
+offline malicious software downloaded attack trigger can occur once 
+internet connection detected which point the endpoint becomes vulnerable 
+however see increased cloud based functionality embedded endpoint security 
+such threat intelligence cloud based signature databases known malware 
+the key barrier significant adoption cloud based network security the latency 
+lag created when specific web traffic all traffic all network security cloud 
+delivered routed through the infrastructure the cloud security provider adequate 
+global infrastructure can mitigate this issue the near term most companies will 
+operate hybrid cloud environments running workloads both premise and the 
+public cloud this may actually prove benefit spending perimeter security while 
+perimeter security today protects what called north south traffic into and out the 
+data center the traffic between systems and applications within data center 
+east west traffic remains largely unprotected with more systems and applications 
+now residing outside the data center more that east west traffic becomes 
+north south traffic pushing higher volume traffic through the perimeter security 
+which generally prices based capacity 
+how could this impact the current spending environment not necessarily additive but 
+more shifting towards more favorable business models 
+greater cost efficiency benefits from greater scale and greater ease management will 
+likely drive increased adoption cloud delivered cybersecurity currently the vast 
+majority cybersecurity software sales are for premise systems 
+according idc assume security service will increase from the 
+product mix today growing pace more than double the traditional 
+security architectures assume our revolution scenario and assume that security 
+service grows double the pace the overall market could see security 
+service grow over the next five years 
+the move security service will shift business models towards more recurring 
+revenue which generally has positive impacts model visibility and customer lifetime 
+value addition this also shifts business models away from the traditional appliancebased delivery and towards service delivery depending scale the cloud 
+infrastructure this could have positive impacts gross margins however company 
+building out its own cloud services leveraging aws azure example gross 
+margins may lower particularly the solutions are subscale example 
+proofpoint which cloud based has gross margins the average security 
+company 
+exhibit gross margins across the security universe 
+pfpt gross margins security peers 
+mime 
+feye 
+pfpt 
+ftnt 
+rpd 
+panw cuda 
+qlys 
+impv 
+chkp 
+source company data morgan stanley research 
+vendors that appear better positioned cloud based security key markets email 
+security identity management vulnerability management threat intelligence include 
+proofpoint email security qualys vulnerability management zscaler web security 
+amongst others however also believe that the larger security platforms will also 
+well levered this trend with most security vendors like palo alto networks and 
+fireeye now offering portfolio cloud based subscriptions 
+exhibit most security vendors today have appliance driven model move software only will have model benefits 
+amazon morgan stanley research estimates last reported periods 
+cybersecurity for the cloud 
+expect see new security requirements arising from the increased adoption 
+cloud based infrastructure and applications many cases security for the cloud will 
+additive existing premise security deployments and offer area growth for 
+legacy security players who are facing maturity premise architectures however 
+also expect the cloud providers themselves capture some incremental security 
+dollars either indirectly part the product offering directly separate sku 
+when companies shift their infrastructure the cloud the responsibility provide 
+cybersecurity for that infrastructure shifts into the hands the cloud service provider 
+the enterprise however the enterprise remains responsible for the security the 
+actual data and application the cloud other words the cloud provider 
+responsible for the security the infrastructure the enterprise remains responsible for 
+the security the content enterprises not completely outsource its security when 
+moving the cloud but may require new considerations functionalities than 
+previous architectural models 
+exhibit moving the cloud means shared responsibility for security with the cloud provider 
+trend micro amazon morgan stanley research 
+exhibit moving the cloud means shared responsibility for security with the cloud provider 
+gartner april 
+security for cloud apps and cloud infrastructure broadly believe cloud application 
+deployments software service require new but narrow list cybersecurity 
+technologies procured directly the enterprise one the more common additional 
+technology deployed today alongside cloud applications cloud access security 
+brokerage technology casb which provides visibility into the use cloud based 
+applications and enforces consistent policies across all cloud and premises apps 
+recent activity this space highlights its increasingly strategic importance with 
+microsoft buying casb vendor adallom imperva buying skyfence and palo alto 
+networks buying cirrosecure addition employees accessing more web based 
+applications should drive the need for greater web protection through secure web 
+gateways often procured based the amount web traffic and encryption 
+technology 
+for infrastructure deployments such amazon web services have seen cloud 
+providers offer enterprises the option equip its deployments with additional security 
+features however this largely delivered party security software providers 
+while amazon web services has largely relied party security partners has also 
+recently come market with some several security offerings including its own web 
+application firewall 
+what does change the status quo 
+cloud computing aligned with cybersecurity best practices one the core 
+issues with advanced persistent threats apt when attacker able gain 
+access some part corporation network infrastructure and then freely 
+move laterally across the remaining network having specific apps data 
+cloud environment solves this issue these cloud environments are isolated 
+across the wide area network wan and therefore are secured with their own 
+firewalls ips and monitoring our recent conversations with cios now suggest 
+security driver cloud adoption with the vendor that platform vendors like 
+amazon have significantly greater resources and scale secure its 
+infrastructure versus smaller enterprise 
+better data protection both rest and transit due the nature 
+public cloud architecture virtualization shared servers etc difficult 
+point single physical server where the data stored which can breached 
+cloud providers typically encrypt the data that server breached the 
+attacker will only have access subset the overall information 
+economies scale for security expertise cybersecurity significant 
+business model risk for cloud providers such these companies have large 
+budgets hire top security talent from agencies such the nsa cia fbi 
+there significant talent gap cybersecurity with the international 
+information system security certification consortium predicting 
+hiring shortfall years believe this will make very difficult for large 
+corporations compete with cloud providers attract the experienced talent 
+required protect against advanced threats 
+how could this impact the current spending environment another growth 
+opportunity 
+when applications and infrastructure shift cloud environment limited amount 
+the security responsibility shifts the cloud provider itself cost business 
+however cloud vendors currently offer the bare bones security therefore enterprises 
+will likely want add from vendors with specific security domain expertise however 
+most enterprises today and for the foreseeable future will operate hybrid 
+environment with application workloads premise and across multiple clouds this 
+means that enterprises won rip out their existing infrastructure moves the 
+cloud but rather will layer technologies secure the new cloud workloads 
+exhibit most large security vendors offer software only solution iaas platforms such aws although rev contribution today fairly 
+minimal 
+amazon morgan stanley research 
+this has positive neutral and some cases negative implications for the current 
+security spending paradigm the move the cloud can drive new markets cloud access 
+security brokerage example incremental spending existing markets virtual 
+firewalls web gateways and lesser degree disrupt some markets web application 
+firewalls 
+landscape opportunity disruption 
+areas opportunity 
+cloud access security brokers this relatively new technology that 
+ensures central point monitoring and control across cloud deployments 
+number vendors have acquired technology this market including palo 
+alto networks cirrosecure microsoft adallom and imperva skyfence 
+encryption cloud adoption drives rising network traffic and data which 
+needs encrypted stored and while transit prevent access 
+bad actors similar premise architectures encryption for data transit 
+can achieved via virtual private networks vpn while there some 
+stand alone ssl encryption products gigamon however some encryption 
+capabilities are offered the cloud providers themselves amazon 
+salesforce etc 
+email security more enterprises move their email see 
+enterprises adopting similar deployment method for email security such 
+proofpoint cloud based solution 
+identity management proper identity and access management tools iam 
+are the foundation for securing cloud applications the move the cloud 
+could catalyst for enterprises reevaluate its iam architectures and 
+potentially adopt iam service offerings 
+web gateways more traffic moves across the web via cloud applications 
+this will drive the need for more web security gateway capacity some 
+network security vendors such palo alto check point and fortinet offer 
+web security capabilities addition stand alone vendors 
+virtual firewalls the move the cloud will drive greater adoption 
+virtual appliances that can protect apps built the cloud amazon and 
+azure own the physical network but not the protection and allow for 
+more workload based security these deployments will largely additive 
+existing premise architectures given most enterprises will deploying 
+hybrid architecture both premise and the cloud and will want 
+implement consistent security policies key beneficiaries include palo alto 
+networks and fortinet 
+areas potential disruption 
+web application firewalls greater number web applications move 
+iaas paas think cloud providers may provide the security itself for 
+those web assets within the data center other words reverse proxy 
+web application firewall waf offered vendors such imperva and 
+amazon released its own waf the fall 
+ddos protection similar the waf analysis protection against distributed 
+denial service attacks ddos may reside the data center where the web 
+application hosted and logical for the cloud provider offer this service 
+directly this would disruptive akamai and imperva ddos business 
+other data center security enterprises increasingly adopt database aservice offerings from aws azure believe the threat these cloud 
+providers offering competing database security increases well 
+threat intelligence more application workloads and data moves the 
+cloud the largest cloud providers may best positioned consolidate and 
+distribute threat intelligence which may also get commoditized given scale 
+and visibility this points risk fireeye new investment area around 
+threat intelligence suite offerings 
+material amount incremental spend towards protection cloud workloads 
+estimate that spending security for cloud workloads will drive incremental security 
+spend upwards spending our cybersecurity blue paper 
+calculated the size the overall security market estimating the installed base 
+digital assets and assuming some stable level security spend per asset isolate 
+the number public virtual machines expected and apply the average security 
+spend per asset calculate market size with our estimate 
+security product spending moving from this represents 
+approximately half the incremental dollars five years 
+exhibit our market sizing model calculates security spending geared towards protecting the public cloud 
+evolution scenario 
+security product spending 
+public vms 
+security spend per unit 
+incremental security product spending for the cloud 
+total security product spending 
+year cagr 
+source morgan stanley research idc 
+implications for the cloud providers better security reduces friction adoption plus 
+some incremental opportunity cloud providers like amazon google and microsoft 
+continue enhance their internal security offerings attract more customers but 
+likely not aspire large security companies with their core competencies other 
+markets services enhancing their security cloud providers are attempting remove 
+major point friction the enterprise sales process historically concerns around 
+data security have been among the largest obstacles moving workloads the cloud 
+such getting potential enterprise customers comfortable with the security offered 
+cloud vendors top priority interestingly for many companies and most smbs the 
+public cloud may provide higher level security than they could otherwise afford 
+through third party vendor 
+our revolution scenario could see the public cloud providers take larger role 
+developing security applications capturing share the security market themselves 
+this scenario cloud providers like aws could add portion the security 
+spending our revolution scenario their tam looking further out time 
+years possible that security moves more the edges the cloud and the endpoint 
+the burden security increasingly shifts the cloud providers see security 
+becoming cost doing business for these cloud platforms such will likely 
+embedded into pricing with the potential upsell additional features and protections 
+while not see amazon google aspiring security company believe 
+both will continue expand incremental direct security offerings where makes sense 
+protecting the apps and databases that reside those clouds such web 
+application firewalls which aws recently released database and data security make 
+sense logical extensions their current offerings 
+exhibit security and identity product offerings 
+company data morgan stanley research 
+how play 
+vendors that appear well positioned 
+proofpoint pfpt current price proofpoint plays two key trends 
+consolidation data protection technology and securing cloud assets 
+through its cloud based email and data protection platform the email security 
+market mature and growing the low single digits but dollars are shifting 
+towards cloud based solutions and vendors able integrate basic email 
+security with advanced threat protection with the move office 
+catalyst versus competitive threat think proofpoint one the key 
+beneficiaries the move the cloud this should enable least top line 
+growth for the next several years 
+palo alto networks panw current price with its next generation 
+firewall capabilities centered around its app capability the pan operating 
+system panw has more visibility and control into web app traffic than 
+traditional stateful inspection firewall palo alto also released its apeture 
+product which extends the visibility and granular control its platform 
+into saas apps similar casb functionality easy upsell into its installed 
+base addition enterprises move aws azure palo alto also positioned 
+for incremental growth through the adoption its virtual appliances this 
+allows palo alto garner spend beyond the traditional next gen firewall use 
+case while also shifting its business model towards software deployments 
+versus appliances which has gross margin benefits 
+sophos soph current price sophos cloud delivered security 
+strategy focused security management for small medium sized 
+businesses the company main solution sophos central allows customers 
+manage their endpoint mobile and web security from unified cloud console 
+cloud also enabler the company push integrate threat detection 
+between the endpoint and the network with heartbeat its cloud based 
+threat communication management platform sophos can share advanced 
+threat indicators between the next generation firewall and the endpoint 
+detect and prevent attacks sophos also plays the security for the cloud 
+space where companies can deploy the sophos utm amazon web services 
+see the integration endpoint and network security and the company 
+heartbeat technology key driver increased cross selling within the 
+customer base which central our double digit billings growth thesis 
+sophos covered adam wood 
+vendors watch 
+trend micro current price trend micro covered 
+masaharu miyachi working improve its competitiveness focusing 
+security products for the cloud environment and broadening its business 
+reach order provide integrated security technology trend micro has 
+expanded its sales deep security massively the last three years 
+estimate that some these products are currently used private 
+cloud environments where corporate clients have virtualized systems 
+internally and the public cloud the client migration cloud 
+computing has spurred this rapid growth trend micro has high share onpremises server security start with well placed win business when 
+clients migrate virtual environments and think the ability offer 
+combined protection for premises and cloud environments reason why 
+clients have chosen trend micro however there guarantee place 
+the winners camp amid fierce competition and changing business 
+environment view the risk reward proposition balanced over the long 
+term 
+fortinet ftnt current price fortinet has invested virtual firewalls 
+and has cited internal segmentation key driver for virtual firewall adoption 
+similar palo alto adoption virtual appliances deployed aws 
+otherwise allows fortinet garner spend beyond the traditional next gen 
+firewall use case while also shifting its business model towards software 
+deployments versus appliances which has gross margin benefits however 
+fortinet differentiation centers around its custom built asic chips which 
+enable attractive price performance ratio for customers enterprises adopt 
+virtual appliances unclear how fortinet differentiation sustains 
+amazon amzn current price noted above not believe that 
+amazon covered brian nowak intends security company 
+believe will continue expand its incremental direct security offerings where 
+makes sense protecting the apps and databases that reside those clouds 
+the extent security more aggressively moves the cloud amazon could 
+positioned add the upwards security spending its already large 
+tam 
+microsoft msft current price similar amazon believe microsoft 
+will continue add security functionality help reduce friction adoption for 
+its cloud based services such azure and microsoft already has 
+number security solutions including endpoint security email security and 
+advanced malware protection however seen limited traction compared its 
+security focused competition and its solutions are largely adopted smbs 
+the extent microsoft continues bolster its security capabilities and 
+overcomes market perception that not security company could become 
+meaningful player the security market 
+vendors risk 
+imperva impv current price imperva comes market with best ofbreed portfolio for web application firewalls distributed denial services 
+security database security and cloud access security broker functionality while 
+the latter solution certainly well positioned address the cloud its core 
+solutions waf and database security revenue could exposed 
+disruption from the cloud security vendors themselves workloads move 
+the cloud while believe there will continue market for high end web 
+app firewalls wafs think its long term runway may limited 
+consolidation functionality into broader security platforms and through cloud 
+vendors who are hosting these applications and databases their datacenters 
+for valuation methodology and risks associated with any 
+price targets ratings recommendations referenced 
+this research report please contact the client support 
+team follows canada hong 
+kong latin america 
+london singapore sydney tokyo alternatively you may contact your investment 
+representative morgan stanley research 
+broadway attention research management new york 
+usa 
+morgan stanley currently acting financial advisor 
+atlas air worldwide holdings inc atlas with respect 
+its strategic agreements with amazon inc 
+amazon whereby atlas will provide air cargo services 
+support amazon package deliveries its customers 
+and will grant amazon warrants acquire percentage 
+atlas common shares announced may 
+the proposed transaction subject customary closing 
+conditions atlas has agreed pay fees morgan 
+stanley for its financial services which are contingent 
+upon consummation the transaction please refer the 
+notes the end the report 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan 
+stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley includes morgan 
+stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and their affiliates 
+necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report melissa 
+gorham masaharu miyachi brian nowak cfa keith weiss cfa adam wood 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+april morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research amazon inc atlassian corporation plc avg technologies box inc fireeye inc intuit mindbody inc nuance communications 
+inc opower inc palo alto networks inc qlik technologies inc salesforce servicenow inc splunk inc tableau software travelport worldwide 
+limited varonis systems inc veeva systems inc workday workiva inc 
+within the last months morgan stanley managed managed public offering offering securities appfolio inc atlassian corporation 
+plc autodesk fireeye inc godaddy inc instructure inc mindbody inc nuance communications inc inc sabre corp shopify inc sophos 
+group plc technologies holdings inc travelport worldwide limited 
+within the last months morgan stanley has received compensation for investment banking services from apigee corporation appfolio inc atlassian 
+corporation plc autodesk box inc cdk global inc fireeye inc fortinet inc godaddy inc instructure inc intuit mindbody inc nuance 
+communications inc oracle corporation qlik technologies inc inc sabre corp shopify inc sophos group plc splunk inc technologies 
+holdings inc travelport worldwide limited trend micro veeva systems inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from adobe systems akamai 
+technologies inc amazon inc apigee corporation appfolio inc atlassian corporation plc autodesk avg technologies barracuda networks inc 
+bazaarvoice inc box inc cdk global inc check point software technologies ltd citrix systems inc cvent descartes systems group inc enernoc inc 
+fireeye inc fortinet inc godaddy inc hubspot inc imperva inc instructure inc intuit jive software inc microsoft mindbody inc netsuite new relic 
+inc nuance communications inc opower inc oracle corporation palo alto networks inc proofpoint inc qlik technologies inc inc red hat inc 
+sabre corp salesforce servicenow inc shopify inc sophos group plc splunk inc technologies holdings inc symantec tableau software 
+travelport worldwide limited trend micro varonis systems inc veeva systems inc vmware inc workday workiva inc zendesk inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from adobe 
+systems akamai technologies inc amazon inc autodesk check point software technologies ltd citrix systems inc fortinet inc intuit microsoft 
+nuance communications inc oracle corporation red hat inc sabre corp salesforce sophos group plc technologies holdings inc 
+symantec travelport worldwide limited trend micro 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company adobe systems akamai technologies inc amazon inc apigee corporation appfolio inc atlassian corporation plc 
+autodesk avg technologies barracuda networks inc bazaarvoice inc box inc cdk global inc check point software technologies ltd citrix systems 
+inc cvent descartes systems group inc enernoc inc fireeye inc fortinet inc godaddy inc hubspot inc imperva inc instructure inc intuit jive 
+software inc microsoft mindbody inc netsuite new relic inc nuance communications inc opower inc oracle corporation palo alto networks inc 
+proofpoint inc qlik technologies inc inc red hat inc sabre corp salesforce servicenow inc shopify inc sophos group plc splunk inc 
+technologies holdings inc symantec tableau software travelport worldwide limited trend micro varonis systems inc veeva systems inc 
+vmware inc workday workiva inc zendesk inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company adobe systems akamai technologies inc 
+amazon inc autodesk cdk global inc check point software technologies ltd citrix systems inc enernoc inc fireeye inc fortinet inc godaddy 
+inc intuit microsoft nuance communications inc oracle corporation red hat inc sabre corp salesforce servicenow inc sophos group plc 
+technologies holdings inc symantec travelport worldwide limited trend micro workday 
+employee director consultant morgan stanley director workiva inc this person not research analyst member research analyst 
+household 
+morgan stanley llc makes market the securities adobe systems akamai technologies inc amazon inc apigee corporation appfolio 
+inc atlassian corporation plc autodesk avg technologies barracuda networks inc bazaarvoice inc box inc cdk global inc check point software 
+technologies ltd citrix systems inc cvent descartes systems group inc enernoc inc fireeye inc fortinet inc godaddy inc hubspot inc imperva 
+inc instructure inc intuit jive software inc microsoft mindbody inc netsuite new relic inc nuance communications inc opower inc oracle 
+corporation palo alto networks inc proofpoint inc qlik technologies inc inc red hat inc sabre corp salesforce servicenow inc shopify 
+inc splunk inc technologies holdings inc symantec tableau software travelport worldwide limited varonis systems inc veeva systems inc 
+vmware inc workday workiva inc zendesk inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+april 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+count 
+total 
+count 
+total 
+ibc 
+rating 
+category 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems amazon inc 
+autodesk bazaarvoice inc cdk global inc citrix systems inc intuit microsoft netsuite nuance communications inc oracle corporation proofpoint inc 
+red hat inc symantec 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such 
+information for your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions 
+morgan stanley research may not distributed the public media quoted used the public media without the express written consent morgan 
+stanley information securities instruments that not trade taiwan for informational purposes only and not construed recommendation 
+solicitation trade such securities instruments mstl may not execute transactions for clients these securities instruments our readers hong 
+kong information distributed hong kong and behalf and attributable morgan stanley asia limited part its regulated activities hong 
+kong you have any queries concerning morgan stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and bank morgan stanley hong kong branch 
+singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities pte ltd 
+registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and bank morgan stanley singapore branch 
+registration number australia wholesale clients within the meaning the australian corporations act morgan stanley australia 
+limited holder australian financial services license which accepts responsibility for its contents australia 
+wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia pty ltd 
+holder australian financial services license which accepts responsibility for its contents korea morgan stanley 
+international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley asia indonesia canada 
+morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan stanley bank 
+frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage software 
+company ticker 
+rating 
+price 
+brian essex cfa 
+appfolio inc appf 
+cdk global inc cdk 
+descartes systems group inc dsgx 
+enernoc inc enoc 
+godaddy inc gddy 
+instructure inc inst 
+mindbody inc 
+sabre corp sabr 
+shopify inc shop 
+technologies holdings inc ssnc 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+qlik technologies inc qlik 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+splunk inc splk 
+symantec symc 
+tableau software data 
+vmware inc vmw 
+workday wday 
+melissa gorham 
+avg technologies avg 
+barracuda networks inc cuda 
+box inc box 
+fireeye inc feye 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+inc rpd 
+varonis systems inc vrns 
+sanjit singh 
+apigee corporation apic 
+atlassian corporation plc team 
+new relic inc newr 
+nuance communications inc nuan 
+stan zlotsky cfa 
+bazaarvoice inc 
+cvent cvt 
+hubspot inc hubs 
+jive software inc jive 
+netsuite 
+opower inc opwr 
+veeva systems inc veev 
+workiva inc 
+zendesk inc zen 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

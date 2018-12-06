@@ -1,0 +1,1747 @@
+june gmt 
+software 
+state security spending 
+new data protection regulations are driving healthy security 
+spending and beyond this bullish for beneficiaries 
+varonis sailpoint and cyberark although already reflected 
+recent stock moves palo alto networks still our top pick 
+otherwise mixed network security market 
+morgan stanley llc 
+melissa franchi 
+equity analyst 
+melissa franchi morganstanley 
+keith weiss cfa 
+equity analyst 
+keith weiss morganstanley 
+james faucette 
+equity analyst 
+james faucette morganstanley 
+morgan stanley international plc 
+adam wood 
+equity analyst 
+adam wood morganstanley 
+victoria irving 
+chief security officer survey shows improving security spend over the next 
+three years our survey chief security officers csos highlights 
+accelerating security spending growth over the next few years driven growing 
+compliance requirements the need for new functionality and security 
+requirements around the public cloud our survey shows expected 
+growth security spending line with our survey and cagr 
+over the next three years ahead overall spending growth according 
+our cio survey stable improving commercial demand for security bucks 
+concerns related secular headwinds from ineffective security 
+technologies architectures and cloud adoption results across security were 
+generally solid which think will sustain not improve through 
+particularly with the general data protection regulation gdpr just coming 
+line see data privacy gdpr security solution stocks 
+gdpr coming into play the implementation gdpr may appears 
+impacting security intentions with survey respondents noting compliance 
+the driver for incremental security spend our survey this also 
+comes through the technology priorities well with data governance the 
+priority for security spending along with identity and access management and 
+security analytics within the top this syncs with the requirements gdpr 
+which forces enterprises prioritize the identity and control access 
+personal data and better detection and remediation vulnerabilities and 
+breaches 
+adoption public cloud additive total security spending although 
+physical network appliances expected face headwind the majority 
+csos identify the move the public cloud additive security spending 
+reductive across most the subsectors security including security analytics 
+identity management and virtual network security appliances however saw 
+downtick the csos who expect negative impact network security 
+appliance spend with csos spending less due cloud more 
+this compares our prior survey where csos spending more 
+network security appliances due the cloud spending less 
+which also syncs with more moderate view appliance refreshes 
+twenty one percent csos note their organization plans has already 
+refreshed the majority their firewalls down from who have 
+already refreshed expectations improve into next year with csos 
+equity strategist 
+victoria irving morganstanley 
+morgan stanley llc 
+anjelo austria 
+research associate 
+anjelo austria morganstanley 
+software 
+north america 
+industryview 
+what changed 
+attractive 
+from 
+symantec symc 
+price target 
+cyberark software ltd cybr 
+price target 
+sailpoint technologies holdings inc sail 
+price target 
+varonis systems inc vrns 
+price target 
+morgan stanley does and seeks business with 
+companies covered morgan stanley research 
+result investors should aware that the firm may have 
+conflict interest that could affect the objectivity 
+morgan stanley research investors should consider 
+morgan stanley research only single factor making 
+their investment decision 
+for analyst certification and other important disclosures 
+refer the disclosure section located the end this 
+report 
+analysts employed non affiliates are not registered with 
+finra may not associated persons the member and may not 
+subject nasd nyse restrictions communications with 
+subject company public appearances and trading securities held 
+research analyst account 
+indicating plans refresh data points the firewall refresh and the 
+impact physical appliance spend from cloud adoption makes incrementally 
+more cautious firewall vendors particularly check point chkp and fortinet 
+ftnt 
+focusing the beneficiaries price target changes noted out the 
+rsa conference see rsa conference highlighting healthy security 
+spending april believe will continue positive 
+year for security spend with focus areas around cloud security data security 
+identity and access management and next generation endpoint security the 
+increasingly malicious environment coupled with growing compliance 
+requirements are key drivers the attractive demand environment with our 
+survey strengthening our conviction gdpr security driver raise our 
+price targets vrns data governance sail identity governance and cybr 
+privileged access management names think are best positioned benefit 
+from gdpr although remain given the recent run these stocks likely 
+reflects elevated investor expectations smid cap top pick fireeye feye should 
+benefit from these secular tailwinds security along with ramping renewal 
+base moderating headwinds lower appliance base and stabilizing durations 
+and conservative guide 
+areas watch our survey noted moderation proofpoint expectations with 
+csos using proofpoint today for email security down 
+months modest downtick from last year survey with microsoft share 
+moving from today months remain pfpt 
+think organic billings growth readily achievable given ramping 
+renewal base and new products coming into the model particularly with the 
+acquisition wombat and valuation for pfpt fcf for fcf 
+growth leaves some room for upside rich valuations average across our 
+universe our survey had mixed negative data points the physical firewall 
+market raising our caution fortinet and check point but panw remains the 
+relative winner one the only share gainers network security and web and 
+endpoint security against bearish investor view post recent leadership changes 
+areas caution our data points symantec were bearish with the csos 
+deploying symantec their primary secondary endpoint security vendor 
+moving from today the next months our survey also suggests 
+share loss blue coat with share moving from today the next 
+months such reduce our price target symc from 
+reflecting more bearish view fundamentals the survey results continue 
+negative imperva with share web application firewalls waf expected 
+move from today the next months while the deployment 
+aws waf expected move from today the next months 
+waiting for entry point the average security stock our universe 
+ytd the past month including ipos with the average ntm sales 
+ahead the year average such have upside 
+average our price targets the security universe still see near term 
+opportunities for stocks where expectations are more muted and the near term 
+set favorable these names include panw and feye fundamentally 
+more positive gdpr exposed names our universe including vrns cybr 
+and sail but await more attractive tactical entry point 
+exhibit security software stocks are since beginning slightly 
+lower than the overall software average but well ahead the nasdaq 
+indexed price performance 
+software 
+avg 
+security avg 
+ndx 
+ndx 
+security average 
+jun 
+may 
+apr 
+mar 
+feb 
+jan 
+dec 
+nov 
+oct 
+sep 
+aug 
+jul 
+jun 
+may 
+apr 
+mar 
+feb 
+jan 
+software universe avg 
+source morgan stanley research thomson reuters 
+industry takeaways 
+highlight six key industry takeaways 
+security spend grows line with software spend improves over next years 
+chief security officers report average expected growth security 
+spending this compares software spending growth and 
+overall spending growth according our april cio survey see 
+cio survey cio survey growth expectation strengthens record highs 
+apr note csos average expect security spending growth improve 
+over the next few years with average annual growth over the next 
+months 
+mixed refresh expectations the near term twenty one percent csos note 
+their organization plans has already refreshed the majority their firewalls 
+down from who have already refreshed expectations improve 
+into next year with csos indicating plans refresh however this 
+contrasts with csos who identify refreshing technology for new functionality 
+one the top drivers incremental security spend 
+compliance becomes more important driver survey data suggests that rising 
+compliance requirements are the main driver for incremental security spend 
+think this likely reflection gdpr requirements and would more directly 
+benefit data governance identity and access management security analytics 
+technologies this significant shift from our prior survey where compliance was 
+ranked the security priority today 
+data governance and identity access management are top security priorities 
+data governance and identity and access management were chosen top 
+security priorities which likely fits with requirements under gdpr 
+csos note data governance top priority for significant increase from 
+the who identified top priority identity and access management 
+was chosen the third top priority with csos who noted top 
+priority compared the survey intrusion detection prevention 
+technologies ranked the second priority with security analytics and cloud 
+workload security solutions rounding out the top five 
+cso data suggest cloud additive security spend but more bearish view 
+appliance impacts with the exception network security appliances csos who 
+identify the move the public cloud additive security spending outweigh the 
+percentage who believe will decrease security spending similar our prior 
+survey the subsectors best positioned benefit include security analytics 
+csos note that they plan spend more due the cloud spending less 
+and identity management csos will spend more due the cloud 
+less virtual network security appliances remain beneficiary csos will 
+spend more due cloud less the other hand network security 
+appliance spend expected decline from cloud adoption with csos 
+spending less due cloud more this compares our prior survey where 
+csos planned spend more network security appliances due the 
+cloud spending less 
+mixed view beneficiaries from cloud workload security survey data suggests 
+csos will likely use firewall vendor cloud vendor themselves for virtual 
+firewalls csos however csos use web application firewalls and 
+identity and access management technologies from the iaas paas vendor 
+themselves stand alone vendor contrast our prior work suggesting the 
+opposite 
+valuation views 
+symantec price target from our survey shows symantec share loser 
+endpoint security and web security gateways over the next three years this raises 
+some additional concern the ability symantec see improving enterprise security 
+revenue growth from flat yoy high single digits low double digits 
+remain below management outlook and look for enterprise revenue 
+growth but lower our multiple more cautious view our price target 
+now based eps prior this multiple line with slow 
+growth legacy vendors orcl symc and line with the average symc multiple 
+from period mixed execution and slower eps growth for symantec 
+cyberark price target from think cyberark should beneficiary 
+from gdpr enterprises look lock down privileged accounts that have access 
+systems applications exposed personal data leader the privileged access 
+management space pam cyberark has room sustain top line growth the 
+next few years its recently announced saas based version its core privileged access 
+security platform should also drive opportunity into the lower end enterprise mid 
+market over time raise our outer year estimates modestly and now look for 
+revenue cagr through prior although traction beyond the high end 
+enterprise and more dev ops use cases could drive this higher higher fcf 
+estimates prior and higher multiple prior drives 
+our price target prior our multiple assumes the average 
+growth large cap software large caps chkp ctxs orcl and symc prior 
+which was the average all large cap software 
+sailpoint price target from sailpoint should benefit from the increased 
+importance identity governance well broader identity management and data 
+governance arising from gdpr while only csos rank identity governance 
+top priority for this ahead for while identity and access management 
+top priority which likely encompasses views governance technologies sailpoint 
+should also benefit from the increased priority data governance technologies with its 
+newer solution securityiq with greater confidence the sustainability growth 
+raised our fcf from the average growth large cap software large 
+caps chkp ctxs orcl and symc 
+varonis price target from vrns one the key beneficiaries gdpr 
+regulation given its well positioned data governance and insider threat solutions with 
+data governance ranked top priority for modestly raise our top line 
+estimates for varonis through and now look for revenue cagr through 
+which may prove too low keep our margins stable continue 
+cautious around varonis ability scale the business but higher top line drives our 
+fcf from with greater confidence the sustainability growth 
+raised our fcf from the average growth large cap software 
+large caps chkp ctxs orcl and symc 
+forescout bull case moves from our survey showed inflection the 
+prioritization network access control with csos listing network access 
+control top security priority from forescout should the 
+key beneficiary from this rising priority likely catalyzed the growing prioritization 
+securing iot devices with outsized exposure the government financial services 
+verticals and large deals forescout business model inherently lumpy which keeps 
+conservative our base case model which looks for revenue growth through 
+however raise our bull case estimates modestly with fcf 
+our bull case prior also raise our bull case multiple from 
+reflect longer runway growth our bull case these changes bring our bull 
+case current levels also now see more favorable risk reward for 
+forescout with upside our bull case downside our bear case 
+exhibit price target summary 
+price 
+cblk 
+chkp 
+cybr 
+feye 
+fsct 
+ftnt 
+impv 
+panw 
+pfpt 
+qlys 
+rpd 
+sail 
+scwx 
+splk 
+symc 
+vrns 
+average 
+old price current price 
+target 
+target 
+bull 
+base 
+bear 
+bull bear 
+source morgan stanley research 
+valuation views 
+the average security software stock ytd nasdaq yoy 
+relatively line with the average moves within the broader software space the average 
+security stock the nasdaq the past month alone while recent 
+security ipos fsct sail cblk are strong fundamental performance 
+against conservative estimates low floats driving outsized moves and recent 
+activity may driving investors enthusiasm the average security stock ntm 
+sales two turns ahead the five year average but below peak multiples 
+spring 
+exhibit security sales sales cagr 
+source morgan stanley research 
+exhibit the average security stock ahead the five year ntm sales average 
+average security ntm sales 
+avg 
+security average 
+apr 
+oct 
+jan 
+aug 
+feb 
+may 
+nov 
+jun 
+aug 
+mar 
+dec 
+sep 
+jul 
+apr 
+oct 
+jan 
+aug 
+feb 
+may 
+jun 
+sep 
+nov 
+year verage 
+source morgan stanley research company data thomson reuters 
+exhibit even excluding recent ipos the security universe ahead the five year 
+average 
+average security ntm sales ipos 
+avg 
+security average 
+apr 
+oct 
+jan 
+aug 
+feb 
+may 
+nov 
+jun 
+aug 
+mar 
+dec 
+sep 
+jul 
+apr 
+jan 
+oct 
+aug 
+may 
+feb 
+jun 
+sep 
+nov 
+year average 
+source morgan stanley research company data thomson reuters 
+exhibit overweight picks feye and scwx trade well below the average sales multiple 
+while rich valuations keep the sidelines for names like and cblk 
+sales 
+chkp cybr 
+feye 
+fsct 
+ftnt impv panw pfpt 
+sales 
+qlys 
+rpd 
+security average 
+sail 
+scwx splk 
+symc vrns 
+cblk 
+year average 
+source morgan stanley research company data thomson reuters 
+exhibit growth adjusted basis pfpt and panw still look attractive particularly light 
+fcf growth 
+sales growth 
+cybr 
+feye 
+fsct 
+ftnt 
+impv 
+panw 
+pfpt 
+qlys 
+rpd 
+sail 
+scwx 
+splk 
+vrns 
+cblk 
+security average 
+source morgan stanley research company data thomson reuters 
+stock takeaways 
+symantec today endpoint leader but losing share 
+negative 
+symantec expected lose significant endpoint market share today 
+csos deploy symantec their primary secondary endpoint security vendor 
+above all other vendors our survey showed this will down the next 
+months 
+symantec expected lose significant additional endpoint market share with 
+share today additional endpoint spend edr cso data suggests 
+share declines the next months 
+blue coat losing traction the web security gateway market with csos 
+currently deploying blue coat and ticking down the next and 
+next months 
+palo alto networks network security share gainer 
+positive 
+palo alto networks expected gain share amongst consolidated network 
+appliances csos expect palo alto networks their most broadly 
+deployed consolidated network security appliance months from 
+today 
+share within web application firewalls increase csos expect 
+most broadly deploy palo alto networks the next months today 
+web security gateway usage expected improve survey data indicates that 
+csos expect most broadly deploy palo alto networks for web 
+security gateways from today 
+cso responses suggest modest share gains within primary endpoint protection 
+the next months csos currently use palo alto networks today and 
+expected grow the next months 
+neutral 
+csos expect use virtual firewalls from firewall vendors protect cloud 
+workloads albeit declining from last survey csos expect protect 
+cloud workloads with firewall vendors last survey 
+negative 
+weak firewall expectations should negatively impact near term appliance sales 
+for firewall vendors csos either have plans refresh their 
+firewalls expect later 
+check point software technologies mixed outlook 
+positive 
+check point share within physical network security appliances expected 
+modestly tick csos expect broadly deploying check point for 
+physical network security applications months from today 
+negative 
+weak firewall expectations should negatively impact near term appliance sales 
+for firewall vendors csos either have plans refresh their 
+firewalls expect later 
+check point expected lose share the virtual network security appliance 
+market csos expect broadly deploying check point for 
+consolidated network security applications months modestly falling from 
+share today 
+within endpoint security csos expect check point lose share survey 
+respondents suggest check point share the endpoint security modestly 
+decline the next months from today 
+cisco systems network security leader albeit losing share 
+neutral 
+cso data suggests cisco maintains lion share web security gateway 
+market survey responses suggest that cisco will hold share the web 
+security gateway market the next months today 
+negative 
+while remaining the physical network security leader cisco expected lose 
+share currently csos most broadly deploy cisco for 
+physical virtual network security appliances which expected tick down 
+the next months 
+within web application firewalls cisco expected lose modest share 
+currently csos most broadly deploy cisco for web application firewalls 
+and expected decline the next months 
+weak firewall expectations should negatively impact near term appliance sales 
+for firewall vendors csos either have plans refresh their 
+firewalls expect later 
+proofpoint competition heating but email remains top 
+priority 
+neutral 
+email security expected remain top security priority csos expect 
+email security top cio priority csos despite 
+the decline this still represents top ten priority 
+negative 
+csos expect proofpoint lose share within email security survey responses 
+suggest that proofpoint will hold share the email security market the 
+next months down from share today 
+our survey suggests microsoft getting more competitive email security 
+csos report using microsoft for email security today expected 
+improve over the next years 
+sophos less favorable results albeit small non sample 
+size 
+negative 
+share within email security expected decline from current levels today 
+cso respondents most broadly deploy sophos for email security which 
+expected decline the next months 
+csos expect sophos lose endpoint share over time survey data indicates 
+sophos share declines from today over the next months 
+within next gen endpoint sophos expected lose share cso responses 
+suggest that sophos next gen endpoint deployment will decrease from 
+today the next months 
+fortinet staying afloat within core network security 
+neutral 
+fortinet expected maintain share within virtual network security 
+appliances csos expect fortinet share virtual network security appliances 
+remain today and over the next months 
+data suggests fortinet maintain share web security gateways csos 
+expect fortinet share web security gateways remain today and 
+over the next months 
+negative 
+csos expect fortinet lose share physical network appliances csos 
+expect fortinet share physical network security appliances decline 
+the next months from today 
+fireeye mixed outlook non core markets 
+positive 
+fireeye share siem security analytics expected improve within the 
+siem security analytics market csos expect fireeye share grow 
+over the next months today 
+negative 
+fireeye share email security market expected remain over next 
+months 
+imperva share loss within core waf market 
+negative 
+imperva expected lose significant share within its core web application 
+firewall market survey responses indicate that imperva share its core waf 
+market will decline the next months from today this light 
+aws deployment expected bump the next months from 
+today 
+cyberark privileged access management 
+neutral 
+privileged access management rising security priority but still not 
+top the list csos listed privileged access management top 
+security priority from 
+forescout network access control beneficiary 
+positive 
+network access control top ten security priority csos listed 
+network access control top security priority from 
+splunk security analytics winner 
+positive 
+security analytics higher priority than last year cso 
+respondents see security analytics top priority 
+splunk expected gain significant share siem security analytics market 
+remaining the dominant leader csos expect splunk share siem security 
+analytics improve the next months from today 
+data suggests that security analytics remain main beneficiary public cloud 
+adoption csos expect public cloud adoption increase security 
+analytics spend net basis from our prior survey 
+varonis data governance beneficiary 
+positive 
+data governance the top security priority cso respondents 
+see data governance top priority 
+sailpoint identity the forefront 
+positive 
+identity and access management top security priority csos 
+note identity and access management top security priority ranking 
+third while sailpoint core competency within identity governance think 
+the company benefits from the identity being security focus for csos 
+data governance the top security priority cso respondents 
+indicate data governance top priority while only 
+small portion revenue this should benefit demand for securityiq 
+survey results 
+industry takeaways 
+spending growth looks accelerate over the next three years 
+exhibit csos expect growth total security spending over the next months 
+accelerating annual growth over the next three years network security spending growth 
+slower 
+what you expect spending increase decrease yoy 
+average 
+network security spending 
+overall security spending 
+next months 
+next months 
+source morgan stanley research survey chief security officers 
+data governance intrusion detection prevention technologies and identity and 
+access management are the top security priority vpn and virtual network 
+appliances less important 
+exhibit data governance top priority 
+top priorities for security spending 
+virtual private network products 
+virtual network security appliances 
+url filtering web security 
+ddos security 
+threat intelligence 
+identity governance 
+cloud access security brokerage 
+web application firewalls 
+privileged access management 
+encryption technologies 
+physical network security appliances 
+vulnerability management 
+email security 
+advanced malware protection 
+network access control 
+mobile security 
+endpoint security 
+cloud workload security solutions 
+security analytics 
+identity and access management 
+intrusion detection prevention technologies 
+data governance 
+respondents 
+priority 
+priority 
+source morgan stanley research survey chief security officers 
+security drivers compliance requirements seen main driver network security 
+spend necessity incorporate incremental technologies better performance 
+requirements lesser priority 
+exhibit compliance requirements seen main driver incremental network security spend 
+increasing importance from last survey necessity incorporate incremental technologies 
+better performance requirements lesser priority 
+top driver incremental security spending 
+respondents 
+rising 
+refresh tech for 
+compliance new functionality 
+requirements 
+adoption 
+public cloud 
+increased 
+presence 
+apts 
+proliferation consolidating adoption virt 
+mobile devices security policies tech private 
+cloud 
+survey 
+survey 
+need 
+refresh tech for focus postincorporate 
+better 
+breach 
+incremental 
+performance 
+remediation 
+technologies 
+survey 
+source morgan stanley research survey chief security officers 
+firewall refresh one third csos refreshed their firewall expect 
+refresh 
+exhibit one third csos refreshed their firewall last year over half expect refresh after 
+have plans 
+source morgan stanley research survey chief security officers 
+security market share takeaways 
+physical firewall market cisco expected lose share but remains leader palo alto 
+networks makes gains 
+exhibit our survey shows csos expect cisco leader physical firewalls palo alto 
+networks gain share check point remains stable 
+what vendor you most broadly deploy for physical network security appliances 
+today 
+next months 
+next months 
+sophos 
+mcafee 
+sonicwall 
+other 
+juniper 
+fortinet 
+networks 
+check point 
+palo alto 
+networks 
+cisco 
+not use 
+not plan 
+use 
+oracle 
+not deployed 
+plan 
+ibm 
+not deployed 
+plan 
+watchguard 
+respondents 
+source morgan stanley research survey chief security officers 
+virtual network security appliances similarly cisco expected dominant virtual 
+firewall share amazon web services gain ground while check point and palo 
+alto networks remain relatively stable 
+exhibit csos expect cisco also leader virtual firewalls amazon web services gain 
+share check point and palo alto networks remain relatively stable 
+what vendor you most broadly deploy for virtual network security appliances 
+respondents 
+today 
+next months 
+next months 
+other 
+juniper 
+not deployed 
+plan 
+zscaler 
+watchguard 
+not deployed 
+plan 
+mcafee 
+not use 
+not plan 
+use 
+networks 
+palo alto 
+networks 
+check point 
+amazon web 
+services 
+cisco 
+sophos 
+sonicwall 
+ibm 
+microsoft 
+azure 
+fortinet 
+source morgan stanley research survey chief security officers 
+web application firewalls csos report rising adoption amazon web services for 
+web application firewall capability 
+exhibit csos expect amazon web services share almost double over next months 
+imperva remains single digit share holder 
+what vendor you most broadly deploy for web application firewalls 
+cisco 
+networks 
+other 
+amazon web services 
+akamai solutions 
+check point 
+palo alto networks 
+blue coat systems 
+citrix 
+imperva 
+mcafee 
+not deployed plan 
+not use not plan use 
+today 
+next months 
+next months 
+not deployed plan 
+respondents 
+source zmorgan stanley research survey chief security officers note exhibit excludes vendors with share today 
+endpoint security data suggests symantec expected lose significant share 
+exhibit csos expecting use symantec endpoint the next years fell significantly 
+while the market becomes more fragmented 
+what vendor you most broadly deploy for endpoint protection 
+other 
+symantec 
+mcafee 
+check point 
+cisco 
+carbonblack 
+microsoft 
+kaspersky 
+avg 
+bit defender 
+palo alto networks 
+sophos 
+not deployed plan 
+not deployed plan 
+not use not plan use 
+today 
+next months 
+next months 
+respondents 
+source morgan stanley research survey chief security officers note exhibit excludes vendors with share today 
+additional endpoint security ngav edr etc for additional endpoint capabilities 
+cso data suggests cisco share leader 
+exhibit csos expect cisco remain share leader microsoft gain share 
+what vendor you most broadly deploy for additional endpoint security capabilities 
+not use plan use 
+cisco 
+other 
+check point 
+symantec 
+carbonblack 
+malwarebytes 
+avg 
+palo alto networks 
+today 
+next months 
+next months 
+microsoft 
+intel mcafee 
+sophos 
+respondents 
+source morgan stanley research survey chief security officers note exhibit excludes vendors with share today 
+symantec the dominant endpoint vendor today 
+exhibit our survey suggests symantec notable share loser even when accounting for 
+both primary and secondary endpoint functionality carbon black fireeye share gainers 
+most broadly deployed primary additional endpoint vendor 
+symantec 
+intel mcafee 
+cisco 
+check point 
+carbonblack 
+microsoft 
+sophos 
+avg 
+kaspersky 
+malwarebytes 
+palo alto networks 
+today 
+next months 
+next months 
+bit defender 
+fireeye 
+other 
+respondents 
+source morgan stanley research survey chief security officers note includes top ten vendors excludes respondents who are not currently 
+deploying endpoint vendor and additional endpoint responses that were the same primary endpoint vendors 
+exhibit symantec losing share endpoint security 
+symantec market share csos 
+today 
+next months 
+endpoint security capabilities 
+combined symantec usage primary and additional 
+source morgan stanley research survey chief security officers 
+email security data suggests microsoft gain share next months 
+exhibit similar last survey microsoft expected email security leader over the next 
+years proofpoint remains behind 
+what vendor you most broadly deploy for email security 
+microsoft 
+proofpoint 
+cisco 
+mimecast 
+google apps 
+mcafee 
+sophos 
+trend micro 
+forcepoint 
+other 
+not use plan use 
+today 
+endpoint security capabilities 
+barracuda 
+not deployed plan 
+symantec 
+not deployed plan 
+today 
+next months 
+next months 
+respondents 
+source morgan stanley research survey chief security officers note exhibit excludes vendors with share today 
+web security gateways csos expect cisco remain share leader and palo alto 
+networks make gains blue coat lose share 
+exhibit our survey indicates generally stable share expectations palo alto networks make 
+modest gains while blue coat lose share 
+what vendor you most broadly deploy for web security getways 
+cisco 
+other 
+networks 
+palo alto networks 
+bluecoat systems 
+forcepoint 
+fortinet 
+not use plan use 
+not deployed plan 
+today 
+next months 
+next months 
+not deployed plan 
+check point 
+respondents 
+source morgan stanley research survey chief security officers note exhibit excludes vendors with share today 
+identity and access management single sign multifactor authentication survey 
+data indicates microsoft will stay the most actively deployed iam vendor while 
+okta makes gains 
+exhibit microsoft expected remain the leader identity and access management 
+what vendor you most broadly deploy for identity and access management 
+microsoft 
+okta 
+not deployed plan 
+other 
+technologies 
+secureauth 
+oracle 
+sailpoint 
+centrify 
+ibm 
+ping identity 
+not deployed plan 
+not use plan use 
+respondents 
+today 
+next months 
+next months 
+source morgan stanley research survey chief security officers note exhibit excludes vendors with share today 
+security information and event management siem security analytics csos expect 
+splunk remain the market leader over next three years 
+exhibit our survey showed growing adoption splunk for the next three years but still the 
+leader security information and event management security analytics 
+what vendor you most broadly deploy for security information and event management 
+security analytics 
+splunk 
+other 
+ibm 
+rsa 
+not deployed plan 
+mcafee 
+not deployed plan 
+not use plan use 
+today 
+next months 
+alienvault 
+fireeye 
+logrhythm 
+next months 
+respondents 
+source morgan stanley research survey chief security officers note exhibit includes vendors with share today 
+cloud adoption impacts security 
+public cloud impact cso data indicates security spend net beneficiary from 
+cloud however survey suggests negative impact physical network security 
+appliance spend 
+exhibit csos note the shift the cloud additive security overall network security 
+appliances may negatively impacted 
+source morgan stanley research survey chief security officers note net represents increased spending decreased spending 
+cloud impact firewalls data suggests csos are more likely use firewalls from 
+cloud vendors themselves virtual firewalls from firewall vendors 
+exhibit more csos expect use firewall capabilities from cloud vendors than premise 
+firewall protect cloud workloads 
+source morgan stanley research survey chief security officers note results add because respondents could select multiple 
+answers 
+cloud impact web application firewall identity and access management data 
+suggests csos are more likely use waf iam from cloud vendors stand alone 
+vendors 
+exhibit csos use stand alone identity and access management solution for protecting cloud 
+workloads relying functionality from the cloud vendors themselves 
+source morgan stanley research survey chief security officers note results add because respondents could select multiple 
+answers 
+microsegmentation microsegmentation demand expectations decline from prior 
+survey software defined networking remains best positioned 
+exhibit csos report using microsegmentation technologies today with expecting 
+use the next months 
+source morgan stanley research survey chief security officers 
+exhibit csos report sdn the most widely used technology for microsegmentation 
+purposes 
+source morgan stanley research survey chief security officers note results add because respondents could select multiple 
+answers 
+survey demographics 
+exhibit respondent company size 
+how many employees does your company have 
+more 
+source morgan stanley research survey chief security officers 
+exhibit respondent role 
+which the following best describes your role your 
+company 
+part the security 
+organization 
+part the networking 
+organization 
+part both the security 
+and networking 
+organizations 
+source morgan stanley research survey chief security officers 
+exhibit respondent company location 
+which the following best describes the region where your company 
+based 
+asia pacific 
+japan 
+other 
+united states 
+north america 
+continental 
+europe 
+united kingdom 
+latin america 
+source morgan stanley research survey chief security officers 
+cybr financials 
+exhibit income statement 
+millions except per share data 
+license 
+yoy change 
+qoq change 
+maintenance and services 
+yoy change 
+qoq change 
+total revenue 
+yoy change 
+qoq change 
+total cost revenues 
+gross income 
+gross margin 
+operating expenses 
+research development 
+yoy change 
+revenues 
+sales marketing 
+yoy change 
+revenues 
+general administration 
+yoy change 
+revenues 
+special charges 
+total operating expenses 
+yoy change 
+operating income 
+income before taxes 
+revenues 
+provision benefit for income taxes 
+tax rate 
+net income 
+net margin 
+pro forma eps operating 
+operating margin 
+yoy change 
+depreciation and amortization 
+ebitda 
+ebitda margin 
+net interest and other income expense 
+source company data morgan stanley research 
+exhibit balance sheet 
+millions except eps 
+cash and cash equivalents 
+short term bank deposits 
+marketable securities 
+trade receivables 
+short term deferred tax asset 
+prepaid expenses and other current assets 
+total current assets 
+property and equipment net 
+intangible assets and goodwill net 
+marketable securities 
+severance pay fund 
+prepaid expenses and other long term assets 
+long term deferred tax asset 
+other noncurrent assets 
+total assets 
+trade payables 
+employees and payroll accruals 
+deferred revenue current 
+accrued expenses and other current liabilities 
+total current liabilities 
+deferred revenue long term 
+long term deferred tax liabilities 
+accrued severance pay 
+other liabilities 
+total liabilities 
+ordinary shares nis par value 
+preferred shares nis par value 
+additional paid capital 
+accumulated other comprehensive income loss 
+retained earnings 
+total stockholders equity 
+total liabilities and stockholders equity 
+assets 
+liabilities 
+source company data morgan stanley research 
+exhibit cash flow statement 
+millions except eps 
+change net working capital 
+decrease increase trade receivables 
+increase prepaid expenses and other current and long term assets 
+increase decrease trade payables 
+increase short term and long term deferred revenues 
+decrease employees and payroll accruals 
+increase decrease accrued expenses and other current and long term 
+liabilities 
+increase decrese accrued severance pay net 
+other non cash charge 
+net cash provided used operating activities 
+proceeds from short and long term deposits 
+investment short and long term deposits 
+investment marketable securities 
+purchase property and equipment 
+payments for business acquisitions net cash acquired 
+net cash provided used investing activities 
+issuance shares net 
+witholding proceeds related exercise options 
+tax benefit related share based compensation 
+proceeds from exercise options 
+net cash provided used financing activities 
+net income 
+depreciation and amoritzation 
+share based compensation expenses 
+amortization premium marketable securities 
+tax benefit related share based compensation 
+deferred income taxes net 
+exchange rate impact 
+change cash and cash equivalents 
+cash beginning period 
+cash end period 
+source company data morgan stanley research 
+sail financials 
+exhibit income statement 
+millions except per share data 
+license 
+yoy change 
+qoq change 
+subscription maintenance 
+yoy change 
+qoq change 
+services and other 
+yoy change 
+qoq change 
+total revenue 
+yoy change 
+qoq change 
+cost license 
+license margin 
+cost subscription 
+subscription margin 
+cost services 
+services margin 
+total cost revenues 
+gross income 
+gross margin 
+operating expenses 
+research development 
+yoy change 
+sales marketing 
+yoy change 
+general administration 
+yoy change 
+special charges 
+total operating expenses 
+yoy change 
+operating income 
+operating margin 
+yoy change 
+net interest and other income expense 
+income before taxes 
+revenues 
+provision for income taxes 
+tax rate 
+net income 
+net margin 
+pro forma eps operating 
+year over year change 
+esos expense net tax 
+eps net esos after tax modelware 
+weighted avg common shares basic 
+diluted shares outstanding reported 
+diluted shares outstanding operating 
+dilution ratio 
+period end basic shares outstanding 
+change eop shares qoq 
+source company data morgan stanley research 
+exhibit balance sheet 
+millions except per share data 
+long term deferred tax liabilities 
+long term debt net current portion 
+other liabilities 
+deferred revenue long term 
+total liabilities 
+redeemable convertible preferred stock 
+common stock 
+treasury stock 
+additional paid capital 
+accumulated deficit 
+total stockholders equity 
+total liabilities and stockholders equity 
+assets 
+cash and cash equivalents 
+accounts receivable 
+prepaid expenses and other current assets 
+total current assets 
+property and equipment net 
+long term deferred tax asset 
+other noncurrent assets 
+goodwill 
+intangible assets net 
+total assets 
+liabilities 
+trade payables 
+accrued expenses and other current liabilities 
+income taxes payable 
+deferred revenue current 
+current portion long term debt 
+related party payable 
+total current liabilities 
+source company data morgan stanley research 
+exhibit cash flow statement 
+millions except per share data 
+change net working capital 
+decrease increase trade receivables 
+increase prepaid expenses and other current and long term assets 
+increase decrease trade payables 
+increase decrease accrued expenses and other current and long term 
+liabilities 
+increase decrease income tax payable 
+other non cash charge 
+increase short term and long term deferred revenues 
+net cash provided used operating activities 
+purchase property and equipment 
+proceeds from sales property and equipment 
+payments for business acquisitions net cash acquired 
+net cash provided used investing activities 
+proceeds from line credit 
+repayments line credit 
+proceeds from term loan 
+repayments term loan 
+debt issuance costs 
+dividend payment 
+proceeds from issuance equity 
+purchase equity shares 
+proceeds from exercise options 
+incentive units vested 
+net cash provided used financing activities 
+cash beginning period 
+change cash and cash equivalents 
+cash end period 
+operating cash flow 
+yoy growth 
+ocf margin 
+free cash flow 
+yoy growth 
+fcf margin 
+adjusted fcf 
+yoy growth 
+adj fcf margin revenue 
+net income 
+depreciation and amoritzation 
+amortization loan origination fees 
+loss disposal fixed assets 
+share based compensation expenses 
+deferred income taxes net 
+exchange rate impact 
+source company data morgan stanley research 
+vrns financial 
+exhibit income statement 
+millions except per share data 
+license 
+yoy change 
+qoq change 
+maintenance and services 
+yoy change 
+qoq change 
+total revenue 
+yoy change 
+qoq change 
+cost revenue 
+gross income 
+cost revenue 
+gross margin 
+operating expenses 
+sales marketing 
+yoy change 
+revenues 
+research development 
+yoy change 
+revenues 
+general administration 
+yoy change 
+revenues 
+special charges 
+total operating expenses 
+yoy change 
+operating income 
+operating margin 
+yoy change 
+depreciation and amortization 
+ebitda 
+ebitda margin 
+net interest and other income expense 
+income before taxes 
+revenues 
+provision benefit for income taxes 
+tax rate 
+net income 
+net margin 
+pro forma eps operating 
+year over year change 
+source company data morgan stanley research 
+exhibit balance sheet 
+millions except eps 
+cash and cash equivalents 
+short term deposits 
+restricted cash 
+accounts receivables net 
+prepaid expenses and other current assets 
+total current assets 
+property and equipment net 
+other noncurrent assets 
+total assets 
+accounts payable 
+accrued expenses 
+deferred revenue current 
+total current liabilities 
+deferred revenue long term 
+severance pay 
+preferred stock warrant liability 
+other liabilities 
+total liabilities 
+convertible preferred stock 
+common stock 
+additional paid capital 
+retained earnings accumulated deficit 
+total stockholders equity 
+total liabilities and stockholders equity 
+assets 
+liabilities 
+source company data morgan stanley research 
+exhibit cash flow statement 
+millions except eps 
+depreciation and amortization 
+stock compensation expenses 
+loss disposal 
+accretion interest 
+amortization deferred charges 
+change the fair value preferred warrants 
+release deferred tax allowance 
+other non cash charge 
+changes working capital 
+accounts receivable 
+prepaid expenses other assets 
+accounts payable 
+accrued liability 
+increase severance pay 
+deferred revenue 
+other liabilities 
+net cash provided used operating activities 
+proceeds from sale investments 
+decrease increase restricted cash 
+purchase 
+net cash provided used investing activities 
+proceeds repayment from term debt 
+stock options exercised before vesting 
+exercise warrants 
+issuance stock 
+repurchase common stock 
+issuance sale common stock employees 
+net cash provided used financing activities 
+net income 
+exchange rate impact 
+change cash and cash equivalents 
+cash beginning period 
+cash end period 
+source company data morgan stanley research 
+valuation methodology and risks 
+for valuation methodology and risks associated with any price targets ratings 
+recommendations referenced this research report please contact the client support 
+team follows canada hong kong latin 
+america london singapore 
+sydney tokyo alternatively you may contact 
+your investment representative morgan stanley research broadway 
+attention research management new york usa 
+cybr based discount fcf assuming 
+discount rate multiple line with security software peers revenue grows 
+cagr cybr further penetrates its base and total rev reaches 
+share its total addressable market margins remain stable 
+through and leverage and growing recurring revenue base fcf 
+rev reaches 
+risks include 
+upside risks broader security spending accelerates materially privilege access 
+management security hits inflection point enabling accelerating customer adds 
+cybr sees materially traction selling broader suite with endpoint privilege 
+manager threat analytics etc becoming meaningful growth driver upside from 
+better top line growth and improved sales productivity drives margins materially 
+higher than the outlook and activity within security picks 
+downside risks broader security spending slows materially new sales 
+leadership and sales initiatives could prove more disruptive execution cybr 
+reaches market saturation and has difficulty expanding beyond its core pam 
+market increased competition drives pricing pressure slowing top line growth 
+and greater competition necessitates ramped investment profile driving 
+margins lower 
+fsct based off discount fcf assuming 
+discount rate multiple line with security software fsct sustains cagr from 
+reach customers revenue grows cagr fsct 
+further penetrates its base and total rev reaches margins improve 
+through and leverage and growing recurring revenue base 
+fcf rev reaches 
+risks include 
+upside risks broader security spending accelerates materially high profile 
+breaches materially catalyze byod and iot security top priorities fsct gains 
+significant traction upselling software add ons existing licenses sales 
+productivity gains occur faster sooner than expected and security software 
+activity picks 
+downside risks broader security spending slows materially lumpiness large 
+deals creates near term volatility license revenue growth increased 
+competition from larger better capitalized vendors drives pricing pressure slowing 
+top line growth sales investments not materialize and sales productivity 
+does not return historical levels 
+sail based off discount base case fcf sail 
+sustains cagr from reach customers revenue grows 
+cagr sail further penetrates its base and total rev reaches 
+margins improve through and leverage and 
+growing recurring revenue base fcf rev reaches sail trades 
+fcf yielding share price assuming discount rate 
+multiple line with the average growth large cap software large caps chkp 
+ctxs orcl and symc 
+risks include 
+upside risks broader security spending accelerates materially high profile 
+data hacks via identity misuse raise identity management security priority 
+identitynow subscription offering enables greater customer adds than expected 
+material upsell traction via data governance and behavioral analytics modules 
+drives faster growth sales productivity gains from new hires occur faster sooner 
+than expected and security software activity picks 
+downside risks broader security spending slows materially lumpiness large 
+deals and greater shift subscription creates near term volatility license 
+revenue growth increased competition from larger better capitalized vendors 
+drives pricing pressure slowing top line growth identitynow subscription 
+offering fails attract new customer adds sales investments not materialize 
+and sales productivity does not return historical levels 
+symc based off and eps the addition blue 
+coat bolsters symantec enterprise security business with life lock returning 
+consumer security growth margins improve the company grows cagr 
+from forecast revenues growing operating 
+margins improve from symantec trades eps 
+line with its historical average 
+risks include 
+upside risks improved product portfolio greater cross selling and better blue 
+coat refreshes may drive symantec enterprise security ahead expectations 
+greater focus consumer digital privacy may drive upside symantec consumer 
+revenue additional opex synergies could drive positive eps revisions 
+downside risks symantec may lose market share endpoint security from next 
+generation malware protection vendors management may unable realize 
+synergies from blue coat and lifelock acquisitions additional large acquisitions 
+may disruptive 
+vrns based off fcf sustained strong fcf growth 
+rate and margin expansion potential and assuming discount rate multiple 
+line with the average growth large cap software large caps chkp ctxs orcl 
+and symc vrns continues grow its customer base and increase penetration within 
+its existing base while increased sales productivity drives better leverage total revenue 
+reaches our base case assumes operating margins improve 
+and fcf rev increases 
+risks include 
+upside risks new customer wins driven recent sales investments well 
+increased penetration existing customers through adoption new products 
+could drive better than expected growth and leverage varonis offers 
+strategic technology therefore consolidation within the security software space 
+could drive vrns multiple higher 
+downside risks increased competition and execution challenges could drive the 
+top line growth and margins lower than expected gdpr opportunity could 
+more muted further out than market expectations 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley and morgan 
+stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan stanley includes morgan 
+stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley canada limited and their affiliates 
+necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the morgan 
+stanley research disclosure website morganstanley researchdisclosures contact your investment representative morgan stanley 
+research broadway attention research management new york usa 
+for valuation methodology and risks associated with any recommendation rating price target referenced this research report please contact the client 
+support team follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative morgan 
+stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and that they 
+have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views this report anjelo 
+austria james faucette melissa franchi victoria irving keith weiss cfa adam wood 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+may morgan stanley beneficially owned more class common equity securities the following companies covered morgan 
+stanley research amazon inc appfolio inc box inc cdk global inc cisco systems inc coupa software inc ellie mae inc fireeye inc inc 
+hubspot inc palo alto networks inc proofpoint inc salesforce servicenow inc splunk inc veeva systems inc vmware inc workday inc workiva 
+inc 
+within the last months morgan stanley managed managed public offering offering securities akamai technologies inc appian 
+corp atlassian corporation plc carbon black inc cdk global inc chegg inc citrix systems inc cloudera inc coupa software inc docusign inc fireeye 
+inc forescout technologies inc godaddy inc instructure inc mongodb inc new relic inc pivotal software inc pluralsight inc holdings inc realpage 
+inc ringcentral inc sabre corp sailpoint technologies holdings inc sendgrid inc shopify inc smartsheet inc technologies holdings inc 
+travelport worldwide limited vmware inc workday inc zendesk inc zscaler inc zuora inc 
+within the last months morgan stanley has received compensation for investment banking services from akamai technologies inc appian corp 
+atlassian corporation plc autodesk box inc carbon black inc cdk global inc chegg inc cisco systems inc citrix systems inc cloudera inc coupa 
+software inc docusign inc fireeye inc forescout technologies inc fortinet inc godaddy inc instructure inc microsoft mindbody inc mongodb inc 
+new relic inc pivotal software inc pluralsight inc realpage inc red hat inc ringcentral inc sabre corp salesforce sendgrid inc shopify inc 
+smartsheet inc splunk inc technologies holdings inc travelport worldwide limited vmware inc workday inc zendesk inc zscaler inc zuora inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from inc adobe systems 
+akamai technologies inc amazon inc appfolio inc appian corp atlassian corporation plc autodesk box inc carbon black inc cdk global inc 
+check point software technologies ltd chegg inc cisco systems inc citrix systems inc cloudera inc coupa software inc cyberark software ltd 
+descartes systems group inc docusign inc ellie mae inc endurance international group holdings inc fireeye inc inc forescout technologies 
+inc fortinet inc godaddy inc hubspot inc imperva inc instructure inc intuit microsoft mindbody inc mongodb inc new relic inc nice ltd 
+nuance communications inc oracle corporation palo alto networks inc pivotal software inc pluralsight inc proofpoint inc qualys inc inc 
+realpage inc red hat inc ringcentral inc sabre corp salesforce sendgrid inc servicenow inc shopify inc smartsheet inc sophos group plc 
+splunk inc technologies holdings inc symantec tableau software travelport worldwide limited varonis systems inc veeva systems inc 
+vmware inc workday inc workiva inc yext inc zendesk inc zscaler inc zuora inc 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from adobe 
+systems akamai technologies inc amazon inc autodesk check point software technologies ltd cisco systems inc fortinet inc intuit 
+microsoft nice ltd nuance communications inc oracle corporation qualys inc red hat inc sabre corp salesforce sophos group plc 
+technologies holdings inc symantec tableau software travelport worldwide limited vmware inc 
+within the last months morgan stanley has provided providing investment banking services has investment banking client relationship with 
+the following company inc adobe systems akamai technologies inc amazon inc appfolio inc appian corp atlassian corporation plc 
+autodesk box inc carbon black inc cdk global inc check point software technologies ltd chegg inc cisco systems inc citrix systems inc cloudera 
+inc coupa software inc cyberark software ltd descartes systems group inc docusign inc ellie mae inc endurance international group holdings inc 
+fireeye inc inc forescout technologies inc fortinet inc godaddy inc hubspot inc imperva inc instructure inc intuit microsoft mindbody inc 
+mongodb inc new relic inc nice ltd nuance communications inc oracle corporation palo alto networks inc pivotal software inc pluralsight inc 
+proofpoint inc holdings inc qualys inc inc realpage inc red hat inc ringcentral inc sabre corp sailpoint technologies holdings inc 
+salesforce sendgrid inc servicenow inc shopify inc smartsheet inc sophos group plc splunk inc technologies holdings inc symantec 
+tableau software travelport worldwide limited varonis systems inc veeva systems inc vmware inc workday inc workiva inc yext inc zendesk inc 
+zscaler inc zuora inc 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the past has 
+entered into agreement provide services has client relationship with the following company adobe systems akamai technologies inc 
+amazon inc atlassian corporation plc autodesk cdk global inc check point software technologies ltd chegg inc cisco systems inc citrix 
+systems inc coupa software inc fireeye inc inc fortinet inc godaddy inc hubspot inc intuit microsoft nice ltd nuance communications 
+inc oracle corporation holdings inc qualys inc red hat inc ringcentral inc sabre corp salesforce servicenow inc sophos group plc 
+technologies holdings inc symantec tableau software travelport worldwide limited vmware inc workday inc 
+employee director consultant morgan stanley director workiva inc this person not research analyst member research analyst 
+household 
+morgan stanley llc makes market the securities adobe systems akamai technologies inc amazon inc appian corp atlassian 
+corporation plc autodesk box inc carbon black inc cdk global inc check point software technologies ltd chegg inc cisco systems inc citrix 
+systems inc cyberark software ltd docusign inc ellie mae inc endurance international group holdings inc fireeye inc inc forescout 
+technologies inc fortinet inc godaddy inc hubspot inc instructure inc intuit microsoft mindbody inc new relic inc nice ltd nuance 
+communications inc oracle corporation palo alto networks inc pluralsight inc proofpoint inc holdings inc qualys inc inc realpage inc red 
+hat inc ringcentral inc sabre corp salesforce servicenow inc shopify inc splunk inc technologies holdings inc symantec tableau 
+software travelport worldwide limited varonis systems inc veeva systems inc vmware inc workday inc zendesk inc zscaler inc 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation based upon 
+various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall investment banking 
+revenues equity research analysts strategists compensation not linked investment banking capital markets transactions performed morgan 
+stanley the profitability revenues particular trading desks 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making providing 
+liquidity fund management commercial banking extension credit investment services and investment banking morgan stanley sells and buys from 
+customers the securities instruments companies covered morgan stanley research principal basis morgan stanley may have position the debt 
+the company instruments discussed this report morgan stanley trades may trade principal the debt securities related derivatives that 
+are the subject the debt research report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below morgan 
+stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not the equivalent 
+buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since morgan stanley research 
+contains more complete information concerning the analyst views investors should carefully read morgan stanley research its entirety and not infer the 
+contents from the rating alone any case ratings research should not used relied upon investment advice investor decision buy sell 
+stock should depend individual circumstances such the investor existing holdings and other considerations 
+global stock ratings distribution 
+may 
+the stock ratings described below apply morgan stanley fundamental equity research and not apply debt research produced the firm 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell alongside our 
+ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the stocks cover 
+overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended relative weightings see 
+definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy recommendation correspond 
+equal weight and not rated hold and underweight sell recommendations respectively 
+coverage universe 
+stock rating 
+category 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+investment banking clients ibc 
+other material 
+investment services 
+clients misc 
+count 
+total 
+count 
+total ibc 
+rating 
+category 
+count 
+total 
+other 
+misc 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received investment 
+banking compensation the last months due rounding off decimals the percentages provided the total column may not add exactly 
+percent 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the analyst 
+industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage universe 
+risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the relevant broad 
+market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant broad market 
+benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant broad market 
+benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney 
+llc morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer 
+morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted 
+the same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities adobe systems akamai technologies 
+inc amazon inc autodesk cdk global inc chegg inc cisco systems inc fireeye inc hubspot inc microsoft mindbody inc new relic inc 
+nuance communications inc oracle corporation realpage inc servicenow inc symantec vmware inc workday inc zendesk inc 
+morgan stanley research policy update research reports and when the research analyst and research management deem appropriate based 
+developments with the issuer the sector the market that may have material impact the research views opinions stated therein addition certain 
+research publications are intended updated regular periodic basis weekly monthly quarterly annual and will ordinarily updated with that 
+frequency unless the research analyst and research management determine that different publication schedule appropriate based current conditions 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the 
+meaning section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other 
+factors for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley 
+clients certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through 
+alternate electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing 
+and using morgan stanley research you are indicating that you have read and agree bound our terms use 
+http morganstanley terms addition you consent morgan stanley processing your personal data and using cookies accordance with 
+our privacy policy and our global cookies policy http morganstanley privacy_pledge including for the purposes setting your preferences 
+and collect readership data that can deliver better and more personalized service and products you find out more information about how morgan 
+stanley processes personal data how use cookies and how reject cookies see our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies 
+please not access our research 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the 
+circumstances and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and 
+strategies and encourages investors seek the advice financial adviser the appropriateness investment strategy will depend investor 
+circumstances and objectives the securities instruments strategies discussed morgan stanley research may not suitable for all investors and 
+certain investors may not eligible purchase participate some all them morgan stanley research not offer buy sell the solicitation 
+offer buy sell any security instrument participate any particular trading strategy the value and income from your investments may vary 
+because changes interest rates foreign exchange rates default rates prepayment rates securities instruments prices market indexes operational 
+financial conditions companies other factors there may time limitations the exercise options other rights securities instruments 
+transactions past performance not necessarily guide future performance estimates future performance are based assumptions that may not 
+realized provided and unless otherwise stated the closing price the cover page that the primary exchange for the subject company 
+securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received 
+compensation based upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading 
+and capital markets profitability revenues client feedback and competitive factors fixed income research analysts strategists economists 
+compensation not linked investment banking capital markets transactions performed morgan stanley the profitability revenues particular 
+trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley 
+owns more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley 
+may have investment less than securities instruments derivatives securities instruments companies and may trade them ways different 
+from those discussed morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have 
+investments securities instruments derivatives securities instruments companies mentioned and may trade them ways different from those 
+discussed morgan stanley research derivatives may issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort 
+use reliable comprehensive information but make representation that accurate complete have obligation tell you when opinions 
+information morgan stanley research change apart from when intend discontinue equity research coverage subject company facts and views 
+presented morgan stanley research have not been reviewed and may not reflect information known professionals other morgan stanley business 
+areas including investment banking personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the 
+company associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions that are inconsistent with the recommendations views this report 
+our readers based taiwan trading taiwan securities instruments information securities instruments that trade taiwan distributed morgan 
+stanley taiwan limited mstl such information for your reference only the reader should independently evaluate the investment risks and solely 
+responsible for their investment decisions morgan stanley research may not distributed the public media quoted used the public media without 
+the express written consent morgan stanley any non customer reader within the scope article the taiwan stock exchange recommendation 
+regulations accessing and receiving morgan stanley research not permitted provide morgan stanley research any third party including but not 
+limited related parties affiliated companies and any other third parties engage any activities regarding morgan stanley research which may create 
+give the appearance creating conflict interest information securities instruments that not trade taiwan for informational purposes only and 
+not construed recommendation solicitation trade such securities instruments mstl may not execute transactions for clients these 
+securities instruments 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does 
+not constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest 
+such securities and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental 
+authorities themselves neither this report nor any part intended shall constitute provision any consultancy advisory service securities 
+investment defined under prc law such information provided for your reference only 
+morgan stanley research disseminated brazil morgan stanley mexico morgan stanley xico casa bolsa 
+which regulated comision nacional bancaria valores paseo los tamarindos torre col bosques las lomas floor mexico 
+city japan morgan stanley mufg securities ltd and for commodities related research reports only morgan stanley capital group japan 
+ltd hong kong morgan stanley asia limited which accepts responsibility for its contents and morgan stanley asia international limited hong 
+kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley asia singapore securities 
+pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its contents and should 
+contacted with respect any matters arising from connection with morgan stanley research and morgan stanley asia international limited 
+singapore branch registration number australia wholesale clients within the meaning the australian corporations act morgan 
+stanley australia limited holder australian financial services license which accepts responsibility for its contents 
+australia wholesale clients and retail clients within the meaning the australian corporations act morgan stanley wealth management australia 
+pty ltd holder australian financial services license which accepts responsibility for its contents korea morgan 
+stanley international plc seoul branch india morgan stanley india company private limited indonesia morgan stanley sekuritas 
+indonesia canada morgan stanley canada limited which has approved and takes responsibility for its contents canada germany morgan 
+stanley bank frankfurt main and morgan stanley private wealth management limited niederlassung deutschland regulated bundesanstalt fuer 
+finanzdienstleistungsaufsicht bafin spain morgan stanley morgan stanley group company which supervised the spanish 
+securities markets commission cnmv and states that morgan stanley research has been written and distributed accordance with the rules conduct 
+applicable financial research established under spanish regulations the morgan stanley llc which accepts responsibility for its 
+contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial conduct authority and the 
+prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section the financial 
+services and markets act research which has been prepared any its affiliates rmb morgan stanley proprietary limited member the jse 
+limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture owned equally morgan 
+stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited the information morgan 
+stanley research being disseminated morgan stanley saudi arabia regulated the capital market authority the kingdom saudi arabia and 
+directed sophisticated investors only 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai 
+financial services authority the dfsa and directed professional clients only defined the dfsa the financial products financial services 
+which this research relates will only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar 
+financial centre regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail 
+customers defined the qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope 
+investment advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms 
+comments and recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this 
+reason make investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make 
+warranties representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating 
+such data the global industry classification standard gics was developed and the exclusive property msci and 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+industry coverage software 
+company ticker 
+rating 
+price 
+brian essex cfa 
+appfolio inc appf 
+cdk global inc cdk 
+chegg inc chgg 
+descartes systems group inc dsgx 
+ellie mae inc elli 
+endurance international group holdings inc eigi 
+godaddy inc gddy 
+instructure inc inst 
+mindbody inc 
+pluralsight inc 
+holdings inc qtwo 
+realpage inc 
+sabre corp sabr 
+shopify inc shop 
+technologies holdings inc ssnc 
+travelport worldwide limited tvpt 
+keith weiss cfa 
+adobe systems adbe 
+akamai technologies inc akam 
+autodesk adsk 
+check point software technologies ltd chkp 
+citrix systems inc ctxs 
+intuit intu 
+microsoft msft 
+oracle corporation orcl 
+palo alto networks inc panw 
+red hat inc rht 
+salesforce crm 
+servicenow inc now 
+symantec symc 
+vmware inc vmw 
+workday inc wday 
+melissa franchi 
+box inc box 
+carbon black inc cblk 
+cyberark software ltd cybr 
+fireeye inc feye 
+forescout technologies inc fsct 
+fortinet inc ftnt 
+imperva inc impv 
+proofpoint inc pfpt 
+qualys inc qlys 
+inc rpd 
+sailpoint technologies holdings inc sail 
+secureworks corp scwx 
+splunk inc splk 
+varonis systems inc vrns 
+zscaler inc 
+meta marshall 
+inc eght 
+inc fivn 
+ringcentral inc rng 
+sanjit singh 
+appian corp appn 
+atlassian corporation plc team 
+cloudera inc cldr 
+mongodb inc mdb 
+new relic inc newr 
+nice ltd nice 
+nuance communications inc nuan 
+pivotal software inc pvtl 
+tableau software data 
+stan zlotsky cfa 
+coupa software inc coup 
+docusign inc docu 
+hubspot inc hubs 
+sendgrid inc send 
+smartsheet inc smar 
+veeva systems inc veev 
+workiva inc 
+yext inc yext 
+zendesk inc zen 
+zuora inc zuo 
+stock ratings are subject change please see latest research for each company 
+historical prices are not split adjusted 
+morgan stanley 

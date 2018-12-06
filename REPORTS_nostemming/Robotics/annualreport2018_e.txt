@@ -1,0 +1,1428 @@
+annual report 
+year ended march 
+fanuc symbol keyaki zelkova tree 
+contents 
+financial highlights consolidated 
+message our shareholders 
+summary fanuc business 
+business report 
+management policy 
+history fanuc 
+corporate governance 
+financial section 
+global service network 
+forward looking statements 
+statements contained this report that relate the future operating activities business performance events conditions 
+fanuc are forward looking statements forward looking statements are based judgments made fanuc management 
+based information available the time publishing this report and are subject significant assumptions such these 
+forward looking statements are subject various risks and uncertainties and actual business results may vary substantially from 
+the forecasts expressed implied forward looking statements accordingly you are cautioned not place undue reliance 
+forward looking statements fanuc disclaims any obligation revise forward looking statements light new information 
+future events other findings 
+financial highlights consolidated 
+thousands 
+dollars 
+millions yen 
+years ended march 
+for the year 
+net sales 
+net income attributable owners parent 
+the year end 
+total assets 
+net assets 
+yen 
+dollars 
+per share data 
+net income 
+cash dividends 
+note the dollar amounts shown above and elsewhere this annual report are converted from yen for convenience only 
+the rate 
+net sales 
+net income attributable owners parent 
+millions yen 
+millions yen 
+total assets 
+millions yen 
+fanuc corporation annual report 
+message our shareholders 
+during this period demands generally remained favorable all regions such japan the americas europe and asia particularly demands 
+for capital investment were robust china 
+under these circumstances the fanuc group promoted initiatives allowing our customers easily build and maintain highly reliable efficient and innovative production system with our products and services uniting one group under the slogans one fanuc reliable 
+predictable easy repair and service first addition while proceeding with the application technology our products october started operation japan the field system fanuc intelligent edge link and drive system open platform which various 
+companies can participate iot initiative 
+during the fiscal year ended march fanuc posted consolidated net sales totaling million consolidated operating income totaling million and consolidated net income totaling million compared with the previous 
+fiscal year 
+anticipated that the active related short term demand fiscal year will slow down fiscal year due this and variety 
+factors for uncertainty including international trade friction and its impacts and foreign exchange movements the situation expected remain challenging and unpredictable whole 
+even under these circumstances the fanuc group looking ahead the future will continue management based long term perspective 
+that not affected short term events 
+based this fundamental approach and the slogan one fanuc the fanuc group shall take maximum advantage our unique strength 
+uniting our robot and robomachine divisions jointly provide total solutions and take care customers throughout the world 
+addition the fanuc group will adhere its origins producer equipment used manufacturing sites and shall thorough 
+implementing our slogan reliable predictable easy repair product development order minimize downtime our customers 
+factories and improve the operation rate the same time supplier capital goods will fulfill our supplier responsibility customers 
+ensuring production system that customers can rely even the event contingency 
+furthermore shall practice our basic policy service first providing high level services pursuant fanuc global standard anywhere 
+the world and lifetime maintenance for long our customers use our products 
+fanuc believes that and iot are indispensable technologies order for fanuc continue developing and launching highly competitive 
+products the market proactively adopting these technologies all areas the robot and robomachine products will further 
+promote customers production efficiency 
+addition the above policies focused the long term the fanuc group will its utmost improve its research and development capabilities boost the production capacity its factories and enhance its service system with the aim strengthening the competitiveness 
+the fanuc group whole and increasing its market share 
+united one group the promotion these measures will continue ensure the practice strict preciseness and transparency the 
+principle fanuc since its foundation and make efforts earn customer confidence and trust even greater extent the fanuc group 
+and become company that will last forever 
+thank you for your continued support and assistance fanuc 
+yoshiharu inaba 
+chairman ceo 
+kenji yamaguchi 
+president coo 
+summary fanuc business 
+business division 
+main products 
+cnc 
+servo motor 
+laser 
+results for fiscal 
+consolidated net sales was 
+million compared with the 
+previous fiscal year accounting for 
+consolidated net sales 
+refer page 
+for details 
+robot business division 
+main products 
+results for fiscal 
+consolidated net sales was 
+million compared with the 
+handling robot 
+collaborative robot previous fiscal year accounting for 
+consolidated net sales 
+welding robot 
+refer page 
+for details 
+robomachine business division 
+main products 
+robodrill 
+roboshot 
+robocut 
+robonano 
+results for fiscal 
+consolidated net sales was 
+million compared with the 
+previous fiscal year accounting for 
+consolidated net sales 
+refer page 
+for details 
+service division 
+results for fiscal 
+consolidated net sales was million compared with the previous fiscal year accounting for 
+consolidated net sales 
+refer page 
+for details 
+fanuc corporation annual report 
+business report 
+business division 
+demand the machine tool industry the primary 
+market for fanuc cnc systems remained favorable 
+mainly japan china europe india and other 
+countries demand was also steady other asian 
+economies result net sales cnc systems 
+the fanuc group increased sharply compared 
+with the previous fiscal year march the 
+total accumulated cnc shipment volume surpassed 
+units 
+terms development fast cycle time technology control technology group capable reducing cycle time was developed for the nano cnc 
+fanuc series that delivers high speed highquality machining and for fanuc global standard 
+cnc fanuc series addition various other 
+functions were also developed improve machining performance and the operability machines 
+furthermore proactively worked improve operation rates with iot technology upgrading and 
+adding functions linki software that aggregates and visualizes information from factory equipment and servo viewer software that enables 
+monitoring machines and machining operation 
+status from motor movement 
+the servo field ultra large model was added 
+the servo motor series this expected 
+expand sales the large servo press market furthermore the lineup was enhanced and new features were developed expand sales various 
+markets 
+cnc series 
+servo motor servo amplifier 
+although fanuc laser sales were sluggish domestically and abroad efforts were continued expand 
+sales fiber laser oscillators 
+terms development for the fiber laser oscillator 
+fanuc fiber laser series fiber selector was 
+developed which splits laser light allow single 
+laser oscillator supply laser light two robots 
+this expected help make fanuc laser robot 
+systems more competitive 
+laser 
+robot business division 
+sales robots remained favorable the americas 
+europe and china with particularly strong demand 
+china sales were also steady japan result 
+net sales the robot business division whole 
+increased sharply compared with the previous fiscal 
+year november the total accumulated robot 
+production volume surpassed units 
+new developments included addition the 
+product lineup the new fanuc robot series 
+scara robots which feature high accuracy and 
+high duty performance and are optimized for assembling electronics and high speed handling electronic components 
+payload model was also added the lineup our green collaborative robots which not 
+require safety fence and enable robots and humans work together 
+the new vision sensor was also developed which small sized and light weighted and 
+can mounted robots helps reduce cycle 
+time greatly reducing imaging time compared 
+conventional sensors 
+with such new products and new functions the 
+range application fanuc robots anticipated 
+expand further 
+scara robot 
+collaborative robot 
+fanuc corporation annual report 
+robomachine business division 
+sales the robodrill small machining center 
+roboshot electric injection molding machine 
+and robocut wire cut electric discharge machine 
+were steady for the automobile industry related 
+sales were also steady general with particularly 
+active short term demand china and other countries result net sales grew significantly compared with the previous fiscal year 
+the development front for the fanuc robodrill dib series and wire cut electric discharge 
+machine fanuc robocut cib series 
+thermal displacement compensation function was 
+developed which uses machine learning technology 
+predict and compensate for thermal displacement based data from multiple heat sensors 
+placed machine components this function improves machining stability amid changes ambient 
+temperature and will help expand sales related 
+robomachine products furthermore for the electric 
+injection molding fanuc roboshot sia series 
+backflow monitoring function was developed 
+which predicts wear check valves using deep 
+learning technology this function will enhance preventive maintenance functions 
+robodrill 
+roboshot 
+for the robonano ultra precision machine 
+sale the ultra precision fanuc robonano 
+nmia machining system which fanuc latest technology was applied was launched 
+september japan conformity with overseas 
+safety standards was also completed preparation 
+for launch overseas markets 
+robocut 
+robonano 
+service division 
+the service division under the slogan service 
+first offered rapid maintenance services order 
+minimize downtime customers factories our 
+maintenance service areas covering countries 
+worldwide june while strengthening 
+our service system improving service technologies 
+enhancing service tools and improving efficiency 
+through the adoption 
+part our efforts strengthen our service system the new nagoya service center was opened 
+together with hino branch this gives fanuc site redundancy for its call centers and parts centers creating system that enables swift service support for 
+our customers even the event disaster other contingency 
+nagoya service center 
+efforts for and iot 
+fanuc pushing the application technology 
+with the cooperation preferred networks inc 
+all product groups the robot and robomachine divisions going forward fanuc will further 
+promote the introduction intelligence its products more specifically utilizing technology 
+order differentiate itself from other companies 
+and add value 
+for support for iot new features are added the 
+existing linki function the and robomachine and the operation the field system fanuc intelligent edge link and drive system open 
+platform which wide range companies can 
+participate began october japan the 
+field system iot product that connects various 
+equipment manufacturing sites improve productivity and its major characteristic that the system able process information real time 
+basis the edge machining site assembly site 
+manufacturing sites 
+the combination the field system and technology expected have even greater synergy 
+effect other words the application the technology deep learning technology preferred networks the field system will further enhance the 
+performance intelligent functions products and 
+allow the result thereof shared iot 
+field system 
+fanuc corporation annual report 
+management policy 
+basic management policy 
+fanuc was the first private company succeed the development nc and servomechanism 
+japan and ever since this success has consistently pursued automation factories 
+with its three pillars consisting the business which encompasses fanuc basic technology 
+numerical control and servos the robot and robomachine businesses which apply this 
+basic technology and the open platform field system which manifestation iot fanuc 
+contributes the manufacturing industry japan and overseas promoting automation and 
+efficiency manufacturing 
+ensure the practice the principle preciseness and transparency which has been the principle 
+fanuc since its foundation think important for the practical functioning governance share such 
+easy understand and simple principle among all officers and employees the group 
+about preciseness and transparency 
+preciseness 
+the permanence and soundness company are created preciseness 
+transparency 
+the corruption organization and the collapse company start from opacity 
+the three philosophies fanuc 
+the three businesses robot and 
+robomachine are unified with service 
+one fanuc provide innovation and 
+reassurance manufacturing sites around the 
+world 
+reliable 
+predictable 
+easy repair 
+fanuc aims 
+minimize downtime 
+all factories all over the world 
+conforming the spirit service first 
+fanuc provides lifetime maintenance 
+its products for long they are used 
+customers through more than service 
+locations supporting countries throughout 
+the world 
+history fanuc 
+the first and servo systems the japanese private sector were developed successfully 
+the first electro hydraulic pulse motor was developed 
+fanuc was established 
+cnc was introduced 
+drill was developed 
+robots were developed and installed fanuc factories 
+the production and sale servo motors were started under gettys manufacturing inc license 
+wire cut electric discharge machine was completed 
+fanuc usa corporation was established 
+the commercial production and shipment robots started robot 
+korea numeric corporation was jointly established fanuc and hwacheon machinery works ltd 
+fanuc europe was established 
+the fuji factory was completed 
+gmfanuc robotics corporation was jointly established the fanuc and general motors 
+servo motor was developed 
+fanuc headquarters was moved the foot fuji 
+all electric plastics injection molding machine fanuc autoshot was developed 
+fanuc series was developed 
+fanuc taiwan corporation was established 
+fanuc automation corporation was jointly established the fanuc and general electric 
+digital servo was completed 
+laser was developed 
+the tsukuba factory was constructed 
+gmfanuc robotics corporation was restructured fanuc wholly owned share holding company fanuc robotics corporation together with its subsidiaries 
+beijing fanuc mechatronics ltd was jointly established fanuc and the beijing machine tool research institute 
+fanuc india private limited was established 
+shanghai fanuc robotics ltd was jointly formed china fanuc and shanghai mechanical electric industrial 
+investment corp 
+the commercial production series cnc started 
+the commercial production intelligent robots started 
+the commercial production series cnc started 
+the joint venture with general electric company was resolved and the joint venture operations the americas were 
+transferred fanuc america corporation 
+the commercial production the genkotsu robot parallel link robot started 
+european subsidiaries were reorganized and fanuc europe corporation was established 
+subsidiaries north and south america were reorganized and fanuc america corporation was established 
+collaborative robot was developed 
+fiber laser was developed 
+sales 
+the mibu factory was constructed 
+fanuc academy was constructed 
+billions yen 
+consolidated from the year ended march 
+fanuc corporation annual report 
+corporate governance 
+fundamental concept corporate governance 
+establishing specific code conduct while practicing preciseness and transparency will make 
+efforts maintain high level awareness officers and employees our group into the future 
+fanuc code conduct 
+officers and employees fanuc shall practice the following with strict preciseness and transparency which 
+has been the principle fanuc since its foundation 
+upholding high standard ethics 
+compliance with laws and regulations and internal rules 
+contribution the good fanuc 
+matters that are prohibited acts and particularly require attention 
+discriminate based race creed sex social status religion nationality age mental physical disability etc 
+conduct transaction with the company for the benefit him herself any particular individual organization 
+otherwise engage act that creates appears create conflict interest with the company 
+engage act that contravention the anti monopoly act including without limitation unjust unfair transaction 
+give money gifts entertainment any other economic benefit government employee any similar person connection with his her duties 
+unlawfully acquire use disclose intellectual property personal information etc any company individual 
+commit insider trading based the material facts any company customer etc 
+use forced labor engage act that appears use forced labor 
+engage the development spread technology that harms the environment 
+agree unjust request anti social force conduct transaction with anti social force any company 
+individual that related anti social force 
+fanuc will establish contact point for whistle blowing through which principle all officers and employees the fanuc group including subsidiaries and sub subsidiaries can whistleblow the headquarters fanuc corporation 
+this code conduct applies generally all officers and employees the fanuc group including subsidiaries and sub subsidiaries including contract workers 
+organizational structure 
+are surrounded very rapidly changing business environment unless the board directors understands accurate 
+information about customer and market trends service status etc the board will not able make appropriate managerial decisions due these circumstances principle our directors other than outside directors execute the business our 
+company aiming system where directors are involved daily operations themselves acquire accurate information themselves and mutually share such information among the members the board directors furthermore have chosen 
+company with audit supervisory board organizational design that can make best use these characteristics 
+directors and audit supervisory board members 
+directors total including outside directors 
+representative director chairman and ceo 
+yoshiharu inaba 
+representative director president and coo 
+kenji yamaguchi general manager business division 
+representative director senior executive vice president and cto 
+hiroyuki uchida general manager robomachine business division 
+representative director senior executive vice president and cfo 
+yoshihiro gonda general manager corporate administration division 
+director executive managing officer 
+kiyonori inaba general manager robot business division 
+hiroshi noda vice general manager business division 
+katsuo kohari vice general manager sales business division general manager service division 
+shunsuke matsubara general manager research development administration division 
+toshiya okada vice general manager corporate administration division general manager legal division 
+director 
+richard schneider chairman fanuc america corporation 
+kazuo tsukuda outside 
+yasuo imai outside 
+masato ono outside 
+audit supervisory board members total including outside audit supervisory board members 
+shunsuke kimura 
+naoki shimizu 
+takeo nakagawa outside 
+masaharu sumikawa outside 
+hajime harada outside 
+outside directors and outside audit supervisory board members 
+outside directors 
+reason for appointment 
+kazuo tsukuda 
+order develop the company business steadily and enhance its corporate value quite effective introduce the board directors 
+outsider eye with broad perspective and excellent insight kazuo tsukuda has been providing the company with extremely valuable advice 
+with his outstanding knowledge manufacturing and extensive experience management having deep understanding the company 
+business will expected continue contribute the company board directors from independent position outside director 
+yasuo imai 
+after joining the ministry international trade and industry currently the ministry economy trade and industry yasuo imai had experience 
+being posted overseas general manager the washington office japan national oil corporation successfully held number 
+positions starting from the post deputy director general director general the petroleum department agency for natural resources and 
+energy subsequently moved the post director general the manufacturing industries bureau and then the post commissioner 
+the japan patent office based these experiences yasuo imai being familiar with foreign affairs has global perspective and extensive 
+knowledge concerning the manufacturing industry and the protection intellectual property etc the same time currently active 
+corporate executive and also knowledgeable about corporate management due having more than years experience business yasuo imai 
+has been providing the company with extremely valuable advice outside director with his extensive experience various fields and from his 
+broad vision will expected continue contribute the company board directors from independent position outside director 
+masato ono 
+our company has specialized business activities the narrow field the automation manufacturing and such the board directors 
+consists mostly directors with engineering background focusing its core business given this context masato ono has been providing the 
+company with extremely valuable advice enhancing corporate value from totally different point view contributing active discussions 
+the meeting the board directors based his many years experience management financial institutions although masato ono 
+has served deputy president and representative director mizuho financial group inc meets the company criteria for independence 
+outside directors and outside audit supervisory board members see the section independent directors audit supervisory board 
+members the company has never applied for loan from any bank mizuho financial group has been over years since retired 
+director the mizuho financial group inc and there risk his independence being affected this position will expected 
+continue contribute the company board directors from independent position outside director 
+outside audit 
+supervisory board 
+members 
+reason for appointment 
+takeo nakagawa 
+professor emeritus the university tokyo and corporate manager takeo nakagawa has been consistently engaged monozukuri 
+manufacturing for this reason has given objective and valuable advice from various aspects based his profound understanding the 
+company business believe that can expect him continue play significant role going forward 
+masaharu sumikawa 
+masaharu sumikawa who has extensive knowledge based his many years experience corporate management the manufacturing 
+industry has been providing the company with advice etc from point view different from that the company while having deep 
+understanding the manufacturing industry contributing greatly not only statutory audit activities but the board directors and other 
+meetings that require active and rational discussions believe that can expect him continue contribute the board directors 
+hajime harada 
+hajime harada has been providing the company with extremely valuable advice whenever necessary based his wide experience and 
+knowledge lawyer although his term office outside audit supervisory board member the company has reached years the 
+end june has business transactions with interest the group lawyer hajime harada has responsibility under the basic 
+rules the duties practicing attorneys maintain his her freedom and independence article the rules and perform his her 
+duties fairly article and fact gives his frank opinion from independent standpoint therefore believe that maintains sufficient 
+independence now and the future particular has deep understanding corporate governance issue that has grown increasingly 
+important recent years gained through his experience including service lawyer compliance committees another listed company for 
+many years furthermore has advanced wide ranged and specialized knowledge based his experience including court cases variety 
+fields such systems development intellectual property rights antimonopoly law international joint ventures and claims collection for these 
+reasons can expect him continue offer appropriate advice from extremely broad perspective with regard risks that the company 
+may face the future and other matters 
+criteria for independence outside directors and outside audit supervisory board members 
+with regard independent outside directors and outside audit supervisory board members the company nominates candidates 
+who not have any certain interest the company and who can expected make frank comments without hesitation board 
+directors meetings etc furthermore order ensure such real independence minimum requirements candidates must meet 
+each the following conditions 
+usiness transactions between the company and the company from which the candidate comes must amount less than the 
+respective consolidated sales both companies 
+the company must not have any loans from the company from which the candidate comes the candidate comes from bank 
+the company must not have any important transactions such advisory contracts with the candidate the firm works for 
+the candidate lawyer other professional 
+the candidate must not come from the audit firm that the company accounting auditor 
+there must other particular reasons that could give rise conflict interest with the company 
+the candidate must not the spouse relative within the second degree anyone who does not meet the above conditions 
+through 
+fanuc corporation annual report 
+financial section 
+ten year financial summary 
+consolidated statements income 
+consolidated statements comprehensive income 
+consolidated balance sheets 
+consolidated statements changes net assets 
+consolidated statements cash flows 
+notes the consolidated financial statements 
+non consolidated statements income 
+non consolidated balance sheets 
+ten year financial summary 
+total assets 
+net assets 
+years ended march 
+net sales 
+operating income 
+operating income percentage net sales 
+income before income taxes 
+net income attributable owners parent 
+current assets 
+current liabilities 
+per share data yen and dollars 
+net income 
+basic 
+diluted 
+cash dividends 
+net assets 
+note the dollar amounts shown above and elsewhere this annual report are converted from yen for convenience only 
+the rate 
+fanuc corporation annual report 
+millions yen except for per share data 
+thousands 
+dollars 
+except for per share data 
+consolidated statements income 
+thousands 
+dollars 
+note 
+millions yen 
+years ended march 
+net sales 
+cost goods sold note 
+gross profit 
+selling general and administrative 
+expenses note 
+operating income 
+other income expenses 
+interest income 
+equity earnings affiliates 
+other net note 
+income before income taxes 
+income taxes 
+current 
+deferred 
+net income 
+net income attributable 
+non controlling interests 
+net income attributable owners parent 
+dollars 
+note 
+yen 
+amounts per share common stock 
+net income 
+cash dividends 
+see notes the consolidated financial statements 
+fanuc corporation annual report 
+consolidated statements comprehensive income 
+thousands 
+millions yen 
+years ended march 
+net income 
+dollars 
+other comprehensive income 
+valuation difference availablefor sale securities 
+foreign currency translation adjustment 
+remeasurements defined benefit 
+plans 
+share other comprehensive 
+income affiliates accounted for 
+using equity method 
+total other comprehensive income 
+comprehensive income 
+comprehensive income attributable 
+owners parent 
+non controlling interests 
+consolidated balance sheets 
+millions yen 
+march 
+assets 
+current assets 
+cash and bank deposits 
+receivables trade 
+notes and accounts 
+allowance for doubtful accounts 
+marketable securities 
+finished goods 
+work progress 
+raw materials and supplies 
+deferred income taxes note 
+other current assets 
+total current assets 
+investments note 
+property plant and equipment cost 
+land 
+buildings 
+machinery and equipment 
+construction progress 
+less accumulated depreciation 
+property plant and equipment net 
+intangible assets 
+goodwill 
+other intangible assets 
+total intangible assets 
+total assets 
+liabilities and net assets 
+current liabilities 
+payables trade 
+accrued income taxes 
+warranty reserves 
+other current liabilities 
+total current liabilities 
+long term liabilities 
+net defined benefit liability note 
+other long term liabilities 
+total long term liabilities 
+net assets 
+shareholders equity 
+common stock 
+authorized shares 
+issued shares 
+capital surplus 
+retained earnings 
+treasury stock cost 
+shares 
+shares 
+total shareholders equity 
+accumulated other comprehensive income 
+valuation difference available for sale securities 
+foreign currency translation adjustment 
+remeasurements defined benefit plans 
+total accumulated other comprehensive income 
+non controlling interests 
+total net assets 
+total liabilities and net assets 
+see notes the consolidated financial statements 
+thousands 
+dollars 
+note 
+fanuc corporation annual report 
+consolidated statements changes net assets 
+millions yen 
+common 
+stock 
+balance march 
+restated balance 
+cash dividends 
+net income 
+change caused merger 
+purchase treasury stock 
+disposal treasury stock 
+retirement treasury stock 
+net change except shareholder 
+equity during the year 
+balance march 
+restated balance 
+cash dividends 
+net income 
+change caused merger 
+purchase treasury stock 
+disposal treasury stock 
+retirement treasury stock 
+change equity from transactions 
+with non controlling shareholders 
+net change except shareholder 
+equity during the year 
+balance march 
+restated balance 
+cash dividends 
+net income 
+change caused merger 
+purchase treasury stock 
+disposal treasury stock 
+retirement treasury stock 
+change due tax rate change 
+change equity from transactions 
+with non controlling shareholders 
+net change except shareholder 
+equity during the year 
+balance march 
+capital 
+surplus 
+valuation 
+foreign remeasurenontreasury 
+difference currency 
+ments 
+total 
+controlling 
+stock 
+available for translation defined 
+net assets 
+cost 
+interests 
+sale securities adjustment benefit plans 
+retained 
+earnings 
+thousands dollars note 
+common 
+stock 
+balance march 
+restated balance 
+cash dividends 
+net income 
+change caused merger 
+purchase treasury stock 
+disposal treasury stock 
+retirement treasury stock 
+change due tax rate change 
+change equity from transactions 
+with non controlling shareholders 
+net change except shareholder 
+equity during the year 
+balance march 
+capital 
+surplus 
+valuation 
+foreign remeasurenontreasury 
+difference currency 
+ments 
+total 
+controlling 
+stock 
+available for translation defined 
+net assets 
+cost 
+interests 
+sale securities adjustment benefit plans 
+retained 
+earnings 
+see notes the consolidated financial statements 
+consolidated statements cash flows 
+thousands 
+dollars 
+note 
+millions yen 
+years ended march 
+cash flows from operating activities 
+income before income taxes 
+adjustments reconcile income 
+before income taxes net cash 
+provided operating activities 
+depreciation and amortization 
+allowance for doubtful accounts 
+net defined benefit liability 
+interest and dividend income 
+equity earnings affiliates net 
+increase decrease receivables trade 
+increase decrease inventories 
+increase decrease payables trade 
+other 
+cash generated from operations 
+interest and dividends received 
+income taxes paid 
+other 
+net cash provided operating activities 
+cash flows from investing activities 
+payments into time deposits 
+purchases property plant and equipment 
+purchases investment securities 
+other 
+net cash used investing activities 
+cash flows from financing activities 
+purchases treasury stock 
+dividends paid 
+other 
+net cash used financing activities 
+effect exchange rate changes cash 
+and cash equivalents 
+net increase decrease cash and cash equivalents 
+cash and cash equivalents beginning year 
+increase cash and cash equivalents resulting 
+from merger with unconsolidated subsidiaries 
+cash and cash equivalents end year 
+see notes the consolidated financial statements 
+fanuc corporation annual report 
+notes the consolidated financial statements 
+basis preparation 
+the accompanying consolidated financial statements fanuc corporation the company and its consolidated subsidiaries together the 
+group are prepared the basis accounting 
+principles generally accepted japan which are 
+different certain respects the application 
+and disclosure requirements international financial reporting standards and have been compiled from the consolidated financial statements 
+prepared the company required the financial instruments and exchange law japan 
+addition the notes the consolidated financial statements include information which 
+not required under accounting principles generally accepted japan but presented herein 
+additional information 
+preparing the accompanying consolidated 
+financial statements the company has made 
+certain reclassifications and rearrangements 
+the consolidated financial statements prepared 
+japan order present them format 
+which more familiar readers outside japan 
+summary significant accounting policies 
+cash equivalents 
+the group considers all highly liquid investments 
+with maturity three months less when purchased cash equivalents 
+translation foreign currency accounts 
+all monetary receivables and payables denominated foreign currencies are translated into 
+japanese yen the exchange rates effect 
+the balance sheet date foreign exchange gain 
+loss translation recognized the consolidated statements income 
+assets and liabilities the consolidated subsidiaries outside japan are translated into japanese yen the applicable year end rates except 
+for shareholders equity which translated the 
+historical rates differences arising from translation are reflected foreign currency translation 
+adjustments separate component net assets income and expense accounts are translated the average rates for the year 
+valuation securities 
+securities other than investments affiliates are 
+classified available for sale securities other 
+securities and include securities other than 
+principles consolidation 
+trading securities and securities held maturity 
+the consolidated financial statements include the 
+other securities whose fair value readily deter 
+accounts the company and with minor excep 
+minable are stated fair value with the corre 
+tions the subsidiaries under its control intercom 
+sponding unrealized gain loss net taxes 
+pany accounts and significant intercompany 
+recorded directly separate component 
+transactions have been eliminated consolida 
+net assets other securities whose fair value 
+tion 
+not readily determinable are stated moving 
+the investments unconsolidated subsidiaries 
+and affiliated companies over which the company 
+average cost the cost other securities sold 
+calculated the moving average method 
+exerts substantial influence are with minor exceptions stated their underlying equity value 
+goodwill amortized over period five 
+years 
+allowance for doubtful accounts 
+the allowance for doubtful accounts provided 
+amount deemed sufficient cover estimated future losses 
+inventories 
+past service cost being amortized incurred 
+raw materials and purchased components are 
+the straight line method over period years 
+stated primarily cost determined the most 
+which shorter than the estimated average 
+recent purchase price method 
+remaining years service the eligible employees 
+work progress stated actual cost which includes direct costs for materials and labor and over 
+revenue recognition 
+head manufacturing costs including depreciation 
+general sales products other than those 
+finished goods are stated principally cost 
+the valuation method the average method 
+ported are recognized the accounts upon acceptance the customers export sales are 
+recognized the respective dates ship 
+property plant and equipment and depreciation 
+ment 
+property plant and equipment including significant renewals and additions stated cost 
+income taxes 
+depreciation computed principally the 
+deferred income taxes are provided the asset 
+declining balance method rates based the 
+and liability method deferred income tax assets 
+estimated useful lives the respective assets 
+and liabilities are determined based the tem 
+which vary according general classification 
+porary differences between the financial state 
+type construction and use 
+ments and the tax bases the assets and 
+maintenance and repairs including minor 
+liabilities using the enacted tax rates which will 
+newals and improvements are charged 
+effect during the years which the differ 
+come incurred 
+ences are expected reverse 
+warranty reserves 
+net income per share 
+the group provides warranty reserves for goods 
+net income per share calculated based the 
+sold under warranty agreements estimates for 
+net income available for distribution share 
+these warranty reserves are based primarily 
+holders common stock and the weighted 
+historical experience addition they are calcu 
+erage number shares common stock 
+lated with reference current information con 
+outstanding during the year 
+cerning specific issues 
+shareholders equity 
+retirement benefits 
+the companies act japan provides that 
+the benefit formula basis applied the 
+amount equal the amount disbursed 
+method for attributing the expected retirement 
+distributions capital surplus other than 
+benefits periods service for the calculation 
+capital reserve and retained earnings other 
+the retirement benefit obligation 
+than legal reserve transferred capital 
+actuarial gain loss amortized the year 
+serve and legal reserve respectively until the 
+following the year which the gain loss 
+sum the capital reserve and the legal reserve 
+recognized primarily the straight line method 
+equals the capital stock account such dis 
+over period years which shorter than the 
+tributions can made any time resolution 
+estimated average remaining years service 
+the shareholders the board directors 
+the eligible employees 
+certain conditions are met 
+fanuc corporation annual report 
+dollar amounts 
+the company and its domestic consolidated subsidiaries maintain their books account yen 
+the dollar amounts included the accompanying consolidated financial statements and the 
+notes thereto represent the arithmetic results 
+translating yen into dollars 
+the approximate rate exchange prevailing 
+march 
+dollar amounts are presented solely for 
+the convenience the reader and the translation not intended imply that assets and liabilities which originate yen have been could 
+readily converted realized settled 
+dollars the above any other rate 
+financial instruments 
+basic policy manage financial instruments and 
+related risk 
+fluctuations investment securities which mainly 
+consist stocks companies with business relationships are exposed the risk market price 
+fluctuations 
+payables such trade notes and trade accounts are mostly due within one year 
+risk management for financial instruments 
+management credit risk 
+the group monitors due dates and manages 
+balances receivables customer according 
+internal guidelines and periodically checks 
+credit risks key customers taking into account their financial position and other factors 
+management market risk 
+the group regularly monitors each yen equivalent deposits denominated forreign currencies 
+the group regularly monitors the market 
+group policy for financial instruments 
+price and the financial condition the issuer 
+the company and its consolidated subsidiaries rely 
+with respect its securities and continuously 
+their own resources finance operations and 
+reviews the investment made each compa 
+not raise funds from external resources 
+taking into account its relationship with the 
+addition they not enter into any deriva 
+counterparty 
+tive contracts 
+nature and extent risks arising from financial instruments 
+deposits denominated foreign currencies are 
+exposed risk exchange fluctuations 
+receivables such trade notes and trade accounts are exposed customer credit risk and 
+receivables denominated foreign currencies 
+that arise from overseas operations are exposed 
+the market risk fluctuation foreign currency exchange rates marketable securities are negotiable certificate deposits which are easily 
+convertible into cash and within three months 
+and thus are exposed insignificant risk price 
+fair value financial instruments 
+the carrying amount and fair value financial instruments march and are summarized 
+follows financial instruments whose fair value not readily determinable are not included the 
+table below 
+millions yen 
+carrying 
+amount 
+cash and bank deposits 
+fair 
+value 
+variance 
+notes and accounts receivables 
+marketable securities and investment securities 
+other securities 
+notes and accounts payables 
+accrued income taxes 
+millions yen 
+carrying 
+amount 
+fair 
+value 
+thousands dollars 
+variance 
+carrying 
+amount 
+fair 
+value 
+notes and accounts payables 
+accrued income taxes 
+cash and bank deposits 
+notes and accounts receivables 
+variance 
+marketable securities and investment securities 
+other securities 
+cash and bank deposits notes and accounts receivable 
+the carrying value cash and bank deposits and notes and accounts receivables approximate fair 
+value due their short maturities 
+marketable securities and investment securities 
+marketable securities are negotiable certificates deposit ncd and the carrying value those 
+approximate fair value due their short maturities 
+investment securities are equity securities whose fair value measured the quoted market 
+price the stock exchange 
+see note for information the fair value investment securities classification 
+notes and accounts payables 
+the carrying value notes and accounts payables approximate fair value due their short 
+maturities 
+fanuc corporation annual report 
+the carrying amount financial instruments whose fair value not readily determinable march 
+and follows 
+thousands 
+dollars 
+millions yen 
+unlisted stock 
+consolidated balance sheet amount 
+redemption schedule after fiscal year end for monetary assets and securities with maturity dates 
+march and follows 
+millions yen 
+within year 
+cash and bank deposits 
+notes and accounts receivables 
+years 
+years 
+due after 
+years 
+investment securities 
+other securities with maturity 
+government bond 
+negotiable certificates deposit 
+total 
+millions yen 
+within year 
+cash and bank deposits 
+notes and accounts receivables 
+years 
+years 
+due after 
+years 
+investment securities 
+other securities with maturity 
+government bond 
+negotiable certificates deposit 
+total 
+thousands dollars 
+within year 
+cash and bank deposits 
+notes and accounts receivables 
+years 
+years 
+due after 
+years 
+investment securities 
+other securities with maturity 
+government bond 
+negotiable certificates deposit 
+total 
+other securities and investments 
+other securities whose fair value was determinable march and are summarized follows 
+other securities 
+with unrealized gain 
+other securities 
+with unrealized loss 
+total 
+other securities 
+with unrealized gain 
+other securities 
+with unrealized loss 
+total 
+book value 
+type 
+reflected the 
+securities 
+balance sheet 
+equity securities 
+subtotal 
+negotiable 
+certificates 
+deposit 
+equity securities 
+subtotal 
+book value 
+type 
+reflected the 
+securities 
+balance sheet 
+equity securities 
+subtotal 
+negotiable 
+certificates 
+deposit 
+equity securities 
+subtotal 
+other securities 
+with unrealized loss 
+total 
+acquisition 
+cost 
+net 
+millions yen 
+acquisition 
+cost 
+net 
+thousands dollars 
+book value 
+acquisition 
+reflected the 
+cost 
+balance sheet 
+equity securities 
+subtotal 
+negotiable 
+certificates 
+deposit 
+equity securities 
+subtotal 
+type 
+securities 
+other securities 
+with unrealized gain 
+millions yen 
+net 
+fanuc corporation annual report 
+other securities sold during the years ended march and are not presented since they 
+are insignificant 
+investments march and consisted the following 
+investments affiliates 
+other securities 
+allowance for doubtful accounts 
+other 
+total 
+millions yen 
+thousands 
+dollars 
+retirement benefits 
+the company and its domestic consolidated subsidiaries provide employees pension fund plans and 
+lump sum severance payment plans their defined benefit pension plans 
+certain overseas consolidated subsidiaries also provide defined benefit pension plans and defined contribution pension plans 
+information the pension plans for the years ended march and follows 
+defined benefit pension plans 
+changes projected benefit obligation pbo 
+thousands 
+dollars 
+millions yen 
+service cost 
+interest cost 
+actuarial gain loss 
+pbo beginning year 
+benefit payments 
+accrued past service cost 
+influence exchange 
+other 
+pbo end year 
+changes the fair value plan assets 
+thousands 
+dollars 
+millions yen 
+fair value plan assets beginning year 
+expected return plan assets 
+actuarial gain loss 
+influence exchange 
+other 
+employer contribution 
+benefit payments 
+fair value plan assets end year 
+fanuc corporation annual report 
+amount recognized consolidated balance sheets end year 
+millions yen 
+pbo savings type pension plan 
+fair value plan assets 
+thousands 
+dollars 
+net amount liability and asset recognized 
+consolidated balance sheets 
+net defined benefit liability 
+pbo non savings type pension plan 
+net amount liability and asset recognized 
+consolidated balance sheets 
+components defined benefit cost 
+thousands 
+dollars 
+millions yen 
+service cost 
+interest cost 
+expected return plan assets 
+amortization actuarial gain loss 
+amortization past service cost 
+other 
+defined benefit cost 
+remeasurements defined benefit plans 
+the components before adjustment tax effect are follows 
+millions yen 
+past service cost 
+thousands 
+dollars 
+actuarial gain loss 
+total 
+remeasurements defined benefit plans before tax 
+the components before adjustment tax effect are follows 
+thousands 
+dollars 
+millions yen 
+unrecognized past service cost 
+unrecognized actuarial gain loss 
+total 
+plan assets 
+components plan assets 
+the components are follows 
+debt securities 
+cash and bank deposits 
+other 
+total 
+expected rate return plan assets 
+the expected rate return plan assets determined based the current and estimated 
+future rates return various pension assets 
+actuarial assumptions 
+discount rate 
+expected rate return plan assets 
+expected rate salary increase 
+defined contribution pension plans 
+contribution consolidated subsidiaries the plan was million for fiscal year and 
+million thousand for fiscal year 
+fanuc corporation annual report 
+leases 
+future rent payments including interest under operating leases subsequent march and 
+are summarized follows 
+due within one year 
+millions yen 
+thousands 
+dollars 
+due after one year 
+total 
+contingent liabilities 
+contingent liabilities with respect guarantees for employees mortgage loans with banks march 
+and amounted million and million thousand respectively 
+research and development expenses 
+research and development expenses charged manufacturing costs and selling general and administrative expenses for the years ended march and are summarized follows 
+millions yen 
+thousands 
+dollars 
+other income expenses other net 
+other income expenses other net for the years ended march and consisted 
+the following 
+dividend income 
+loss sales and disposal fixed assets 
+exchange gain loss net 
+other net 
+total 
+millions yen 
+thousands 
+dollars 
+income taxes 
+net deferred tax assets march and are summarized follows 
+millions yen 
+deferred tax assets 
+net defined benefit liability 
+unrealized profit inventories and property plant 
+and equipment 
+accrued expenses 
+depreciation and amortization 
+accrued enterprise taxes 
+investment securities 
+other 
+gross deferred tax assets 
+valuation allowance 
+total deferred tax assets 
+deferred tax liabilities 
+undistributed earnings affiliated companies 
+other 
+total deferred tax liabilities 
+net deferred tax assets 
+thousands 
+dollars 
+reconciliation the statutory income tax rate the effective income tax rate for the years ended 
+march and was follows 
+japanese statutory income tax rate 
+tax exemption 
+dividend income not taxable 
+tax rate difference foreign subsidiaries 
+elimination dividends received 
+equity earnings affiliates 
+other 
+effective income tax rate 
+segment information 
+fanuc group focuses the development production and sales cnc systems and related application products based fanuc cnc system technologies comprehensive supplier factory 
+automation systems ultimately fanuc cnc systems and the related application products are 
+used automated production systems 
+fanuc group uses cncs and servo motors all its products for this reason the decision 
+made taking into consideration the status orders sales and production all products addition 
+the status particular products 
+fanuc corporation annual report 
+mentioned above fanuc group runs only one business segment based the decision that 
+the entire group makes for investment thus the segment information not stated herein 
+relevant information 
+information product and service 
+net sales unaffiliated customers 
+robot 
+robomachine 
+service 
+total 
+millions yen 
+information region 
+net sales unaffiliated customers 
+japan 
+america 
+europe 
+asia 
+other 
+total 
+millions yen 
+thousands 
+dollars 
+thousands 
+dollars 
+derivative transactions 
+not applicable the group does not enter into any derivative contracts 
+related party transactions 
+related party transactions for the years ended march and are not presented since 
+they are insignificant 
+non consolidated statements income 
+thousands 
+dollars 
+millions yen 
+years ended march 
+net sales 
+cost goods sold 
+gross profit 
+selling general and administrative expenses 
+operating income 
+other income expenses 
+interest income 
+dividend income 
+other net 
+income before income taxes 
+income taxes 
+current 
+deferred 
+net income 
+yen 
+net income per share 
+dollars 
+note the dollar amounts are converted from yen for convenience only the rate 
+fanuc corporation annual report 
+non consolidated balance sheets 
+march 
+assets 
+current assets 
+cash and bank deposits 
+receivables trade 
+notes and accounts 
+subsidiaries and affiliates 
+allowance for doubtful accounts 
+marketable securities 
+inventories 
+deferred tax assets 
+other current assets 
+total current assets 
+investments and other assets 
+subsidiaries and affiliates 
+deferred tax assets 
+other 
+total investments and other assets 
+property plant and equipment cost 
+land 
+buildings 
+machinery and equipment 
+construction progress 
+accumulated depreciation 
+property plant and equipment net 
+intangible assets 
+total assets 
+liabilities and net assets 
+current liabilities 
+payables trade 
+accounts 
+subsidiaries and affiliates 
+accrued expenses 
+accrued income taxes 
+warranty reserves 
+other current liabilities 
+total current liabilities 
+long term liabilities 
+allowance for employees retirement benefits 
+asset retirement obligations 
+total long term liabilities 
+net assets 
+shareholders equity 
+common stock 
+authorized shares 
+issued shares 
+capital surplus 
+retained earnings 
+treasury stock cost 
+total shareholders equity 
+valuation and translation adjustment 
+net unrealized holding gain other securities 
+total net assets 
+total liabilities and net assets 
+millions yen 
+thousands 
+dollars 
+global service network 
+fanuc global service network 
+fanuc america detroit 
+fanuc europe 
+beijing fanuc 
+shanghai fanuc robotics 
+taiwan fanuc 
+the americas 
+fanuc america corporation 
+detroit tel 
+chicago tel 
+robot and robot system development manufacture sales and 
+services cnc laser and robodrill sales and services 
+europe 
+fanuc europe corporation 
+luxembourg tel 
+cnc laser robot and robomachine sales and services 
+robot system development manufacture sales and services 
+asia 
+beijing fanuc mechatronics ltd 
+beijing china tel 
+cnc manufacture sales and services laser sales and services 
+shanghai fanuc robotics ltd 
+shanghai china tel 
+robot system development manufacture sales and services 
+robot and robomachine sales and services 
+korea fanuc corporation 
+changwon city korea tel 
+cnc laser robot robot system and robomachine sales 
+and services 
+taiwan fanuc corporation 
+taichung taiwan tel 
+cnc manufacture sales and services laser robot and robot 
+system sales and services 
+fanuc india private limited 
+bangalore india tel 
+cnc manufacture sales and services robot system development 
+manufacture sales and services robot and robomachine sales 
+and services laser services 
+fanuc thai limited 
+bangkok thailand tel 
+cnc robot robot system and robomachine sales and 
+services laser services 
+fanuc mechatronics malaysia sdn bhd 
+kuala lumpur malaysia tel 
+cnc robot robot system and robomachine sales and 
+services laser services 
+fanuc indonesia 
+jakarta indonesia tel 
+cnc robot robot system and robomachine sales and 
+services laser services 
+fanuc singapore pte ltd 
+singapore tel 
+cnc laser robot and robomachine sales and services 
+fanuc corporation annual report 
+hino branch office 
+nagoya service center 
+korea fanuc 
+fanuc india 
+fanuc thai 
+fanuc indonesia 
+fanuc south africa 
+fanuc philippines corporation 
+manila philippines tel 
+cnc laser robot and robomachine services 
+fanuc vietnam company limited 
+chi minh vietnam tel 
+cnc laser robot and robomachine services 
+fanuc oceania pty limited 
+sydney australia tel 
+cnc laser robot and robomachine sales and 
+services 
+south africa 
+fanuc south africa proprietary limited 
+johannesburg south africa tel 
+robot system development manufacture sales and 
+services cnc robot robodrill and robocut sales 
+and services laser services 
+web site fanuc 

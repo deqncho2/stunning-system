@@ -1,0 +1,4568 @@
+july 
+morgan stanley blue paper 
+morgan anley research 
+global 
+stephen byrd 
+timothy radcliff 
+simon lee 
+bobby chada 
+dominik olszewski 
+yuka matayoshi 
+parag gupta 
+miguel rodrigues 
+adam jonas 
+peter mackey 
+paul walsh 
+mary curtis 
+solar power energy storage 
+policy factors improving economics 
+have developed model that calculates solar economics around the world 
+based local regulatory dynamics and solar conditions project combined 
+solar growth for china japan the europe india and brazil per year 
+through and global demand are bullish demand growth due 
+improving solar economics europe highlight the german solar slowdown 
+china are below industry forecasts because believe that the chinese government 
+will keep solar growth rates similar nuclear and wind achieve emission reduction 
+goals japan our projected demand below industry estimates due our bearish 
+view the pending government review solar subsidies 
+roy campbell 
+dimple gosai 
+see page for all contributors this report 
+morgan stanley llc 
+morgan stanley asia limited 
+morgan stanley international plc 
+morgan stanley india company private limited 
+morgan stanley 
+morgan stanley mufg securities ltd 
+rmb morgan stanley proprietary limited 
+energy storage when combined with solar power could disrupt utilities the 
+and europe the extent customers move off grid approach believe 
+tesla energy storage product will economically viable parts the and europe 
+and fraction the cost current storage alternatives 
+potentially advantaged solar power integrators sune scty nrg renewable 
+yieldcos nyld nep aby and terp and tesla tsla result its energy 
+storage product facing downside risk are solar panel and polysilicon manufacturers 
+wacker chemie first solar gcl poly trina solar yingli green energy xinyi solar 
+and jinko solar given our expectation bearish demand china and japan 
+utilities sun rich and rate high states pnw pcg eix sre may affected 
+the growth both solar power and energy storage 
+morgan stanley blue papers focus critical 
+investment themes that require coordinated 
+perspectives across industry sectors regions 
+asset classes 
+morgan stanley does and seeks business with companies covered morgan stanley research result investors should aware that the firm may 
+have conflict interest that could affect the objectivity morgan stanley research investors should consider morgan stanley research only single factor 
+making their investment decision 
+for analyst certification and other important disclosures refer the disclosure section located the end this report 
+this research report has been partially prepared analysts employed non affiliates the member please see page for the name each non 
+affiliate contributing this research report and the names the analysts employed each contributing affiliate 
+analysts employed non affiliates are not registered with finra may not associated persons the member and may not subject nasd nyse 
+restrictions communications with subject company public appearances and trading securities held research analyst account 
+morgan stanley research 
+july 
+solar power energy storage 
+contributors this report 
+utilities 
+stephen 
+stephen byrd morganstanley 
+timothy radcliff morganstanley 
+adam jonas morganstanley 
+bobby chada morganstanley 
+emmanuel turpin morganstanley 
+annamaria scaglia morganstanley 
+carolina dores morganstanley 
+anne azzola morganstanley 
+timothy morganstanley 
+dominik olszewski morganstanley 
+paul walsh morganstanley 
+peter mackey morganstanley 
+simon lee morganstanley 
+sheng zhong morganstanley 
+yuka matayoshi morganstanleymufg 
+masahiro ono morganstanleymufg 
+shoji sato morganstanleymufg 
+parag gupta morganstanley 
+satyam thakur morganstanley 
+miguel rodrigues morganstanley 
+girish achhipalia morganstanley 
+mary curtis rmbmorganstanley 
+roy campbell rmbmorganstanley 
+dimple gosai rmbmorganstanley 
+saul rans morganstanley 
+clean technology 
+timothy 
+autos 
+adam 
+europe utilities 
+bobby 
+emmanuel 
+anna maria scaglia 
+carolina dores 
+anne azzola 
+timothy 
+dominik 
+europe chemicals 
+paul 
+peter 
+china utilities 
+simon lee 
+sheng 
+japan utilities 
+yuka 
+japan technology 
+masahiro ono consumer electronics 
+shoji sato electronic components 
+india utilities 
+parag 
+satyam 
+latin american utilities 
+miguel 
+consumer retail 
+girish 
+south africa industrials 
+mary 
+roy 
+dimple 
+middle east infrastructure 
+saul 
+morgan stanley llc 
+morgan stanley asia limited 
+morgan stanley international plc 
+morgan stanley india company private limited 
+morgan stanley 
+morgan stanley mufg securities ltd 
+rmb morgan stanley proprietary limited 
+morgan stanley international plc difc 
+branch 
+see page for recent blue paper reports 
+morgan stanley research 
+july 
+solar power energy storage 
+table contents 
+executive summary 
+analytical approach 
+global solar market landscape 
+implications for polysilicon 
+growth potential region 
+china 
+europe 
+united states 
+japan 
+india 
+brazil 
+morgan stanley research 
+july 
+solar power energy storage 
+executive summary 
+have developed model that calculates solar 
+economics around the world based local regulatory 
+dynamics and solar conditions believe investors can 
+use this analytical framework better understand solar 
+economics the context local regulatory dynamics solar 
+installation costs and solar operating conditions 
+project combined solar growth for china japan the 
+europe india and brazil per year through 
+including rest world expect growth 
+heavily driven china which forecast will account 
+for new demand globally are bullish 
+demand growth due improving solar economics europe 
+see risk solar slowdown 
+exhibit 
+solar installation forecast through 
+china 
+europe 
+japan 
+india 
+brazil 
+source morgan stanley research 
+our solar growth forecast aggregate below industry 
+estimates driven more bearish outlook solar 
+demand china and japan while project cagr 
+solar capacity china from industry 
+estimates call for far more rapid growth rate our projected 
+solar demand china below industry levels due our 
+view that the chinese government will seek grow solar 
+similar rates nuclear and wind minimize the cost 
+achieving emission reduction goals and ineffective distributed 
+generation policies japan are relatively pessimistic 
+regarding the outcome the pending review solar 
+subsidies the japanese government without subsidies 
+solar power has long road ahead japan before the 
+technology can reach grid parity driven poor solar 
+conditions the country 
+are relatively bullish solar demand growth the 
+driven strong and improving rooftop solar economics and 
+the likely continuation favorable net metering subsidies for 
+solar which together more than offset likely reduction from 
+the solar investment tax credit itc 
+the long term believe solar power will economic 
+some states without any form subsidy 
+europe see mixed bag slowdown additions 
+germany but with solid growth other regions overall 
+expect european capacity additions remain flat 
+but with different regional mix 
+what sets our solar analysis apart believe our global 
+analysis benefits from the close integration local utility 
+regulatory dynamics subsidies well explicit renewables 
+goals set government entities solar operating conditions 
+and future trends the local installed cost solar each 
+these factors has significant impact solar demand 
+estimates and none these factors static solar 
+economics continue improve however there may 
+further reductions government support such the current 
+review solar subsidies occurring japan also factor 
+physical limits such the availability suitable land india 
+that the future may limit the growth solar power our 
+analysis factors these evolving dynamics drive our solar 
+growth forecast 
+energy storage specifically tesla product could 
+disruptive the and europe but less likely 
+economic the rest the world given the relatively high 
+cost the power grid think that customers parts the 
+and europe may seek avoid utility grid fees going 
+off grid through combination solar power and energy 
+storage believe there not sufficient appreciation the 
+magnitude energy storage cost reduction that tesla has 
+already achieved nor the further cost reduction magnitude 
+that tesla might able achieve once the company has 
+constructed its gigafactory targeted for completion later 
+the decade while off grid applications are the most 
+disruptive use energy storage note that there are also 
+less disruptive applications such strengthening the grid 
+compensate for the variability solar output 
+rooftop solar should major driver growth solar 
+demand while large scale solar projects will continue 
+important source growth for the industry certain parts 
+the world see global trend towards greater 
+morgan stanley research 
+july 
+solar power energy storage 
+distributed generation the form rooftop solar both 
+residences and commercial buildings driven 
+exhibit 
+kwh 
+significant reductions installation costs solar 
+integrators such sune and scty have become 
+more experienced and have streamlined their installation 
+process for rooftop solar installation costs have fallen 
+rapidly improving rooftop solar economics 
+favorable regulatory treatment europe the brazil 
+and japan residential and commercial customers are 
+able avoid some portion all their utility bills 
+installing solar panels the entire utility bill far greater 
+than simply the cost generating power from the largescale power plants that feed the power grid result 
+solar panel project economics can often attractive 
+given the ability arbitrage some most the utility 
+bill under such incentives believe solar growth and 
+returns solar investments solar integrators that 
+provide complete solar power solutions customers can 
+surprise the upside however many 
+countries regions may well see this favorable 
+regulatory treatment change over time and result 
+solar power would able compete only against the 
+portion the utility bill associated with the cost 
+producing power from relatively efficient large scale 
+conventional power plants sun rich regions such 
+the southwestern and india solar power may the 
+long term become economic against large scale 
+conventional power plants even without government 
+subsidies 
+the following two charts show solar economics with and 
+without the investment tax credit itc subsidy for solar 
+power and applying varying fixed grid fees solar 
+customers fixed grid fee indicates that the solar 
+panel must compete solely against the power generation 
+portion the utility bill these charts illustrate how further 
+solar cost reductions can some geographies offset the loss 
+subsidies but other geographies the loss subsidies 
+would have critical impact the ability solar power 
+competitive source power expect subsidies may fall 
+the europe and japan but may remain and even 
+grow china india and brazil 
+residential solar will our view become 
+competitive california even without subsidies 
+system price 
+itc scenarios 
+fixed charge 
+source company data morgan stanley research 
+exhibit 
+however midwestern states such illinois 
+the outlook for solar much more challenging 
+kwh 
+system price 
+itc scenarios 
+fixed charge 
+source morgan stanley research 
+significant impact fossil fuel demand while our 
+solar power growth forecast shows significant volumes 
+relative the current installed base solar power the 
+magnitude not large enough have major impact 
+fossil fuel demand keep mind that solar power still 
+extremely small element the overall global power 
+generation asset base and large increases off small base 
+will have modest overall impacts demand for fossil fuels 
+for example the the loss natural gas demand from 
+the growth solar power the western dwarfed the 
+growth gas demand from petrochemical demand and lng 
+export projects high growth markets such china and 
+india solar power one several tools needed meet 
+growing power demand this solar growth will our view likely 
+not damage demand from coal and natural gas 
+morgan stanley research 
+july 
+solar power energy storage 
+potentially advantaged companies and 
+those facing downside risk 
+potentially advantaged companies according our 
+analysis 
+tesla tsla from our analysis the economics 
+energy storage products conclude that tesla will likely 
+have the most economic energy storage solution 
+significant margin this advantage driven primarily the 
+company very significant scale tesla will produce 
+many cells from its gigafactory are currently produced 
+all worldwide battery manufacturers combined and 
+integrated manufacturing efficiencies project the capital 
+cost tesla battery will fall from the current kwh 
+kwh whereas its closest competitor will 
+cost kwh the utility sector market potential for 
+tesla storage product difficult determine given the 
+number variables that affect this market size but based 
+our analysis believe could above gwh 
+storage per year equal least annual revenue 
+tesla today numbers incremental gwh 
+storage sales gross margin would boost tsla 
+share price 
+solar power integrators sunedison solarcity and 
+nrg energy given the falling cost solar believe 
+the integrators companies that offer finance design 
+and install solar power solutions for customers will create 
+greater shareholder value than the panel manufacturers 
+this the case because the integrators typically compete 
+against fixed utility rate the europe brazil and 
+japan solar costs fall and many utility rates increase 
+with substantial grid investments around the world returns 
+equity can rise significantly given the small number 
+companies positioned capture meaningful share very 
+large market 
+europe some the utilities may pursue successfully 
+integrator business model this could growth 
+catalyst and meaningful value driver present 
+unclear who will develop the best and most successful 
+european integrator business model the larger 
+integrated utilities rwe seems most focused 
+developing residential energy services model but many 
+others are also focusing this 
+renewable energy yieldcos nrg yield abengoa yield 
+nextera energy partners and terraform power 
+see new investment class emerging the renewable 
+yieldco that economically similar master limited 
+partnerships mlps but applied renewable generation 
+assets think yieldcos will have cost 
+capital valuation advantage over competitors and will 
+able create shareholder value growing their 
+renewables asset base returns significantly excess 
+yieldco cost capital benefits the yieldco investment 
+vehicle include appropriate focus cash flow the 
+most important valuation metric opposed multiples 
+gaap earnings for example given that earnings are often 
+lower than cash flow for reneables the ability efficiently 
+return capital shareholders often dividends are largely 
+entirely tax free returns capital and lower required 
+rate return from investors given the long term contracted 
+cash flow stream with creditworthy power purchasers 
+sunedison sune recently completed yieldco ipo 
+terraform power terp our view should allow sune 
+capture long term project value and monetize its asset 
+base more attractive valuation similar what nrg 
+doing with its yieldco nrg yield nyld both parent 
+company and yieldco subsidiaries can our view create 
+shareholder value through the parent selling assets the 
+yieldco values above the implied value the assets 
+reflected the parent stock driving significant dividend 
+growth for the yieldco this approach has been pursued 
+with great success the mlp industry and believe the 
+renewables segment well suited such approach 
+european utilities investing regulated good capex 
+sse rwe and enel increasingly 
+decentralized energy will emphasise the need for reliable 
+grid and require significant capex distributed power will 
+become part the network balancing solution this should 
+positive for regulated capex which view good 
+capex the most increases capex are likely where 
+see the biggest solar penetration germany italy and the 
+these markets sse rwe and enel could 
+benefit from higher grid capex and associated returns the 
+medium term 
+companies facing potential downside risks 
+solar panel manufacturers first solar gcl poly trina 
+solar yingli green energy xinyi solar and jinko 
+solar given the large amount worldwide 
+manufacturing capacity already the ground 
+relative our global estimate per year 
+given that our solar growth forecast bearish relative 
+solar industry growth estimates some industry estimates 
+reach solar demand per year solar 
+panel manufacturers profitability may impacted the 
+issue over capacity without larger more rapid global 
+morgan stanley research 
+july 
+solar power energy storage 
+increases solar demand believe margin expansion 
+for solar panel manufacturers may muted 
+given our view that rooftop solar will play increasingly 
+large role solar demand growth believe silicon based 
+solar panels will our view more competitive than thinfilm and concentrating solar silicon based solar panels are 
+the most appropriate technology for rooftop applications 
+result are cautious with respect first solar thin 
+film panel product given the higher cost this product 
+relative silicon based panels and the inability first 
+solar thin film panels used economically for rooftop 
+applications 
+polysilicon manufacturers wacker chemie gcl 
+oci and hemlock given that industry projections 
+solar panel installation growth are significantly more 
+bullish than morgan stanley projections for key 
+countries such china and japan key material 
+used the manufacture silicon based solar panels 
+with the solar panel industry industry estimates 
+growth for china and japan are significantly excess 
+morgan stanley estimates through industry 
+estimates for chinese solar panel demand morgan stanley demand and morgan stanley 
+estimates for japanese demand during the same period 
+demand levels these two key countries disappoint 
+likely our view that prices would disappointingly 
+low and manufacturing costs due low capacity utilization 
+levels disappointingly high although those with the best 
+quality product would likely remain fully utilized 
+and european utilities that see significant solar 
+growth and either experience further generation 
+headwinds lack sufficient regulatory protection from 
+the loss demand pinnacle west the rwe 
+enel gdf suez sse europe most utilities 
+solar heavy states such california and hawaii have 
+decoupling mechanism under which utilities are made 
+whole from the loss power demand due customers 
+self generating power however solar power grows 
+these states does the gap between the cost power for 
+solar customers and utility customers who receive their 
+power from the grid 
+this can result tipping point that creates ever greater 
+incentives for customers adopt solar thus leaving utilities 
+with the potential long term issue losing significant 
+portion their customer base highlighted our 
+report batteries distributed gen may negative for 
+utilities given the very high cost power hawaii 
+believe the solar power adoption rate could very high 
+pressuring rates for non solar utility customers which 
+turn could create sufficient incentive for customers 
+fully off grid arizona pinnacle west has only partial 
+insulation against loss demand customers selfgenerate power continue monitor the solar 
+penetration rate arizona closely solar 
+applications have been rising throughout the year although 
+the absolute level has still not reached the point that 
+would expect major impact pnw eps 
+fast growing economies such china brazil and india 
+solar power growth driven large power demand 
+growth result solar power has less severe 
+cannibalization impact other generation types and 
+smaller impact utilities 
+europe the rollout solar photovoltaic systems 
+has had big influence power markets especially 
+northwest europe and particularly germany this has 
+been major negative over the last few years for rwe 
+and gdf suez however this was exacerbated 
+the decline coal and prices the rollout solar 
+the has also been faster than expected believe this 
+one reason for the slower than anticipated improvement 
+spark spreads negative for all generators but 
+especially for sse centrica rwe and 
+potentially significant negative impacts the extent 
+energy storage costs drop hawaiian electric and 
+california utilities sempra energy edison international 
+and corp and the generation divisions 
+european utilities including enel sse rwe and 
+gdf suez worth noting that due important 
+regulatory market structure and economic differences 
+see limited scope for material move customers offgrid europe this different from our expectations 
+the 
+europe and parts the utility bills are relatively high 
+which could encourage relatively greater numbers 
+customers disconnect from the grid using solar power 
+coupled with energy storage europe consume more 
+self produced power but remain grid connected under this 
+approach customer solar panels would overproduce 
+power during the day and the excess power would 
+stored batteries and drawn upon night this risk will 
+likely materialize over many years years and the 
+degree risk subject many variables that discuss 
+this report europe particular there are numerous 
+issues that may hinder the ability customers move fully 
+morgan stanley research 
+july 
+solar power energy storage 
+off grid for example the vast majority customers solar 
+panels are not sized allow for complete reliance solar 
+power that such customers would still dependent 
+the grid for portion their power there are also 
+regulatory impediments perhaps most importantly adding 
+sufficient storage capacity provide full autarky 
+sufficiently expensive that drives irr unattractive 
+below breakeven levels 
+and avoid the fixed grid fees the size the storage 
+market and the corresponding negative impact utilities 
+quite sensitive the fixed grid fee that regulators impose 
+solar customers for example moving from our base 
+case typical fixed grid costs imposed solar 
+customers our storage bull case typical fixed 
+grid costs imposed solar customers results sharp 
+increase demand for energy storage the from 
+gwh gwh 
+exhibit 
+solar power output differs substantially from 
+customers power demand profile 
+source edison electric institute the profile power output and demand represents 
+typical customer california 
+based our analysis for the believe that hawaii 
+and california represent the greatest opportunity for off grid 
+approaches because their significantly higher electricity 
+rates and strong solar conditions given that utilities 
+hawaii and california are decoupled rates for non solar 
+customers will rise more customers install solar panels 
+this rate shift accelerates the adoption rate for solar 
+because the delta between the utility rate for power and the 
+cost producing solar power increases 
+over time the extent regulators increase the fixed grid 
+fee that solar customers must pay remain connected 
+the grid not believe there will material increases 
+these fees the near medium terms there will 
+growing incentive for consumers install energy storage 
+for europe storage cheaper than expect and 
+penetration faster bigger the main negative implication 
+see for utilities would peak shaving and the impact 
+that this could have the peak baseload power price 
+estimate that this would additional negative for all 
+conventional generators however the additional impact 
+function how much more peak shaving seen and this 
+hard quantify suffice say that would negative 
+for all european generators markets where see 
+storage economic especially germany and italy the 
+stocks most negatively affected would rwe gdf 
+suez enel and sse enel and sse have the largest 
+generation exposure percentage ebitda 
+rwe enel and gdf suez have the biggest exposure 
+production twh see the risk stranded 
+distribution assets very low expect few customers 
+move off grid europe given the economic and 
+regulatory issues 
+conversely greater storage penetration would likely lead 
+faster development residential energy services model 
+and that could positive for utilities that successfully 
+develop very early identify potentially advantaged 
+companies though note that rwe have been focused 
+this space however possible that the big winners 
+come from outside the utility space 
+morgan stanley research 
+july 
+solar power energy storage 
+analytical approach 
+have constructed model that calculates returns 
+associated with solar projects around the world 
+potential approaches customers could take 
+the grid but net zero grid power usage under this 
+approach customer solar panels produce excess power 
+during the day which sold back the grid and night the 
+customer draws power from the grid this approach could 
+result low net zero usage power produced largescale power plants attached the grid 
+the grid partial grid power usage this approach 
+often taken europe where solar panel systems are not 
+sized fully allow customers eliminate their net usage 
+power from the grid and where economics and regulation 
+mean moving fully off grid very unlikely thus unlikely 
+that such customers pursue fully off grid approach 
+fully off the grid this approach consumers fully depend 
+their site power generation using storage and power 
+management system provide power the home when 
+needed consumers could choose this approach for number 
+reasons for instance select markets customers who 
+choose net meter the grid approach described 
+above have pay large non bypassable fixed grid charge 
+these consumers have incentive fully off the grid the 
+key variable this approach the cost power storage 
+tesla gigafactory for battery production which will our 
+view reduce the cost batteries significantly below the cost 
+other storage options may significant affect how many 
+consumers seek off the grid 
+methodology 
+our model uses national system pricing and financing 
+assumptions and statewide average irradiance and electricity 
+rates estimate the solar levelized cost electricity lcoe 
+versus grid sourced electricity countries regions with 
+combination high irradiance and high electricity rates are 
+nearing grid parity those with less sunshine and lower 
+electricity rates tend farther away calculate lcoe 
+measured kwh tally the present value after tax 
+cash costs incurred over the lifetime the system then 
+adjust for tax benefits then divide the result the 
+present value all electricity produced over the lifetime the 
+system arrive each state country lcoe 
+compare the resulting lcoe against the appropriate 
+leverageable grid supplied electricity cost next compare 
+the solar lcoe against the relevant electricity rate the 
+lcoe lower than the relevant threshold electricity rate 
+remember have already taken into account the project 
+owner required equity return through lcoe consider 
+the market the money divide this addressable 
+consumption the same annual sunlight hours data that fed 
+the original lcoe calculation determine country solar 
+addressable market megawatts capacity 
+europe where the electricity produced partially self 
+consumed and partially sold either under fit into the 
+wholesale power market when subsidies end use the 
+same model but focus the irr rather than the lcoe 
+which can confusing given the different revenue streams 
+for self consumption and power sold 
+solar cost assumptions 
+assume that solar costs continue decline although 
+lower rate than over the past years this decline rate varies 
+significantly country with slower pace more mature 
+solar markets such germany whereas pricing has 
+declined more key markets cumulative 
+basis over the last few years expect pricing decline 
+lower rate less than through our base case 
+cost declines should driven combination 
+operational efficiencies with respect design and installation 
+systems well continued equipment cost declines 
+energy storage system cost assumptions 
+addition battery cost declines consistent with 
+tesla gigafactory roadmap that could reduce battery costs 
+forecast declines costs associated 
+hardware manage storage system believe tesla 
+combined battery inverter product will the most 
+economically competitive and forecast that the inverter 
+will cost watt our base case the following table 
+highlights our energy storage assumptions 
+exhibit 
+storage costs scenarios for typical household 
+installation costs usd 
+balance system costs usd 
+bear 
+base 
+bull 
+inverter cost usd watt 
+total inverter cost usd 
+battery cost usd kwh 
+total battery cost usd 
+total system cost usd 
+total system cost eur 
+total system cost usd kwh 
+total system cost eur kwh 
+based typical household installing solar panel and battery one day 
+storage assume eur usd stable 
+source company data morgan stanley research estimates 
+morgan stanley research 
+july 
+solar power energy storage 
+global solar market landscape 
+solar economics and regulatory dynamics vary significantly 
+among the six regions countries analyzed the following 
+high level overview solar economics and regulatory 
+treatment region country 
+china projected demand solar power one 
+three zero carbon zero emissions power sources the other 
+two are wind and nuclear that the government china 
+increasingly promoting address the growth power 
+demand the magnitude power demand growth china 
+very significant the country added per year 
+equal total installed capacity china 
+uses feed tariffs fits fixed payment stream for power 
+produced solar panels coupled with local incentives 
+ensure that solar capacity growth meets government targets 
+our projected growth solar demand line with the most 
+recent chinese government targets 
+europe projected demand given the very high 
+cost power europe solar already economic relative 
+the entire utility bill which all countries comprised 
+grid costs taxes subsidies and the costs actually 
+generating power governments europe primarily use 
+fits and tax breaks incent the growth solar power 
+many european countries germany being the most 
+significant already have relatively high solar penetration 
+levels but there the potential for significant future growth 
+given how competitive solar power throughout europe 
+united states projected demand 
+states solar panel owners are allowed net meter 
+effectively allowing panel owners avoid the entire utility bill 
+both the portion associated with fixed grid costs and that 
+associated with actual power generation given rapidly 
+declining solar costs and rising utility bills believe solar 
+growth potential well above market expectations even 
+under our base case assumption which the 
+investment tax credit itc steps down and the net 
+metering rules are changed solar customers must pay 
+the typical fixed grid costs that utility customer 
+pays 
+japan projected demand much europe 
+japan uses fits incent solar power installations and 
+these incentives have allowed for rapid recent solar growth 
+the country however are concerned that pending 
+government review the solar fit may result 
+substantial reduction this rate which would reduce solar 
+growth potential 
+india projected demand india conducts 
+competitive auctions for the procurement additional power 
+plants and growth power demand has been very high 
+per year over the past several years the government 
+has conducted some plant procurement designed solely for 
+solar power procurement auctions open all generation 
+types solar has not been competitive but recent data points 
+highlight the potential for solar power become closer 
+competitive with other generation sources given practical 
+limits the growth other types generation india 
+think solar power will have significant growth potential but 
+solar grows land requirements will increasingly become 
+limiting factor 
+brazil projected demand the government brazil 
+has recently pursued number approaches encourage 
+solar development including tax breaks solar only 
+procurement processes and net metering approach similar 
+that the united states the objective bring scale 
+and turn solar into competitive source the country given 
+the strong solar conditions parts brazil and the net 
+metering approach believe solar projects will become 
+economically viable parts the country 
+africa projected demand the solar potential 
+huge nasa data suggests that the total global solar 
+potential concentrated the middle east and africa but 
+current installed capacity minimal only the end 
+expect this double the end and 
+double again the end capacity 
+row projected demand estimate row 
+installations applying the same forecasted growth rate 
+from china the india and brazil exclude europe 
+and japan from the calculation given their maturity relative 
+the remainder our focus regions 
+note the middle east electricity consumption rising 
+rapidly across the middle east year cagrs are 
+common and governments have struggled boost their gas 
+output fast enough meet demand keen maximize oil 
+exports some governments have identified solar 
+potential solution most notably the saudi arabian 
+government announced plan build 
+capacity however developers the region will 
+need overcome number technical and organizational 
+challenges dust water scarcity etc meet its goal and 
+not have sufficient conviction that these challenges 
+will resolved include separately our forecast 
+morgan stanley research 
+july 
+solar power energy storage 
+solar energy africa 
+the solar potential africa huge but current installed 
+megawatts are minimal the end and 
+our projected growth solar installations per 
+year through relatively small absolute 
+basis nasa data suggests that many countries africa 
+and the middle east have daily solar radiation ranging 
+between and kwh equivalent roughly the 
+total global potential however the speed with which this 
+potential has been harnessed still some way behind 
+developments all the other regions the world the 
+end according the ihs only the world 
+solar capacity was operating the middle east and 
+africa combined 
+what next africa solar capacity growing quickly 
+within the region the drivers are combination 
+government support feed tariff schemes and better 
+economics the price solar capacity has continued 
+fall however given the abundance competing and 
+cheap energy sources many african markets coal 
+south africa and mozambique oil across much west 
+africa the solar roll out coming off very low base and 
+unlikely make significant proportion total 
+electricity generating capacity many the african markets 
+anytime soon however noteworthy initiatives include 
+solar plant ghana scheduled 
+completed 
+morocco currently building plant part 
+their solar build plan set achieved 
+south africa current total electricity generating capacity 
+expansion plans are place increase capacity 
+and further the 
+new build coal will account for the bulk nuclear 
+and renewables including solar 
+capacity due come line obviously this will 
+still represent very small percentage total generating 
+capacity 
+exhibit 
+solar energy total energy generation 
+south africa 
+and target renewable energy including 
+solar was announced under the climate 
+resilient green economy initiative 
+tanzania has recently launched the solar scheme 
+initiative drive small scale solar installations rural 
+districts 
+nigeria the minister power announced plans add 
+solar power over the next years targeting 
+energy generation mix from renewables 
+solar total electricity generation 
+lhs 
+solar generation yoy growth rhs 
+source bmi rmb morgan stanley 
+all all therefore expect significant growth solar 
+capacity across africa but the absolute numbers are still 
+small from base just over the end 
+expect solar capacity for the region increase 
+the end and double again 
+capacity lower costs installation and hence 
+shorter pay back period are the key faster rate 
+adoption 
+mozambique the country has been granted 
+loan the adb provide power and has 
+set several solar plants rural areas the primary 
+source energy 
+morgan stanley research 
+july 
+solar power energy storage 
+visualizing market attractiveness 
+from our analysis compared the relative attractiveness 
+markets well subsidy levels now and over time 
+the following chart highlights our view 
+market attractiveness the degree which the 
+market offers attractive growth opportunities given 
+solar economics and magnitude potential growth 
+subsidy level amount subsidy provided the 
+federal and sometimes local government 
+believe china will remain attractive market for solar 
+driven continued strong government support and 
+improving solar economics the chinese government has 
+targeted the growth three zero emissions power 
+generation types solar wind and nuclear reduce the 
+country emissions intensity 
+europe remains attractive market given high utility bills 
+the region but there potential over the long term that the 
+growth solar penetration slows europe further 
+considers subsidy reductions and solar reaches high 
+penetration levels germany 
+india and brazil are increasingly attractive markets for solar 
+driven solar cost declines and degree further 
+government support for solar power however brazil 
+other clean energy technologies wind and hydroelectric are 
+far more economic than solar and significant future solar 
+cost reductions combined with further government support 
+will needed incent large increases solar 
+development 
+japan may become relatively unattractive market for solar 
+the extent that the current review solar subsidies the 
+government results significant reduction the solar 
+feed tariff fit 
+the united states should become the second most attractive 
+solar market driven low current penetration levels 
+favorable solar economics relative utility bills and further 
+cost declines that expect will more than offset upcoming 
+subsidy decreases 
+exhibit 
+market landscape 
+more subsidized 
+japan 
+europe 
+china 
+unattractive market 
+brazil 
+attractive market 
+india 
+less subsidized 
+source morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+summary key takeaways region country 
+china 
+projected 
+growth 
+europe 
+projected 
+growth 
+united states 
+projected 
+growth 
+japan 
+projected 
+growth 
+india 
+projected 
+growth 
+brazil 
+projected 
+growth 
+africa 
+projected 
+growth 
+per year solar growth through driven very large absolute power demand growth and 
+the government goal improving air quality through combination solar wind and nuclear 
+power demand growth significant any measure averaging total capacity per year 
+headwinds other generation will aid growth solar nuclear and wind coal growth constrained 
+growing environmental restrictions hydropower limited available sites 
+changes china renewables decisions has strong impact global solar demand our per 
+year forecast for solar growth fraction the country per year demand growth 
+energy storage not economic grid substitute given the low cost the chinese power grid 
+per year solar growth through driven strong solar economics relative high 
+european utility rates there however risk solar slowdown europe 
+project solar will economic europe without subsidies 
+the slowdown solar installations germany given the high current penetration level even with strong 
+solar economics trend that could lead lower overall solar growth europe 
+energy storage coupled with solar power could commercially viable germany italy portugal and 
+spain but many uncertainties exist and implementation this approach has several challenges 
+per year solar growth through driven highly supportive net metering rules states 
+strong solar conditions many states and further solar cost reductions 
+solar will economic some states even without subsidy 
+the long term addressable distributed solar market the larger than appreciated even 
+assuming net metering rules are changed less favorable solar and the federal subsidy reduced 
+energy storage coupled with solar power our view likely commercially viable sun rich rate 
+high states the western this dynamic could the long run damage utilities these states 
+per year solar growth through driven improving solar economics and supportive feed 
+tariff fit 
+there risk slowdown solar growth japan result the japanese government pending 
+review the solar fit 
+the path grid parity for solar japan long one given more gradual solar cost reductions the 
+future 
+energy storage not economic grid substitute given the low cost the japanese power grid 
+per year solar growth through driven the near term government initiatives 
+procure solar power and the longer term economics for solar power that approaching parity 
+with other generation sources 
+solar power our view approaching cost parity with other generation sources without subsidies 
+headwinds facing new coal hydropower and wind plant development all aid the growth solar 
+the biggest challenge facing solar development the long term likely our view land availability 
+energy storage not economic grid substitute given the low cost the indian power grid 
+slightly less than per year solar growth through driven strong solar conditions but 
+other renewable energy types have historically shown more favorable economics 
+competitive renewable procurement auctions brazil have shown other renewable types especially hydro 
+and wind being more economic than solar 
+net metering rules recently established should help the growth distributed solar power 
+storage does not seem viable brazil all energy exported the grid taxable and given that the pricing 
+energy export cannot made hourly basis this reduces the potential benefit storage 
+storage would help export the higher price times but this not possible under the current regulation 
+per year solar growth through with most capacity installations focused saudi arabia 
+and south africa 
+despite strong solar conditions cheap fossil fuel supply coal southern africa and oil west africa still 
+dominates planned capacity expansion electricity generation 
+morgan stanley research 
+july 
+solar power energy storage 
+implications for polysilicon 
+what polysilicon polysilicon hyper pure form 
+silicon the earth second most abundant element due its 
+semiconductor like material properties polysilicon used 
+feedstock material manufacturing silicon based solar 
+exhibit 
+mtpa including all players potential production capacity 
+polysilicon likely sits closer mtpa think 
+exhibit 
+major gglobal polysilicon shares all 
+capacities 
+polysilicon manufacturing process 
+hemlock 
+other 
+producers 
+wacker 
+other china 
+gcl 
+tokuyama 
+ldk 
+osaka rec memc 
+titanium 
+source green rhino energy morgan stanley research 
+who are the major producers according our analysis 
+the world largest producers polysilicon based 
+data are gcl with share wacker chemie 
+with share oci with share and 
+hemlock with share indeed the top players 
+account for around half global polysilicon supply however 
+beyond the four majors the polysilicon market very 
+fragmented with chinese players emergent and existing 
+having carved out substantial shares within the industry 
+however the extent which some the older high cost and 
+smaller facilities are operational closed down remains 
+point contention and views vary greatly the amount 
+effective capacity that available the solar market this 
+because weak prices over recent years led high cost 
+producers china having curb production and close down 
+facilities china highly opaque market when comes 
+capacity and add the complexity quite clear that 
+product quality varies greatly between the different producers 
+ultra pure product must for market leaders like 
+wacker hemlock and oci whereas lower purity levels are 
+common problem for smaller chinese producers the quality 
+product from china gcl the world largest producer 
+the subject much debate 
+wacker chemie believes that total production capacities for 
+solar grade electronics grade polysilicon sat mtpa 
+whereas would suggest this figure was actually 
+closer mtpa excluding chinese capacity from 
+smaller players rec silicon suggests capacity 
+oci 
+daqo 
+source company data morgan stanley research estimates 
+exhibit 
+major global shares those likely 
+operating 
+other 
+osaka 
+memc 
+wacker 
+tbea 
+daqo 
+tokuyama 
+rec 
+hemlock 
+gcl 
+oci 
+source company data morgan stanley research estimates 
+polysilicon content solar modules widely accepted 
+that today solar modules contain approximately 
+polysilicon which expected creep down towards medium term according wacker 
+chemie with module costs ranging from and the 
+implied silicon cost this suggests polysilicon 
+around the module cost wacker suggests total solar 
+installations amounted equating 
+polysilicon demand equivalent 
+polysilicon the mid point 
+morgan stanley research 
+july 
+solar power energy storage 
+exhibit 
+solar panel spot prices have been declining 
+usd 
+gcl expects solar installations 
+although chinese solar installations suffered due 
+the postponement large solar farm installations the end 
+may gcl believes total installations will reach 
+which china will continue the largest 
+contributor 
+exhibit 
+gcl view incremental solar installations 
+source rec morgan stanley research 
+wacker estimates installations grow way above 
+morgan stanley forecast wacker believes that annual 
+global installations will fall within rising 
+before growing 
+based silicon consumption this 
+should see polysilicon demand growing mtpa 
+implying cagr over the next years 
+total over the period alone wacker expects 
+incremental solar installations totaling level 
+expect achieved only 
+source gcl morgan stanley research 
+exhibit 
+gcl view annual solar installations out 
+exhibit 
+wacker view incremental solar installations 
+source gcl morgan stanley research 
+source wacker chemie morgan stanley research 
+rec silicon suggests solar similar 
+gcl rec silicon suggests solar installations are 
+likely which closer the bottom end wacker 
+expectations importantly what can see that the majority 
+polysilicon majors believe incremental solar installations will 
+increase very rapid rate driven views demand the 
+where morgan stanley view bullish and line with 
+industry estimates and china and japan where industry 
+estimates far exceed morgan stanley estimates however 
+rec touch more conservative china this year 
+suggesting just incremental solar line with 
+morgan stanley projections reflecting lower forecast for 
+distributed grid rooftop from previously 
+morgan stanley research 
+july 
+solar power energy storage 
+exhibit 
+rec silicon view installations 
+source rec silicon morgan stanley research 
+exhibit 
+rec view solar installations longer term 
+annual module installations 
+what our forecasts for solar installations mean for 
+polysilicon supply demand our forecasts are 
+aggregate considerably more cautious than the views the 
+polysilicon manufacturers there has always been and 
+continues understandable degree optimism 
+regarding the success solar within the raw material 
+suppliers 
+are most bearish our view solar growth relative 
+industry views for china some industry views large 
+growth per year versus our per year 
+for and japan some industry views large 
+per year versus our per year for 
+put simply our base case solar installation forecasts see 
+installation growth average far lower than 
+the polysilicon manufacturers whose estimates range 
+between and that context our forecasts 
+could mean significant downside risk for the industry 
+exhibit 
+polysilicon producers are much more aggressive 
+solar installations mse and iea 
+morgan stanley 
+iea 
+wacker 
+rec 
+gcl 
+tokuyama 
+source rec morgan stanley research 
+tokuyama sees incremental installations 
+from base solar installations 
+tokuyama expects cagr new installations 
+new installations china flags 
+upwards revision new solar capacity 
+exhibit 
+tokuyama sees annual installations 
+source company data morgan stanley research estimates 
+disappointing outcome for polysilicon demand future 
+where solar installations growth disappointed key markets 
+such china and japan would leave polysilicon markets 
+complicated situation we see limited growth for the raw 
+material which would lead material reductions polysilicon 
+utilisation rates and put further pressure pricing 
+supply the other consideration estimate the big 
+alone had polysilicon capacity totaling mtpa 
+which set rise mtpa increase 
+mtpa equivalent additional annual solar 
+installations other players still operating excluding those 
+chinese players that likely shut their plants are 
+also expanding capacity mtpa equivalent 
+solar installations aggregate ensure future 
+capacity additions are utilized the solar market annual 
+source tokuyama morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+installations will have rise per annum from the 
+rate per annum demand 
+growth level that appears highly challenging based our 
+analysis which shows installations still below this level 
+exhibit 
+exhibit 
+polysilicon model based morgan stanley 
+installations assumptions 
+future polysilicon supply additions 
+big four wacker hemlock oci gcl 
+other capacities likely still operating 
+capacities definitely likely shuttered 
+wacker demand estimates 
+morgan stanley demand estimates 
+total 
+incumbents oci gcl 
+all 
+all 
+source company data morgan stanley research estimates 
+source company data morgan stanley research estimates 
+exhibit 
+polysilicon model based wch high 
+low case installations 
+implications for polysilicon prices under range 
+scenarios terms the likely impact polysilicon pricing 
+illustrate scenarios below first take the morgan 
+stanley view average annual solar installations globally for 
+the period second take the likely 
+installation lastly take average 
+view installations from the polysilicon 
+producers installations 
+total 
+incumbents oci gcl high demand 
+all high demand 
+all high demand 
+incumbents oci gcl low demand 
+all low demand 
+building polysilicon cost curve notoriously difficult 
+producers are persistently cutting costs few are transparent 
+about their production costs and opacity surrounding asian 
+players adds the uncertainties have built indicative 
+cost curve using data that available but warn that the 
+margin error could meaningful with considerable 
+change likely over the next few years efforts reduce 
+cash costs continue also include indicative cost curve 
+from industry producer polysilicon for comparative 
+purposes 
+all low demand 
+source company data morgan stanley research estimates 
+morgan stanley research 
+july 
+solar power energy storage 
+exhibit 
+scenario the expectation solar installations 
+the current level would translate into 
+demand which would imply spot price 
+which largely where current pricing sits 
+indicative polysilicon cost curve axis 
+capacity axis 
+scenario should see the average polysilicon industry 
+expectations for solar installations 
+polysilicon demand would under which scenario 
+prices could lift assuming further structural shift 
+down the cost curve 
+exhibit 
+solar grade polysilicon spot prices 
+source company data morgan stanley research 
+exhibit 
+tokuyama view the cost curve 
+source bloomberg morgan stanley research 
+potential implication lower polysilicon prices 
+wacker forecasts 
+note that the implied marginal cost for the current likely 
+demand level consistent with the level 
+which prices are currently trading and which assume 
+roughly flat through our current wacker forecasts 
+our model suggests that prices could fall sustainable 
+level based our more conservative demand 
+forecasts were run this assumption our wacker 
+model would reduce our wacker ebitda forecasts 
+for given the high level the group 
+this would cut eps for and 
+potentially much for 
+source tokuyama morgan stanley research 
+scenario take utilities expectations average 
+annual solar installations annum this 
+compares with average forecast from the polysilicon 
+manufacturers over the same time period 
+average this would drive demand 
+which given the current shape the cost curve could see 
+prices falling back down towards 
+exhibit 
+morgan stanley forecast annual installations region 
+total 
+avg 
+china 
+japan 
+europe 
+india 
+brazil 
+subtotal 
+australia 
+canada 
+israel 
+korea 
+thailand ukraine 
+taiwan 
+row 
+global total 
+source company data morgan stanley research estimates 
+morgan stanley research 
+july 
+solar power energy storage 
+morgan stanley blue paper 
+solar power energy storage 
+growth potential region 
+china 
+europe 
+united states 
+japan 
+india 
+brazil 
+morgan stanley research 
+july 
+solar power energy storage 
+china 
+morgan stanley blue paper 
+projected per year solar growth fraction 
+total power plant capacity growth china and change 
+government goals would have greater impact our 
+global solar forecast than any other single factor 
+simon lee 
+sheng zhong 
+solar growth exceed all other 
+countries regions 
+headwinds facing other generation types are 
+opportunity for solar exceed our growth 
+expectations coal the dominant source power 
+generation china accounted for cumulative 
+capacity however because severe pollution 
+issues china new installation coal power slowed 
+from the peak only 
+environmental protection cost increases all industries 
+may seriously challenge further coal power development 
+china expect hydropower which constitutes 
+the current installed base face growth headwinds 
+due insufficient water resources most regions 
+china for this reason expect most hydropower 
+resources fully developed renewable 
+power currently china third largest source power 
+accounting for the installed base renewable 
+power grew rapidly the past two years result 
+significant cost decreases and government efforts 
+encourage development clean energy expect the 
+market share renewable power continue expand 
+energy storage likely not economic china given 
+relatively low grid costs china power grid has been 
+developed lower cost than the and europe 
+and the system younger resulting lower 
+maintenance costs result think there would not 
+sufficient savings customers from installing solar 
+power and energy storage their home business and 
+disconnecting from the grid 
+given that our projected solar demand 
+china significantly below solar industry 
+estimates this demand level bearish for 
+polysilicon solar panel manufacturers because that 
+returns may impacted overcapacity relative 
+global demand silicon based panel manufacturers 
+gcl poly trina solar yingli green energy xinyi solar 
+and jinko solar could see margin pressure demand 
+china while still growing rapid rate under morgan 
+stanley estimates fails achieve projected industry 
+growth rates 
+key conclusions 
+china comprises our global 
+forecast growth per year driven 
+very large absolute power demand growth 
+headwinds facing other generation types and the 
+government goal improving air quality 
+exhibit 
+expect solar power reach 
+and 
+cagr 
+source morgan stanley research 
+china the fastest growing solar market the world 
+today solar installation china which effectively 
+started has accelerated since 
+china surpassed germany become the fastestgrowing market worldwide with record 
+new capacity installed note that the high level 
+installations was primarily due rush ahead 
+impending changes solar subsidy policies 
+incremental renewable decisions china have 
+greater impact than any other country region china 
+power demand growth has been very large any 
+measure average over the past years china has 
+added new power plants per annum equal 
+total power plant capacity the our 
+morgan stanley research 
+july 
+solar power energy storage 
+market growth review 
+exhibit 
+china installed power capacity 
+thermal 
+hydro 
+nuclear 
+renewables 
+note renewables includes wind solar 
+source nea morgan stanley research morgan stanley research estimates 
+exhibit 
+exhibit 
+solar power capacity has been rising portion 
+total renewables development china 
+china became the fastest growing solar market 
+mea 
+americas 
+apac 
+europe 
+china 
+wind 
+source nea morgan stanley research 
+solar 
+morgan stanley research estimates 
+source company data morgan stanley research mea middle east and africa 
+apac asia pacific 
+chinese power plant capacity will total 
+estimate the largest installed base the world 
+according the latest statement from the chinese national 
+energy administration nea the target solar new 
+installation china minimum which likely 
+still the highest capacity addition volume globally solar farms 
+are still the dominant format china due abundant 
+ground resources available financing and easier power tariff 
+collection from grid operators 
+morgan stanley research 
+july 
+solar power energy storage 
+regulatory dynamics and market outlook 
+solar demand still primarily policy driven source power 
+globally due the higher cost solar relative other 
+sources such coal gas and hydro china both the 
+central and provincial governments have adopted supportive 
+policies and provided subsidies encourage faster growth 
+solar 
+solar development the five year plan poject 
+solar capacity additions are likely per year 
+both and the latest adjustments the fiveyear plan the government china has targeted solar 
+new installation year end this upwardly 
+revised from the original target according media 
+reports the real upper target could 
+encourage consumption generated power the 
+announced solar fit rate kwh for 
+ground mounted projects addition for distributed solar the 
+china central government provides subsidy 
+kwh total power generated from distributed solar 
+projects result the distributed solar developer would 
+receive total revenue equivalent the end user power tariff 
+kwh saved plus kwh subsidy for total 
+kwh the electricity self consumed and total 
+kwh grid power tariff plus kwh for 
+total kwh when the electricity sold the grid 
+exhibit 
+solar benchmark fit during five year plan 
+rmb kwh 
+exhibit 
+government target solar new installations 
+five year plan 
+solar fit 
+solar fit regional difference 
+source ndrc nea morgan stanley research 
+new installation and estimate based year plan 
+upside potential based high scenario plan target 
+source company data morgan stanley research 
+golden sun program drove the first wave 
+development july the government china 
+released the golden sun demonstration project program 
+providing front subsidies for qualified demonstrative 
+projects through mid this program provided subsidy 
+equal total costs for grid systems and 
+total costs for off grid systems that were above with 
+that subsidy solar capacity grew years the 
+government now plans install more than solar 
+power pilot projects the next years 
+solar feed tariff and generation subsidy released 
+encourage more power generation from july 
+after the golden sun program ended and again august 
+the ndrc published new policies subsidize 
+development from the power generation perspective 
+local government additional subsidies support local 
+development addition central government 
+subsidies provincial and municipal governments provide 
+subsidies encourage local solar development mainly 
+additional power generation subsidy and one off setup 
+supportive funds well some tax returns purchasing 
+products from local enterprises 
+more policies encourage distributed generation 
+could expected mainly from the administrative and tax 
+perspectives april the nea stated that electric 
+business certificate needed for electric generation 
+installations below from solar wind biomass ocean 
+and geothermic energies and june china state 
+administration taxation stated that effort simplify 
+the administrative operations the state grid will issue 
+the invoice for electricity buys from distributed solar 
+projects addition the end june nea sent draft 
+version its further implementation distributed solar 
+photovoltaic generations related policies municipal 
+governments solar investment and construction 
+companies and grid companies well financial 
+morgan stanley research 
+july 
+solar power energy storage 
+institutions collect the opinions from every party many key 
+issues around distributed generation development were 
+addressed including the difficulties solar project 
+financing rooftop resources unstable profit return dgs 
+etc 
+believe new installation was near term 
+record high after the golden sun program details below 
+expired the solar installation type changed 
+significantly percentage total new installation 
+declined one year after golden sun program 
+only accounted for total installations compared with 
+before this mainly because the relatively 
+unfavorable incentives comparing with golden sun 
+program 
+improve through lower costs while suitable land remains 
+limited for utility scale development estimate total 
+installation will back peak level 
+exhibit 
+solar farm and distributed generation installation 
+comparison during and after golden sun 
+program 
+new installation may fall due slowdown 
+utility scale development and current policies that 
+not attract necessary investments expect levels 
+solar installation lower than the peak due 
+primarily slowdown utility scale solar development 
+western china ideal for solar installation but limited local 
+power demand means solar power needs long transmission 
+lines remit electricity load centers note transmission 
+lines will only commissioned thus near term 
+growth utility scale solar will limited 
+the other hand the chinese government has indicated 
+that will support substantial growth distributed solar 
+development present challenges include 
+estimated financial returns are lower than utilityscale solar farms difficulty securing sufficient bank 
+borrowing fund projects and lack good quality rooftop 
+resources install estimate the decline utilityscale development will exceed growth and thus overall 
+installation lower than this estimate 
+could wrong further favoriable policies are 
+announced the government 
+before 
+distributed generation 
+solar farm 
+source company data morgan stanley research 
+exhibit 
+expect distributed generation installations will 
+ramp gradually while utility scale decelerates 
+distribution generation 
+solar farm 
+source company data morgan stanley research 
+new installation back level for the period 
+expect will continue grow while utilityscale solar farm growth decelerates economics 
+morgan stanley research 
+july 
+solar power energy storage 
+exhibit 
+china central government rolled out solar fit encourage installation and development 
+fit cny kwh 
+province 
+ningxia 
+region 
+qinghai 
+gansu jiayuguan wuwei zhangye jiuquan dunhuang jinchang 
+xinjiang kumui tacheng altay karamay 
+inner mongolia excluding chifeng tongliao hinggan league hulunbeier 
+region 
+beijing tianjin heilongjiang jilin liaoning sichuan yunnan 
+inner mongolia chifeng tongliao hinggan league hulunbeier 
+hebei chengde zhangiakou tangshan qinhuang island 
+shanxi datong shuozhou xinzhou 
+shaanxi yulin yan 
+all other regions qinghai gansu and xinjiang not included region 
+region 
+all other regions not included regions and 
+source ndrc nea morgan stanley research 
+exhibit 
+solar subsidies from central and municipal government rmb kwh 
+province 
+zhejiang 
+city 
+wenzhou 
+hangzhou 
+tongxiang 
+jiaxing 
+anhui 
+hefei 
+national 
+subsidy 
+provincial 
+subsidy 
+municipal 
+subsidy 
+total 
+subsidy 
+comments 
+solar farm subsidy 
+subsidy 
+one off subsidy 
+total subsidy per kwh for 
+jiangsu 
+shandong 
+jiangxi 
+shanghai 
+one off subsidy 
+fit for for non central government subsidized projects 
+one off subsidy and for phases and projects respectively 
+kwh for solar farm kwh for 
+source government official website morgan stanley research 
+exhibit 
+module price down sharply 
+jul 
+may 
+jan 
+mar 
+nov 
+jul 
+sep 
+may 
+jan 
+mar 
+nov 
+jul 
+sep 
+may 
+jan 
+mar 
+nov 
+jul 
+sep 
+capital costs have been declining capital costs for solar 
+power projects china have been declining consistently and 
+rapidly mainly thanks the rapid decrease module 
+prices result solar power has come closer achieving 
+grid parity from end user perspective the past years 
+solar module prices declined watt 
+june this drove down the cost capital investment 
+solar projects the same period currently the 
+capital cost solar projects with the solar 
+module comprising total costs some experts expect 
+capital cost for solar will down within 
+years agree that solar capital costs will keep trending 
+down the future with steady module price declines 
+however project the panel and other component inverter 
+installation cost declines will less rapid than the past 
+source solarzoom wind morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+exhibit 
+solar capital cost has come down quickly 
+corresponding module price decline 
+rmb 
+coal costs increase solar power costs keep 
+decreasing thanks module and other component cost 
+declines and module power generation efficiency 
+improvements currently efficiency improvement 
+every year however solar will likely remain the most 
+expensive source clean energy and government subsidies 
+and policies will therefore remain the key drivers growth 
+exhibit 
+solar levelized cost energy has been 
+coming down quickly 
+source morgan stanley research 
+levelized cost solar power has been declining the 
+reduction capital costs has led decline the price 
+electricity generated from solar power projects assuming the 
+solar project leverage interest rate with the 
+capital cost down from today 
+the year life solar levelized cost comes down from 
+kwh kwh today 
+accordance with the decline solar generation cost 
+the fit has also been reduced however with current solar 
+fit and subsidies estimate some solar projects enjoy 
+strong profitability thus believe that solar farms will 
+attract strong investment interest but scale development 
+will subject government approvals 
+exhibit 
+levelized cost energy comparison 
+rmb kwh 
+lcoe comp 
+solar power cost coming closer grid parity currently 
+the coal power tariff low level rmb kwh 
+due the low cost coal however while coal cost likely 
+remain low expect the environmental 
+protection cost trend due higher requirements 
+emissions june the government china released 
+requirements for further improvements desulfurization 
+denitration and dust removal coal power plants which 
+increase coal power cost kwh 
+source company data morgan stanley research 
+nuclear 
+coal 
+hydro 
+onshore 
+wind 
+gas 
+solar 
+offshore 
+wind 
+source morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+europe 
+exhibit 
+bobby chada 
+german feed tariffs have declined solar 
+capital costs have declined 
+dominik olszewski 
+kwh 
+solar storage growth potential strong 
+but recent data points slowdown 
+key conclusions 
+europe comprises our global 
+forecast growth per year 
+driven strong solar economics relative high 
+european utility rates 
+exhibit 
+jan jan jan jan jan jan jan jan jan jan jan july 
+projected solar growth europe 
+solar growth 
+source bnetza morgan stanley research 
+the slowdown solar installations germany 
+given already high solar penetration levels trend 
+worth watching and one that could cause our solar 
+growth estimates somewhat overstated 
+the rate growth slowed materially and the first 
+five months have been even worse for larger 
+installations the changes legislation coming this 
+summer could explain some the slowdown although 
+the past this has normally caused rush install 
+before the new legislation takes effect but for smaller 
+residential installations the changes legislation are not 
+nearly severe irrs remain healthy for residential 
+installations unclear what driving slowdown 
+possible that the german market approaching 
+saturation level but would like see further data 
+points given the favourable economics for further solar 
+installations 
+energy storage coupled with solar power could 
+commercially viable solution europe battery and 
+associated system costs decline significantly given 
+our base case assumption that installed solar and 
+storage costs will decline materially believe that this 
+can commercially viable solution some european 
+countries although the irr may quite low some 
+cases the most viable countries for energy storage are 
+our view germany italy portugal and spain 
+france 
+germany 
+italy 
+portugal 
+spain 
+total 
+source company data morgan stanley research 
+looking forward with lower solar capital 
+costs calculate that solar should competitive 
+even without subsidies rooftop solar therefore likely 
+remain very important technology europe the 
+economics are partly driven high retail power costs 
+this means that solar could run unsubsidised 
+necessary pure solar generation unit for retail 
+customer 
+including subsidies generally feed tariffs fits 
+solar generally commercial almost all countries 
+europe although would argue that many 
+these subsidies are now becoming overly generous 
+capital costs have decreased and thus risk 
+would seem economically sensible for overall 
+member state economies and for energy affordability 
+general solar subsidies are reduced markedly even 
+eliminated 
+morgan stanley research 
+july 
+solar power energy storage 
+europe solar power market size 
+estimate that europe will install average per 
+year forecast coming from the six 
+markets have analysed most closely and from the 
+rest europe also worth noting that forecast annual 
+growth above the implied run rate for europe based 
+ytd additions 
+our analysis the european market has focussed primarily 
+developments six countries france germany italy 
+portugal spain and the expect these the most 
+significant contributors european installations they 
+accounted for european capacity installed 
+from total 
+but the rest europe countries such greece and 
+romania both installed over regulatory 
+changes have reduced installations dramatically these 
+countries but see additions continuing other 
+countries thus expect capacity 
+contributed from the rest europe outside the six largest 
+contributors 
+exhibit 
+scenarios for installed capacity 
+france 
+germany 
+spain 
+roe 
+bull 
+italy portugal 
+base 
+bear 
+roe rest europe 
+bull case blue sky scenario based theoretical rooftop potential 
+base case based currently installed capacity plus recent installation rate for germany 
+portugal spain and the use the government targets 
+bear case national targets for the use current capacity plus run rate 
+source morgan stanley research 
+there are two ways assess the potential solar market 
+physical assessment suitable rooftop areas and 
+market assessment based current capacity 
+rooftop assessment 
+studies roof cadastres such that sun area estimate 
+that approximately germany rooftops are suitable for 
+solar energy use forecast that physical assessment 
+european rooftops would imply residential capacity and 
+production levels displayed exhibit assume that 
+residential installations are reduced smaller size 
+when the level installations reaches government targets 
+because subsidies are likely reduced removed when 
+targets are reached without subsidies the value power 
+that not self consumed very low thus reduce the 
+installation scale that optimized for self consumption 
+this leads blue sky scenario which pvs become 
+increasingly commoditised and are installed nationally 
+rooftops this the driver our bull case 
+market assessment 
+our market assessment which makes our base case 
+based upon combination observable run rates specific 
+country conditions coupled with country capacity targets 
+for example germany clear that solar mainstream 
+technology and see reason why the government target 
+will not reached given solar irrs 
+however note marked slowdown 
+france and italy show significant skew towards large scale 
+installations with lower take among households given 
+their advantageous climate and lower relative take 
+households france and italy may expected increase 
+their solar capacity the near future costs fall for 
+france our base case assumes pick the current run 
+rate for italy our base case assumes 
+the continuation the current run rate 
+the contrast small scale installations under 
+account for total capacity the department 
+energy and climate change has focused encouraging 
+installations among the residential and commercial segments 
+they estimate that the has hectares southfacing commercial roof space and hope exploit our 
+base case assumes that the government targets are met 
+exhibit 
+installed capacity national targets 
+france 
+germany 
+italy 
+portugal 
+spain 
+cumulative 
+capacity 
+end 
+national 
+target 
+capacity installed 
+during 
+france close its old formal target grid operator rte plans for 
+solar capacity 
+italy target for 
+source epia morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+exhibit 
+exhibit 
+annual solar capacity additions 
+installed solar capacity year end 
+germany 
+france 
+spain 
+italy 
+portugal 
+france 
+germany 
+italy 
+portugal 
+spain 
+source iea pvps morgan stanley research 
+source eurobserv iea pvps morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+regulatory dynamics and solar 
+economics 
+expect downward pressure solar subsidies due 
+the ongoing decline solar capital costs the fact that 
+solar installations have been ahead targets many 
+countries and the developing realisation that subsidies are 
+often not needed support residential solar deployment 
+there are many free rider issues with solar across 
+europe this would also apply combined solar panel and 
+battery system the free rider issue arises result the 
+inequality the treatment grid fees charging utility 
+customers fully variable basis that per unit 
+power consumed solar customers can avoid paying the utility 
+for fixed grid costs when solar customers eliminate reduce 
+their net power demand from the grid the states 
+with net metering rules and brazil this approach raises the 
+retail price for standard non solar customers the same 
+free rider concept applies renewable subsidies per unit 
+power consumed billing approach implies that the greater 
+the renewable penetration the higher the retail price for 
+standard customers who must pay for the subsidy given that 
+solar moving from emerging technology one that 
+increasingly competitive believe likely that some 
+these charging systems are likely altered over time 
+germany has passed legislation increase costs for selfconsumption smes there are also discussions mimic 
+this austria exhibit shows the makeup the german 
+retail tariff clearly any changes the structure grid fees 
+the eeg subsidy taxes would have material impact 
+the commercial viability solar power across europe there 
+are various taxes included within the electricity bill 
+germany the electricity tax material element the bill 
+exhibit 
+the expect the very generous fit system come 
+under review well given the increasing focus solar 
+costs and the subsidy burden attached solar power 
+recently the government changed its proposed subsidies 
+for large scale solar however the remains very 
+supportive small and medium scale installations 
+spain new solar installations have been disincentivized 
+given the focus affordability subsidies are available 
+and tariff for backup peaje respaldo was imposed 
+self consumption this prevents the increase self 
+consumption from increase the deficit the system the 
+past years consumers tariffs spain have not been enough 
+cover the system costs generating the called annual 
+tariff deficit 
+portugal the government currently working changing 
+the authorization process for solar jornal negocios 
+june now the government imposed caps new 
+capacity for small producers that limited the potential the 
+market the government considering giving more flexibility 
+for self consumption which could improve the market outlook 
+however the potential for new capacity will depend the 
+framework approved the government the portuguese 
+electricity system also runs deficit not believe new 
+capacity will strongly incetivized 
+italy the solar fit has been stopped for new capacity 
+under existing tax legislation solar panels are considered 
+equivalent energy efficiency spending this implies that 
+consumer may subtract part the investment from its 
+taxable income over years equal installments for 
+investments made the initial investments can 
+subtracted maximum total investment 
+for investments carried out the initial 
+investments can subtracted maximum total 
+investment 
+german electricity retail tariff breakdown 
+grid utilization 
+tax portion 
+environmental subsidy 
+generation 
+source fraunhofer institute morgan stanley research 
+including subsidies generally feed tariffs fits 
+solar generally commercial almost all countries 
+europe although would argue that many these 
+subsidies are now becoming overly generous capital 
+costs have decreased and thus risk would seem 
+economically sensible for overall member state economies 
+and for energy affordability general solar subsidies are 
+reduced markedly even eliminated 
+believe important analyse the situation 
+unsubsidised basis because number countries are 
+already seeing solar capacity increase levels close 
+above the targets thus there risk that the 
+morgan stanley research 
+july 
+solar power energy storage 
+subsidies are changed and that the treatment grid charges 
+will change meaning that solar would compete only against 
+smaller part the retail bill should expect domestic 
+customers pursue solar unsubsidised basis 
+now commercial this depends how they finance the 
+upfront installation costs their attitude economic 
+returns and their personal preferences there some 
+evidence that adding solar could viewed longer term 
+investment low interest rate environment however there 
+little evidence unsubsidised solar appetite yet since 
+most installations still get some form support via fits 
+tax allowances etc 
+for example calculate that for household installations 
+typically around would make sense for germany 
+cancel its fit continuing the subsidy for technology 
+that now economic irrational and costly the nation the 
+industry should cognisant this and should work 
+minimise system costs 
+exhibit 
+german solar lcoe assuming cost 
+reduction per annum 
+kwh 
+lcoe 
+retail tariff 
+wholesale price 
+source morgan stanley research 
+exhibit 
+country country regulatory overview 
+comment 
+target capacity 
+france 
+feed tariff place for systems greater transparency tendering schemes 
+for larger installations france doubled its target for installations but did not meet 
+latest nreap targeted 
+given france close 
+reaching its target already pressure 
+being applied raise this target 
+germany 
+there relatively high visibility fit support into the future the new eeg reform comes into 
+force from august annual growth new solar capacity targeted the 
+existing breathing cap for excess capacity will tightened fit support will reduce more 
+sharply should the target exceeded there are restrictions utility scale installations 
+order limit market growth 
+current feed tariff system capped 
+italy 
+subsidy but domestic users can benefit from tax allowances installation constitutes 
+energy efficiency investment for investments made the investment 
+deductible equal annual installments 
+target 
+portugal 
+clear fit evolution for small scale producers the financial crisis limited market 
+growth 
+limit new installations 
+microproduction 
+and 
+miniproduction above 
+spain 
+there currently moratorium solar panel installations support for solar installations was 
+frozen the beginning the spanish electricity tariff deficit blockade future 
+developments 
+given the moratorium solar 
+support there target 
+government solar support flux the seeks support residential industrial and 
+commercial installations this comes the expense support via for large scale 
+installations over however without fit support most projects would not 
+economically viable 
+total target the 
+specific target for large scale solar 
+source morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+energy storage economics 
+exhibit 
+where does solar and solar storage give positive financial return today 
+france 
+germany 
+italy 
+portugal 
+spain 
+solar with subsidy 
+solar subsidy 
+solar storage with subsidy 
+solar storage subsidy 
+spain does not offer subsidies for new capacity there currently moratorium additional solar installations 
+note that italy does not offer fits only offering tax deductions for solar installations which consider economically similar subsidy 
+source morgan stanley research 
+exhibit 
+where will solar and solar storage give positive financial return 
+france 
+germany 
+italy 
+portugal 
+spain 
+solar with subsidy 
+solar subsidy 
+solar storage with subsidy 
+solar storage subsidy 
+spain does not offer subsidies for new capacity there currently moratorium additional solar installations 
+note that italy does not offer fits only offering tax deductions for solar installations which consider economically similar subsidy 
+source morgan stanley research 
+solar plus battery storage commercially viable 
+battery storage has been the holy grail the power 
+generation sector for many years now obvious that this 
+potentially the cusp becoming commercially viable 
+technology assuming that various factors can drive storage 
+system costs lower 
+germany there have been around systems installed 
+subsidised not only with fit but with discrete battery 
+subsidy addition albeit this limited scale exhibit 
+shows currently calculate that storage uneconomic 
+the irr slightly negative 
+exhibits and shows variety scenarios for the 
+commercial viability solar including and excluding 
+battery storage this shows that for solar widely 
+commercial the markets where most the money 
+versus retail tariffs are germany italy and the 
+what return are households investors seeking our 
+view the answer probably quite low irr given prevailing 
+interest rates may that any irr above zero 
+acceptable could also that some financing solutions 
+become available order reduce the upfront capital costs 
+present fitting typical solar battery home system 
+solar panels with battery costs around 
+material outlay for many families however our base case 
+assumes that this declines based panel 
+and battery just which much more 
+manageable 
+exhibit 
+project positive irrs for solar storage 
+european households without any 
+government subsidy 
+france 
+germany 
+italy 
+portugal 
+spain 
+bear 
+base 
+bull 
+not meaningful 
+source morgan stanley research 
+but can solar and battery storage commercially viable 
+solution europe the answer very much depends how 
+much the battery and associated system costs decline given 
+our base case assumption that installed solar and storage 
+costs will decline materially believe that this can 
+commercially viable solution some european countries 
+although the irr may quite low some cases exhibit 
+shows some conclusions the commercial viability solar 
+and battery storage systems across europe our base 
+case which incidentally assumes reduction storage 
+costs battery storage would economic germany italy 
+portugal and spain even without subsidy 
+morgan stanley research 
+july 
+solar power energy storage 
+recent german solar slowdown 
+morgan stanley blue paper 
+the rate solar additions germany falling the rate 
+growth slowed materially and the first five months 
+have been even worse for larger installations the changes 
+legislation coming this summer could explain some the 
+slowdown although the past this has normally caused rush 
+install before the new legislation takes effect however for 
+smaller residential installations the changes legislation are not 
+nearly severe irrs remain healthy for residential installations 
+what can explain the slowdown this just blip 
+sign market saturation 
+aim having renewables account for energy 
+total production from solar was 
+the new laws reaffirm the previous installation corridor 
+installations above this target cause sharper falls 
+government subsidies 
+the new legislation comes into effect august 
+one might expect surge installations before that date 
+exhibit demonstrates that over the past few years the 
+expectation decline the fit rate has caused spike 
+installations but surprisingly such spike seems evident 
+yet 
+exhibit 
+recent german trends just january may 
+recent solar additions have disappointed exhibits 
+and show saw only additions 
+and total 
+germany solar capacity stood april are 
+the way the long term national cap capacity 
+additions have been surprisingly low and the rate 
+slowdown installations clear both for and for the last 
+year 
+new regulations take effect later but these 
+not explain the german residential slowdown 
+july the german coalition passed bill that amends 
+the renewable energy sources act eeg under the terms 
+the new law the self consumption levy introduced but 
+does not apply household installations below 
+expect these slow the pace renewable additions has 
+been evident date 
+quarterly solar additions over the past four years 
+source bnetza morgan stanley research 
+exhibit 
+the first quarter has seen disappointing capacity 
+additions 
+additions 
+jan 
+feb 
+mar 
+apr 
+may 
+average 
+average 
+source bnetza morgan stanley research 
+exhibit 
+year year comparison shows persistent 
+slowdown installations 
+capacity additions 
+yoy change 
+the bill introduces levy self consumption from new 
+renewable plants over this will impact the economics 
+many larger solar installations the current eeg 
+surcharge stands mwh the levy aimed 
+slowing down installations within the sme market which took 
+solar with gusto between and the regulations 
+also seek limit utility scale solar installations and 
+above 
+march 
+april 
+may 
+june 
+july 
+august 
+september 
+october 
+the revised eeg legislation does not explain the slowdown 
+residential installations the self consumption changes 
+not impact these smaller sites the levy itself reason 
+for any slowdown the residential market the 
+legislation set come into effect august with the overall 
+november 
+december 
+january 
+february 
+march 
+source bnetza morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+exhibit 
+feed 
+ntariffs 
+stan 
+rhs 
+continue 
+decline 
+monthly additions slow lhs 
+jan 
+economics explain the residential slowdown 
+think this not the case 
+the cost installed pvs fell sharply the german feed 
+tariff fit was repeatedly cut and eventually placed 
+degression schedule see exhibits and our view 
+solar clearly commercially attractive versus high german 
+retail tariffs partly inflated due the high subsidies that are 
+collected from retail consumers yet even after the cuts the 
+fit lower costs mean that german household installing 
+solar panels june rewarded with irr 
+post tax unlevered this still attractive return and 
+higher than many alternatives low interest rate 
+environment 
+jan 
+jan 
+jan 
+jan 
+it not explained subsidy changes economics 
+due market saturation just blip 
+its still very early days and possible that the slowdown 
+the first five months just temporary blip but this 
+not the case cannot explain the slowdown the eeg 
+changes residential installations are not really impacted 
+these the economics solar irrs remain 
+healthy what else could explain this one option that 
+the market reaching point saturation physically 
+would argue that there still scope for huge amount 
+further residential solar installations germany some 
+rooftops are suitable for solar and thus our base 
+case that the market will restart and that will see more 
+rooftop solar than suggests 
+source bnetza morgan stanley research 
+exhibit 
+the cost installed pvs continues fall 
+price index based installation size 
+source morgan stanley research 
+exhibit 
+but irrs are more attractive today why the 
+residential slowdown 
+but counter intuitively our experience has seen that whilst 
+households are aware fits they don tend calculate 
+their own projected irrs focussing rather payback 
+periods and affordability one possible explanation then 
+that the fall residential demand more likely result 
+market saturation among consumers interested installing 
+solar other words perhaps the majority those 
+households that were interested having solar had the 
+financial wherewithal afford and have suitable rooftop 
+location have already installed solar panels this difficult 
+thesis prove but unless the rate residential solar 
+installations picks may that correct also 
+possible that households have witnessed the decline cash 
+fits and subsequently decided against solar purchases 
+conceivable that only sharply falling costs 
+above average electricity tariffs increases which the 
+german government keen avoid would stimulate 
+residential purchases again 
+june 
+historical irrs assume actual observed electricity tariff increases over the period 
+source morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+ownership and economics power that has been 
+stored and available exported demand 
+implications for power markets and stocks 
+morgan stanley blue paper 
+solar additions with without storage are likely continue 
+high rate further depressing power markets however 
+see further slowdown solar germany this would 
+positive surprise for utilities our view primarily benefiting 
+rwe there are also significant upcoming power plant 
+retirements which will improve market fundamentals and 
+improve utility margins which partially offsets the growth 
+solar power these retirements which should help return 
+oversupplied systems back balance are happening 
+different speeds across the european power markets for 
+example germany and benelux there will 
+plant closures the coming years nevertheless seems 
+obvious that all else equal the higher the rate solar 
+additions the longer will take see european power 
+markets recover 
+solar and battery storage could become solution 
+meeting peak demand this would the solution the 
+power generation holy grail renewables are nature 
+intermittent and produce substantially less than their 
+nameplate capacity such they are problematic for grid 
+operators and consumers however with the right smart grid 
+technology smart meters software regulation and 
+agreements between customers and tsos solar and energy 
+storage could used help balance the grid system not 
+just generation units other words they could act 
+peak shaving and supply demand management devices 
+they can provide power that has been stored back onto the 
+grid this negative demand sometimes called negawatts 
+this could mean that rather than simply continuing build 
+large centralized power capacity cover for peaks 
+consumption and troughs intermittent production 
+transmission system operators tsos gradually would 
+able call consumers reduce consumption through 
+direct pricing signals with the intermediation 
+aggregators 
+solar and battery storage could have negative impacts 
+utilities but many technical issues obstacles would need 
+overcome for solar power and energy storage 
+truly disruptive utilities customers would need 
+capable and motivated fully disconnect from the grid 
+for this feasible for the residential market think 
+number complex system architecture changes need fall 
+into place 
+number regulatory developments including the 
+legal framework for contracts the role and power 
+tsos which can vary country country and the 
+increased availability battery storage produced 
+big enough scale justify the efforts the regulatory 
+issues above 
+standardization smart meter devices and 
+applications partly dependent smart meter rollout 
+and other issues 
+integration software customer side devices that 
+allows tsos govern interruptibility the 
+switching off household freezers electric 
+heating and air conditioning for short periods time 
+according the needs the greater grid 
+note that our models this report are based the 
+principle that the solar economics are driven avoiding the 
+cost retail electricity focus the residential side 
+the market selling power back the tso the wholesale 
+price mwh versus retail price mwh germany 
+for example would thus detract materially from the economics 
+for the consumer and paying price high the retail 
+price extract stored electricity would very expensive for 
+the tso relative current balancing power 
+regulation going critical for many reasons and 
+the devil will firmly the details the short term 
+expect material solar additions steep decline storage 
+costs and therefore increasing numbers solar battery 
+additions this will focus the debate how grid fees and 
+other parts the retail tariff should treated utilities should 
+heavily involved this debate but even changing the 
+treatment grid fees unlikely reduce material additions 
+residential solar and battery storage assuming our forecast 
+cost reductions are correct 
+the industry would well advised stop investing 
+unsubsidised thermal generation our view the last 
+decade has shown that very hard accurately predict the 
+economics thermal generation the relationship between 
+gas coal and costs the supply demand balance the 
+renewable capacity additions all have been underestimated 
+importance the european utilities 
+governments whether accident design have been only 
+too willing let thermal generation economics suffer the 
+expense other areas like small scale renewables the 
+reduction costs solar and the potential competitiveness 
+solar and battery storage make the debate even more 
+complex 
+morgan stanley research 
+july 
+solar power energy storage 
+but one gets what one pays for there good chance 
+that 
+org 
+generation 
+cannot 
+eexist 
+pap 
+thermal 
+profitably 
+without 
+capacity market controls solar the governments 
+not impose these utilities should not invest and they 
+should make this clear soon recent data from the iea 
+suggests that europe will still require new thermal 
+capacity and nuclear capacity over the period 
+costing some seems unlikely that this will 
+forthcoming 
+the logical conclusion should well functioning capacity 
+market alongside energy market and large renewable 
+fleet that operates basically must run the economics 
+storage even our low cost estimates still mean very 
+expensive self sufficient rely negawatts for 
+system security our view thermal still critical but 
+cannot and should not viewed free resource 
+more aggressive carbon reduction goals could further 
+encourage solar development europe comfortably 
+course meet its target reducing greenhouse gas 
+ghg emissions compared levels 
+the had achieved reductions emissions almost 
+eight years ahead schedule 
+projections from member states indicate that total 
+emissions will further decrease between and 
+emissions are expected reach level which 
+below levels incl international aviation implementing 
+the additional measures member states expected 
+achieve reduction below levels given 
+the ease with which the set reach its goal the 
+has placed growing importance and focus the 
+negotiations for the targets the framework 
+for reduction levels leaders agreed the 
+european council meeting march take final 
+decision the framework october the latest 
+assuming existing national measures continue 
+there would only average reduction emissions 
+per year between and would 
+only see reduction levels compared the 
+target even with the implementation additional 
+measures planning stages the eea estimates that ghg 
+emissions would decrease this still significant 
+shortfall the target clear that there still lot 
+work order reach the goal this point 
+greater clarity the framework would extremely 
+welcome 
+and potential key surprise the logical extension this 
+could much bigger focus cash flow the generation 
+businesses the utilities the cash flow from the large 
+integrated gencos much more attractive than the 
+accounting earnings thus theorise that one more 
+integrated operators could decide take action and 
+externalise its depressed generation business highlight the 
+value case this could take the following form 
+companies could start show generation cash 
+flows separately highlight the value case our 
+view most generation portfolios are undervalued one 
+assumes the businesses are put run off mode and 
+with support and low power prices not see any 
+other mode that would make sense 
+eventually one integrated utility hypothetically 
+could take this step further and split its generation 
+unit and possibly associated decommissioning liabilities 
+into separate business this would make further 
+closures politically easier implement our view 
+some the assets would now visibly loss making 
+further impairments could follow suit rebasing 
+more realistic level and enhancing earnings other 
+developments could include announcement that staff 
+incentives would changed materially and the 
+company would likely focus almost solely reducing 
+cash costs minimising maintenance costs and beating 
+forecast decommissioning costs this would highlight that 
+the internally generated cfs would sufficient 
+deal with the decommissioning liabilities and that 
+after stripping out the generation business and the non 
+cash interest charge the provision the rump earnings 
+power would much higher than expected this would 
+crystallise material value and could attract interest from 
+financial buyers minority stake note that are 
+speaking theoretically and have knowledge any 
+such action under consideration 
+another potential scenario that effort hurry 
+change policy capacity markets slow change two 
+large utilities take matters into their own hands combine their 
+generation fleets and announce material further 
+impairment charges which would serve boost accounting 
+earnings the generation business and raft closures 
+thermal capacity and some early nuclear closures 
+germany the staff incentives would also change materially 
+and number minority financial investors could conceivably 
+attracted take stakes result the associated stocks 
+could expected rate the value the nongeneration assets would gain more visibility 
+morgan stanley research 
+july 
+solar power energy storage 
+united states 
+morgan stanley blue paper 
+all most their power bill states using 
+distributed generation including the part associated with 
+utilities investments providing reliable grid this net 
+metering approach will our view likely change over 
+time our base case with itc and customers 
+paying typical customer fixed grid charge 
+see solar market potential 
+stephen byrd 
+timothy radcliff 
+very strong growth outlook even 
+subsidies likely fall later the decade 
+key conclusions 
+the united states comprises our global forecast growth per year 
+driven supportive net metering rules states 
+strong solar conditions many states and further 
+solar cost reductions looking forward with 
+lower solar capital costs calculate that solar 
+would competitive many states even without 
+subsidies 
+the long term addressable solar market the 
+larger than appreciated our base case with only 
+federal investment tax credit itc and solar 
+customers paying typical fixed grid charge 
+see commercial and residential solar market 
+our bull case itc and fixed grid 
+charge implies our bear case itc and 
+fixed grid charge less than 
+the addressable household market for solar panels 
+quite dependent two key factors net metering 
+rules and the solar investment tax credit itc 
+currently distributed generation customers can eliminate 
+projected decrease costs batteries and 
+distributed generation could significantly disrupt the 
+relationship between utilities and their customers 
+states with high utility rates and favorable sun 
+conditions over time many customers could 
+partially completely eliminate their usage the power 
+grid see the greatest potential for such disruption 
+the west southwest and mid atlantic however utilities 
+some regions could adapt distributed generation 
+minimize the impact shareholders 
+potentially advantaged based our analysis solar 
+integrators that provide financing design and 
+construction solar projects such sunedison 
+sune nrg energy nrg and solarcity scty and 
+tesla tsla given its highly competitive energy storage 
+product potentially disadvantaged pinnacle west 
+pnw result solar growth and the extent 
+energy storage costs achieve our projected level all 
+california utilities sre pcg and eix and hawaiian 
+electric 
+exhibit 
+forecast 
+annual installations 
+distributed generation 
+utility scale 
+source seia morgan stanley research estimates 
+morgan stanley research 
+july 
+solar power energy storage 
+market size 
+morgan stanley blue paper 
+current installed solar capacity 
+the market has grown steadily from less than 
+more than 
+exhibit 
+solar capacity has grown steadily 
+installations 
+states although california still leads this segment wide 
+margin other states such new jersey arizona and 
+massachusetts have all installed considerable capacity 
+driven state level tax advantages and availability 
+renewable energy credits that can sold industry for 
+additional income although hawaii small absolute 
+capacity notable the sense that the large proportions 
+customers within certain service territories for instance 
+hawaiian electric customers have installed solar systems 
+given highly favorable economics for solar power hawaii 
+exhibit 
+california dominated installations 
+residential 
+commercial 
+utility scale 
+source seia morgan stanley research 
+residential 
+the solar market has historically been driven the utilityscale segment driven large part state level renewable 
+portfolio standards rps that incentivize renewable buildout 
+through above market power pricing from qualifying 
+generation technologies california has been the most active 
+satisfying its renewable portfolios standard through utilityscale solar buildout and all three major utilities have reached 
+renewable penetration given the success the rps 
+program over the last years and limited need for incremental 
+renewable and particularly solar capacity believe that 
+utility scale buildout will slow significantly following expiration 
+the federal investment tax credit that currently supports 
+economics these projects 
+the remainder the market the distributed generation 
+segment comprised residential and commercial 
+applications and has been driven greater number 
+commercial 
+utility 
+installations 
+source seia morgan stanley research 
+solar penetration hawaii 
+hawaii now has almost rooftop solar penetration versus 
+california driven favorable solar conditions high 
+per unit utility bill kwh residential rate versus 
+california and many southern states and 
+significant state subsidy for solar addition the federal 
+solar itc solar rooftop volumes increased 
+relative 
+morgan stanley research 
+july 
+solar power energy storage 
+regulatory dynamics and solar economics 
+morgan stanley blue paper 
+net metering which permitted states the largest 
+exception this being texas involves utility customers who 
+self generate sufficient power meet their own needs but 
+the power generated not coincident with the hourly profile 
+their power demand for example net metered solar 
+customer would over produce power during the day sell the 
+excess power back the grid and buy power from the grid 
+night while the net power consumption from the grid net 
+metering customers depend the grid manage the 
+volatile output their self generated power provide power 
+whenever customers need and ultimately provide 
+reliable round the clock power 
+the following table shows the high degree sensitivity that 
+the solar market opportunity has net metering rules 
+exhibit 
+solar market potential the very large 
+depending grid charges 
+base 
+bull 
+itc 
+fixed charge bill 
+residential market size 
+total 
+commercial market size 
+total solar market size 
+total 
+total storage market size gwh 
+bear 
+source morgan stanley research 
+exhibit 
+states currently allow net metering 
+there may tipping point that causes customers 
+seek off grid approach higher fixed charges 
+distributed generation customers are likely drive more 
+battery purchases and exits from the grid the more 
+customers move solar the remaining utility customer bill 
+will rise creating even further headroom for off grid 
+approach for every kwh reduction the cost lithiumion batteries estimate the all cost power 
+customers falls about about the residential 
+customer price for grid charges 
+solar economics reaching highly competitive levels 
+source morgan stanley research 
+utilities succeed altering the regulatory construct such 
+that solar customers are required pay all large 
+percentage the fixed grid fees the impacts solar 
+penetration would significant ultimately believe that 
+state regulators will likely impose some degree fixed charge 
+solar customers because believe there will support 
+for the logic that solar customers connected the grid 
+derive significant reliability benefit from their connection 
+the grid our commercial solar market potential especially 
+dependent the fixed grid charge that commercial 
+customers using solar power must pay this the case 
+because many states the power only rate the portion 
+associated with the cost large power plants produce 
+power for commercial customers lower than for residential 
+customers therefore the fixed grid charge that 
+commercial customer must pay were not likely 
+our view solar power would need compete solely 
+against the relatively low rate charged for power production 
+from large power plants connected the grid 
+our work covering the solar sector have witnessed 
+significant reductions the installed cost solar panels 
+well improved power output efficiency gains much but not 
+all future installed cost reductions will come from improved 
+installation economics driven the scale and experience 
+large solar service providers such solarcity scty 
+project that the national average installed cost watt 
+for commercial projects will watt falling 
+watt 
+although the solar market has historically been dominated 
+the utility scale market these projects have been profitable 
+primarily due above market power prices associated with 
+renewable projects satisfy state level renewable portfolio 
+standards key states most particularly california reach 
+interim targets pricing support has declined rapidly along 
+with corresponding project returns 
+the other hand distributed generation projects compete 
+against relatively high retail pricing residential and 
+commercial customers distributed markets cost declines 
+have rendered profitable substantial portions the market 
+with the help the investment tax credit and expect 
+morgan stanley research 
+july 
+solar power energy storage 
+further cost declines the coming years improve 
+economics 
+where 
+bthe 
+ufederal 
+pap 
+credit 
+point 
+tax 
+unnecessary generate sufficiently attractive returns 
+incentivize investment 
+exhibit 
+california expect residential solar 
+competitive with the grid even without itc and 
+with fixed grid fees 
+kwh 
+recent state net metering regulatory activity 
+two recent state regulatory developments are worth studying 
+given their relevance how the debate around net metering 
+may play out the state kevel california the legislature 
+passed assembly bill october which 
+imposes fixed charge month the typical 
+monthly bill for fixed grid charges opposed the portion 
+the bill for the production power all residential 
+customers regardless net amount power usage 
+also authorizes the california utility regulator flatten the 
+tiered rate structure high users power pay more per unit 
+power affording improved economics for solar projects that 
+reduce the grid power usage such customers and 
+determine the fees that should charged net metering 
+customers 
+system price 
+itc scenarios 
+fixed charge 
+source morgan stanley research 
+exhibit 
+however midwestern states such illinois the 
+outlook for solar much more challenging 
+kwh 
+system price 
+itc scenarios 
+fixed charge 
+source morgan stanley research 
+arizona the issue net metering was the subject 
+intense debate large arizona utility arizona public 
+service aps its parent company pnw proposed that 
+distributed generation primarily solar customers pay 
+monthly fee for grid maintenance costs highlighted the 
+utility spokesperson his about fairness it about 
+addressing the cost shift that clearly exists the current net 
+metering structure creates cost shift that unfairly burdens 
+non solar customers should fix that problem now before 
+gets worse aps proposed charging fixed monthly fee 
+for customers using distributed generation ultimately 
+the arizona utility regulator approved monthly fee 
+month far below what was requested aps 
+month typical arizona customer monthly bill 
+for fixed grid charges not believe the fixed grid charge 
+arizona will materially slow down the pace rooftop solar 
+development 
+view pinnacle west pnw exposed margin 
+reductions from solar demand unlike california and 
+hawaii where utilities are fully decoupled and are made 
+whole from lost power demand from solar customers 
+pinnacle west does not have perfect hedge against lost 
+demand will continue monitor solar penetration levels 
+the state arizona determine impacts pnw 
+earnings 
+morgan stanley research 
+july 
+solar power energy storage 
+storage costs dropping levels that 
+could grid competitive 
+morgan stanley blue paper 
+historically power storage costs have been too high 
+realistically allow customers disconnect from the utility 
+power grid however given the prospect reduction 
+battery production costs per kilowatt hour 
+storage capacity and perhaps lower few years ago 
+typically battery would cost kwh see the potential 
+for customers decide move off grid for example 
+california the typical annual residential cost for fixed utility 
+grid costs was california rates are projected 
+increase materially likely through our view 
+given that most the rate increases our view relate 
+wires costs rather than the cost power production from 
+large power plants believe the grid charge california 
+could grow faster than grid charges grew 
+annually the typical fixed grid cost for california 
+utility customer would 
+given hawaii high utility tariff rate and strong solar 
+conditions the state may serve early test the viability 
+customers using combination solar power and energy 
+storage fully off grid 
+exhibit 
+hawaii solar very competitive 
+kwh 
+system price 
+itc scenarios 
+fixed charge 
+opposite exposure the fixed fee that solar customers must 
+pay however believe the long term both products will 
+experience significant growth solar penetration rises the 
+rate headroom for tesla batteries will increase 
+mentioned the tipping point could come two dynamics 
+come into play increasing rates paid utility customers and 
+the potential that utilities may encounter operational 
+challenges interconnecting large amounts renewables 
+see our discussion hawaii for further information for 
+example california utility bills increase per year 
+solar penetration reaches and fixed grid fees paid 
+solar customers the typical customer 
+transmission distribution bill residential utility customer 
+solar customer bill would kwh whereas 
+solar storage off grid approach under our assumptions would 
+result total costs per kwh below this level 
+the scale tesla battery production even for its own 
+use auto manufacturer thrusts the company into 
+key player status for grid storage there are currently 
+around lithium ion battery deployments with 
+capacity the with the largest installation being 
+tesla current model production assuming units per 
+day with average battery capacity 
+model delivered with kwh packs with the 
+equivalent hours battery capacity per day 
+that rate our calculations tesla model production could 
+produce combined vehicle population with many 
+battery storage for the grid exists today 
+including all chemistries 
+analysis tesla growing car population offers 
+valuable perspective its position energy storage 
+estimate tesla million units car population 
+park will have energy storage capacity 
+globally equal today production 
+capacity and nearly larger than the entirety grid 
+storage that exists today these figures excludes any 
+recycled life battery after use 
+source morgan stanley research analysis does not include financial incentives given 
+solar the state hawaii 
+the higher the fixed charge required distributed 
+generation primarily solar customers the greater the 
+potential that customers purchase batteries large 
+scale and completely off the grid such outcome 
+would bullish for tesla whose batteries believe will 
+the most competitive energy storage solution tesla 
+batteries and the solar leasing companies are for period 
+time somewhat diversifying products the sense their 
+tesla model kwh can store enough energy 
+power the average household for days 
+estimate tesla unit fleet will 
+contain the stored energy capacity provide full hour 
+electricity households 
+estimate tesla unit fleet will 
+contain the stored energy capacity provide hour 
+electricity households 
+morgan stanley research 
+july 
+solar power energy storage 
+japan 
+result solar purchase prices set high levels and 
+limits the amount solar power that electric power 
+companies can accept due shortages excess grid 
+capacity 
+yuka matayoshi 
+solar power highly economic under 
+current feed tariff scheme but 
+downside risk exists 
+key conclusions 
+japan comprises our global 
+forecast growth per year 
+based our base case scenario driven 
+supportive feed tariff fit and improving solar 
+economics most this growth will larger scale nonresidential solar projects driven more favorable 
+economics for these larger projects 
+exhibit 
+japan installed solar capacity based 
+our bear base bull scenarios 
+the path grid parity for solar japan likely 
+long one possible that solar cost declines will 
+slower than fit price declines resulting 
+slowdown japanese demand for solar power 
+further solar panel and installation costs reductions will 
+our view bring the cost power produced from solar 
+panels cost closer grid parity however assuming that 
+electric power operators maintain their current rates the 
+prospect solar power reaching grid parity appears 
+not something achievable the near mediumterm given our view that cost declines will begin slow 
+the future the following chart shows scenario 
+which solar cost declines are slower than the reduction 
+the fit eventually leading the potential that solar 
+installations would uneconomic 
+exhibit 
+non household solar solar generation cost 
+purchased price under the fit and epcos retail 
+tariff for commercial industrial customers 
+non household 
+bear 
+non household 
+base 
+bull 
+household 
+morgan stanley research japan utility team estimate 
+source meti morgan stanley research 
+while renewable additions have been consistently 
+strong since online per month 
+there risk that the pending review the fit 
+the japanese government could result 
+significant reduction the solar fit rate which 
+would reduce solar economics and volumes our 
+view june the japanese ministry economy 
+trade and industry meti started consider review 
+the current fit scheme which guarantees high solar 
+power generating profitability the background are 
+factors including growing resistance from the 
+consumer side over increased surcharge burdens 
+criticism high solar power operator profitability 
+lcoe 
+fixed selling price under fit 
+retail tariff commercial 
+retail tariff industrial 
+source meti morgan stanley research 
+energy storage unlikely economic japan 
+when coupled with solar power because solar power 
+economics are challenging standalone basis 
+and grid costs are not sufficiently high offer 
+energy storage the potential allow customers 
+save money moving off grid this contrast 
+portions the and europe which solar economics 
+are more promising and the utility bill relatively high 
+allowing customers the potential avoid utility fees 
+through combined solar energy storage product 
+morgan stanley research 
+july 
+solar power energy storage 
+market size 
+japanese solar cell panel volumes 
+renewable energy capacity has continued increase rapidly 
+since the adoption renewable energy fit july 
+there has been marked increase new non residential 
+solar capacity more since added solar 
+volumes per month has stayed the range 
+domestic cell module shipments double japan 
+domestic cell module shipment volume was 
+according jpea japan photovoltaic energy association 
+data japanese companies top market share rankings 
+total shipment basis with sharp kyocera 
+toshiba panasonic and mitsubishi electric 
+production basis however the domestic production ratio 
+down yoy with overseas production and oem 
+procurement rising total shipments rose fold yoy 
+buoyed the fit scheme and run residential 
+demand ahead japan consumption tax hike and yet all 
+companies expect pullback shipments further 
+companies that are unable offset the reduction purchase 
+prices with conversion efficiency gains are likely forced 
+curtail the size their operations 
+exhibit 
+monthly renewable capacity additions sources 
+jul 
+aug 
+sep 
+oct 
+nov 
+dec 
+jan 
+feb 
+mar 
+apr 
+may 
+jun 
+jul 
+aug 
+sep 
+oct 
+nov 
+dec 
+jan 
+feb 
+mar 
+solar household 
+solar non household 
+wind 
+biomass 
+note the data dec are invalid due definition change 
+source meti morgan stanley research 
+expect solar power capacity mainly nonresidential continue increase 
+the amount solar power capacity certified for fixed price 
+purchase end march was 
+household non household only has already entered 
+service assuming steady entry into operation certified 
+projects going forward there should increase 
+capacity household non household and 
+calculate cumulative solar power capacity deployed 
+household non household 
+sharp covered masahiro ono demand 
+pullback and reduction fit purchase prices squeeze 
+profitability from sharp has the leading share 
+japan market and had solar cell sales volume 
+yoy and sales yoy while 
+the business produced strong opm sharp guides for 
+sales volume yoy and sales 
+yoy while think sharp guidance conservative 
+and expect the business stay the black expect 
+see ongoing trend toward low module prices assuming 
+continual reductions fit purchase prices given the 
+inevitable need increase oem procurement this 
+business profitability looks set remain under pressure 
+exhibit 
+sharp sales operating profit and energy 
+production 
+sales 
+exhibit 
+installed and approved solar capacity 
+energy production 
+before fit 
+solar household 
+incl not 
+operated but 
+approved 
+operation 
+end 
+capacity 
+installed 
+end 
+end 
+source company data morgan stanley research 
+after fit implemented 
+solar non household 
+note projects approved but not operation may include projects for which operation plans 
+could put hold source meti morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+regulatory dynamics and solar 
+economics 
+kyocera covered shoji sato shipment 
+volume keep rising but expect have been the 
+peak for sales and profits prices fall kyocera 
+japan after sharp terms solar panel related sales the 
+firm solar business sales and profits jumped with 
+the start fit july and attribute the 
+record solar sales marked contributions from fit 
+for the full month period however fit purchase prices 
+excluding the consumption tax have declined from 
+and expect weaker 
+prices and tighter price competition triggered the growing 
+entrance overseas competitors into the japanese market 
+send both sales and profits downtrend also 
+onward too foresee ongoing declines sales and 
+profits assuming continued slide fit purchase prices 
+expect price competition with overseas rivals stiffen 
+the japanese market 
+fit scheme which favors solar power behind the 
+increase capacity 
+the advantages created the various conditions laid down 
+the fit scheme are behind the remarkably strong increase 
+solar power capacity deployed especially non household 
+exihibit shows the purchase prices purchase periods and 
+purchase price calculation assumptions established meti 
+project risk for solar power generation relatively low due 
+the absence mandated environmental assessment but 
+the project irr assumption when calculating the purchase 
+price high before tax unleveraged and the fixedprice purchase period long years partly due 
+government efforts aiming cultivate domestic solar powerrelated industry and accelerate the ramp period for 
+renewable energy the scheme gives prominent advantages 
+large scale mega solar solar power operators 
+exhibit 
+kyocera sales and energy production 
+sales 
+energy production 
+purchase prices falling year after year but 
+the purchase price and purchase period are revised every 
+year based the recommendation meti procurement 
+price setting committee and set the meti minister the 
+committee gathers data the installed system costs solar 
+power operators that have begun operations under the fit 
+scheme and has the purchase prices applied 
+operators entering the scheme from the following fiscal year 
+reflect the effect decreases actual costs exhibit 
+shows purchase prices from through since the 
+start the fit scheme solar power purchases prices have 
+fallen average per year for residential use and 
+average per year for non residential use 
+source company data morgan stanley research 
+exhibit 
+purchase prices purchase periods and purchase price calculation assumptions source 
+fit scheme 
+solar 
+wind 
+above below above below 
+purchase price yen kwh 
+capital cost yen 
+system cost yen 
+geothermal 
+offshore 
+above 
+hydro 
+below 
+tax 
+tax 
+tax 
+tax 
+tax 
+tax 
+tax 
+tax 
+tax 
+land development cost yen 
+connection cost yen 
+operating maintenance cost yen yea 
+intensity 
+irr before tax 
+purchase period year 
+source meti morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+purchase price calculation method still assumes project 
+irr 
+however the three years since the adoption 
+the renewable energy feed tariff scheme fit july 
+the policy has remained set purchases prices with 
+particular consideration given operator profits project irr 
+assumptions for residential solar power and for nonresidential solar power used for calculating purchase prices 
+have not changed and the situation still allows for relatively 
+high profitability despite low project risk 
+exhibit 
+purchased prices sources start years 
+purchased price yen kwh 
+duration 
+cagr 
+solar non household 
+solar household 
+wind 
+off shore wind 
+geothermal 
+years 
+equity irr for some leveraged mega solar projects 
+irr exhibit project irr which calculates the 
+investment effect entire projects mega solar projects with 
+output over generally use project financing and are 
+looking for leverage effect cases with about 
+leverage based bank loans with fixed interest rates about 
+lower than project irr calculate equity irr 
+over 
+major risk solar power becoming less economic 
+japan from 
+believe there risk non residential solar power 
+generation becoming sharply less economic for projects 
+entering operation from that because drastic 
+review the current fit scheme likely cause purchases 
+prices fall faster than system cost 
+exhibit 
+non household solar solar generation cost 
+purchased price under the fit and epcos retail 
+tariff for commercial industrial customers 
+source meti morgan stanley research 
+project irr over some large scale projects 
+march meti disclosed anticipated pretax irr 
+recovered operators starting operations octoberdecember according these materials the majority 
+large scale solar power projects with output over 
+known mega solar had anticipated irr over 
+among which projects such those using idle land 
+were the high anticipated irr range exhibit 
+lcoe 
+retail tariff commercial 
+exhibit 
+reported project irrs above 
+fixed selling price under fit 
+retail tariff industrial 
+source meti morgan stanley research 
+projects 
+percentage projects with 
+irr above 
+percentage 
+projects with irr 
+above 
+exhibit 
+household solar solar generation cost 
+purchased price under the fit and epco retail 
+tariff for commercial industrial customers 
+project irr 
+source meti morgan stanley research 
+lcoe 
+fixed selling price under fit 
+retail tariff 
+source meti morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+drastic review fit scheme likely 
+june meti started consider review the current 
+fit scheme which guarantees high solar power generating 
+profitability the background are factors including 
+growing resistance from the consumer side over increased 
+surcharge burdens criticism high solar power operator 
+profitability result solar purchase prices set high 
+levels and limits the amount solar power that electric 
+power companies can accept due shortages excess grid 
+capacity 
+surcharge burdens may beyond what acceptable 
+over the next years 
+consumers shoulder the expenses which electric power 
+operators are required procure through the renewable 
+energy feed tariff scheme the form surcharges 
+proportional electric power usage portion electricity 
+charges exhibit shows surcharge levels the amount 
+shouldered monthly standard household the amount 
+was month increase the total 
+amount paid for electricity monthly and month 
+increase once projects become part the 
+purchase scheme the same purchase price applied for years and thus the structure such that the newly 
+purchased portion the new fiscal year added the 
+surcharge top the portion purchased under the purchase 
+scheme until the previous fiscal year given the current 
+pace expansion capacity certified under the current 
+purchase scheme calculate increase the surcharge 
+burden for standard household month 
+increase the total amount paid for electricity monthly 
+soon there starting the risk going beyond 
+the range what acceptable consumer groups 
+exhibit 
+monthly surcharge for standard household 
+yen month 
+new additions 
+new additions 
+our estimate 
+uncertain whether profitability can guaranteed 
+lower purchases prices lower volume 
+this point hard make projections because 
+unclear where upper limits might set how far prices might 
+lowered how far project irr used for calculating purchase 
+prices might brought down cannot deny the possibility 
+large scale solar project development plans being toned 
+down due the difficulty securing the kind profitability 
+seen until now 
+road grid parity still long 
+after major review the fit scheme procurement cost 
+reductions and such would lead solar power cost closer 
+grid parity purchase prices from electric power companies 
+making more important secure profitability mainly from inhouse consumption rather than power sales however 
+assuming that electric power operators maintain their current 
+rates reaching grid parity does not look all easy 
+expect the procurement cost reduction curve gentle 
+the current rate system cost decline were 
+continue calculate that residential solar power 
+cost would approach grid parity but 
+new additions 
+new additions 
+adoption controls total purchase volume being 
+considered 
+meti has indicated its intention complete review the 
+renewable energy feed tariff scheme favoring solar power 
+around end the main revisions proposed date 
+include the adoption controls total volume setting 
+upper limits volume purchased fixed prices the 
+obligation purchase the portion above the upper limited 
+would eliminated and buying and selling freelydetermined prices would permitted and changes the 
+frequency feed tariff reviews the existing review 
+frequency once per year this could changed multiple 
+times such germany where there monthly review 
+the changes are likely reduce the incentives for new solar 
+power projects that guarantee high profitability 
+solar power generation system cost have been falling 
+annual rate since the launch the fit scheme 
+due the effect solar module volume production and 
+intensified price competition along with the rise chinese 
+makers exhibit costs were continue decline 
+annual rate about calculate that solar power 
+generating cost could reach the level residential electrical 
+power rates grid parity around however the 
+system price decline curve declining slower rate 
+source meti morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+exhibit 
+cost installed pvs fall but rate decrease 
+become moderate 
+yen 
+household 
+non household 
+non household 
+non household 
+non household 
+system costs may decline slower rate 
+believe the cost decline curve for solar power generating 
+systems likely moderate over time volume production 
+effects surface and next generation module technology 
+developed expect continued degree cost reduction 
+effects for modules but there are likely limits how 
+far costs can fall for braces and other peripheral equipment 
+and for installation work which estimate account for about 
+deployment cost indeed for relatively large scale 
+non residential mega solar projects there are starting 
+cases where deployment costs increase due for instance 
+higher land development cost 
+exhibit 
+cost structure mega solar projects class 
+ancillary facilities 
+power 
+conditioners 
+rack etc 
+land 
+development 
+construction 
+source meti morgan stanley research 
+have calculated solar power capacity 
+based bull and bear scenarios 
+considering the change profitability solar power 
+deployment due the far reaching review the fit system 
+and limits the amount solar power capacity that can 
+accepted the electrical power system generated locally 
+markedly difficult work out estimates for solar power 
+capacity deployment ahead have therefore drawn 
+three scenarios based the following assumptions for the 
+increase capacity deployed flow and the 
+cumulative capacity deployed stock end 
+greatest wildcard non residential solar power 
+capacity deployment forecasts 
+source meti morgan stanley research 
+desigh fee 
+general expenses 
+our market size assessment 
+others 
+module 
+the greatest variable solar power capacity deployment 
+forecasts the extent which non residential solar power 
+projects that have already had fixed purchase prices certified 
+under the current fit system end march 
+corresponding output basis actually 
+live april meti partially changed calculation 
+methods for the renewable energy feed tariff scheme 
+projects unable secure land and facilities within six months 
+obtaining fixed price purchase certification are have their 
+certifications revoked power plants obtaining certification 
+those that have settled either location facilities are 
+likely spared revocation long they secure what 
+missing end august our trial calculations produce 
+different capacity deployment forecasts for bearish and bullish 
+scenarios depending the variable what percentage 
+certified but not yet running projects are cancelled 
+base scenario come with total solar 
+capacity end calculating new residential solar 
+power capacity deployment assume per dwelling for 
+new housing starts not including collective housing 
+when expect purchase prices under the fit 
+system set relatively high level and for from 
+calculating new capacity deployment nonresidential solar power assume that projects that 
+had obtained fixed price purchase certification end march 
+but had not yet entered operation enter 
+operation thus calculate cumulative capacity deployment 
+which household and non household 
+end 
+morgan stanley research 
+july 
+solar power energy storage 
+bull scenario total solar capacity end 
+calculating new residential solar power capacity 
+deployment assume per dwelling for new 
+housing starts not including collective housing 
+when expect purchase prices under the fit system 
+set relatively high level and for from 
+calculating new capacity deployment non residential solar 
+power for this scenario assume that projects that 
+had obtained fixed price purchase certification end march 
+but had not yet entered operation enter 
+operation thus calculate cumulative capacity deployment 
+which household and non household 
+end 
+bear scenario total solar capacity end 
+calculating new residential solar power capacity 
+deployment assume per dwelling for new 
+housing starts not including collective housing 
+when expect purchase prices under the fit system 
+set relatively high level and for from 
+calculating new capacity deployment non residential solar 
+power for this scenario assume that projects that 
+had obtained fixed price purchase certification end march 
+but had not yet entered operation enter 
+operation thus calculate cumulative capacity deployment 
+which household and non household 
+end 
+morgan stanley research 
+july 
+solar power energy storage 
+india 
+and environmental impacts hitherto large chunk the 
+renewable power portfolio has come from wind power 
+plants given grid parity wind power and attractive 
+government policies however with the discontinuation 
+accelerated depreciation benefits and lack good wind 
+sites wind additions have slowed down giving way 
+large scale solar projects over the last years 
+parag gupta 
+satyam thakur 
+solar reaching parity with other 
+generation sources fueling growth but 
+land requirements limiting factor 
+key conclusions 
+solar capital costs have been declining and are 
+approaching levels competitive with other generation 
+types the cost setting solar projects declined 
+from 
+solar power tariffs discovered through 
+competitive bidding have witnessed significant declines 
+well the average solar tariff has fallen from 
+kwh dec kwh the latest round 
+bidding jan this brings the tariffs very close 
+achieving grid parity with gas based electricity which 
+the next costliest source electricity priced around 
+kwh the same time the indian government has 
+begun pursuing further support measures for solar power 
+while the government has attractive incentive plans 
+for promoting solar power and solar tariffs have 
+fallen key challenge remains land while thermal 
+power plants require about acres per solar 
+power plants require over acres per with limited 
+land supply this likely pose formidable challenge 
+for the future solar power india factored land 
+limitations into our sizing the indian solar market 
+energy storage not likely economic india given 
+relatively low grid costs india power grid has been 
+developed lower cost than the and europe 
+and utility rates are much lower india result there 
+would not sufficient savings customers from 
+installing solar power and energy storage customer 
+home business and disconnecting from the grid 
+advantaged from the growth solar power power 
+project developers tata power lanco ntpc 
+reliance power niche renewable players such 
+azure power welspun renewables energy and swelect 
+energy are also likely benefit from the scale solar 
+capacity not believe the growth solar power will 
+disruptive the coal power business given the rapid 
+growth power demand india allows both generation 
+types prosper 
+india comprises our global forecast 
+growth per year driven the 
+near term government initiatives procure solar 
+power and the longer term economics for solar 
+power that approaching parity with other 
+generation sources 
+exhibit 
+expect the share solar power the 
+renewable portfolio rise 
+solar 
+wind 
+others 
+notes 
+the figures the chart above are actual capacities estimated 
+renewables capacity includes wind solar biomass biogas and small hydro capacities 
+morgan stanley research estimates 
+source seci mnre cea ministry power morgan stanley research 
+coal the largest source electricity india but 
+domestic coal production limits growth the last few 
+years several issues have surfaced that have impeded 
+the growth coal capacity predominantly relating 
+difficulties securing environmental clearances and 
+shortfall domestic coal production 
+slowdown hydro and wind power additions 
+favors the growth solar power hydropower capacity 
+constitutes the biggest source power india 
+however growth hydropower capacity has been slow 
+due construction challenges longer gestation periods 
+morgan stanley research 
+july 
+solar power energy storage 
+market size 
+the majority capacity addition india has been through 
+coal fired plants which now comprise the total 
+capacity the country however the last few years 
+several issues have surfaced that have impeded the growth 
+coal capacity predominantly relating difficulties securing 
+environmental clearances and shortfall domestic coal 
+production 
+renewable power the installed base has seen rising 
+investor interest india with the segment growing the 
+fastest pace cagr over the last years albeit over 
+small base 
+exhibit 
+india installed capacity base 
+hydro 
+renewables 
+others 
+nuclear 
+note renewables includes wind solar biomass biogas and small hydro capacities 
+morgan stanley research estimates 
+source cea morgan stanley research 
+exhibit 
+the total installed power capacity india currently stands 
+and power demand growth robust power plant 
+additions grew cagr between 
+while wind has historically been the biggest source 
+renewable growth due lack good wind sites expect 
+significant slowdown new wind development 
+solar power capacity has been rising the 
+renewable segment 
+solar 
+wind 
+others 
+note renewables capacity includes wind solar biomass biogas and small hydro 
+morgan stanley research estimates 
+source mnre cea morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+regulatory dynamics and solar 
+economics 
+ambitious government targets the government india 
+has stated objective increasing the proportion 
+renewable energy whole and solar energy particular 
+india total electricity consumption which 
+implies solar power capacity this 
+target being planned through the jnnsm program 
+while the balance remains unplanned 
+while the government has attractive incentive plans for 
+promoting solar power and solar tariffs have fallen key 
+challenge remains land while thermal power plants require 
+about acres per solar power plants require over 
+acres per with limited land supply this likely pose 
+formidable challenge for the future solar power india 
+given land and technological challenges assume slower 
+solar additions than stated government targets expect 
+solar capacity reach only 
+the indian government has enacted number policies 
+and programs support the growth solar power 
+jnnsm the government has clubbed all solar power 
+capacity addition plans for india under the jawaharlal nehru 
+national solar mission jnnsm program under the 
+program the government planned capacity 
+additions addition and total 
+exhibit the long term target add 
+solar power capacity 
+exhibit 
+jnnsm total solar capacity addition targets 
+segment 
+grid connected power 
+including rooftop 
+off grid applications 
+targets 
+targets 
+iii targets 
+source seci morgan stanley research 
+gbi vgf the government has been providing generationbased incentives gbi earlier for small solar plants and 
+viability gap funding vgf now jnnsm batch 
+ensuring the government bears the burden the difference 
+between the solar power tariffs and assumed grid parity 
+tariff unit this ensures that the power distribution 
+companies the state level not have bear any 
+incremental burden sourcing solar power 
+plants the government has specified these limits solar 
+rpos renewable purchase obligation which keeps 
+increasing annually reach target 
+cerc also announced the renewable energy certificate 
+rec trading scheme under which solar power generator 
+gets opportunity earn certificates for each mwh 
+electricity generated the state discoms can also purchase 
+these solar recs make good their rpo targets 
+net metering policy many state regulators are currently 
+working drafting net metering policies though the state 
+gujarat expected implement its policy soon most states 
+are considering limits how much power can injected 
+back into the system with the sanctioned grid 
+connected load likely decided upon the limit 
+favorable solar resource and improving solar 
+economics the average daily solar radiation received 
+india varies between kwh sqm for most parts india 
+and there are average clear sunny days 
+year thus the country receives about trillion kwh 
+solar energy year which equivalent more than 
+solar power potential the cost setting solar 
+projects declined from 
+though the cost setting solar 
+thermal power projects declined only the same 
+period from exhibit 
+the fall capital cost has come despite depreciation 
+the rupee the dollar the same period lot 
+the solar equipment imported the cost decline has not 
+been significant for solar thermal due project delays which 
+has led cost inflation due higher interest cost incurred 
+during construction 
+exhibit 
+capital cost has come down over the 
+last years 
+solar rpos rec trading the government has mandated 
+obligations each state power distribution company buy 
+certain portion their power requirement from solar power 
+solar 
+solar thermal 
+source cerc morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+levelized cost solar power has been coming off 
+well the reduction capital costs has led fall the 
+price electricity generated from solar power projects the 
+regulated tariff fixed roe based cerc norms for solar 
+projects has fallen from kwh 
+kwh exhibit the regulated tariff for solar 
+thermal projects has fallen from kwh kwh 
+the same period 
+exhibit 
+competitively bid solar power tariffs kwh 
+have trended down well solar 
+max bid 
+average 
+min bid 
+max bid 
+solar power the verge achieving grid parity solar 
+power tariffs discovered through competitive bidding have 
+witnessed significant declines well the average solar 
+tariff bid jnnsm batch was kwh dec 
+this fell kwh jnnsm batch dec 
+and kwh kwh the latest round 
+bidding jnnsm batch jan exhibit this 
+brings the tariffs very close achieving grid parity with gasbased electricity which the next costliest source 
+electricity priced around kwh exhibit 
+interestingly due the paucity domestic natural gas gasfired power plants currently run very low plfs and hence 
+the tariff required run such plants profitably low plfs 
+much higher also while the cost coal based power from 
+operational power plants could range from kwh 
+some the bids floated sebs the recent past have 
+seen tariffs being quoted the range kwh this 
+suggests that solar tariffs are close becoming comparable 
+with other sources fuel 
+exhibit 
+max bid 
+min bid 
+max bid 
+min bid 
+min bid 
+jnnsm 
+batch 
+jnnsm 
+batch 
+state bids 
+jnnsm 
+batch 
+note tariffs for jnnsm batch shown above are vgf payment the government 
+post vgf tariff flat unit for all projects set this batch 
+source cerc seci morgan stanley research 
+exhibit 
+power tariffs generation type kwh 
+regulated solar power tariffs kwh have 
+trended down 
+average 
+hydro 
+solar 
+coal nuclear 
+domestic 
+wind 
+coal 
+gas solar solar 
+imported 
+thermal 
+mbtu 
+note for coal hydro nuclear and wind have estimated the tariff existing plants based 
+current operational parameters for solar have taken the lowest bid tariffs from 
+jnnsm 
+source company data cerc morgan stanley research 
+solar thermal 
+source cerc morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+brazil 
+miguel rodrigues 
+attractive growth potential but high 
+competition with other renewables 
+exhibit 
+brazil less irradiated regions have average level 
+key conclusions 
+brazil comprises our global forecast 
+between and small amount 
+relative larger countries regions brazil has 
+significant potential develop solar energy the 
+country average daily solar irradiation high compared 
+other countries while germany the world leader 
+solar installed capacity has maximum irradiation 
+currently brazil has negligible installed capacity 
+solar representing just the total 
+brazilian power matrix 
+the main reason behind the stagnation solar 
+generation the lack competitiveness due high 
+costs associated with the product especially when 
+compared wind biomass and hydropower only 
+recently solar projects became available the 
+regulated market auctions but under still unattractive 
+conditions compared other renewable sources 
+source aneel inpe morgan stanley research 
+solar energy can developed brazil through new 
+energy auctions distributed generation and see 
+potential for both mechanisms the former involves 
+larger scale projects and was critical for making wind 
+power more competitive brazil the latter just had its 
+regulation defined and benefits from not having 
+transmission costs 
+growth potential the brazilian energy planning body 
+epe expects new auctions contract from 
+solar power between and this represents 
+the additional capacity expected for this period 
+and could attract suppliers brazil similar what 
+happened with the wind segment this possible our 
+view only dedicated auctions and special conditions 
+are created for solar financing conditions tax 
+exemption etc competion with other renewable types 
+would not allow such large amount solar the 
+expansion the electricity matrix the medium term 
+regarding smaller scale distributed generation epe 
+expects installed capacity residential and commercial 
+segments reach 
+energy auctions the path for large scale projects 
+auctions can bring scale and accelerate the expansion 
+wind power brazil the end the auction 
+was the first auction register solar projects but was not 
+attractive the ceiling price mwh the last 
+auction solar projects were registered ceiling price 
+mwh but again these projects were not able 
+compete against the other renewable projects small 
+hydro biomass and wind that were contracted average 
+price mwh shown the exhibit below although 
+the government allowed solar participate recent auctions 
+competition with more competitive sources did not allow the 
+development new solar projects 
+exhibit 
+auction results 
+pow source 
+wind 
+biomass 
+installed 
+capacity 
+assured 
+capacity 
+avg 
+load 
+factor 
+wgt avg 
+price 
+mwh 
+small hydros 
+manoel hydro 
+total 
+source ccee morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+our analysis competitive solar project requires 
+price roughly mwh order achieve minimum 
+equity irr real terms considering that this price 
+level still significantly above other renewable sources 
+large scale solar projects currently depends dedicated 
+auctions specific incentives believe capex would need 
+low mwp make solar competitive 
+wind level that not realistic the short term the main 
+assumptions our analysis are load factor capex 
+mwp iii asset life years ppa duration 
+years contracted the free market mwh during 
+the last five years financing tjlp tax 
+regime lucro presumido which allows the projects benefit 
+from lower tax rates 
+exhibit 
+irr for large scale solar projects 
+capex 
+energy price mwh 
+source morgan stanley research 
+solar power should gain momentum through the 
+development dedicated auctions the state 
+pernambuco was the first promote solar exclusive 
+auction which took place december and contracted 
+start supplying energy mwh 
+the regulated market two auctions should negotiate solar 
+energy auction that should take place 
+september this auction solar energy will negotiated 
+the same category wind energy and the same prices 
+limiting the potential for new projects and reserve auction 
+take place october which will have solar projects 
+registered exclusive category for the first time the 
+regulated market this should allow the development the 
+most competitive projects although details such ceiling 
+prices and bndes financing conditions are not available yet 
+the government expects success contracting solar projects 
+supply energy for period years starting 
+aneel gives solar projects that start operating until dec 
+discount the distribution and transmission tariffs 
+tusd and tust during the plant first years 
+operation being reduced after this period project 
+becomes operational after the mentioned date the discount 
+the tariffs becomes during its whole operation period 
+however financing and taxation are still challenges 
+towards solar generation development since brazil does 
+not have robust and developed solar industry obtaining 
+financing from bndes becomes difficult the development 
+bank requires the project have national inputs terms 
+taxes according rodrigo sauaia president the brazilian 
+association photovoltaic solar energy taxes are 
+responsible for the total production cost required 
+for such activity 
+brazilian energy research company epe expects new 
+auctions contract from solar power between 
+and this represents the additional 
+capacity expected for this period and could attract suppliers 
+brazil like happened with the wind segment the 
+international energy agency iea estimates that the solar 
+electricity will demand investments per year from 
+this suggests that additional 
+solar capacity will added the period which line 
+with the aforementioned scenario from epe that solar would 
+contribute with the capacity expansion brazil over 
+the next years this possible our view only dedicated 
+auctions and special conditions are created for solar 
+financing conditions tax exemption etc competion with 
+other renewable would not allow such large amount solar 
+the electricity matrix the medium term 
+exhibit 
+epe expects new auctions contract from 
+which implies that solar would contribute 
+with the capacity expansion brazil 
+installed solar power brazil under different 
+weights the national capacity expansion 
+the brazilian government offers series incentives for 
+renewables expansion order enhance the 
+diversification the brazilian energy matrix however these 
+incentives have not been sufficient order transform solar 
+projects into competitive source brazil the majority 
+these incentives are also available wind small hydroelectric 
+and biomass sources which are relatively more competitive 
+source epe morgan stanley research 
+morgan stanley research 
+july 
+solar power energy storage 
+distributed generation 
+regulation for distributed generation was only defined 
+brazil distributed generation consists the 
+generation energy the final consumer which can 
+connected directly indirectly the grid this system 
+consumer that has photovoltaic other renewable driven 
+plant his residence might sell the excess energy back 
+the grid monetary transaction occurs brazil instead 
+the consumer earns energy credits that can used reduce 
+its bill the following months this was defined april 
+concepts micro and mini generation distributed generation 
+and created the energy compensation system net metering 
+the net metering system allows the consumer with small 
+sized plant that uses renewable sources sell the 
+excess energy its distribution company for the same tariff 
+would charge him minus the taxes 
+the improvement energy taxation could accelerate the 
+development distributed energy the challenge this 
+case lies the fact that the legislation should adjusted 
+each state involves icms taxes the state minas 
+gerais has already adjusted its taxation favor this 
+mechanism and combined with the relatively high irradiation 
+should put the state the forefront the distributed 
+generation development the equipment side there 
+national resolution from confaz that foresees exemption 
+icms and ipi the photovoltaic module some states are 
+considering the extension this benefit for other 
+components sauaia states that both distributed 
+generation and centralized generation large projects are 
+heavily affected taxation believes that the excess 
+energy that might traded with the grid still discounted 
+taxes that can reach the value per kwh 
+epe expects installed capacity residential and 
+commercial segments reach gwp although 
+this may look conservative considering that implies 
+penetration less than the residential and consumer 
+segments this could prove realistic the proposed timeframe the power will not yet economically viable for 
+several regions what should happen gradually over the next 
+years 
+exhibit 
+epe expects solar installed capacity residential 
+and commercial segments reach gwp 
+installed capacity mwp 
+source epe morgan stanley research 
+distributed generation offers clear benefits for the 
+system our view the key benefits are environmental 
+impact reduces the requirement invest generation 
+projects with higher environmental impact does not 
+require transmission investments significant cost when 
+consider that large portion the wind and hydropower 
+potential brazil distant from the consumption centers iii 
+lower energy losses the transmission and distribution 
+electricity once viable from economic point view the 
+benefits are clear and the growth potential 
+expect distributed generation become more 
+attractive after compared average tariffs the 
+southeast region depending the distribution 
+concession area the development already close 
+breakeven the next exhibit shows our assessment 
+distributed generation competitiveness the southeast 
+region the estimated system cost brazil which includes 
+the installation and required components ranges from 
+watt watt and depends heavily the size and 
+morgan stanley research 
+july 
+solar power energy storage 
+consumption levels the client our analysis assume 
+average system cost for watt with 
+decline rate year other key assumptions are asset 
+life year overhaul investment original 
+capex the year iii annual cost 
+original capex weighted average utilities tariffs the 
+southeast region note the economic feasibility 
+this power source very sensitive the solar irradiation level 
+and tariff the utility the specific concession area this 
+means that specific site could already viable while others 
+may not viable even after significant reduction the 
+development costs 
+exhibit 
+expect distributed generation become 
+viable after further reduction costs achieved 
+brazilian southeast region competitiveness 
+key players 
+cpfl renovaveis inaugurated the project 
+tanquinhos operational solar power plant 
+the state paulo the company believes that solar 
+energy will has promising outlook although still requires 
+special attention become feasible the company has 
+registered the last auction which took place 
+dec but known company managed sell solar 
+contracts solar was being negotiated the same category 
+more competitive renewable sources wind currently 
+cpfl renov veis only develops large scale solar projects 
+while cpfl servi subsidiary cpfl energia 
+responsible for distributed generation 
+eletrobras inaugurated its first commercial solar 
+project through its subsidiary eletrosul which installed 
+photovoltaic modules its headquarters the amount 
+generated will produce enough energy supply 
+residences and has installed capacity the 
+company aims negotiate year with this project 
+eletrosul played important role the expansion wind 
+segment 
+kwh 
+development cost solar 
+distributed generation lcoe 
+utility rate breakeven for solar 
+power development 
+max 
+average 
+min 
+source aneel epe ccee inpe morgan stanley research 
+storage does not seem viable brazil due taxes and 
+high battery costs all energy exported the grid taxable 
+and given that the pricing energy export cannot made 
+hourly basis benefiting from peak hours this reduces 
+the potential benefit storage storage would help 
+export the higher prices time but this not possible the 
+current regulation also storage does not make sense 
+considering that the customer payments for the minimum 
+consumption level are far lower than the cost storage 
+system the availability cost calculated multiplying fixed 
+value consumption which depends the connection type 
+number conductors consumer and his electricity bill 
+these values are for consumers with one conductor 
+mono phasic and for consumers with two 
+three conductors respectively and tri phasic storage 
+seems make sense currently only for those who are located 
+areas poor quality services and cannot exposed 
+disruptions supply 
+renova the company has currently more than 
+ten distributed generation solar projects and recently 
+announced the construction its solar power plant which will 
+hybrid project alongside wind farm the company sees 
+the government efforts enable solar generation brazil 
+quite positive and exclusive auctions will key organize 
+the sector and nationalize the production the equipments 
+facilitating access bndes financing the company plans 
+register the upcoming reserve auction but 
+believes that solar could reach wind power competitiveness 
+about years 
+tractebel the company has under construction the 
+cidade azul photovoltaic solar project brazil which the 
+largest the country with installed capacity 
+addition tractebel has been developing few solar trial 
+modules set different locations brazil the 
+trial goal according the company assess the solar 
+generation potential brazil and identify the most appropriate 
+technologies matching the climate conditions for several 
+regions total expected investment 
+morgan stanley research 
+july 
+solar power energy storage 
+exhibit 
+brazilian electricity matrix snapshot 
+brazilian installed capacity projections 
+currently brazil has installed capacity and 
+relies heavily hydro generation with its 
+installed capacity from hydro plants the high weight hydro 
+the matrix has been the main driver low short term prices 
+for long period due low variable costs fuel required 
+and low thermal plants brazil are considered 
+support source helping complement energy generation 
+hydro and other sources nevertheless has also been 
+important concern during bad hydrology periods like 
+and when the deterioration reservoir levels has 
+significantly increased the rationing risk 
+source epe morgan stanley research 
+exhibit 
+exhibit 
+brazil currently relies heavily hydro sources 
+installed capacity mwp 
+supply and demand balance brazil 
+hydro 
+demand including losses 
+nuclear 
+renewables 
+thermal 
+supply 
+reserve margin 
+hydro 
+thermal 
+biomass 
+wind 
+nuclear 
+photovoltaic inst cap 
+june 
+source epe morgan stanley research 
+source aneel morgan stanley research 
+renewables energy sources should represent growing 
+share brazil energy supply given their relatively low 
+environmental hurdles and easier approval compared large 
+hydro thermal plants government energy plans pde 
+estimate installed capacity cagr 
+with outsized contribution from renewables cagr 
+morgan stanley research 
+july 
+solar power energy storage 
+morgan stanley blue papers 
+morgan stanley blue papers address long term structural business changes that are reshaping the fundamentals entire 
+economies and industries around the globe analysts economists and strategists our global research network collaborate the 
+blue papers adder critical themes that require coordinated perspective across regions sectors asset classes 
+recently published blue papers 
+the internet things 
+now 
+connecting the real 
+economy 
+april 
+medtech printing 
+solution for innovation 
+july 
+wholesale investment 
+banking outlook 
+mis allocated resources 
+why banks need 
+optimise now 
+march 
+commercial aviation 
+renewed lease life 
+july 
+contagem 
+could worse than the 
+for 
+march 
+emerging markets 
+what the tide goes out 
+june 
+mobile payments 
+the coming battle for the 
+wallet 
+january 
+japan and south korea 
+the yen tide does not lift 
+all boats 
+may 
+autonomous cars 
+self driving the new auto 
+industry paradigm 
+november 
+global steel 
+steeling for oversupply 
+may 
+global asset managers 
+great rotation probably 
+not 
+october 
+manufacturing 
+renaissance 
+masterpiece 
+head fake 
+april 
+capital goods 
+printing 
+don believe all the 
+hype 
+september 
+natural gas 
+transportation fuel 
+energy market wild card 
+april 
+morgan stanley research 
+july 
+solar power energy storage 
+global semiconductors 
+chipping away returns 
+april 
+wholesale investment 
+banking outlook 
+global banking fractures 
+the implications 
+april 
+social gambling 
+click here play 
+november 
+key secular themes 
+any 
+monetizing big data 
+september 
+releasing the pressure 
+from low yields 
+should insurers consider 
+risking investments 
+march 
+chemicals 
+green good the 
+potential bioplastics 
+august 
+global autos 
+clash the titans the 
+race for global leadership 
+january 
+medtech services 
+emerging markets searching 
+for growth 
+august 
+big subsea opportunity 
+deep dive 
+january 
+commercial aviation 
+navigating new flight path 
+june 
+ecommerce disruption 
+global theme 
+transforming traditional 
+retail 
+january 
+mobile data wave 
+who dares invest wins 
+june 
+china robotics 
+automation for the people 
+december 
+global auto scenarios 
+disruption and opportunity 
+starts now 
+june 
+global emerging market 
+banks 
+track for growth 
+november 
+tablet landscape evolution 
+window opportunity 
+may 
+morgan stanley research 
+july 
+solar power energy storage 
+financials cre funding 
+shift 
+shakes selectively 
+takes 
+may 
+china high speed rail 
+the economic fast track 
+may 
+the china files 
+the logistics journey 
+just beginning 
+april 
+asian inflation 
+consumers adjust inflation 
+worsens 
+march 
+solvency 
+the long and winding 
+road 
+march 
+wholesale investment 
+banking 
+reshaping the model 
+march 
+wholesale investment 
+banking outlook 
+decision time for 
+wholesale banks 
+march 
+global gas 
+decade two halves 
+march 
+banks deleveraging and 
+real estate 
+implication financing gap 
+march 
+tablet demand and 
+disruption 
+mobile users come age 
+february 
+the china files 
+china appetite for protein 
+turns global 
+october 
+the china files 
+chinese economy through 
+november 
+the healthcare 
+formula 
+cost control and true 
+innovation 
+june 
+the china files 
+asian corporates china 
+megatransition 
+november 
+cloud computing takes 
+off 
+market set boom 
+migration accelerates 
+may 
+the china files 
+european corporates 
+china megatransition 
+october 
+morgan stanley research 
+july 
+solar power energy storage 
+petrochemicals 
+preparing for supercycle 
+october 
+solvency 
+quantitative strategic 
+impact the tide going 
+out 
+september 
+the china files 
+corporates and china 
+megatransition 
+september 
+brazil infrastructure 
+paving the way 
+may 
+morgan stanley research 
+july 
+solar power energy storage 
+morgan stanley international plc morgan stanley acting financial advisor certain entities the letterone group companies and 
+their affiliates relation the proposed acquisition rwe dea from rwe announced march morgan stanley expects 
+fees paid for its financial services please refer the notes the end the report 
+morgan stanley research 
+july 
+solar power energy storage 
+disclosure section 
+the information and opinions morgan stanley research were prepared morgan stanley llc and morgan stanley 
+and morgan stanley mexico casa bolsa and morgan stanley canada limited used this disclosure section morgan 
+stanley includes morgan stanley llc morgan stanley morgan stanley mexico casa bolsa morgan stanley 
+canada limited and their affiliates necessary 
+for important disclosures stock price charts and equity rating histories regarding companies that are the subject this report please see the 
+morgan stanley research disclosure website morganstanley researchdisclosures contact your investment representative 
+morgan stanley research broadway attention research management new york usa 
+for valuation methodology and risks associated with any price targets referenced this research report please contact the client support team 
+follows canada hong kong latin america london 
+singapore sydney tokyo alternatively you may contact your investment representative 
+morgan stanley research broadway attention research management new york usa 
+analyst certification 
+the following analysts hereby certify that their views about the companies and their securities discussed this report are accurately expressed and 
+that they have not received and will not receive direct indirect compensation exchange for expressing specific recommendations views 
+this report stephen byrd 
+unless otherwise stated the individuals listed the cover page this report are research analysts 
+global research conflict management policy 
+morgan stanley research has been published accordance with our conflict management policy which available 
+morganstanley institutional research conflictpolicies 
+important regulatory disclosures subject companies 
+the following analyst strategist household member owns securities related derivatives company that she covers 
+recommends morgan stanley research vinay jaising reliance industries common preferred stock 
+june morgan stanley beneficially owned more class common equity securities the following companies covered 
+morgan stanley research kyocera nrg yield inc rwe sempra energy solarcity corp sunedison inc tesla motors inc 
+within the last months morgan stanley managed managed public offering offering securities edison international enel 
+mitsubishi electric nrg energy inc nrg yield inc corp sempra energy sharp sse tesla motors inc 
+within the last months morgan stanley has received compensation for investment banking services from edison international enel 
+mitsubishi electric nrg energy inc panasonic corp reliance industries sempra energy sharp sse tesla motors inc 
+the next months morgan stanley expects receive intends seek compensation for investment banking services from centrica 
+edison international enel first solar inc gcl poly energy gdf suez hawaiian electric industries inc kyocera lanco infratech ltd 
+mitsubishi electric nrg energy inc oci panasonic corp pinnacle west capital corp reliance industries rwe sempra energy 
+sharp solarcity corp sse sunedison inc tata power tesla motors inc toshiba trina solar wacker chemie 
+within the last months morgan stanley has received compensation for products and services other than investment banking services from 
+centrica edison international enel first solar inc gcl poly energy gdf suez hawaiian electric industries inc kyocera nrg energy 
+inc panasonic corp pinnacle west capital corp reliance industries rwe sempra energy sharp sse toshiba yingli green 
+energy 
+within the last months morgan stanley has provided providing investment banking services has investment banking client 
+relationship with the following company centrica edison international enel first solar inc gcl poly energy gdf suez hawaiian 
+electric industries inc kyocera lanco infratech ltd mitsubishi electric nrg energy inc nrg yield inc oci panasonic corp 
+pinnacle west capital corp reliance industries rwe sempra energy sharp solarcity corp sse sunedison inc tata power tesla 
+motors inc toshiba trina solar wacker chemie 
+within the last months morgan stanley has either provided providing non investment banking securities related services and the 
+past has entered into agreement provide services has client relationship with the following company centrica edison international 
+enel first solar inc gcl poly energy gdf suez hawaiian electric industries inc kyocera mitsubishi electric nrg energy inc panasonic 
+corp pinnacle west capital corp reliance industries rwe sempra energy sharp solarcity corp sse tata power tesla 
+motors inc toshiba yingli green energy 
+morgan stanley llc makes market the securities edison international enel first solar inc gannett inc hawaiian electric 
+industries inc jinkosolar holding ltd kyocera nrg energy inc nrg yield inc corp pinnacle west capital corp sempra energy 
+solarcity corp sunedison inc tesla motors inc trina solar 
+the equity research analysts strategists principally responsible for the preparation morgan stanley research have received compensation 
+based upon various factors including quality research investor client feedback stock picking competitive factors firm revenues and overall 
+investment banking revenues 
+morgan stanley and its affiliates business that relates companies instruments covered morgan stanley research including market making 
+providing liquidity and specialized trading risk arbitrage and other proprietary trading fund management commercial banking extension credit 
+investment services and investment banking morgan stanley sells and buys from customers the securities instruments companies covered 
+morgan stanley research principal basis morgan stanley may have position the debt the company instruments discussed this 
+report 
+certain disclosures listed above are also for compliance with applicable regulations non jurisdictions 
+stock ratings 
+morgan stanley uses relative rating system using terms such overweight equal weight not rated underweight see definitions below 
+morgan stanley does not assign ratings buy hold sell the stocks cover overweight equal weight not rated and underweight are not 
+the equivalent buy hold and sell investors should carefully read the definitions all ratings used morgan stanley research addition since 
+morgan stanley research contains more complete information concerning the analyst views investors should carefully read morgan stanley 
+research its entirety and not infer the contents from the rating alone any case ratings research should not used relied upon 
+investment advice investor decision buy sell stock should depend individual circumstances such the investor existing holdings 
+and other considerations 
+morgan stanley research 
+july 
+solar power energy storage 
+global stock ratings distribution 
+june 
+for disclosure purposes only accordance with nasd and nyse requirements include the category headings buy hold and sell 
+alongside our ratings overweight equal weight not rated and underweight morgan stanley does not assign ratings buy hold sell the 
+stocks cover overweight equal weight not rated and underweight are not the equivalent buy hold and sell but represent recommended 
+relative weightings see definitions below satisfy regulatory requirements correspond overweight our most positive stock rating with buy 
+recommendation correspond equal weight and not rated hold and underweight sell recommendations respectively 
+stock rating category 
+coverage universe 
+investment banking clients ibc 
+rating 
+count 
+count total ibc category 
+total 
+overweight buy 
+equal weight hold 
+not rated hold 
+underweight sell 
+total 
+data include common stock and adrs currently assigned ratings investment banking clients are companies from whom morgan stanley received 
+investment banking compensation the last months 
+analyst stock ratings 
+overweight the stock total return expected exceed the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+equal weight the stock total return expected line with the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+not rated currently the analyst does not have adequate conviction about the stock total return relative the average total return the 
+analyst industry industry team coverage universe risk adjusted basis over the next months 
+underweight the stock total return expected below the average total return the analyst industry industry team coverage 
+universe risk adjusted basis over the next months 
+unless otherwise specified the time frame for price targets included morgan stanley research months 
+analyst industry views 
+attractive the analyst expects the performance his her industry coverage universe over the next months attractive the 
+relevant broad market benchmark indicated below 
+line the analyst expects the performance his her industry coverage universe over the next months line with the relevant 
+broad market benchmark indicated below 
+cautious the analyst views the performance his her industry coverage universe over the next months with caution the relevant 
+broad market benchmark indicated below 
+benchmarks for each region are follows north america latin america relevant msci country index msci latin america index 
+europe msci europe japan topix asia relevant msci country index msci sub regional index msci asia pacific japan index 
+important disclosures for morgan stanley smith barney llc customers 
+important disclosures regarding the relationship between the companies that are the subject morgan stanley research and morgan stanley smith barney llc 
+morgan stanley any their affiliates are available the morgan stanley wealth management disclosure website 
+morganstanley online researchdisclosures for morgan stanley specific disclosures you may refer morganstanley researchdisclosures 
+each morgan stanley equity research report reviewed and approved behalf morgan stanley smith barney llc this review and approval conducted the 
+same person who reviews the equity research report behalf morgan stanley this could create conflict interest 
+other important disclosures 
+morgan stanley international plc and its affiliates have significant financial interest the debt securities centrica edison international enel first 
+solar inc gannett inc gdf suez hawaiian electric industries inc mitsubishi electric nrg energy inc panasonic corp reliance industries rwe 
+sempra energy sharp sse tesla motors inc toshiba 
+morgan stanley not acting municipal advisor and the opinions views contained herein are not intended and not constitute advice within the meaning 
+section the dodd frank wall street reform and consumer protection act 
+morgan stanley produces equity research product called tactical idea views contained tactical idea particular stock may contrary the 
+recommendations views expressed research the same stock this may the result differing time horizons methodologies market events other factors 
+for all research available particular stock please contact your sales representative matrix http morganstanley matrix 
+morgan stanley research provided our clients through our proprietary research portal matrix and also distributed electronically morgan stanley clients 
+certain but not all morgan stanley research products are also made available clients through third party vendors redistributed clients through alternate 
+electronic means convenience for access all available morgan stanley research please contact your sales representative matrix 
+http morganstanley matrix 
+any access and use morgan stanley research subject morgan stanley terms use http morganstanley terms accessing and 
+using morgan stanley research you are indicating that you have read and agree bound our terms use http morganstanley terms 
+addition you consent morgan stanley processing your personal data and using cookies accordance with our privacy policy and our global cookies policy 
+http morganstanley privacy_pledge including for the purposes setting your preferences and collect readership data that can deliver better 
+and more personalized service and products you find out more information about how morgan stanley processes personal data how use cookies and how 
+reject cookies see our privacy policy and our global cookies policy http morganstanley privacy_pledge 
+you not agree our terms use and you not wish provide your consent morgan stanley processing your personal data using cookies please 
+not access our research 
+the recommendations miguel rodrigues this report reflect solely and exclusively the analyst personal views and have been developed independently including 
+from the institution for which the analyst works 
+morgan stanley research does not provide individually tailored investment advice morgan stanley research has been prepared without regard the circumstances 
+and objectives those who receive morgan stanley recommends that investors independently evaluate particular investments and strategies and encourages 
+investors seek the advice financial adviser the appropriateness investment strategy will depend investor circumstances and objectives the 
+securities instruments strategies discussed morgan stanley research may not suitable for all investors and certain investors may not eligible purchase 
+participate some all them morgan stanley research not offer buy sell the solicitation offer buy sell any security instrument 
+participate any particular trading strategy the value and income from your investments may vary because changes interest rates foreign exchange rates 
+default rates prepayment rates securities instruments prices market indexes operational financial conditions companies other factors there may time 
+morgan stanley research 
+july 
+solar power energy storage 
+limitations the exercise options other rights securities instruments transactions past performance not necessarily guide future performance estimates 
+future performance are based assumptions that may not realized provided and unless otherwise stated the closing price the cover page that the 
+primary exchange for the subject company securities instruments 
+the fixed income research analysts strategists economists principally responsible for the preparation morgan stanley research have received compensation based 
+upon various factors including quality accuracy and value research firm profitability revenues which include fixed income trading and capital markets profitability 
+revenues client feedback and competitive factors fixed income research analysts strategists economists compensation not linked investment banking 
+capital markets transactions performed morgan stanley the profitability revenues particular trading desks 
+the important regulatory disclosures subject companies section morgan stanley research lists all companies mentioned where morgan stanley owns 
+more class common equity securities the companies for all other companies mentioned morgan stanley research morgan stanley may have 
+investment less than securities instruments derivatives securities instruments companies and may trade them ways different from those discussed 
+morgan stanley research employees morgan stanley not involved the preparation morgan stanley research may have investments securities instruments 
+derivatives securities instruments companies mentioned and may trade them ways different from those discussed morgan stanley research derivatives may 
+issued morgan stanley associated persons 
+with the exception information regarding morgan stanley morgan stanley research based public information morgan stanley makes every effort use reliable 
+comprehensive information but make representation that accurate complete have obligation tell you when opinions information morgan 
+stanley research change apart from when intend discontinue equity research coverage subject company facts and views presented morgan stanley 
+research have not been reviewed and may not reflect information known professionals other morgan stanley business areas including investment banking 
+personnel 
+morgan stanley research personnel may participate company events such site visits and are generally prohibited from accepting payment the company 
+associated expenses unless pre approved authorized members research management 
+morgan stanley may make investment decisions take proprietary positions that are inconsistent with the recommendations views this report 
+our readers taiwan information securities instruments that trade taiwan distributed morgan stanley taiwan limited mstl such information for 
+your reference only the reader should independently evaluate the investment risks and solely responsible for their investment decisions morgan stanley research 
+may not distributed the public media quoted used the public media without the express written consent morgan stanley information 
+securities instruments that not trade taiwan for informational purposes only and not construed recommendation solicitation trade such 
+securities instruments mstl may not execute transactions for clients these securities instruments our readers hong kong information distributed hong 
+kong and behalf and attributable morgan stanley asia limited part its regulated activities hong kong you have any queries concerning morgan 
+stanley research please contact our hong kong sales representatives 
+morgan stanley not incorporated under prc law and the research relation this report conducted outside the prc morgan stanley research does not 
+constitute offer sell the solicitation offer buy any securities the prc prc investors shall have the relevant qualifications invest such securities 
+and shall responsible for obtaining all relevant approvals licenses verifications and registrations from the relevant governmental authorities themselves 
+morgan stanley research disseminated brazil morgan stanley japan morgan stanley mufg securities ltd and for commodities 
+related research reports only morgan stanley capital group japan ltd hong kong morgan stanley asia limited which accepts responsibility for its contents 
+and bank morgan stanley hong kong branch singapore morgan stanley asia singapore pte registration number and morgan stanley 
+asia singapore securities pte ltd registration number regulated the monetary authority singapore which accepts legal responsibility for its 
+contents and should contacted with respect any matters arising from connection with morgan stanley research and bank morgan stanley singapore 
+branch registration number australia wholesale clients within the meaning the australian corporations act morgan stanley australia limited 
+holder australian financial services license which accepts responsibility for its contents australia wholesale clients and 
+retail clients within the meaning the australian corporations act morgan stanley wealth management australia pty ltd holder 
+australian financial services license which accepts responsibility for its contents korea morgan stanley international plc seoul branch india 
+morgan stanley india company private limited indonesia morgan stanley asia indonesia canada morgan stanley canada limited which has 
+approved and takes responsibility for its contents canada germany morgan stanley bank frankfurt main and morgan stanley private wealth 
+management limited niederlassung deutschland regulated bundesanstalt fuer finanzdienstleistungsaufsicht bafin spain morgan stanley 
+morgan stanley group company which supervised the spanish securities markets commission cnmv and states that morgan stanley research has been written 
+and distributed accordance with the rules conduct applicable financial research established under spanish regulations the morgan stanley llc 
+which accepts responsibility for its contents morgan stanley international plc authorized the prudential regulatory authority and regulated the financial 
+conduct authority and the prudential regulatory authority disseminates the research that has prepared and approves solely for the purposes section 
+the financial services and markets act research which has been prepared any its affiliates morgan stanley private wealth management limited authorized 
+and regulated the financial conduct authority also disseminates morgan stanley research the private investors should obtain the advice their morgan 
+stanley international plc morgan stanley private wealth management representative about the investments concerned rmb morgan stanley proprietary 
+limited member the jse limited and regulated the financial services board south africa rmb morgan stanley proprietary limited joint venture 
+owned equally morgan stanley international holdings inc and rmb investment advisory proprietary limited which wholly owned firstrand limited 
+firstrand limited and rand merchant bank division firstrand limited may presently hold more class common equity securities any companies 
+covered this report this may include holding net long short position million more debt securities within the last months firstrand limited may 
+have managed public offering received compensation for investment services services other than investment services expects receive intends seek 
+compensation for investment services not disclosed this report additionally firstrand limited does make market securities acts corporate broker not 
+disclosed this report firstrand limited directors officers employees may the extent permitted law own have position the securities any 
+company related company referred herein and may add dispose any such position may make market act principle any transaction such 
+securities financial instruments directors firstrand limited may also directors any the companies mentioned this report firstrand limited may from 
+time time provide solicit investment banking underwriting other financial services for from any company referred herein firstrand limited its 
+directors officers employees may the extent permitted law act upon use the information opinions presented herein research analysis which they 
+are based prior the material being published firstrand limited may have issued may the future issue other advice which inconsistent with and reaches 
+different conclusions from the information presented this report 
+the information morgan stanley research being communicated morgan stanley international plc difc branch regulated the dubai financial services 
+authority the dfsa and directed professional clients only defined the dfsa the financial products financial services which this research relates will 
+only made available customer who are satisfied meets the regulatory criteria professional client 
+the information morgan stanley research being communicated morgan stanley international plc qfc branch regulated the qatar financial centre 
+regulatory authority the qfcra and directed business customers and market counterparties only and not intended for retail customers defined the 
+qfcra 
+required the capital markets board turkey investment information comments and recommendations stated here are not within the scope investment 
+advisory activity investment advisory service provided exclusively persons based their risk and income preferences the authorized firms comments and 
+recommendations stated here are general nature these opinions may not fit your financial status risk and return preferences for this reason make 
+investment decision relying solely this information stated here may not bring about outcomes that fit your expectations 
+the trademarks and service marks contained morgan stanley research are the property their respective owners third party data providers make warranties 
+representations relating the accuracy completeness timeliness the data they provide and shall not have liability for any damages relating such data the 
+global industry classification standard gics was developed and the exclusive property msci and morgan stanley research portions may not 
+reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley research any portion thereof may not reprinted sold redistributed without the written consent morgan stanley 
+morgan stanley research 
+morgan stanley blue paper 
+the americas 
+broadway 
+new york 
+united states 
+tel 
+ticker 
+aby 
+cna 
+fslr 
+pnw 
+eongy 
+rweg 
+jks 
+nep 
+scty 
+swelectes 
+terp 
+tsl 
+yge 
+gci 
+eix 
+enel 
+gsz 
+lain 
+nrg 
+nyld 
+ntpc 
+pcg 
+reli 
+sre 
+sse 
+sune 
+ttpw 
+tsla 
+wgsr 
+wchg 
+oci 
+europe 
+bank street canary wharf 
+london 
+united kingdom 
+tel 
+company 
+abengoa yield plc 
+centrica plc 
+first solar inc 
+kyocera corp 
+panasonic corp 
+pinnacle west capital corp 
+sharp corp 
+rwe 
+china singyes solar technologies holdings ltd 
+gcl poly energy holdings ltd 
+hawaiian electric industries inc 
+jinkosolar holding ltd 
+nextera energy partners 
+renova energia 
+solarcity corp 
+swelect energy systems ltd 
+terraform power inc 
+trina solar ltd 
+xinyi solar holdings ltd 
+yingli green energy holding company ltd 
+gannett inc 
+cpfl energias renovaveis 
+edison international 
+enel spa 
+gdf suez 
+lanco infratech ltd 
+mitsubishi electric corp 
+nrg energy inc 
+nrg yield inc 
+ntpc ltd 
+corp 
+reliance industries ltd 
+sempra energy 
+seventy seven energy inc 
+sunedison inc 
+tata power company ltd 
+tesla motors inc 
+toshiba corp 
+welspun corp ltd 
+centrais eletricas brasileiras eletrobras 
+wacker chemie 
+oci 
+morgan stanley 
+japan 
+ebisu shibuya 
+tokyo 
+japan 
+tel 
+close price 
+asia pacific 
+austin road west 
+kowloon 
+hong kong 
+tel 
+usd 
+bpn 
+usd 
+jpy 
+jpy 
+usd 
+jpy 
+usd 
+eur 
+hkd 
+hkd 
+usd 
+usd 
+usd 
+brl 
+usd 
+inr 
+usd 
+usd 
+hkd 
+usd 
+usd 
+brl 
+usd 
+eur 
+eur 
+inr 
+jpy 
+usd 
+usd 
+inr 
+usd 
+inr 
+usd 
+usd 
+usd 
+inr 
+usd 
+jpy 
+inr 
+brl 
+eur 
+eur 
